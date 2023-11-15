@@ -1,0 +1,1 @@
+Java,SQL,automated testing,ecommerce,secure payments,Python,NoSQL,Error tracking,debugging

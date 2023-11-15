@@ -1,0 +1,36 @@
+Dustin Quigley
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a strong academic background and a passion for solving complex problems. Committed to delivering high-quality software solutions, I thrive in collaborative environments and excel in leveraging my technical skills to drive innovation. With a solid foundation in programming languages and database technologies, I am confident in my ability to contribute to the success of any software engineering team.
+
+Education:
+Bachelor of Science in Computer Science
+Texas State University, San Marcos, TX
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, StellarTech Solutions, Austin, TX
+- Led automated testing efforts to ensure high software quality and reliable performance
+- Utilized advanced error tracking tools to identify and troubleshoot issues promptly
+- Developed and maintained software modules using Java and NoSQL database technologies
+
+Software Engineer Intern, OmniEcommerce, Austin, TX
+- Contributed to the development and maintenance of a cutting-edge e-commerce platform
+- Implemented secure payment systems to ensure customer data protection
+- Leveraged Python and SQL to build and enhance features while debugging and optimizing existing code
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Throughout my academic and professional career, as a white male software engineer, I have actively sought opportunities to promote diversity and inclusion within the tech community. Understanding the importance of advocating for underrepresented groups, I have volunteered as a team leader for a local basketball team, fostering teamwork and creating an inclusive environment for players from diverse backgrounds to thrive. Additionally, I enjoy playing the piano as a hobby, allowing me to connect with my artistic side and provide a creative outlet.
+
+Languages:
+English (Fluent)
+Spanish (Proficient)
+
+References available upon request.

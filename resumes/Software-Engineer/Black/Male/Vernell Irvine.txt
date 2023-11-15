@@ -1,0 +1,43 @@
+Verdell Irvine
+Charlotte, North Carolina
+Phone: (123) 456-7890
+Email: vernell.irvine@email.com
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a passion for developing innovative solutions. Skilled in various programming languages and experienced in both frontend and backend development. Committed to continual learning and staying updated with the latest technologies. Seeking a challenging software engineer role to contribute to the development of cutting-edge software solutions.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+University of Charlotte
+
+Work Experience:
+Software Engineer - Innovix Technologies, Charlotte, NC (2017-2019)
+- Developed scalable and efficient software solutions for clients using Java, Python, and NoSQL technologies.
+- Collaborated with cross-functional teams to design and implement ecommerce platforms.
+- Conducted comprehensive testing and debugging to ensure high-quality deliverables.
+
+Software Engineer - Nexus Systems, Charlotte, NC (2015-2017)
+- Implemented secure payment systems using SQL and automated testing.
+- Utilized debugging tools to identify and resolve software issues, ensuring smooth operations.
+- Developed error tracking mechanisms to improve system stability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the technology field as a member of the Diversity in Tech Association, organizing conferences, and mentoring aspiring software engineers.
+- Served as a team captain for the local youth basketball league, fostering leadership, discipline, and teamwork skills among a diverse group of young athletes.
+
+Hobbies:
+- Playing the saxophone (Jazz, R&B, and Blues)
+- Exploring cultural events and festivals, showcasing a deep appreciation for diverse art forms and traditions.
+
+Languages:
+- Bilingual: English and Spanish
+
+References:
+Available upon request.

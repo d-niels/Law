@@ -1,0 +1,30 @@
+Personal Statement:
+I am a highly motivated and skilled software engineer with a passion for problem-solving and creating innovative solutions. By combining my strong educational background in computer science with practical experience in software development, I am confident in my ability to excel in the role of a software engineer. My diverse skills and dedication make me an asset to any team.
+
+Education:
+Bachelor of Science in Computer Science, Texas A&M University, Houston, Texas, GPA: 3.9
+
+Work Experience:
+Software Engineer Intern, Stellar Softwares, Houston, Texas
+- Collaborated with a team of developers to implement error tracking and secure payment systems in web applications
+- Utilized Python and SQL to develop and maintain efficient backend systems for seamless data processing
+- Contributed to the design and implementation of various features, ensuring top-notch quality and efficiency in the codebase
+
+Software Developer, Tech Innovators, Houston, Texas
+- Designed and developed cutting-edge ecommerce systems using NoSQL databases for enhanced scalability and performance
+- Successfully debugged and resolved complex issues, significantly improving overall system stability
+- Implemented automated testing frameworks to streamline QA processes and ensure reliability in software products
+- Utilized Java for both front-end and back-end development, creating intuitive interfaces and efficient algorithms
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As an Indian female, I actively promote diversity and inclusion within the software engineering field. I am an advocate for women in tech and have taken on leadership roles in organizations such as Women in Computing. Additionally, I serve as a captain for a women's basketball team, fostering teamwork, promoting physical fitness, and leading by example.
+
+Hobbies:
+In my free time, I enjoy playing the tabla, a traditional Indian percussion instrument, which allows me to connect with my cultural heritage and express my creativity. I am also a polyglot, fluent in English, Hindi, and Urdu, which enables me to communicate effectively with diverse teams and embrace different perspectives.

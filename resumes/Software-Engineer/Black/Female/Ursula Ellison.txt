@@ -1,0 +1,45 @@
+URSULA ELLISON
+
+Personal Statement:
+A dedicated and driven software engineer with a passion for developing innovative solutions. With a strong educational background in Computer Science and solid experience in building secure payments and ecommerce systems, I am committed to creating high-quality software solutions that meet client needs. As a black female professional, I am determined to promote diversity and advocate for inclusion in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Washington Tech University, Washington, District of Columbia
+- Graduated with a 3.9 GPA
+- Relevant coursework: Data Structures, Algorithms, Software Design, Web Development
+
+Work Experience:
+Software Engineer, Stellar Solutions, Washington, District of Columbia
+- Implemented secure payment systems and integrated third-party APIs for multiple ecommerce platforms using Python
+- Conducted automated testing to ensure system reliability and mitigate potential vulnerabilities
+- Collaborated with a cross-functional team to develop solutions, troubleshoot issues, and enhance overall system performance
+
+Software Developer, TechGenius Inc., Washington, District of Columbia
+- Utilized Java to develop error tracking and debugging tools for identifying and resolving software issues
+- Leveraged SQL and NoSQL databases for efficient data management and retrieval
+- Collaborated with the development team to improve code quality and streamline software development processes
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Advocate for Diversity and Inclusion in Tech
+- Actively involved in promoting diversity and inclusion at tech conferences and events
+- Organized and participated in panel discussions to raise awareness about the importance of representation in technology
+
+Sports Leadership Role, Washington District Tech Sports Organization - Basketball Team
+- Led a diverse team of basketball players, fostering a supportive and inclusive environment
+- Organized basketball training sessions and tournaments to encourage participation and teamwork among individuals from different backgrounds
+
+Hobbies:
+- Playing the saxophone
+- Exploring different cultural art forms and street performances
+- Engaging in community initiatives to bridge cultural gaps and promote social integration
+
+Languages:
+- Fluent in English
+- Conversational proficiency in Spanish

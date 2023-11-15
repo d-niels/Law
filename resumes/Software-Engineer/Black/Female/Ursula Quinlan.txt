@@ -1,0 +1,44 @@
+Personal Statement:
+
+Driven and enthusiastic software engineer with a strong background in computer science and a passion for developing innovative solutions. Committed to leveraging my technical skills and problem-solving abilities to make a positive impact on individuals and communities. As a black female from Philadelphia, Pennsylvania, I am dedicated to promoting diversity and inclusion within the tech industry.
+
+Education:
+
+Bachelor of Science in Computer Science, Temple University (Philadelphia, Pennsylvania)
+- GPA: 3.9
+
+Work Experience:
+
+Software Engineer, Monolith Technologies, Philadelphia, Pennsylvania
+- Developed a secure payments platform using Python, ensuring smooth and protected transactions
+- Implemented Java solutions to integrate with external systems and APIs, enabling seamless interactions
+- Utilized SQL to design and optimize databases, enhancing data storage and retrieval efficiency
+
+Software Development Intern, Spectrum Software Solutions, Philadelphia, Pennsylvania
+- Automated testing processes, enhancing software quality and efficiency
+- Debugged and resolved issues using advanced error tracking techniques
+- Contributed to the development of an e-commerce platform using NoSQL technologies, improving scalability and performance
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+- Actively involved in advocating for diversity and inclusion in the tech industry, leveraging personal experiences as a black female software engineer.
+- Served as a leader and mentor in the soccer community, empowering young girls and fostering their self-confidence through sports.
+
+Hobbies:
+
+- Playing the saxophone, expressing creativity and emotion through music
+- Participating in community events that celebrate and raise awareness about the achievements and contributions of underrepresented communities
+- Engaging in outdoor activities such as hiking and biking to maintain a healthy lifestyle
+
+Languages:
+
+- English (Fluent)
+- Spanish (Proficient)

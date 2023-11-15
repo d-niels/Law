@@ -1,0 +1,40 @@
+Vijay Jiang
+
+Personal Statement:
+Dedicated and driven software engineer with a passion for solving complex problems. Strong background in programming languages, database technologies, and debugging techniques. Committed to continuous learning and staying up-to-date with the latest industry trends. Inspired by my Chinese heritage, I strive to be a reliable leader known for fostering diversity and inclusivity in the tech community.
+
+Education:
+Bachelor of Science in Computer Science, Aurora University, Chicago, IL
+- Graduated with a GPA of 3.9
+- Relevant coursework: Algorithms, Data Structures, Software Engineering
+
+Work Experience:
+Software Engineer, Aurora Technologies, Chicago, IL (2018-2020)
+- Developed and maintained Java-based applications for secure payment solutions
+- Utilized automated testing techniques to ensure quality and efficiency
+- Implemented NoSQL databases for optimized data management
+
+Software Engineer, DynaSoft Solutions, Chicago, IL (2017-2018)
+- Debugged and resolved issues in Python-based applications
+- Employed error tracking tools to identify and fix software defects
+- Worked on an e-commerce platform, enhancing functionality and user experience
+- Managed SQL databases for seamless data storage and retrieval
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively promoted diversity and cultural preservation as an executive board member of the Chinese Student Association
+- Served as a captain and leader in a local ice hockey team, fostering teamwork, discipline, and sportsmanship among players
+
+Hobbies:
+- Playing the guzheng (traditional Chinese instrument) to enhance cultural appreciation
+- Volunteering at community organizations that empower underrepresented groups
+- Exploring different cultures through travel and engaging in language exchange programs
+
+Languages:
+- Fluent in English and Mandarin Chinese, enabling effective communication across diverse teams and clients.

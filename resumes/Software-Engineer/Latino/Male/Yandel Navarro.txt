@@ -1,0 +1,41 @@
+Yandel Navarro
+
+Personal Statement:
+Driven software engineer with a deep passion for creating innovative solutions. Committed to ongoing growth and staying abreast of the latest advancements in technology. Eager to contribute to a dynamic team through expertise in automated testing, debugging, and problem-solving skills.
+
+Education:
+Bachelor of Science in Computer Science, University of Nevada, Las Vegas, Las Vegas, NV (GPA: 3.9)
+
+Work Experience:
+Software Engineer | StellarSoft Technologies, Las Vegas, NV
+- Developed automated testing scripts in Python to ensure the reliability and performance of software products.
+- Utilized SQL to design and optimize databases for secure payment systems.
+- Collaborated with cross-functional teams to identify and resolve software issues, ensuring customer satisfaction.
+- Applied expertise in secure payment systems, enhancing the overall user experience.
+
+Software Developer | ProTech Solutions, Las Vegas, NV
+- Utilized NoSQL databases and effective error tracking techniques to optimize software performance.
+- Successfully debugged and resolved complex issues, ensuring the stability and functionality of e-commerce platforms.
+- Developed and maintained Java applications to support diverse business requirements.
+- Spearheaded the implementation of new features and functionalities.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Lead the Gender and Ethnic Diversity Initiative to promote inclusivity and diversity in the tech industry, focusing on empowering underrepresented minority groups.
+- Served as a sports leader in the local Latino community, organizing and coordinating soccer tournaments to foster camaraderie and teamwork.
+- Showcased my talent as a guitarist, performing at cultural events and preserving the rich heritage of Mexican music.
+
+Hobbies:
+- Playing the guitar to express creativity and connect with my cultural roots.
+- Participating in community soccer leagues as a team captain, providing leadership and strategic coordination.
+- Exploring a variety of music genres and attending local concerts.
+- Engaging in outdoor activities, including hiking and camping.
+
+Languages:
+- Fluent in English and Spanish

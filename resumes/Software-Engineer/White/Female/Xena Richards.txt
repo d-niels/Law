@@ -1,0 +1,40 @@
+Xena Richards
+
+Personal Statement:
+Driven and detail-oriented software engineer with a passion for problem-solving and developing cutting-edge solutions. With a strong educational background in computer science and hands-on experience in various programming languages, I am confident in my ability to contribute to the success of any organization. As a white female from Jacksonville, Florida, I am dedicated to fostering diversity and inclusivity within the tech industry, while also excelling in my field.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+Sunset University, Jacksonville, Florida
+
+Work Experience:
+
+Software Engineer, StellarTech Solutions, Jacksonville, Florida
+- Developed and maintained software applications utilizing NoSQL and SQL databases.
+- Utilized Java programming language to create secure payments systems.
+- Collaborated with cross-functional teams to ensure proper functionality and efficient code integration.
+
+Software Engineer, Skyline Software Innovations, Jacksonville, Florida
+- Debugged and resolved issues in an e-commerce platform, ensuring seamless user experience.
+- Implemented error tracking mechanisms to efficiently identify and fix software errors.
+- Utilized automated testing techniques and Python programming language to streamline software testing processes.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active advocate for diversity and inclusion, working with organizations to promote opportunities for underrepresented minorities in the tech industry.
+- Served as a team captain in competitive soccer, demonstrating effective communication and leadership skills in leading a diverse group of athletes.
+
+Hobbies:
+- Playing the guitar
+- Engaging in community outreach programs that promote diversity and inclusion
+- Participating in women's coding clubs and attending conferences to empower and support fellow female software engineers
+
+Languages:
+- English (fluent)
+- Spanish (intermediate proficiency)

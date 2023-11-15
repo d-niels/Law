@@ -1,0 +1,38 @@
+Personal Statement:
+Driven and detail-oriented software engineer with a passion for creating innovative solutions. With a solid educational background in computer science and hands-on experience in various programming languages and technologies, I am eager to contribute to a dynamic organization as a software engineer. As an individual who values diversity and embraces multiculturalism, I am committed to creating inclusive and equitable software solutions that cater to a broad range of users.
+
+Education:
+Bachelor of Science in Computer Science
+XYZ University, Chicago, Illinois
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - Innovitech, Chicago, Illinois
+- Developed and maintained an innovative ecommerce platform using Python and NoSQL database technology
+- Designed and implemented secure payment systems, ensuring data privacy for millions of users
+- Collaborated with cross-functional teams to optimize SQL queries, significantly improving performance and user experience
+- Assisted in the integration of third-party APIs for seamless functionality
+
+Software Engineer Intern - Quantumsoft, Chicago, Illinois
+- Implemented automated testing strategies using Java, ensuring product quality and reducing bug occurrence
+- Conducted error tracking and debugging to enhance overall system stability
+- Worked on secure payment systems, adhering to industry standards and ensuring secure transactions
+- Collaborated with the development team to identify and resolve software issues
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting cultural diversity and inclusion within the tech community, organizing events that celebrate different ethnic backgrounds and fostering cross-cultural collaboration.
+- Served as a captain and leader in a competitive basketball team, fostering teamwork and leading by example.
+
+Hobbies:
+- Playing the guzheng, a traditional Chinese musical instrument, showcasing my cultural heritage and dedication to music.
+- Engaging in hiking and outdoor activities, promoting an active lifestyle while appreciating the natural beauty around us.
+
+Languages:
+Fluent in English and Mandarin Chinese.

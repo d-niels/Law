@@ -1,0 +1,41 @@
+Yasmine Zane
+
+Personal Statement:
+Driven and detail-oriented software engineer with a passion for developing innovative solutions. Committed to delivering high-quality, efficient code and solving complex technical problems. Eager to apply my skills and knowledge in a dynamic and challenging role within the industry.
+
+Education:
+Bachelor of Science in Computer Science
+Silicon Valley University, San Jose, California
+GPA: 3.9
+
+Work Experience:
+Software Engineer, TechHub Technologies, San Jose, California
+- Utilized strong debugging skills and automated testing techniques to identify and resolve software issues.
+- Developed and maintained scalable applications using Java and SQL.
+- Collaborated with cross-functional teams to ensure the successful implementation of software solutions.
+
+Software Development Intern, CyberSecure Solutions, San Jose, California
+- Tracked and resolved errors in a fast-paced and high-volume ecommerce environment.
+- Played a key role in ensuring secure payment transactions for online platforms.
+- Utilized Python and NoSQL databases to optimize system performance and enhance user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of Diversity in Tech organization, advocating for equal opportunities and inclusivity in the industry.
+- Sports Leadership: Served as Captain of the university's Women's Volleyball Team, fostering teamwork and inspiring a competitive spirit amongst teammates.
+
+Hobbies:
+- Playing the guitar, exploring various genres and mastering new techniques.
+- Appreciating cultural diversity through literature and art, embracing different perspectives.
+
+Languages:
+Fluent in English and French.
+
+References:
+Available upon request.

@@ -1,0 +1,40 @@
+Personal Statement:
+An ambitious and highly motivated software engineer, Iris Ma is dedicated to utilizing her diverse skill set to contribute to the development of innovative software solutions. With a strong background in computer science and a passion for problem-solving, Iris is excited to apply her knowledge and expertise to create cutting-edge technologies that improve efficiency and user experience. Her commitment to continuous learning and adaptability ensures she stays up-to-date with the latest trends and advancements in the industry.
+
+Education:
+Bachelor of Science in Computer Science, San Diego Tech University, San Diego, California
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, Zenith Technologies, San Diego, California                                              
+- Developed a robust and scalable e-commerce platform using NoSQL technology, Python programming, and secure payment gateways.
+- Collaborated with cross-functional teams to implement efficient and user-friendly features, enhancing the overall customer experience.
+- Ensured compliance with industry standards and best practices for secure payments.
+
+Software Engineer Intern, Nova Systems, San Francisco, California                                       
+- Utilized Java programming skills to debug and resolve issues in a complex software system.
+- Employed SQL for data retrieval and manipulation, significantly improving system performance and efficiency.
+- Implemented error tracking tools and automated testing frameworks to identify and resolve software defects.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Chinese American Association: Actively involved in promoting cultural integration and organizing events to celebrate Chinese traditions, fostering mutual understanding and appreciation.
+- Girls Who Code: Mentored young female coders and inspired their growth in STEM fields, equipping them with valuable skills and confidence.
+- Basketball Team Captain: Demonstrated exceptional leadership as the team captain, fostering teamwork and motivation among teammates, leading them to victory.
+
+Hobbies:
+- Playing the violin: Exhibiting a deep passion for music and mastering a variety of classical compositions, providing an outlet for creativity and self-expression.
+- Exploring diverse cultures: Engaging in activities that promote global awareness and understanding, appreciating the richness and diversity of different ethnicities.
+
+Languages: 
+- English (Fluent)
+- Mandarin Chinese (Native)
+- Spanish (Conversational)
+
+References available upon request.

@@ -1,0 +1,53 @@
+Madison Vance
+123 Main Street, Jacksonville, FL 12345
+(555) 123-4567 | madisonvance@email.com
+
+Personal Statement:
+As a driven software engineer, I am dedicated to leveraging technology to create innovative solutions that impact people's lives. With a strong academic background in computer science and practical experience in ecommerce and secure payments, my goal is to develop reliable and user-centric software systems. I am committed to promoting diversity and inclusion in the tech industry, and actively engage in volunteer and leadership roles to empower underrepresented communities.
+
+Education:
+Bachelor of Science in Computer Science, Jacksonville State University, Jacksonville, FL
+- Graduated with High Honors
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, NovaTech Solutions, Jacksonville, FL          
+August 2018 - Present
+- Developed and maintained ecommerce platforms, providing seamless online transactions for businesses
+- Implemented NoSQL databases to optimize data storage and retrieval processes
+- Utilized Python for debugging and resolving complex issues, improving system reliability and performance
+
+Software Developer Intern, Phoenix Technologies, Jacksonville, FL          
+May 2017 - July 2018
+- Implemented error-tracking systems to identify and resolve software issues promptly
+- Utilized Java and SQL to develop robust and efficient software solutions
+- Integrated secure payment gateways, ensuring safe and reliable transactions for clients
+- Conducted automated testing to ensure high-quality software delivery
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Community Outreach Coordinator, TechConnect Society, Jacksonville State University
+- Organized coding workshops and mentorship programs to empower underrepresented communities in tech
+- Contributed to promoting diversity and inclusion through speaking engagements and community events
+
+Sports Leadership Role: Women's Rugby Team, Jacksonville State University
+- Served as captain, fostering teamwork, unity, and motivation within the team
+- Led fundraising efforts to support necessary equipment and competition expenses
+
+Hobbies:
+- Playing the guitar
+- Exploring diverse cultures through literature, travel, and music
+- Participating in inclusive coding initiatives and hackathons to empower underrepresented groups
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)
+
+References:
+Available upon request.

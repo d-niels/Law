@@ -1,0 +1,40 @@
+Vidya Uppal
+Ph: (123) 456-7890 | Email: vidya.uppal@email.com | Philadelphia, PA
+
+Personal Statement:
+Highly motivated and dedicated software engineer with a strong background in secure payments and automated testing. Passionate about leveraging technology to develop innovative solutions that improve user experiences. Committed to continuous learning and staying up-to-date with industry trends. Eager to apply my skills and knowledge in a challenging software engineering role.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, Philadelphia, PA
+GPA: 3.9/4.0, Graduation: May 20XX
+
+Work Experience:
+Software Engineer, TechGenius Inc., Philadelphia, PA
+September 20XX - Present
+- Developed secure payment systems using Java, ensuring the safety and integrity of sensitive user data
+- Conducted comprehensive debugging and troubleshooting to identify and resolve software issues
+- Utilized SQL for efficient database management and optimization
+
+Software Developer Intern, InnovationTech, Philadelphia, PA
+May 20XX - August 20XX
+- Implemented automated testing strategies to streamline the testing process and improve product quality and reliability
+- Collaborated with the development team to track errors and introduced effective error tracking techniques to enhance efficiency
+- Worked on e-commerce projects utilizing NoSQL and Python to optimize data retrieval and processing for seamless user experiences
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Community Outreach and Mentorship, ABC University
+- Actively participated in community outreach programs, engaging with local schools to promote STEM education and inspire underrepresented students, especially young girls, to pursue careers in computer science
+- Led a basketball leadership program for young girls, coaching and mentoring them to develop their skills, teamwork, and leadership abilities
+
+Hobbies:
+- Playing the violin: Vidya enjoys playing the violin, nurturing her passion for music and exploring different genres and styles.
+- Languages: Fluent in English and Hindi, Vidya takes pride in her multi-lingual abilities, fostering an appreciation for different cultures and enhancing her communication skills.
+
+Note: Vidya's character highlights the importance of diversity and inclusion in the workplace, showcasing her passion for inspiring young girls in STEM fields and demonstrating her commitment as a leader in sports.

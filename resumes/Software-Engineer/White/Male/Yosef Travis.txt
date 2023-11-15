@@ -1,0 +1,39 @@
+Yosef Travis
+
+Personal Statement:
+Results-driven software engineer with a strong foundation in computer science. Eager to leverage my expertise in programming languages, database technologies, and problem-solving skills to drive innovation in the field of software engineering. Committed to delivering high-quality solutions to complex problems while exceeding client expectations. Passionate about diversity and ethically driven leadership. 
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Golden Gate University, San Francisco, California
+
+Work Experience:
+Software Engineer - StellarTech Solutions, San Francisco, CA
+- Utilized error tracking, SQL, NoSQL, and debugging techniques to troubleshoot and resolve software issues
+- Collaborated with cross-functional teams to develop and implement efficient software solutions
+- Developed and maintained database structures for effective data management
+
+Senior Software Developer - QuantumSoft, San Francisco, CA
+- Designed and developed an e-commerce platform using Java, Python, and secure payments
+- Conducted automated testing to ensure software functionality and quality
+- Collaborated with the team to identify and fix software bugs and inconsistencies
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript 
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion within the software engineering community
+- Served as a leader in the local cricket team, mentoring and guiding a diverse group of athletes in San Francisco
+
+Hobbies:
+- Playing the guitar
+- Photography
+- Exploring various cultural events and activities highlighting diversity and inclusion
+
+Languages:
+- English (Native)
+- Spanish (Proficient)

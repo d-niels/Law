@@ -1,0 +1,40 @@
+Personal Statement:
+I am a passionate and driven software engineer with a strong background in computer science. As a proud Latino male hailing from San Antonio, Texas, I embrace my unique cultural heritage and bring a diverse perspective to the field. With a relentless commitment to innovation and problem-solving, my goal is to leverage my technical skills to create cutting-edge software solutions that positively impact people's lives.
+
+Education:
+Bachelor of Science in Computer Science
+TechSolutions University, San Antonio, Texas
+GPA: 3.9
+
+Work Experience:
+Software Engineer - CyberTech Innovations
+San Antonio, Texas
+- Implemented robust error tracking, debugging, and automated testing processes to enhance software quality and reliability.
+- Developed highly secure payment systems to ensure the protection of sensitive customer data.
+- Collaborated seamlessly with cross-functional teams to troubleshoot and resolve complex technical issues, resulting in increased efficiency and customer satisfaction.
+
+Software Developer - DataCore Systems
+San Antonio, Texas
+- Utilized my expertise in Java, Python, and SQL to design and maintain state-of-the-art ecommerce platforms.
+- Implemented efficient NoSQL databases to optimize data management and retrieval capabilities.
+- Played a key role in developing and enhancing software applications, significantly improving system performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Leadership:
+- Served as the captain of a local soccer team, fostering teamwork, sportsmanship, and promoting inclusivity.
+- Led various initiatives to support and empower underrepresented communities, emphasizing diversity and equality.
+
+Hobbies:
+- Playing the guitar and piano, exploring music composition and arrangements with a focus on Latin rhythms.
+- Participating in cultural festivals and events, celebrating the rich heritage of San Antonio.
+- Engaging in community art projects, showcasing the vibrant Latino culture and promoting social cohesion.
+
+Languages:
+- Fluent in English and Spanish

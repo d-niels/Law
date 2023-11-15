@@ -1,0 +1,38 @@
+Ulysses Ellis
+
+Personal Statement:
+Dedicated and highly motivated software engineer with a passion for problem-solving and creating innovative solutions. With a strong academic background in computer science and extensive professional experience, I am adept at utilizing programming languages to develop cutting-edge software. Through my exceptional analytical skills and debugging techniques, I have successfully delivered high-quality products. Seeking a challenging software engineer position to contribute to the growth and success of a dynamic organization.
+
+Education:
+Bachelor of Science in Computer Science, San Antonio Tech University, San Antonio, Texas
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, AlphaTech Solutions, San Antonio, Texas
+- Developed an effective error tracking system resulting in a more efficient debugging process
+- Implemented automated testing procedures, significantly increasing product reliability
+- Spearheaded secure payment integrations, ensuring data privacy and protection
+- Utilized Java programming language for development of innovative software solutions
+
+Software Developer, Beta Systems, San Antonio, Texas
+- Created and maintained NoSQL databases, optimizing data storage and retrieval
+- Utilized Python, SQL, and ecommerce technologies to develop robust software systems
+- Implemented efficient debugging techniques to resolve software issues promptly
+- Collaborated with cross-functional teams to deliver software products within established deadlines
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white male, I strongly believe in fostering diversity and inclusivity in the technology industry. I actively volunteer and engage in leadership roles to provide opportunities for underrepresented communities. I have served as a team captain for a local basketball league, promoting teamwork, discipline, and leadership skills among diverse groups.
+
+Hobbies:
+In my free time, I enjoy playing the piano, which allows me to express my creativity while learning different melodies and rhythms. I am also involved in various community organizations that promote diversity and gender equality. Furthermore, I am fluent in English and Spanish, allowing me to effectively communicate and collaborate with diverse teams.
+
+Languages:
+- English (Fluent)
+- Spanish (Fluent)

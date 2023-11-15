@@ -1,0 +1,33 @@
+Personal Statement:
+As a software engineer, I am driven by my passion for building innovative solutions and solving complex problems in the technology industry. With a strong foundation in computer science and a diverse skill set, I am ready to contribute my expertise and collaborate with a dynamic team to deliver exceptional software solutions.
+
+Education:
+Bachelor of Science in Computer Science
+University of Madison, Wisconsin
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, StellarTech Solutions, Madison, Wisconsin
+- Developed and maintained automated testing frameworks for an innovative e-commerce platform, ensuring high-quality software deliveries and exceptional user experiences.
+- Utilized Python to design and implement secure payment systems, enhancing data privacy and transactional security.
+
+Software Developer, Visionary Software Labs, Madison, Wisconsin
+- Conducted thorough debugging and resolution of complex issues in SQL and NoSQL databases, optimizing system stability and performance.
+- Played an instrumental role in integrating error tracking mechanisms into Java-based applications, facilitating efficient identification and resolution of software issues.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Dedicated to fostering diversity and inclusion in the tech industry, I actively participate in initiatives and leadership roles. As an advocate for underrepresented communities, I have served as a mentor, providing guidance and support to aspiring software engineers, particularly young white males, at coding bootcamps and local high schools. Additionally, I hold a leadership position as the captain of a competitive ultimate frisbee team, promoting teamwork and camaraderie among diverse players.
+
+Hobbies:
+I am an avid guitar player, often performing at local jazz clubs on weekends. In my free time, I enjoy hiking and exploring nature trails, indulging my love for photography and capturing captivating landscapes. Being a language enthusiast, I have also taken up learning Spanish as an additional language.
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)

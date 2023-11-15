@@ -1,0 +1,49 @@
+Yasmine Abbott
+
+Personal Statement:
+A dedicated and motivated software engineer with a deep passion for coding and problem-solving. I strive to create innovative solutions while maintaining a strong attention to detail. As a black female from Detroit, Michigan, I am committed to promoting diversity and inclusion in the tech industry. Through my technical expertise and leadership abilities, I aim to make a significant impact in the field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science
+University of Detroit Mercy, Detroit, Michigan
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern
+InnovateTech Solutions, Detroit, Michigan
+- Collaborated with a team to develop and maintain software applications using Python
+- Conducted automated testing to ensure the quality and functionality of the software
+- Employed error tracking and debugging techniques to identify and troubleshoot issues
+
+Junior Software Engineer
+SecureCommerce Systems, Detroit, Michigan
+- Implemented secure payment systems using Java and NoSQL databases
+- Developed and optimized SQL queries for efficient data retrieval in an e-commerce environment
+- Collaborated with cross-functional teams to design and implement new features
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role - Volleyball Team Captain
+Detroit Youth Sports Association, Detroit, Michigan
+- Mentored and led a successful volleyball team, fostering teamwork and promoting personal growth for the players
+- Acted as a role model for young girls, encouraging them to pursue sports and pursue leadership positions
+
+Ethnic and Gender Empowerment Advocate
+Tech Equity Movement, Detroit, Michigan
+- Participated in panel discussions and workshops to promote diversity and equal opportunities for underrepresented minorities in the tech industry
+- Advocated for increased representation of black women, encouraging recruitment and retention efforts
+
+Hobbies:
+- Playing the piano to express artistic creativity and find solace in music
+- Engaging in various physical activities such as hiking, swimming, and basketball to maintain an active and healthy lifestyle
+- Exploring different cultures through literature and traveling to broaden my perspectives
+
+Languages:
+- English (fluent)
+- Spanish (intermediate level)

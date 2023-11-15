@@ -1,0 +1,51 @@
+Personal Statement:
+
+I am a highly motivated and passionate software engineer with a strong background in computer science. As a black female from Memphis, Tennessee, I bring a unique perspective to the field and thrive in diverse environments. With a bachelor's degree in computer science and a GPA of 3.9, I am ready to leverage my skills and knowledge to excel in the role of a software engineer.
+
+Education:
+
+Bachelor of Science in Computer Science (3.9 GPA)
+Memphis State University
+
+Work Experience:
+
+Software Engineer, TechGen Solutions, Memphis, TN
+- Developed error tracking software to identify and resolve issues effectively
+- Implemented secure payment systems for the company's cutting-edge e-commerce platform
+- Conducted debugging and troubleshooting for existing systems using Java
+
+Software Engineer Intern, CyberSoft Innovations, Memphis, TN
+- Worked on an advanced e-commerce platform, ensuring seamless online transaction processes
+- Utilized automated testing techniques to detect and rectify system errors
+- Managed SQL and NoSQL databases for efficient data storage and retrieval
+- Leveraged Python to develop innovative features and enhance overall functionality
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+1. Empowering Voices in Technology, Memphis, TN (2017-2019)
+- Mentored and provided guidance to young black females interested in pursuing careers in technology
+- Organized workshops and seminars on computer science and coding
+- Promoted diversity and inclusion in the tech industry
+
+2. Sports Leadership Role: Track and Field Captain, Memphis State University (2016-2017)
+- Coordinated training sessions and led a diverse team of athletes, emphasizing teamwork and discipline
+- Organized track and field events and facilitated team-building activities
+- Encouraged young female athletes to excel in their athletic pursuits
+
+Hobbies:
+
+- Playing the guitar to express creativity and connect with others through music
+- Photography, capturing the beauty and diversity of communities
+- Exploring different cultures through travel and immersing myself in local customs and traditions
+
+Languages:
+
+- Fluent in English and Spanish, enabling effective communication with multicultural teams and stakeholders.

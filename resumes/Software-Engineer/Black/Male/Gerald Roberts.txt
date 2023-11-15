@@ -1,0 +1,33 @@
+Personal Statement:
+I am a highly motivated and skilled software engineer with a passion for problem-solving and creating innovative solutions. With a strong foundation in computer science and expertise in various programming languages, I am committed to delivering high-quality and efficient software applications. As a black male from Charlotte, North Carolina, I bring a unique perspective to my work and thrive in diverse and inclusive environments. I am seeking a software engineering role where I can contribute my technical expertise and make a positive impact in the industry.
+
+Education:
+Bachelor of Science in Computer Science, Zephyr University, Charlotte, North Carolina
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, TechStream Innovations, Charlotte, North Carolina
+- Developed and maintained software applications using Python, Java, and NoSQL databases.
+- Conducted thorough debugging and troubleshooting to identify and resolve issues.
+- Collaborated with cross-functional teams to ensure seamless integration of software components.
+
+Software Engineer, NovaCode Solutions, Charlotte, North Carolina
+- Implemented automated testing procedures for an e-commerce platform.
+- Worked on secure payment processing and error tracking systems.
+- Utilized SQL databases to enhance performance and optimize data retrieval.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a proud black male, I actively engage in promoting diversity and inclusivity in the tech industry. I have taken leadership roles in various organizations and initiatives, including being a mentor for young black males pursuing careers in STEM. Additionally, I served as a captain for a local basketball team, fostering teamwork and promoting equality on the court. I am passionate about breaking barriers and inspiring others to pursue their dreams.
+
+Hobbies:
+In my free time, I enjoy playing the saxophone, an instrument that allows me to express my creativity and strengthen my love for music. I also participate in various cultural events that celebrate my African-American heritage, such as poetry readings and art exhibitions. Furthermore, I am always eager to explore different cultures and their traditions through travel and learning about different languages.
+
+Languages:
+English (Fluent), Spanish (Conversational)

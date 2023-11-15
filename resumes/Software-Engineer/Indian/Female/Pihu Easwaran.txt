@@ -1,0 +1,43 @@
+PIHU EASWARAN
+Chicago, Illinois | (123) 456-7890 | pihu.easwaran@email.com
+
+PERSONAL STATEMENT
+Highly motivated and detail-oriented software engineer with a strong educational foundation in computer science. Passionate about problem-solving, I strive to deliver innovative solutions by leveraging my skills in programming, testing, and debugging. Possessing excellent communication and teamwork abilities, I am dedicated to contributing to the development of cutting-edge software applications.
+
+EDUCATION
+Bachelor of Science in Computer Science | Chicago Institute of Technology, Chicago, Illinois
+- GPA: 3.9/4.0
+
+WORK EXPERIENCE
+Software Engineer | StellarSoft, Chicago, Illinois
+- Collaborated with a team of developers to implement error tracking and automated testing systems, resulting in a 30% reduction in software bugs.
+- Utilized Java programming language to develop robust software applications, ensuring efficient performance and seamless user experience.
+- Conducted debugging processes to identify and resolve issues, improving software functionality and stability.
+
+Software Developer | Cybersketch, Chicago, Illinois
+- Designed and developed secure payment systems for e-commerce platforms, ensuring data privacy and protection.
+- Utilized NoSQL and SQL databases to store and retrieve customer payment details, enhancing system efficiency.
+- Leveraged Python programming language to create automated scripts, streamlining internal processes.
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+- Founding Member, Women in Technology Association, Chicago Institute of Technology
+- Organized workshops and events to encourage the participation of women in technology-related fields.
+- Sports Leadership Role: Team Captain, University Basketball Team
+- Led team practices, strategized game plans, and fostered strong teamwork and sportsmanship.
+
+HOBBIES
+- Playing the Sitar (Indian classical stringed instrument)
+- Participating in cultural dance performances highlighting the rich heritage of Indian classical dance forms.
+
+LANGUAGES
+Fluent in English and Hindi, proficient in Tamil.
+
+REFERENCES
+Available upon request.

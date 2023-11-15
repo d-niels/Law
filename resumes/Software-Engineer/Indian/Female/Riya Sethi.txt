@@ -1,0 +1,36 @@
+Personal Statement:
+Dedicated and passionate software engineer with a strong background in computer science. My goal is to leverage my skills, knowledge, and industry experience to develop innovative software solutions and contribute to the growth of a dynamic organization. As an Indian female hailing from New York, New York, I am committed to promoting diversity and leadership within the tech industry, while bringing a unique perspective to the table.
+
+Education:
+Bachelor of Science in Computer Science, Sunshine University, New York, New York, GPA: 3.9/4.0.
+
+Work Experience:
+Software Engineer, Innovix Technologies, New York, NY
+- Developed and maintained an intuitive and user-friendly ecommerce platform, ensuring secure payments and seamless transactions for a diverse range of customers.
+- Implemented advanced error tracking systems to identify and resolve performance issues promptly, resulting in improved system reliability.
+- Utilized NoSQL databases to efficiently handle large volumes of data and optimize database operations.
+
+Software Developer, Quantum Solutions, New York, NY
+- Debugged and resolved complex software issues, utilizing sophisticated debugging tools and techniques to enhance software performance and stability.
+- Designed and implemented highly efficient SQL queries, improving database operations and offering seamless user experiences.
+- Developed software solutions using Python and Java, harnessing the power of these languages to create scalable and robust applications.
+- Conducted rigorous automated testing to ensure software quality, employing industry-leading testing frameworks.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in organizations promoting diversity in technology, aiming to empower underrepresented groups, especially women and the Indian community, by organizing events and mentoring aspiring professionals.
+- Served as a team leader for a local cricket team, fostering teamwork, sportsmanship, and providing mentorship to aspiring players.
+
+Hobbies:
+- Playing the violin, embracing the soulful melodies of classical Indian music.
+- Exploring various cuisines, embracing diverse culinary experiences.
+- Engaging in multicultural studies, celebrating diversity through art, literature, and travel.
+
+Languages:
+English (Fluent), Hindi (Native), Spanish (Basic Conversational)

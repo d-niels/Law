@@ -1,0 +1,44 @@
+Nan Wu
+San Diego, California  |  nanwu@email.com  |  (555) 123-4567
+
+Personal Statement:
+Motivated software engineer with a passion for developing innovative solutions and creating user-friendly applications. Adept at analyzing complex problems and collaborating with cross-functional teams to deliver high-quality software products. Eager to leverage my strong technical skills and creativity to contribute to a dynamic software engineering role.
+
+Education:
+Bachelor of Science in Computer Science, Pacific Coast University, San Diego, CA
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Stellar Technologies, San Diego, CA				                                                     				January 2018 - Present
+- Developed and maintained secure payment processing systems, ensuring the safety and confidentiality of sensitive data.
+- Utilized advanced debugging techniques and tools to identify and resolve software anomalies, enhancing system reliability.
+- Implemented NoSQL databases to optimize data storage and retrieval, resulting in improved system performance and scalability.
+- Collaborated with cross-functional teams to develop Python scripts for automating various operational tasks.
+
+Software Developer, Quantum Systems, San Diego, CA		                                                     				May 2016 - December 2017
+- Contributed to the development and maintenance of an e-commerce platform, facilitating a seamless online shopping experience for customers.
+- Utilized SQL to design and optimize efficient database structures, enhancing data integrity and application performance.
+- Implemented error tracking mechanisms to detect and address software faults promptly, reducing system downtime.
+- Developed Java-based automated testing scripts to validate system functionality, resulting in enhanced quality assurance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Pacific Community Center, San Diego, CA															2014 - Present
+- Organized and led basketball programs for youth, fostering teamwork, discipline, and physical fitness.
+- Mentored and motivated participants, emphasizing the importance of dedication, resilience, and sportsmanship.
+
+Hobbies:
+- Playing the piano: Demonstrating creativity and precision through the harmonious art of music.
+- Practicing martial arts: Engaging in physical activities that promote mental and physical well-being.
+- Exploring different cultures: Embracing diversity through the celebration of traditions, art, and festivals.
+
+Languages:
+- Fluent in English and Mandarin Chinese
+
+References available upon request.

@@ -1,0 +1,44 @@
+Ursula Urquiza
+Houston, Texas | (555) 555-5555 | ursula.urquiza@email.com
+
+Personal Statement:
+Dedicated and highly motivated software engineer with a strong passion for problem-solving and a proven track record of delivering high-quality solutions. Committed to leveraging my technical expertise and analytical skills to drive innovation and create impactful software applications. As a proud Latina female in the tech industry, I am actively involved in promoting diversity and inclusion. I strive to be a role model for underrepresented communities, empowering them to pursue careers in technology.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Techton University, Houston, Texas | May 20XX
+
+Work Experience:
+Software Engineer, Aurea Technology Solutions, Houston, TX
+January 20XX - Present
+- Developed innovative ecommerce solutions, designing and implementing secure payment gateways for seamless transactions
+- Utilized my expertise in Java and Python to develop highly efficient and scalable software applications
+- Collaborated with cross-functional teams to identify and implement performance optimizations, resulting in a 20% increase in system efficiency
+
+Software Developer, CypherSoft, Houston, TX
+May 20XX - December 20XX
+- Designed, implemented, and maintained database systems using SQL and NoSQL technologies
+- Conducted automated testing and error tracking to ensure software quality and identify bugs
+- Leveraged my strong debugging skills to troubleshoot and resolve software issues promptly
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Leadership Role, Latino STEM Association, Houston, TX
+- Championed the mission of promoting diversity and inclusion in the tech industry within Houston's Latino community, organizing workshops and mentoring programs
+- Actively participated in hosting coding bootcamps and hackathons to empower individuals from underrepresented backgrounds
+
+Hobbies:
+- Playing the guitar
+- Exploring diverse cultures through travel, music, and culinary experiences
+
+Languages:
+Bilingual: English and Spanish
+
+References:
+Available upon request

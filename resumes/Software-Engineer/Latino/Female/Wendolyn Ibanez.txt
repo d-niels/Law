@@ -1,0 +1,45 @@
+WENDOLYN IBANEZ
+
+Personal Statement:
+Motivated software engineer with a passion for creating innovative, secure, and reliable software solutions. Committed to leveraging my skills in Java, Python, and other programming languages to develop cutting-edge systems. Eager to apply my strong problem-solving abilities and analytical skills to contribute to a dynamic and collaborative team. Committed to championing diversity and inclusion in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science (Honors)
+University of California, Los Angeles, Los Angeles, CA
+
+Work Experience:
+Software Engineer | TechnoMaster Solutions, Las Vegas, NV
+- Developed and maintained secure payments and ecommerce functionalities using Java and Python.
+- Collaborated with cross-functional teams to ensure seamless integration of payment gateways and backend services.
+- Implemented data validation and encryption techniques to enhance payment security.
+- Participated in code reviews and provided feedback to optimize code efficiency.
+- Assisted in troubleshooting and resolving critical issues in a timely manner.
+
+Software Developer | QuantumTech Innovations, Las Vegas, NV
+- Performed debugging, error tracking, and optimization for web applications utilizing NoSQL and SQL databases.
+- Developed and executed automated testing strategies to identify and solve software defects.
+- Collaborated with stakeholders to gather and analyze requirements, ensuring adherence to project timelines.
+- Implemented robust SQL queries to manage data, ensuring optimal storage and retrieval.
+- Assisted in the deployment and maintenance of database systems across multiple environments.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Founding Member, Latinx in Tech Organization, University of California, Los Angeles
+  - Organized workshops and networking events to promote diversity and inclusion in the tech industry.
+  - Mentored and provided guidance to aspiring Latinx students pursuing careers in technology.
+- Sports Leadership Role, Women's Volleyball Team, University of California, Los Angeles
+  - Promoted teamwork, discipline, and leadership skills among team members.
+  - Organized fundraising events and spearheaded community outreach initiatives.
+
+Hobbies:
+- Playing the guitar
+- Exploring Latin American literature and music composition
+
+Languages:
+- Fluent in English and Spanish

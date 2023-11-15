@@ -1,0 +1,40 @@
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a bachelor's degree in Computer Science. Passionate about developing innovative software solutions to solve complex problems. Committed to delivering high-quality code and constantly expanding knowledge in programming languages and software development methodologies. Seeking a challenging role as a software engineer to contribute to the growth and success of a dynamic organization.
+
+Education:
+Bachelor of Science in Computer Science, California State University, San Jose
+- GPA: 3.9
+- Relevant courses: Data Structures, Algorithms, Software Engineering, Database Management Systems
+
+Work Experience:
+Software Engineer, Stellar Technologies, San Francisco, California
+- Developed and maintained Java-based applications for a cutting-edge digital marketing platform
+- Integrated NoSQL database into existing systems to enhance data storage and retrieval efficiency
+- Implemented automated testing frameworks to ensure software quality and reliability
+- Utilized error tracking tools to identify and debug software defects effectively
+
+Software Engineer Intern, Innovate Solutions, Mountain View, California
+- Assisted in debugging and troubleshooting software issues in a leading retail e-commerce platform
+- Developed SQL queries to extract and manipulate data from databases for efficient business operations
+- Utilized Python to automate data analysis tasks, significantly accelerating decision-making processes
+- Collaborated with cross-functional teams to ensure the security and integrity of online payment transactions
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively mentored young women in tech as part of the Girls Who Code organization, advocating for diversity and inclusion in the tech industry
+- Organized and led a soccer team as captain, fostering teamwork and fostering collaboration within a diverse group
+- Engaged in community initiatives to promote cultural understanding and appreciation
+
+Hobbies:
+- Playing the violin and immersing in different musical styles and genres
+- Exploring diverse cultures and traditions through travel and cultural events
+- Engaging in outdoor activities such as hiking and cycling
+
+Languages:
+- Fluent in English and Hindi, both written and spoken

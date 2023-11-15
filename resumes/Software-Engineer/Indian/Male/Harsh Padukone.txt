@@ -1,0 +1,39 @@
+Personal Statement:
+As a highly motivated software engineer with a passion for creating innovative solutions, I am excited to contribute to the field of technology. With a strong educational background in computer science and valuable work experience, I am confident in my ability to design and develop software applications to meet the evolving needs of users. I strive to continually enhance my skills and stay up-to-date with the latest industry practices.
+
+Education:
+Bachelor's Degree in Computer Science, University of Houston, Houston, Texas
+- Graduated with a GPA of 3.9
+- Relevant coursework: Data Structures, Algorithms, Software Engineering, Database Management, Object-Oriented Programming
+
+Work Experience:
+
+Software Engineer, NovaTech Inc. (Houston, Texas)
+- Utilized advanced error tracking techniques and conducted thorough code reviews to identify and resolve issues promptly
+- Developed a scalable ecommerce platform using Python and SQL, enhancing overall user experience and driving significant sales growth
+- Collaborated with cross-functional teams to implement new features and improve system performance, resulting in enhanced customer satisfaction
+
+Software Developer, Quantum Solutions (Houston, Texas)
+- Led automated testing efforts using industry-standard tools, ensuring high software quality and reliability
+- Implemented and enhanced secure payment gateways and integrated third-party APIs, resulting in improved payment processing efficiency and enhanced security measures
+- Utilized strong debugging skills and implemented NoSQL databases to optimize and maintain software applications developed in Java, leading to improved system stability and performance
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusivity in the tech industry as an Indian male software engineer from Houston, Texas
+- Served as a team captain in basketball, fostering teamwork, leadership, and collaboration in a multicultural environment
+- Advocated for gender equality in the workplace and mentored aspiring female software engineers
+
+Hobbies:
+- Playing the tabla, a percussion instrument integral to Indian classical music
+- Exploring different cultures and their music traditions
+- Engaging in outdoor activities like hiking and cycling to maintain a healthy lifestyle
+
+Languages:
+- Fluent in English and Hindi, enabling effective communication with diverse teams and clients.

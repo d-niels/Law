@@ -1,0 +1,45 @@
+Tyrone Kennedy
+
+Personal Statement:
+Dedicated and innovative software engineer with a passion for creating efficient and reliable solutions. Skilled in error tracking, ecommerce systems, and proficient in multiple programming languages. Committed to leveraging my skills and experiences to deliver cutting-edge software solutions that meet and exceed client expectations.
+
+Education:
+Bachelor of Science in Computer Science
+Washington Technical University, Washington, District of Columbia
+GPA: 3.9
+
+Work Experience:
+
+Software Engineer, Tech Innovators Inc.
+Washington, DC | May 20XX - Present
+- Collaborated with cross-functional teams to develop and maintain state-of-the-art error tracking software for enhanced bug fixes and performance optimization.
+- Designed, implemented, and tested secure and scalable ecommerce systems, ensuring seamless user experience and high data security.
+- Utilized Python programming language and NoSQL databases to develop efficient and robust software solutions.
+
+Software Engineer Intern, SoftwareGenius Corp.
+Washington, DC | May 20XX - Aug 20XX
+- Assisted in creating and executing automated testing scripts, resulting in significant time savings and improved software reliability.
+- Contributed to the development of secure payment systems, ensuring compliance with industry standards and regulations.
+- Conducted thorough debugging and troubleshooting activities, utilizing Java programming and SQL databases.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Mentor, TechReach Program: Guided and motivated aspiring software engineers from underprivileged backgrounds, offering support and resources to help them excel in the tech industry.
+- Basketball Team Captain: Led a diverse basketball team, fostering teamwork, discipline, and sportsmanship while promoting inclusivity and fair play.
+
+Hobbies:
+- Playing the guitar: Showcasing my creativity and expressing my passion for music.
+- Exploring nature: Spending time hiking and camping, appreciating the beauty of the outdoors.
+- Reading science fiction novels: Expanding my imagination and fueling my interest in innovative technologies.
+
+Languages:
+- English: Native proficiency
+- Spanish: Conversational proficiency
+
+References available upon request.

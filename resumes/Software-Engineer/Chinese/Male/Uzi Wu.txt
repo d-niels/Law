@@ -1,0 +1,39 @@
+Personal Statement:
+Highly motivated software engineer with a passion for creating innovative solutions. Equipped with strong technical expertise and a solid foundation in computer science, I am eager to contribute my skills and knowledge to a dynamic organization in the software engineering field.
+
+Education:
+Bachelor of Science in Computer Science
+Techland University, Oakland, California
+GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer - CyberSolutions Inc., Oakland, California
+- Developed and maintained a cutting-edge e-commerce platform, increasing sales by 20%.
+- Leveraged Python to implement secure payment systems, ensuring safe and seamless transactions.
+- Utilized SQL to optimize database performance and improve storage efficiency.
+- Collaborated with cross-functional teams to identify and resolve technical challenges.
+
+Software Engineer - PixelTech, Oakland, California
+- Implemented error tracking and debugging processes, leading to a 30% reduction in application crashes.
+- Utilized automated testing to ensure code quality and identify vulnerabilities.
+- Developed solutions using Java and NoSQL for efficient data retrieval and storage.
+- Collaborated with the development team to analyze and resolve complex software issues.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion as a Chinese male software engineer from Oakland, California.
+- Served as a role model and leader in a local youth basketball team, guiding them to regional championships.
+
+Hobbies:
+- Playing the guitar, showcasing a diverse range of melodies and rhythms.
+- Engaging in community events that celebrate cultural heritage and promote gender equality.
+
+Languages:
+- Fluent in English and Chinese, facilitating effective communication in multicultural environments.

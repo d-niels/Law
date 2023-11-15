@@ -1,0 +1,37 @@
+Personal Statement:
+I am a determined and dedicated software engineer with a deep passion for computer science. As a Latino male from Houston, Texas, my cultural background has shaped my approach to problem-solving and collaboration. Holding a bachelor's degree in computer science with a stellar 3.9 GPA from Magnolia University, I have gained expertise in diverse programming languages and database technologies. With my strong analytical skills and proficiency in software engineering, I strive to revolutionize the technology industry.
+
+Education:
+Bachelor of Science in Computer Science, Magnolia University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - StellarSoft Innovations, Houston, Texas
+- Leveraged NoSQL databases to optimize software performance and streamline data retrieval.
+- Employed advanced debugging techniques to identify and resolve software issues promptly.
+- Developed automated testing procedures, significantly improving software quality and reliability.
+- Programmed in Python to create robust and scalable applications in a dynamic team environment.
+
+Software Engineering Intern - Cygnus Technologies, Houston, Texas
+- Contributed to the development of a secure e-commerce platform, ensuring seamless and safe payment processing.
+- Utilized Java and SQL to build and integrate software modules, enhancing overall system functionality.
+- Conducted thorough error tracking and implemented swift resolutions to minimize disruptions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in empowering the Latino community through mentoring programs and advocating for equal opportunities.
+- Held a leadership position as the team captain of a local soccer team, fostering teamwork and promoting a sense of belonging among players from diverse backgrounds.
+
+Hobbies:
+- Playing the guitar and piano, channeling my creativity and finding solace in the art of music.
+- Practicing Brazilian Jiu-Jitsu, honing discipline, resilience, and physical fitness.
+- Exploring different cultures through photography, capturing stunning moments and showcasing the beauty of diversity.
+
+Languages:
+Fluent in English and Spanish.

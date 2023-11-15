@@ -1,0 +1,42 @@
+Personal Statement:
+I am a driven and dedicated software engineer with a keen interest in solving complex problems through innovative technology solutions. With a Bachelor's degree in Computer Science and practical experience in the field, I am well-equipped to excel in the role of a software engineer. I constantly strive to enhance my skills and stay up-to-date with the latest advancements in the industry to deliver top-notch results.
+
+Education:
+Bachelor of Science in Computer Science
+Elite Technical Institute, Houston, Texas
+GPA: 3.9
+
+Work Experience:
+Software Engineer - Job 1
+Apex Tech Solutions, Houston, Texas
+- Developed and optimized an advanced e-commerce platform, ensuring seamless online transactions and robust security features.
+- Implemented error tracking mechanisms to swiftly identify and resolve issues, enhancing user experience.
+- Utilized Java programming language for the development and integration of backend systems.
+
+Software Engineer - Job 2
+Synergetic Solutions, Houston, Texas
+- Led the automated testing efforts to ensure the functionality and reliability of software applications.
+- Leveraged NoSQL and SQL databases to efficiently manage and retrieve data.
+- Utilized Python and debugging techniques to identify and rectify software defects.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in empowering women in technology and promoting diversity and inclusion in the workplace.
+- Held a leadership position in a local soccer team, where I developed strong teamwork, communication, and strategic abilities.
+
+Hobbies:
+- Playing the sitar, a traditional Indian musical instrument, to express my cultural appreciation for music.
+- Participating in cultural festivals and events, showcasing the vibrant traditions of my Indian heritage.
+
+Languages:
+- English: Fluent
+- Hindi: Native language
+- Spanish: Basic proficiency
+
+References: Available upon request.

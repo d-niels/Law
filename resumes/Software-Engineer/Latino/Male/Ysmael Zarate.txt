@@ -1,0 +1,43 @@
+Ysmael Zarate
+Las Vegas, Nevada
+Phone: (555) 555-5555
+Email: ysmaelzarate@email.com
+
+Personal Statement:
+Driven software engineer with a keen eye for detail and a passion for developing cutting-edge solutions. With a strong academic background in computer science, I am dedicated to delivering efficient and reliable software systems. As a Latino male, I am committed to promoting diversity and inclusivity within the tech industry and leveraging my unique perspective to drive innovation.
+
+Education:
+Bachelor of Science in Computer Science, May 20XX
+University of Nevada, Las Vegas, Las Vegas, NV
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, NovaSoft Solutions, Las Vegas, NV
+June 20XX - Present
+- Collaborated closely with a cross-functional team to develop and maintain a robust e-commerce platform using Java and Python.
+- Implemented automated testing scripts, resulting in a 30% reduction in development cycle time.
+- Demonstrated expertise in troubleshooting and debugging to ensure optimal software performance.
+
+Software Developer, Vertex Technologies, Las Vegas, NV
+August 20XX - May 20XX
+- Designed and developed secure payment functionalities for a financial software application, utilizing NoSQL and SQL databases.
+- Conducted thorough debugging and error tracking to identify and resolve software issues promptly.
+- Collaborated with multidisciplinary teams to enhance system reliability and improve end-user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in the Latino Association at University of Nevada, Las Vegas, advocating for diversity and inclusion.
+- Served as a mentor and leader in a community youth soccer league, nurturing young athletes' skills, teamwork, and leadership abilities.
+
+Hobbies:
+- Playing the guitar and piano, finding inspiration in various music genres, from classical to Latin.
+- Pursuing photography as a creative outlet, capturing diverse cultural moments and showcasing the beauty of individuality.
+
+Languages:
+- Fluent in English and Spanish, proficient in cross-cultural communication.

@@ -1,0 +1,39 @@
+Kevin Ward
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a passion for developing innovative solutions. Skilled in secure payments, debugging, and a wide range of programming languages. Committed to delivering high-quality software products that exceed customer expectations. Thrives in collaborative environments and continuously seeks opportunities to expand knowledge and skills.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Phoenix Technology Institute, Phoenix, Arizona
+
+Work Experience:
+Software Engineer - Cybertech Solutions, Phoenix, Arizona
+- Developed secure payment systems for a cutting-edge e-commerce platform, ensuring a seamless and secure online shopping experience for millions of users
+- Debugged and resolved complex issues in existing codebase, optimizing application performance and enhancing user satisfaction
+- Utilized Java to design and implement scalable and reliable software solutions, contributing to the growth and success of the company
+
+Software Engineer - TechnoGen Corporation, Phoenix, Arizona
+- Utilized Python to automate testing processes, significantly reducing testing time and improving overall efficiency of software development lifecycle
+- Collaborated with cross-functional teams to design and implement NoSQL databases, enabling efficient data storage and retrieval for large-scale applications
+- Successfully tracked and resolved errors using advanced error tracking tools, enhancing application stability and user experience
+- Utilized SQL to optimize database performance and ensure data integrity
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member and mentor in the Society of Black Engineers, dedicated to promoting diversity and inclusion in the field of technology and inspiring the next generation of diverse engineers
+- Led a youth basketball team as the head coach, fostering teamwork, discipline, and leadership skills among young athletes
+
+Hobbies:
+- Playing the saxophone, showcasing my musical talent and creativity during local jazz performances
+- Engaging in outdoor activities, including hiking, camping, and rock climbing, to stay physically active and connect with nature
+
+Languages:
+- Fluent in English
+- Proficient in Spanish, enabling effective communication with a diverse range of individuals.

@@ -1,0 +1,37 @@
+Personal Statement:
+I am a motivated and dedicated software engineer who is passionate about creating innovative solutions. With a strong foundation in computer science and experience in various programming languages, I strive to contribute to the ever-evolving field of software development. As a Chinese female from Houston, Texas, I bring a unique perspective and cultural understanding to my work, enhancing my ability to collaborate and solve complex problems. Through my leadership and commitment to diversity, I aim to shape a more inclusive and equitable tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Stellar University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Luminary Tech Solutions, Houston, Texas
+- Developed and maintained Java and Python applications for automated testing, ensuring efficient and accurate testing processes.
+- Utilized NoSQL databases to optimize data storage and retrieval, enhancing overall system performance.
+- Collaborated with cross-functional teams to identify and resolve software issues, ensuring a smooth development cycle.
+
+Software Developer, Novus Technologies, Houston, Texas
+- Implemented error-tracking and debugging techniques to enhance application performance and stability.
+- Enhanced ecommerce platforms, including secure payments integration and SQL database management, meeting industry regulations and ensuring data security.
+- Collaborated with a team of developers to deliver high-quality software solutions, maintaining client satisfaction and project success.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion as a Chinese female software engineer, organizing workshops and events to foster an inclusive tech community.
+- Served as the team captain for a co-ed soccer team, providing leadership and promoting gender equality in sports.
+
+Hobbies:
+- Playing the piano, which allows me to express my creativity and provides a peaceful outlet for relaxation.
+- Exploring different cultures and languages, broadening my horizons and fostering cultural understanding.
+- Engaging in community service activities, aiming to make a positive impact in my local community.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

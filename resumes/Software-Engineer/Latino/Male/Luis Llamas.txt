@@ -1,0 +1,39 @@
+Personal Statement:
+As a highly motivated and dedicated software engineer, I am committed to creating innovative solutions that enhance user experiences. With a strong foundation in computer science and a passion for problem-solving, I continually strive for excellence in my work. As a Latino male from San Antonio, Texas, I am proud to bring diverse perspectives to the field of technology, ensuring inclusive and impactful solutions.
+
+Education:
+Bachelor's Degree in Computer Science, Alamo State University, San Antonio, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, EliteTech Innovations, San Antonio, Texas
+- Debugging: Applied advanced debugging techniques to identify and resolve complex software issues efficiently.
+- NoSQL: Designed and implemented scalable NoSQL databases to optimize data storage and retrieval.
+- Java: Developed and maintained robust Java applications, ensuring high performance and functionality.
+- Automated Testing: Created comprehensive automated testing frameworks to ensure software quality and reliability.
+
+Software Developer, Quantum Solutions, San Antonio, Texas
+- Python: Developed Python-based solutions for secure payment processing in a cutting-edge e-commerce platform.
+- Secure Payments: Implemented industry-leading secure payment systems to guarantee reliable and safe online transactions.
+- SQL: Designed and optimized high-performance SQL databases to meet system requirements and enhance data management.
+- Error Tracking: Utilized advanced error tracking tools to swiftly identify and resolve software issues.
+- E-commerce: Collaborated with cross-functional teams to develop and enhance e-commerce platforms.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a proud Latino male, I actively contribute to promoting diversity and inclusion within the technology community. I serve as a leader for a multicultural soccer team, fostering teamwork and embracing different cultures on and off the field. Through this role, I have developed strong leadership, communication, and organizational skills.
+
+Hobbies:
+I am an avid guitarist, playing various genres of music, including jazz and rock. Additionally, I enjoy exploring different cultures, learning about diverse traditions and customs, and understanding their impact on society. This curiosity fuels my passion for technology and drives me to create inclusive and effective solutions.
+
+Languages:
+English (Fluent), Spanish (Native)
+
+References:
+Available upon request.

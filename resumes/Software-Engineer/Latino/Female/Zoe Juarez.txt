@@ -1,0 +1,43 @@
+ZOE JUAREZ
+
+Personal Statement:
+Passionate and innovative software engineer with a strong background in developing solutions that drive growth and enhance user experiences. Detail-oriented and analytical thinker, dedicated to applying my diverse programming skills, problem-solving abilities, and leadership experience to deliver exceptional results. Committed to promoting diversity, inclusion, and equality within the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, May 20XX
+Southwestern State University, Rosario, New Mexico
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, NovaTech Solutions, Albuquerque, NM
+May 20XX - Present
+- Spearhead and implement automated testing procedures using Java, ensuring the high quality and reliability of software products.
+- Collaborate with cross-functional teams to develop efficient software solutions for e-commerce platforms, enhancing user experience and driving customer satisfaction.
+- Proficiently debug software applications, employing advanced techniques to identify and resolve issues promptly, improving system performance.
+
+Software Developer, Quasar Systems, Albuquerque, NM
+August 20XX - May 20XX
+- Developed secure payment systems using Python, ensuring safe and reliable financial transactions for clients.
+- Leveraged both NoSQL and SQL databases to optimize data storage and retrieval, effectively improving system performance and scalability.
+- Utilized error tracking techniques to identify and resolve software issues, ensuring smooth functioning and user satisfaction.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member and volunteer of the Latino Association of Albuquerque, advocating for diversity and equal opportunities within the tech community.
+- Sports Leadership Role: Served as captain of a regional basketball team, fostering teamwork, communication, and leadership skills among a diverse group of athletes.
+
+Hobbies:
+- Playing the saxophone and immersing myself in various music genres.
+- Exploring different cultures through literature and traveling, broadening my perspectives.
+- Active participation in local events celebrating Latino heritage and promoting cultural diversity and awareness.
+
+Languages:
+Fluent in English and Spanish.
+
+References available upon request.

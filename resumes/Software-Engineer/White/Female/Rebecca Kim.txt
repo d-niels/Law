@@ -1,0 +1,38 @@
+Personal Statement:
+Dedicated and detail-oriented software engineer with a passion for coding and problem-solving. Skilled in multiple programming languages and database technologies, I am committed to leveraging my technical expertise to develop innovative software solutions. With a strong academic background and practical experience, I am eager to take on new challenges and contribute to the growing field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science, San Jose State University, San Jose, California
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Pixelage Solutions, San Francisco, CA
+- Developed Python-based applications for error tracking and efficient automated testing processes
+- Implemented NoSQL databases to optimize data storage and retrieval for large-scale projects
+- Collaborated closely with cross-functional teams to ensure software quality and timely project delivery
+
+Software Engineer Intern, WebTech Solutions, Sunnyvale, CA
+- Contributed to the development of Java-based ecommerce applications with a focus on debugging and enhancing user experience
+- Implemented secure payment gateways to maintain secure transactions for online shoppers
+- Utilized SQL databases for data management and retrieval to improve overall system performance
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Co-founder and President of the Women in Technology (WIT) Club at San Jose State University, organizing events and workshops to empower women in the field
+- Sports Leadership Role: Captain of the San Jose State University basketball team, leading the team to victory in the intercollegiate championships, fostering teamwork and strategic thinking
+
+Hobbies:
+- Playing the piano and composing music
+- Travelling and exploring different cultures, immersing in local traditions
+- Photography, capturing diverse landscapes and moments of natural beauty
+- Participating in community outreach initiatives and volunteering at local shelters
+
+Languages:
+- English (fluent)
+- Spanish (intermediate)

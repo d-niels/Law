@@ -1,0 +1,40 @@
+Xyla Haldar
+
+Personal Statement:
+Driven and accomplished software engineer with a passion for creating innovative solutions and enhancing user experiences. As an Indian female from San Jose, California, I am committed to breaking down barriers and advocating for diversity and inclusion in the tech industry. With a strong background in computer science and expertise in multiple programming languages and database technologies, I am dedicated to delivering highly efficient and reliable software solutions. Seeking a challenging software engineer role where I can utilize my technical skills and leadership abilities to make a positive impact.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University
+San Francisco, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Quantum Technologies
+San Francisco, CA
+- Applied debugging techniques and resolved intricate issues in software applications to ensure optimal performance and user experience.
+- Developed and maintained databases using SQL and NoSQL technologies for efficient data storage and retrieval.
+- Implemented automated testing to identify and fix potential errors and bugs, ensuring high-quality software deliverables.
+
+Software Developer, Stellar Systems
+San Jose, CA
+- Tracked errors utilizing state-of-the-art error tracking tools and implemented robust solutions to enhance system stability and reliability.
+- Developed secure payment systems using Python and integrated them seamlessly into e-commerce platforms.
+- Utilized Java programming language to create scalable and efficient software applications.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Tech Diversity Advocate: Volunteered at Tech Diversity Organization, actively working with local communities to bridge the diversity gap in the tech industry, promoting equal opportunities and empowering underrepresented groups.
+- Soccer Team Captain: Led a competitive women's soccer team, fostering leadership skills, teamwork, and promoting gender equality in sports.
+
+Hobbies:
+- Playing the sitar: An avid sitar player, using this traditional Indian instrument to express cultural diversity and heritage.
+- Art, Photography, and Creative Writing: Engaging in various forms of artistic expression to share my perspective and experiences as an Indian woman in the tech industry.
+
+Languages:
+- Proficient in English and Hindi, enabling effective communication and collaboration with diverse teams.

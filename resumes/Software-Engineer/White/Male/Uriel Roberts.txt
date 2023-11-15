@@ -1,0 +1,35 @@
+Personal Statement:
+I am a dedicated and innovative software engineer with a passion for creating cutting-edge solutions. With a Bachelor's degree in Computer Science from the prestigious Jacksonville Institute of Technology, I have honed my skills in software development and problem-solving. I am motivated to leverage my expertise and technical knowledge to drive advancements in the field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science, Jacksonville Institute of Technology, GPA: 3.9, Jacksonville, Florida
+
+Work Experience:
+Software Engineer - Stellar Software Solutions, Jacksonville, Florida
+- Developed and maintained backend software solutions using Python, ensuring high performance and efficiency
+- Conducted automated testing and debugging processes, resulting in optimized software functionality
+- Utilized SQL for efficient data management and retrieval, ensuring data integrity
+
+Software Engineer - TechnoCommerce, Jacksonville, Florida
+- Led the implementation of secure payment systems and fraud prevention measures, safeguarding transactions for e-commerce platforms
+- Implemented error tracking techniques to identify and resolve software issues, resulting in enhanced user experience
+- Designed and implemented scalable NoSQL databases to support data-intensive systems, ensuring seamless performance
+- Collaborated with cross-functional teams using Java for software development, facilitating efficient project delivery
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Proactively contributed to the Local Diversity and Inclusion Committee, advocating for equal opportunities for underrepresented groups
+- Served as a passionate and committed leader in the local community as the captain of a prominent flag football team, fostering teamwork and sportsmanship
+
+Hobbies:
+- Avid guitarist, exploring various genres and composing original music
+- Participating in local community theater productions to express creativity and collaborate with diverse talents
+
+Languages:
+- Fluent in English and Spanish.

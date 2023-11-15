@@ -1,0 +1,39 @@
+Ayesha Kulkarni
+Atlanta, Georgia | Software Engineer
+
+Personal Statement:
+Driven and detail-oriented software engineer with a passion for leveraging technology to create efficient and effective solutions. Strong analytical skills and ability to troubleshoot complex problems. Committed to diversifying the tech industry and creating opportunities for underrepresented communities.
+
+Education:
+Bachelor of Science in Computer Science | Atlanta Technical University, Atlanta, Georgia
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer | Stellar Innovations, Atlanta, Georgia
+- Developed and maintained scalable software using NoSQL databases, Python, and JavaScript.
+- Contributed to the design and implementation of an ecommerce platform focusing on secure payments.
+- Collaborated with cross-functional teams to deliver high-quality software products.
+- Assisted in system integration testing and troubleshooting customer issues.
+
+Software Developer Intern | RapidlyTech Solutions, Atlanta, Georgia
+- Gained hands-on experience in error tracking, Java programming, SQL, debugging, and automated testing.
+- Developed and implemented enhancements to existing software applications.
+- Conducted thorough testing and debugging to ensure software functionality and reliability.
+- Assisted senior developers in optimizing SQL queries and maintaining the database.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Active member of various organizations focused on diversifying the tech industry and empowering women in STEM fields. Brought awareness to the challenges faced by underrepresented communities in the tech sector. Held a leadership role as the captain of the Atlanta Tech Women's Soccer Team, organizing practices and promoting inclusivity within the team.
+
+Hobbies:
+Passionate about promoting diversity and gender equality in technology through mentorship and community outreach. Enjoys playing the violin to express creativity and highlight the cultural fusion of Indian classical music with Western influences. Actively speaks English and Hindi, fostering cross-cultural understanding.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)

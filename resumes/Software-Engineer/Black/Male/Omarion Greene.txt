@@ -1,0 +1,38 @@
+Personal Statement:
+A highly skilled and goal-oriented software engineer, Omarion Greene, is dedicated to leveraging his technical expertise to drive innovative solutions in the field of software development. With a strong passion for problem-solving and exceptional attention to detail, Omarion is committed to delivering superior software products that exceed client expectations.
+
+Education:
+Bachelor of Science in Computer Science, XYZ State University, Chicago, Illinois
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, TechCore Solutions, Chicago, Illinois
+- Developed and implemented secure payment solutions using NoSQL databases, Java, and SQL.
+- Collaborated with cross-functional teams to ensure the successful delivery of software solutions.
+- Conducted thorough testing and debugging processes to identify and fix issues.
+
+Software Development Intern, SysTech Innovations, Chicago, Illinois
+- Assisted in the development and maintenance of an ecommerce platform using Python, automated testing, and debugging techniques.
+- Utilized error tracking tools to identify and resolve system bugs.
+- Worked alongside senior engineers to enhance software performance and stability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in supporting diversity in technology, advocating for equal opportunities for individuals from underrepresented communities, including the Black community.
+- Served as a team captain and mentor for the Chicago Urban Youth Basketball League, guiding and coaching young athletes in their athletic and personal development.
+- Participated in various technology conferences and forums to promote inclusivity and highlight advancements made by minority software engineers.
+
+Hobbies:
+- Playing the saxophone, showcasing creativity and passion for music.
+- Engaging in community activities focused on promoting cultural diversity and racial equality.
+
+Languages:
+- Fluent in English and Spanish.
+
+References available upon request.

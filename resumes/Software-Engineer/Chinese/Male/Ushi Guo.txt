@@ -1,0 +1,35 @@
+Personal Statement:
+I am a driven and imaginative software engineer, dedicated to designing innovative solutions for complex technical challenges. With a solid background in computer science and hands-on experience in various software development roles, I bring a diverse skill set that allows me to contribute effectively to any project. I am particularly passionate about taking on ambitious projects and creating software solutions that positively impact people's lives.
+
+Education:
+Bachelor of Science in Computer Science, Bayshore University, Oakland, California (GPA: 3.9)
+
+Work Experience:
+Software Developer, Zenith Technologies, Oakland, California
+- Implemented advanced error tracking techniques to swiftly identify and resolve software issues.
+- Developed high-performance NoSQL databases to streamline data management processes.
+- Utilized Python scripting to enhance the functionality of an ecommerce platform.
+- Collaborated with cross-functional teams for seamless feature releases and bug fixes.
+
+Software Engineer, NovaCorp, Oakland, California
+- Proficiently utilized Java to develop and maintain cutting-edge software applications.
+- Conducted comprehensive automated testing and quality assurance procedures to ensure optimal performance.
+- Implemented secure payment systems, following industry standards and best practices.
+- Employed debugging techniques and SQL queries for efficient troubleshooting and problem-solving.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a Chinese male hailing from Oakland, California, I am deeply committed to championing diversity and inclusivity in the tech community. Actively participating in various initiatives, I strive to empower underrepresented groups, encouraging them to pursue careers in technology. Additionally, I serve as a sports leader and mentor for a local youth soccer team, cultivating teamwork, discipline, and perseverance.
+
+Hobbies:
+In my leisure time, I find solace and cultural connection by playing the traditional Chinese instrument, erhu. Its enchanting melodies allow me to stay in touch with my heritage. Furthermore, I am an avid hiker, embracing the beauty of nature and promoting sustainable living for a healthier planet.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

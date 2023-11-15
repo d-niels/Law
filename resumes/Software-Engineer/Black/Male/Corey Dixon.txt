@@ -1,0 +1,41 @@
+Personal Statement:
+As a black male software engineer hailing from Baltimore, Maryland, I am driven by the power of technology to revolutionize industries and improve lives. With a bachelor's degree in computer science from University of Maryland, Baltimore County (UMBC), where I maintained a stellar 3.9 GPA, I have honed my skills in programming and software development. I am passionate about creating innovative solutions and leveraging my strong foundation in computer science to make a meaningful impact in the world. With my determination, strong work ethic, and ability to thrive in collaborative settings, I am excited to embark on a rewarding career as a software engineer.
+
+Education:
+Bachelor of Science in Computer Science
+University of Maryland, Baltimore County (UMBC), Baltimore, Maryland
+GPA: 3.9
+
+Work Experience:
+
+Software Engineer | Quantum Solutions, Inc.
+Baltimore, Maryland | July 2018 - Present
+- Managed the development of a secure payments platform utilizing NoSQL databases and Python. Ensured the encryption and efficiency of transactions, reinforcing customer trust and data integrity.
+- Spearheaded the implementation of robust automated testing strategies, resulting in improved software quality, reduced bugs, and accelerated time-to-market.
+- Collaborated closely with cross-functional teams to design and enhance scalable software solutions, effectively meeting project objectives and client requirements.
+- Leveraged advanced problem-solving skills to identify and resolve software issues promptly, ensuring optimal performance.
+
+Software Developer | NovaTech Labs
+Baltimore, Maryland | May 2017 - June 2018
+- Developed an innovative ecommerce platform using SQL and Java, enabling seamless online transactions and enhancing user experience.
+- Implemented comprehensive error tracking systems to identify and resolve software bugs, ensuring high-quality and error-free software.
+- Conducted thorough debugging sessions, utilizing debugging tools and techniques to optimize software performance and eliminate critical issues.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively engaged in mentoring and supporting aspiring minority software engineers, providing guidance and resources to foster diversity and inclusivity in the tech industry.
+- Served as a sports team leader in basketball, promoting teamwork, discipline, and personal development among team members.
+
+Hobbies:
+- Playing the saxophone
+- Exploring diverse cultures and traditions
+- Engaging in community events promoting diversity and inclusivity
+
+Languages:
+English (Fluent), Spanish (Proficient)

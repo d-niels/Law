@@ -1,0 +1,41 @@
+Personal Statement:
+I am a dedicated and motivated software engineer with a passion for solving complex problems and creating efficient solutions. With a strong educational background in computer science and practical experience in software development, I am confident in my ability to excel in a role as a software engineer. I am committed to continuous learning and staying up-to-date with the latest industry trends and technologies. Hardworking, adaptable, and a team player, I am ready to contribute my skills and expertise to drive innovation and deliver high-quality software.
+
+Education:
+Bachelor of Science in Computer Science
+North Carolina Technical University, Charlotte, NC
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - TechSpark Solutions, Charlotte, NC
+- Developed and maintained a secure payment system, ensuring the integrity and confidentiality of customer data
+- Utilized robust debugging techniques and tools to identify and resolve software issues promptly
+- Implemented automated testing procedures to increase software reliability and minimize human error
+- Proficient in Java, contributing to the development of various software modules
+
+Software Developer - InnovateTech, Charlotte, NC
+- Collaborated with cross-functional teams to develop and enhance an e-commerce platform
+- Leveraged NoSQL and SQL databases for efficient data storage and retrieval, optimizing system performance
+- Developed Python scripts for error tracking and debugging purposes
+- Proficient in Python, SQL, and NoSQL technologies
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively engaged in the AfroTech organization at North Carolina Technical University, promoting diversity and inclusion within the tech industry and organizing events to enhance minority representation.
+- Served as a team captain for the university's basketball team, leading by example and fostering teamwork, discipline, and sportsmanship.
+- Mentored and provided guidance to underrepresented minority students pursuing careers in technology through community outreach programs.
+
+Hobbies:
+- Playing the saxophone, utilizing music as a means of self-expression and creativity.
+- Engaging in various outdoor activities such as hiking and basketball, promoting an active and healthy lifestyle.
+- Enthusiastically participating in local cultural events and celebrations, embracing diverse perspectives and celebrating heritage.
+
+Languages:
+- English: Native speaker
+- Spanish: Proficient in reading, writing, and speaking

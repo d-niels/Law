@@ -1,0 +1,56 @@
+Min Feng
+
+Personal Statement:
+Passionate and driven software engineer with a natural talent for problem-solving and an unwavering commitment to excellence. Eager to leverage my technical skills and creative mindset to develop innovative software solutions. As a Chinese male from Los Angeles, California, I take pride in representing my heritage and bringing diverse perspectives to the tech industry.
+
+Education:
+Bachelor of Science in Computer Science
+California State University, Los Angeles
+
+- Relevant Courses: Algorithms, Data Structures, Web Development, Software Engineering
+- GPA: 3.9
+
+Work Experience:
+
+Software Engineer Intern, Stellar Innovations, Los Angeles, CA
+June 2020 - August 2020
+
+- Collaborated with a multinational team of engineers to develop and implement robust software solutions using Java, Python, and SQL.
+- Conducted extensive debugging and troubleshooting to identify and resolve software defects, ensuring high-quality deliverables.
+- Assisted in database management and implemented SQL queries to optimize data retrieval and storage.
+- Contributed to the development of new features and functionality based on project requirements and user needs.
+
+Software Developer, Quantum Dynamics, Los Angeles, CA
+September 2020 - Present
+
+- Specialize in automated testing and error tracking, guaranteeing the reliability and stability of software products.
+- Utilize NoSQL databases to optimize data management and improve system performance for an e-commerce platform.
+- Led the implementation of secure payment systems, ensuring safety and trust for users during transactions.
+- Collaborate closely with cross-functional teams to develop and maintain scalable and efficient software applications.
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Chinese-American Association, California State University, Los Angeles
+- Served as a board member, organizing cultural events and fostering a sense of community among Chinese students on campus.
+- Represented the Chinese community in multicultural festivals, promoting diversity and cultural understanding.
+- Led a basketball team as captain, fostering teamwork, discipline, and sportsmanship among members.
+
+Hobbies:
+- Playing the traditional Chinese instrument, Guzheng.
+- Exploring diverse cultures through culinary experiences and learning new languages.
+- Participating in basketball leagues as a player and coach, promoting gender inclusivity and teamwork.
+
+Languages:
+- English (Fluent)
+- Mandarin (Native)
+
+References:
+Available upon request.

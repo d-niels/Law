@@ -1,0 +1,39 @@
+Jada Zimmerman
+
+Personal Statement:
+Motivated and innovative software engineer with a passion for creating efficient and user-friendly applications. Combining a strong knowledge of programming languages and database technologies with exceptional problem-solving abilities, I strive to develop high-quality software that meets the needs of diverse users. As a black female in the field, I am committed to promoting inclusivity and diversity in technology. With a background in leadership and sports, I bring a unique perspective to every project.
+
+Education:
+Bachelor of Science in Computer Science, Sunshine State University, Jacksonville, Florida
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, TechWave Solutions, Jacksonville, Florida
+- Designed and implemented scalable e-commerce platforms using SQL and NoSQL databases
+- Collaborated with cross-functional teams to enhance user experience and functionality
+- Utilized debugging techniques to identify and resolve software issues efficiently
+
+Software Developer, ByteShield Innovations, Jacksonville, Florida
+- Developed and maintained secure payment systems in Python and Java
+- Conducted automated testing to ensure software stability and reliability
+- Utilized error tracking tools to pinpoint and fix errors promptly
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active advocate for diversity and inclusivity in the tech industry, organizing workshops and events to promote opportunities for underrepresented groups
+- Football Team Captain, promoting leadership and teamwork among students while participating in a sports leadership role
+
+Hobbies:
+- Playing the saxophone
+- Exploring diverse cultures through art and music
+- Engaging in community projects supporting equality and social justice
+
+Languages:
+- English (fluent)
+- Spanish (conversational)

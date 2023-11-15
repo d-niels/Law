@@ -1,0 +1,44 @@
+Reagan Norton
+
+Personal Statement:
+Dedicated and driven software engineer with a passion for developing innovative solutions. Strong problem-solving and analytical skills combined with a solid foundation in programming languages and database technologies. Committed to diversity and promoting inclusivity within the tech industry. Seeking opportunities to leverage my skills and contribute to exciting projects.
+
+Education:
+Bachelor of Science in Computer Science, Detroit Institute of Technology, Detroit, Michigan
+- Graduated with a GPA of 3.9
+- Relevant coursework: Data Structures, Algorithms, Software Engineering
+
+Work Experience:
+Software Engineer, StellarSoft, Detroit, Michigan
+- Developed and maintained SQL databases for an e-commerce platform.
+- Implemented automated testing procedures to ensure efficiency and accuracy.
+- Utilized error tracking systems to identify and resolve software issues.
+- Collaborated with cross-functional teams to optimize the e-commerce experience.
+
+Software Developer, TechGenius, Detroit, Michigan
+- Debugged and upgraded Java and Python applications for secure payment processing.
+- Developed NoSQL databases to handle large volumes of transaction data.
+- Ensured the implementation of efficient and secure payment mechanisms.
+- Worked closely with clients to understand their requirements and deliver tailored solutions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Mentored and assisted minority students at Detroit Institute of Technology in computer science coursework, helping to increase the diversity in the tech field.
+- Served as a team captain for a local soccer club, promoting leadership and teamwork among young girls from diverse backgrounds.
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures through literature and art
+- Promoting diversity and gender equality in technology through public speaking engagements and workshops
+
+Languages:
+- English (Fluent)
+- [Optional: Additional languages]
+
+Note: This resume was created based on the provided information, adjusting some aspects for a fictional character. The university and company names are fictional and do not represent any real organizations.

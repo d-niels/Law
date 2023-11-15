@@ -1,0 +1,36 @@
+Personal Statement:
+Motivated and versatile software engineer with a passion for problem-solving and creating efficient code. I am dedicated to continuously learning and staying up-to-date with the latest technologies in the industry. With a strong background in computer science, I am eager to contribute my skills and expertise to drive innovation and deliver impactful solutions in the software engineering role.
+
+Education:
+Bachelor of Science in Computer Science, Arizona Central University, Phoenix, Arizona (Graduated with a 3.9 GPA)
+
+Work Experience:
+
+Software Engineer - Innovitech Solutions
+- Debugged and resolved complex issues in the state-of-the-art e-commerce platform, ensuring smooth operation and excellent user experience.
+- Developed and implemented automated testing strategies, resulting in a significant reduction in software defects and faster delivery of new features.
+- Utilized Java programming language to enhance the overall performance and functionality of the platform.
+- Collaborated with cross-functional teams, including developers and designers, to achieve project goals efficiently.
+
+Lead Software Engineer - CyberSecure Payments
+- Developed secure payment systems using Python, championing the implementation of state-of-the-art encryption algorithms and security practices, ensuring the protection of sensitive customer information.
+- Utilized SQL and NoSQL databases to store and retrieve data efficiently, ensuring quick and reliable transactions.
+- Implemented comprehensive error tracking systems to identify and address issues promptly, contributing to improved system stability.
+- Collaborated with cross-functional teams, including product managers and analysts, to design and develop effective software solutions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white female software engineer, I actively engage in promoting diversity and inclusion in the technology industry. I have volunteered with organizations such as "TechForward" that aim to bridge the gender and ethnicity gap in tech fields. Additionally, I have taken up a leadership role as the head coach and mentor of a local girls' soccer team, guiding them towards success both on and off the field.
+
+Hobbies:
+In my free time, I enjoy playing the violin, which allows me to express my artistic side and find balance outside the world of coding. I also actively participate in community events that celebrate cultural diversity, allowing me to connect with individuals from different ethnic backgrounds and learn about their unique experiences.
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)

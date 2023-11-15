@@ -1,0 +1,43 @@
+Gabriel Kennedy
+
+Personal Statement:
+Motivated and results-driven software engineer with a strong background in programming, debugging, and problem-solving. Dedicated to delivering high-quality software solutions, leveraging my knowledge of various programming languages and database technologies. Committed to diversity and inclusivity, I actively volunteer and engage in leadership roles to empower individuals from diverse backgrounds. Through my skills and experiences, I seek to make a meaningful impact while embracing new challenges in the field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science, University of Indianapolis, Indianapolis, Indiana
+- Graduated with honors, GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, NexTech Solutions, Indianapolis, IN
+- Developed and maintained Java, Python, SQL, and NoSQL applications for large-scale projects
+- Collaborated with cross-functional teams to design, implement, and test software solutions
+- Utilized debugging tools and error tracking techniques to quickly identify and resolve coding issues
+- Ensured the security of payment systems and implemented automated testing for seamless ecommerce platforms
+
+Software Developer, Innovex Solutions, Indianapolis, IN
+- Assisted in debugging and resolving software defects in a fast-paced environment
+- Tracked and resolved errors through an organized system to maintain software quality
+- Contributed to the development of highly secure and efficient payment processing solutions
+- Conducted thorough automated testing to verify software functionality and user experience
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of Tech Inclusivity Alliance, advocating for diversity and inclusion in the tech industry
+- Soccer team captain, leading by example, fostering teamwork, and supporting youth development in sports
+- Volunteer mentor for aspiring black male software engineers, providing guidance and support on their journey
+
+Hobbies:
+- Playing the saxophone, expressing creativity through music
+- Exploring different cultures through travel, promoting understanding and appreciation
+- Writing and blogging about diversity and inclusion in tech, raising awareness and encouraging dialogue
+
+Languages:
+Fluent in English and Spanish
+
+References available upon request.

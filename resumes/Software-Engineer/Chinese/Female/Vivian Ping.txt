@@ -1,0 +1,35 @@
+Personal Statement:
+I am a highly motivated and dynamic software engineer with a passion for developing innovative solutions to complex problems. With a strong educational background and valuable work experience, I possess the technical expertise and analytical skills needed to excel in the field. As a dedicated team player, I thrive in collaborative environments and enjoy working on challenging projects. I am eager to leverage my skills and drive for success to contribute to a progressive organization.
+
+Education:
+Bachelor of Science in Computer Science, Phoenix University, New York, New York
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, Phoenix Innovations, New York, New York
+- Developed secure payment applications using Python and Java, ensuring high levels of data privacy and protection
+- Collaborated with cross-functional teams to ensure seamless integration of payment systems
+- Utilized debugging techniques to identify and resolve software issues, optimizing overall system performance
+
+Software Engineer, Stellar Solutions, New York, New York
+- Implemented SQL and NoSQL databases to design scalable and efficient e-commerce solutions
+- Utilized error tracking systems to proactively identify and address software bugs and glitches
+- Developed automated testing processes, ensuring reliable functionality and minimizing errors
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a Chinese female engineer, I actively engage in volunteer initiatives and leadership roles to promote diversity and inclusion in the tech industry. I am an advocate for women in STEM and actively participate in organizations that support underrepresented communities. As a sports leader, I am the captain of a competitive volleyball team, fostering teamwork, dedication, and empowering fellow female athletes.
+
+Hobbies:
+In my free time, I find solace in playing the traditional Chinese instrument, the guzheng. Its graceful melodies allow me to appreciate my cultural heritage and connect with my Chinese roots. As an avid traveler, I embrace the opportunity to explore different cultures and learn about their histories and traditions.
+
+Languages:
+- English (Fluent)
+- Mandarin (Fluent)
+- Cantonese (Proficient)

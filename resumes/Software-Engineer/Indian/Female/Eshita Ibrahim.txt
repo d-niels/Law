@@ -1,0 +1,39 @@
+Personal Statement:
+As an Indian female software engineer from Atlanta, Georgia, I am driven by my passion for technology and problem-solving. With a bachelor's degree in Computer Science from Georgia Tech University, I have honed my skills in programming languages, database technologies, and software testing. I am committed to using my expertise to make a positive impact in the field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science, Georgia Tech University, Atlanta, Georgia
+GPA: 3.9
+
+Work Experience:
+Software Engineer, StellarTech Solutions, Atlanta, Georgia
+- Developed and optimized SQL queries for efficient data retrieval and analysis
+- Used error tracking tools such as Sentry and Splunk to identify and resolve software issues
+- Collaborated with cross-functional teams in the development of Java and Python applications
+- Implemented SQL databases for effective management of data
+
+Software Engineer, QuantumSoft Systems, Atlanta, Georgia
+- Designed and executed automated testing scripts using tools like Selenium and JUnit
+- Utilized NoSQL databases like MongoDB for efficient storage and retrieval of data
+- Worked on an e-commerce platform, ensuring its functionality, security, and scalability
+- Debugged and resolved issues related to secure online payment systems
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL, MongoDB
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools (Selenium, JUnit)
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Women in Tech Empowerment Organization, Atlanta, Georgia
+- Coordinated and organized events and workshops to promote diversity and inclusion in the tech industry
+- Led a team in organizing and managing basketball tournaments for female tech professionals
+- Mentored and supported individuals from diverse backgrounds to pursue careers in technology
+
+Hobbies:
+- Reading about ancient Indian history and culture
+- Playing the sitar, a traditional Indian musical instrument
+- Promoting gender equality through participation in local women empowerment initiatives
+
+Languages: English (Fluent), Hindi (Fluent), Bengali (Intermediate)

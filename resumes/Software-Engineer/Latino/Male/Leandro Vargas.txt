@@ -1,0 +1,44 @@
+Leandro Vargas
+123 Main Street, Albuquerque, New Mexico | (555) 123-4567 | leandrovargas@email.com
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a passion for finding innovative solutions to complex problems. As a Latino male from Albuquerque, New Mexico, I am committed to promoting diversity and equality in the tech industry. I thrive in collaborative environments and believe that inclusivity drives creativity and success. With a strong background in computer science and expertise in multiple programming languages, I am dedicated to creating efficient and reliable software solutions.
+
+Education:
+Bachelor of Science in Computer Science, Southwestern University, Albuquerque, New Mexico
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechNova Solutions, Albuquerque, New Mexico
+- Introduced comprehensive debugging techniques to identify and resolve software issues, ensuring seamless functionality and user experience.
+- Developed secure payment systems with a focus on data privacy and protection.
+- Implemented error tracking systems to detect and address software vulnerabilities.
+- Utilized Python to optimize software features and improve overall performance.
+
+Software Developer Intern, QuantumTech Innovations, Albuquerque, New Mexico
+- Contributed to the development and maintenance of cutting-edge e-commerce platforms.
+- Leveraged Java to create scalable and robust software solutions.
+- Conducted automated testing to ensure software quality and performance.
+- Utilized both SQL and NoSQL databases for efficient data management and retrieval.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- As a leader within the Latino community, I actively promote diversity and inclusion in the tech industry, supporting initiatives that foster representation and equal opportunities.
+- Dedicated coach for a local youth soccer team, fostering discipline, teamwork, and character development.
+- Engaged in mentorship programs for underrepresented students pursuing careers in software engineering, providing guidance and encouragement.
+
+Hobbies:
+- Playing the guitar and exploring various music genres as a passionate musician.
+- Active participant in local soccer leagues, promoting inclusivity and teamwork through the love of the sport.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References available upon request.

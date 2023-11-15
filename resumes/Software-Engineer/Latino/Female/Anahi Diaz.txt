@@ -1,0 +1,44 @@
+Anahi Diaz
+123 Elm Street, El Paso, Texas | (555) 123-4567 | anahidiaz@email.com
+
+Personal Statement:
+Dedicated and driven software engineer with a strong passion for creating innovative solutions. Committed to leveraging technology to improve user experiences and drive business growth. As a proud Latina and female, I strive to contribute my unique perspective and experiences to the field of software engineering, promoting diversity, and empowering underrepresented individuals in tech.
+
+Education:
+Bachelor of Science in Computer Science - GPA: 3.9
+Rio Grande University, El Paso, Texas
+
+Work Experience:
+Software Engineer, TechnoCorp Innovations, El Paso, Texas
+June 2018 - Present
+- Developed error tracking systems and implemented effective debugging strategies using Python, ensuring the delivery of high-quality software products.
+- Utilized automated testing techniques to enhance efficiency and accelerate the software development lifecycle.
+- Collaborated with cross-functional teams to identify and resolve software issues, resulting in a 20% decrease in customer complaints.
+
+Software Developer Intern, Stellar Software Solutions, Austin, Texas
+May 2017 - August 2017
+- Designed and implemented secure payment solutions utilizing eCommerce technologies to ensure smooth and reliable transactions.
+- Leveraged SQL and NoSQL databases to optimize data management and improve system performance.
+- Collaborated with the development team to create Java-based applications, enhancing user experience and overall system functionality.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latina Women in Technology Mentor, El Paso, Texas
+June 2020 - Present
+- Provided guidance and mentorship to young Latina women pursuing careers in technology, empowering them to overcome challenges and succeed in the field.
+- Organized coding workshops and tech events within the local Latinx community to foster interest and inclusivity in STEM fields.
+- Served as a soccer team captain and leader, promoting teamwork, discipline, and female empowerment.
+
+Hobbies:
+Playing the guitar, advocating for STEM education in underserved communities, exploring cultural diversity through literature, and promoting gender equality in tech.
+
+Languages:
+English (Fluent), Spanish (Native)
+
+Note: The fictional character of Anahi Diaz is a passionate and talented software engineer, actively involved in empowering the Latinx community in technology. The company names and university name have been fictionalized for the purposes of this character.

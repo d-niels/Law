@@ -1,0 +1,38 @@
+Personal Statement:
+As a driven and detail-oriented software engineer, I am passionate about leveraging my technical skills and problem-solving abilities to create innovative and efficient solutions. With a strong educational background in computer science and hands-on experience in various programming languages and database technologies, I am confident in my ability to contribute to the advancement of software development projects. Additionally, my involvement in volunteer and leadership roles further enhances my ability to collaborate effectively and bring diverse perspectives to the table. I am excited to apply my skills and contribute to a dynamic software engineering team.
+
+Education:
+Bachelor of Science in Computer Science, Columbus Metropolitan University, Columbus, Ohio
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Stellar Technologies, Columbus, Ohio
+- Developed and maintained SQL and NoSQL database solutions, ensuring efficient data management and retrieval.
+- Utilized error tracking and debugging techniques to identify and resolve software issues promptly.
+- Collaborated with cross-functional teams to develop and maintain reliable software applications.
+- Played a key role in optimizing system performance and enhancing user experience.
+
+Software Developer, Nova Solutions, Columbus, Ohio
+- Developed and maintained Java and Python applications for secure payment processing in an e-commerce environment.
+- Conducted automated testing to verify system functionalities, ensuring high-quality and error-free software.
+- Collaborated with team members to design and implement efficient and scalable software solutions.
+- Contributed to the enhancement of existing software by identifying and resolving bugs and issues.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Served as a mentor in the Columbus Metropolitan University's Women in Computer Science program, providing support and guidance to underrepresented female students in pursuing technical careers.
+- Acted as a team captain, organizing and coaching a youth soccer team, fostering teamwork, discipline, and leadership skills among the players.
+
+Hobbies:
+- Playing the flute and saxophone
+- Participating in local dance competitions
+- Exploring diverse cultures through literature and art
+
+Languages:
+- Fluent in English and Spanish

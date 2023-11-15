@@ -1,0 +1,39 @@
+Personal Statement:
+Motivated and detail-oriented software engineer with a passion for problem-solving and a strong background in computer science. Coming from a diverse background as a Chinese male from Philadelphia, I bring a unique perspective and an understanding of the importance of inclusivity in technology. Adaptable and eager to learn, I am dedicated to delivering high-quality solutions that meet the needs of both users and stakeholders.
+
+Education:
+Bachelor of Science in Computer Science, XYZ University (Philadelphia, Pennsylvania)
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, Tech Innovators Inc. (Philadelphia, Pennsylvania)
+- Developed and maintained e-commerce applications using Java, ensuring seamless interaction with database systems.
+- Implemented secure error tracking mechanisms to identify and resolve software issues efficiently.
+- Utilized NoSQL databases to enhance data retrieval performance and improve overall system efficiency.
+
+Software Engineer Intern, CyberTech Solutions (Philadelphia, Pennsylvania)
+- Conducted automated testing to identify software defects and improve product quality.
+- Utilized SQL for performing database operations and optimizing query performance.
+- Collaborated with the development team to debug and resolve software issues effectively.
+- Developed and maintained Python scripts for automation of repetitive tasks.
+- Implemented secure payments features to ensure safe and reliable financial transactions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership in Youth Association (Basketball)
+- Led and organized basketball programs, fostering teamwork and promoting physical well-being among young individuals.
+- Mentored a diverse group of students, teaching them vital life skills such as teamwork, dedication, and perseverance.
+
+Hobbies:
+- Playing the piano to express creativity and cultivate a peaceful mindset.
+- Exploring various cultures through international music, art, and literature.
+- Participating in community events that promote diversity and inclusion.
+
+Languages:
+- Fluent in English and Mandarin Chinese

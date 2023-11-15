@@ -1,0 +1,41 @@
+Aashi Agarwal
+
+Personal Statement:
+Dedicated software engineer with a passion for developing innovative solutions. Committed to leveraging expertise in programming languages, database technologies, and problem-solving skills to drive impactful results. Strongly believe in the power of diversity and actively promote inclusivity in the tech industry. As an Indian female from Philadelphia, I aim to inspire and empower others from similar backgrounds to excel in the field.
+
+Education:
+Bachelor of Science in Computer Science
+InventTech University, Philadelphia, Pennsylvania
+GPA: 3.9
+
+Work Experience:
+Software Engineer - TechGenius Solutions, Philadelphia, PA (2018-2020)
+- Implemented automated testing procedures to streamline product development and ensure high-quality software performance.
+- Collaborated with cross-functional teams to build and maintain a cutting-edge eCommerce platform, delivering seamless user experiences.
+- Utilized advanced error tracking systems to identify and resolve software issues promptly.
+- Contributed to the integration of secure payment gateways, ensuring data protection and transaction security.
+
+Software Developer - ByteCraft Innovations, Philadelphia, PA (2016-2018)
+- Applied extensive knowledge of NoSQL and SQL databases to design and optimize data structures, significantly improving system performance.
+- Developed Python scripts for data manipulation and analysis, enhancing team efficiency and addressing complex business requirements.
+- Utilized sophisticated debugging techniques and tools to identify and fix software issues, ensuring smooth functionality.
+- Implemented Java-based solutions for various modules, contributing to the overall project objective.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively engaged in promoting diversity and inclusivity within the tech industry by organizing and participating in various initiatives, including workshops and mentorship programs.
+- Served as a team leader in field hockey, inspiring and guiding female athletes to pursue their passion for sports and achieve excellence.
+
+Hobbies:
+- Playing the piano, celebrating the rich heritage of Indian classical music and exploring diverse musical genres.
+- Embracing multicultural literature, reading and engaging with novels and poems from different cultures, broadening my perspective.
+- Engaging in photography, capturing the beauty of diverse landscapes and people, promoting the beauty of diversity and cultural exchange.
+
+Languages:
+Fluent in English and Hindi.

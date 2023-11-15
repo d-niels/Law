@@ -1,0 +1,39 @@
+Personal Statement:
+I am a dedicated and passionate software engineer with a strong background in computer science. As a proud Latina from Albuquerque, New Mexico, I am determined to contribute to the tech industry while bringing a unique perspective to the table. My experience and education have equipped me with a solid skill set, and I constantly strive to stay updated with emerging technologies to deliver innovative and efficient software solutions.
+
+Education:
+Bachelor of Science in Computer Science, Rio Grande University, Albuquerque, New Mexico
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, TechSolutions Inc., Albuquerque, New Mexico
+- Developed and maintained web applications using Java, SQL, Python, and automated testing techniques
+- Collaborated with cross-functional teams to identify and resolve software issues
+- Assisted in database design and implementation using SQL and NoSQL technologies
+
+Software Engineer Intern, InnovateTech, Albuquerque, New Mexico
+- Contributed to the development of secure payment and e-commerce systems
+- Utilized error tracking and debugging skills to identify and resolve software issues
+- Assisted in the implementation of NoSQL databases for efficient data storage and retrieval
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry, specifically supporting and empowering fellow Latinas pursuing careers in technology
+- Served as a soccer team captain, leading and mentoring young girls to foster teamwork, discipline, and personal growth
+
+Hobbies:
+- Playing the guitar, channeling my creativity through music
+- Embracing my cultural heritage through traditional dance performances
+- Exploring various software development languages and frameworks to expand my skill set
+
+Languages:
+- English (Fluent)
+- Spanish (Fluent)
+
+References available upon request.

@@ -1,0 +1,38 @@
+Personal Statement:
+As a proud Latino male from Houston, Texas, I am a dedicated software engineer with a deep passion for problem-solving and forward-thinking solutions. With a resilient work ethic and an unwavering commitment to excellence, I am eager to contribute my talents to a thriving tech team.
+
+Education:
+Bachelor of Science in Computer Science, Tech Haven University, Houston, Texas | GPA: 3.9
+
+Work Experience:
+
+Software Engineer, StellarTech Solutions, Houston, Texas
+- Leveraged NoSQL databases to optimize data management systems for clients
+- Developed cutting-edge ecommerce platforms to enhance online shopping experiences
+- Proficient in debugging and troubleshooting complex code issues
+- Successfully utilized SQL for efficient data retrieval and manipulation
+
+Software Developer, Nova Applications, Houston, Texas
+- Spearheaded automated testing initiatives, significantly improving the reliability of software applications
+- Implemented error tracking systems to streamline bug detection and resolution
+- Expertise in secure payments integration, ensuring seamless and protected transactions
+- Skilled in Python and Java programming languages
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinx Tech Association, Houston chapter:
+- Actively fostered diversity and inclusivity within the tech community, advocating for underrepresented minorities in the field
+- Mentored aspiring young students from underprivileged communities, guiding them towards educational and career opportunities in technology
+- Led a sports team, promoting teamwork, camaraderie, and cultural exchange through passionate involvement in soccer
+
+Hobbies:
+- Playing the guitar, exploring various genres of music
+- Fluent in English and Spanish, proficient in Portuguese
+
+With a unique blend of technical expertise and a commitment to diversity and leadership, I am determined to drive positive change in the tech industry. Drawn to continuous learning and innovation, I am confident in my ability to contribute as a highly valuable member of any software engineering team.

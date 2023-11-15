@@ -1,0 +1,48 @@
+Personal Statement:
+Motivated and dedicated software engineer with a strong passion for problem-solving and a keen eye for detail. With a solid education in computer science and practical experience in software development, I am driven to create innovative solutions and contribute to the advancement of technology. As a Chinese female in the field, I aim to inspire and empower others from diverse backgrounds. In my free time, I enjoy playing the erhu, hiking, and capturing moments through photography.
+
+Education:
+Bachelor of Science in Computer Science
+Golden State University - San Francisco, CA
+GPA: 3.9
+Relevant coursework: Algorithms, Object-Oriented Programming, Database Systems
+
+Work Experience:
+Software Engineer Intern
+ByteCrate Tech, Inc. - San Francisco, CA
+- Developed and maintained software applications using Python, Java, and SQL
+- Effectively tracked errors and implemented bug fixes to ensure high-quality software delivery
+- Collaborated with cross-functional teams to implement new features and enhancements
+
+Software Engineer
+TechNex Solutions - Oakland, CA
+- Debugged and resolved issues in a secure payments platform, ensuring smooth and reliable transactions
+- Utilized NoSQL databases for data storage and retrieval in an ecommerce environment
+- Conducted automated testing to validate system functionality and maintain code integrity
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Founder and Organizer, Women in Tech Empowerment Group
+- Established and led an empowerment group for women pursuing careers in technology
+- Organized networking events and speaker sessions to foster professional growth and community engagement
+- Mentored and provided support to aspiring women software engineers, addressing the challenges faced by underrepresented groups in the industry
+
+Sports Leadership Role: Basketball Team Captain
+- Led a women's basketball team to regional championships, fostering teamwork, discipline, and leadership skills
+- Organized practice sessions, developed strategic game plans, and motivated teammates to excel on and off the court
+
+Hobbies:
+Playing the erhu (traditional Chinese instrument), hiking, photography
+- Promote cultural diversity through music and explore various genres
+- Find solace and rejuvenation in nature through hiking
+- Capture moments and express creativity through photography
+
+Languages:
+- English (fluent)
+- Mandarin Chinese (native)

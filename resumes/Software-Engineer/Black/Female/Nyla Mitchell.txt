@@ -1,0 +1,45 @@
+Nyla Mitchell
+123 Main St, Baltimore, MD 12345 | (555) 123-4567 | nyla.mitchell@email.com
+
+Personal Statement:
+Results-driven software engineer with a passion for problem-solving and creating innovative solutions. Highly motivated individual with a strong analytical mindset and expertise in programming languages, database technologies, and software testing. Committed to designing and developing high-quality software to drive technological advancements. Thrives in collaborative environments and seeks to contribute to a dynamic and inclusive team as a software engineer.
+
+Education:
+Bachelor of Science in Computer Science, Baltimore City University, Baltimore, MD
+- Graduated with a 3.9 GPA
+- Relevant coursework: Data Structures, Algorithms, Software Engineering, Computer Networks
+
+Work Experience:
+Software Engineer Intern, NovaTech Solutions, Inc., Baltimore, MD                       Aug 20XX - Dec 20XX
+- Collaborated with an interdisciplinary team to develop and debug software applications
+- Utilized SQL to manage and optimize database systems for efficient data handling
+- Demonstrated proficiency in error tracking to identify and promptly resolve software issues
+- Developed applications using Java, following industry best practices and coding standards
+
+Software Engineer, Cybergen X, Baltimore, MD                                                             Jan 20XX - Present
+- Led the development of a cutting-edge e-commerce platform, ensuring secure payments and seamless user experience
+- Implemented NoSQL databases to streamline data storage and retrieval processes
+- Developed and executed automated testing protocols to ensure software quality and minimize errors
+- Leveraged Python to design and enhance various software features and functionalities
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- As a black female software engineer, actively mentors and supports young women of color pursuing careers in technology, providing guidance and advice to help them overcome challenges and achieve their goals
+- Served as a team captain in amateur volleyball leagues, fostering teamwork, motivation, and inclusivity within a diverse group of athletes
+
+Hobbies:
+- Playing the piano, expresses creativity and passion through music that captivates the emotions
+- Exploring different cultures and traditions, promoting diversity and celebrating heritage through travel and cultural events
+- Engaging in community outreach programs that empower underrepresented groups in the tech industry
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)
+
+References available upon request.

@@ -1,0 +1,37 @@
+Personal Statement:
+Highly motivated and accomplished software engineer with a passion for creating innovative and efficient solutions. Committed to delivering high-quality software products, I thrive in team-oriented and challenging environments. With a strong foundation in computer science and a proven track record in both automated testing and debugging, I am dedicated to utilizing my expertise to drive success in software development.
+
+Education:
+Bachelor of Science in Computer Science
+Southwest Technical University, Albuquerque, NM
+GPA: 3.9
+
+Work Experience:
+Software Engineer | Quantum Technologies, Albuquerque, NM
+- Developed and implemented automated testing procedures to ensure the quality and reliability of software products.
+- Worked on the design and implementation of an ecommerce platform, focusing on secure payment integration and NoSQL databases.
+- Collaborated with cross-functional teams to troubleshoot and resolve issues in a timely manner.
+
+Software Engineer Intern | NovaSoft, Albuquerque, NM
+- Assisted in debugging and error tracking for complex software systems using SQL, Python, and Java.
+- Supported the development team in creating efficient and scalable code solutions.
+- Worked closely with senior engineers to implement improvements in the software development lifecycle.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinx in Tech Organization, Member
+- Actively mentor and provide guidance to young Latino individuals pursuing careers in technology.
+- Organize workshops and events to promote diversity and inclusion within the tech industry.
+- Led a sports leadership role in soccer, fostering teamwork and sportsmanship within the community.
+
+Hobbies:
+Playing the guitar, participating in community events celebrating Latino culture, and learning new languages.
+
+Languages:
+Fluent in English and Spanish.

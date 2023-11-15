@@ -1,0 +1,45 @@
+Chloe Mitchell
+1234 Address Street, City, State, Zip Code
+Phone: (123) 456-7890
+Email: chloemitchell@email.com
+
+Personal Statement:
+Motivated software engineer with a strong passion for developing innovative and reliable software solutions. Skilled in various programming languages, database technologies, and testing and debugging methodologies. Committed to leveraging technical expertise to drive value and exceed expectations. An enthusiastic team player with excellent problem-solving abilities and a dedication to continuous learning.
+
+Education:
+Bachelor of Science in Computer Science (Minor in Mathematics)
+ABC University, Washington, District of Columbia
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern, Phoenix Technologies, City, State
+- Leveraged Java and SQL to develop and maintain ecommerce platforms, ensuring seamless online transactions for customers.
+- Utilized error tracking tools to identify and resolve issues, resulting in a 25% increase in system stability.
+
+Software Developer, Jupiter Solutions, City, State
+- Created secure payment systems using Python, ensuring a safe and reliable environment for financial transactions.
+- Conducted automated testing and utilized debugging techniques to identify and resolve software glitches.
+- Utilized NoSQL databases for efficient data management and retrieval.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer Mentor, Tech Girls Organization: Mentored young girls from underrepresented communities, empowering them with technical skills and fostering diversity in the tech industry.
+- Sports Leadership Role: Served as the Captain of the ABC University Women's Volleyball team, promoting collaboration, leadership, and teamwork.
+
+Hobbies:
+- Playing the guitar
+- Reading books on African-American history
+- Participating in cultural showcases celebrating African-American heritage
+
+Languages:
+- English (Native)
+- Spanish (Fluent)
+
+References:
+Available upon request

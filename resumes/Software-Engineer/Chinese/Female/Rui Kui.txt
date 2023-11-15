@@ -1,0 +1,47 @@
+RUI KUI
+Chicago, Illinois  |  +1 (123) 456-7890  |  rui.kui@email.com
+
+PERSONAL STATEMENT
+Driven and innovative Software Engineer with a passion for creating impactful solutions. Detail-oriented and dedicated to delivering high-quality code. Continuously expanding technical knowledge to stay up-to-date with industry trends and advancements.
+
+EDUCATION
+Bachelor of Science in Computer Science (3.9 GPA)
+Northwestern University, Evanston, Illinois, USA
+
+WORK EXPERIENCE
+
+Software Engineer | Innovex Software Solutions, Chicago, Illinois | January 2018 - Present
+- Developed and maintained a robust e-commerce platform using Python, NoSQL, and SQL, resulting in streamlined processes and improved user experience.
+- Collaborated with cross-functional teams to design, implement, and test new features, ensuring a seamless software integration.
+- Utilized data analytics to identify performance bottlenecks and optimize system efficiency, significantly improving overall performance.
+
+Software Developer | Visionary Solutions, Chicago, Illinois | May 2016 - December 2017
+- Implemented error tracking and secured payment processing using Java and automated testing, ensuring error-free and efficient transactions for various web applications.
+- Collaborated with the Quality Assurance team to identify and resolve software bugs, enhancing system stability and end-user experience.
+- Optimized code and implemented software updates to enhance application performance and reliability.
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Chinese Association of Chicago, Member | 2015 - Present
+- Actively participate in promoting Chinese culture and fostering community bonds.
+- Organize and lead various cultural events such as Lunar New Year celebrations and traditional dance performances.
+- Mentor young Chinese female students pursuing careers in technology, providing guidance and support.
+
+Sports Leadership Role | Women's Basketball Team, Northwestern University | 2013 - 2016
+- Demonstrated exceptional leadership skills as the captain of the women's basketball team, fostering teamwork, discipline, and a competitive spirit.
+- Coordinated practice sessions, developed team strategies, and provided individual support to enhance team performance and personal growth.
+
+HOBBIES
+- Playing the Guzheng (a traditional Chinese musical instrument)
+- Exploring diverse cultures through travel, capturing memories through photography
+- Engaging in outdoor activities such as hiking and swimming
+
+LANGUAGES
+- English (fluent)
+- Mandarin Chinese (native)

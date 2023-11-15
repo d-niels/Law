@@ -1,0 +1,47 @@
+PERSONAL STATEMENT
+ 
+Dedicated and innovative software engineer with a passion for creating efficient and scalable solutions. As a black male from Memphis, Tennessee, I bring a unique perspective and diverse set of experiences to the tech industry. My goal is to utilize my skills and background to contribute to the advancement of technology and bridge the gap of representation in the field.
+
+EDUCATION
+ 
+Bachelor of Science in Computer Science, Delta State University - Cleveland, Mississippi (GPA: 3.9)
+ 
+WORK EXPERIENCE
+ 
+Software Engineer Intern, TechSolutions Inc. - Nashville, Tennessee
+- Collaborated with a team to develop and debug secure payment systems using Java and NoSQL databases.
+- Implemented automated testing procedures to ensure product quality and robustness.
+- Utilized Java programming to enhance the overall efficiency and functionality of the company's software.
+
+Software Developer, TechElite Solutions - Memphis, Tennessee
+- Managed error tracking and resolved issues using SQL and Python scripting.
+- Developed and maintained an ecommerce platform, improving the user experience and ensuring data integrity.
+- Collaborated with cross-functional teams to troubleshoot and optimize system performance.
+
+SKILLS
+ 
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+ 
+Diversity Advocate, Delta State University - Cleveland, Mississippi
+- Actively participated in initiatives promoting diversity and inclusion within the computer science department.
+- Organized and led discussions and workshops addressing the importance of representation in the tech industry.
+ 
+Soccer Team Captain, Memphis Youth Soccer Club - Memphis, Tennessee
+- Led and mentored a diverse team of young soccer players, fostering leadership and sportsmanship skills.
+- Promoted inclusivity within the team, ensuring that every player felt welcome and supported.
+
+HOBBIES
+ 
+Playing the saxophone, a cultural instrument that holds deep significance in the African-American community and allows me to express my creativity.
+- Engaging in diverse cultural activities and events to expand my understanding of various traditions and perspectives.
+
+LANGUAGES
+ 
+English (Fluent)
+Spanish (Conversational)

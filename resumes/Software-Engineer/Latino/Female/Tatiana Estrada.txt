@@ -1,0 +1,39 @@
+Tatiana Estrada
+
+Personal Statement:
+As a passionate software engineer, I am driven by my love for problem-solving and creating innovative solutions. With a strong educational background in computer science and hands-on experience in software development, I am committed to enhancing user experiences through cutting-edge technology. With a diverse background as a Latino female, I am dedicated to breaking barriers and promoting inclusivity in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Phoenix University, Phoenix, Arizona, May 20XX
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Innovatix Tech Solutions, Phoenix, Arizona
+- Developed and implemented Java-based ecommerce solutions, resulting in increased revenue by 20%.
+- Conducted thorough debugging and troubleshooting of software applications, identifying and resolving issues promptly.
+- Utilized Python for efficient data analysis, optimizing business processes.
+- Collaborated with cross-functional teams to ensure seamless integration of technology solutions.
+
+Software Developer, TechVision, Phoenix, Arizona
+- Led error tracking and resolution efforts, minimizing system downtime by 30%.
+- Utilized NoSQL databases to ensure secure payments within the company's online platform.
+- Implemented automated testing procedures, reducing the time and effort required for quality assurance.
+- Utilized SQL to optimize database queries, enhancing system performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Co-founder of LatinaTech Community, organizing events and mentorship programs to empower women and underrepresented groups in the tech industry.
+- Sports Leadership: Captain of the Women's Soccer Team, representing Phoenix University, promoting team cohesion and fostering leadership skills.
+
+Hobbies:
+- Playing the guitar
+- Dance enthusiast, specializing in Mexican folk dance
+- Fluent in English and Spanish
+
+References available upon request.

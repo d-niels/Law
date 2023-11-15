@@ -1,0 +1,35 @@
+Personal Statement:
+As a dedicated software engineer, I am passionate about leveraging my technical skills to create innovative solutions. Born and raised in Albuquerque, New Mexico, I take immense pride in my Latino heritage and actively seek opportunities to contribute to the diversity and inclusivity of the tech industry. With a strong educational foundation in computer science, I am committed to continuous learning and making a positive impact through my work.
+
+Education:
+Bachelor of Science in Computer Science, University of New Mexico, Albuquerque, New Mexico
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, StellarTech Solutions, Albuquerque, New Mexico
+- Utilized automated testing techniques to ensure the quality and reliability of software applications
+- Implemented NoSQL databases to design efficient data management solutions
+- Developed secure payment systems for e-commerce platforms using Java and played a key role in ensuring transactional security.
+
+Software Engineer, QuantumCode Technologies, Albuquerque, New Mexico
+- Led error tracking and debugging efforts to identify and resolve software issues promptly
+- Implemented Python scripts to enhance system performance and efficiency
+- Utilized SQL for database management and optimization in an e-commerce environment, ensuring seamless transactions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Heritage Club, University of New Mexico
+- Actively promoted cultural awareness and appreciation within the university community
+- Organized events and workshops to celebrate and educate others about Latino heritage
+- Served as a team captain for the university's soccer team, promoting teamwork and empowering young women in sports.
+
+Hobbies:
+Playing the guitar and singing, celebrating Latino cultures through music
+Other ethnic and gender indicators: Traditional dance and participating in community events, promoting diversity and inclusivity
+Languages: Fluent in English and Spanish

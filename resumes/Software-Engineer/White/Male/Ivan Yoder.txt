@@ -1,0 +1,44 @@
+Ivan Yoder
+San Jose, California | (555) 123-4567 | ivanyoder@email.com
+
+Personal Statement:
+Highly skilled and result-oriented software engineer with a passion for developing innovative solutions. Strong expertise in NoSQL, secure payments, and automated testing. Committed to delivering high-quality code and solving complex problems. Eager to contribute value and make a positive impact on the cutting-edge technology industry.
+
+Education:
+Bachelor of Science in Computer Science | California Polytechnic State University, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | Enigma Technologies, San Jose, CA | January 2018 - Present
+- Developed and maintained a secure payments system using NoSQL databases and Java
+- Implemented automated testing strategies, ensuring reliability and efficiency of the software
+- Collaborated with cross-functional teams to identify and resolve technical issues
+- Contributed to code review sessions, ensuring high-quality and robust codebase
+
+Software Developer | Evolve Solutions, San Francisco, CA | May 2016 - December 2017
+- Worked on a team responsible for the development and maintenance of an ecommerce platform
+- Debugged and resolved issues, utilizing error tracking and debugging techniques
+- Developed scalable solutions using Python and SQL
+- Collaborated with stakeholders to define and implement essential features
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Fostering diversity and inclusion by actively participating in the Bay Area Women in Tech organization
+- Mentoring underrepresented individuals pursuing careers in software engineering and promoting diversity in the tech industry
+- Demonstrated exceptional leadership skills as the captain of the San Jose Sharks Hockey Team
+
+Hobbies:
+- Playing the trumpet in a local jazz band, showcasing diversity through music and cultural fusion
+- Exploring different cultures through travel experiences and learning about global perspectives
+
+Languages:
+- English (Native)
+- Spanish (Conversational level)
+
+Note: Ethnicity, race, and gender should not be factors in the evaluation or consideration of a candidate for employment.

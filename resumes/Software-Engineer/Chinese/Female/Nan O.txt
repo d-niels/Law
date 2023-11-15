@@ -1,0 +1,38 @@
+Personal Statement:
+As a dedicated and detail-oriented software engineer, I am driven by the desire to create cutting-edge solutions that enhance user experiences. With a solid academic foundation in computer science and valuable experience in the field, I am confident in my ability to contribute to the success of any software development team.
+
+Education:
+Bachelor of Science in Computer Science, Sunshine University, Honolulu, Hawaii
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Luminary Technologies, Honolulu, Hawaii
+- Collaborated with cross-functional teams to develop and maintain robust and scalable e-commerce applications, focusing on enhancing user experience and driving sales.
+- Utilized various debugging techniques and error tracking tools to resolve issues and improve software performance.
+- Developed and implemented automated testing procedures to ensure software functionality and quality, resulting in a 20% reduction in bug reports.
+
+Software Developer Intern, Stellar Solutions, Honolulu, Hawaii
+- Designed and implemented secure payment solutions using SQL databases and NoSQL technologies.
+- Employed Java and Python programming languages to optimize application performance and streamline data processing.
+- Assisted in the development of software modules, contributing to effective integration and functionality improvement.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in the Asian Women in Computing organization, supporting and empowering aspiring Asian female technologists.
+- Served as a team leader for a youth soccer program, fostering teamwork and instilling valuable life skills in young girls.
+
+Hobbies:
+- Playing the traditional Chinese instrument, Guzheng, creating melodic interpretations of classical and contemporary music.
+- Exploring diverse literature and cinema, indulging in multicultural stories that broaden perspectives.
+- Participating in local cultural festivals, celebrating and sharing the rich traditions of Chinese and Hawaiian heritage.
+
+Languages:
+- Fluent in Mandarin Chinese and English
+
+References available upon request.

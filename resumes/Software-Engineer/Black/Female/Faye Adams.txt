@@ -1,0 +1,38 @@
+Personal Statement:
+As a black female software engineer hailing from Memphis, Tennessee, my passion for breaking boundaries and defying stereotypes fuels my drive in the tech industry. With a bachelor's degree in computer science from Techley University, I have gained a solid foundation in programming languages, database technologies, and problem-solving skills. My experience and commitment to diversity and leadership enable me to bring fresh perspectives and innovative solutions to every software engineering project.
+
+Education:
+Bachelor of Science in Computer Science, Techley University, Memphis, Tennessee
+- Major: Computer Science
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, InnovateTech Solutions, Memphis, Tennessee
+- Developed and maintained Python-based software applications, utilizing NoSQL and SQL databases.
+- Demonstrated exceptional debugging skills by identifying and resolving complex coding issues, ensuring seamless functionality.
+- Integrated secure payment gateways to the e-commerce platform, enhancing transaction efficiency and reliability.
+- Worked collaboratively with cross-functional teams to implement and improve automated testing procedures and error tracking systems.
+
+Software Engineer Intern, TechPros Consulting, Memphis, Tennessee
+- Contributed to Java software application development focused on e-commerce platforms and secure payments.
+- Conducted comprehensive automated testing to identify and rectify potential vulnerabilities, ensuring the system's robustness.
+- Utilized effective error tracking techniques to troubleshoot and resolve intricate issues, ensuring optimal performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively championed diversity and inclusion in the tech industry, advocating for increased representation of black females in STEM through speaking engagements and mentorship programs.
+- Sports Leadership Role: Served as captain of the university's basketball team, cultivating teamwork, discipline, and resilience.
+
+Hobbies:
+- Playing the saxophone, using music as a means of personal expression.
+- Exploring diverse cultures through art and literature, with a particular focus on showcasing the experiences of women of color.
+
+Languages:
+- English (Fluent)
+- [Add additional languages if applicable]

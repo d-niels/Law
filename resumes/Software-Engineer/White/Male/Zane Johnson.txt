@@ -1,0 +1,36 @@
+Personal Statement:
+I am an ambitious and detail-oriented software engineer from San Antonio, Texas, dedicated to creating efficient and reliable solutions. With a strong background in computer science, I am equipped with a diverse skill set that includes expertise in programming languages such as Java, Python, C#, and JavaScript, as well as database technologies like SQL and NoSQL. My passion for problem-solving, combined with my analytical skills and debugging techniques, enables me to develop high-quality software that meets user needs. Furthermore, my leadership experience and commitment to diversity and inclusion have shaped my approach towards creating inclusive software solutions. I am excited to contribute to a dynamic team and drive innovation in the software engineering field.
+
+Education:
+Bachelor of Science in Computer Science, San Antonio University, San Antonio, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Innovex Solutions, San Antonio, Texas
+- Leveraged Java and SQL to develop secure payment systems for various e-commerce platforms.
+- Implemented error tracking systems to identify and resolve software issues efficiently.
+
+Software Engineer, Futura Technologies, San Antonio, Texas
+- Collaborated with cross-functional teams to develop and maintain an e-commerce platform using Python and NoSQL.
+- Conducted automated testing and implemented debugging techniques to ensure seamless system functionality.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Diversity in Tech Organization, San Antonio, Texas
+- Spearheaded initiatives to promote diversity and inclusion in the tech industry.
+- Coordinated workshops and events to empower underrepresented groups, including racial and ethnic minorities.
+- Led a leadership role in basketball, fostering teamwork and promoting inclusivity in a co-ed basketball league.
+
+Hobbies:
+Exploring Different Cultures: I enjoy immersing myself in various ethnic traditions, customs, and histories to broaden my understanding and appreciation of diversity.
+Playing the Piano: Playing the piano allows me to express my creativity and passion for music, providing a well-rounded balance to my technical pursuits.
+
+Languages:
+English (Fluent)
+Spanish (Conversational)

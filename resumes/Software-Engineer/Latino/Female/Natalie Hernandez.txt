@@ -1,0 +1,39 @@
+Personal Statement:
+As a passionate software engineer, I am determined to leverage my exceptional technical skills and dedication to create innovative solutions. Committed to continuous learning and growth, I thrive in collaborative environments where I can contribute my diverse perspective as a Latino female from San Jose, California.
+
+Education:
+Bachelor of Science in Computer Science, San Jose State University, San Jose, CA (GPA: 3.9)
+
+Work Experience:
+Software Engineer, CyberTech Solutions, San Francisco, CA
+- Developed and maintained Java-based applications, implementing automated testing and debugging techniques.
+- Utilized NoSQL databases for efficient data storage and retrieval.
+- Conducted error tracking and resolution processes, ensuring high-quality software deliverables.
+- Collaborated with cross-functional teams to address complex technical issues, fostering effective problem-solving.
+
+Software Engineer, TechWave Innovations, Oakland, CA
+- Designed and implemented secure payment systems for an e-commerce platform using Python and SQL.
+- Conducted automated testing to ensure seamless and error-free transaction processes.
+- Collaborated with internal teams to optimize e-commerce experiences, resulting in increased revenue.
+- Worked closely with stakeholders to gather requirements and deliver customized software solutions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinos in Tech, Member and Basketball Team Captain
+- Actively engage in promoting diversity and inclusivity within the tech industry, particularly for the Latino community.
+- As the captain of the basketball team, organize practices, motivate teammates, and lead by example both on and off the court.
+
+Hobbies:
+- Playing the guitar
+- Exploring diverse cultures and traditions
+- Learning about different languages and appreciating their unique characteristics
+
+Languages:
+- English (Fluent)
+- Spanish (Native)

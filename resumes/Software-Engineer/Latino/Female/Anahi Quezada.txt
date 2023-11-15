@@ -1,0 +1,38 @@
+Anahi Quezada
+
+Los Angeles, California | (555) 123-4567 | anahi.quezada@email.com
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a passion for creating innovative solutions. Skilled in various programming languages and database technologies, with a strong focus on testing and debugging. Committed to leveraging technology to drive positive change and provide seamless user experiences.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+California State University, Los Angeles, CA
+
+Work Experience:
+Software Engineer, TechnoMatrix Solutions, Los Angeles, CA | 2018-2020
+- Developed robust backend systems utilizing NoSQL databases and Python programming language.
+- Conducted error tracking and debugging to identify and eliminate software issues timely.
+- Collaborated closely with cross-functional teams to ensure seamless integration of software components.
+
+Software Developer, Innovix Software Inc., Los Angeles, CA | 2017-2018
+- Implemented automated testing procedures to enhance software quality and reliability.
+- Utilized Java programming language and SQL for efficient data management.
+- Spearheaded the development of secure payment systems for e-commerce platforms.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a proud Latina woman, I actively engage in community initiatives that promote diversity and inclusivity in the tech industry. I have served as a mentor for underrepresented youth, inspiring them to pursue careers in the STEM field. Additionally, I am a team captain for a local volleyball organization, fostering teamwork and leadership skills in young girls.
+
+Hobbies:
+In my spare time, I enjoy playing the piano and exploring different genres of music. I am also an avid reader, constantly seeking knowledge through literature. Furthermore, I am fluent in both English and Spanish, allowing me to effectively communicate and connect with diverse individuals.
+
+Languages:
+- English: Native proficiency
+- Spanish: Native proficiency

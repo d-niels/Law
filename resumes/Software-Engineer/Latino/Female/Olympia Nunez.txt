@@ -1,0 +1,43 @@
+Olympia Nunez
+
+Personal Statement:
+Driven software engineer with a passion for crafting innovative solutions and enhancing the digital landscape. As a proud Latina female from El Paso, Texas, I bring a unique perspective to the field, rooted in diverse cultures and experiences. My goal is to contribute to technological advancements through development, problem-solving, and leadership, while advocating for underrepresented communities.
+
+Education:
+Bachelor of Science in Computer Science, TechGenius University (El Paso, Texas)
+- Graduated with a 3.9 GPA, May 20XX
+
+Work Experience:
+Software Engineer Intern, CyberSolutions Tech (El Paso, Texas)
+- Developed and maintained SQL and NoSQL databases for an advanced e-commerce platform
+- Utilized cutting-edge error tracking tools to swiftly identify and resolve system issues
+- Collaborated with cross-functional teams to implement a secure and user-friendly payments system
+- Contributed to the creation of a scalable and efficient infrastructure, optimizing performance
+
+Junior Software Engineer, ByteMaster Solutions (El Paso, Texas)
+- Designed and implemented automated testing procedures using Python, ensuring software quality and reliability
+- Demonstrated exceptional debugging skills to resolve complex software issues swiftly
+- Developed Java applications to enhance product functionalities and user experience
+- Collaborated closely with team members to ensure secure and efficient payment transactions
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of Latinx in Tech organization, promoting representation, diversity, and empowerment within the industry
+- Sports Leadership Role: Captain of a local women's basketball team, leading and motivating teammates to success while fostering teamwork and community engagement
+
+Hobbies:
+- Playing the piano, channeling emotions and creativity through musical expression
+- Exploring diverse literature and art, expanding horizons and embracing different perspectives
+- Engaging in community events and discussions, advocating for inclusivity and equity
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References available upon request.

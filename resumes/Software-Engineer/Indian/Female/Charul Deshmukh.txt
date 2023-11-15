@@ -1,0 +1,46 @@
+Charul Deshmukh
+Houston, Texas | (555) 123-4567 | charul.deshmukh@email.com
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a passion for problem-solving and a strong background in automated testing and debugging. Skilled in various programming languages, database technologies, and source control systems. Committed to delivering high-quality software solutions tailored to meet user needs. As an Indian female in the tech industry, I strive to promote diversity and inclusivity while making a meaningful impact in the field.
+
+Education:
+Bachelor of Science in Computer Science, Houston Technical University, Houston, Texas
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Quantum Technologies, Houston, Texas    June 2018 - Present
+- Developed and implemented automated testing procedures, significantly reducing manual testing time by 40%
+- Utilized Python to create efficient and accurate test scripts, ensuring comprehensive software testing
+- Collaborated with cross-functional teams to ensure secure payment transactions and promptly address any payment-related issues
+- Conducted extensive debugging to identify and resolve software defects, resulting in an enhanced user experience
+
+Software Developer, Stellar Systems, Houston, Texas   January 2017 - May 2018
+- Contributed to the development of an innovative ecommerce platform, leveraging SQL and NoSQL databases for efficient data management
+- Utilized Java to design and implement secure and scalable software solutions for seamless online retail operations
+- Implemented error tracking tools, enabling quick identification and resolution of software issues
+- Gathered requirements from stakeholders and successfully implemented new features, improving overall system functionalities
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Tech Diversity Advocate, Houston Technical University, Houston, Texas   August 2015 - May 2019
+- Organized and led events, workshops, and seminars to promote diversity and inclusivity in the tech industry
+- Initiated programs to increase representation of underrepresented groups in computer science programs
+- Served as a mentor and role model for female and minority students pursuing careers in technology
+- Acted as a sports leader, captaining the university's basketball team, fostering teamwork, discipline, and sportsmanship
+
+Hobbies:
+- Playing the tabla, a traditional Indian percussion instrument
+- Exploring diverse cultures through travel, photography, and attending cultural festivals
+- Engaging in recreational activities such as basketball and swimming
+
+Languages:
+Fluent in English and Hindi, proficient in Marathi
+
+References available upon request.

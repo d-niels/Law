@@ -1,0 +1,43 @@
+Gianna Mitchell
+
+Personal Statement:
+Dedicated software engineer with a strong passion for creating innovative solutions. Leveraging a bachelor's degree in computer science, I am experienced in utilizing programming languages and database technologies to develop robust software applications. With a keen eye for detail and a drive to continuously learn and grow, I am committed to delivering high-quality results that exceed expectations.
+
+Education:
+Bachelor of Science in Computer Science
+Philadelphia State University, Philadelphia, Pennsylvania
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern
+Innovative Tech Solutions, Philadelphia, Pennsylvania
+- Developed automated testing scripts to improve product reliability and efficiency.
+- Collaborated with cross-functional teams to develop an advanced ecommerce platform, ensuring seamless online transactions.
+- Utilized error tracking tools to identify and resolve software issues promptly.
+- Utilized SQL for database management and data analysis.
+
+Junior Software Engineer
+TechGenius, Philadelphia, Pennsylvania
+- Developed secure payment gateways using Python, ensuring the confidentiality of user information.
+- Collaborated with a team of engineers to implement Java-based applications, optimizing system performance.
+- Utilized debugging techniques to identify and resolve software bugs effectively.
+- Utilized NoSQL for managing and analyzing large datasets.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Member, African American Women in Computing Society
+- Actively participate in mentoring and promoting diversity in the tech industry.
+- Serve as a team captain and leader in basketball, guiding and motivating teammates to achieve success.
+
+Hobbies:
+- Playing the piano, showcasing my love for music and creativity.
+- Exploring ethnic and gender representation in media and literature, promoting inclusivity and diversity.
+
+Languages:
+Fluent in English and Spanish

@@ -1,0 +1,33 @@
+Personal Statement:
+Driven and innovative software engineer with a deep passion for problem-solving and building cutting-edge software solutions. Committed to delivering high-quality work and contributing to the advancement of technology. Continuously seeking opportunities to expand my knowledge and skills in the ever-evolving field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science, Houston Tech University, Houston, Texas (GPA: 3.9)
+
+Work Experience:
+Software Engineer, StellarTech Solutions, Houston, Texas
+- Developed error tracking and secure payment features for a web application using Python.
+- Implemented automated testing processes, leading to a 30% decrease in product defects.
+- Collaborated with cross-functional teams to ensure seamless integration of payment gateway APIs.
+
+Software Engineer, FutureTech Innovations, Houston, Texas
+- Designed and developed ecommerce solutions using Java, NoSQL, and SQL databases.
+- Conducted thorough debugging and troubleshooting to identify and resolve software issues.
+- Implemented scalable solutions for efficiently handling high-volume transactions in a fast-paced environment.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white male software engineer, I am deeply dedicated to promoting inclusivity and diversity in the tech industry. I actively volunteer with organizations like Tech Together, offering mentorship and support to underrepresented individuals pursuing careers in technology. Additionally, I hold a leadership position as the captain of a local soccer team, fostering a sense of teamwork and camaraderie among players from diverse backgrounds.
+
+Hobbies:
+In my leisure time, I channel my creativity and passion for music by playing the piano. I also enjoy exploring multicultural cuisines and experimenting with new recipes. Additionally, I am an avid reader, always seeking to expand my knowledge and perspectives through various genres of literature.
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate)

@@ -1,0 +1,40 @@
+Personal Statement:
+Enthusiastic and detail-oriented software engineer with a passion for technology and a strong desire to contribute to the field. Dedicated to delivering innovative solutions and optimizing software performance. Equipped with a solid educational background and valuable work experience, I am adept at collaborating with cross-functional teams and utilizing problem-solving skills to drive results. As a proud Latino female from El Paso, Texas, I am committed to representing and promoting diversity and inclusion in the tech industry, while also breaking barriers and stereotypes.
+
+Education:
+Bachelor of Science in Computer Science
+University of Texas at El Paso (UTEP), El Paso, TX
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern
+TechWorld Solutions, El Paso, TX
+- Developed an advanced e-commerce platform using Python, enabling seamless online transactions for clients.
+- Implemented error tracking and debugging techniques to ensure the stability and functionality of software applications.
+
+Software Engineer
+InnovativeTech Solutions, El Paso, TX
+- Collaborated with a team of developers to design and implement a secure payment processing system using Java and SQL.
+- Utilized NoSQL databases to optimize data storage and retrieval for efficiency and scalability.
+- Conducted automated testing to ensure software performance and stability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Engineer Association, Member
+- Actively involved in promoting diversity and inclusion within the engineering community.
+- Organized workshops and mentorship programs to empower underrepresented students to pursue careers in technology.
+- Served as a soccer team captain, providing leadership and guidance to young athletes for personal and athletic growth.
+
+Hobbies:
+- Playing the violin, connecting with my Latino heritage through the enchanting melodies of classical music.
+- Studying Latin American literature, learning and appreciating the rich literary traditions of my culture.
+- Exploring traditional Mexican folk dance, embracing the vibrant and expressive movements of this artistic form.
+
+Languages:
+- Bilingual: English and Spanish

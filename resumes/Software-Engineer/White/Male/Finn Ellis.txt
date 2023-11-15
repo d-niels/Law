@@ -1,0 +1,41 @@
+Finn Ellis
+
+Personal Statement:
+Driven and innovative software engineer with a strong commitment to delivering high-quality solutions. Leveraging a comprehensive skillset and expertise in multiple programming languages, I am dedicated to creating efficient and user-friendly software applications. Constantly seeking opportunities for growth and staying abreast of the latest advancements in technology.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Madison University, Madison, WI
+
+Work Experience:
+Software Engineer - StellarSoft, Inc., Madison, WI
+- Developed and maintained highly optimized database queries using SQL and NoSQL technologies.
+- Implemented cutting-edge error tracking systems to identify and rectify issues within software applications.
+- Conducted automated testing processes to ensure software reliability and accuracy.
+
+Software Engineer Intern - PulseTech Solutions, Madison, WI
+- Collaborated with a team of skilled engineers in developing Python-based ecommerce software applications.
+- Integrated secure payment systems and implemented stringent security measures for protecting user data.
+- Utilized Java for efficient debugging and troubleshooting to enhance overall software performance and user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- As an active advocate for diversity and inclusivity in the tech industry, I strive to create equal opportunities for individuals from all backgrounds.
+- Rendered my leadership skills as a mentor and captain of a competitive soccer team, promoting teamwork, perseverance, and sportsmanship.
+
+Hobbies:
+- Playing the guitar and composing music.
+- Actively participating in cultural events, embracing diversity and fostering a sense of community and belonging.
+- Engaging in outdoor activities such as hiking and camping.
+
+Languages:
+- English (Native)
+- Spanish (Conversational)
+
+References available upon request.

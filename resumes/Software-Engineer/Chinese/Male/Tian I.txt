@@ -1,0 +1,37 @@
+Personal Statement:
+Motivated and results-driven software engineer with a strong background in solving complex problems and creating innovative solutions. Proficient in automated testing, secure payments, SQL, Java, NoSQL, debugging, ecommerce, Python, and error tracking. With a rich cultural heritage as a Chinese male hailing from the vibrant city of Honolulu, Hawaii, I bring a diverse perspective and a commitment to excellence in my work. I am dedicated to making a significant impact in the software engineering field, leveraging my skills and unique background.
+
+Education:
+Bachelor of Science in Computer Science, Pacific University, Honolulu, Hawaii
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Zenith Technolabs, Honolulu, Hawaii
+- Developed and implemented comprehensive automated testing procedures to ensure software quality.
+- Engineered secure payment integration for an e-commerce platform utilizing SQL and Java.
+- Collaborated with cross-functional teams to design and deploy innovative software solutions.
+
+Software Developer, Acme Solutions, Honolulu, Hawaii
+- Utilized NoSQL databases for efficient data storage and retrieval, enhancing application performance.
+- Employed advanced debugging techniques to identify and resolve technical issues.
+- Led the development of a Python-based e-commerce platform.
+- Implemented error tracking mechanisms to minimize software defects and enhance user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Chinese American Association, Honolulu, Hawaii: Actively organized and led cultural events to foster awareness and appreciation for Chinese heritage within the community.
+- Sports Leadership Role: Served as the captain of a competitive basketball team, spearheading strategic planning, teamwork, and communication skills among team members.
+
+Hobbies:
+- Playing the erhu, a traditional Chinese musical instrument, to maintain a strong connection with my cultural roots.
+- Engaging in basketball tournaments and leagues as a way to stay physically active and build relationships with people from diverse backgrounds.
+
+Languages:
+- English (Fluent)
+- Chinese (Mandarin, Cantonese) (Native)

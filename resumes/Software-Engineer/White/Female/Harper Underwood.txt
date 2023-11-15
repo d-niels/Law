@@ -1,0 +1,50 @@
+---
+
+# Harper Underwood
+
+Personal Statement:
+A dedicated and detail-oriented software engineer with a passion for creating efficient and reliable solutions. Committed to delivering high-quality code and constantly staying updated with the latest industry trends. Seeking a challenging software engineer position to utilize my technical skills and contribute to the development of innovative software solutions.
+
+Education:
+Bachelor of Science in Computer Science - Magna Cum Laude
+ABC University, San Francisco, California
+GPA: 3.9/4.0
+
+Work Experience:
+1. Software Engineer Intern
+InnovaTech Solutions, San Francisco, California
+- Collaborated with a team to develop and maintain a cutting-edge e-commerce platform.
+- Conducted automated testing, ensuring bug-free functionality and optimal user experience.
+- Proficiently utilized Python and SQL for backend development tasks.
+- Gathered requirements, implemented new features, and optimized database performance.
+
+2. Junior Software Engineer
+TechShield Systems, San Francisco, California
+- Enhanced a secure payment system by integrating various encryption technologies.
+- Developed and managed NoSQL databases for efficient data storage and retrieval.
+- Implemented advanced error tracking mechanisms to identify and resolve issues.
+- Utilized Java for backend development and debugging complex system components.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Co-founded a coding club for underrepresented ethnic minority students, promoting diversity and inclusion in the tech industry.
+- Led a girls' basketball leadership program, empowering young women to excel in sports and leadership roles.
+- Actively involved in mentorship programs for aspiring female software engineers, providing guidance and support.
+
+Hobbies:
+- Playing the violin, expressing creativity through music.
+- Engaging in outdoor activities, such as hiking and cycling.
+- Participating in local community events, showcasing diverse cultures through arts and crafts.
+
+Languages:
+- Fluent in English and Spanish.
+
+---
+
+This resume is a fictional representation. Any resemblance to actual persons, living or dead, is purely coincidental.

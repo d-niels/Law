@@ -1,0 +1,40 @@
+XIMENA AGUILAR
+
+Personal Statement:
+A dedicated and passionate software engineer with a strong foundation in computer science and a demonstrated ability to develop exceptional software solutions. Committed to utilizing my technical skills and knowledge of various programming languages to contribute to the advancement of technology in the software engineering field. As a proud Latino female, I am determined to bring diversity and inclusivity to the industry, inspiring and empowering others to pursue their passions.
+
+Education:
+Bachelor of Science in Computer Science
+Innovation University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | TechGenius, Houston, Texas
+- Utilized Java programming language to develop and maintain secure payment systems, ensuring accuracy, and reliability.
+- Designed and implemented automated testing frameworks, reducing debugging time by 40%.
+- Employed NoSQL databases for efficient data management, improving system performance by 20%.
+
+Software Engineer Intern | Innovate Solutions, Houston, Texas
+- Developed scalable and robust web applications using Python and SQL to support ecommerce functionalities.
+- Implemented error tracking systems, enhancing application stability and reducing downtime by 25%.
+- Utilized SQL databases for efficient data storage and retrieval, collaborating with cross-functional teams to meet project deadlines.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusivity as a Hispanic female software engineer.
+- Served as a Sports Leadership Committee member, leading and organizing a community-empowering volleyball team.
+- Committed to volunteer work, supporting underrepresented groups in the technology field.
+
+Hobbies:
+- Playing the violin to foster creativity and relaxation.
+- Participating in local cultural events that celebrate the vibrant Latino heritage.
+- Engaging in outdoor activities, such as hiking, capturing the beauty of nature through photography.
+
+Languages:
+- Bilingual: English and Spanish

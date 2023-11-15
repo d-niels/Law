@@ -1,0 +1,48 @@
+Brock Quinlan 
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a passion for creating innovative solutions. Experienced in secure payments, ecommerce, and problem-solving. Strong analytical skills and debugging techniques, combined with a background in computer science, provide a solid foundation for tackling complex technical challenges.
+
+Education:
+Bachelor's in Computer Science, Houston Tech University (Houston, Texas)
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Techtronix Systems, Houston, Texas
+- Developed secure payment systems ensuring protection of sensitive customer information
+- Implemented error tracking mechanisms to enhance application performance
+- Utilized NoSQL databases for efficient data management
+- Conducted automated testing to improve software reliability
+
+Junior Software Engineer, SiliconTrack Solutions, Houston, Texas
+- Collaborated with cross-functional teams to develop ecommerce solutions
+- Effectively utilized SQL, Java, and Python for application development
+- Employed debugging techniques to identify and resolve software issues promptly
+- Maintained code integrity through version control using Git
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer, Community Outreach Program, Houston Tech University
+   - Active involvement in promoting diversity and inclusion within the tech community
+   - Mentored minority students pursuing computer science degrees
+   - Organized workshops and seminars to inspire underrepresented groups to pursue careers in technology
+
+- Sports Leadership, Houston Tech Soccer Club
+   - Led a diverse group of soccer players, fostering teamwork and promoting a positive team culture
+   - Organized and managed various team activities and tournaments
+   - Demonstrated strong leadership skills and commitment towards sportsmanship
+
+Hobbies:
+- Playing the guitar
+- Exploring various genres of music, showcasing my appreciation for diverse cultures and art forms
+- Participating in community events that celebrate ethnic heritage and promote inclusivity
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate)

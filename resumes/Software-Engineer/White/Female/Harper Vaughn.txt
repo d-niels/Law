@@ -1,0 +1,44 @@
+Harper Vaughn
+123 Main Street, Jacksonville, FL 12345
+harper.vaughn@email.com | (123) 456-7890
+
+Personal Statement:
+Dedicated and ambitious software engineer with a strong passion for creating innovative solutions. Equipped with exceptional problem-solving skills and a solid foundation in computer science. Committed to continuously learning and staying up-to-date with the latest industry trends and technologies. Seeking to leverage my skills and experience to contribute to a dynamic software engineering team.
+
+Education:
+Bachelor of Science in Computer Science, Sunshine State University, Jacksonville, FL (GPA: 3.9/4.0), May 20XX
+
+Work Experience:
+Software Engineer Intern, ByteTech Solutions, Jacksonville, FL
+- Developed and maintained NoSQL and SQL databases, ensuring optimized performance and data accuracy.
+- Utilized debugging tools and techniques to troubleshoot and resolve software issues.
+- Contributed to Python-based projects, enhancing system functionality and efficiency.
+
+Software Engineer, Coastal Systems, Jacksonville, FL
+- Implemented automated testing procedures to improve software quality and reliability.
+- Utilized error tracking tools and methods to identify and resolve software defects promptly.
+- Collaborated with cross-functional teams to develop secure payment systems for e-commerce platforms.
+- Developed Java-based solutions to enhance system performance and user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Diversity and Inclusion Committee Member, Sunshine State University: Actively participated in promoting diversity and inclusion within the campus community, organizing cultural events and workshops.
+- Basketball Team Captain: Led the university's basketball team, fostering teamwork and guiding teammates to achieve collective goals both on and off the court.
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures through literature and music
+- Promoting diversity and inclusion in the tech community through workshops and events
+
+Languages:
+- English (native)
+- Spanish (proficient)
+
+References:
+Available upon request

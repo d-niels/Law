@@ -1,0 +1,37 @@
+Personal Statement:
+As a software engineer, I am driven by my passion for creating innovative solutions that elevate user experiences and meet business objectives. With a meticulous attention to detail, a solid foundation in programming, and a problem-solving mindset, I am dedicated to making a tangible impact in the constantly evolving field of technology. With my collaborative nature and continuous drive for learning, I am determined to be an asset to any software development team.
+
+Education:
+Bachelor of Science in Computer Science, Stellar University, Jacksonville, Florida
+- GPA: 3.9
+
+Work Experience:
+
+1. Software Engineer, Infotech Solutions, Jacksonville, Florida
+- Developed and maintained a Python-based ecommerce platform, ensuring secure payment transactions and optimizing overall performance.
+- Implemented NoSQL databases to enhance data management and retrieval processes.
+- Collaborated with cross-functional teams to design and integrate new features, enhancing user experience.
+
+2. Junior Software Engineer, Zenith Software Solutions, Jacksonville, Florida
+- Worked on error tracking and debugging software applications, utilizing Java and SQL.
+- Conducted automated testing to deliver high-quality code and identify performance bottlenecks.
+- Collaborated closely with team members to efficiently resolve software defects.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of numerous multicultural groups at Stellar University, promoting diversity and fostering inclusion in the tech community.
+- Served as a team leader in a community soccer organization, inspiring teamwork and sportsmanship among a diverse group of players.
+
+Hobbies:
+- Playing the guitar
+- Exploring various cultures through music, art, and literature
+- Engaging in community sports events, particularly as a leader in soccer
+
+Languages:
+- Fluent in English and Spanish

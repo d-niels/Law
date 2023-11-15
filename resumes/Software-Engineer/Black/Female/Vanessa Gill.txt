@@ -1,0 +1,50 @@
+Vanessa Gill
+
+Personal Statement:
+
+Highly motivated and detail-oriented software engineer with a strong passion for coding and problem-solving. Experienced in debugging, automated testing, and database technologies. Committed to delivering efficient and secure software solutions. Excited to utilize my skills and contribute to innovative projects as a software engineer.
+
+Education:
+
+Bachelor of Science in Computer Science, Detroit University, Detroit, Michigan
+GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer, TechniSoft Solutions, Detroit, Michigan
+- Conducted debugging and resolved complex issues within the company's software systems
+- Developed and implemented automated testing procedures, resulting in a 30% reduction in software errors
+- Utilized SQL and NoSQL databases to optimize data retrieval and storage processes
+
+Software Engineer, InnovElite Software, Detroit, Michigan
+- Ensured secure payment processing and error tracking functionalities in an ecommerce platform
+- Collaborated with cross-functional teams to enhance software performance and user experience
+- Proficient in Java and Python programming languages to develop robust and scalable solutions
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Organizer, Women in Tech Society, Detroit University
+- Advocated for diversity and inclusion in the tech industry, particularly for underrepresented communities
+- Led the establishment of mentorship programs and networking events to support aspiring female software engineers
+- Served as a basketball team captain, empowering young black girls to embrace sportsmanship and leadership
+
+Hobbies:
+
+- Playing the saxophone: Showcasing my musical talent through playing jazz and soul music
+- Engaging in community service projects: Contributing to local organizations that prioritize social justice and equality
+- Outdoor activities: Exploring nature through hiking and photography, connecting with my roots
+
+Languages:
+
+- English: Native proficiency
+- Spanish: Conversational skills
+
+References available upon request.

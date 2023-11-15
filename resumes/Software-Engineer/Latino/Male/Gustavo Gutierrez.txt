@@ -1,0 +1,51 @@
+Gustavo Gutierrez
+123 Main Street, San Jose, California 12345
+Phone: (555) 123-4567 | Email: gustavog@email.com
+
+Personal Statement:
+Innovative and detail-oriented software engineer with a Bachelor's degree in Computer Science from Silicon Valley University. I am highly skilled in secure payments and NoSQL technologies, with a passion for solving complex problems. As a proud Latino male from San Jose, I bring a unique perspective to the field and strive to create inclusive and diverse solutions within the tech industry.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Silicon Valley University, San Jose, California
+
+Work Experience:
+Software Engineer, TechSol Systems, San Jose, CA     August 2019 - Present
+- Developed robust and secure payment systems for global e-commerce platforms, ensuring seamless and protected transactions
+- Designed and implemented efficient data storage and retrieval systems using NoSQL databases
+- Collaborated with cross-functional teams to develop innovative solutions using Java and debugging tools
+- Conducted comprehensive troubleshooting and debugging to resolve software issues promptly and efficiently
+
+Software Developer, IntelliCode Solutions, San Jose, CA     June 2018 - August 2019
+- Engineered highly scalable SQL databases to support complex data management processes
+- Developed automated testing frameworks to ensure the quality and reliability of software releases
+- Contributed to the development of an enterprise e-commerce platform, enhancing performance and user experience
+- Utilized Python and advanced error tracking techniques to identify and rectify software bugs effectively
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino STEM Mentor, San Jose Youth Empowerment Program, San Jose, CA    September 2018 - Present
+- Mentored aspiring Latino youth in pursuing careers in STEM fields, providing guidance and support to overcome academic and career challenges
+- Organized and facilitated workshops to promote cultural diversity and raise awareness of inclusiveness in the tech industry
+
+Basketball Team Captain, San Jose Multicultural Basketball Club, San Jose, CA     June 2016 - May 2018
+- Led a diverse basketball team as the team captain, fostering teamwork, communication, and unity among players of different backgrounds
+- Organized basketball tournaments and managed team logistics, creating a sense of community and camaraderie among players
+
+Hobbies:
+- Playing the guitar
+- Participating in community theater productions
+- Exploring diverse music genres
+- Engaging in multicultural literature
+
+Languages:
+- English (Fluent)
+- Spanish (Native proficiency)
+
+Note: Gustavo Gutierrez is a fictional character for a novel and any resemblance to actual persons or institutions is purely coincidental.

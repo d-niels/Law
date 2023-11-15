@@ -1,0 +1,34 @@
+Personal Statement:
+As a passionate and driven software engineer, I am eager to leverage my skills and knowledge to contribute towards innovative solutions in the world of technology. Coming from a Latino background, I am dedicated to promoting diversity and inclusivity in the industry, while continuously expanding my skillset to stay at the forefront of advancements. With a strong educational foundation and hands-on experience, I am equipped to deliver exceptional results and make a lasting impact in the field.
+
+Education:
+Bachelor of Science in Computer Science, San Antonio University, San Antonio, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, NovaTech Solutions, San Antonio, Texas
+- Utilized SQL and NoSQL databases to design and develop efficient data management systems
+- Demonstrated expertise in debugging techniques and error tracking to ensure high-quality software delivery
+
+Software Engineer Intern, QuantumTech Innovations, San Antonio, Texas
+- Developed secure payment systems for an industry-leading e-commerce platform
+- Implemented automated testing scripts to enhance application stability and functionality
+- Leveraged Python, Java, and other tools to support various stages of the development lifecycle
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion initiatives within the tech community, representing and empowering Latinas in technology
+- Served as the team captain and leader of a competitive soccer team, promoting teamwork and leadership skills within a diverse athletic group
+
+Hobbies:
+- Playing the guitar and composing music to relax and express creativity
+- Participating in traditional Mexican folkloric dance to embrace and celebrate my rich heritage
+
+Languages:
+- Fluent in English and Spanish

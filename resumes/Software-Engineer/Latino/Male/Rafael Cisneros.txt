@@ -1,0 +1,37 @@
+Personal Statement:
+Motivated and dedicated software engineer with a strong background in programming and problem-solving. Passionate about creating innovative solutions and utilizing cutting-edge technologies to drive software development. Skilled in collaborating with cross-functional teams to deliver high-quality products. Committed to continuous learning and staying updated with the latest industry trends.
+
+Education:
+Bachelor of Science in Computer Science - University of Texas at Austin, Austin, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - Zephyr Technologies, Austin, Texas (2018-2020)
+- Developed and implemented automated testing procedures, resulting in a 30% reduction in software defects.
+- Utilized Java programming language for backend development and integration.
+- Worked with NoSQL databases to store and retrieve data efficiently.
+- Performed debugging activities to identify and resolve software issues.
+
+Software Engineer - Pinnacle Solutions, Austin, Texas (2016-2018)
+- Designed and developed SQL databases for tracking and analyzing error logs.
+- Implemented error tracking system, resulting in a 20% reduction in software downtime.
+- Contributed to the development of an e-commerce platform, ensuring secure payments and transactions.
+- Utilized Python programming language for backend development and integration.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer at the Latino Youth Association, organizing programming workshops for underprivileged Latino students, fostering diversity and inclusion.
+- Sports Leadership: Actively engaged in coaching youth soccer teams, promoting teamwork, discipline, and leadership development.
+
+Hobbies:
+- Playing the guitar, exploring different genres and incorporating Latin influences.
+- Participating in local community events celebrating Latino culture and heritage.
+- Engaging in outdoor activities such as hiking, biking, and playing soccer.
+
+Languages: Fluent in English and Spanish.

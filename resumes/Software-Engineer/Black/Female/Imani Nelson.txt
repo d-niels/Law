@@ -1,0 +1,58 @@
+IMANI NELSON
+
+123 Main Street | Philadelphia, PA 12345 | (123) 456-7890 | imaninelson@email.com
+
+PERSONAL STATEMENT
+
+Dedicated and highly motivated software engineer with a passion for solving complex problems and creating innovative solutions. Committed to continuous learning and professional growth in the field of computer science. Experienced in error tracking, debugging, and proficient in various programming languages. Eager to leverage my skills and education to contribute to a dynamic software engineering team.
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+EFG University, Philadelphia, PA | Graduated May 20XX
+- Relevant Coursework: Data Structures and Algorithms, Software Engineering, Database Management Systems
+- GPA: 3.9
+
+WORK EXPERIENCE
+
+Software Engineer | Stellar Technologies, Philadelphia, PA | January 20XX - Present
+- Collaborated with cross-functional teams to identify and resolve software issues and bugs using error tracking and debugging techniques.
+- Utilized NoSQL and SQL databases to optimize performance and ensure efficient data storage and retrieval.
+- Contributed to the development of scalable and reliable web applications within an Agile development environment.
+
+Software Development Intern | Innovate Solutions, Philadelphia, PA | May 20XX - August 20XX
+- Implemented automated testing procedures to enhance the quality and reliability of software products.
+- Developed secure payment systems and integrated them with e-commerce platforms using Python and Java.
+- Assisted in troubleshooting and resolving technical issues reported by end-users.
+
+SKILLS
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+
+Volunteer Software Engineer | TechnoVate, Philadelphia, PA | January 20XX - Present
+- Collaborating with a diverse team to provide technological solutions for underserved communities.
+- Leading and mentoring a group of minority students interested in pursuing careers in software engineering.
+- Organizing and hosting coding workshops to empower young girls and women in tech.
+- Actively participating in diversity and inclusion initiatives to create a more inclusive tech industry.
+
+Basketball Leadership Role | Philadelphia Youth Basketball Association | January 20XX - Present
+- Coaching and mentoring young girls in basketball, fostering teamwork and leadership skills.
+- Organizing local basketball tournaments and fundraising events within underprivileged communities.
+
+HOBBIES
+
+- Playing the piano and saxophone, promoting cultural expression and diversity.
+- Exploring different cultures through travel and learning about various languages and traditions.
+
+LANGUAGES
+
+- English (Native)
+- Spanish (Proficient)
+
+References available upon request.

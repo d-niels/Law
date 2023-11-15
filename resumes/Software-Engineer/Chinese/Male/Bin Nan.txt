@@ -1,0 +1,35 @@
+Personal Statement:
+As a highly motivated and dedicated software engineer, I am committed to leveraging my skills and expertise to develop innovative solutions. With a solid foundation in computer science and a keen eye for detail, I am confident in my ability to contribute effectively to any software engineering role. I am excited to be part of a dynamic team where I can continuously learn and grow.
+
+Education:
+Bachelor of Science in Computer Science, San Francisco State University, San Francisco, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - Zenith Software Solutions, San Francisco, CA
+- Utilized error tracking and debugging skills to identify and resolve issues in complex software applications
+- Played a key role in the development of an eCommerce platform, ensuring seamless transactions and an optimized user experience
+- Implemented NoSQL databases to optimize data storage and retrieval processes
+
+Software Engineer Intern - Apex Technology Innovations, San Francisco, CA
+- Developed Python scripts to facilitate secure payment transactions, enhancing the platform's reliability and security
+- Conducted automated testing and utilized SQL to validate the functionality of software applications
+- Collaborated with a team of engineers to maintain and enhance the Java-based backend system
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively volunteer in community organizations that provide mentorship and support for aspiring Chinese software engineers, aiming to foster diversity and representation in the tech industry.
+- Served as a team captain for the San Francisco Dragons basketball team, promoting teamwork, communication, and discipline among a diverse group of athletes.
+
+Hobbies:
+- Playing the traditional Chinese instrument, the Guzheng, allowing me to further connect with my heritage and express my artistic side.
+- Engaging in cultural exchange activities, participating in Chinese calligraphy classes and attending cultural festivals, to promote cross-cultural understanding and appreciation.
+
+Languages:
+- Fluent in English and Mandarin Chinese

@@ -1,0 +1,43 @@
+Ximena Dominguez
+567 Elm Street, Los Angeles, CA 90001
+(123) 456-7890 | ximenadominguez@email.com
+
+Personal Statement:
+Motivated and dedicated software engineer with a passion for creating cutting-edge solutions. As a Latina female in the tech industry, I strive to empower underrepresented communities through my work. With a strong background in computer science, I am seeking a challenging software engineer role to leverage my technical skills and contribute to transformative projects.
+
+Education:
+Bachelor of Science in Computer Science, Pacific Tech University, Los Angeles, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechnoVerse Solutions, Los Angeles, CA
+- Debugged complex issues and resolved errors to enhance software functionality.
+- Developed and maintained Python scripts for automated testing, contributing to a 30% reduction in testing time.
+- Utilized error tracking tools to identify, analyze, and rectify software issues effectively.
+
+Software Engineer Intern, Innovia Technologies, Los Angeles, CA
+- Implemented secure payment processing systems for ecommerce platforms using Java and NoSQL databases.
+- Utilized SQL for data manipulation and retrieval to enhance database efficiency.
+- Collaborated with cross-functional teams to develop and test new features to improve user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in organizations promoting diversity in the tech industry, volunteering as a mentor for aspiring Latina engineers.
+- Served as a leader and coach in the local soccer community, inspiring young girls to embrace the sport.
+
+Hobbies:
+- Playing the guitar
+- Exploring diverse cultures through art and music
+- Engaging in community service initiatives focused on supporting women in technology
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References available upon request.

@@ -1,0 +1,32 @@
+Personal Statement:
+As a dedicated and motivated black male software engineer hailing from Baltimore, Maryland, I am excited to contribute my expertise and passion for programming to a dynamic and innovative team. With a strong educational background in computer science and valuable hands-on experience in diverse software engineering roles, I am prepared to make a significant impact in the field. My ability to quickly adapt to new technologies, problem-solving skills, and commitment to excellence sets me apart in the industry.
+
+Education:
+Bachelor of Science in Computer Science, XYZ University, Baltimore, Maryland
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechnoGenius Solutions, Inc., Baltimore, Maryland
+- Conducted automated testing using Python and NoSQL, ensuring the accuracy and reliability of various products.
+- Developed advanced ecommerce solutions, enhancing the functionality and user experience of online platforms.
+
+Software Engineer, CodeElite Software Engineering, Baltimore, Maryland
+- Demonstrated expertise in debugging and error tracking, resolving issues within complex software systems.
+- Implemented secure payment systems using SQL and Java, ensuring the privacy and safety of user transactions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a proud black male software engineer, I actively participate in initiatives that promote diversity and inclusion in the tech industry. In addition, I serve as a leader in the local basketball league, where I inspire and mentor young athletes to reach their full potential while fostering an environment of inclusivity and teamwork.
+
+Hobbies:
+In my free time, I enjoy playing the saxophone, showcasing my musical talent. I also have a growing interest in photography, capturing moments that reflect the vibrant diversity of my community.
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)

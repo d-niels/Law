@@ -1,0 +1,38 @@
+Personal Statement: 
+As a driven and passionate software engineer, I am dedicated to leveraging my skills and expertise to create innovative solutions. With a solid background in computer science and a love for problem-solving, I am well-prepared to excel in the role of a software engineer.
+
+Education:
+Bachelor of Science in Computer Science, XYZ University, New York, New York
+GPA: 3.9
+
+Work Experience:
+1. Software Engineer Intern, TechnoSolutions, New York, NY
+- Collaborated with a diverse team to develop and maintain an advanced e-commerce platform, enhancing user experience
+- Utilized Python to build and implement new features, improving site functionality
+- Conducted comprehensive debugging and error tracking to ensure optimal performance of the platform
+
+2. Junior Software Engineer, Innovix Systems, New York, NY
+- Developed secure payment systems and integrated them seamlessly into various applications
+- Successfully implemented SQL and NoSQL databases, ensuring efficient data management and retrieval
+- Proficient in Java and utilized it extensively to develop and enhance software solutions
+- Conducted automated testing to guarantee high-quality applications and reduce user error
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively mentor young girls from Indian communities, promoting diversity and inspiring their interest in technology.
+- Served as a basketball team leader, organizing and coaching a girls' basketball team to promote teamwork and empower young girls in sports.
+
+Hobbies:
+- Playing the violin, expressing cultural influences through music
+- Participating in community events that celebrate diversity and advocate for gender equality
+
+Languages:
+Fluent in English and Hindi
+
+References available upon request.

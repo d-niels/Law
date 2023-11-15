@@ -1,0 +1,43 @@
+AASHI ACHARYA
+
+New York, NY | Phone: (555) 555-5555 | Email: aashiacharya@email.com
+
+Personal Statement:
+Highly motivated and results-driven software engineer with a passion for developing innovative solutions. I am dedicated to delivering high-quality software products that meet both client and end-user needs. Through my strong analytical and problem-solving skills, I strive to optimize code efficiency and functionality. As an Indian female from a diverse background, I am deeply committed to promoting diversity and inclusivity in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Liberty University, New York, NY (GPA: 3.9/4.0)
+
+Work Experience:
+Software Engineer, Nexus SoftTech, New York, NY
+- Developed and maintained an error tracking system using NoSQL and SQL databases.
+- Utilized Python for scripting and automation tasks to enhance overall efficiency.
+- Collaborated with cross-functional teams to identify and resolve system issues.
+
+Software Developer, ZenTech Solutions, New York, NY
+- Contributed to the development of a robust ecommerce platform, ensuring secure payment processing.
+- Applied advanced debugging techniques to identify and resolve software issues.
+- Programmed functionalities using Java and performed automated testing to ensure software quality.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Promoted diversity in the tech industry by actively participating in organizations aimed at empowering women and underrepresented minority groups in STEM fields.
+- Served as a leader and captain of a multicultural soccer team, organizing and managing sports events, promoting team spirit and unity.
+
+Hobbies:
+- Playing the classical guitar
+- Exploring different cultures through travel and literature
+- Engaging in outdoor activities such as hiking and swimming
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+- French (Proficient)
+
+References available upon request.

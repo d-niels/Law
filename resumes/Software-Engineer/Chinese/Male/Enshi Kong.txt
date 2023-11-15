@@ -1,0 +1,51 @@
+Personal Statement:
+
+I am an enthusiastic and dedicated software engineer with a strong passion for crafting innovative solutions. My goal is to leverage my technical expertise and analytical skills to contribute to the development of cutting-edge software applications. As a Chinese male from Oakland, California, I am committed to promoting diversity and inclusion in the tech industry.
+
+Education:
+
+Bachelor of Science in Computer Science
+Golden State University, San Francisco, CA
+GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer Intern
+Infinite Innovations Inc., Silicon Valley, CA
+June 2019 - August 2019
+- Developed efficient NoSQL database solutions using Java and Python.
+- Conducted extensive debugging and resolved complex issues in existing software.
+- Worked collaboratively with a cross-functional team to ensure smooth project execution.
+
+Software Engineer
+Intuitive Solutions, Oakland, CA
+September 2019 - Present
+- Contributed to the development and maintenance of an ecommerce platform.
+- Utilized SQL to optimize database performance and manage data integrity.
+- Implemented automated testing frameworks to ensure software reliability.
+- Integrated error tracking and secure payment mechanisms within the software.
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+- Active participant in various diversity and inclusion initiatives to create an inclusive environment for underrepresented communities within the tech industry.
+- Served as a team leader for the Oakland Chinese Basketball Association, promoting teamwork and fostering a supportive environment in the basketball community.
+
+Hobbies:
+
+- Playing the guzheng (a traditional Chinese musical instrument).
+- Exploring different cultures through ethnically diverse literature and music.
+
+Languages:
+
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References available upon request.

@@ -1,0 +1,48 @@
+Shreya Nair
+Philadelphia, Pennsylvania | Phone: (123) 456-7890 | Email: shreya.nair@email.com
+
+Personal Statement:
+Passionate and dedicated software engineer with a strong academic foundation in computer science. Equipped with excellent problem-solving and debugging skills, I strive to develop reliable and efficient software solutions. Committed to leveraging my diverse background and experiences to make a positive impact in the tech industry.
+
+Education:
+Bachelor of Computer Science, Liberty University, Philadelphia, Pennsylvania
+- GPA: 3.9/4.0
+- Relevant Coursework: Data Structures, Algorithms, Software Engineering, Database Management Systems
+
+Work Experience:
+Software Engineer intern, Quantum Technologies, Philadelphia, Pennsylvania (June 2019 - August 2019)
+- Developed Python scripts for secure payment processing, resulting in increased efficiency and reduced errors during transactions
+- Conducted debugging and error tracking to identify and resolve issues in the company's proprietary Java-based payment system
+- Collaborated with cross-functional teams to ensure smooth integration of new features
+
+Software Developer, Stellar Solutions, Philadelphia, Pennsylvania (July 2020 - Present)
+- Designed and optimized SQL queries for efficient data retrieval and manipulation in an e-commerce platform
+- Utilized error tracking tools to identify and resolve issues within the application stack
+- Implemented NoSQL database solutions for improved scalability and performance
+- Developed automated testing frameworks, resulting in a 30% reduction in regression issues
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer Coach, Philadelphia Women in Tech (PWIT) Youth Program
+- Mentored young girls from diverse backgrounds in coding and software development
+- Organized educational events and workshops to promote diversity and inclusion within the tech community
+
+Sports Leadership:
+Captain, University Women's Basketball Team
+- Led a team of 15 players during practices and competitive matches
+- Fostered teamwork, discipline, and sportsmanship within the team
+
+Hobbies:
+- Playing the flute
+- Exploring different cultures and traditions
+- Reading and writing poetry
+- Supporting initiatives promoting gender equality and empowering women
+
+Languages:
+English (Fluent), Hindi (Fluent), Malayalam (Fluent)

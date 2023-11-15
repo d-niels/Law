@@ -1,0 +1,52 @@
+Natalie Norton
+1234 Elm Street, Houston, Texas 12345
+(555) 123-4567
+natalie.norton@email.com
+
+Personal Statement:
+Driven and innovative software engineer with a passion for creating secure and efficient payment solutions. Dedicated to expanding knowledge and pushing boundaries in software development. Skilled in multiple programming languages and experienced in debugging and problem-solving. Committed to contributing to the success of software development teams through creative thinking and technical expertise.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Houston Technological University, Houston, Texas
+
+Work Experience:
+Software Engineer
+AmberPay Solutions, Houston, Texas
+January 2019 - Present
+- Developed secure payment systems using Java, ensuring seamless ecommerce transactions.
+- Collaborated with cross-functional teams to identify and debug software issues in real-time.
+- Conducted thorough testing and implemented automated testing procedures for software reliability.
+- Utilized NoSQL and SQL databases to optimize data storage and retrieval.
+
+Software Developer
+CrimsonTech, Houston, Texas
+May 2017 - December 2018
+- Utilized error tracking tools to identify and resolve software bugs and issues.
+- Implemented automated testing strategies to improve software reliability.
+- Developed software modules using Python and integrated them with existing systems.
+- Managed NoSQL and SQL databases to store and retrieve data efficiently.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Served as a mentor for underrepresented students in the Computer Science Department at Houston Technological University, promoting diversity in the tech community.
+- Actively participated in women-in-tech initiatives, advocating for equal opportunities and empowering women to pursue careers in software engineering.
+- Held a leadership role as captain of a women's basketball team, demonstrating strong teamwork, communication, and sportsmanship.
+
+Hobbies:
+- Playing the piano, finding solace and self-expression in music.
+- Engaging in outdoor activities such as hiking and running, appreciating nature's beauty.
+- Drawing and painting, exploring creativity through visual arts.
+
+Languages:
+- English (Native)
+- Spanish (Proficient)
+
+References:
+Available upon request

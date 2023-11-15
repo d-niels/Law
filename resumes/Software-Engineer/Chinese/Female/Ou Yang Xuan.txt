@@ -1,0 +1,38 @@
+Personal Statement:
+As a passionate and driven Software Engineer, I am dedicated to leveraging technology to create innovative solutions. My Chinese heritage and strong work ethic have shaped my commitment to inclusivity, diversity, and excellence in the field. With a Bachelor's Degree in Computer Science and a proven track record in software development, I am determined to make a positive impact in the world of technology.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Oakland Technical University, Oakland, California
+
+Work Experience:
+Software Engineer - Zephyr Systems, San Francisco, California
+- Utilized Python to develop and enhance an advanced ecommerce platform, ensuring seamless transaction processing and exceptional user experience
+- Implemented robust error tracking systems to identify and resolve software issues promptly, minimizing downtime for clients
+- Developed and implemented secure payment protocols, ensuring the protection of customer data
+
+Software Developer - Stellar Technologies, Oakland, California
+- Proficiently managed SQL and NoSQL databases, optimizing data retrieval and storage for efficient software operations
+- Conducted comprehensive debugging using Java, identifying and resolving software defects to ensure optimal system performance
+- Developed and executed automated testing protocols, significantly improving the reliability and stability of software solutions
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques, Creative Thinking
+
+Volunteer & Leadership:
+Chinese Culture and Diversity Club - Oakland Technical University
+- Actively engaged in the Chinese Culture and Diversity Club, promoting cultural awareness and celebrating the contributions of the Chinese community
+- Organized events and workshops to foster understanding and inclusivity among students from diverse backgrounds
+- Served as a Sports Lead, showcasing leadership skills in organizing and coordinating basketball tournaments for the club
+
+Hobbies:
+- Fluent in Mandarin, Cantonese, and English
+- Playing the piano and enriching personal connection with music
+- Active member of a community theater group, performing and inspiring cultural appreciation
+
+Languages:
+Fluent in Mandarin, Cantonese, and English

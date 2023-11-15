@@ -1,0 +1,58 @@
+John Smith
+123 Main Street, St. Louis, MO 63101
+Email: john.smith@email.com | Phone: (123) 456-7890
+LinkedIn: linkedin.com/in/johnsmith | GitHub: github.com/johnsmith
+
+Objective:
+Results-driven Software Engineering graduate with strong programming skills and a passion for developing innovative solutions. Eager to contribute to Mastercard's software engineering teams in creating secure, reliable, and high-performance applications while aligning with the company's mission of connecting the world to endless possibilities.
+
+Education:
+- Bachelor of Science in Computer Science
+  University of Missouri, St. Louis
+  Graduation: June 2024
+  Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering
+
+Skills:
+- Programming Languages: Java, Python, C#
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+- Familiar with: JavaScript
+
+Projects:
+1. E-commerce Website (Java)
+   - Developed a Java-based e-commerce platform with user authentication, product catalog, and secure payment processing.
+   - Implemented automated unit tests for critical components to ensure code correctness.
+   - Collaborated with a team using Git for version control.
+
+2. Data Analysis Tool (Python)
+   - Created a Python application to analyze and visualize large datasets, providing valuable insights for decision-making.
+   - Utilized SQL for data retrieval and NoSQL for data storage.
+   - Implemented a robust logging system for error tracking and resolution.
+
+3. Personal Finance Manager (C#)
+   - Designed and developed a C# application to manage personal finances, including expense tracking and budgeting features.
+   - Ensured data security and privacy by implementing encryption techniques.
+   - Conducted extensive debugging and troubleshooting using various debugging tools.
+
+Professional Experience:
+Intern, Software Development | XYZ Tech, St. Louis, MO | Summer 2023
+- Collaborated with the development team to enhance existing software applications.
+- Assisted in maintaining and optimizing database systems for improved performance.
+- Gained experience in debugging tools and techniques, effectively diagnosing and resolving issues.
+
+Launch Program Activities:
+- Participated in the Launch Program's technical orientation, learning about essential tools and processes.
+- Engaged in professional skills workshops to develop skills in communication, teamwork, and problem-solving.
+- Contributed to a pro bono team challenge, addressing social impact issues.
+- Took part in the Global Volunteer Challenge, supporting community initiatives.
+
+Certifications:
+- Certified Software Engineer, University of Missouri, St. Louis
+
+Languages:
+- Fluent in English (Native)
+
+References:
+Available upon request.

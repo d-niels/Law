@@ -1,0 +1,43 @@
+Leah Fitzgerald
+
+Personal Statement:
+A highly skilled software engineer with a passion for creating innovative solutions. I am driven by a desire to push boundaries, continuously learn, and excel in my field. My strong technical skills, problem-solving abilities, and dedication allow me to confidently tackle complex challenges. As a white female in the tech industry, I am committed to promoting diversity and inclusion, and I actively contribute to various volunteer and leadership initiatives. Alongside my professional pursuits, I am an avid athlete and a dedicated leader in the sport of volleyball.
+
+Education:
+Bachelor of Science in Computer Science, Magna Cum Laude
+Florida State University, Tallahassee, FL
+
+Work Experience:
+Software Engineer - Innovex Solutions, Jacksonville, FL
+- Developed and maintained secure payment solutions using SQL, ensuring seamless and efficient payment processing.
+- Implemented error tracking mechanisms, significantly reducing software bugs and enhancing product stability.
+- Collaborated with cross-functional teams to enhance the e-commerce platform, resulting in increased user satisfaction and improved conversion rates.
+
+Software Developer - TechniCore Developers, Jacksonville, FL
+- Utilized NoSQL databases to optimize data storage and retrieval, improving system performance and scalability.
+- Conducted thorough debugging and utilized automated testing frameworks to ensure robust and error-free software.
+- Developed innovative features using Python and Java, contributing to the successful delivery of high-quality software solutions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting gender and racial diversity in tech through organizations like Girls Who Code and Code for All.
+- Served as the team captain for a competitive volleyball team, fostering teamwork, discipline, and leadership among diverse players.
+- Contributed to coding workshops for underprivileged youth, empowering them with digital skills for a brighter future.
+
+Hobbies:
+- Playing the piano, showcasing classical compositions
+- Exploring various cultures through art, music, and literature
+- Engaging in outdoor activities such as hiking and cycling
+- Enthusiastic about traveling to experience different perspectives and environments
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)
+
+References available upon request.

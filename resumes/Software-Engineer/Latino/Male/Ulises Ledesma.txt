@@ -1,0 +1,48 @@
+Ulises Ledesma
+123 Main Street, Los Angeles, California 12345
+Phone: (555) 123-4567 | Email: ulises.ledesma@email.com
+
+Personal Statement:
+Passionate and motivated software engineer with a keen eye for detail and a strong commitment to excellence. As a Latino male from Los Angeles, I bring a unique perspective and cultural diversity to my work. With a solid educational foundation in computer science, combined with hands-on experience in software development, I am dedicated to leveraging technology to drive innovation and solve complex problems.
+
+Education:
+Bachelor of Science in Computer Science, Los Angeles Technology University, Los Angeles, California
+- Graduated with a 3.9 GPA
+- Relevant coursework: Data Structures, Algorithms, Software Engineering, Web Development
+
+Work Experience:
+Software Engineer, Ignite Software Solutions, Los Angeles, California
+October 2018 - Present
+- Developed a robust error tracking system for a Java-based ecommerce platform, minimizing system downtime and enhancing overall performance.
+- Collaborated with cross-functional teams to implement secure payment systems and devise advanced fraud prevention mechanisms.
+- Utilized Java to effectively develop and optimize backend functionalities.
+
+Software Developer Intern, Pixel Labs, Los Angeles, California
+May 2017 - August 2017
+- Conducted extensive automated testing to identify and resolve software bugs, resulting in improved stability and user experience.
+- Leveraged NoSQL and SQL databases to efficiently manage and retrieve large datasets.
+- Assisted in debugging challenges and implemented solutions using Python and SQL.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinos in Tech Association, Los Angeles Chapter
+- Promoted diversity and inclusion within the tech industry by organizing conferences and networking events.
+- Led the XYZ University Basketball Team as captain, fostering teamwork, and promoting diversity within the sport and local community.
+- Mentored underprivileged youth in coding and technology as part of an outreach program.
+
+Hobbies:
+- Avid basketball player and enthusiast, actively participating in local leagues.
+- Playing the guitar, exploring various genres of music and writing original compositions.
+- Engaging in coding communities, attending hackathons, and collaborating on open-source projects.
+
+Languages:
+- Bilingual: Fluent in English and Spanish
+
+References:
+Available upon request

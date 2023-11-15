@@ -1,0 +1,36 @@
+Personal Statement:
+Passionate and dedicated software engineer with a strong background in computer science. Adept at leveraging programming and analytical skills to develop innovative software solutions. Committed to constantly expanding knowledge and staying up-to-date with industry trends. Seeking a software engineer position to contribute to cutting-edge projects and deliver reliable and efficient applications.
+
+Education:
+Bachelor of Science in Computer Science, Texas Tech University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechSprint Innovations, Houston, TX
+- Developed and maintained scalable and efficient software applications using Java, NoSQL, and automated testing techniques.
+- Collaborated with cross-functional teams to implement and enhance ecommerce solutions, resulting in improved user experience and increased sales.
+
+Software Engineer, CyberNet Systems, Houston, TX
+- Implemented secure payment systems and integrated error tracking mechanisms, ensuring the reliability and security of the company's software products.
+- Utilized debugging skills and Python programming language to identify and resolve software issues efficiently.
+- Utilized SQL for database management and optimization, boosting system performance and efficiency.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity in the tech industry, organizing events and workshops to encourage underrepresented individuals, including Indian males like myself, to pursue careers in software engineering.
+- Served as a captain for the Houston Tech Soccer Team, leading the team through training sessions and organizing friendly matches to foster teamwork and sportsmanship among team members.
+
+Hobbies:
+- Playing the Tabla, a traditional Indian percussion instrument, showcasing my appreciation for Indian culture and music.
+- Participating in language exchange programs to improve fluency in multiple languages, including English, Hindi, and Urdu.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Urdu (Conversational)

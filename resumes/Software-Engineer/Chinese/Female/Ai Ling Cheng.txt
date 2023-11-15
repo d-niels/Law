@@ -1,0 +1,58 @@
+AI LING CHENG 
+
+San Francisco, California | Phone: (123) 456-7890 | Email: ailingcheng@email.com 
+
+PERSONAL STATEMENT
+
+Motivated software engineer with a strong passion for developing innovative and efficient solutions. Equipped with a strong technical background, I strive to leverage my expertise in debugging, testing, and problem-solving to contribute to the development of cutting-edge software applications. With a focus on secure payments and eCommerce, I am committed to delivering high-quality products that meet the needs of users. Being a Chinese female in the tech industry, I am dedicated to promoting diversity and inclusivity, using my skills and experiences to inspire and uplift others.
+
+EDUCATION
+
+Bachelor of Science in Computer Science | Golden State University, San Francisco, California
+GPA: 3.9/4.0 | Year of Graduation: 20XX
+
+WORK EXPERIENCE
+
+Software Engineer Intern | SecureSoft Solutions, San Francisco, California
+- Collaborated with a team to perform debugging and error tracking, resolving critical issues during software development.
+- Utilized Python and automated testing tools to streamline the software testing process, reducing testing time by 30%.
+- Effectively communicated with cross-functional teams to identify and implement solutions for software defects.
+- Assisted in designing and developing new features, contributing to the overall improvement of the product quality.
+
+Software Engineer | CyberTech Innovations, San Francisco, California
+- Developed and maintained SQL-based databases for an eCommerce platform, enabling efficient data storage and retrieval.
+- Utilized Java and NoSQL technologies to optimize performance, ensuring seamless online shopping experiences for users.
+- Successfully integrated secure payment systems into the website, enhancing transaction security and user confidence.
+- Collaborated with cross-functional teams to perform code reviews and troubleshoot application issues, resulting in improved product performance.
+
+SKILLS
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+
+- Sports Leadership Role: Team Captain, Golden State University Tennis Team
+  - Led a diverse team of athletes, organizing practices and coordinating tournament participation.
+  - Fostered a competitive yet supportive environment, promoting teamwork, discipline, and sportsmanship.
+
+- Ethnic and Gender Advocacy: Active Member of the Chinese Female Tech Professionals Association
+  - Actively engage in promoting diversity and inclusivity in the tech industry.
+  - Support and mentor aspiring female engineers of diverse backgrounds to pursue their career goals.
+
+HOBBIES
+
+- Playing the Erhu (traditional Chinese instrument)
+- Reading and discussing science fiction novels
+- Exploring photography and capturing cultural diversity through lenses
+
+LANGUAGES
+
+- Fluent in English and Mandarin Chinese
+
+REFERENCES
+
+Available upon request.

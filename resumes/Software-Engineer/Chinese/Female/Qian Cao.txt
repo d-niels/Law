@@ -1,0 +1,41 @@
+QIAN CAO
+
+Address | Honolulu, Hawaii | Phone Number | Email Address
+
+Personal Statement:
+A highly motivated and detail-oriented software engineer, I am driven to create innovative solutions that enhance user experiences. With a Bachelor's degree in Computer Science and a solid background in programming, debugging, and problem-solving, I am eager to contribute to a dynamic team and leverage my skills to drive impactful results.
+
+Education:
+Bachelor of Science in Computer Science, Honolulu Institute of Technology, Honolulu, Hawaii
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Pacific Software Solutions, Honolulu, HI
+- Developed secure payment systems, ensuring a safe and reliable platform for financial transactions.
+- Utilized error tracking techniques to quickly analyze and resolve software bugs, minimizing downtime and improving overall efficiency.
+- Conducted automated testing to validate system functionality and detect coding issues for swift resolution.
+- Employed SQL to design and optimize databases, facilitating seamless data management.
+
+Software Engineer Intern, Tropical Tech Solutions, Honolulu, HI
+- Debugged and resolved issues in an e-commerce platform, ensuring smooth online transactions and superior user experiences.
+- Leveraged NoSQL databases to efficiently manage large datasets and improve the platform's performance.
+- Contributed to the development of web applications using Java and Python, enhancing functionality and reliability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer, Organization for Chinese-American Women: Active participation in empowering Chinese women through community outreach programs and mentorship initiatives, promoting cultural diversity and gender equality.
+- Sports Leadership Role: Led a women's soccer team, honing leadership, communication, and teamwork skills.
+
+Hobbies:
+- Playing the Guzheng (traditional Chinese instrument)
+- Exploring diverse cultures through language and music
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native Speaker)

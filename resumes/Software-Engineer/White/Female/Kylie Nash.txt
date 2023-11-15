@@ -1,0 +1,40 @@
+Personal Statement:
+Highly skilled and detail-oriented software engineer with a passion for developing innovative solutions. Committed to utilizing my strong analytical skills and programming expertise to drive success in the field. Dedicated to contributing to the growth and excellence of a dynamic software engineering team.
+
+Education:
+Bachelor of Science in Computer Science
+University of California, San Diego, California
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Innovatech Solutions, San Francisco, California
+- Developed and maintained scalable web applications using NoSQL databases.
+- Implemented automated testing methodologies to ensure product quality and minimize errors.
+- Collaborated with cross-functional teams to integrate secure payment systems.
+- Utilized error tracking tools to identify and resolve software issues promptly.
+
+Software Engineer Intern, Datamind Technologies, Los Angeles, California
+- Developed Python and SQL scripts to support data analysis and manipulation.
+- Debugged and resolved system issues to enhance the functionality of an ecommerce platform.
+- Collaborated within an agile software development environment to deliver high-quality code.
+- Utilized Java in the integration of third-party APIs.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusivity in the tech industry, advocating for equal opportunities for women in technology. 
+- Served as a team captain and leader in women's basketball, inspiring and guiding teammates to achieve their highest potential.
+
+Hobbies:
+- Playing the piano, showcasing a deep passion for music and creative expression.
+- Exploring diverse cultures through travel and fostering cross-cultural understanding.
+- Engaging in outdoor activities such as hiking and cycling to promote a healthy and active lifestyle.
+
+Languages:
+- Fluent in English
+- Proficient in Spanish

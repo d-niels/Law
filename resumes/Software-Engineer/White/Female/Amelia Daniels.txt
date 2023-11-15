@@ -1,0 +1,46 @@
+Amelia Daniels
+
+Personal Statement:
+Driven and innovative software engineer with a deep passion for creating cutting-edge solutions. Committed to continuously expanding knowledge and pushing the boundaries of technology. Proficient in programming languages and database technologies, consistently delivering top-notch software products. Advocate of diversity and inclusion in the tech industry, with a strong belief in empowering underrepresented groups.
+
+Education:
+Bachelor of Science in Computer Science
+San Francisco State University
+GPA: 3.9
+
+Work Experience:
+Software Engineer - Illuminix Solutions, San Jose, CA (2018-2020)
+- Developed advanced secure payment systems using NoSQL databases and Java.
+- Created automated testing processes resulting in increased software quality and efficiency.
+- Collaborated with multi-disciplinary teams to successfully deliver complex projects.
+- Utilized debugging techniques to troubleshoot and resolve issues throughout the development lifecycle.
+
+Software Developer - Neotech Solutions, San Francisco, CA (2016-2018)
+- Designed and optimized e-commerce platforms using SQL databases.
+- Implemented error tracking mechanisms to improve system performance and stability.
+- Developed Python modules to enhance software functionality and user experience.
+- Conducted thorough debugging and testing to ensure seamless operations.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Women in Tech Organization, San Jose, CA (2019-Present)
+- Actively contributed to fostering diversity and inclusion in the tech industry.
+- Organized workshops and events to inspire young women to pursue STEM careers.
+- Mentored underrepresented students in computer science, providing guidance and support.
+- Served as a leader in a local soccer team, encouraging other women to participate in sports and teamwork.
+
+Hobbies:
+- Playing the piano and composing music
+- Exploring different genres of literature and writing short stories
+- Engaging in outdoor activities like hiking and kayaking
+- Attending art exhibitions and exploring diverse art forms
+
+Languages:
+- English (native proficiency)
+- Spanish (conversational)

@@ -1,0 +1,50 @@
+Elijah Ford
+Houston, Texas | (123) 456-7890 | elijahford@email.com
+
+Personal Statement:
+Motivated and detail-oriented software engineer with a strong academic background in computer science. Dedicated to continuously improving skills and staying up-to-date with the latest industry trends. Committed to developing efficient, scalable, and secure software solutions that meet the needs of clients and users.
+
+Education:
+Bachelor of Science in Computer Science, Magna Cum Laude
+University of Houston, Houston, TX
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Quantum Software Systems
+Houston, TX | June 2018 - Present
+- Implemented and maintained SQL databases, ensuring optimal performance and data integrity
+- Conducted thorough debugging and troubleshooting to identify and resolve software issues
+- Developed robust Java applications for clients, adhering to industry best practices
+- Utilized NoSQL databases to build efficient and scalable solutions
+
+Software Developer, Stellar Tech Solutions
+Houston, TX | September 2016 - May 2018
+- Tracked and resolved errors in software systems, minimizing downtime and enhancing user experience
+- Collaborated with cross-functional teams to develop and maintain ecommerce platforms
+- Utilized Python for scripting and automation tasks, improving efficiency and productivity
+- Conducted secure payment integrations to ensure safe and seamless online transactions
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Leadership:
+- Men's Soccer Team Captain - University of Houston Men's Soccer Team
+  Led the team both on and off the field, fostering teamwork, discipline, and sportsmanship
+
+Diversity & Inclusion:
+- Member of the Society for Engineers of African Descent (SEAD)
+- Advocate for gender equality in the technology industry, actively involved in promoting diversity and inclusion initiatives
+
+Hobbies:
+- Playing the guitar, incorporating various musical styles and genres
+- Exploring different cultures through literature and travel
+- Engaging in outdoor activities such as hiking and camping
+
+Languages:
+- English (Native Proficiency)
+- Spanish (Conversational Proficiency)

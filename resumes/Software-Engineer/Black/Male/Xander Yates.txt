@@ -1,0 +1,36 @@
+Personal Statement:
+As a dedicated and ambitious software engineer, I am eager to utilize my strong technical skills and passion for problem-solving to drive innovation and enhance user experiences. With a solid foundation in computer science, I am equipped to tackle complex challenges and contribute to the advancement of cutting-edge technologies. As a black male from Charlotte, North Carolina, I am committed to promoting diversity and inclusion within the tech industry, while continuously honing my own craft. With a passion for sports leadership, I am dedicated to fostering teamwork, discipline, and perseverance both on and off the field.
+
+Education:
+Bachelor of Science in Computer Science, Charlotte Technical University, Charlotte, North Carolina
+- GPA: 3.9
+
+Work Experience:
+Software Engineer - InnovateX Software Solutions, Charlotte, NC (2018-2020)
+- Collaborated with cross-functional teams to implement error tracking and debugging strategies for a large-scale software project.
+- Conducted automated testing to identify and resolve issues, ensuring optimal performance and quality.
+- Utilized NoSQL databases to design and implement efficient data models.
+
+Software Developer - QuantumTech, Charlotte, NC (2017-2018)
+- Developed secure payment functionalities using Java to enhance an innovative ecommerce platform.
+- Utilized SQL to design, implement, and optimize robust database systems.
+- Collaborated with a team of Python programmers to enhance system stability and expand functionalities.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Black in Tech Charlotte organization, advocating for diversity and inclusion within the tech community.
+- Served as a team captain and mentor for the Charlotte Youth Basketball League, fostering team spirit, discipline, and perseverance on the court.
+
+Hobbies:
+- A talented jazz saxophonist, I regularly perform at local venues, infusing uplifting melodies and intricate rhythms inspired by my African American heritage.
+- A passionate basketball player, I lead and participate in recreational basketball leagues, promoting camaraderie, athleticism, and teamwork.
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)

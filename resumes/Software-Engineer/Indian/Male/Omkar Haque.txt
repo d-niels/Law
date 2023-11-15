@@ -1,0 +1,52 @@
+Omkar Haque
+123 Main Street, Philadelphia, Pennsylvania | (123) 456-7890 | omkarhaque@email.com
+
+Personal Statement:
+Motivated and diligent software engineer with a strong passion for programming and problem-solving. Dedicated to delivering efficient and innovative solutions while staying abreast of the latest technologies. Committed to fostering inclusive and diverse work environments in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Keystone University, Philadelphia, Pennsylvania
+GPA: 3.9/4.0
+- Relevant Coursework: Data Structures, Algorithms, Software Engineering, Database Management Systems
+
+Work Experience:
+Software Engineer, TechNexus, Philadelphia, Pennsylvania
+September 2018 - Present
+- Developed and maintained secure payment systems using SQL and error tracking tools.
+- Implemented automated testing protocols to enhance product quality and minimize errors.
+- Collaborated with cross-functional teams to troubleshoot issues and implement bug fixes.
+
+Software Developer Intern, Innovate Tech Solutions, Philadelphia, Pennsylvania
+May 2017 - August 2017
+- Conducted debugging and troubleshooting tasks in an e-commerce environment utilizing NoSQL databases.
+- Assisted in the development of secure payment gateways using Java and Python.
+- Collaborated with teammates to deliver timely solutions while adhering to strict project deadlines.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate, Keystone University, Philadelphia, Pennsylvania
+January 2016 - May 2018
+- Actively worked towards creating an inclusive environment for minority students in the computer science department.
+- Coordinated workshops and events to raise awareness about cultural diversity and gender parity in the tech industry.
+- Served as a mentor to underrepresented students, providing guidance and support in their academic and professional journeys.
+
+Basketball Team Captain, Keystone University, Philadelphia, Pennsylvania
+September 2015 - May 2016
+- Led the basketball team to victory in the intercollegiate tournament, fostering teamwork and camaraderie.
+- Organized team practices, devised game strategies, and mentored junior players.
+
+Hobbies:
+- Playing the Tabla (Indian percussion instrument)
+- Exploring diverse cultures through music, art, and literature
+- Participating in hackathons and coding competitions highlighting diversity and inclusivity
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+- Bengali (Proficient)

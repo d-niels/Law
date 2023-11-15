@@ -1,0 +1,49 @@
+Tadeo Perez
+1234 Main Street, El Paso, Texas 67890
+Phone: (555) 123-4567
+Email: tperez@email.com
+
+Personal Statement:
+Dedicated and highly motivated software engineer with a strong passion for problem-solving and creating efficient and innovative solutions. Possesses exceptional technical skills and a solid educational background in computer science. Adaptable and detail-oriented, thriving in fast-paced and challenging environments. Committed to leveraging my expertise to drive technological advancements and contribute to the success of an organization.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+University of Texas at Houston, Houston, Texas
+
+Work Experience:
+Software Engineer Intern, Techforce Inc., El Paso, Texas
+- Developed and maintained various Java-based applications for an advanced e-commerce platform
+- Conducted extensive debugging and troubleshooting to identify and resolve issues
+- Implemented SQL queries to manipulate and retrieve data from the database
+- Collaborated with cross-functional teams to enhance the functionality and user experience of the platform
+
+Software Engineer, Innovatech Solutions, El Paso, Texas
+- Implemented and executed automated testing procedures, including test scripts and test cases
+- Managed NoSQL databases, ensuring seamless data storage and retrieval
+- Utilized error tracking tools to identify and rectify software defects and performance issues
+- Integrated secure payment gateways into web applications, ensuring the protection of customer data
+- Maintained and contributed to the development of Python-based projects
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity in technology, advocating for underrepresented groups in the field
+- Served as a team captain and leader in organizing and coordinating a local basketball league, fostering teamwork and inclusivity
+- Engaged in community initiatives that enhance access to technology for Latino youth, encouraging their participation in STEM fields
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures and art forms
+- Learning new languages
+- Actively participating in coding and hackathon events
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References available upon request

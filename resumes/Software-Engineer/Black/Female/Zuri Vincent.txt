@@ -1,0 +1,34 @@
+Zuri Vincent
+
+Personal Statement:
+Motivated and detail-oriented software engineer with a strong passion for problem-solving and innovative design in the technology industry. Equipped with a solid educational background in computer science and hands-on experience in software development and debugging. Committed to delivering high-quality solutions by leveraging expertise in programming languages, database technologies, and source control. Particularly interested in utilizing technology to drive positive change and bridge gaps in underrepresented communities.
+
+Education:
+Bachelor of Science in Computer Science, University of Indianapolis, Indianapolis, Indiana (GPA: 3.9/4.0) - 2016
+
+Work Experience:
+Software Engineer, InnovateTech Solutions, Indianapolis, IN (2017-2019)
+- Developed and updated software applications using NoSQL databases, performing debugging and utilizing SQL for data management.
+- Utilized Python to create efficient and scalable code, improving the overall functionality and user experience of software products.
+
+Software Developer, TechCo Solutions, Indianapolis, IN (2016-2017)
+- Implemented error tracking systems and utilized Java programming language to identify and resolve software issues promptly.
+- Collaborated with cross-functional teams in the development of an ecommerce platform, specializing in secure payments and automated testing.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and empowering underrepresented communities in the technology field.
+- Sports Leadership Role: Served as captain of the University of Indianapolis women's soccer team, fostering teamwork, communication, and leadership skills.
+
+Hobbies:
+- Playing the piano, showcasing creativity and musical talent.
+- Exploring different cultures through travel, embracing diversity while fostering inclusion and understanding.
+
+Languages:
+Fluent in English and conversational proficiency in Spanish.

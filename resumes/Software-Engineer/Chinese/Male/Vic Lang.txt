@@ -1,0 +1,35 @@
+Personal Statement:
+Highly skilled and motivated software engineer with a passion for coding and problem-solving. Dedicated to delivering efficient and innovative solutions, leveraging automation and extensive programming knowledge. Eager to contribute my skills in a challenging software engineering role, creating impactful software applications, and driving business growth.
+
+Education:
+Bachelor of Science in Computer Science, Liberty University, New York, NY
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechPro Solutions, New York, NY
+- Implemented and conducted automated testing processes, ensuring high-quality software releases and reducing manual efforts by 50%
+- Developed robust and scalable ecommerce solutions, resulting in a 30% increase in sales
+- Debugged complex issues and implemented solutions for secure payment functionalities
+
+Software Developer Intern, Velocity Software Solutions, New York, NY
+- Worked with SQL and NoSQL databases, optimizing query performance and designing efficient database structures
+- Utilized Java and Python programming languages to develop, test, and maintain software applications
+- Collaborated with the team to track errors and resolve bugs efficiently
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Chinese-American Sports Association, New York, NY
+- Served as the team captain and leader in competitive basketball tournaments, fostering teamwork, and motivating players to achieve excellence
+- Actively contributed to promoting Chinese culture and diversity within the organization, organizing cultural events and celebrations
+
+Hobbies:
+Playing the piano, basketball, exploring photography, reading technical blogs
+
+Languages:
+Fluent in English and Mandarin Chinese

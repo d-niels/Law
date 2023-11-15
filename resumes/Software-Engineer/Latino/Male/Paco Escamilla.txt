@@ -1,0 +1,39 @@
+Personal Statement:
+I am a passionate and driven software engineer dedicated to pushing the boundaries of technology. With a strong background in computer science and a love for innovation, I aim to make a meaningful impact in the industry. As a proud Latino male from Houston, Texas, I bring a unique perspective and strive to promote diversity and inclusivity. I am excited to apply my skills and contribute to a cutting-edge organization that values creativity and forward-thinking.
+
+Education:
+Bachelor of Science in Computer Science
+Cityscape University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechnoSphere Solutions, Houston, Texas (March 2018 - Present)
+- Developed and maintained a highly secure and efficient payment gateway system using NoSQL databases and Python scripting.
+- Leveraged advanced SQL techniques to optimize database structures and enhance the performance of the company's financial platform.
+
+Software Developer, FutureTech Innovations, Houston, Texas (June 2016 - February 2018)
+- Collaborated with a skilled team of developers to enhance and debug an e-commerce platform built with Java.
+- Implemented automated testing procedures and utilized error tracking tools to ensure seamless functionality and exceptional user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Youth Empowerment Program, Houston Latino Association (September 2019 - Present)
+- Mentor, motivate, and inspire Latino youth to strive for excellence in academics and personal growth.
+- Organize and lead sports events, including soccer tournaments, fostering teamwork, leadership, and inclusivity.
+
+Hobbies:
+- Playing the guitar and composing music
+- Engaging in local cultural festivals that celebrate Latino heritage, such as dance and music performances
+- Exploring various forms of art, including painting and photography, to express creativity and connect with others
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+Sport: Soccer Team Captain/Leader, striving to empower and mentor young athletes, emphasizing discipline, teamwork, and perseverance.

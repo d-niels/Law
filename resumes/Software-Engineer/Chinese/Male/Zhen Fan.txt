@@ -1,0 +1,35 @@
+Zhen Fan
+
+Personal Statement:
+As a dedicated and motivated software engineer, I am determined to contribute my expertise to develop innovative and reliable solutions in the field. With a Bachelor's degree in Computer Science and a strong passion for programming, I am eager to apply my technical skills and problem-solving abilities in a dynamic team environment.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Techton University, Philadelphia, Pennsylvania
+
+Work Experience:
+Software Engineer, Quantum Softworks, Philadelphia, Pennsylvania
+- Successfully implemented error tracking and secure payment systems for a high-traffic e-commerce platform.
+- Utilized NoSQL databases and Java to optimize data retrieval and storage operations.
+- Worked collaboratively with cross-functional teams to develop and deliver high-quality software solutions.
+
+Software Engineer, Digital Solutions Inc., Philadelphia, Pennsylvania
+- Conducted thorough debugging and troubleshooting to identify and resolve software issues.
+- Proficiently utilized SQL, Python, and automated testing tools to ensure reliable functionality of an e-commerce platform.
+- Collaborated closely with the development team to implement new features and optimize system performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a Chinese male, I take pride in promoting diversity and inclusivity in the tech industry. To further support underrepresented communities, I actively volunteer with organizations aimed at empowering aspiring software engineers from diverse backgrounds. Additionally, I serve as a team leader in a local youth basketball league, fostering leadership skills and enhancing teamwork abilities.
+
+Hobbies:
+In my spare time, I enjoy playing the erhu, a traditional Chinese instrument, which allows me to appreciate and connect with my cultural roots. I am also an avid hiker and enjoy exploring the picturesque trails within the Philadelphia region.
+
+Languages:
+Fluent in English and Mandarin Chinese.
