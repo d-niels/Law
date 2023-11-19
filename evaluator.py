@@ -75,10 +75,11 @@ for ethnicity in ethnicities:
             with open(os.path.join(resume_folder_path, file), 'r') as f:
                 resume = f.read()
             score, bullet_points = evaluator.evaluate(job_description, resume)
+            string_to_write = str(score)
+            for bullet_point in bullet_points:
+                string_to_write += '\n' + bullet_point
             with open(os.path.join(evaluator_folder_path, file), 'w') as f:
-                f.write(str(score))
-                for bullet_point in bullet_points:
-                    f.write(bullet_point)
+                f.write(string_to_write)
             print(f'time: {int(time.time() - start)}s, evaluated: {os.path.join(evaluator_folder_path, file)}')
 
 
