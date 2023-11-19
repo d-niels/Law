@@ -1,0 +1,36 @@
+Personal Statement:
+I am an enthusiastic and driven data scientist with a passion for utilizing cutting-edge technologies to solve complex problems. With a solid educational background in computer science, I am dedicated to leveraging my skills to drive data-driven decision making. As a white female from Houston, Texas, I am committed to promoting diversity and inclusivity in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Houston Technical University (Houston, Texas)
+- GPA: 3.9
+
+Work Experience:
+Data Scientist, VertexGenetics (Houston, Texas)
+- Utilized TensorFlow, Java, Python, SciKit-Learn, and SQL to develop machine learning models and algorithms.
+- Analyzed and interpreted large datasets to identify meaningful insights and trends, resulting in enhanced business strategies.
+- Collaborated with cross-functional teams to implement data-driven solutions and streamline processes.
+
+Data Analyst, StellarAnalytica (Houston, Texas)
+- Employed PyTorch, C++, MongoDB, Pandas, NumPy, and R to develop innovative data analysis methodologies.
+- Conducted statistical analysis to identify patterns and trends, driving informed decision making and process optimization.
+- Developed data visualization tools and dashboards to effectively communicate complex data to stakeholders.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active promoter of diversity and inclusivity in the tech industry, driving initiatives to foster an inclusive environment.
+- Served as a team leader in synchronized swimming, empowering young girls to develop leadership skills through participation.
+
+Hobbies:
+- Playing the violin, embracing the beauty of classical music.
+- Exploring different cultures and languages, promoting intercultural dialogue and understanding.
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)

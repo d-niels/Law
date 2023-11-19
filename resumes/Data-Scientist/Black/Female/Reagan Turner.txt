@@ -1,0 +1,41 @@
+Reagan Turner
+
+Personal Statement:
+A highly motivated and detail-oriented data scientist with a passion for leveraging data-driven insights to solve complex problems. With a strong educational foundation in computer science and proven expertise in various programming languages, database technologies, and data analysis tools, I am well-equipped to contribute to any organization's data-driven initiatives. As a black female, I take pride in promoting diversity and inclusion in the tech industry, and I am committed to using my skills to make a meaningful impact. My diverse background and experiences have shaped me into a strong leader and advocate for equality.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+Columbus Tech Institute, Columbus, Ohio
+
+Work Experience:
+Data Scientist, Stellar Analytics, Columbus, OH
+- Utilized PyTorch, SQL, TensorFlow, Pandas, and Java to develop machine learning models for predictive analytics
+- Conducted data cleaning, preprocessing, and analysis to identify patterns and optimize model performance
+- Collaborated with cross-functional teams to communicate insights and provide data-driven recommendations for business growth
+
+Data Analyst, Nexus Solutions, Columbus, OH
+- Employed NumPy, R, SciKit-Learn, C++, MongoDB, and Python to analyze large datasets and generate meaningful reports
+- Developed and maintained statistical models to support decision-making processes
+- Streamlined data collection processes, resulting in a 30% increase in efficiency
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Community Outreach Coordinator, Columbus Tech Diversity Initiative, Columbus, OH
+- Led efforts to promote diversity and inclusion in the tech industry, organizing events and workshops to attract underrepresented individuals
+- Mentored aspiring black female data scientists, providing guidance and support throughout their educational and professional journeys
+- Served as a leader in girls' basketball, coaching and motivating a local team
+
+Hobbies:
+- Playing the saxophone
+- Participating in cultural dance performances
+- Engaging in advocacy work for racial and gender equality
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)

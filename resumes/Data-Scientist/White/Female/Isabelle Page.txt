@@ -1,0 +1,39 @@
+Isabelle Page
+
+Personal Statement:
+A diligent and detail-oriented data scientist with a passion for turning complex data into actionable insights. Possessing strong programming skills and a sound understanding of database technologies, I am dedicated to leveraging data-driven solutions to drive business growth and optimize decision-making processes. As a white female from San Antonio, Texas, I am committed to bringing diversity and inclusivity to the field of data science.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+San Antonio University, San Antonio, Texas
+
+Work Experience:
+Data Scientist, Infotech Analytics - San Antonio, Texas
+- Developed and implemented machine learning algorithms using C++, SQL, Java, SciKit-Learn, and MongoDB.
+- Extracted and analyzed data from various sources to provide actionable insights and improve business strategies.
+
+Data Analyst, Quantum Intelligence Ltd. - San Antonio, Texas
+- Applied Python, R, Pandas, NumPy, TensorFlow, and PyTorch to manipulate and analyze large datasets.
+- Collaborated with cross-functional teams to develop predictive models and enhance data visualization techniques.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer at the Cultural Diversity Foundation - Contributing to the empowerment and support of individuals from diverse ethnic backgrounds through various initiatives.
+- Sports Leadership Role: Captain of the basketball team, promoting teamwork, discipline, and inclusivity while representing the San Antonio community.
+
+Hobbies:
+- Playing the guitar
+- Exploring diverse cultures and learning about their traditions and history
+- Engaging in community art projects that celebrate diversity and foster inclusivity
+
+Languages:
+- English (Native)
+- Spanish (Fluent)
+
+References available upon request.

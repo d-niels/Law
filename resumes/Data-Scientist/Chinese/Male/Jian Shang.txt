@@ -1,0 +1,38 @@
+Personal Statement:
+As a dedicated and driven data scientist, I am passionate about leveraging my skills and knowledge in the field to extract valuable insights from complex datasets. With a strong background in computer science and an unwavering commitment to continuous learning, I strive to contribute to innovative projects that positively impact society. Equipped with a diverse skill set and a detail-oriented approach, I am confident in my ability to tackle challenging problems and drive data-driven decision-making.
+
+Education:
+Bachelor of Science in Computer Science | University of Technology, New York, NY
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist | Quantum Innovations, New York City, NY
+- Utilized SciKit-Learn, Pandas, PyTorch, MongoDB, and NumPy to develop machine learning models and algorithms for data analysis and pattern recognition.
+- Gathered, cleaned, and processed large datasets, ensuring data integrity and quality for analysis.
+- Collaborated with cross-functional teams to identify business requirements and deliver data-driven solutions to enhance operational efficiency.
+- Presented findings and insights to stakeholders, effectively communicating complex technical concepts to non-technical audiences.
+
+Data Analyst | Stellar Analytics, New York, NY
+- Utilized TensorFlow, SQL, R, Java, Python, and C++ to perform data mining, extraction, and analysis, resulting in improved data-driven decision-making.
+- Developed and implemented efficient SQL queries to extract data from various databases and perform complex data transformations.
+- Conducted statistical analysis and visualization to identify trends, patterns, and anomalies in large datasets.
+- Collaborated with clients to understand their business needs, translated requirements into technical solutions, and delivered actionable insights.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Chinese-American Cultural Association, organizing events that celebrate and promote Chinese culture, fostering cross-cultural understanding and collaboration.
+- Sports Leadership Role: Served as the captain of the university's soccer team, demonstrating strong leadership, teamwork, and discipline.
+
+Hobbies:
+- Playing the piano to explore various genres of music and express creativity.
+- Promoting gender equality and ethnic diversity in technology through engagement with local community organizations.
+- Engaging in outdoor activities such as hiking and photography, appreciating the beauty of nature and diverse landscapes.
+
+Languages:
+Fluent in English and Mandarin Chinese, allowing effective communication in multicultural environments.

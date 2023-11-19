@@ -1,0 +1,41 @@
+Fiza Chopra
+
+Personal Statement:
+Dedicated and passionate data scientist with a strong background in computer science. Excels at analyzing complex data sets to uncover valuable insights. Committed to leveraging data-driven strategies to improve business outcomes. Seeking a challenging position as a data scientist to further enhance my skills and contribute to innovative projects.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, Los Angeles, CA
+- Graduated with a GPA of 3.9
+- Relevant coursework: Data Science, Machine Learning, Database Systems, Algorithms
+
+Work Experience:
+Data Analyst, Innovix Analytics, Los Angeles, CA
+- Leveraged Java, MongoDB, and SQL to extract, clean, and analyze large datasets
+- Developed machine learning models using SciKit-Learn to predict customer behavior
+- Utilized C++ for optimizing performance of data processing algorithms
+
+Machine Learning Engineer, Aurora Technologies, Los Angeles, CA
+- Utilized PyTorch, Python, and TensorFlow to develop and implement machine learning models
+- Processed and manipulated data using Pandas, NumPy, and R
+- Collaborated with cross-functional teams to deploy and integrate models into existing systems
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+• Active member and mentor of the Indian Women in Stem Society, empowering female students pursuing STEM fields and organizing events to promote diversity and inclusion.
+• Sports leadership role model and team captain for the thriving cricket community in Los Angeles, fostering teamwork, discipline, and sportsmanship among players.
+
+Hobbies:
+• Playing the tabla, a traditional Indian percussion instrument, to connect with my cultural heritage and express myself artistically.
+• Exploring different cultures through photography and documenting unique traditions and lifestyles.
+
+Languages:
+- English (Fluent)
+- Hindi (Native Proficiency)
+
+References available upon request

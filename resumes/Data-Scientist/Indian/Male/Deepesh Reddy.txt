@@ -1,0 +1,41 @@
+Deepesh Reddy
+
+Philadelphia, Pennsylvania | (123) 456-7890 | deepeshreddy@email.com
+
+Personal Statement:
+Highly motivated and results-driven Data Scientist with a passion for leveraging data-driven insights to enhance business outcomes. Strong background in computer science with expertise in programming languages, database technologies, and problem-solving. Dedicated to applying advanced analytics and machine learning techniques to drive innovation and efficiency. Committed to delivering high-quality solutions that address complex business challenges.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Philadelphia Institute of Technology, Philadelphia, Pennsylvania
+
+Work Experience:
+Data Scientist | AlphaAnalytics, Philadelphia, Pennsylvania | May 2018 - Present
+- Utilized Pandas, SQL, Java, C++, and TensorFlow to perform data analysis, develop machine learning models, and extract actionable insights.
+- Collaborated with cross-functional teams to identify business opportunities and develop custom data-driven solutions.
+- Developed and maintained scalable data processing pipelines to support data analysis and model training.
+
+Data Analyst | BetaTech, Philadelphia, Pennsylvania | June 2016 - April 2018
+- Leveraged SciKit-Learn, PyTorch, R, Python, NumPy, and MongoDB to conduct statistical analysis, build predictive models, and visualize data.
+- Streamlined data collection and preprocessing processes, resulting in a 20% increase in efficiency.
+- Presented findings and recommendations to senior stakeholders, leading to data-driven decision-making.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Soccer Captain: Led a local soccer team, organizing practices, coordinating schedules, and fostering teamwork and sportsmanship among diverse players.
+- Promoting Diversity: Actively promote inclusivity and equal opportunities for individuals from diverse backgrounds in both personal and professional settings.
+
+Hobbies:
+- Playing the guitar to express creativity and explore various genres of music.
+- Exploring different cultures through travel, art, and literature.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Telugu (Fluent)

@@ -1,0 +1,44 @@
+Hemant Iyengar
+Los Angeles, California · (123) 456-7890 · hemantiyengar@email.com
+
+Personal Statement:
+Astute and dedicated data scientist with a strong background in computer science and a passion for solving complex problems using data-driven approaches. Skilled in SQL, PyTorch, Java, SciKit-Learn, Python, C++, NumPy, Pandas, MongoDB, R, and TensorFlow. Committed to translating data into actionable insights to drive informed business decisions. Focused on promoting diversity and inclusivity in the field through leadership and advocacy.
+
+Education:
+Bachelor's Degree in Computer Science, Oceanview University, Los Angeles, California
+GPA: 3.9/4.0
+
+Work Experience:
+Data Science Engineer, Stellar Technologies, Los Angeles, California
+June 2019 - Present
+- Developed and maintained robust data pipelines using SQL, PyTorch, Java, and SciKit-Learn, significantly improving data processing efficiency and accuracy.
+- Collaborated with cross-functional teams to analyze and interpret complex datasets, providing valuable insights that drove strategic decision-making.
+- Leveraged Python for data visualization and statistical analysis, identifying trends and patterns for informed business recommendations.
+
+Machine Learning Analyst Intern, Cybertech Innovations, Los Angeles, California
+May 2018 - August 2018
+- Conducted data cleaning, preprocessing, and analysis using C++, NumPy, Pandas, and MongoDB, ensuring data quality and accessibility.
+- Employed R for statistical modeling and hypothesis testing, delivering data-driven insights that optimized business processes.
+- Explored cutting-edge machine learning techniques with TensorFlow to develop predictive models, increasing sales prediction accuracy by 20%.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Led and captained the Oceanview University soccer team, organizing team strategies, fostering unity, and leading the team to victory in multiple championships.
+- Actively participated in organizations dedicated to promoting diversity and inclusion in STEM fields, championing the rights and opportunities for underrepresented communities, including the Indian and male population.
+
+Hobbies:
+- Playing the tabla, a traditional Indian percussion instrument, showcasing Hemant's musical talent and cultural appreciation.
+- Exploring diverse cultures and traditions through traveling, offering a global perspective and respecting different customs.
+- Participating in local community events focused on promoting diversity and inclusion, actively engaging and giving back to the community.
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+- Tamil (Basic proficiency)
+- Gujarati (Basic proficiency)

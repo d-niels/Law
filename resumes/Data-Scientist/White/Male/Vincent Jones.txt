@@ -1,0 +1,37 @@
+Personal Statement:
+I am a highly motivated and detail-oriented data scientist with a strong passion for utilizing technology to solve complex problems. With a solid educational background in computer science and hands-on experience in data analysis and machine learning, I am eager to contribute my skills to a dynamic organization. As a white male, I believe in the importance of diversity and inclusion in the tech industry, and I am dedicated to promoting these values through volunteering and leadership.
+
+Education:
+Bachelor of Science in Computer Science - University of Arizona, Tucson (Phoenix, Arizona)
+GPA: 3.9
+
+Work Experience:
+Data Scientist - NovaTech Solutions, Phoenix, AZ
+- Utilized Pandas, SciKit-Learn, SQL, TensorFlow, and Python to analyze and interpret large datasets, providing actionable insights and recommendations.
+- Conducted extensive research and implemented machine learning algorithms to optimize business processes and improve data quality.
+- Collaborated with cross-functional teams to develop and deploy scalable models and solutions.
+
+Software Engineer - StellarSoft, Phoenix, AZ
+- Developed software solutions using NumPy, Java, MongoDB, C++, R, and PyTorch to support data analysis and visualization.
+- Collaborated with clients to understand their requirements and deliver high-quality software products within specified timelines.
+- Conducted testing and debugging, ensuring optimal performance and functionality of software systems.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Society of Hispanic Professional Engineers (SHPE) promoting diversity in the tech industry through mentorship and community outreach.
+- Volunteer data analyst at a local non-profit organization, utilizing my skills to help improve data management and impact assessment.
+- Soccer Leadership Role: Team Captain of a local soccer team, organizing practices and fostering teamwork to achieve success on the field.
+
+Hobbies:
+- Playing the guitar to unwind and express creativity.
+- Active member of the Phoenix Hiking Club, exploring the beautiful landscapes of Arizona.
+- Reading books on history and culture, fostering a greater understanding and appreciation for different perspectives.
+
+Languages:
+- Fluent in English and Spanish, enabling effective communication with diverse teams and stakeholders.

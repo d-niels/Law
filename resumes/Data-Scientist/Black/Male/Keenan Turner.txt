@@ -1,0 +1,52 @@
+[Your Name]
+[Address]
+[City, State, ZIP]
+[Phone Number]
+[Email Address]
+
+Personal Statement:
+Highly motivated and detail-oriented data scientist with a passion for leveraging data-driven insights to solve complex problems. Demonstrated expertise in various programming languages and database technologies, along with strong problem-solving and analytical skills. Committed to utilizing my skills and knowledge to contribute to the growth and success of a data-driven organization.
+
+Education:
+Bachelor of Science in Computer Science
+[Unique University Name], Memphis, Tennessee
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist | Apex Data Solutions, Memphis, TN
+[Dates]
+
+- Utilized programming languages such as C++, Java, SQL, Python, and PyTorch to develop and implement data models, algorithms, and statistical analyses.
+- Extracted, cleaned, and transformed large datasets to extract valuable insights.
+- Collaborated with cross-functional teams to understand business requirements and design data-driven solutions.
+- Presented findings and recommendations to both technical and non-technical audiences.
+
+Machine Learning Engineer | Quantum Analytics, Memphis, TN
+[Dates]
+
+- Utilized TensorFlow, SciKit-Learn, R, NumPy, MongoDB, and Pandas to analyze complex datasets and develop predictive models.
+- Developed and maintained databases, ensuring data accuracy and integrity.
+- Conducted comprehensive statistical analyses to identify trends and patterns in large datasets.
+- Collaborated with clients to understand their specific needs and provided data-driven solutions to optimize business operations.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer at Empowerment Alliance: As an active member of Empowerment Alliance, I support initiatives that uplift and empower the black community in Memphis. Through engagement with community events and mentorship programs, I strive to create opportunities and encourage the pursuit of STEM careers for young individuals like myself.
+- Sports Leadership Role: Served as Team Captain for the basketball team, demonstrating leadership, teamwork, and perseverance while fostering a diverse and inclusive environment.
+
+Hobbies:
+- Playing the piano: I have been playing the piano for over 10 years, allowing me to express my creativity and passion for music.
+- Exploration of diverse cultures: I enjoy immersing myself in different cultures, learning about their history, traditions, and arts. This pursuit allows me to broaden my perspectives and embrace diversity.
+
+Languages:
+- English (Native)
+- Spanish (Proficient)
+
+References:
+Available upon request.

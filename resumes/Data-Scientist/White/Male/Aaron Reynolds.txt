@@ -1,0 +1,41 @@
+Personal Statement:
+I am a dedicated and passionate data scientist with a strong background in computer science. As a white male hailing from Jacksonville, Florida, I bring a unique perspective to the field. Throughout my academic and professional journey, I have consistently demonstrated my ability to analyze complex datasets and derive valuable insights. With my strong analytical skills and extensive knowledge of programming languages and database technologies, I am well-equipped to excel in the role of a data scientist.
+
+Education:
+Bachelor of Science in Computer Science, University of North Florida, Jacksonville, FL
+- GPA: 3.9
+
+Work Experience:
+Data Scientist, DataVis Corporation, Jacksonville, FL
+- Applied SQL, NumPy, SciKit-Learn, R, and PyTorch to analyze large datasets and develop statistical models.
+- Contributed to the development of machine learning algorithms for predictive analytics.
+- Collaborated with cross-functional teams to optimize data-driven decision making.
+
+Data Analyst, Infotech Solutions, Jacksonville, FL
+- Utilized TensorFlow, Pandas, Java, MongoDB, Python, and C++ to manage and analyze data for various projects.
+- Developed efficient algorithms to automate data processing and cleansing tasks.
+- Collaborated with software developers to integrate data analytics solutions into existing systems.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Board Member, Diversity in Technology Initiative
+- Actively promoted diversity and inclusion in the tech community by providing support and resources for underrepresented individuals.
+- Organized events and workshops to empower minority groups and foster networking opportunities.
+
+Basketball Team Captain, Jacksonville Community Center
+- Led a diverse and talented basketball team, fostering a sense of teamwork and camaraderie.
+- Organized practice sessions, strategized game plans, and motivated team members to achieve their full potential.
+
+Hobbies:
+- Playing the piano to explore different musical genres and express creativity.
+- Engaging in photography, capturing diverse landscapes and unique moments.
+
+Languages:
+- English (Native)
+- Spanish (Proficient)

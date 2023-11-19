@@ -1,0 +1,38 @@
+Personal Statement:
+As an ambitious and results-driven data scientist, I am dedicated to using my analytical skills and expertise in programming and data analysis to drive data-based decision-making. With a deep commitment to promoting diversity and inclusion, I strive to empower underrepresented communities in the field of data science. With a strong academic background in computer science and practical experience, I am poised to tackle complex business challenges and make a positive impact.
+
+Education:
+Bachelor of Science in Computer Science, Memphis State University, Memphis, Tennessee
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist - TechGenix Analytics, Memphis, Tennessee
+- Leveraged C++, SciKit-Learn, Pandas, SQL, and NumPy to design and implement algorithms and models, enabling accurate forecasting of key business metrics.
+- Collaborated with cross-functional teams to analyze and interpret complex datasets, providing valuable insights and actionable recommendations for process optimization.
+- Designed and implemented efficient data extraction, transformation, and loading (ETL) processes for large-scale datasets, resulting in a 25% improvement in overall data processing efficiency.
+
+Machine Learning Engineer - Intellicode Solutions, Memphis, Tennessee
+- Developed Java, R, TensorFlow, MongoDB, PyTorch, and Python-based solutions for data analysis and visualization, empowering stakeholders to make informed business decisions.
+- Conducted in-depth exploratory data analysis and created predictive models, contributing to a 20% increase in customer retention.
+- Implemented and optimized database systems to handle and manage vast amounts of data, resulting in a 30% improvement in query performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity Advocate and Mentor - Data Diversity Initiative (DDI)
+- Championed diversity and inclusion within the data science community, advocating for equal opportunities for underrepresented individuals.
+- Mentored and provided guidance to minority students in Memphis, assisting them in pursuing careers in data science.
+
+Sports Leadership Role: Basketball Team Captain - Memphis Dreamers Basketball Club
+- Led a diverse group of talented athletes, fostering collaboration, discipline, and leadership both on and off the court.
+
+Hobbies:
+Playing the saxophone, exploring diverse cultural traditions and music, advocating for underrepresented voices, and engaging in community service activities.
+
+Languages:
+Fluent in English and Spanish.

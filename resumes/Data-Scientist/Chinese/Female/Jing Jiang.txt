@@ -1,0 +1,35 @@
+Personal Statement:
+As a Chinese female data scientist from Oakland, California, I am fiercely determined to excel in my passion for uncovering valuable insights from complex datasets. With a bachelor's degree in computer science from the prestigious Harmony University, known for its emphasis on cutting-edge technology and innovation, and an exceptional GPA of 3.9, I am eager to contribute my diverse skill set and leadership experience to the role of a data scientist. My dedication, analytical prowess, and commitment to continuous learning make me a valuable asset in any data-driven organization.
+
+Education:
+Bachelor of Science in Computer Science
+Harmony University, Oakland, California
+GPA: 3.9
+
+Work Experience:
+Data Scientist | Zenith Insights, San Francisco, California
+- Developed statistical models and machine learning algorithms using R, SciKit-Learn, Python, NumPy, and Java to extract actionable insights from complex datasets.
+- Conducted comprehensive data exploration, visualization, and analysis to identify trends, patterns, and correlations crucial for strategic decision-making.
+
+Data Engineer | Spectra Systems, Oakland, California
+- Designed and optimized data pipelines and databases using industry-leading technologies such as MongoDB, PyTorch, TensorFlow, C++, SQL, and Pandas.
+- Developed and implemented advanced queries and data transformation processes to cleanse, transform, and analyze large-scale datasets with high efficiency and accuracy.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusivity in the field of data science, organizing workshops and mentoring programs for underrepresented groups.
+- Served as a passionate leader and coach in women's basketball, fostering teamwork, skill development, and promoting gender equality in sports.
+
+Hobbies:
+- Playing the guzheng, a traditional Chinese instrument, to express and connect with the rich cultural heritage.
+- Exploring diverse cultures through travel, immersing myself in local art, music, and traditions.
+- Practicing martial arts, empowering women by promoting physical fitness, self-defense skills, and self-confidence.
+
+Languages:
+Fluent in English and Mandarin Chinese.

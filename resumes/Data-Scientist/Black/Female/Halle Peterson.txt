@@ -1,0 +1,38 @@
+Personal Statement:
+I am a dedicated and ambitious data scientist with a strong background in computer science. With a Bachelor's degree in Computer Science from Xavier University in Indianapolis, Indiana, I have honed my skills and knowledge to excel in the field. My objective is to leverage my technical expertise and analytical mindset to drive innovation and make a significant impact in the world of data science.
+
+Education:
+Bachelor of Science in Computer Science, Xavier University, Indianapolis, IN
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist, Innovate Analytics Solutions, Indianapolis, IN
+- Utilized SQL, R, TensorFlow, NumPy, and MongoDB to develop and implement advanced machine learning models for data analysis and visualization.
+- Employed data cleaning and preprocessing techniques to ensure data accuracy and reliability.
+- Collaborated cross-functionally to identify business goals and provided data-driven insights to drive decision-making processes.
+
+Junior Data Analyst, Quantum Technologies, Indianapolis, IN
+- Applied Pandas, PyTorch, Java, Python, SciKit-Learn, and C++ to extract, manipulate, and analyze large and complex datasets.
+- Developed and maintained efficient data pipelines for transforming raw data into valuable insights.
+- Assisted in creating predictive models to optimize business strategies and enhance data-driven decision-making.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Advocate for diversity and inclusivity in the tech industry as a black female data scientist.
+- Served as a team captain, leading and mentoring young girls in the community in the sport of basketball.
+
+Hobbies:
+- Playing the saxophone, allowing me to express my creativity and passion for music.
+- Engaging in social justice initiatives, using my voice and knowledge to advocate for equality and inclusivity.
+
+Languages:
+- Fluent in English
+- Proficient in Spanish (conversational)
+
+By combining my technical expertise, dedication to promoting diversity, and leadership experience, I am confident in my ability to drive positive change as a data scientist. I am excited about the opportunity to contribute my skills and make a meaningful impact in the field.

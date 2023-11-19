@@ -1,0 +1,47 @@
+JIYA CHOPRA
+
+Data Scientist | Washington, DC | jiya.chopra@email.com | (123) 456-7890
+
+PERSONAL STATEMENT
+
+Highly motivated and detail-oriented data scientist with a strong background in computer science and a passion for utilizing data to drive actionable insights. Dedicated to leveraging technical expertise and analytical skills to solve complex problems and optimize business performance. Committed to promoting diversity and equality in the field of data science through volunteer and leadership initiatives.
+
+EDUCATION
+
+Bachelor of Science in Computer Science, Wexford University, Washington, DC
+GPA: 3.9/4.0
+
+WORK EXPERIENCE
+
+Junior Data Scientist, Stellar Insights, Washington, DC
+- Developed machine learning models using PyTorch, Pandas, C++, NumPy, and MongoDB to analyze complex data sets.
+- Collaborated with cross-functional teams to design and implement data-driven solutions that improved decision-making processes.
+- Conducted thorough data cleaning, preprocessing, and feature engineering to enhance model performance.
+
+Data Analyst, Quantix Solutions, Washington, DC
+- Utilized SQL, TensorFlow, R, Python, Java, and SciKit-Learn to extract, transform, and analyze large and complex datasets.
+- Implemented data visualization techniques to effectively communicate findings and insights to stakeholders.
+- Participated in the development and deployment of predictive models for various business applications.
+
+SKILLS
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+
+Diversity and Inclusion Advocate, Wexford University
+- Organized workshops and seminars to promote diversity and inclusion in the computer science department.
+- Mentored underrepresented students and guided them towards career paths in data science.
+- Led a leadership role as the captain of the women's volleyball team, fostering teamwork, discipline, and resilience.
+
+HOBBIES
+
+Playing the guitar, hiking, painting, and exploring different cultures and traditions.
+
+LANGUAGES
+
+Fluent in English and Hindi.

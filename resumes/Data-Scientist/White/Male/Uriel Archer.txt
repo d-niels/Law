@@ -1,0 +1,37 @@
+Personal Statement:
+As a data scientist, I am driven by my passion to unravel complex patterns and generate valuable insights from data. With a strong foundation in computer science and a proven track record of utilizing cutting-edge tools and technologies, I am confident in my ability to contribute meaningfully to any data-driven organization. My commitment to embracing diversity and promoting inclusion fuels my determination to leverage the power of data to inspire positive change. Being a white male from Houston, Texas, I am dedicated to breaking stereotypes and creating an inclusive environment for all.
+
+Education:
+Bachelor of Science in Computer Science
+Magnolia University, Houston, Texas
+GPA: 3.9
+
+Work Experience:
+Data Scientist | DataTech Innovators, Houston, TX
+- Leveraged SciKit-Learn, NumPy, and R to develop predictive models and algorithms for enhancing data analysis efficiency.
+- Utilized MongoDB and Python to extract, clean, and preprocess large datasets, optimizing data quality.
+- Implemented machine learning techniques to uncover insights and patterns that improved decision-making processes.
+
+Data Analyst | TechVision Corporation, Houston, TX
+- Proficiently utilized SQL, PyTorch, and TensorFlow to perform data extraction, transformation, and loading operations.
+- Employed Pandas, Java, and C++ to develop data pipelines for improved data management and analysis.
+- Conducted comprehensive data analysis to identify trends and anomalies, resulting in increased operational efficiency.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role, Basketball Team | Houston Community Sports Program
+- Successfully coached a diverse group of athletes in basketball, promoting teamwork, discipline, and sportsmanship while fostering an inclusive environment for all players.
+
+Hobbies:
+- Playing the guitar to explore creative expression and unwind.
+- Embracing diversity through international movies and literature.
+- Participating in cultural events that celebrate global traditions and heritage.
+
+Languages:
+Fluent in English and conversational proficiency in Spanish.

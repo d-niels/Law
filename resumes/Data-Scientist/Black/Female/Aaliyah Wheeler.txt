@@ -1,0 +1,38 @@
+PERSONAL STATEMENT
+A highly motivated and results-driven data scientist with a passion for leveraging data analytics to drive insights and improve business operations. Aaliyah Wheeler is a black female professional from Philadelphia, Pennsylvania. With a strong background in computer science and a keen eye for detail, she possesses the skills needed to translate complex data into meaningful solutions. Aaliyah is dedicated to making a positive impact in her field and is driven to contribute her expertise to drive innovation and optimize decision-making processes.
+
+EDUCATION
+Bachelor of Science in Computer Science, Liberty University, Philadelphia, Pennsylvania
+GPA: 3.9/4.0
+
+WORK EXPERIENCE
+Data Scientist, Quantum Data Solutions, Philadelphia, Pennsylvania
+- Utilized SQL, PyTorch, Python, SciKit-Learn, and Java to develop innovative data-driven solutions.
+- Investigated and implemented machine learning algorithms to gain valuable insights for business optimization.
+- Collaborated with cross-functional teams to identify and resolve data-related issues.
+- Communicated complex findings to stakeholders in a clear and concise manner.
+
+Data Analyst, IntelliTech Solutions, Philadelphia, Pennsylvania
+- Demonstrated proficiency in MongoDB, Pandas, NumPy, TensorFlow, C++, and R to analyze and manipulate data.
+- Developed and implemented statistical models to drive business growth and operational efficiency.
+- Collaborated with business stakeholders to gather requirements and ensure data accuracy and integrity.
+- Presented data-driven recommendations to improve processes and informed decision-making.
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+- Active member in organizations that promote diversity and inclusion within the field of data science, particularly supporting underrepresented communities.
+- Served as a sports team captain, leading a basketball team and fostering a culture of inclusivity and teamwork.
+
+HOBBIES
+- Playing the guitar to express creativity and embrace the diversity of musical genres.
+- Engaging in diverse cultural experiences through art exhibitions and exploring different literary works.
+
+LANGUAGES
+- English (Native Proficiency)
+- Spanish (Conversational Proficiency)

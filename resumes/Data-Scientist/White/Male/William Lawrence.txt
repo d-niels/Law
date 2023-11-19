@@ -1,0 +1,36 @@
+Personal Statement:
+As a dedicated and passionate data scientist, I am excited about leveraging my skills and knowledge to drive data-driven solutions. With a strong background in computer science and a thirst for continuous learning, I am enthusiastic about exploring new technologies and methodologies to solve complex problems. I am a detail-oriented, creative thinker who thrives in collaborative environments, and I am ready to contribute to meaningful projects in the field.
+
+Education:
+Bachelor of Science in Computer Science, University of Texas at Austin
+GPA: 3.9
+
+Work Experience:
+Data Analyst, InnovateTech Solutions, Austin, Texas
+- Utilized TensorFlow, Pandas, R, SQL, and C++ to analyze and interpret large datasets, providing valuable insights and recommendations for business growth and optimization.
+- Collaborated with cross-functional teams to design and implement machine learning algorithms, resulting in significant improvements in data processing and analysis efficiency.
+
+Machine Learning Engineer, ForwardThinking Solutions, Austin, Texas
+- Developed and deployed advanced machine learning models using SciKit-Learn, Python, NumPy, MongoDB, PyTorch, and Java, resulting in enhanced predictive accuracy and efficiency for business operations.
+- Architected a scalable data infrastructure, enabling efficient data retrieval and seamless integration with existing systems and pipelines.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active volunteer in the local Austin community, promoting diversity and inclusion initiatives.
+- Gender and Ethnicity Ambassador, University of Texas at Austin, advocating for equal opportunities and creating awareness about the significance of diversity in the workplace.
+- Sports Leadership Role: Served as the team captain for a local soccer league, utilizing strong leadership and communication skills to foster a collaborative and competitive team environment.
+
+Hobbies:
+- Playing the piano
+- Participating in photography
+- Exploring national parks and hiking trails
+
+Languages:
+- English (Native)
+- Spanish (Fluent)

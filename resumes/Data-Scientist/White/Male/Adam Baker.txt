@@ -1,0 +1,38 @@
+Adam Baker
+
+Personal Statement:
+Dedicated and motivated data scientist with a passion for solving complex problems through data analysis and machine learning. Highly skilled in Python programming, statistical modeling, and data visualization. Committed to leveraging data-driven insights to drive impactful decision-making. Seeking opportunities to apply my expertise in a challenging and collaborative environment.
+
+Education:
+Bachelor of Science in Computer Science, University of Texas at Austin, Austin, Texas
+- GPA: 3.9
+
+Work Experience:
+Data Scientist, Stellar Data Solutions, Dallas, Texas
+- Utilized SciKit-Learn, PyTorch, Pandas, SQL, and Python for data preprocessing, feature engineering, and developing predictive models.
+- Analyzed large datasets and extracted actionable insights to optimize business strategies.
+- Collaborated with cross-functional teams to implement machine learning algorithms for improving customer segmentation and targeting.
+- Created interactive data visualizations and reports to communicate complex findings to non-technical stakeholders.
+
+Software Engineer, QuantumTech Labs, Dallas, Texas
+- Employed NumPy, TensorFlow, C++, MongoDB, Java, and R for developing scalable software solutions.
+- Designed and implemented efficient algorithms to optimize data processing and improve system performance.
+- Collaborated with product managers, designers, and developers to deliver high-quality software solutions within tight deadlines.
+- Conducted code reviews and implemented best coding practices to ensure maintainability and reusability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white male in Dallas, Texas, I actively promote diversity and inclusivity within the community. Volunteered at local schools to organize STEM workshops for underrepresented students, encouraging them to pursue careers in technology. Served as a basketball team leader, coaching and mentoring a diverse group of young athletes.
+
+Hobbies:
+In my free time, I enjoy playing the guitar and writing music. I am an avid traveler, constantly seeking new experiences and immersing myself in different cultures. I also love exploring the outdoors through activities like hiking and camping. Additionally, I am fluent in Spanish, which enables me to foster stronger connections with multicultural individuals and communities.
+
+Languages:
+- English (Native)
+- Spanish (Fluent)

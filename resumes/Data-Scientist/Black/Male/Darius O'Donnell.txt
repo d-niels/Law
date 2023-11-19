@@ -1,0 +1,46 @@
+Darius O'Donnell
+
+Personal Statement:
+A highly motivated and dedicated data scientist with a strong background in computer science. With a passion for harnessing the power of data to drive informed decision-making, I strive to leverage my technical skills and analytical mindset to solve complex problems. As a black male from Indianapolis, Indiana, I am committed to promoting diversity and inclusivity within the field of data science.
+
+Education:
+Bachelor of Science in Computer Science
+XYZ University, Indianapolis, Indiana
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist | Data Innovators, Indianapolis, IN | May 2018 - Present
+- Utilized MongoDB and SQL to retrieve and analyze large datasets for actionable insights.
+- Developed machine learning models using SciKit-Learn, R, and TensorFlow to identify patterns and predict outcomes.
+- Collaborated with cross-functional teams to design and implement data-driven solutions.
+
+Software Developer Intern | Tech Solutions Inc., Indianapolis, IN | May 2017 - August 2017
+- Gained hands-on experience in software development by utilizing Python, Java, and C++ to develop and maintain applications.
+- Leveraged PyTorch, Pandas, and NumPy to analyze and manipulate data, improving overall efficiency.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Basketball Team Leadership Role:
+   - Served as the team captain for the XYZ University basketball team, leading a diverse group of athletes to victories.
+   - Organized and facilitated team practices, promoting teamwork and fostering an inclusive environment.
+
+- Promoting Diversity and Inclusion:
+   - Actively participated in and organized events to promote diversity within the computer science community.
+   - Mentored minority students, encouraging them to pursue careers in data science and other technical fields.
+
+Hobbies:
+- Playing the saxophone
+- Participating in community art projects
+- Exploring different cultures and traditions, while appreciating diversity and inclusivity
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate)
+
+References available upon request.

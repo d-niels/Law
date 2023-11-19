@@ -1,0 +1,42 @@
+Gao Guo
+Los Angeles, California  |  Phone: (555) 123-4567 | Email: gaoguo@email.com
+
+Personal Statement:
+Detail-oriented and highly analytical Data Scientist with a strong background in computer science. Committed to leveraging data-driven insights to drive business growth and optimize strategies. Thrives in multidisciplinary teams and possesses excellent problem-solving skills. Aiming to contribute expertise in data analysis and machine learning to develop innovative solutions in a challenging Data Scientist position.
+
+Education:
+Bachelor of Science in Computer Science, University of Southern California, Los Angeles, California   (Year - Year)
+- GPA: 3.9
+
+Work Experience:
+Data Scientist, Stellar Technologies, Los Angeles, California   (Year - Year)
+- Utilized C++, TensorFlow, MongoDB, Java, and NumPy to develop and deploy machine learning algorithms and models.
+- Conducted data analysis and preprocessing to extract valuable insights from large datasets.
+- Collaborated with cross-functional teams to provide actionable recommendations for process optimization.
+- Presented findings to stakeholders using data visualization techniques for improved comprehension.
+
+Machine Learning Engineer, Nebula Analytics, Los Angeles, California   (Year - Year)
+- Employed SQL, R, PyTorch, Pandas, Python, and SciKit-Learn to analyze and interpret complex data sets.
+- Designed and implemented data models for optimizing performance in machine learning projects.
+- Conducted statistical analysis to identify trends and patterns, contributing to data-driven decision-making.
+- Prepared comprehensive reports and visualizations to communicate insights to stakeholders effectively.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Chinese American Society, promoting cultural diversity and bridging gaps within communities.
+- Sports Leadership role: Captain of a competitive beach volleyball team, fostering teamwork, discipline, and strategic thinking.
+
+Hobbies:
+- Playing traditional Chinese instrument, Guzheng.
+- Exploring various international cultures through music and dance.
+- Reading literature on cross-cultural experiences and global perspectives.
+
+Languages:
+- Mandarin Chinese (native proficiency)
+- English (fluent)

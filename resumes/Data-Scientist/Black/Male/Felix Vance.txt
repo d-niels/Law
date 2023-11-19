@@ -1,0 +1,37 @@
+Personal Statement:
+As a black male from Indianapolis, Indiana, I am dedicated to making a meaningful impact through data science. With a bachelor's degree in computer science from Brilliant University, I have developed a strong foundation in programming and a passion for leveraging data to drive transformative insights. I am now seeking a role as a Data Scientist where I can apply my skills and contribute to the advancement of data-driven decision-making.
+
+Education:
+Bachelor of Science in Computer Science, Brilliant University, Indianapolis, Indiana
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist, TechnoAnalytics Corp, Indianapolis, Indiana
+- Leveraged Python, R, TensorFlow, C++, and MongoDB to develop sophisticated machine learning models for analyzing and visualizing complex data sets.
+- Conducted comprehensive data cleansing, preprocessing, and feature engineering to optimize model performance.
+- Collaborated seamlessly with cross-functional teams to identify data-driven solutions and deliver actionable insights to drive business growth.
+
+Data Analyst, NuTech Solutions, Indianapolis, Indiana
+- Utilized SciKit-Learn, Java, SQL, PyTorch, Pandas, and NumPy to process and analyze vast amounts of data, deriving valuable insights and recommendations.
+- Developed innovative data-driven solutions to address business challenges, and effectively communicated findings to stakeholders.
+- Implemented automated data pipelines and optimized data collection strategies to enhance overall efficiency.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in organizations dedicated to promoting diversity and inclusivity in the tech industry, advocating for equal opportunities for underrepresented communities.
+- Served as a sports team leader, fostering teamwork and mentorship in basketball, a sport I am passionate about.
+
+Hobbies:
+- Playing the saxophone, immersing myself in a wide range of genres to channel creativity and self-expression.
+- Engaging in community service initiatives focused on empowering marginalized youth through mentoring and educational support.
+
+Languages:
+- Fluent in English and proficient in Spanish.
+
+With my exceptional educational background, versatile skill set, active participation in community initiatives, and leadership experience, I possess the drive and expertise to excel as a Data Scientist. I am enthusiastic about utilizing my skills to drive impactful analyses and contribute to data-driven decision-making processes.

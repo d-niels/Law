@@ -1,0 +1,42 @@
+Poppy Lawrence
+Houston, Texas | (123) 456-7890 | poppy.lawrence@email.com
+
+Personal Statement:
+Dedicated and analytical data scientist with a passion for leveraging advanced technologies to extract valuable insights from complex datasets. With a strong background in computer science and expertise in various programming languages and database technologies, I am driven to contribute to impactful projects and make a difference in the field. As a white female, I am committed to diversity and inclusion, seeking opportunities to promote underrepresented voices in data science.
+
+Education:
+Bachelor of Science in Computer Science, Magna Cum Laude
+Texas State University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist | Analytical Insights, Inc. | Houston, TX | May 2018 - Present
+- Developed and implemented machine learning models using Python, NumPy, MongoDB, SciKit-Learn, and PyTorch, resulting in a 30% improvement in predictive accuracy for customer behavior analysis.
+- Optimized data preprocessing pipelines, reducing processing time by 40% and improving data quality for downstream analytics.
+- Collaborated with cross-functional teams to identify business needs, generate actionable insights, and build customized solutions.
+
+Data Analyst | TechGen Solutions | Houston, TX | June 2017 - April 2018
+- Utilized C++, TensorFlow, SQL, Pandas, R, and Java to perform exploratory data analysis and statistical modeling, leading to a 25% increase in customer retention rates.
+- Conducted complex queries and data mining operations using SQL, providing comprehensive analytical reports to support decision-making processes.
+- Collaborated with developers to deploy data-driven applications and dashboards, ensuring accessibility and usability for end-users.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Founder, SheCodes: Empowering Women in Data Science (Texas State University, Houston Chapter)
+- Basketball Team Captain, Houston Amateur Women's Basketball League
+
+Hobbies:
+- Playing the guitar
+- Exploring diverse cultures through music and arts
+- Supporting and attending women in STEM events
+- Engaging in advocacy for gender equality and promoting inclusivity
+
+Languages:
+- Fluent in English
+- Basic proficiency in Spanish

@@ -1,0 +1,46 @@
+Brielle Stevens
+
+Indianapolis, Indiana | (123) 456-7890 | brielle.stevens@email.com
+
+Personal Statement:
+Highly skilled and motivated data scientist with a strong background in computer science and a passion for leveraging data to drive informed decision-making. I am an analytical thinker with a keen eye for detail, adept in programming languages and database technologies. Through my experience in data analysis and machine learning, I am dedicated to leveraging data to solve complex problems and contribute to the advancement of diverse communities.
+
+Education:
+Bachelor of Science in Computer Science, May 20XX
+Dakota State University, Madison, SD
+- GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Specialist, NovaTech Analytica, Indianapolis, IN
+May 20XX - Present
+- Utilized PyTorch, SciKit-Learn, R, C++, and NumPy to develop cutting-edge machine learning models and algorithms for data analysis in the healthcare industry
+- Conducted statistical analysis and data mining to identify patterns and trends, leading to data-driven solutions and recommendations
+- Collaborated with cross-functional teams to implement effective data-driven strategies and provide actionable insights to clients
+
+Data Analytics Consultant, Quantum Metrics Inc., Indianapolis, IN
+August 20XX - April 20XX
+- Utilized Python, SQL, Pandas, TensorFlow, MongoDB, and Java to clean, organize, and analyze large datasets for business intelligence purposes in the retail sector
+- Developed interactive visualizations and reports to effectively communicate findings to stakeholders and support data-driven decision-making processes
+- Assisted in the development and optimization of data-focused initiatives, leading to increased operational efficiencies and improved customer experiences
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Volunteer, Women in Sports Empowered Network (WISE), Indianapolis, IN
+- Mentored young black females in sports leadership, promoting teamwork, discipline, and self-confidence in a soccer-focused program
+
+Hobbies:
+- Playing the piano
+- Exploring diverse cultures through travel and art
+- Promoting inclusion and diversity in the tech industry
+
+Languages:
+- English (native)
+- Spanish (proficient)
+
+References available upon request.

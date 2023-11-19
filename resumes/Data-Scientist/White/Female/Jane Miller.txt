@@ -1,0 +1,38 @@
+Personal Statement:
+Motivated and detail-oriented data scientist with a strong background in computer science. Committed to leveraging data-driven insights and analytical skills to drive informed decision-making and deliver innovative solutions. Passionate about using programming languages and cutting-edge technologies to extract valuable insights from complex datasets and contribute to organizational growth. As a white female, I am dedicated to promoting diversity and inclusion in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, University of Wisconsin-Madison
+- GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist, TechEdge Analytics, Madison, Wisconsin
+- Leveraged R, SciKit-Learn, NumPy, Pandas, and TensorFlow to analyze and interpret complex datasets, resulting in actionable insights.
+- Collaborated with cross-functional teams to develop and implement machine learning models, leading to improved predictive accuracy.
+- Conducted data visualization and reporting, effectively communicating findings to stakeholders.
+
+Data Analyst, IntelliData Solutions, Madison, Wisconsin
+- Utilized SQL, PyTorch, Java, MongoDB, C++, and Python to perform data extraction, transformation, and loading, ensuring data integrity and accuracy.
+- Developed and optimized algorithms and data models, improving data analysis efficiency by 20%.
+- Collaborated with business teams to identify data needs and provide tailored solutions for data-driven decision-making.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Society of Women in Computing, promoting diversity and inclusion in the tech industry.
+- Mentor for underrepresented minority students, providing guidance and support in pursuing STEM careers.
+- Sports Leadership Role: As captain of the university's soccer team, led a diverse group of athletes to victory, fostering teamwork, and achieving collective goals.
+
+Hobbies:
+- Playing the violin, cultivating a deep love for classical music.
+- Exploring different cultures through travel, embracing diversity and broadening perspectives.
+
+Languages:
+- Fluent in English and Spanish.
+
+References available upon request.

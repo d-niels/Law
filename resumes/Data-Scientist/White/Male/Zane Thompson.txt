@@ -1,0 +1,43 @@
+Zane Thompson
+
+Personal Statement:
+A dedicated and driven data scientist, leveraging diverse programming languages and advanced analytics techniques to uncover deep insights from complex datasets. Skilled in developing and implementing machine learning models to drive data-centric decision-making. Committed to fostering an inclusive work environment and contributing to community outreach initiatives. Seeking a challenging position as a Data Scientist to utilize my skills and expertise in optimizing business performance through data-driven solutions.
+
+Education:
+Bachelor of Science in Computer Science, Dallas University, Dallas, Texas (GPA: 3.9)
+
+Work Experience:
+Data Scientist | Apex Data Analytics, Dallas, Texas | 2019 - Present
+- Implemented TensorFlow and R to create machine learning models, resulting in a 20% increase in sales revenue.
+- Utilized SQL and SciKit-Learn to clean and preprocess complex datasets, improving data accuracy by 15%.
+- Leveraged MongoDB for efficient data storage and retrieval, reducing data access time by 25%.
+
+Data Analyst | Quantum Software Solutions, Dallas, Texas | 2017 - 2019
+- Developed predictive models using PyTorch and Java, improving customer acquisition rate by 30%.
+- Utilized Pandas and Python for data analysis and visualization, enabling data-driven decision-making.
+- Optimized algorithms using C++ and NumPy, reducing processing time by 50%.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Ethnicity and Gender Advocacy Volunteer | Dallas Diversity Council | 2015 - Present
+  - Organized workshops and events to promote diversity and inclusion in the workplace.
+  - Actively contributed to initiatives focused on equality and representation in the tech industry.
+- Soccer Team Leader | Dallas Youth Sports League | 2014 - Present
+  - Coached and mentored a youth soccer team, fostering teamwork and leadership skills.
+
+Hobbies:
+- Playing the guitar
+- Performing in local cultural festivals promoting diversity and heritage
+- Engaging in community volunteer work
+
+Languages:
+- English (Native Proficiency)
+- Spanish (Conversational)
+
+References available upon request.

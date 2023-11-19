@@ -1,0 +1,40 @@
+Personal Statement:
+I am a dedicated and results-driven data scientist with a strong passion for leveraging data insights to drive business growth and innovation. With a bachelor's degree in computer science and extensive experience in data analysis, I am equipped with the skills necessary to successfully solve complex problems and make data-driven decisions. My expertise in programming languages, database technologies, and problem-solving allows me to effectively communicate and collaborate with cross-functional teams. I am excited to apply my knowledge and skills in a data scientist role, contributing to the advancement of analytics initiatives.
+
+Education:
+Bachelor of Science in Computer Science, San Diego State University, San Diego, California
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist, Stellar Analytics Inc., San Diego, California
+- Utilized TensorFlow, MongoDB, SciKit-Learn, Pandas, and C++ to develop advanced machine learning models and algorithms, resulting in a 25% improvement in predictive analysis accuracy.
+- Conducted data exploration and preprocessing, ensuring data quality and integrity for analysis.
+- Collaborated with cross-functional teams to identify business requirements and design data-driven solutions.
+- Presented findings and insights through visualizations and reports, effectively communicating technical concepts to non-technical stakeholders.
+
+Data Analyst, Quantum Solutions Group, San Diego, California
+- Leveraged PyTorch, R, NumPy, Java, SQL, and Python to analyze complex datasets and generate actionable insights for optimizing business operations.
+- Developed and implemented data extraction, transformation, and loading (ETL) pipelines, streamlining data management processes by 30%.
+- Collaborated with stakeholders to define project goals and translate requirements into achievable data analytics strategies.
+- Conducted comprehensive statistical analysis and data modeling, identifying trends and patterns for strategic decision-making.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusivity in the tech industry, organizing workshops and seminars to encourage underrepresented groups to pursue careers in data science.
+- Led the university's volleyball team as the captain, fostering teamwork, discipline, and strong leadership skills.
+
+Hobbies:
+- Playing the piano, embracing my love for music and expressing my creativity.
+- Exploring different cultures through traveling and experiencing their traditions, celebrating the beauty of diversity and fostering intercultural understanding.
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)
+
+References available upon request.

@@ -1,0 +1,42 @@
+Samuel Underwood
+
+Personal Statement:
+Driven and innovative data scientist with a strong background in computer science and a passion for leveraging data to drive actionable insights. Known for my meticulous attention to detail and ability to think critically and creatively. Dedicated to continuously expanding my skills and staying up-to-date on the latest advancements in the field. Seeking a challenging role as a data scientist where I can apply my expertise to solve complex problems and contribute to organizational growth.
+
+Education:
+Bachelor of Science in Computer Science, Willowbrook University, Austin, Texas
+- GPA: 3.9/4.0
+- Relevant coursework: Machine Learning, Data Mining, Artificial Intelligence, Algorithms
+
+Work Experience:
+Data Scientist, Horizon Analytics, Austin, Texas
+- Utilized TensorFlow, C++, R, MongoDB, and PyTorch to develop and deploy machine learning models to optimize business processes.
+- Conducted in-depth data analysis on large-scale datasets, identified patterns, and derived actionable insights.
+- Collaborated with cross-functional teams to develop predictive models and enhance decision-making capabilities.
+
+Machine Learning Specialist, Quantum Solutions, Austin, Texas
+- Proficient in SciKit-Learn, Pandas, Java, SQL, NumPy, and Python to analyze and interpret complex datasets for improved business performance.
+- Developed scalable data processing pipelines to clean, transform, and analyze large volumes of data.
+- Produced meaningful visualizations and reports to drive strategic planning and decision-making.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Served as a captain of a competitive soccer team, showcasing leadership, teamwork, and strategic thinking on and off the field.
+- Active participant in diversity and inclusion initiatives, championing equal opportunities within the tech community.
+- Mentored aspiring students from underrepresented backgrounds, providing guidance and support to help them achieve their goals.
+
+Hobbies:
+- Playing the piano and composing melodies that showcase various cultural influences.
+- Participating in local soccer tournaments, fostering teamwork, discipline, and perseverance.
+- Engaging in community events that celebrate diverse traditions and promote cultural exchange.
+
+Languages:
+- Fluent in English and Spanish.
+
+References available upon request.

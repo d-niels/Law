@@ -1,0 +1,48 @@
+ITO CHENG
+Philadelphia, Pennsylvania  |  itocheng@email.com  |  (555) 555-5555
+
+PERSONAL STATEMENT
+Results-driven and highly analytical data scientist with a strong background in computer science. Skilled in utilizing various programming languages and database technologies to extract actionable insights from complex datasets. Committed to leveraging data-driven solutions to provide meaningful and strategic business recommendations. A detail-oriented professional with a proven ability to solve problems and drive organizational success through data analysis.
+
+EDUCATION
+Bachelor of Science in Computer Science, 
+ABC University, Philadelphia, Pennsylvania
+GPA: 3.9/4.0
+Relevant coursework: Data Mining, Machine Learning, Algorithms, Statistics
+
+WORK EXPERIENCE
+Data Scientist, Phoenix Analytics, Philadelphia, Pennsylvania
+- Developed predictive models using R, SQL, PyTorch, C++, and Java to extract insights from large datasets and enhance business effectiveness.
+- Collaborated with cross-functional teams to identify key business requirements and formulate data-driven solutions.
+- Conducted data preprocessing, visualization, and exploration techniques to identify patterns and trends.
+- Presented findings and actionable recommendations to stakeholders in clear and concise reports.
+
+Data Analyst, Nova Solutions, Philadelphia, Pennsylvania
+- Utilized Pandas, NumPy, MongoDB, TensorFlow, SciKit-Learn, and Python to analyze complex datasets and generate meaningful insights for business stakeholders.
+- Conducted statistical analysis and hypothesis testing to identify correlations and patterns, leading to improved decision-making processes.
+- Developed and implemented data pipelines for efficient data extraction, transformation, and loading.
+- Collaborated with teams to design and optimize machine learning models to enhance business outcomes.
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Co-Founder and Treasurer, XYZ Chinese Student Association, Philadelphia, Pennsylvania
+- Organized cultural events, workshops, and community outreach programs to promote Chinese traditions and foster inclusivity.
+- Led fundraising efforts to support underprivileged students studying in the United States.
+- Mentored incoming Chinese students, providing guidance and advice on adapting to a new environment.
+- Served as a basketball team captain, organizing practices and leading the team to various victories.
+
+HOBBIES
+- Playing the erhu (Chinese traditional instrument)
+- Photography, capturing diverse cultures and people
+
+LANGUAGES
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References available upon request.

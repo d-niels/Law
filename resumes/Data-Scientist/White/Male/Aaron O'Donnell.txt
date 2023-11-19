@@ -1,0 +1,44 @@
+Aaron O'Donnell
+
+Personal Statement:
+Highly motivated and detail-oriented data scientist with a strong background in computer science. Passionate about applying advanced analytics and machine learning techniques to solve complex problems. Skilled in manipulating and analyzing large datasets to extract valuable insights. Committed to continuously learning and staying up-to-date with the latest technologies in the field. Seeking a challenging role as a Data Scientist to contribute innovative ideas and drive data-driven decision-making processes.
+
+Education:
+Bachelor of Science in Computer Science, Magna Cum Laude
+Dallas Institute of Technology, Dallas, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist
+Innovative Data Solutions, Dallas, Texas
+- Utilized SciKit-Learn and Pandas libraries to perform data preprocessing and create predictive models.
+- Developed and implemented efficient code in C++ and Java for feature engineering and data optimization.
+- Leveraged MongoDB to store and retrieve large datasets, improving data access and retrieval efficiency.
+
+Machine Learning Engineer
+Tech Innovators LLC, Dallas, Texas
+- Utilized TensorFlow and PyTorch frameworks to design and train deep learning models for image classification.
+- Executed SQL queries to extract relevant data from databases for model training and evaluation.
+- Employed NumPy, R, and Python to manipulate and analyze data, and generate statistical reports.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Served as a soccer team captain, fostering teamwork and promoting a positive environment for athletes from diverse backgrounds.
+- Actively participated in organizations promoting diversity and inclusivity in STEM fields, being an advocate for racial equity and gender equality.
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures through travel
+- Participating in charity runs for causes supporting gender equality and racial justice
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)
+
+References available upon request.

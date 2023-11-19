@@ -1,0 +1,33 @@
+Personal Statement:
+As an innovative and driven data scientist, I am committed to harnessing the power of data to revolutionize industries. With a keen eye for patterns and a bachelor's degree in computer science, I aim to leverage my expertise to generate data-driven insights and propel businesses forward.
+
+Education:
+Bachelor of Science in Computer Science, XYZ University, San Francisco, CA
+- GPA: 3.9
+
+Work Experience:
+Data Scientist, InnovX Solutions, San Jose, CA
+- Developed advanced machine learning algorithms using C++, MongoDB, R, PyTorch, and NumPy, resulting in optimized business processes and enhanced decision-making capabilities.
+- Utilized data analysis techniques to identify key trends and provide valuable insights to drive strategic initiatives.
+
+Junior Data Scientist, TechWise Corp, Cupertino, CA
+- Spearheaded the design and implementation of data processing pipelines using TensorFlow, SQL, SciKit-Learn, Python, Java, and Pandas, resulting in improved data quality and streamlined workflows.
+- Collaborated with cross-functional teams to develop innovative solutions and contributed to the successful delivery of complex projects.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in empowering women and promoting diversity in the tech industry, drawing from my unique perspective as a Chinese female data scientist.
+- Elected as a team captain for the local women's basketball team, fostering a supportive and inclusive environment while enhancing skills and teamwork.
+
+Hobbies:
+- Playing the erhu, a traditional Chinese string instrument, to connect with my cultural heritage and find solace in music.
+- Engaging in basketball as a player and coach, combining my love for sports with leadership and teamwork.
+
+Languages:
+- Fluent in English and Mandarin Chinese

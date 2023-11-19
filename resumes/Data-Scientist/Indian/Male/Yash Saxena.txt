@@ -1,0 +1,47 @@
+YASH SAXENA
+Houston, Texas | (555) 123-4567 | yashsaxena@email.com
+
+PERSONAL STATEMENT
+Passionate and driven data scientist with a strong background in computer science. Dedicated to applying advanced analytical techniques to unlock actionable insights and drive strategic decision-making. Possesses a keen attention to detail and a proactive mindset towards problem-solving. Committed to continuous learning and technological advancement within the field.
+
+EDUCATION
+Bachelor of Science in Computer Science, Houston Technical University, Houston, Texas
+- GPA: 3.9/4.0
+
+WORK EXPERIENCE
+Data Scientist, Stellar Insights, Houston, Texas
+- Utilized Python, Java, TensorFlow, SQL, and C++ to develop and deploy sophisticated machine learning models.
+- Conducted comprehensive data preprocessing, cleaning, and feature engineering to ensure data quality and accuracy.
+- Collaborated closely with cross-functional teams to identify business objectives and deliver data-driven solutions.
+- Presented insights and actionable recommendations to stakeholders through visually engaging data visualizations and reports.
+
+Data Analyst, Quantum Analytics, Houston, Texas
+- Utilized R, PyTorch, MongoDB, NumPy, SciKit-Learn, and Pandas to analyze and extract valuable insights from complex datasets.
+- Developed statistical models to identify patterns and trends, resulting in improved business processes and optimized workflows.
+- Implemented data cleansing techniques and ensured data integrity throughout the analysis phase.
+- Worked closely with stakeholders to understand their needs and provide actionable recommendations based on data-driven insights.
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+- Founder and President, Indo-American Student Union, Houston Technical University, Houston, Texas
+  - Initiated and managed cultural events to celebrate Indian heritage, fostering multicultural understanding and inclusivity.
+- Team Captain, Houston Technical University Basketball Team
+  - Led the team to victory in multiple intercollegiate tournaments, promoting teamwork, sportsmanship, and discipline.
+
+HOBBIES
+- Playing the Sitar (traditional Indian string instrument)
+- Exploring diverse cuisines and cooking fusion recipes
+- Advocating for gender equality and supporting initiatives for women empowerment
+
+LANGUAGES
+- English (Fluent)
+- Hindi (Native)
+
+REFERENCES
+Available upon request.

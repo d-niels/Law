@@ -1,0 +1,41 @@
+YAO XU
+
+Personal Statement:
+Highly motivated and detail-oriented data scientist with a strong background in computer science. Committed to leveraging analytical skills, programming expertise, and problem-solving abilities to drive data-driven decision-making and deliver innovative solutions. Seeking a challenging position as a Data Scientist to contribute to the development of intelligent systems and improve organizational efficiency.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Artizen University, Chicago, Illinois
+
+Work Experience:
+Data Scientist | Quantum Analytics, Chicago, Illinois | 2018-2020
+- Utilized NumPy and SciKit-Learn to analyze and visualize large datasets, extracting valuable insights to support business objectives.
+- Developed machine learning models using Java and implemented MongoDB for efficient data storage and retrieval.
+- Collaborated with cross-functional teams to design and deploy TensorFlow models, significantly improving prediction accuracy.
+
+Data Analyst | Algorithmic Solutions, Chicago, Illinois | 2017-2018
+- Utilized Pandas and C++ to clean and prepare datasets, ensuring data integrity and accuracy.
+- Executed complex SQL queries to extract targeted information from databases.
+- Employed Python, R, and PyTorch to develop statistical models and predictive analytics, resulting in improved business performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteered as a mentor for underprivileged students, particularly those from the Chinese community, providing guidance and support for their academic and personal growth.
+- Served as a soccer team captain, organizing and leading a local soccer team, promoting teamwork, and fostering a sense of community among diverse players.
+
+Hobbies:
+- Playing the guzheng (a traditional Chinese musical instrument).
+- Engaging in cultural exchange programs to promote understanding and cooperation among different communities.
+- Practicing taekwondo to maintain physical fitness and discipline.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References available upon request.

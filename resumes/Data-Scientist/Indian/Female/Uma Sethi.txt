@@ -1,0 +1,34 @@
+Uma Sethi
+
+Personal Statement:
+Highly motivated and detail-oriented data scientist with a strong background in computer science. Passionate about utilizing analytical skills to extract meaningful insights from complex datasets. Committed to contributing to innovative projects and driving advancements in data-driven decision making. Seeking a challenging role as a data scientist to apply my expertise and make a positive impact.
+
+Education:
+Bachelor of Science in Computer Science, Lotus University, San Francisco, CA (GPA: 3.9)
+
+Work Experience:
+Data Scientist, Eureka Technologies, San Jose, CA
+- Developed machine learning models using TensorFlow and Pandas to analyze and interpret large datasets.
+- Utilized MongoDB, SQL, and Python for data extraction, transformation, and loading processes.
+- Collaborated with cross-functional teams to identify business requirements and provide data-driven solutions.
+
+Software Engineer, Zenith Solutions, San Jose, CA
+- Created and optimized C++ algorithms for data processing and analysis.
+- Implemented PyTorch and SciKit-Learn models for predictive analysis.
+- Utilized Java, R, and NumPy to develop and troubleshoot complex analysis tools.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As an Indian female, I actively contribute to promoting diversity and inclusivity in the tech industry. I have held leadership roles in organizations that support women and underrepresented communities in STEM. Additionally, I am a respected team captain for a local cricket league, fostering teamwork and providing mentorship to young female athletes.
+
+Hobbies:
+Indulging in cultural preservation activities, I avidly play the tabla, a traditional Indian percussion instrument. I am also passionate about fostering cultural understanding and exchange, exploring different art forms, and participating in community events.
+
+Languages:
+English (Fluent), Hindi (Fluent), Punjabi (Basic Proficiency)

@@ -1,0 +1,42 @@
+Kobe Xander
+
+Personal Statement:
+Dedicated and highly motivated black male from Baltimore, Maryland, seeking a position as a Data Scientist. With a strong background in computer science and a passion for leveraging data-driven insights, I am confident in my ability to contribute to the advancement of data analysis and decision-making processes. I believe in the power of diversity and aim to use my skills to make a positive impact in the industry.
+
+Education:
+Bachelor of Science in Computer Science
+University of Maryland, Baltimore County (UMBC), Baltimore, Maryland
+GPA: 3.9
+
+Work Experience:
+Data Scientist Intern
+DataGenius, Baltimore, Maryland
+- Utilized R, TensorFlow, Java, NumPy, and PyTorch to analyze large datasets, extract meaningful insights, and develop predictive models.
+- Collaborated with cross-functional teams to identify business opportunities and provide data-driven solutions.
+- Assisted in the development of algorithms and machine learning models to enhance overall data analysis processes.
+
+Data Analyst
+TechInnovate, Baltimore, Maryland
+- Proficiently employed C++, Python, Pandas, SciKit-Learn, SQL, and MongoDB to analyze and visualize data, improving decision-making capabilities.
+- Developed and maintained data pipelines, ensuring data integrity and accessibility.
+- Collaborated with stakeholders to understand project requirements and deliver actionable insights.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion through various volunteering initiatives within the Baltimore community such as mentoring and supporting underrepresented youth in pursuing STEM careers.
+- Led a basketball leadership program aimed at empowering young black males through the sport of basketball, fostering leadership skills, teamwork, and resilience.
+
+Hobbies:
+- Playing the saxophone to express creativity and unwind.
+- Exploring diverse cultures and their histories to broaden my perspective and foster inclusivity.
+- Participating in community service events to give back to society and make a meaningful impact.
+
+Languages:
+- English (fluent)
+- Spanish (conversational)

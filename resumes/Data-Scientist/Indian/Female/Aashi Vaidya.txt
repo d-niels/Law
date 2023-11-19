@@ -1,0 +1,40 @@
+Aashi Vaidya
+
+Personal Statement:
+Dedicated and detail-oriented Data Scientist with a strong foundation in computer science and a passion for leveraging data-driven insights to solve complex problems. Excels in developing innovative solutions and applying advanced analytical techniques to optimize business strategies. Committed to continuous learning, utilizing cutting-edge technologies, and collaborating effectively to drive actionable results.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, San Francisco, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist, Stellar Analytics, San Jose, CA
+- Utilized NumPy, MongoDB, SQL, TensorFlow, and Java to analyze, extract, and manipulate large datasets.
+- Developed machine learning models to identify patterns and predict outcomes, resulting in a 20% improvement in customer retention.
+- Collaborated with cross-functional teams to create interactive visualizations and reports, enabling data-driven decision-making.
+
+Data Analyst, Techno Solutions, San Francisco, CA
+- Proficiently employed SciKit-Learn, R, Pandas, Python, C++, and PyTorch for data preprocessing, statistical analysis, and predictive modeling.
+- Implemented data mining techniques to optimize marketing campaigns, resulting in a 15% increase in overall conversion rates.
+- Conducted experiments and A/B testing to evaluate and improve model accuracy, achieving a 95% success rate.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+• Active member of the Indian Cultural Society at ABC University, organizing events to celebrate Indian culture and heritage, promoting diversity and inclusivity within the campus community.
+• Sports Leadership Role: Captain of the university's women's soccer team, fostering teamwork, discipline, and resilience while promoting gender equality in sports.
+
+Hobbies:
+• Playing the violin, showcasing my appreciation for cultural heritage and passion for music.
+• Engaging in various art forms, such as painting and calligraphy, to express creativity and explore diverse perspectives.
+
+Languages:
+English (fluent), Hindi (native), Marathi (conversational)
+
+References:
+Available upon request

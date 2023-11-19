@@ -1,0 +1,40 @@
+Amitabh Chauhan
+
+Personal Statement:
+A highly motivated and detail-oriented Indian male data scientist with a strong academic background in computer science. Adept at using various programming languages and database technologies to analyze and interpret complex datasets. Demonstrated ability to solve problems and contribute to team success. Seeking a challenging position as a data scientist to apply my skills and knowledge in a dynamic and progressive organization.
+
+Education:
+Bachelor's Degree in Computer Science, XYZ University, Los Angeles, California
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Data Scientist, ABC Analytics, Los Angeles, California (2017-2019)
+- Utilized NumPy, C++, R, and Java to develop data processing algorithms
+- Employed the SciKit-Learn library to build machine learning models
+- Analyzed large datasets and provided actionable insights for clients
+- Developed data visualizations to aid in decision-making processes
+
+Data Scientist, DEF Tech Solutions, Los Angeles, California (2015-2017)
+- Utilized Pandas, PyTorch, MongoDB, Python, SQL, and TensorFlow to analyze and interpret complex datasets
+- Developed and implemented efficient data cleaning and preprocessing techniques
+- Collaborated with cross-functional teams to develop and deploy scalable machine learning solutions
+- Conducted statistical analysis and hypothesis testing to derive meaningful conclusions
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Embarking on my journey as an Indian male data scientist, I am passionate about encouraging diversity and promoting equal opportunities in the field. I actively engage in volunteering initiatives to support underrepresented communities and inspire aspiring individuals to pursue careers in technology and data science.
+
+Sports Leadership Role:
+Served as a team captain for a local cricket team, providing guidance and fostering team cohesion, leading the team to multiple victories.
+
+Hobbies:
+In my free time, I enjoy playing the tabla, a traditional Indian percussion instrument, and exploring diverse music genres. I am an avid reader, learning about different cultures and histories. I also seek opportunities to engage in outdoor activities, such as hiking and yoga, to maintain a healthy and balanced lifestyle.
+
+Languages:
+Fluent in English and Hindi.

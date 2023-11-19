@@ -1,0 +1,41 @@
+Personal Statement:
+I am a passionate and dedicated data scientist with a strong background in computer science. Fueled by my insatiable curiosity, I thrive on unraveling insights from complex datasets and tackling challenges with innovative approaches. Equipped with a solid academic foundation, practical experience, and an unwavering commitment to continuous learning, I am confident in my ability to make a meaningful impact as a data scientist.
+
+Education:
+Bachelor of Science in Computer Science (3.9 GPA)
+San Jose State University, San Jose, California
+
+Work Experience:
+Data Scientist - Innovix Analytics, Mountain View, California
+- Utilized SQL, R, SciKit-Learn, NumPy, and Pandas to analyze and manipulate large datasets.
+- Developed statistical models and machine learning algorithms to extract valuable insights.
+- Collaborated with cross-functional teams to understand business requirements and provide data-driven solutions.
+
+Data Engineer - Quantum Dynamics, San Francisco, California
+- Proficient in PyTorch, MongoDB, C++, TensorFlow, Java, and Python for data engineering tasks.
+- Designed and implemented scalable data pipelines to facilitate efficient data processing and storage.
+- Collaborated with software developers to integrate machine learning models into production systems.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Tech for All Initiative
+- Actively advocate for diversity and inclusion in the technology sector, empowering individuals from underrepresented ethnicities and genders.
+- Organize and lead workshops to inspire and mentor students from diverse backgrounds, encouraging them to pursue careers in STEM fields.
+- Provide guidance and mentorship to aspiring data scientists from underserved communities.
+
+Sports Leadership Role, Soccer Club of San Jose
+- Lead a diverse team of soccer players, fostering a supportive and inclusive team culture.
+- Organize community outreach programs, coaching underprivileged children and providing equal opportunities for aspiring athletes from different backgrounds.
+
+Hobbies:
+- Embrace the joy of playing the guitar and piano, immersing oneself in various musical genres and styles.
+- Explore different cultural art forms, such as traditional dances and folkloric performances, to deepen understanding and appreciation of diverse ethnic backgrounds.
+
+Languages:
+- Fluent in English and Spanish.

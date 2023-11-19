@@ -1,0 +1,37 @@
+Personal Statement:
+Driven and highly analytical data scientist with a passion for leveraging data to drive actionable insights. Detail-oriented and adaptable problem-solver with a strong background in computer science and a natural ability to think critically. Committed to delivering results and continuously expanding my knowledge in the field of data science.
+
+Education:
+Bachelor of Science in Computer Science
+Stanford University, Palo Alto, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist | Lumitech Technologies, San Francisco, CA
+- Utilized SQL, Pandas, MongoDB, TensorFlow, and NumPy to analyze and process vast amounts of data for predictive modeling, ultimately driving business decisions and optimizations.
+- Led data ingestion and transformation processes, ensuring data quality and integrity.
+- Developed machine learning models to automate manual tasks and improve efficiency by 30%.
+
+Data Scientist Intern | Stellar Analytics, San Diego, CA
+- Applied Python, Java, C++, SciKit-Learn, PyTorch, and R in developing predictive models for customer behavior analysis.
+- Collaborated with cross-functional teams to identify and resolve data-related issues, resulting in improved accuracy and system performance.
+- Conducted exploratory data analysis and presented findings to stakeholders, facilitating data-driven decision-making.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Chinese Cultural Society, organizing multicultural events and promoting diversity and inclusion within the community.
+- Sports Leadership Role: Captain of the university's women's volleyball team, driving team cohesion and fostering a competitive spirit among teammates.
+
+Hobbies:
+- Traditional Chinese instrument, Guzheng, player, showcasing cultural pride and heritage through music.
+- Fluent in Mandarin and English, fostering cross-cultural communication.
+
+Languages:
+- Mandarin (Fluent)
+- English (Fluent)

@@ -1,0 +1,30 @@
+Personal Statement:
+I am a passionate and highly skilled data scientist with a strong background in computer science. With expertise in languages such as R, Python, and Java, as well as extensive experience in database technologies like SQL and NoSQL, I am confident in my ability to analyze complex data sets and provide actionable insights. My exceptional problem-solving and analytical skills, coupled with my attention to detail, enable me to deliver high-quality results. As an Indian male from Atlanta, Georgia, I am committed to diversity and inclusion in the tech industry and strive to make a positive impact in my field.
+
+Education:
+Bachelor of Science in Computer Science, Georgia Tech University, Atlanta, GA
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist - Exabyte Solutions, Atlanta, GA
+- Utilized R, Python, and Java to analyze and interpret large data sets, providing valuable insights for clients.
+- Implemented MongoDB and NumPy for efficient data management and manipulation.
+- Developed algorithms and models to predict user behavior and optimize business strategies.
+
+Data Analyst - Quantum Insights, Atlanta, GA
+- Utilized C++ to develop data processing and analysis tools.
+- Employed TensorFlow, Pandas, PyTorch, SciKit-Learn, and SQL to analyze and visualize data for internal teams.
+- Collaborated with a cross-functional team to identify areas of improvement and provide data-driven recommendations.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As an Indian male professional, I actively promote diversity and inclusion within the tech industry. I have volunteered for organizations that aim to uplift underrepresented minorities and encourage their participation in STEM fields. Additionally, I have served as a team captain for a competitive cricket team, fostering teamwork and mentorship among athletes.
+
+Hobbies:
+In my free time, I enjoy playing the tabla, a traditional Indian percussion instrument. I also love exploring diverse cultures through music and art, and actively support gender equality initiatives.

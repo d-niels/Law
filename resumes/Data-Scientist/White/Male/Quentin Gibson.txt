@@ -1,0 +1,36 @@
+Personal Statement:
+I am a dedicated and results-driven data scientist with a strong passion for leveraging data analytics to drive actionable insights. With a solid educational foundation in computer science and hands-on experience in various programming languages, I am equipped with the technical skills needed to excel in this field. As a detail-oriented individual, I thrive in analyzing complex datasets and uncovering patterns that drive business growth. I am eager to contribute my knowledge and skills to a dynamic organization in the role of a data scientist.
+
+Education:
+Bachelor of Science in Computer Science, Houston Technological University, Houston, Texas
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Data Scientist, Innovis Analytics, Houston, Texas (2018-2020)
+- Utilized SQL, PyTorch, Pandas, SciKit-Learn, and Java to develop machine learning models and algorithms.
+- Analyzed and interpreted large datasets to extract meaningful insights for decision-making processes.
+- Collaborated with cross-functional teams to develop data-driven solutions for business challenges.
+- Presented findings and recommendations to stakeholders through clear and concise reports.
+
+Data Analyst, Forge Data Solutions, Houston, Texas (2016-2018)
+- Proficiently utilized R, NumPy, TensorFlow, MongoDB, C++, and Python to analyze and visualize data.
+- Developed and implemented data modeling techniques to optimize data processing and statistical analysis.
+- Conducted quality assurance tests on data to ensure accuracy and reliability.
+- Collaborated with stakeholders to identify and address data-related issues and insights.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white male, I actively engage in promoting diversity and inclusivity. I have served as a team captain for a competitive soccer league, where I provided guidance and mentorship to a diverse group of young athletes. Additionally, I have volunteered at various community organizations that focus on promoting diversity in technology and providing equal opportunities for underrepresented groups.
+
+Hobbies:
+In my free time, I enjoy playing the guitar, which allows me to express my creativity and unwind. I also appreciate exploring different cultures through travel and learning about diverse perspectives. Additionally, I am conversant in Spanish, enabling me to effectively communicate in a multicultural environment.
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)

@@ -1,0 +1,51 @@
+Personal Statement:
+Passionate and driven data scientist with a keen eye for detail and a strong analytical mindset. Dedicated to leveraging my programming skills and machine learning expertise to develop innovative solutions. Committed to making a meaningful impact in the field of data science.
+
+Education:
+Bachelor of Science in Computer Science
+University of Pennsylvania, Philadelphia, Pennsylvania
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist Intern
+Insightful Analytics, Silicon Valley, California
+- Utilized R, Pandas, SciKit-Learn, C++, and Python to analyze and model large datasets, driving data-driven decision-making.
+- Collaborated with cross-functional teams to develop predictive models and algorithms to optimize business operations.
+- Prepared comprehensive reports and visualizations to effectively communicate results and insights to stakeholders.
+
+Machine Learning Engineer
+DataTech Innovations, San Francisco, California
+- Designed and implemented databases using MongoDB and SQL for efficient data storage and retrieval.
+- Developed and deployed machine learning models using PyTorch, Java, TensorFlow, and NumPy, improving system performance.
+- Collaborated with software engineers to integrate AI algorithms into existing systems and evaluate their effectiveness.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Co-founder, Indian American Cultural Society, Philadelphia, Pennsylvania
+- Initiated and organized cultural events to promote and celebrate the rich Indian heritage in the local community.
+- Led initiatives to raise funds for educational programs supporting marginalized children in rural India.
+- Advocated and actively worked towards gender equality within the organization and community.
+
+Sports Leadership Role:
+Captain, University Tennis Team, University of Pennsylvania
+- Led the team to multiple victories in intercollegiate tournaments, demonstrating strong leadership and teamwork.
+- Mentored and trained fellow team members, fostering their skill development and overall performance.
+- Developed strategic game plans, organized team practices, and motivated team members to achieve success.
+
+Hobbies:
+- Playing the guitar and composing original music
+- Exploring diverse culinary experiences and experimenting with international flavors
+- Engaging in outdoor activities like hiking and rock climbing
+
+Languages:
+- Fluent in English and Hindi
+- Conversational proficiency in Telugu
+
+References:
+Available upon request.

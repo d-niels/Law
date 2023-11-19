@@ -1,0 +1,41 @@
+BRIELLE COOPER
+
+Personal Statement:
+Dedicated and analytical data scientist with a passion for leveraging data-driven insights to solve complex business problems. Highly skilled in using various programming languages and database technologies to extract, transform, and analyze large datasets. Committed to diversity and leveraging my unique background as a black female to contribute to organizations that promote inclusivity and equality.
+
+Education:
+Bachelor of Science in Computer Science, University of Indianapolis, Indianapolis, Indiana
+- GPA: 3.9
+
+Work Experience:
+Data Scientist, InnovateTech Solutions, Indianapolis, Indiana
+- Utilized R, Python, TensorFlow, Java, and SQL to design and develop machine learning models for predictive analytics projects.
+- Analyzed large volumes of data to identify patterns, trends, and insights for enhancing business strategies.
+- Collaborated with cross-functional teams to deploy data-driven solutions and make data-driven recommendations.
+
+Data Analyst, DataElevate Corporation, Indianapolis, Indiana
+- Applied expertise in SciKit-Learn, Pandas, NumPy, PyTorch, MongoDB, and C++ to analyze and interpret complex data sets.
+- Developed algorithms and implemented statistical models to optimize decision-making processes.
+- Assisted in data quality assurance initiatives and ensured compliance with data governance policies.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Black Women in STEM, University of Indianapolis, Indianapolis, Indiana
+- Led programs and workshops to empower and support black female students pursuing careers in STEM.
+- Mentored and provided guidance to promote diversity and inclusion in the field of technology.
+- Served as a captain for the university's women's basketball team, fostering teamwork and encouraging diversity and representation in sports.
+
+Hobbies:
+- Playing the piano
+- Attending cultural events celebrating African-American art and history
+
+Languages:
+Fluent in English and French
+
+References available upon request.

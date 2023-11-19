@@ -1,0 +1,36 @@
+Personal Statement:
+I am a dedicated and motivated data scientist with a passion for leveraging my analytical skills to solve complex problems. With a solid educational foundation in computer science and hands-on experience in diverse programming languages and database technologies, I am confident in my ability to deliver valuable insights from large datasets. As a driven individual, I thrive in collaborative environments and am committed to continuously expanding my knowledge in the field of data science.
+
+Education:
+Bachelor of Science in Computer Science, Sunshine State University, Jacksonville, Florida
+GPA: 3.9
+
+Work Experience:
+Data Scientist, TechGen Corporation, Jacksonville, Florida
+- Developed machine learning models using TensorFlow, Pandas, Python, MongoDB, and SQL to analyze large-scale datasets.
+- Leveraged data visualization techniques to communicate insights and drive decision-making processes.
+- Collaborated with cross-functional teams to identify business challenges and provide data-driven solutions.
+
+Data Analyst, Quantum Analytics, Jacksonville, Florida
+- Utilized R, C++, SciKit-Learn, PyTorch, Java, and NumPy to build predictive models and perform data analysis.
+- Conducted comprehensive data audits and implemented quality control measures to ensure accuracy and integrity of data.
+- Presented findings and actionable recommendations to stakeholders, resulting in improved operational processes.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Youth Soccer Coach, Jacksonville Youth Sports Organization
+- Led a youth soccer team, fostering teamwork, sportsmanship, and skill development among a diverse group of athletes.
+- Organized and coordinated practices, games, and tournaments, ensuring an inclusive and supportive environment for all players.
+
+Hobbies:
+- Playing the guitar and exploring various musical styles, including blues and rock.
+- Engaging in art and graphic design, incorporating different cultural influences into my work.
+
+Languages:
+Fluent in English and Spanish.

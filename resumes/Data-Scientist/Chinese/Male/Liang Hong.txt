@@ -1,0 +1,46 @@
+Personal Statement:
+
+Driven and detail-oriented data scientist with a passion for uncovering meaningful insights from data to drive innovation. Committed to continuous learning and keeping abreast of the latest advancements in data science. With a strong background in computer science, I possess excellent analytical and problem-solving skills, along with effective communication and collaboration abilities. Seeking a challenging role as a data scientist to contribute to the development of cutting-edge solutions and make a significant impact.
+
+Education:
+Bachelor of Science in Computer Science, University of Illinois at Urbana-Champaign, Urbana, IL
+GPA: 3.9/4.0
+
+Work Experience:
+
+Data Scientist, Quantum Technologies, Honolulu, Hawaii
+- Developed predictive models and algorithms using Pandas, TensorFlow, Java, MongoDB, and NumPy.
+- Implemented efficient data storage and extraction techniques in MongoDB using Java.
+- Collaborated with cross-functional teams to analyze complex data sets and deliver actionable insights to drive business growth.
+- Conducted thorough data analysis and visualization to support decision-making processes.
+
+AI Research Analyst, Stellar Innovations, Honolulu, Hawaii
+- Utilized programming languages such as C++, R, Python, and SQL to analyze and manipulate large datasets.
+- Conducted data cleaning, preprocessing, and feature engineering to enhance model performance.
+- Leveraged SciKit-Learn and PyTorch to develop and implement machine learning models for business problem-solving.
+- Contributed to the development of data-driven solutions to optimize customer segmentation and targeting strategies.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Diversity and Inclusion Advocate, Harmony Inclusion Network, Honolulu, Hawaii
+- Championed diversity and inclusion within the organization, fostering cultural understanding and collaboration.
+- Organized events and workshops to promote cultural awareness and bridge gaps across different communities.
+- Spearheaded initiatives to increase representation of underrepresented groups in the workplace.
+
+Basketball Team Captain and Mentor, Aloha Sports Club
+- Led and mentored a team of basketball enthusiasts, fostering their skills and promoting teamwork.
+- Organized practices, coordinated game schedules, and instilled discipline and sportsmanship in team members.
+
+Hobbies:
+- Playing the erhu, an expressive Chinese instrument, to explore my cultural heritage and relax.
+- Exploring the scenic hiking trails of Hawaii, embracing nature's beauty and maintaining an active lifestyle.
+
+Languages:
+- Fluent in English and Mandarin Chinese, enabling effective communication and fostering cultural exchange.

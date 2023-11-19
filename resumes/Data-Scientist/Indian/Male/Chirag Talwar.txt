@@ -1,0 +1,39 @@
+CHIRAG TALWAR
+Data Scientist
+
+Personal Statement:
+Dedicated and results-driven Data Scientist with a strong passion for solving complex problems and uncovering valuable insights from data. Possessing a solid foundation in computer science and equipped with a diverse skill set, I am committed to utilizing my technical expertise to drive data-driven decision-making and contribute to the success of organizations. As an Indian male from Atlanta, Georgia, I am eager to bring a unique perspective and contribute to diverse and inclusive teams.
+
+Education:
+Bachelor of Science in Computer Science, Atlanta Technological University, Atlanta, Georgia
+- GPA: 3.9
+
+Work Experience:
+
+Data Scientist, InnovCode, Atlanta, Georgia
+- Utilized Python, SQL, SciKit-Learn, Pandas, and MongoDB to develop predictive models and streamline data workflows.
+- Collaborated with cross-functional teams to identify business requirements and execute data-driven solutions.
+- Cleaned and analyzed large datasets to uncover patterns and insights for improved business decision-making.
+
+Data Analyst Intern, Data Solutions Inc., Atlanta, Georgia
+- Employed PyTorch, TensorFlow, C++, Java, R, and NumPy to extract, manipulate, and interpret data for analysis.
+- Conducted thorough data analysis and generated detailed reports to support strategic decision-making.
+- Collaborated with the data engineering team to implement efficient data pipelines and improve data quality.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion within the technology industry, organizing events and workshops to encourage underrepresented groups in STEM fields.
+- Served as a basketball team captain and mentor, coaching and guiding the team to develop strong teamwork, discipline, and a competitive spirit.
+
+Hobbies:
+- Playing the tabla (Indian classical percussion instrument)
+- Engaging in cultural activities, such as attending Indian music concerts and cultural festivals
+
+Languages:
+- Fluent in English, Hindi, and Punjabi

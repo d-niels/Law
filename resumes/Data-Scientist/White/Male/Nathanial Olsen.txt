@@ -1,0 +1,43 @@
+Nathanial Olsen
+
+Personal Statement:
+Motivated data scientist with a strong background in computer science and a passion for utilizing data-driven insights to solve complex problems. Highly skilled in utilizing machine learning algorithms and statistical modeling to uncover patterns and trends. Committed to leveraging data to optimize business strategies and drive decision-making processes. Exceptional teamwork and communication abilities to effectively collaborate with cross-functional teams.
+
+Education:
+- Bachelor of Science in Computer Science, San Diego State University, San Diego, California (2017-2021)
+   - GPA: 3.9
+
+Work Experience:
+1. Data Scientist Intern, Zenith Analytics, San Diego, CA (Summer 2021)
+   - Developed predictive models using Pandas, SciKit-Learn, PyTorch, R, and SQL to optimize marketing campaigns for global clients.
+   - Conducted data analysis, data cleansing, and preprocessing to ensure data quality and accuracy.
+   - Utilized machine learning techniques to build recommendation systems, resulting in a 10% increase in customer engagement.
+
+2. Research Assistant, HyperTech Labs, San Diego, CA (2019-2021)
+   - Employed TensorFlow, MongoDB, C++, NumPy, Python, and Java to process and analyze large-scale datasets efficiently.
+   - Collaborated with a team of researchers to develop innovative algorithms for image recognition, achieving a 15% improvement in accuracy.
+   - Conducted extensive technical research in the field of machine learning and presented findings to the research community.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Vice President, San Diego Diversity in Technology Society (2018-2021)
+   - Led the society's initiatives to promote diversity and inclusion within the computer science field, organizing events and workshops that emphasized opportunities for underrepresented groups.
+- Sports Leadership Role: Captain, San Diego State University Men's Basketball Team (2017-2021)
+   - Demonstrated exceptional leadership skills, fostering teamwork, and guiding teammates to success both on and off the court.
+
+Hobbies:
+- Playing the guitar and composing music
+- Traveling to explore different cultures and languages
+- Engaging in community outreach programs to support underserved communities
+
+Languages:
+- English (fluent)
+- Spanish (intermediate proficiency)
+
+References available upon request.

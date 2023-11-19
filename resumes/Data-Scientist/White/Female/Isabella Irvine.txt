@@ -1,0 +1,43 @@
+Isabella Irvine
+
+Personal Statement:
+As a data scientist, I am driven by my passion for harnessing the power of data to solve real-world problems. With a bachelor's degree in computer science and a strong background in data analytics, I am equipped with the skills and knowledge necessary to extract valuable insights from complex datasets. I am a dedicated and results-oriented individual who thrives in a collaborative and fast-paced environment. My goal is to leverage statistical modeling and machine learning techniques to drive data-driven decision-making and contribute to the advancement of the field.
+
+Education:
+Bachelor of Science in Computer Science, Houston State University, Houston, Texas
+GPA: 3.9
+
+Work Experience:
+Data Scientist, Stellar Analytics Solutions, Houston, Texas
+- Utilized NumPy, Python, Java, MongoDB, and PyTorch to manipulate and analyze large datasets.
+- Developed advanced algorithms to extract meaningful insights and patterns from complex data.
+- Collaborated with cross-functional teams to implement machine learning models and predictive analytics solutions.
+
+Data Analyst Intern, Nexus Technologies, Houston, Texas
+- Applied SciKit-Learn, R, SQL, Pandas, TensorFlow, and C++ to perform data analysis and visualization tasks.
+- Assisted in building and maintaining databases, conducting statistical analyses, and creating data-driven reports.
+- Contributed to the development of machine learning algorithms for improved decision-making processes.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnicity & Gender Advocate, OneWorld Unity Organization
+- Actively championed diversity and inclusion, advocating for equal opportunities for all ethnicities and genders.
+- Organized awareness campaigns and workshops to promote cultural sensitivity and gender equality.
+
+Sports Leadership Role: Captain of Houston State University's Women's Volleyball Team
+- Led a team of talented athletes, fostering a collaborative and supportive environment.
+- Organized team practices, managed competitions, and mentored teammates to achieve their full potential.
+
+Hobbies:
+Playing the piano and composing music.
+Collecting and studying art from various historical periods.
+Exploring diverse literature and authors that showcase unique cultural perspectives.
+
+Languages:
+Fluent in English and Spanish.

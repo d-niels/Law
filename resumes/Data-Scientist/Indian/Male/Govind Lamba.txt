@@ -1,0 +1,34 @@
+Personal Statement:
+I am a highly motivated and dedicated data scientist with a strong background in computer science. Passionate about leveraging data to drive meaningful insights and develop innovative solutions, I am committed to utilizing my skills to make a positive impact. With a proven track record of success, I am eager to contribute to a dynamic organization as a data scientist.
+
+Education:
+Bachelor of Science in Computer Science, San Francisco State University, San Francisco, California
+- Graduated with a GPA of 3.9
+
+Work Experience:
+Data Scientist | IlluminateTech, San Francisco, CA | 2018-2020
+- Utilized SciKit-Learn, SQL, PyTorch, TensorFlow, and C++ to analyze and interpret complex data sets.
+- Developed machine learning models to identify patterns and make accurate predictions, contributing to improved decision-making processes.
+- Collaborated with cross-functional teams to ensure the successful implementation of data-driven projects.
+
+Data Analyst | Zenith Solutions, San Francisco, CA | 2017-2018
+- Applied R, Pandas, Python, MongoDB, Java, and NumPy to extract, clean, and analyze large data sets.
+- Developed advanced data visualizations and dashboards to effectively communicate insights to stakeholders.
+- Conducted comprehensive data quality assessments and implemented data cleansing techniques, resulting in enhanced accuracy and reliability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As an Indian male from San Francisco, California, I embrace diversity and actively promote inclusivity. I have served as a mentor for programs that encourage young underrepresented individuals to pursue careers in technology. Additionally, I have held a sports leadership role as the captain of a local basketball team, fostering teamwork and camaraderie while promoting an inclusive environment.
+
+Hobbies:
+Outside of my professional life, I enjoy playing the sitar, a traditional Indian musical instrument. I also participate in cultural events, celebrating and promoting Indian arts and music. Additionally, I enjoy exploring different cultures and languages, with fluency in English and Hindi.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)

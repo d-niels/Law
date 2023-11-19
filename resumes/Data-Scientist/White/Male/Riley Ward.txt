@@ -1,0 +1,43 @@
+RILEY WARD
+
+Personal Statement:
+Results-driven data scientist with a strong academic background in computer science and a passion for using data to drive business decisions. Skilled in Python, R, PyTorch, NumPy, MongoDB, TensorFlow, C++, SQL, Java, Pandas, and SciKit-Learn. Committed to leveraging data analysis techniques and machine learning algorithms to deliver actionable insights and improve organizational performance. A dedicated team player with excellent problem-solving and analytical skills, seeking a data scientist role to contribute to innovative projects and drive data-supported outcomes.
+
+Education:
+Bachelor of Science in Computer Science
+Phoenix University, Phoenix, Arizona
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist, Phoenix Technologies, Phoenix, AZ
+- Developed and implemented machine learning models using Python, R, PyTorch, NumPy, and MongoDB to extract meaningful insights from large datasets.
+- Conducted statistical analysis on data to identify trends, patterns, and anomalies, resulting in improved decision-making processes.
+- Collaborated with cross-functional teams to design and develop algorithms that optimized predictive models, leading to a 25% increase in accuracy.
+- Presented findings and actionable recommendations to stakeholders, facilitating data-driven decision-making.
+
+Data Scientist Intern, Stellar Analytics, Phoenix, AZ
+- Utilized TensorFlow, C++, SQL, Java, Pandas, and SciKit-Learn to analyze complex datasets and develop predictive models.
+- Assisted in data collection and preprocessing, ensuring data quality and integrity for accurate model training.
+- Collaborated with a team of data scientists and engineers to develop and implement prototype algorithms for real-time analysis.
+- Participated in project meetings and contributed to the improvement of existing data analysis processes.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member in the Society for Hispanic Professionals, volunteering for community events and mentoring aspiring data scientists from underrepresented backgrounds.
+- Served as a basketball team leader for a local youth basketball league, fostering teamwork and leadership skills among diverse teams.
+
+Hobbies:
+- Playing the guitar and piano, exploring different musical genres and styles.
+- Engaging in outdoor activities such as hiking and soccer, promoting physical fitness and teamwork.
+- Participating in cultural diversity events and learning about different traditions and customs.
+- Traveling to new destinations, embracing diverse cultures, and broadening perspectives.
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)

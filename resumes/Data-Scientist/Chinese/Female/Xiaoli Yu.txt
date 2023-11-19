@@ -1,0 +1,43 @@
+XIAOLI YU
+
+Personal Statement:
+Highly motivated and analytical data scientist with a passion for solving complex problems and leveraging data-driven insights to make strategic decisions. Possessing excellent programming skills, a strong background in computer science, and proven expertise in various data science tools and technologies. Dedicated to delivering impactful results and driving innovation in the field of data science.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+Valiant University, San Jose, California
+
+Work Experience:
+Data Scientist | StellarTech Solutions, San Jose, CA
+- Developed data-driven models using MongoDB, NumPy, C++, Python, and Pandas to analyze complex datasets.
+- Leveraged statistical techniques to interpret and extract valuable insights to drive decision-making processes.
+- Collaborated with cross-functional teams to develop and implement machine learning algorithms.
+
+Data Analyst | MetaData Analytics, San Jose, CA
+- Utilized PyTorch, R, TensorFlow, SQL, Java, and SciKit-Learn to analyze and interpret data for optimizing business operations.
+- Conducted extensive data mining and performed statistical analysis to identify patterns and trends.
+- Developed predictive models and data visualizations to communicate findings to stakeholders.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnic Diversity and Gender in Tech, San Jose, CA - Volunteer
+- Promoted diversity and inclusion by organizing workshops and events focused on encouraging women and underrepresented minorities to pursue careers in technology and data science.
+- Facilitated networking opportunities and mentoring programs to support aspiring professionals.
+
+Sports Leadership - Basketball Team Captain
+- Led a basketball team, fostering collaboration and teamwork while representing Chinese culture and promoting gender equity.
+
+Hobbies:
+Playing the Guzheng (traditional Chinese instrument)
+Exploring multicultural literature and authors
+Participating in diverse cultural events and festivals
+
+Languages:
+- English (fluent)
+- Mandarin Chinese (native)

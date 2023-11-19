@@ -1,0 +1,47 @@
+Chang Cao
+123 Main Street, Houston, Texas 12345
+Phone: (555) 123-4567 | Email: changcao@email.com
+
+Personal Statement:
+Highly motivated and detail-oriented data scientist with a strong educational foundation in Computer Science. Skilled in utilizing programming languages and database technologies to extract meaningful insights from complex datasets. With a passion for problem-solving and data-driven decision-making, I am dedicated to leveraging my skills to drive innovation and make impactful contributions to the field of data science.
+
+Education:
+Bachelor of Science in Computer Science, XYZ State University, Houston, Texas
+- GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist Intern, Quantum Insights, Houston, Texas
+June 2020 - Present
+- Utilized PyTorch, Java, SQL, Python, and Pandas to develop machine learning models for data analysis and interpretation.
+- Conducted data cleaning, preprocessing, and optimization to ensure high-quality datasets for analysis and model training.
+- Collaborated with cross-functional teams to gather requirements and provide actionable insights based on data analysis.
+
+Data Analyst, Stellar Systems, Houston, Texas
+January 2019 - May 2020
+- Employed MongoDB, R, C++, TensorFlow, SciKit-Learn, and NumPy to analyze large-scale datasets and develop predictive models.
+- Conducted statistical analysis and data visualization to support business decision-making processes.
+- Utilized machine learning algorithms to identify patterns and trends in customer behavior, leading to cost-saving measures.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Gender and Ethnicity Ambassador, XYZ State University, Houston, Texas
+- Acted as a representative for underrepresented communities, promoting diversity and inclusion within the university community.
+- Led discussions and workshops to educate others on gender and ethnicity-related issues and foster cultural understanding.
+- Sports Leadership: Served as a team captain for XYZ State University's basketball team, fostering teamwork, discipline, and mentorship among team members.
+
+Hobbies:
+- Fluent in Mandarin Chinese and English
+- Playing the guitar
+- Exploring various cultures through travel and music
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References available upon request.

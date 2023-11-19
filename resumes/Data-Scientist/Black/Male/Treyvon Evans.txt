@@ -1,0 +1,41 @@
+Personal Statement:
+Motivated and analytically-driven data scientist with a fervent passion for leveraging technology to extract meaningful insights from complex datasets. With a solid educational background in computer science and a relentless curiosity for problem-solving, I am dedicated to making a remarkable impact as a data scientist. I am eager to utilize my diverse experiences and technical expertise to drive innovative solutions that optimize business outcomes.
+
+Education:
+Bachelor of Science in Computer Science, Washington Metropolitan University, Washington, District of Columbia
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Data Scientist, Spectrum Technologies, Washington, District of Columbia
+- Leveraged MongoDB, Python, PyTorch, TensorFlow, and Pandas to analyze vast datasets, uncover patterns, and develop predictive models to enhance business strategies.
+- Assisted in data preprocessing, feature engineering, and model selection to optimize algorithm accuracy and performance.
+- Collaborated cross-functionally with teams to identify business opportunities and address complex data-related challenges.
+
+Software Engineer, Nova Systems, Washington, District of Columbia
+- Developed innovative software solutions using C++, SciKit-Learn, Java, SQL, NumPy, and R to meet diverse client requirements and improve operational efficiency.
+- Conducted thorough code reviews, implemented robust debugging techniques, and optimized system performance through strategic enhancements.
+- Collaborated seamlessly with project teams throughout the software development life cycle, ensuring successful project execution and delivery.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate
+- Took an active role in promoting diversity and inclusion within the tech industry, with a particular focus on empowering individuals from underrepresented communities.
+- Mentored aspiring technologists from diverse backgrounds, providing guidance and support to help them navigate their careers.
+- As a respected leader in basketball, motivated and guided young black athletes to achieve their full potential both on and off the court.
+
+Hobbies:
+- Playing the saxophone, exploring new genres and improvisation techniques.
+- Actively engaging in local community organizations that promote equitable access to education and advocate for social justice.
+- Participating in online forums and communities dedicated to advancing technological opportunities for African American communities.
+
+Languages:
+- English (fluent)
+- Spanish (proficient)
+
+References available upon request.

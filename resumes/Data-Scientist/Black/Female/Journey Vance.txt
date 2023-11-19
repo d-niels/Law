@@ -1,0 +1,43 @@
+Journey Vance
+
+Personal Statement:
+Passionate and results-driven data scientist with a diverse background in computer science. Leveraging my expertise in various programming languages and database technologies, I am dedicated to driving data-focused insights to propel innovation and solve complex problems. As a black female in the field, I am committed to fostering diversity and inclusion in technology and using data to make a positive impact on society.
+
+Education:
+Bachelor of Science in Computer Science
+Harmony University, Indianapolis, Indiana
+GPA: 3.9
+
+Work Experience:
+Data Analyst Intern | Solvatech Solutions | Indianapolis, IN | May 20XX - Aug 20XX
+- Utilized SQL to extract and manipulate data from large-scale relational databases for analysis and reporting purposes.
+- Employed NumPy, R, and PyTorch to perform statistical analysis, predictive modeling, and hypothesis testing.
+- Collaborated with cross-functional teams to develop Java-based applications for data visualization and insights generation.
+
+Junior Data Scientist | Innovix Analytics | Indianapolis, IN | Sept 20XX - Present
+- Implemented TensorFlow and SciKit-Learn to build and deploy machine learning models for pattern recognition and prediction.
+- Utilized Python and Pandas for data preprocessing, data cleaning, and exploratory analysis to gain valuable insights.
+- Managed and optimized data storage using MongoDB and SQL databases to ensure exceptional scalability and performance.
+- Collaborated closely with clients to understand their data-related needs and provided guidance on utilizing analytics to drive business decisions.
+- Developed efficient algorithms using C++ to enhance computational tasks and boost overall system performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in organizations working towards promoting diversity in technology, specifically empowering black women to pursue careers in data science and technology.
+- Mentored and coached underrepresented students, providing guidance and support to help them thrive in the field.
+- Passionate sports leader in soccer, promoting teamwork, discipline, and leadership among a diverse group of athletes.
+
+Hobbies:
+- Playing the saxophone: Nurturing creativity and self-expression through music.
+- Writing and public speaking on topics related to diversity and inclusion in technology.
+- Exploring various cultures through travel, art, and literature.
+
+Languages:
+- English (Fluent)
+- French (Conversational)

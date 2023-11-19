@@ -1,0 +1,54 @@
+JASMINE ELLIS
+
+Data Scientist
+
+PERSONAL STATEMENT
+Passionate and highly motivated data scientist with a bachelor's degree in Computer Science specializing in data analytics and machine learning. Demonstrated expertise in utilizing diverse programming languages and database technologies to extract, analyze, and interpret complex datasets. Committed to leveraging data-driven insights to make informed decisions, drive business growth, and contribute to the development of innovative solutions. Dedicated team player with exceptional problem-solving and analytical skills. Eager to contribute to an organization that values diversity and encourages creativity in a data-driven environment.
+
+EDUCATION
+Bachelor of Science in Computer Science, with a minor in Data Analytics
+Midwest Technical University, Columbus, Ohio
+GPA: 3.9/4.0
+
+WORK EXPERIENCE
+Data Scientist | DataGenius Insights
+Columbus Data Labs, Columbus, Ohio | 2019 - Present
+- Utilized MongoDB, Python, TensorFlow, Java, and PyTorch to develop and implement machine learning models for advanced predictive analytics.
+- Designed and maintained data pipelines, ensuring the accuracy and reliability of data.
+- Conducted exploratory data analysis and feature engineering to enhance model performance and prediction accuracy.
+- Collaborated with cross-functional teams to identify business requirements and translate them into data-driven solutions.
+- Presented findings and delivered actionable insights to stakeholders, enabling informed decision-making.
+
+Data Analyst | SparkTech Solutions
+OhioTech Plaza, Columbus, Ohio | 2017 - 2019
+- Leveraged C++, Pandas, SQL, SciKit-Learn, and NumPy to extract, clean, and analyze large datasets.
+- Developed data visualization dashboards to effectively communicate findings and insights.
+- Conducted statistical analysis and applied machine learning algorithms to uncover patterns and trends within data.
+- Collaborated with a multidisciplinary team to develop strategic recommendations based on data-driven insights.
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Promoting Diversity in STEM
+- Actively involved in promoting diversity in Science, Technology, Engineering, and Mathematics (STEM) fields.
+- Organized and led workshops to empower underrepresented minority students in pursuing STEM careers.
+- Mentored aspiring data scientists and provided guidance on educational and career pathways.
+
+Basketball Team Captain
+- Led a competitive basketball team as captain, fostering teamwork, discipline, and enhancing the athletic abilities of team members.
+- Organized charity basketball tournaments, raising funds for local nonprofits and community programs.
+
+HOBBIES
+- Playing the piano and guitar
+- Participating in community cultural events
+- Exploring diverse cultures through literature and art
+
+LANGUAGES
+Fluent in English and Spanish
+
+Note: The information provided in this resume is fictional and solely for the purpose of character development in a novel.

@@ -1,0 +1,46 @@
+Personal Statement:
+Highly analytical and detail-oriented data scientist with a passion for utilizing technology to uncover valuable insights from complex datasets. Equipped with a strong background in computer science and exceptional problem-solving skills, I am adept at utilizing various programming languages and database technologies to drive data-driven decision-making. As a Chinese female in the field, I am committed to promoting diversity and inclusivity in the tech industry while leveraging my skills to make a positive impact.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+San Diego State University, San Diego, California
+
+Work Experience:
+Data Scientist, TechSavvy Solutions, San Diego, CA
+- Utilized PyTorch, NumPy, MongoDB, Pandas, and SQL to analyze and model large-scale datasets for predictive analytics.
+- Developed data pipelines and automated workflows to optimize data processing efficiency.
+- Collaborated with cross-functional teams to identify business requirements and translate them into actionable insights.
+- Presented findings to stakeholders through clear and concise data visualizations.
+
+Data Science Intern, InnovateTech Corp, San Diego, CA
+- Leveraged TensorFlow, Java, Python, C++, SciKit-Learn, and R to develop machine learning models for predictive maintenance.
+- Conducted extensive data preprocessing and cleansing to ensure data quality and reliability.
+- Assisted in the analysis of structured and unstructured data to identify patterns and trends.
+- Collaborated with senior data scientists to improve model performance and accuracy.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Chinese-American Community Center, San Diego, CA
+- Organized cultural events and activities to promote Chinese heritage and foster community engagement.
+- Led workshops on coding and data science to empower youth in the Chinese-American community.
+- Mentored aspiring female data scientists to promote gender equality in the tech industry.
+
+Soccer Leadership Role, San Diego Women's Soccer League
+- Captain of the San Diego Sharks, a highly competitive women's soccer team.
+- Coached and mentored the team, inspiring teamwork, skill development, and sportsmanship.
+- Managed team logistics for tournaments and organized training sessions.
+
+Hobbies:
+- Playing the traditional Chinese instrument, Guzheng
+- Exploring diverse cultures through travel, music, and cuisine
+- Engaging in women's coding groups to encourage gender equality in tech communities
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

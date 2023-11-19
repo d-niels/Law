@@ -1,0 +1,37 @@
+Personal Statement:
+Highly motivated and results-driven data scientist with a deep passion for leveraging analytical skills to solve complex problems. Equipped with a strong educational background in computer science and hands-on experience in various data tools and programming languages. Excellent collaborator and communicator, adept at addressing challenges in multicultural environments. Committed to driving innovation and making data-driven decisions to enhance business outcomes.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+Pacific Coast University, Honolulu, Hawaii
+
+Work Experience:
+Data Scientist | Ocean Data Solutions, Honolulu, Hawaii
+- Leveraged expertise in SQL, SciKit-Learn, Pandas, TensorFlow, and MongoDB to interpret and analyze large datasets for actionable insights.
+- Developed and implemented machine learning models to forecast customer behavior, resulting in a 15% increase in customer retention rate.
+- Collaborated with cross-functional teams to optimize data collection processes and ensure data accuracy.
+
+Data Analyst | Stellar Computing, Honolulu, Hawaii
+- Utilized PyTorch, Python, NumPy, R, C++, and Java to analyze and visualize data, identifying key trends and patterns.
+- Developed custom algorithms to automate data processing workflows, reducing data processing time by 30%.
+- Conducted statistical analysis and generated insightful reports to aid in strategic decision-making processes.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Chinese Cultural Association: Actively contributed to organizing cultural events to promote understanding and appreciation of Chinese heritage. Acted as a cultural ambassador, fostering inclusivity and celebrating diversity.
+- Women in Tech Leadership Program: Mentored and guided female aspiring data scientists, providing valuable insights and support.
+- Basketball Team Captain: Leaded a highly competitive basketball team, organizing practices, coordinating tournaments, and promoting teamwork and sportsmanship while embracing diversity.
+
+Hobbies:
+- Playing the traditional Chinese instrument, Guzheng.
+- Exploring diverse cultures through music, art, and literature.
+- Staying active by practicing yoga and hiking scenic trails.
+
+Languages:
+- Fluent in English and Mandarin.

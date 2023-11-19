@@ -1,0 +1,44 @@
+Gerald Yoder
+
+Personal Statement:
+Dedicated and detail-oriented data scientist with a passion for leveraging advanced analytics techniques to drive valuable insights. Combining a strong educational background in computer science with practical experience in various programming languages and database technologies, I am confident in my ability to extract meaningful information from complex datasets. Committed to continuously expanding my knowledge and skill set to contribute effectively towards data-driven decision making.
+
+Education:
+Bachelor of Science in Computer Science
+University of Chicago, Chicago, Illinois
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist | SparkRise Innovations | Chicago, IL
+- Utilized Pandas, MongoDB, SQL, C++, and TensorFlow to develop machine learning models and algorithms for data analysis and prediction tasks.
+- Collaborated with cross-functional teams to gather requirements, analyze data, and present findings to stakeholders.
+- Conducted exploratory data analysis and implemented data cleaning techniques to ensure data quality and reliability.
+- Developed and maintained automated pipelines for data ingestion, transformation, and visualization.
+
+Data Analyst | QuantumLeap Analytics | Chicago, IL
+- Employed PyTorch, Python, NumPy, Java, R, and SciKit-Learn to analyze and interpret complex datasets for actionable insights.
+- Performed statistical analysis and hypothesis testing to drive data-driven business decisions.
+- Developed and optimized algorithms for predictive modeling and pattern recognition.
+- Created compelling data visualizations and reports to communicate findings to non-technical stakeholders.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member and board member of the African American Data Scientists Association (AADA) where I contribute to empowering underrepresented communities in the field of data science by organizing workshops and mentoring aspiring data scientists.
+- Sports Leadership: Served as team captain of the university's basketball team, leading by example and fostering teamwork among diverse teammates.
+
+Hobbies:
+- Playing the saxophone, showcasing my love for music and creativity.
+- Engaging in cultural events and actively advocating for diversity and inclusion in tech communities.
+- Exploring different art forms and supporting minority artists to promote cultural representation.
+
+Languages:
+- English (Native)
+- French (Proficient)
+
+References available upon request.

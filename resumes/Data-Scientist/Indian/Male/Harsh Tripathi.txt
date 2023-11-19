@@ -1,0 +1,40 @@
+Personal Statement:
+As an Indian male data scientist residing in San Francisco, California, I am driven by my passion for analyzing and interpreting complex data to derive meaningful insights. With a bachelor's degree in computer science (B.Tech) from San Francisco University and a strong academic background, graduated with a high GPA of 3.9, I am equipped with the skills and expertise necessary to excel in the field. My diverse work experiences, coupled with my leadership qualities and involvement in volunteering activities, further contribute to my holistic approach towards problem-solving. Combining my technical proficiency with my cultural background, I aim to contribute to the data science field by leveraging diverse perspectives and promoting inclusivity.
+
+Education:
+Bachelor of Technology in Computer Science, San Francisco University, San Francisco, California
+- Graduated with a high GPA of 3.9
+
+Work Experience:
+Data Scientist, InnovateAI Inc.
+(San Francisco, California)
+
+- Utilized TensorFlow, SciKit-Learn, PyTorch, Java, and R to develop cutting-edge machine learning models for data analysis and prediction.
+- Collaborated with cross-functional teams to implement data-driven solutions and drive business growth.
+
+Data Analyst, Quantum Data Systems
+(San Francisco, California)
+
+- Demonstrated proficiency in SQL, MongoDB, NumPy, C++, Python, and Pandas to extract, transform, and analyze large datasets.
+- Developed data pipelines for efficient data processing and modeling.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active volunteer in organizations such as TechInclusivity, promoting diversity in the tech industry, advocating for increased representation of underrepresented ethnicities and genders.
+- Led a basketball team as a captain, fostering teamwork and promoting inclusivity within a diverse group of athletes.
+
+Hobbies:
+- Playing the tabla, a traditional Indian percussion instrument, showcasing my appreciation for music and my cultural heritage.
+- Engaging in photography, capturing diverse cultures and landscapes, celebrating diversity.
+- Participating in community events that promote inclusivity and cultural exchange.
+
+Languages:
+- Bilingual: English and Hindi (Native proficiency)
+
+References upon request.

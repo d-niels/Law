@@ -1,0 +1,42 @@
+Hakeem Reed
+
+Personal Statement:
+Highly skilled data scientist with a strong background in computer science and a passion for leveraging data to drive innovation and decision-making. I am dedicated to utilizing my analytical skills, expertise in various programming languages, and database technologies to extract meaningful insights and develop data-driven solutions. As a black male from Memphis, Tennessee, I am committed to promoting diversity and inclusivity in the tech industry, utilizing my leadership skills to create positive change and empower underrepresented communities.
+
+Education:
+Bachelor of Science in Computer Science, Memphis Institute of Technology, Memphis, Tennessee
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist | Stellar Insights, Memphis, Tennessee
+- Utilized NumPy, Pandas, MongoDB, C++, and SciKit-Learn to preprocess and analyze large datasets, extracting actionable insights.
+- Developed machine learning models and algorithms to identify trends, patterns, and outliers in data sets, resulting in a 20% improvement in predictive accuracy.
+- Collaborated with cross-functional teams to implement data-driven solutions, optimizing business processes and improving operational efficiency.
+
+Software Engineer | Quantum Systems, Memphis, Tennessee
+- Proficient in SQL, Python, TensorFlow, PyTorch, R, and Java to develop and maintain software applications, contributing to a 15% increase in overall system efficiency.
+- Conducted data analysis and performance optimization using various statistical techniques and machine learning frameworks.
+- Actively collaborated with clients to understand their requirements, ensuring effective software development and implementation.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Board Member, Inclusivity and Diversity Committee, Memphis Institute of Technology, Memphis, Tennessee
+- Actively contributed to developing strategies and initiatives to promote diversity and inclusion on campus, organizing events and workshops to create a welcoming and inclusive environment for students from diverse backgrounds.
+- Basketball Team Captain, showcasing leadership in fostering teamwork, sportsmanship, and cultural appreciation within the team.
+
+Hobbies:
+- Playing the saxophone
+- Exploring diverse cultural cuisines
+- Engaging in multicultural literature and artwork appreciation
+
+Languages:
+- English (Fluent)
+- Spanish (Basic proficiency)
+
+References available upon request.

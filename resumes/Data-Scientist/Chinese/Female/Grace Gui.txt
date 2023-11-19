@@ -1,0 +1,35 @@
+Personal Statement:
+I am a highly motivated and detail-oriented data scientist with a passion for analyzing complex data sets to uncover valuable insights and drive informed business decisions. With a strong background in computer science and proficiency in various programming languages and data analysis tools, I am equipped to tackle challenging data problems and contribute to the success of organizations. Through my academic and professional experiences, I have developed a deep understanding of statistical modeling, machine learning techniques, and data visualization, making me a valuable asset to any data-driven team.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, Chicago, Illinois
+- GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist, Theta Analytics, Chicago, Illinois
+- Developed and implemented machine learning algorithms using MongoDB, Python, TensorFlow, C++, and R to analyze large datasets and provide actionable insights.
+- Conducted statistical analysis and built predictive models to optimize business processes, resulting in a 30% increase in efficiency.
+- Collaborated with cross-functional teams to identify business requirements and translate them into data-driven solutions.
+
+Data Analyst, Zeta Innovations, Chicago, Illinois
+- Utilized Pandas, PyTorch, NumPy, SciKit-Learn, SQL, and Java to clean and analyze data and developed data visualization dashboards for business stakeholders.
+- Conducted data modeling and optimization to improve accuracy and speed of analytics processes, leading to a 25% reduction in data processing time.
+- Collaborated with software engineers to design and implement scalable data pipelines and APIs.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Being a Chinese female, I actively participate in cultural events and organizations that promote diversity and inclusivity in the tech industry, working towards creating a more inclusive workplace environment.
+- Embracing my passion for sports, I lead as a coach for a local youth soccer team, fostering teamwork, discipline, and mentorship among young athletes.
+
+Hobbies:
+- Playing the piano, embracing the harmonies to showcase emotion and creativity.
+- Exploring different cultures through travel and learning about diverse traditions.
+
+Languages:
+- Fluent in English and Mandarin Chinese

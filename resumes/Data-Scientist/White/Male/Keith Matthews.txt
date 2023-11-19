@@ -1,0 +1,34 @@
+Personal Statement:
+I am a highly motivated and dedicated data scientist with a passion for leveraging technology to solve complex problems. With a strong background in computer science, I am equipped with the necessary skills to analyze and interpret data, extract valuable insights, and contribute to the field of data science. I strive for excellence in everything I do and thrive in collaborative environments.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+University of Texas at San Antonio, San Antonio, Texas
+
+Work Experience:
+Data Scientist | DataTech Solutions, San Antonio, Texas
+- Utilized PyTorch and TensorFlow frameworks to develop and implement machine learning models.
+- Extracted and analyzed data using MongoDB and Pandas for efficient data processing.
+- Designed and implemented algorithms in Java to optimize data analysis and visualization.
+
+Software Engineer | TechBiz Innovations, San Antonio, Texas
+- Utilized SQL, Python, C++, NumPy, SciKit-Learn, and R to develop and optimize data processing pipelines.
+- Collaborated with cross-functional teams to design and implement efficient database structures.
+- Assisted in the development of software applications to automate data analysis processes.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white male, I am committed to promoting diversity and inclusivity. I actively participate in various volunteer and leadership roles aimed at bridging ethnic and gender disparities. Notably, I serve as a mentor in a leadership role in basketball, fostering teamwork and inclusivity within the team.
+
+Hobbies:
+In my leisure time, I enjoy playing the piano, expressing my artistic side through music. Additionally, I am actively engaged in various community initiatives that promote equality and diversity, reflecting my commitment to creating a harmonious and inclusive society.
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)

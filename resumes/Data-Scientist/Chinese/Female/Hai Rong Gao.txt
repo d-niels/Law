@@ -1,0 +1,39 @@
+Personal Statement:
+As a highly driven and passionate data scientist, Hai Rong Gao, a Chinese female hailing from Oakland, California, is dedicated to uncovering valuable insights from complex data sets. With a strong technical background and analytical skills, Hai Rong is committed to contributing to a dynamic team that values innovation, creativity, and problem-solving.
+
+Education:
+Bachelor of Science in Computer Science
+Unique University, Oakland, California
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist | InnovateTech Solutions, Oakland, California
+- Leveraged PyTorch, SQL, TensorFlow, SciKit-Learn, and MongoDB to analyze large-scale datasets and derive actionable insights.
+- Collaborated with cross-functional teams to develop predictive models, optimize algorithms, and solve complex problems.
+- Presented data-driven recommendations to stakeholders, driving effective decision-making processes.
+
+Software Engineer | TechGenius, Oakland, California
+- Demonstrated expertise in R, Pandas, C++, Python, Java, and NumPy to design and develop software solutions.
+- Utilized problem-solving skills to troubleshoot and debug software systems, ensuring optimal functionality.
+- Collaborated with a diverse team to integrate and streamline software components, improving efficiency.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Contributed to the empowerment of underrepresented individuals as an active member of the Association of Chinese Women in Technology, advocating for diversity and equality in the tech industry.
+- Served as a mentor in a program supporting aspiring data scientists from diverse backgrounds, providing guidance and support.
+- Demonstrated exceptional leadership skills as the captain of a competitive recreational soccer team, inspiring teamwork and fostering growth.
+
+Hobbies:
+- Showcasing musical talents through playing the violin, reflecting a deep appreciation for art and creativity.
+- Organizing and participating in cultural exchange programs, promoting understanding and celebrating diversity.
+- Engaging in soccer as a player and coach, fostering leadership skills, teamwork, and personal growth.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

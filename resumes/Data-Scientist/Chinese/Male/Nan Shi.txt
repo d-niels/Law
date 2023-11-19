@@ -1,0 +1,47 @@
+Personal Statement:
+As a dedicated and results-driven data scientist, I am eager to leverage my strong analytical and problem-solving skills to drive insights and make informed data-driven decisions. With a Bachelor's degree in Computer Science from Rice University, I have developed a solid foundation in data analysis, programming, and machine learning. My passion for maximizing the potential of data to generate valuable insights fuels my motivation to excel in this field.
+
+Education:
+Bachelor of Science in Computer Science
+Rice University, Houston, Texas
+GPA: 3.9
+
+Work Experience:
+
+Data Scientist Intern | Spectrum Solutions, Houston, Texas
+- Leveraged Pandas, Java, Python, C++, and NumPy for data cleaning, manipulation, and analysis.
+- Developed data processing pipelines and optimized algorithms for efficient data extraction and transformation.
+- Collaborated with cross-functional teams to identify business requirements and deliver meaningful insights.
+- Assisted in the implementation of machine learning models for data prediction and classification.
+
+Junior Data Scientist | Stellar Analytics, Houston, Texas
+- Utilized SciKit-Learn, TensorFlow, PyTorch, R, MongoDB, and SQL for data analysis and modeling.
+- Conducted statistical analysis and predictive modeling to optimize business strategies and improve decision-making.
+- Developed and maintained databases, ensuring data quality and integrity.
+- Collaborated with stakeholders to identify opportunities for utilizing artificial intelligence and machine learning algorithms.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Basketball Team Captain | Houston Hoopsters, Houston, Texas
+- Led a team of passionate athletes, fostering teamwork, discipline, and personal growth through the sport of basketball.
+- Organized training sessions, managed competitions, and mentored team members, instilling a passion for the sport.
+
+Chinese Male Advocate | Houston Multicultural Organization, Houston, Texas
+- Supported and raised awareness about the experiences and achievements of the Chinese male community.
+- Organized events and discussions to promote cultural understanding and address relevant issues.
+
+Hobbies:
+- Playing the Guzheng (traditional Chinese instrument)
+- Participating in community theater, showcasing diverse cultural experiences
+- Exploring different cultures through literature and art
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+- Cantonese (Proficient)

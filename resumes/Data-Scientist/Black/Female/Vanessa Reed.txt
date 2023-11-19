@@ -1,0 +1,37 @@
+Personal Statement:
+I am a highly motivated and detail-oriented data scientist, specializing in utilizing statistical techniques and machine learning algorithms to turn complex data sets into actionable insights. With a strong educational foundation in computer science and valuable work experience, I am confident in my ability to deliver exceptional results in the field of data analysis. As a black female from Baltimore, Maryland, I am passionate about bringing diversity to the tech industry and utilizing my unique perspectives to contribute to innovative solutions.
+
+Education:
+Bachelor of Science in Computer Science
+Baltimore State University, Baltimore, Maryland
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist | Tech Innovators, Baltimore, MD | June 2018 - Present
+- Developed and implemented predictive models using Python, C++, TensorFlow, SQL, and SciKit-Learn to optimize business processes. 
+- Conducted data cleaning, preprocessing, and exploratory analysis to identify relevant features and patterns. 
+- Collaborated with cross-functional teams to translate business requirements into analytical solutions and managed the full project lifecycle. 
+
+Data Analyst | DataTech Solutions, Baltimore, MD | May 2017 - June 2018
+- Utilized R, Pandas, PyTorch, Java, MongoDB, and NumPy to extract insights from large datasets and provide data-driven recommendations to improve operational efficiencies.
+- Conducted statistical analysis and applied machine learning algorithms to identify trends, improve forecasting accuracy, and optimize decision-making processes.
+- Created data visualizations and reports to communicate findings to both technical and non-technical stakeholders.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- As a black female from Baltimore, I actively participate in community outreach programs aimed at empowering underrepresented youth to pursue careers in technology.
+- Served as a soccer team captain and coach, organizing practices, leading drills, and inspiring young girls to excel in both sports and leadership.
+
+Hobbies:
+- Playing the violin, which allows me to express my creativity and dedication to mastering complex skills.
+- Exploring diverse cultures through travel, art, and literature, broadening my understanding of different perspectives and fostering empathy and inclusivity.
+
+Languages:
+- English: Native
+- Spanish: Proficient

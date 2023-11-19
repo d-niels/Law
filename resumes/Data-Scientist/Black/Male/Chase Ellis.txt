@@ -1,0 +1,43 @@
+Chase Ellis
+
+Personal Statement:
+Dedicated and passionate data scientist with a solid background in computer science. Eager to leverage my skills and knowledge to uncover valuable insights from complex datasets. With a strong ability to analyze and interpret data, I strive to contribute to the advancement of organizations through data-driven decision making. Committed to continuously honing my skills and staying at the forefront of emerging technologies. 
+
+Education:
+Bachelor of Science in Computer Science
+Washington Metropolitan University, Washington, District of Columbia
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist | TechVision Analytics | Washington, DC
+- Utilized C++, Pandas, SQL, R, and TensorFlow for data analysis and predictive modeling projects
+- Developed algorithms to extract valuable insights from large datasets
+- Collaborated closely with cross-functional teams to develop machine learning solutions
+- Applied statistical techniques to analyze data and identify trends
+
+Data Analyst | Infotech Solutions | Washington, DC
+- Proficient in PyTorch, SciKit-Learn, Python, MongoDB, NumPy, and Java to analyze and interpret complex datasets
+- Conducted data cleaning, transformation, and visualization to ensure data quality and accuracy
+- Collaborated with stakeholders to deliver actionable insights and make data-driven business decisions
+- Developed and implemented data analytics strategies to enhance operational efficiency
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity in the tech industry, supporting and mentoring aspiring black male data scientists
+- Assumed a leadership role as the basketball coach for a local youth organization, fostering teamwork and discipline among aspiring athletes
+
+Hobbies:
+- Playing the saxophone, showcasing a passion for music and artistic expression
+- Engaging in community outreach programs focused on promoting underrepresented ethnic and gender communities
+
+Languages:
+- English (Fluent)
+- [Add additional languages if relevant]
+
+References available upon request.
