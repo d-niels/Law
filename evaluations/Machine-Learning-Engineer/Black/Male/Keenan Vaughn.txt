@@ -1,0 +1,4 @@
+9
+Strong background in computer science with high GPA 9/10
+Experience in developing robust data handling and processing systems 8/10
+Proficiency in PyTorch and TensorFlow for model development and deployment 9/10

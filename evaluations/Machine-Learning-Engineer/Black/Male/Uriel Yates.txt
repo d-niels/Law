@@ -1,0 +1,4 @@
+7
+Strong background in computer science (relevant education)
+Experience in model training and deployment using deep learning algorithms
+Demonstrated effective communication and collaboration skills (team player)

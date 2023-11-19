@@ -1,0 +1,4 @@
+9
+Advanced machine learning models using PyTorch and Deep Learning techniques.
+Demonstrated proficiency in Python and C++ for code implementation and optimization.
+Led model training and deployment processes in real-world environments. 

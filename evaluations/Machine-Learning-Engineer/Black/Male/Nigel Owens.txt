@@ -1,0 +1,4 @@
+9
+Extensive experience in developing machine learning models using PyTorch and TensorFlow.
+Strong background in statistical analysis for model validation and optimization.
+Demonstrated ability to collaborate in diverse teams and contribute to cross-functional projects.

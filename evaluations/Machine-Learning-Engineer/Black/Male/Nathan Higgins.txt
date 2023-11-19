@@ -1,0 +1,4 @@
+9
+Strong academic background in computer science (GPA: 3.9/4.0).
+Experience in model training and deployment using TensorFlow.
+Demonstrated agility and problem-solving skills in adapting models for different use cases.

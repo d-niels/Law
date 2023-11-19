@@ -1,0 +1,4 @@
+9
+Deep neural net research experience
+Proficiency in PyTorch and TensorFlow frameworks
+Actively involved in promoting diversity and inclusion

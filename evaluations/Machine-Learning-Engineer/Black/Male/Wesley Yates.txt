@@ -1,0 +1,4 @@
+9
+Deep learning experience using PyTorch and TensorFlow.
+Strong problem-solving skills and agility to adapt to changing requirements.
+Excellent academic record with a high GPA in Computer Science.

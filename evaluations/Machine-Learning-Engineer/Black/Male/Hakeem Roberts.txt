@@ -1,0 +1,4 @@
+8
+Extensive experience in deep neural net research
+Strong problem-solving skills and effective communication
+Proficient in programming languages such as C++, PyTorch, and Python

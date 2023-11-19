@@ -1,0 +1,4 @@
+2
+Lack of experience in machine learning engineering.
+Limited knowledge of deep learning frameworks (PyTorch, TensorFlow).
+No mention of experience in model deployment or statistical analysis.

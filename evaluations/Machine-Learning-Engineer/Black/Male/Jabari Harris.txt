@@ -1,1 +1,4 @@
-8Deep learning experience with PyTorch and TensorFlow frameworks.Strong academic background in computer science with high GPA.Demonstrated collaboration skills working with interdisciplinary teams. 
+5
+Deep learning model development and optimization
+Collaboration with cross-functional teams
+Understanding of deep neural net research

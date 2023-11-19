@@ -1,0 +1,4 @@
+8
+Strong background in computer science
+Deep understanding of deep neural net research
+Experience in model training and deployment using TensorFlow

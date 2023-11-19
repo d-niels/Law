@@ -1,1 +1,4 @@
-8Deep learning expertise in PyTorch and TensorFlowStrong problem-solving skills and statistical analysis experienceLeadership and involvement in minority engineering organizations
+8
+Deep learning expertise (PyTorch, TensorFlow)
+Strong communication and collaboration skills
+Research experience in deep neural networks

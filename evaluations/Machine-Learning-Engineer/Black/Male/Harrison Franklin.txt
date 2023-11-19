@@ -1,0 +1,4 @@
+9
+Solid experience in statistical analysis and deep learning techniques
+Proficient in PyTorch, TensorFlow, Python, and C++
+Active involvement in community initiatives promoting diversity and empowerment

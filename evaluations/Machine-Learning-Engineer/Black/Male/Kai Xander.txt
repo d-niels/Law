@@ -1,0 +1,4 @@
+8
+Deep learning experience using PyTorch and TensorFlow 
+Proficient in problem-solving and analytical skills
+Strong understanding of deep neural net research

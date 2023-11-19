@@ -1,0 +1,4 @@
+9
+Deep learning techniques and frameworks (PyTorch, TensorFlow)
+Statistical analysis and data preprocessing for improved data quality
+Collaborated with cross-functional teams to implement state-of-the-art models

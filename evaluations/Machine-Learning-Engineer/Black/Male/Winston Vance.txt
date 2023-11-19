@@ -1,0 +1,4 @@
+9
+Strong educational background in computer science
+Experience with deep neural net research and data handling
+Proficiency in Python, TensorFlow, C++, and PyTorch

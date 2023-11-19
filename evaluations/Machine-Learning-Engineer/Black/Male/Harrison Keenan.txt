@@ -1,0 +1,4 @@
+9
+Strong background in computer science, GPA: 3.9/4.0
+Experience in deep learning algorithms using PyTorch and C++
+Demonstrated agility and problem-solving skills in a dynamic environment

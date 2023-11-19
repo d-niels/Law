@@ -1,0 +1,4 @@
+9
+Strong experience in developing and enhancing machine learning models.
+Proficient in Python, C++, TensorFlow, and PyTorch.
+Demonstrated problem-solving, analytical skills, and effective communication. 

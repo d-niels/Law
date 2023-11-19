@@ -1,0 +1,4 @@
+5
+Strong background in computer science (Bachelor of Science in Computer Science)
+Proficient in PyTorch for building and optimizing neural network architectures
+Demonstrated agility and problem-solving abilities in fast-paced projects

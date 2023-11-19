@@ -1,1 +1,4 @@
-5Strong educational background in computer science (Bachelor of Science in Computer Science)Work experience in machine learning and deep neural network researchProven skills in programming languages (Python, C++, C) and database technologies (SQL, NoSQL)
+9
+Deep learning model development using TensorFlow and PyTorch.
+Strong background in computer science with high GPA.
+Actively contributed to deep neural network research. 

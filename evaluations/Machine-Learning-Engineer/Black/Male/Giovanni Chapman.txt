@@ -1,0 +1,4 @@
+8
+Deep learning model development using TensorFlow and C++.
+Experience in statistical analysis and implementing deep learning techniques.
+Active involvement in promoting diversity and inclusion in the tech industry.

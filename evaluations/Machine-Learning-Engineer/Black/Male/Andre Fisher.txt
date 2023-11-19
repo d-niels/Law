@@ -1,0 +1,4 @@
+9
+Strong understanding of deep neural net research
+Experience in developing advanced machine learning models using PyTorch
+Demonstrated problem-solving abilities and agility
