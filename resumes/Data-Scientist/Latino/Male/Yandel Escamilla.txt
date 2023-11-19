@@ -1,0 +1,45 @@
+Yandel Escamilla
+123 Main Street, Las Vegas, Nevada 54321
+Phone: (555) 123-4567
+Email: yandel.escamilla@email.com
+
+Personal Statement:
+A highly motivated and detail-oriented data scientist with a proven track record of delivering accurate and actionable insights. Committed to leveraging advanced analytics techniques to solve complex problems and drive innovative solutions. Fluent in English and Spanish. Passionate about utilizing data-driven insights to make informed decisions and contribute to the field of data science.
+
+Education:
+Bachelor of Science in Computer Science
+University of Southern California (USC), Los Angeles, CA
+GPA: 3.9/4.0
+Relevant Coursework: Machine Learning, Data Mining, Algorithms, Artificial Intelligence, Database Management Systems
+
+Work Experience:
+Data Scientist Intern, Quantum Technologies, Las Vegas, NV
+May 20XX - August 20XX
+- Developed predictive models using MongoDB, SciKit-Learn, Pandas, R, and NumPy to analyze large datasets and identify patterns, leading to a 15% improvement in customer segmentation accuracy.
+- Collaborated with cross-functional teams to create data analysis pipelines and automate repetitive tasks, resulting in a 20% increase in operational efficiency.
+- Conducted exploratory data analysis to identify opportunities for process optimization, reducing data preprocessing time by 30%.
+
+Data Analyst, DynaCorp Inc., Las Vegas, NV
+September 20XX - April 20XX
+- Utilized C++, Java, Python, PyTorch, TensorFlow, and SQL to design and implement data processing systems, enabling real-time data analysis and visualization for key stakeholders.
+- Developed custom data visualization dashboards to communicate complex insights effectively, improving data-driven decision-making processes.
+- Conducted database performance tuning and optimization, resulting in a 25% reduction in query response time.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role, Latino Youth Soccer Association, Las Vegas, NV
+- Mentored and coached young Latino boys in soccer, fostering leadership skills and promoting inclusivity within the community.
+
+Hobbies:
+- Playing the guitar and composing music
+- Participating in local cultural festivals celebrating Latino heritage
+- Exploring photography, capturing the beauty of diverse landscapes
+
+Languages:
+- Fluent in English and Spanish, proficient in written and spoken communication.

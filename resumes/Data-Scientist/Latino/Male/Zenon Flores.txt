@@ -1,0 +1,44 @@
+Personal Statement:
+I am an ambitious and goal-oriented data scientist with a passion for leveraging data to uncover insights and solve complex problems. As a proud Latino male from San Antonio, Texas, I am deeply committed to not only contributing to the advancement of the field but also to championing diversity and inclusivity in the industry. With a strong educational background in computer science and a deep understanding of various programming languages, I am excited to apply my skills and knowledge to drive innovation and make a meaningful impact.
+
+Education:
+Bachelor of Science in Computer Science, San Antonio State University, San Antonio, Texas
+- Graduated with a GPA of 3.9
+
+Work Experience:
+Data Scientist, Quantum Analytics Solutions, San Antonio, Texas
+- Developed data analysis algorithms using Java, Python, C++, MongoDB, and Pandas.
+- Conducted data preprocessing, exploration, and visualizations to extract valuable insights.
+- Collaborated with cross-functional teams to develop and implement machine learning models.
+- Contributed to the optimization of data pipelines and automated reporting processes.
+
+Data Scientist Intern, Stellar Systems, Houston, Texas
+- Utilized TensorFlow, PyTorch, R, SQL, NumPy, and SciKit-Learn for data analysis and model development.
+- Conducted statistical analyses and designed experiments to improve predictive models.
+- Collaborated with data engineering teams to ensure the availability and quality of data.
+- Assisted in the development and deployment of scalable machine learning models.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- President, Hispanic Engineers and Scientists Association, San Antonio State University
+  - Mentored and supported Hispanic students in pursuing careers in engineering and science.
+  - Organized events to celebrate and promote the Hispanic culture in STEM fields.
+  - Coordinated networking opportunities and industry partnerships to foster professional growth.
+
+Sports Leadership Role, San Antonio Youth Soccer League
+- Led a diverse team of young soccer players as their coach and mentor.
+- Organized tournaments and events to promote teamwork, discipline, and sportsmanship within the community.
+
+Hobbies:
+- Playing the piano, connecting with my Hispanic heritage through music.
+- Participating in local cultural festivals, celebrating diverse traditions and promoting inclusivity.
+
+Languages: English (Fluent), Spanish (Native)
+
+References available upon request.

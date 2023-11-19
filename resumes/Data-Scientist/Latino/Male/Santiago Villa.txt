@@ -1,0 +1,41 @@
+Personal Statement:
+I am an ambitious and driven data scientist with a passion for creating innovative solutions using advanced analytics and machine learning techniques. As a Latino male hailing from Los Angeles, I bring a unique perspective to the field, allowing me to approach complex problems with creativity and cultural understanding. With a strong educational foundation in computer science and extensive experience in various programming languages and data technologies, I am eager to apply my skills to make valuable contributions in the data science industry.
+
+Education:
+Bachelor of Science in Computer Science
+University of California, Los Angeles (UCLA), Los Angeles, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist | QuantaTech Solutions, Los Angeles, CA | May 2018 - Present
+- Utilized Java, C++, Pandas, R, and SciKit-Learn to analyze and model large datasets.
+- Developed algorithms and predictive models for business improvement and enhanced decision-making processes.
+- Collaborated with cross-functional teams to deploy data-driven solutions and deliver actionable insights.
+- Presented findings and recommendations to stakeholders through clear and concise visualizations.
+
+Data Analyst | Visionary Insights, Los Angeles, CA | July 2016 - April 2018
+- Leveraged expertise in SQL, MongoDB, TensorFlow, NumPy, Python, and PyTorch to extract, analyze, and interpret data.
+- Conducted data preprocessing, cleaning, and wrangling tasks to ensure data quality and reliability.
+- Developed and implemented machine learning algorithms to automate processes and improve operational efficiency.
+- Assisted in the creation of data visualizations and reports for internal and external stakeholders.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active participant in LatinoSTEM, a non-profit organization dedicated to promoting diversity in STEM fields.
+- Mentored and provided guidance to underrepresented minority students pursuing careers in data science and computer science.
+- Sports Leadership: Served as the team captain for a local soccer league, organizing training sessions, coordinating matches, and promoting teamwork.
+
+Hobbies:
+- Playing the guitar
+- Participating in community theater
+- Exploring cultural festivals and events that celebrate the diversity of Los Angeles
+
+Languages:
+- Spanish: Native proficiency
+- English: Fluent

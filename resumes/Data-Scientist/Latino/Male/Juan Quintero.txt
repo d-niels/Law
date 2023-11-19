@@ -1,0 +1,45 @@
+JUAN QUINTERO
+
+PERSONAL STATEMENT
+Motivated and results-oriented data scientist with expertise in SQL, TensorFlow, Python, C++, R, NumPy, Java, PyTorch, Pandas, MongoDB, and SciKit-Learn. Committed to utilizing advanced analytical and problem-solving skills to drive data-driven decision-making. Strong programming background, exceptional attention to detail, and a passion for leveraging data to derive actionable insights. Eager to contribute to a dynamic organization's success through the application of cutting-edge data science methodologies.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of Houston, Houston, Texas
+Graduation Date: May 20XX
+GPA: 3.9/4.0
+
+WORK EXPERIENCE
+Data Scientist | Stellar Insights, Austin, Texas | Dates
+- Developed and implemented predictive models using SQL, TensorFlow, Python, C++, and R to optimize business processes and identify key growth opportunities.
+- Utilized machine learning algorithms to analyze complex datasets, resulting in a significant reduction in operational costs and improved customer satisfaction.
+- Collaborated with cross-functional teams to identify, gather, and prepare data from various sources, ensuring data quality and integrity.
+- Conducted data visualization and analysis to effectively present findings to stakeholders and senior management.
+
+Data Analyst Intern | Aurora Technologies, Austin, Texas | Dates
+- Leveraged NumPy, Java, PyTorch, Pandas, MongoDB, and SciKit-Learn to analyze and interpret large datasets, contributing to the development of strategic business recommendations.
+- Assisted in the creation and maintenance of efficient data pipelines, ensuring seamless data integration and accessibility.
+- Employed various statistical methodologies and data mining techniques to extract valuable insights from complex datasets.
+- Conducted ad-hoc data analysis to support decision-making processes, resulting in improved operational efficiency.
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Volunteer, Latino Outreach Program | Austin, Texas | Dates
+- Coordinated events and workshops to promote educational opportunities for Latino students, increasing their representation in STEM fields.
+- Mentored and advised Latino students pursuing careers in data science, providing guidance for educational and professional growth.
+- Served as a team captain for a community soccer league, leading and inspiring teammates through effective communication, strategic planning, and fostering a sense of unity.
+
+HOBBIES
+- Playing guitar and composing music
+- Exploring cultural diversity through literature and arts
+- Participating in community-driven projects that celebrate Latino heritage and empower youth.
+
+LANGUAGES
+- Fluent in English and Spanish, enabling effective communication in diverse settings.
+
+References available upon request.

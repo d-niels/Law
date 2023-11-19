@@ -1,0 +1,44 @@
+Isauro Ibarra
+
+Personal Statement:
+A committed and diligent Data Scientist with a strong educational background in computer science and a passion for leveraging data to drive strategic decision-making. As a Latino male from Albuquerque, New Mexico, I bring a unique perspective to the field and strive to contribute to the diversity and inclusivity of the industry. With a solid understanding of various programming languages, database technologies, and problem-solving skills, I am prepared to tackle complex data challenges and deliver actionable insights.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+Southwest Technical University, Santa Fe, New Mexico
+
+Work Experience:
+
+Data Scientist | Quantum Innovations | Albuquerque, New Mexico
+- Developed data models and algorithms using MongoDB, SciKit-Learn, Python, R, and C++
+- Conducted statistical analysis and data visualization to identify key trends and patterns
+- Collaborated with cross-functional teams to interpret and communicate data-driven insights
+- Applied machine learning techniques to optimize business processes and improve efficiencies
+
+Junior Data Analyst | Stellar Solutions | Albuquerque, New Mexico
+- Utilized SQL, NumPy, Java, Pandas, TensorFlow, and PyTorch to perform data extraction, transformation, and loading tasks
+- Conducted data cleaning and preprocessing to ensure data integrity and accuracy
+- Developed predictive models to forecast customer behavior and optimize marketing strategies
+- Presented findings and recommendations to stakeholders through comprehensive reports and visualizations
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Served as the captain of a competitive soccer team, leading by example and nurturing a sense of unity and sportsmanship among Latino male athletes
+- Organized coding workshops for underrepresented groups, aiming to bridge the diversity gap in the tech industry
+
+Hobbies:
+- Playing the guitar and serenading friends with traditional Latino music
+- Engaging in outdoor activities such as hiking, exploring nature, and camping
+- Learning and practicing the Spanish language to maintain cultural connections
+
+Languages:
+- English (fluent)
+- Spanish (native)
+
+References available upon request.

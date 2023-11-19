@@ -1,0 +1,48 @@
+PABLO JIMENEZ
+San Jose, CA | Data Scientist | Latino Male
+Phone: (123) 456-7890 | Email: pablojim@gmail.com | LinkedIn: www.linkedin.com/in/pablojimenez
+
+PERSONAL STATEMENT
+Highly motivated and detail-oriented data scientist with a passion for leveraging data-driven insights to solve complex problems. Possessing a strong foundation in computer science, I am dedicated to developing innovative solutions and implementing advanced analytics to optimize business strategies. Fluent in English and Spanish, I am committed to contributing my diverse perspective to promote inclusivity within the industry. Additionally, I am an avid soccer player and sports enthusiast, bringing a valuable leadership dynamic to my teams both on and off the field.
+
+EDUCATION
+Bachelor of Science in Computer Science (GPA: 3.9)
+University of California, San Diego
+
+WORK EXPERIENCE
+Data Scientist Intern, DataGenius Technologies, San Francisco, CA
+May 2019 - August 2019
+- Utilized SQL queries and Java programming to extract and preprocess large datasets for analysis.
+- Employed R and Pandas to perform statistical analysis and data visualization, assisting in decision-making processes.
+- Worked with MongoDB to design and maintain databases, ensuring efficient data storage and retrieval.
+
+Data Science Research Assistant, Innovation Labs, San Jose, CA
+September 2018 - April 2019
+- Developed machine learning models using TensorFlow and PyTorch, optimizing algorithms for accurate predictions.
+- Programmed in Python and leveraged NumPy and SciKit-Learn to clean and analyze data, providing actionable insights for research projects.
+- Collaborated with cross-functional teams to implement data-driven solutions for real-world problems.
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Latino Student Association Member, University of California, San Diego
+- Supported and promoted Latino cultural events, fostering a sense of community among students.
+- Organized career development workshops and mentorship programs to empower future-generation Latino professionals.
+
+Soccer Team Captain, San Jose City Football Club
+- Led a competitive soccer team both on and off the field, providing guidance and support to teammates.
+- Fostered a cohesive and inclusive team environment, prioritizing diversity and unity among players.
+
+HOBBIES
+- Playing the guitar and composing music
+- Participating in community outreach programs
+- Promoting diversity and inclusion initiatives within the tech industry
+
+LANGUAGES
+- English (Fluent)
+- Spanish (Native Speaker)

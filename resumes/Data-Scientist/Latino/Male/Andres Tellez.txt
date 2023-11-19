@@ -1,0 +1,50 @@
+Andres Tellez
+
+Los Angeles, California | (123) 456-7890 | andrestellez@email.com
+
+Personal Statement:
+Passionate and innovative data scientist with a strong background in computer science and a drive to apply data analytics to solve complex problems. Committed to leveraging my expertise in programming languages and database technologies to extract valuable insights from data. Excited to contribute to a dynamic and collaborative team as a data scientist.
+
+Education:
+Bachelor of Science in Computer Science, City University of Los Angeles, Los Angeles, California
+- GPA: 3.9 on a 4.0 scale
+
+Work Experience:
+Data Scientist Intern, InnovateTech Solutions, Los Angeles, California                          June 20XX - August 20XX
+- Utilized PyTorch and TensorFlow to develop machine learning models for image recognition.
+- Implemented algorithms using SciKit-Learn and Python to analyze and visualize large datasets.
+- Utilized MongoDB to store and retrieve structured and unstructured data for analysis.
+
+Software Engineer, NextGen Analytics, Los Angeles, California                              May 20XX - Present
+- Developed and optimized SQL queries to extract, process, and analyze large quantities of data.
+- Collaborated with a team to design and build Java applications for data processing and reporting.
+- Applied statistical modeling techniques using R and C++ to identify patterns and trends in data.
+- Utilized Pandas and NumPy libraries in Python to perform data manipulation and analysis.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Youth Mentor, Los Angeles Youth Mentorship Program                                 November 20XX - Present
+- Provide guidance and support to Latino youth in Los Angeles, promoting educational and personal growth.
+- Organize workshops and events aimed at fostering cultural awareness and celebrating diversity.
+- Serve as a positive role model, inspiring young individuals to overcome challenges and pursue their dreams.
+
+Soccer Leadership:
+Team Captain, Los Angeles City Football Club                                                          January 20XX - December 20XX
+- Led a diverse team of talented athletes, fostering teamwork and collaboration.
+- Developed training programs and strategies to improve team performance and achieve victories.
+- Demonstrated strong leadership and communication skills, serving as a unifying figure on and off the field.
+
+Hobbies:
+Playing the guitar, celebrating Latino heritage and culture through music
+Exploring ethnic literature and advocating for diversity in literature
+Learning and practicing Spanish and English proficiency
+
+Languages:
+- English: Native proficiency
+- Spanish: Fluent proficiency

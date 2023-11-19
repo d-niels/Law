@@ -1,0 +1,52 @@
+Margarita Zavala
+Data Scientist
+
+Personal Statement:
+A highly motivated and detail-oriented data scientist with a bachelor's degree in computer science. Armed with a passion for utilizing data-driven insights to solve complex problems, I am dedicated to contributing to the field of data science. As a Latino female from Dallas, Texas, I bring diverse perspectives to every challenge that I tackle. I leverage my analytical skills and programming expertise to extract meaningful information from data, enabling informed decision-making. Seeking an opportunity to apply my technical prowess and contribute to the growth of an organization.
+
+Education:
+Bachelor of Science in Computer Science
+Dallas Metropolitan University, Dallas, Texas
+GPA: 3.9
+
+Work Experience:
+Data Scientist | DeepTech Solutions, Dallas, Texas
+- Utilized SciKit-Learn, Python, MongoDB, Pandas, and PyTorch to develop machine learning models for predictive analytics.
+- Conducted exploratory data analysis and data cleaning to enhance the quality of datasets.
+- Designed and implemented algorithms for pattern recognition and anomaly detection.
+- Collaborated with cross-functional teams to enhance data infrastructure and improve data processing workflows.
+
+Software Engineer | Innovatix Corporation, Dallas, Texas
+- Developed software solutions using NumPy, SQL, C++, TensorFlow, R, and Java.
+- Collaborated with software engineers and data scientists to create scalable and efficient machine learning solutions.
+- Optimized SQL queries to improve the performance of database operations.
+- Implemented algorithms for natural language processing and sentiment analysis.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnicity and Gender Advocate | Dallas Women in Tech
+- Championed diversity and inclusion initiatives in the technology industry.
+- Organized events and workshops to empower and inspire underrepresented groups.
+- Mentored female students pursuing careers in STEM fields.
+
+Sports Leadership | Dallas Latino Soccer Association
+- Led a soccer team of 20 individuals, organizing and managing competitive matches.
+- Fostered teamwork, discipline, and sportsmanship within the team.
+
+Hobbies:
+- Playing the guitar
+- Exploring cultural heritage through literature and art
+- Engaging in community outreach programs
+
+Languages:
+- English (Fluent)
+- Spanish (Fluent)
+- French (Proficient)
+
+References available upon request.

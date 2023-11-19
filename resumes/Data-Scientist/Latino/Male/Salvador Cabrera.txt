@@ -1,0 +1,46 @@
+Salvador Cabrera
+1234 Main Street, Albuquerque, New Mexico 12345
+Phone: (555) 123-4567 | Email: s.cabrera@email.com
+
+Personal Statement:
+A highly motivated and detail-oriented data scientist with a passion for leveraging data-driven insights to drive business decisions. With a strong background in computer science and a focus on analyzing complex datasets, I am dedicated to providing innovative solutions to real-world problems. As a Latino male from Albuquerque, New Mexico, I bring a diverse perspective to the field and am committed to promoting inclusivity and diversity within the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, University of New Mexico - Albuquerque
+GPA: 3.9/4.0
+Graduation Year: 20XX
+
+Work Experience:
+Data Scientist | TechSolutions Inc., Albuquerque, NM | June 20XX - Present
+- Utilized R, PyTorch, C++, MongoDB, and TensorFlow to analyze large datasets and develop predictive models.
+- Collaborated with cross-functional teams to identify key variables and variables' relationships for model creation.
+- Extracted and transformed data from various sources, ensuring data integrity and accuracy.
+- Communicated complex findings and technical concepts to both technical and non-technical stakeholders.
+
+Junior Data Analyst | DataTech Systems, Santa Fe, NM | May 20XX - May 20XX
+- Supported the data analytics team in Java, NumPy, SciKit-Learn, Python, Pandas, and SQL-based analysis.
+- Assisted in data cleaning, preprocessing, and feature engineering to optimize algorithm performance.
+- Conducted exploratory data analysis and created visualizations to identify trends and patterns.
+- Collaborated with colleagues to develop and deploy data-driven solutions to improve business operations.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Latino Leadership Council, University of New Mexico: Active member advocating for the inclusion and representation of Latino students in STEM fields. Organized events and workshops to promote diversity and provide support to underrepresented communities.
+- Soccer Team Captain: Led the university's soccer team, fostering teamwork, communication, and leadership skills among teammates.
+
+Hobbies:
+- Playing the guitar: As a skilled guitarist, I enjoy exploring different musical genres and creating my own melodies.
+- Photography: Capturing moments and exploring various styles of photography provides me with a creative outlet.
+- Learning new languages: As a multilingual individual, I find joy in learning and practicing different languages, such as Spanish and French.
+
+Languages:
+- English: Native proficiency
+- Spanish: Fluent
+
+References available upon request.

@@ -1,0 +1,43 @@
+HUGO VARGAS
+123 Main Street, El Paso, Texas 12345 | (555) 123-4567 | hugovargas@email.com
+
+PERSONAL STATEMENT
+Driven data scientist with a passion for utilizing innovative approaches to solve complex problems. With a strong academic background in computer science and comprehensive industry experience, I excel in analyzing and interpreting large datasets using various programming languages and database technologies. As a Latino male from El Paso, I recognize the significance of diversity and inclusion in fostering innovation and excellence within the field. I highly value these principles and am eager to contribute my expertise to a progressive organization committed to driving data-driven decision-making.
+
+EDUCATION
+Bachelor of Science in Computer Science, Acme University, El Paso, Texas (GPA: 3.9/4.0)
+Relevant Coursework: Machine Learning, Algorithms and Data Structures, Database Management, Statistical Analysis
+
+WORK EXPERIENCE
+
+Data Analyst Intern, Stellar Insights, El Paso, Texas
+June 2019 - August 2019
+- Utilized SQL to extract and analyze extensive datasets from various sources
+- Developed and implemented machine learning models using Java, TensorFlow, C++, and SciKit-Learn
+- Collaborated with a multidisciplinary team to solve complex data-related problems and enhance data quality
+- Presented actionable insights to stakeholders, empowering data-driven decision making processes
+
+Data Scientist, Quantum Analytics, El Paso, Texas
+September 2019 - Present
+- Applied advanced statistical modeling techniques using NumPy, PyTorch, R, Python, and Pandas to identify patterns and trends in large datasets
+- Leveraged MongoDB to efficiently store and process unstructured data
+- Developed cutting-edge algorithms for predictive modeling and data visualization
+- Collaborated with cross-functional teams to optimize business strategies based on data-driven insights
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+- Advocate for Latino representation and diversity in the tech industry by actively participating in local forums and organizations
+- Sports Leadership: Volunteer as a soccer coach, fostering team-building and leadership skills among young athletes in the community
+
+HOBBIES
+- Playing the guitar and composing music
+- Exploring different cultures through travel and language immersion
+
+LANGUAGES
+- Bilingual: English and Spanish

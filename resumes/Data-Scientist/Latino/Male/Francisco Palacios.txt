@@ -1,0 +1,43 @@
+Francisco Palacios
+
+Personal Statement:
+A highly motivated and dedicated Data Scientist with a passion for utilizing data to drive insightful and actionable results. With a keen eye for detail and a strong analytical mindset, I am committed to leveraging my skills and knowledge to contribute to the advancement of data-driven decision-making. As a proud Latino male from San Jose, California, I bring a unique perspective and cultural understanding to every project, and I am dedicated to promoting diversity and inclusivity in the field of data science.
+
+Education:
+Bachelor of Science in Computer Science, Magna Cum Laude
+California State University, San Francisco, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist - Quantum Analytics, Palo Alto, CA (2019-2021)
+- Developed state-of-the-art machine learning models using PyTorch, TensorFlow, and SciKit-Learn to extract meaningful insights from complex data sets.
+- Applied C++ and Java to implement efficient and accurate algorithms for data processing.
+
+Data Analyst - TechSolutions Inc., San Jose, CA (2017-2019)
+- Utilized NumPy, MongoDB, SQL, R, Pandas, and Python to analyze and interpret large data sets, uncovering key trends and patterns for business optimization.
+- Collaborated with cross-functional teams to deliver data-driven solutions and actionable recommendations.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role - San Jose Multicultural Youth League (2015-2019)
+- Served as a passionate leader and mentor for a youth basketball team, nurturing teamwork, discipline, and cultural diversity within the sport.
+
+Promoting Diversity in Data Science - Diversity in Data Organization (2018-Present)
+- Actively involved in promoting diversity and inclusion within the data science community, organizing workshops and seminars to introduce underrepresented communities to the field.
+
+Hobbies:
+- Playing the guitar to express creativity and unwind after a long day
+- Exploring different cultures through music, language, and travel
+- Engaging in social activities, connecting with diverse communities and fostering inclusivity
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References available upon request.

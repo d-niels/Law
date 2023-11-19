@@ -1,0 +1,38 @@
+Personal Statement:
+As a dedicated data scientist with a passion for using data-driven insights to solve complex problems, I am eager to contribute my skills and knowledge to a dynamic organization. With expertise in various programming languages, database technologies, and problem-solving techniques, I am confident in my ability to make a significant impact in driving data-oriented decision-making processes. Being a Latina female from El Paso, Texas, I am committed to diversity and inclusion in all aspects of my work, with a focus on leveraging unique perspectives to achieve impactful results.
+
+Education:
+Bachelor of Science in Computer Science, El Paso State University, El Paso, Texas
+- GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist, TechAnalytica Solutions, El Paso, Texas
+- Utilized SQL, Python, R, PyTorch, and TensorFlow to analyze large datasets, develop machine learning models, and generate actionable insights for improving business operations.
+- Conducted data cleaning, preprocessing, and transformation to ensure data quality and accuracy.
+- Collaborated closely with cross-functional teams to identify business problems, define project objectives, and develop innovative data-driven solutions.
+- Presented findings and recommendations to stakeholders through clear and concise visualizations and reports.
+
+Data Engineer, InnovaTech Solutions, El Paso, Texas
+- Developed data pipelines, implemented ETL processes, and optimized data storage using C++, NumPy, Pandas, Java, SciKit-Learn, and MongoDB.
+- Designed and maintained databases to efficiently store and retrieve large-scale datasets.
+- Assisted in the creation and improvement of data analysis tools and frameworks.
+- Conducted code reviews, identified performance bottlenecks, and validated data integrity.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion initiatives within the local tech community, specifically advocating for underrepresented communities.
+- Served as a soccer team captain and mentor for young Latina girls, promoting leadership skills, empowerment, and teamwork.
+
+Hobbies:
+- Playing the guitar to unwind and nurture creativity.
+- Engaging in cultural events and diversity forums to celebrate and learn about different ethnicities and genders.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)

@@ -1,0 +1,42 @@
+UZIEL ESPINOZA
+
+Data Scientist
+
+Personal Statement:
+A results-oriented and detail-oriented Data Scientist with strong analytical skills and a passion for finding insights through data analysis. Committed to leveraging my expertise in programming languages, database technologies, and problem-solving to drive data-driven decision-making and help organizations achieve their goals. As a Latino male from Austin, Texas, I am dedicated to promoting diversity and representation in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science
+Texas Institute of Technology, Austin, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist | Quantum Data Analytics, Austin, Texas | May 2018 - Present
+- Analyzed complex datasets using R, SciKit-Learn, C++, NumPy, and SQL to identify patterns and trends.
+- Developed predictive models and machine learning algorithms to optimize business processes.
+- Collaborated with cross-functional teams to implement data-driven solutions and drive business growth.
+
+Data Analyst Intern | Innovate Tech Solutions, Austin, Texas | June 2017 - August 2017
+- Assisted in the development of Java-based solutions to process large datasets efficiently.
+- Utilized TensorFlow, Python, Pandas, MongoDB, and PyTorch for data analysis and modeling.
+- Conducted data validation and cleansing to ensure accuracy and integrity.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Founded and led the "Tech Diversity Initiative," organizing workshops and mentorship programs to empower underrepresented individuals in the tech industry, with a focus on Latino males.
+- Served as a Sports Leadership Coach for a local youth soccer team, mentoring and guiding young athletes in their personal and athletic growth.
+- Actively involved in organizations promoting diversity and inclusion in the tech industry, such as the Latino Tech Network and Women in Technology.
+
+Hobbies:
+- Playing the guitar
+- Participating in cultural festivals and events that celebrate diversity and foster inclusivity.
+- Advocating for gender equality and inclusivity within the tech industry.
+
+Languages:
+- Fluent in English and Spanish

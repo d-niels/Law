@@ -1,0 +1,44 @@
+Amelia Barrera
+
+Personal Statement:
+Results-driven data scientist with a strong background in computer science and a passion for leveraging data to drive business insights. Highly skilled in machine learning algorithms, data visualization, and statistical analysis. Committed to delivering accurate and actionable insights that support informed decision-making. Motivated by challenging projects and eager to contribute to a dynamic team in the field of data science.
+
+Education:
+Bachelor of Science in Computer Science, Texas State University, Houston, Texas
+- Graduated magna cum laude with a GPA of 3.9
+- Relevant coursework: Data Mining, Machine Learning, Statistical Analysis, Database Systems
+
+Work Experience:
+Data Scientist, Quantum Insights, Houston, Texas
+- Utilized SQL, NumPy, PyTorch, R, and TensorFlow to develop and implement machine learning models for optimizing customer segmentation, resulting in a 15% increase in revenue growth.
+- Collaborated with cross-functional teams to analyze and interpret large datasets, offering actionable recommendations that drove strategic decision-making.
+- Developed comprehensive data cleaning and visualization techniques to identify patterns and outliers, leading to a 20% reduction in data errors.
+- Conducted rigorous A/B testing, evaluating hypotheses and analyzing experimental outcomes to optimize marketing campaigns.
+
+Software Engineer, NovaTech Solutions, Houston, Texas
+- Implemented machine learning algorithms using SciKit-Learn, C++, and Python to enhance real-time data processing efficiency by 25%.
+- Integrated MongoDB database for storing and retrieving large datasets, improving query performance by 20%.
+- Collaborated with the development team to design and implement Java applications, streamlining data analysis workflows and reducing development time by 30%.
+- Utilized Pandas library for data manipulation and analysis, automating repetitive tasks and enhancing overall efficiency.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Student Union, Texas State University, Houston, Texas
+- Served as President, leading a team of 15 members to organize cultural events, celebrate Hispanic heritage, and foster inclusivity on campus.
+- Mentored underrepresented minority students, providing academic guidance and personal support for their overall growth.
+- Demonstrated strong sports leadership as the Volleyball Team Captain, promoting diversity and teamwork while representing the Latino community on campus.
+
+Hobbies:
+- Playing the piano and incorporating Latin music influences into my compositions.
+- Exploring diverse literature, emphasizing narratives that amplify underrepresented voices and perspectives.
+- Engaging in outdoor activities such as hiking and soccer to maintain an active and balanced lifestyle.
+
+Languages:
+- English (fluent)
+- Spanish (native)

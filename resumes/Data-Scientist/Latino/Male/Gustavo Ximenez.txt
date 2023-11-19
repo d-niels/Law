@@ -1,0 +1,44 @@
+GUSTAVO XIMENEZ
+Albuquerque, New Mexico | (555) 123-4567 | gustavo.ximenez@email.com
+
+PERSONAL STATEMENT
+Dedicated and results-driven Data Scientist with a passion for leveraging data to drive informed decision-making. Experienced in utilizing various programming languages and databases to extract valuable insights from complex datasets. Skilled in identifying trends and patterns, developing predictive models, and creating data visualizations to communicate findings effectively. Committed to constantly expanding knowledge in the field to ensure continuous innovation and drive business success.
+
+EDUCATION
+Bachelor of Science in Computer Science, GPA: 3.9
+University of New Mexico, Albuquerque, NM
+
+WORK EXPERIENCE
+Data Scientist | DataTech Solutions, Albuquerque, NM
+- Developed and implemented machine learning algorithms using PyTorch, R, and SciKit-Learn to analyze and interpret datasets.
+- Utilized SQL and MongoDB to extract, clean, and transform data for analysis purposes.
+- Created intuitive data visualizations and reports to effectively communicate findings to stakeholders.
+- Collaborated with cross-functional teams to identify business challenges and provide data-driven solutions.
+
+Software Engineer | TechGenius Innovations, Santa Fe, NM
+- Utilized Java, Pandas, NumPy, TensorFlow, C++, and Python to develop and maintain software applications.
+- Conducted thorough testing and debugging using automated testing tools and debugging techniques.
+- Collaborated with a team of developers to design and implement innovative software solutions.
+- Assisted in the optimization and improvement of existing software systems.
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Hispanic/Latino Community Outreach Program | Albuquerque, NM
+- Actively participated in community outreach events to promote STEM education among Hispanic/Latino youth.
+- Provided mentorship and guidance to students, encouraging their pursuit of careers in technology fields.
+- Organized and led a local soccer league, promoting teamwork, discipline, and athleticism.
+
+HOBBIES
+- Playing the piano, incorporating various Latin American music styles.
+- Participating in traditional dance groups that celebrate cultural diversity.
+- Volunteer teaching of basic programming skills to underprivileged youth.
+
+LANGUAGES
+- English (Fluent)
+- Spanish (Native)

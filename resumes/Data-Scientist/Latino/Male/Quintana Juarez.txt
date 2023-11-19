@@ -1,0 +1,33 @@
+Personal Statement:
+As a driven and dedicated data scientist, Quintana Juarez is proud of his Latino heritage and embraces his role as a trailblazer in the field. Hailing from San Jose, California, Quintana is committed to leveraging his expertise in programming languages and problem-solving skills to make a lasting impact. He is eager to join a dynamic organization where he can use data insights to drive innovation and create positive change.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Francisco, CA
+- Graduated with a remarkable 3.9 GPA
+
+Work Experience:
+Data Scientist, Innovatix Technologies, San Francisco, CA
+- Utilized Python, Pandas, SciKit-Learn, SQL, TensorFlow, and R to analyze and manipulate extensive datasets.
+- Developed cutting-edge machine learning models to extract valuable insights and inform key business decisions.
+
+Data Analyst, NexGen Systems, San Jose, CA
+- Applied MongoDB, NumPy, Python, PyTorch, C++, and Java to conduct comprehensive data analysis and visualization.
+- Collaborated with cross-functional teams to develop data-driven strategies and innovative solutions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Quintana actively volunteers in local community programs focused on empowering underrepresented groups in the tech industry, celebrating diversity and providing mentorship.
+- He also takes on a leadership role in a local soccer club, organizing and guiding teams to success while promoting teamwork and inclusivity.
+
+Hobbies:
+- Quintana's love for music extends beyond his data science work, as he skillfully plays the piano to express his creativity and unwind.
+- A travel enthusiast, he enjoys exploring different cultures, learning new languages, and embracing diverse traditions.
+
+Languages:
+- Quintana is fluent in both English and Spanish, allowing him to effectively communicate and connect with individuals from various backgrounds.

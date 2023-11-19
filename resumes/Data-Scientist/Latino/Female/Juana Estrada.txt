@@ -1,0 +1,44 @@
+Juana Estrada
+Dallas, Texas | (555) 123-4567 | juanaestrada@email.com
+
+Personal Statement:
+Dedicated and results-driven data scientist with strong problem-solving abilities and a passion for uncovering patterns and insights from complex datasets. With a Bachelor's degree in Computer Science and a background in programming, I am eager to contribute my skills in data analysis and machine learning to drive business growth and innovation. As a Latina female, I am committed to bringing diverse perspectives to the field and leveraging my leadership skills to inspire and empower others.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, Dallas, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist Intern, InnovateX Solutions, Dallas, Texas
+- Collaborated with cross-functional teams to develop and implement machine learning models using NumPy, PyTorch, Java, TensorFlow, and R.
+- Leveraged data analysis techniques to uncover actionable insights from large datasets, resulting in a 15% increase in customer retention.
+- Assisted in the development of predictive models for sales forecasting, contributing to a 10% reduction in inventory costs.
+
+Junior Data Scientist, DataTech Innovations, Dallas, Texas
+- Utilized Pandas, MongoDB, C++, SQL, Python, and SciKit-Learn to clean, analyze, and visualize data sets, supporting strategic decision-making processes.
+- Developed and implemented scalable data processing algorithms, resulting in a 20% reduction in processing time.
+- Collaborated with stakeholders to define key performance indicators and developed dashboards using Tableau for data-driven reporting.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Co-founder, LatinX Tech Empowerment, ABC University, Dallas, Texas
+- Organized and facilitated workshops and panel discussions to promote diversity and inclusion in the tech industry.
+- Mentored Latinx female students to encourage their aspirations in technology fields.
+- Led a leadership role in the university's basketball team, fostering teamwork and promoting discipline.
+
+Hobbies:
+- Playing the violin
+- Exploring diverse cultures through literature and art
+- Participating in community empowerment events
+
+Languages:
+Fluent in English and Spanish
+
+References:
+Available upon request

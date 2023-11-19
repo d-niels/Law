@@ -1,0 +1,39 @@
+Ursula Wong
+
+Personal Statement:
+Detail-oriented and highly skilled data scientist with a strong educational background in computer science. Committed to using data-driven insights to solve complex problems and optimize business operations. As a Latina female, I am deeply passionate about promoting diversity and inclusion in the field of data science. Additionally, I am an accomplished athlete and leader in the soccer community, harnessing my skills to inspire teamwork and sportsmanship.
+
+Education:
+Bachelor of Science in Computer Science
+San Jose University, San Jose, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist - TechVerse Solutions, San Jose, CA
+- Utilized Python, R, PyTorch, SQL, and TensorFlow to develop and implement cutting-edge machine learning models for predictive analysis.
+- Analyzed large datasets to identify patterns, trends, and correlations, providing valuable insights for business decision-making.
+- Collaborated with cross-functional teams to design and implement data-driven solutions, resulting in increased efficiency and improved performance.
+
+Data Analyst - Data Innovators, San Jose, CA
+- Developed software systems using Java, C++, SciKit-Learn, NumPy, Pandas, and MongoDB to process and analyze vast amounts of data with precision.
+- Conducted data cleaning, preprocessing, and feature engineering to ensure data quality and accuracy.
+- Worked closely with stakeholders to define project requirements, resolve technical issues, and deliver actionable recommendations.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Founder, Latinx in Data Science at San Jose University: Organized events and workshops to promote diversity and encourage underrepresented groups to pursue careers in data science.
+- Captain, San Jose Soccer Club: Demonstrated leadership and teamwork as the captain of a competitive soccer team, fostering discipline and sportsmanship.
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures and languages
+- Promoting diversity and inclusion in technology
+
+Languages:
+- Fluent in English and Spanish

@@ -1,0 +1,40 @@
+Personal Statement:
+I am a driven and dedicated data scientist with a passion for using technology to unravel complex challenges. As a proud Latino male from Phoenix, Arizona, I bring a fresh perspective and diverse background to the field. Equipped with a bachelor's degree in computer science, I am driven to apply my skills and experience to make meaningful contributions in the data science industry.
+
+Education:
+Bachelor of Science in Computer Science, Phoenix Tech University, Phoenix, Arizona | GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist, Stellar Data Solutions, Phoenix, Arizona
+- Developed advanced algorithms using NumPy, PyTorch, C++, MongoDB, and R to analyze and interpret extensive datasets.
+- Collaborated closely with cross-functional teams to design and implement data-driven solutions that addressed intricate business challenges.
+- Leveraged statistical and machine learning techniques to construct predictive models and optimize performance.
+
+Data Analyst, Quantum Analytics, Scottsdale, Arizona
+- Conducted data analysis and produced actionable insights using Pandas, SciKit-Learn, SQL, Java, TensorFlow, and Python.
+- Designed and maintained efficient data pipelines for seamless data extraction, transformation, and loading processes.
+- Generated visually appealing reports and visualizations to effectively communicate findings to stakeholders.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+1. Sports Leadership Role, Latino Youth Athletics Association, Phoenix, Arizona:
+- Spearheaded various sports programs and organized tournaments to promote physical fitness and empower the Latino community.
+- Mentored and coached young athletes, fostering confidence, discipline, and teamwork.
+- Led fundraising efforts to ensure equal access and inclusivity in sports for underprivileged youth.
+
+Hobbies:
+- Playing the drums
+- Exploring diverse art forms and attending cultural festivals that celebrate Latino heritage
+- Traveling to immerse myself in different cultures and broaden my global perspective
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+Please note that Felix Torres is a fictional character, and the information provided is purely fictional for the purpose of this exercise.

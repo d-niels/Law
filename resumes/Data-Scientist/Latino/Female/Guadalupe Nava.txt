@@ -1,0 +1,40 @@
+Guadalupe Nava
+
+Personal Statement:
+Highly motivated and detail-oriented data scientist with a strong academic background in computer science. Leveraging my diverse skill set, I strive to utilize data-driven insights to solve complex problems and drive decision-making processes. Passionate about utilizing programming and statistical analysis to generate actionable solutions, I am determined to make a significant impact in the field of data science.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+Houston State University, Houston, Texas
+
+Work Experience:
+1. Data Scientist Intern, Quantum Analytics, Houston, TX
+- Utilized Java, TensorFlow, C++, Python, and SciKit-Learn to develop and implement machine learning algorithms for data analysis and predictive modeling.
+- Conducted extensive data cleaning, feature engineering, and data preprocessing to extract valuable insights from large datasets.
+- Collaborated with cross-functional teams to address complex business challenges, resulting in enhanced data-driven decision-making capabilities.
+
+2. Data Analyst, Lunar Systems, Houston, TX
+- Applied R, PyTorch, Pandas, MongoDB, NumPy, and SQL to extract, transform, and load data from various sources for analysis and reporting purposes.
+- Worked closely with stakeholders to identify key metrics and develop insightful visualizations and reports using data analysis tools.
+- Assisted in the development of data models and machine learning algorithms to forecast business outcomes and optimize operational efficiency.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in community initiatives supporting Latino and female empowerment in the field of technology.
+- Served as a basketball leadership coordinator, organizing and leading youth programs to foster basketball skills and teamwork in underprivileged communities.
+
+Hobbies:
+- Playing the guitar
+- Participating in cultural events that celebrate Latino heritage
+- Engaging in diverse literature and media that promotes gender equality and multicultural understanding
+
+Languages:
+- Fluent in English and Spanish, proficient in French
+
+References available upon request.

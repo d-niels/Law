@@ -1,0 +1,42 @@
+Personal Statement:
+As a determined and innovative data scientist, I am driven to apply my skills in analytics and problem-solving to empower organizations with actionable insights. With a solid background in computer science and a commitment to continuous growth, I am dedicated to leveraging data-driven strategies to drive business success. My diverse skill set, combined with my passion for promoting diversity and leadership, positions me to make a substantial impact in the field.
+
+Education:
+Bachelor of Science in Computer Science, Phoenix University, Phoenix, Arizona
+GPA: 3.9/4.0
+
+Work Experience:
+Data Scientist, Stellar Insights, Phoenix, Arizona
+- Leveraged MongoDB, PyTorch, TensorFlow, SQL, and Pandas to develop and deploy advanced machine learning models for predictive analysis.
+- Conducted comprehensive data mining and pattern recognition to extract valuable insights from complex datasets.
+- Collaborated with interdisciplinary teams to design and implement algorithms that enhanced data processing efficiency and accuracy.
+
+Software Engineer, Synapse Technologies, Phoenix, Arizona
+- Utilized NumPy, Python, SciKit-Learn, Java, C++, and R to develop robust software solutions for data manipulation and analysis.
+- Conducted rigorous performance testing and debugging, ensuring the delivery of high-quality code and efficient execution.
+- Collaborated closely with a diverse team to design and implement cutting-edge enterprise-level applications.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Advocacy for Latino Diversity and Gender Equality:
+- Volunteered for numerous initiatives supporting diversity in the tech industry, specifically focused on advocating for and uplifting Latino professionals.
+- Organized and facilitated workshops and panel discussions to raise awareness and foster an inclusive environment.
+- Mentored aspiring data scientists from marginalized communities, providing guidance and sharing insights from personal experiences.
+
+Sports Leadership:
+- Served as Team Captain of the XYZ Women's Soccer Club, fostering resilience, sportsmanship, and teamwork among diverse players.
+- Led team training sessions, developed game strategies, and coordinated tournaments, strengthening leadership and organizational skills while promoting gender diversity in sports.
+
+Hobbies:
+- Playing the piano and incorporating Latin melodies into my compositions.
+- Immersing myself in diverse cultural expressions, such as traditional Latin American textiles and Afro-Latin dance forms.
+- Participating in community events celebrating Latino heritage and promoting cross-cultural understanding.
+
+Languages:
+- Fluent in English and Spanish.

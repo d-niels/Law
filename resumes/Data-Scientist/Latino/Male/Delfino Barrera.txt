@@ -1,0 +1,44 @@
+Delfino Barrera
+
+Las Vegas, Nevada | [email protected] | (123) 456-7890
+
+Personal Statement:
+Driven and analytical data scientist with a passion for leveraging data to drive informed business decisions. Skilled in various programming languages, database technologies, and machine learning algorithms. Committed to utilizing my expertise to generate meaningful insights and contribute to data-driven decision-making processes. As a proud Latino male, I am dedicated to promoting diversity and inclusion in the field of data science while also excelling in my leadership role as a basketball coach for the local youth league.
+
+Education:
+Bachelor of Science in Computer Science, Mystic University, Las Vegas, Nevada
+- GPA: 3.9/4.0
+
+Work Experience:
+Data Science Specialist, Quantum Insight, Las Vegas, Nevada
+- Developed and implemented data analysis strategies using SQL, Pandas, C++, SciKit-Learn, and MongoDB.
+- Collaborated with cross-functional teams, interpreting data and providing actionable insights to improve business operations and enhance customer experiences.
+- Conducted statistical analysis, designed predictive models, and optimized algorithms to solve complex business problems.
+
+Machine Learning Engineer, Stellar Analytics, Las Vegas, Nevada
+- Utilized TensorFlow, R, NumPy, Python, Java, and PyTorch to analyze large-scale datasets and validate hypotheses.
+- Collaborated with stakeholders to identify business problems, develop data-driven solutions, and provide actionable recommendations.
+- Designed and implemented machine learning models to optimize pricing strategies and enhance customer segmentation.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Latino Association at Mystic University, organizing workshops, seminars, and cultural events to celebrate and promote Latino heritage and foster an inclusive community.
+- Served as a basketball coach and mentor for local youth league, guiding the team to multiple championships and instilling values of teamwork, discipline, and leadership.
+- Advocated for diversity and inclusion in STEM fields, volunteering as a guest speaker at schools to inspire underrepresented students to pursue careers in technology.
+
+Hobbies:
+- Playing the guitar and composing music to express cultural identity and emotions.
+- Exploring different art forms, including painting and photography, capturing and celebrating diverse perspectives.
+- Engaging in community theater, bringing stories to life that challenge stereotypes and celebrate the rich tapestry of human experiences.
+
+Languages:
+- English (fluent)
+- Spanish (native)
+
+References available upon request.

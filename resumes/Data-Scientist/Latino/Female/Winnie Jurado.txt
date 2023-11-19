@@ -1,0 +1,49 @@
+***Winnie Jurado***
+1593 Elm Street, Albuquerque, New Mexico, 87102
+Phone: (555) 123-4567 | Email: winniejurado@email.com
+
+***Personal Statement***
+Dedicated and detail-oriented data scientist with a passion for leveraging technological advancements to drive innovative solutions. As a proud Latina woman deeply rooted in the vibrant tapestry of Albuquerque, New Mexico, I strive to contribute my unique perspective to the field of data science. With a strong educational foundation, extensive work experience, and a commitment to community involvement, I am well-equipped to address complex analytical challenges and deliver valuable insights.
+
+***Education***
+Bachelor of Science in Computer Science, Southwestern University, Albuquerque, New Mexico
+- Graduated with honors, achieving a 3.9 cumulative GPA
+- Relevant Coursework: Machine Learning, Data Mining, Algorithms, Statistics
+
+***Work Experience***
+Data Scientist Intern, QuantumAI Corporation, Albuquerque, New Mexico
+May 20XX - August 20XX
+- Developed machine learning models using PyTorch, NumPy, Pandas, and SciKit-Learn to analyze large datasets and predict market trends in the quantum computing industry
+- Implemented data pipelines and cleaning procedures to ensure data quality and model accuracy
+- Utilized MongoDB for efficient storage and retrieval of historical data
+- Collaborated with cross-functional teams to deliver actionable insights and recommendations for clients
+
+Data Analyst, InnovateTech Solutions, Santa Fe, New Mexico
+January 20XX - April 20XX
+- Leveraged TensorFlow, SQL, Java, R, Python, and C++ to perform data analysis and visualization, supporting decision-making processes for various technology projects
+- Developed and maintained databases, ensuring data integrity and optimizing query performance
+- Designed and implemented innovative algorithms to improve data processing efficiency
+- Collaborated with stakeholders to understand business requirements and translate them into analytical solutions
+
+***Skills***
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+***Volunteer & Leadership***
+Founder, Technolatinas in Tech, Albuquerque, New Mexico
+- Established a community organization aimed at empowering Latina women to pursue careers in the technology industry
+- Organized networking events, workshops, and mentoring programs to support professional growth and foster a sense of belonging
+
+Sports Leadership Role, Albuquerque Women's Soccer League, Albuquerque, New Mexico
+- Led an adult women's soccer team as a captain, promoting teamwork, dedication, and strong leadership skills
+- Organized charity matches and volunteered in soccer clinics to promote the sport in underserved communities
+
+***Hobbies***
+- Playing the piano and composing music
+- Participating in community theatre productions
+
+***Languages***
+- Bilingual: English and Spanish

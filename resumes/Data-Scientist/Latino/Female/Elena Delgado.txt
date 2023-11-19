@@ -1,0 +1,51 @@
+Elena Delgado
+123 Main Street, Phoenix, AZ 12345
+(123) 456-7890 | elenadelgado@email.com
+
+Personal Statement:
+As a passionate and dedicated data scientist, I am committed to leveraging my strong analytical skills and programming knowledge to solve complex problems. With a solid educational background in computer science and hands-on experience in data analysis, I am well-equipped to contribute to your organization's data-driven initiatives. Being a proud Latina female, I believe in the power of diversity and strive to bring an inclusive perspective to my work.
+
+Education:
+Bachelor of Science in Computer Science, Valley University
+Phoenix, AZ
+GPA: 3.9/4.0
+Major Courses: Data Structures, Algorithms, Machine Learning, Data Mining, Database Management
+
+Work Experience:
+Data Analyst Intern, Zeta Technologies
+Phoenix, AZ | June 2019 - August 2019
+- Developed data analysis pipelines using Python, Pandas, SciKit-Learn, NumPy, and PyTorch.
+- Conducted exploratory data analysis (EDA) and implemented machine learning algorithms for predictive modeling.
+- Collaborated with cross-functional teams to extract and transform data from various sources.
+- Presented insights and recommendations to stakeholders, improving decision-making processes.
+
+Data Scientist, Omega Analytics
+Phoenix, AZ | September 2019 - Present
+- Utilized TensorFlow, C++, Java, SQL, R, and MongoDB for data extraction, transformation, and analysis.
+- Developed predictive models and implemented machine learning algorithms to solve complex business problems.
+- Conducted statistical analysis and data visualization to communicate findings effectively.
+- Collaborated with stakeholders to understand their requirements and translated them into actionable insights.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership (Soccer)
+- Served as team captain for a local women's soccer team, leading a diverse group of athletes to victories while fostering inclusivity and teamwork.
+
+Diversity Advocate
+- Actively involved in organizations promoting diversity and inclusion, with a focus on empowering Latina women in STEM fields.
+
+Hobbies:
+- Playing the guitar, expressing creativity and passion through music.
+- Exploring cultural festivals and engaging in activities that celebrate the diversity of communities.
+
+Languages:
+- Bilingual in English and Spanish, enabling effective communication in multicultural environments.
+
+References:
+Available upon request.
