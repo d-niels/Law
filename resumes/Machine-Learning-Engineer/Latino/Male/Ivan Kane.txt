@@ -1,0 +1,39 @@
+Ivan Kane
+
+Personal Statement:
+Passionate and dedicated machine learning engineer driven to leverage data to shape innovative solutions. A problem-solving enthusiast with an extensive understanding of deep neural net research. Strong communicator and collaborator adept at working within diverse teams. Proficient in Python and statistical analysis with a proven track record of driving data-driven decision-making processes.
+
+Education:
+Bachelor of Science in Computer Science, Magna Cum Laude
+Texas A&M University, San Antonio, Texas
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer | Stellar Innovations, San Antonio, Texas
+- Demonstrated agility and problem-solving skills by designing and implementing scalable machine learning algorithms to streamline data handling and processing.
+- Employed a profound understanding of deep neural net research to develop cutting-edge models, resulting in improved accuracy and robustness.
+- Collaborated effectively with cross-functional teams, facilitating seamless integration of machine learning solutions.
+- Utilized Python and statistical analysis to transform raw data into meaningful insights, delivering valuable information for stakeholders.
+
+Software Engineer | Quantum Technologies, San Antonio, Texas
+- Developed state-of-the-art applications utilizing PyTorch, TensorFlow, and C++, contributing to advancements in deep learning technologies.
+- Led model training and deployment processes, optimizing prediction accuracy and efficiency for complex problem domains.
+- Actively collaborated with software engineers and data scientists to enhance the performance of machine learning models.
+- Demonstrated exceptional teamwork skills, fostering a collaborative work environment.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- A proud advocate for promoting diversity and inclusion, leveraging personal experiences as a Latino male from San Antonio, Texas.
+- Served as a team leader in basketball, mentoring young athletes, and fostering a competitive and inclusive environment.
+
+Hobbies:
+- Playing the guitar and piano to explore various genres of music and express creativity.
+- Engaging in basketball to maintain physical fitness and improve leadership skills.
+
+Languages:
+Fluent in English and Spanish, enabling effective communication with diverse stakeholders and contributing to a multicultural work environment.

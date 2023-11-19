@@ -1,0 +1,43 @@
+Personal Statement:
+As a black female machine learning engineer from Washington, District of Columbia, I am driven to use my skills and knowledge to make a positive impact in the field of artificial intelligence. With a strong background in computer science and a passion for exploring innovative solutions, I am excited to contribute to cutting-edge projects as a machine learning engineer. I bring a unique perspective and am committed to promoting diversity and inclusion in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science
+Washington City University, Washington, District of Columbia
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer (Job 1)
+InnovaTech Solutions, Washington, District of Columbia
+- Collaborated with a diverse and interdisciplinary team to develop innovative machine learning algorithms and models
+- Demonstrated expertise in data handling and processing, utilizing PyTorch for model training and deployment
+- Utilized Python for implementing machine learning algorithms and techniques
+- Effectively communicated project updates and collaborated with stakeholders to ensure successful project outcomes
+
+Machine Learning Research Intern (Job 2)
+TechEdge Labs, Washington, District of Columbia
+- Conducted rigorous statistical analysis and implemented deep learning techniques to improve existing models
+- Utilized TensorFlow and C++ for model development and deployment
+- Demonstrated agility and problem-solving skills while understanding deep neural net research
+- Collaborated with a team of researchers to optimize neural network architectures
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Served as a team captain in competitive basketball, fostering teamwork and leadership amongst diverse team members
+- Actively volunteered for organizations promoting inclusion and representation of minorities and women in technology, advocating for equal opportunities and mentorship
+
+Hobbies:
+- Playing the piano
+- Exploring different cultures and traditions
+- Participating in community events celebrating diversity, such as cultural festivals and art exhibitions
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate)
+
+References available upon request.

@@ -1,0 +1,41 @@
+Makayla Kennedy
+
+Personal Statement:
+Driven and forward-thinking machine learning engineer with a strong background in computer science and a passion for leveraging artificial intelligence to solve complex problems. I am deeply committed to diversity, promoting inclusivity in the tech industry, and using my skills to make a meaningful impact. With a focus on continuous learning and collaboration, I strive to push the boundaries of innovation in machine learning and contribute to groundbreaking projects.
+
+Education:
+Bachelor of Science in Computer Science, Michigan State University, Detroit, MI
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, InnovisionAI, Detroit, MI
+- Developed cutting-edge machine learning models using TensorFlow, Python, and statistical analysis to optimize business operations and enhance customer experiences
+- Fostered effective communication and collaboration among cross-functional teams to drive project success
+- Led model training and deployment, leveraging deep learning techniques to achieve high accuracy and efficiency
+
+Machine Learning Engineer, QuantumAI, Detroit, MI
+- Utilized PyTorch and a strong problem-solving mindset to build and optimize advanced deep neural network models
+- Thrived as a team player, actively contributing to agile development processes and ensuring timely delivery of solutions
+- Cultivated extensive expertise in data handling and processing techniques, ensuring the availability of clean and reliable datasets
+- Demonstrated proficiency in C++ for the development of efficient algorithms
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Co-founder of TechDiverse, an organization dedicated to empowering women of color in technology, advocating for their representation and advancement in the field
+- Served as a passionate leader and mentor in basketball, guiding young female athletes through teamwork, resilience, and leadership development
+
+Hobbies:
+- Playing the piano, channeling creativity and emotions through music
+- Exploring diverse cultures through travel and art, fostering a deep appreciation for global diversity and promoting cross-cultural understanding
+- Actively participating in female-led hackathons and organizing networking events, advocating for gender equality and inclusivity in the tech industry
+
+Languages:
+- English (fluent)
+- [Additional language(s), if applicable]
+
+References available upon request.

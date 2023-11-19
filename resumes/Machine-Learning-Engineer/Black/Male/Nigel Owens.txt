@@ -1,0 +1,41 @@
+Personal Statement:
+As a black male hailing from Memphis, Tennessee, I am driven to revolutionize the field of machine learning engineering. With a burning passion for technology, I am committed to utilizing my skills and knowledge to make a lasting impact. My extensive education in computer science and my dedication to collaboration enable me to tackle complex challenges and drive innovative solutions. I am excited to embrace diversity and lead by example in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Memphis Institute of Technology, Memphis, Tennessee
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, StellarAI Inc., Memphis, Tennessee
+- Developed cutting-edge machine learning models using PyTorch and TensorFlow
+- Conducted extensive statistical analysis to validate and optimize results
+- Collaborated with a diverse team, leveraging Python and C++ to build advanced algorithms
+- Demonstrated strong teamwork skills and contributed to the success of cross-functional projects
+
+Data Scientist Intern, FuturaTech, Memphis, Tennessee
+- Worked on advanced deep learning projects, focusing on data handling and processing
+- Collaborated with a multidisciplinary team to analyze and understand research on deep neural networks
+- Trained and deployed models for real-world applications, ensuring high performance and accuracy
+- Showcased exceptional agility and problem-solving skills in a fast-paced, dynamic environment
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Dedicated to promoting diversity and inclusion in the tech community, leveraging my identity as a black male to advocate for underrepresented groups.
+- Served as a basketball team captain, mentoring and leading a diverse group of athletes to success both on and off the court.
+- Supported initiatives aimed at empowering underprivileged and minority populations in the tech industry.
+
+Hobbies:
+- Playing the saxophone, allowing me to express my creativity and embrace the power of music.
+- Immersing myself in different cultures through literature, art, and travel, celebrating diversity and inclusivity.
+- Engaging in community service activities focused on mentorship and youth development.
+
+Languages:
+- English: Native Speaker
+- Spanish: Conversational Proficiency
+
+References available upon request.

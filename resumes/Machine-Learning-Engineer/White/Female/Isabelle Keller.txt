@@ -1,0 +1,61 @@
+[Your Name]
+[Your Address]
+[City, State, ZIP Code]
+[Phone Number]
+[Email Address]
+
+---------------------------------------------------------------------------------------------------------------------
+
+Objective:
+Highly motivated and dedicated Machine Learning Engineer with a strong academic background in computer science. Seeking a challenging position to utilize my expertise in developing and implementing cutting-edge machine learning models and algorithms to drive innovation and solve complex problems.
+
+Education:
+Bachelor of Science in Computer Science                         		           [University of California, Santa Clara], Santa Clara, CA
+GPA: 3.9/4.0                                                                  	         [Graduation Year]
+
+Work Experience:
+Machine Learning Engineer Intern                                                     [InnovativeTech Solutions], San Francisco, CA
+[Dates]
+
+- Developed and implemented deep learning models for image recognition, resulting in a 15% improvement in accuracy.
+- Conducted statistical analysis on large healthcare datasets, extracting valuable insights to optimize model performance for medical diagnosis.
+- Collaborated with cross-functional teams to gather requirements and ensure seamless integration of machine learning solutions into existing systems.
+- Utilized TensorFlow for model development and training, improving efficiency and reducing development time.
+- Efficiently handled and processed large-scale healthcare datasets, ensuring data integrity and accessibility.
+- Demonstrated strong teamwork skills by actively participating in team discussions and contributing ideas.
+
+Software Developer Intern                                                                 [TechInnovators], San Jose, CA
+[Dates]
+
+- Developed agile solutions and efficiently solved complex problems by leveraging Python, PyTorch, and C++.
+- Conducted model training and deployment, ensuring seamless integration with deployment pipelines.
+- Stayed up-to-date with deep neural network research and implemented state-of-the-art algorithms to improve model performance.
+- Collaborated with a team of developers to design and implement scalable software solutions.
+- Demonstrated agility and problem-solving skills in a fast-paced and challenging work environment.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Basketball Team Captain                                                                 [San Diego Youth Basketball Association], San Diego, CA
+[Dates]
+
+- Led a basketball team as captain, mentoring and motivating team members to excel both on and off the court.
+- Organized team practices and promoted a positive and inclusive environment, fostering team spirit.
+- Coordinated with coaches, parents, and players to ensure smooth operations and effective communication.
+
+Hobbies:
+- Playing the piano and guitar, exploring various genres of music
+- Photography, capturing moments with a unique perspective
+- Participating in community events that promote diversity and inclusivity
+
+Languages:
+- English (Native)
+- Spanish (Fluent)
+- French (Proficient)
+
+References:
+Available upon request

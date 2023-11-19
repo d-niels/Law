@@ -1,0 +1,39 @@
+Personal Statement:
+As a Chinese female originally from the vibrant multicultural city of Chicago, I am an ambitious and dedicated machine learning engineer. With a solid educational foundation in computer science and an unwavering commitment to leveraging data-driven solutions, I am determined to make a significant impact in the field of machine learning. I thrive in dynamic and collaborative environments, excel at problem-solving, and constantly strive to expand my repertoire of skills in cutting-edge technologies.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, Chicago, IL
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Tech+ Solutions, Chicago, IL
+- Conducted Statistical Analysis to uncover hidden patterns and optimize algorithms
+- Demonstrated agility and exceptional problem-solving abilities in adapting models to changing datasets and project requirements
+- Collaborated seamlessly with cross-functional teams, ensuring the smooth integration of machine learning solutions
+- Deep Learning expertise employed to improve model accuracy and performance
+- Led model training and deployment processes utilizing TensorFlow
+
+Software Engineering Intern, DataWare Inc., Chicago, IL
+- Developed robust C++ programs for efficient data handling and processing
+- Communicated and collaborated effectively with team members to ensure successful project outcomes
+- Attained a comprehensive understanding of Deep Neural Net Research and implemented findings to enhance machine learning workflows
+- Proficient in Python and utilized PyTorch for model development and evaluation
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member and board member of the Chinese American Association, organizing cultural events and advocating for diversity and inclusion within the Chinese community
+- Sports Leadership: Captain of the university track and field team, leading a diverse group of athletes and promoting teamwork, discipline, and excellence
+
+Hobbies:
+- Playing the Guzheng, a traditional Chinese instrument, showcasing my love for music and cultural heritage
+- Promoting diversity and cultural exchange through international cuisine and exploring various culinary traditions
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+- Spanish (Conversational)

@@ -1,0 +1,46 @@
+Ubaldo Kanon
+Dallas, Texas | (555) 123-4567 | ubaldokanon@email.com
+
+Personal Statement:
+Results-driven and innovative Machine Learning Engineer with a passion for leveraging artificial intelligence to solve complex problems. Dedicated to pushing the boundaries of technology and developing cutting-edge solutions. Committed to improving efficiency and accuracy through the application of machine learning algorithms. Adept at collaborating with cross-functional teams to deliver exceptional results. Seeking a challenging role as a Machine Learning Engineer to contribute to groundbreaking advancements in the field.
+
+Education:
+Bachelor of Science in Computer Science, Magna Cum Laude
+Texas Tech University, Lubbock, TX
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer | Stellar Innovations | Dallas, TX | Jan 2019 - Present
+- Developed advanced machine learning algorithms using PyTorch, TensorFlow, and deep neural net research to improve accuracy and performance.
+- Collaborated with cross-functional teams to understand requirements and design scalable machine learning models.
+- Analyzed and processed vast amounts of data for training and validation purposes.
+- Utilized deep learning techniques to optimize model performance and reduce computational overhead.
+- Improved data handling and processing pipelines, resulting in a 30% increase in efficiency.
+
+Software Developer | Quantum Systems | Dallas, TX | May 2017 - Dec 2018
+- Played a crucial role in the statistical analysis of complex data sets to identify patterns and trends for decision-making purposes.
+- Actively participated in team projects, fostering collaboration and achieving project milestones.
+- Developed and maintained C++ and Python applications for model training and deployment.
+- Demonstrated agility and problem-solving skills to troubleshoot and resolve technical issues effectively.
+- Effective communication and coordination with stakeholders to gather requirements and assist in problem-solving.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Co-Founder and Leader, Latino Tech Association | Texas Tech University: Organized community-building events to promote diversity and inclusion in the tech industry.
+- Sports Leadership Role, Basketball Team Captain | Dallas Community Club: Led the basketball team to multiple championships, fostering teamwork and sportsmanship.
+
+Hobbies:
+- Playing piano: Expressing creativity through music and embracing cultural heritage.
+- Language learning: Mastering multiple languages to bridge communication gaps and connect with diverse populations.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References:
+Available upon request.

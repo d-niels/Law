@@ -1,0 +1,45 @@
+Rohit Varghese
+Houston, Texas | (123) 456-7890 | rohitvarghese@email.com
+
+Personal Statement:
+Passionate and driven Machine Learning Engineer with a strong background in computer science and a knack for solving intricate problems through data analysis. Equipped with a diverse skill set and experience in deep learning frameworks. Committed to utilizing technical expertise to develop innovative solutions in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, Houston Technical University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Stellar Innovations
+Houston, Texas | May 2019 - Present
+- Spearheaded data handling and processing techniques to preprocess and analyze extensive datasets.
+- Developed and deployed cutting-edge deep learning models for various applications.
+- Collaborated seamlessly with cross-functional teams, ensuring improved model performance and accuracy.
+- Conducted statistical analysis to extract meaningful insights and identify trends and patterns in data.
+- Utilized effective communication and collaboration skills to present ideas and findings to stakeholders.
+
+Machine Learning Research Assistant, Quantum Leap Innovations
+Houston, Texas | January 2018 - April 2019
+- Engaged in groundbreaking deep neural net research, exploring and implementing advanced machine learning techniques.
+- Leveraged TensorFlow and PyTorch to develop and optimize high-performing machine learning models.
+- Demonstrated proficiency in programming languages such as C++, Python for model development and evaluation.
+- Showcased agility and problem-solving skills in adapting to new research areas and challenges.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Asian Students Association at Houston Technical University, organizing events to celebrate diversity and foster cultural exchange.
+- Served as a leader for the university's basketball team, organizing practices, strategizing game plays, and fostering teamwork among team members.
+
+Hobbies:
+- Playing the Sitar (a traditional Indian string instrument) and learning classical Indian music.
+- Exploring multicultural cuisines and experimenting with cooking different dishes.
+- Immersing in various art forms, such as painting and photography, and depicting cultural diversity in my artwork.
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+- Malayalam (Native)

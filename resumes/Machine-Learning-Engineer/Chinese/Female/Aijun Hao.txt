@@ -1,0 +1,39 @@
+Personal Statement:
+A driven and analytical machine learning engineer, with a strong background in computer science, seeking opportunities to leverage my skills and expertise in driving innovation and developing cutting-edge solutions. Passionate about working in a collaborative environment and utilizing data-driven approaches to solve complex problems while promoting diversity and inclusion.
+
+Education:
+Bachelor of Science in Computer Science, California State University, Los Angeles
+- Graduated with a GPA of 3.9
+- Relevant coursework: Machine Learning, Artificial Intelligence, Data Structures, Database Management
+
+Work Experience:
+Machine Learning Engineer, Innovatronix AI, Los Angeles, California | March 2019 - Present
+- Utilized effective communication and collaboration skills to work closely with data scientists and software developers in designing and implementing machine learning models.
+- Developed and optimized algorithms using C++, conducted statistical analysis to process large datasets, resulting in improved model performance.
+- Demonstrated agility and problem-solving skills in handling and processing complex data, ensuring high accuracy and efficiency.
+- Utilized TensorFlow framework to create scalable and robust machine learning models, facilitating data-driven decision making and enhancing business outcomes.
+
+Research Assistant, AI Research Institute, Los Angeles, California | June 2018 - December 2018
+- Contributed to deep neural network research by understanding and implementing state-of-the-art models.
+- Collaborated with fellow researchers to train and deploy models, contributing to advancements in the field of deep learning.
+- Actively participated as a team player, troubleshooting and debugging Python code, leading to improved reliability and performance.
+- Developed proficiency in PyTorch and utilized Python programming language to preprocess and analyze datasets.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role, XYZ Recreation Center, Los Angeles, California | 2016 - Present
+- Act as a leader in organizing and coordinating basketball leagues, fostering teamwork and sportsmanship among diverse groups of individuals.
+
+Hobbies:
+- Playing the piano
+- Exploring new cultures through travel
+- Engaging in various outdoor activities
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

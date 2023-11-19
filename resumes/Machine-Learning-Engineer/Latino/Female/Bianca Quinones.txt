@@ -1,0 +1,42 @@
+Bianca Quinones
+123 Main Street | Houston, TX 12345 | (123) 456-7890 | bianca.quinones@email.com
+
+Personal Statement:
+Dedicated and passionate Machine Learning Engineer with expertise in deep neural net research and statistical analysis. Skilled in problem-solving, Python, C++, TensorFlow, and PyTorch. Committed to creating innovative solutions and driving the advancement of machine learning technology. Proud Latina from Houston, Texas, eager to contribute to the diversity and inclusivity in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Texas Tech University, Lubbock, TX
+- Graduated Magna Cum Laude, GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer Intern, Quantum Intelligence, Houston, TX
+(Spring 2020 - Summer 2020)
+- Conducted extensive research on deep neural net models, contributing to the development of cutting-edge solutions
+- Demonstrated agility and problem-solving skills while implementing models in Python and C++
+- Collaborated with a cross-functional team to improve deep learning algorithms using TensorFlow
+
+Data Scientist, Innovate Analytics, Houston, TX
+(Summer 2019 - Fall 2019)
+- Developed and deployed machine learning models using PyTorch for enhanced efficiency and accuracy
+- Conducted comprehensive statistical analysis on large datasets, optimizing data handling and processing methods
+- Effectively communicated project progress and collaborated with cross-functional teams to meet objectives
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Sports Leadership Role: As a proud Latina, I have actively volunteered as a basketball team captain and coach for underprivileged youth in the Houston community. By mentoring young girls marginalized due to ethnicity and gender, I have fostered their confidence, leadership abilities, and passion for the sport.
+
+Hobbies:
+- Playing the guitar and embracing various music genres to celebrate diversity and creativity.
+- Exploring diverse cultures through travel, immersing in their traditions, and understanding their history.
+- Supporting gender and ethnic inclusion initiatives, attending conferences and events on the subject matter.
+
+Languages:
+- English (Fluent)
+- Spanish (Fluent)
+
+References available upon request.

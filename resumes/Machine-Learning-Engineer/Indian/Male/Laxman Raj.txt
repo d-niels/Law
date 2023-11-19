@@ -1,0 +1,40 @@
+Personal Statement:
+Highly motivated and driven Machine Learning Engineer with a passion for solving complex problems through innovative technologies. I am committed to continuous learning and staying updated with the latest advancements in machine learning and artificial intelligence. With a strong academic background and a collaborative approach, I strive to deliver impactful solutions that drive meaningful change.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+XYZ University, San Francisco, California
+
+Work Experience:
+Machine Learning Engineer | Innovex AI Solutions, San Jose, CA
+- Developed and implemented machine learning algorithms using PyTorch and TensorFlow, driving improved accuracy and efficiency of models.
+- Leveraged C++ for the efficient implementation of statistical analysis components in machine learning systems.
+- Worked on model training and deployment, ensuring seamless integration with existing infrastructure.
+- Stayed up-to-date with the latest research in deep neural networks, incorporating relevant concepts into practical applications.
+
+Data Engineer | AcuData, San Jose, CA
+- Demonstrated agility and problem-solving skills while processing and handling large volumes of data.
+- Collaborated effectively with cross-functional teams, maintaining clear and concise communication channels.
+- Maintained and optimized databases using SQL and NoSQL technologies to ensure efficient data retrieval and storage.
+- Played an integral role in developing deep learning algorithms with Python for data analysis and prediction.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively participated in the local Indian community, organizing cultural events to promote diversity and inclusion.
+- Held a leadership position in a local soccer team, fostering teamwork, discipline, and sportsmanship.
+- Volunteered as a mentor for aspiring computer science students, providing guidance and support.
+
+Hobbies:
+- Playing the tabla, a traditional Indian percussion instrument, to connect with my cultural heritage.
+- Exploring different cultures through travel and immersing myself in new experiences.
+- Engaging in outdoor activities such as hiking and soccer to promote a healthy and active lifestyle.
+
+Languages:
+Fluent in English, Hindi, and Tamil.
+
+References available upon request.

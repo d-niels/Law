@@ -1,0 +1,49 @@
+Michael Clark
+
+Personal Statement:
+Driven and passionate machine learning engineer with a strong background in understanding deep neural net research and model training and deployment. Highly skilled in Python and statistical analysis, I thrive in collaborative environments and am dedicated to leveraging my expertise to provide innovative solutions. Committed to advancing technology and making a positive impact in the field.
+
+Education:
+Bachelor of Science in Computer Science, XYZ State University, San Antonio, Texas
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Machine Learning Engineer, InnovateX Tech Solutions, San Antonio, Texas (2018-2020)
+- Conducted extensive research on deep neural networks and assisted in developing innovative algorithms 
+- Utilized Python for model training and deployment, ensuring accurate and efficient results
+- Performed statistical analysis on datasets to optimize machine learning models
+- Collaborated effectively within cross-functional teams to deliver high-quality solutions
+
+Data Analyst Intern, TechnoFirm Corporation, San Antonio, Texas (Summer 2017)
+- Efficiently handled and processed large datasets, ensuring data integrity and accuracy
+- Demonstrated agility and problem-solving skills in resolving data-related challenges
+- Collaborated and communicated effectively with team members to ensure successful project completion
+- Developed proficiency in TensorFlow, C++, and PyTorch for data analysis and visualization purposes
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate, XYZ State University, San Antonio, Texas
+- Raised awareness and promoted inclusivity within the campus community
+- Organized events and led discussions to foster a more diverse and accepting environment
+- Championed the importance of diversity in various contexts, including technology
+
+Sports Leadership Role:
+Captain, XYZ State University Soccer Team
+- Seized the leadership role to drive teamwork and motivation in the soccer team
+- Orchestrated effective game strategies and facilitated open communication among team members
+- Cultivated a positive and inclusive team culture
+
+Hobbies:
+Playing the guitar, honing skills in photography, and exploring diverse cultures through travel
+- Active member of the local photography club, concentrating on capturing cultural diversity
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate)
+
+References available upon request.

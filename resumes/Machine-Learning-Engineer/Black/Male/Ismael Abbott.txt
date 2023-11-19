@@ -1,0 +1,41 @@
+Ismael Abbott
+
+Personal Statement:
+Dedicated and passionate machine learning engineer with a strong background in computer science. Excels in developing and implementing cutting-edge machine learning algorithms to solve complex problems. Adept at collaborating with cross-functional teams to drive innovation and deliver high-quality solutions. Committed to promoting diversity and inclusion in technology fields. Seeking a challenging role as a Machine Learning Engineer to apply my skills in a dynamic and forward-thinking organization.
+
+Education:
+Bachelor of Science in Computer Science, Philadelphia Technical Institute, Philadelphia, Pennsylvania (GPA: 3.9)
+
+Work Experience:
+
+Machine Learning Engineer, Stellar Data Solutions, Philadelphia, Pennsylvania
+- Developed and implemented machine learning algorithms for various projects, utilizing deep learning techniques.
+- Collaborated with a team of data scientists to handle, preprocess, and analyze large datasets.
+- Utilized C++ for efficient data handling and processing, demonstrating excellent problem-solving abilities.
+- Conducted research on deep neural networks, staying up-to-date with the latest advancements in the field.
+- Actively collaborated with team members, fostering strong communication and collaboration skills.
+
+Junior Machine Learning Engineer, QuantumAI, Philadelphia, Pennsylvania
+- Utilized Python, PyTorch, and TensorFlow to train and deploy machine learning models.
+- Applied agile methodologies and problem-solving skills to resolve complex issues efficiently.
+- Conducted statistical analysis on large datasets to extract meaningful insights.
+- Demonstrated proficiency in model training and deployment, ensuring optimum performance and accuracy.
+- Played a leadership role in organizing and managing a local soccer league, inspiring and empowering young players through teamwork and dedication.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- As a black male machine learning engineer, I actively contribute towards promoting diversity and inclusion in the tech industry. I mentor and support aspiring individuals from underrepresented backgrounds, fostering an inclusive environment.
+- Served as a team captain for a local soccer team, leading by example and instilling values of teamwork and sportsmanship.
+
+Hobbies:
+- Playing the saxophone, showcasing my artistic and creative side.
+- Engaging in various forms of art, such as painting and sketching, to express my creativity.
+- Exploring different cultures and their traditions, broadening my knowledge and understanding of diverse ethnicities.
+
+Languages:
+- Fluent in English and proficient in Spanish, enabling effective communication across diverse communities.

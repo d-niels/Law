@@ -1,0 +1,38 @@
+Personal Statement:
+I am a driven and dedicated machine learning engineer with a deep passion for computer science. I thrive on innovation and seek to leverage my skills in the field of machine learning. With a strong foundation in deep neural net research and a knack for problem-solving, I am committed to making a meaningful impact in the industry. As a team player with excellent communication and collaboration skills, I am eager to contribute to transformative projects.
+
+Education:
+Bachelor of Science in Computer Science, Stellar University, Los Angeles, California | GPA: 3.9
+
+Work Experience:
+
+Machine Learning Engineer, Quantum Technologies, Los Angeles, California
+- Applied agile methodologies and problem-solving techniques to drive advancements in the company's machine learning algorithms.
+- Leveraged PyTorch and TensorFlow frameworks for model training and deployment, ensuring seamless integration into production environments.
+- Developed a comprehensive understanding of deep neural net research to optimize model performance and accuracy.
+- Conducted extensive statistical analysis to evaluate and enhance model effectiveness.
+
+Software Engineer, Hypernova Solutions, Los Angeles, California
+- Designed and implemented efficient data handling and processing systems utilizing deep learning techniques.
+- Utilized C++ and Python programming languages to develop scalable and optimized solutions.
+- Demonstrated excellent teamwork and collaboration skills, fostering successful cross-functional project outcomes.
+- Effectively communicated project progress and collaborated with stakeholders to ensure seamless implementation.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Advocate for gender and ethnic diversity within the tech industry, actively promoting inclusivity.
+- Held a leadership role as captain of a local basketball team, fostering teamwork and sportsmanship among players.
+
+Hobbies:
+- Playing the sitar, a traditional Indian musical instrument.
+- Exploring diverse cultures through travel and food.
+- Engaging in meaningful discussions on gender equality and representation.
+
+Languages:
+- English (Fluent)
+- Hindi (Native)

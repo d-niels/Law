@@ -1,0 +1,54 @@
+BROCK YOUNG
+123 Main Street, Austin, Texas | (555) 555-5555 | brockyoung@email.com
+
+PERSONAL STATEMENT
+Passionate and driven Machine Learning Engineer with a strong background in computer science. Experienced in model training and deployment, statistical analysis, and deep learning methodologies. Effective collaborator with excellent communication skills. Dedicated to advancing the field of machine learning through innovation and creativity.
+
+EDUCATION
+Bachelor of Science in Computer Science, University of Texas at Austin, Austin, Texas
+GPA: 3.9/4.0
+
+WORK EXPERIENCE
+Machine Learning Engineer, Stellar Systems, Austin, Texas
+May 2018 - Present
+- Developed and deployed models using C++ and deep learning frameworks
+- Collaborated with interdisciplinary teams to design and implement machine learning solutions
+- Conducted statistical analysis to derive insights for data-driven decision-making
+- Demonstrated strong teamwork and effective communication skills
+
+Machine Learning Intern, Quantum AI, Austin, Texas
+May 2017 - August 2017
+- Utilized PyTorch and TensorFlow to solve complex machine learning problems
+- Processed and handled large datasets to optimize model performance
+- Stayed abreast of the latest advancements in deep neural net research
+- Designed and implemented Python scripts for data preprocessing and analysis
+
+SKILLS
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Diversity and Inclusion Advocate, University of Texas at Austin, Austin, Texas
+September 2016 - May 2018
+- Dedicated advocacy work to support underrepresented minority students in the computer science field
+- Mentored and provided guidance to aspiring students from diverse backgrounds
+- Organized and led workshops and seminars to foster a supportive community
+
+Sports Leadership: Basketball Team Captain, Austin Community League
+June 2016 - August 2018
+- Led practices and managed games for a competitive basketball team
+- Encouraged teamwork, discipline, and camaraderie among team members
+- Organized team events and promoted the holistic development of players
+
+HOBBIES
+- Playing the piano and composing music
+- Engaging in outdoor activities such as hiking and camping
+- Exploring different cultures through reading and trying out different art forms
+
+LANGUAGES
+- English (Fluent)
+- Spanish (Conversational)
+
+References available upon request.

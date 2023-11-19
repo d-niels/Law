@@ -1,0 +1,47 @@
+Personal Statement:
+Driven and dedicated Machine Learning Engineer with a passion for leveraging AI technologies to solve complex problems. Detail-oriented and adept at exploring the latest advancements in deep learning. Strong collaborator with excellent communication skills, aiming to contribute my expertise in machine learning research to make an impactful difference in the field.
+
+Education:
+Bachelor of Science in Computer Science
+University: California Institute of Technology, Pasadena, CA
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer - QuantumAI Technologies, San Francisco, CA
+- Conducted in-depth research on Deep Neural Networks, contributing to the development of advanced machine learning algorithms.
+- Expertise in model training and deployment, utilizing industry-leading tools such as PyTorch and TensorFlow.
+- Collaborated with cross-functional teams to optimize machine learning models for real-world application.
+- Effectively communicated complex concepts to both technical and non-technical stakeholders.
+- Actively contributed to the development of advanced AI solutions.
+
+Data Analyst - Innovatix Solutions, San Jose, CA
+- Demonstrated agility and problem-solving abilities in handling and processing large datasets for analysis.
+- Developed optimized data pipelines using Python and C++ to streamline data handling and processing.
+- Played an integral role as a team player, actively participating in project planning and execution.
+- Conducted statistical analysis to identify trends and patterns, providing valuable insights for decision-making.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Chinese Student Association (CSA) - Cultural Coordinator
+- Organized and led various cultural events, celebrating and promoting diversity within the university community.
+- Fostered an inclusive and supportive environment, encouraging collaboration among students from diverse backgrounds.
+- Initiated community service projects to give back to the local community.
+
+Sports Leadership - Basketball Team Captain
+- Demonstrated exceptional leadership skills as the captain of the university's basketball team.
+- Effectively communicated strategies and motivated teammates, fostering a strong team dynamic.
+- Led the team to victory in several tournaments, showcasing determination and dedication.
+
+Hobbies:
+Playing the Guzheng (traditional Chinese instrument), exploring diverse music genres, volunteering for local community initiatives promoting girl's education, and participating in technology forums focused on underrepresented groups.
+
+Languages:
+- English (Fluent)
+- Mandarin (Native)
+
+References available upon request.

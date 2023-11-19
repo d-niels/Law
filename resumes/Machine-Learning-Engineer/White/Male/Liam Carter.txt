@@ -1,0 +1,39 @@
+Personal Statement:
+As a machine learning engineer, I am driven by a relentless curiosity to unravel the potential of AI and harness its power for positive change. With a solid foundation in computer science and a deep-rooted passion for deep learning, I constantly seek opportunities to push the boundaries of innovation. Through my collaborative nature and strong communication skills, I excel in multidisciplinary teams, translating complex concepts into practical solutions for real-world challenges.
+
+Education:
+Bachelor of Science in Computer Science - GPA: 3.9
+San Francisco State University, San Francisco, California
+
+Work Experience:
+Machine Learning Engineer, QuantumLeap Technologies (San Francisco, CA)
+- Model Training and Deployment
+- C++
+- Deep Learning
+- Communication and Collaboration
+- PyTorch
+- Agility and Problem-Solving
+
+Data Scientist, Stellar Insights (San Francisco, CA)
+- Understanding Deep Neural Net Research
+- Data Handling and Processing
+- TensorFlow
+- Python
+- Team Player
+- Statistical Analysis
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white male from San Francisco, California, I am committed to promoting diversity, equal representation, and inclusivity in the tech industry. I actively volunteer with organizations that focus on empowering underrepresented communities in tech, striving to create a more inclusive and equitable environment. Additionally, I hold a leadership role in a local soccer team, fostering teamwork and encouraging diversity-enhancing initiatives within our organization.
+
+Hobbies:
+Outside of work, I find solace in playing the piano, using music as a creative outlet to express emotions and connect with others. I am also an avid traveler, immersing myself in diverse cultures and expanding my global perspective.
+
+Languages:
+- English (Native)
+- Spanish (Fluent)

@@ -1,0 +1,36 @@
+Personal Statement:
+I am a passionate and results-driven Machine Learning Engineer with a strong background in computer science. As a Latino male from San Jose, California, I am dedicated to utilizing my skills and knowledge to contribute to the field of artificial intelligence. With my expertise in machine learning, programming languages, and data analysis, I aim to develop innovative solutions that address complex problems in various industries.
+
+Education:
+Bachelor of Science in Computer Science, San Jose State University, San Jose, CA (GPA: 3.9/4.0)
+
+Work Experience:
+Machine Learning Engineer, TechGenius AI, Silicon Valley, CA (2018-2020)
+- Developed and implemented PyTorch-based deep learning algorithms for advanced computer vision applications.
+- Leveraged Python to design and implement state-of-the-art machine learning models.
+- Collaborated seamlessly with cross-functional teams, ensuring effective communication and collaboration.
+- Utilized C++ and TensorFlow to optimize performance and enhance algorithm accuracy.
+
+Data Analyst, NovaTech Solutions, San Jose, CA (2016-2018)
+- Conducted extensive statistical analysis and provided actionable insights for large-scale datasets.
+- Demonstrated exceptional agility and problem-solving skills in tackling complex business challenges.
+- Proven ability to work cohesively within interdisciplinary teams to accomplish company objectives.
+- Developed a profound understanding of deep neural network research, applying it to enhance data handling and processing.
+- Conducted model training and deployment, ensuring efficient implementation of cutting-edge machine learning algorithms.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Member, Society for Hispanic Professional Engineers (SHPE) - Actively contributed to supporting and empowering Latino individuals in the engineering field, organizing events and mentoring aspiring engineers.
+Soccer Team Captain - Led a soccer team to victory as a captain, fostering teamwork and good sportsmanship.
+
+Hobbies:
+Playing the guitar - Passionate about playing diverse melodies on the guitar, blending Latin rhythms with contemporary styles, allowing me to express my creativity and cultural heritage.
+Exploring diverse cultures - By traveling and immersing myself in various cultures, I appreciate the rich diversity within our society and gain a broader perspective on global issues.
+
+Languages:
+Bilingual - Fluent in English and Spanish, enabling effective communication with diverse individuals and fostering collaboration on global projects.

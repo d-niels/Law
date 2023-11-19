@@ -1,0 +1,46 @@
+Personal Statement:
+
+Passionate and driven machine learning engineer with a strong background in computer science and a commitment to harnessing the power of artificial intelligence. Skilled in implementing cutting-edge deep learning algorithms to solve complex problems. Thrives in collaborative and fast-paced environments and possesses excellent communication skills. Continuously seeks to expand knowledge and skills to develop innovative solutions.
+
+Education:
+
+Bachelor of Science in Computer Science - University of Miami, Miami, Florida
+- GPA: 3.9
+
+Work Experience:
+
+Machine Learning Engineer - Visionary Tech Labs, Houston, Texas
+- Leveraged agility and problem-solving skills to develop state-of-the-art computer vision algorithms using C++ and PyTorch.
+- Researched and implemented advanced deep neural networks to enhance model accuracy and performance.
+- Collaborated with interdisciplinary teams to optimize model training and deployment, leading to improved statistical analysis and efficient data handling.
+- Presented findings to stakeholders, ensuring effective communication of complex concepts.
+
+AI Engineer Intern - Stellar Systems, San Francisco, California
+- Acted as a key team player in developing and fine-tuning machine learning models using TensorFlow and Python.
+- Utilized statistical analysis techniques to derive actionable insights and improve model performance.
+- Developed efficient data handling and processing pipelines for large-scale datasets.
+- Effectively utilized Git for seamless collaboration with the development team.
+
+Skills:
+
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Latin American Association for Computer Science (LAACS)
+- Played an active role in promoting diversity and inclusivity within the tech industry, providing mentorship and support to Latino students pursuing careers in computer science.
+- Led and organized a soccer team, fostering teamwork, leadership, and sportsmanship among the participants.
+
+Hobbies:
+
+- Playing the piano: Proficient in playing the piano, enjoys creating melodic compositions.
+- Exploring local cuisines: Enjoys discovering and experiencing diverse culinary traditions, sampling authentic flavors from different cultures.
+- Photography: Passionate about capturing moments with a creative eye, constantly refining photography skills.
+
+Languages:
+
+- English (Fluent)
+- Spanish (Native)

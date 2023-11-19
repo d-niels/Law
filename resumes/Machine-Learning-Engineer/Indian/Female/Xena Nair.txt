@@ -1,0 +1,51 @@
+Xena Nair
+
+Machine Learning Engineer
+
+Personal Statement:
+As an Indian female hailing from the vibrant city of Philadelphia, Pennsylvania, I am an enthusiastic and dedicated machine learning engineer. I am passionate about leveraging my skills in statistical analysis, deep learning, and data handling to create innovative solutions in the field of artificial intelligence. With a strong educational background in computer science and a diverse set of technical skills, I am confident in my ability to contribute to the development and deployment of cutting-edge machine learning models.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Temple University, Philadelphia, Pennsylvania
+
+Work Experience:
+Machine Learning Engineer, Nova AI Technologies, Philadelphia, Pennsylvania
+- Conducted statistical analysis and applied deep learning techniques to optimize data processing procedures.
+- Utilized TensorFlow and Python to develop and implement machine learning algorithms.
+- Collaborated with cross-functional teams to design and execute data handling and processing workflows.
+- Demonstrated strong team player mindset by effectively contributing to projects and meeting deadlines.
+
+Research Assistant, Quantum AI Lab, Philadelphia, Pennsylvania
+- Engaged in understanding and analyzing deep neural net research papers.
+- Employed PyTorch and C++ to train and deploy machine learning models.
+- Collaborated with colleagues to improve model performance and foster communication.
+- Demonstrated agility and problem-solving skills in overcoming challenges during research projects.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Board Member, South Asian Cultural Association, Temple University
+- Actively organized cultural events, fostering a diverse and inclusive environment on campus.
+- Demonstrated strong leadership skills in managing and coordinating activities.
+- Empowered and supported South Asian students to celebrate their heritage and share it with others.
+
+Sports Leadership Role, Philadelphia Cricket Club
+- Tennis Team Captain, leading a team of skilled athletes to championships.
+- Mentored players and fostered a positive and competitive environment for growth and success.
+
+Hobbies:
+- Playing the tabla, a traditional Indian percussion instrument.
+- Exploring various dance forms, including Indian classical and contemporary styles.
+- Engaging in photography to capture moments of beauty and emotion.
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+- Tamil (Conversational)
+
+References available upon request.

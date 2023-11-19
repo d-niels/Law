@@ -1,0 +1,42 @@
+Tatiana Olivares
+
+Personal Statement:
+As a driven and meticulous machine learning engineer, I am dedicated to pushing the boundaries of artificial intelligence and contributing to groundbreaking discoveries. With a strong background in computer science and a passion for cutting-edge technologies, I am committed to developing innovative machine learning solutions. I possess excellent problem-solving skills and thrive in collaborative environments. I am excited about the opportunity to make a significant impact in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science
+New Mexico State University, Las Cruces, NM
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, QuantumAI, Albuquerque, NM
+- Deep Learning: Developed and implemented advanced deep learning models to solve complex problems.
+- Team Player: Collaborated with cross-functional teams of engineers and researchers to design and deploy machine learning solutions efficiently.
+- Data Handling and Processing: Employed sophisticated techniques for data handling and processing, ensuring accuracy and reliability.
+- Model Training and Deployment: Conducted extensive model training and deployed optimized models for efficient production implementation.
+- PyTorch, TensorFlow: Utilized PyTorch and TensorFlow frameworks to develop and deploy state-of-the-art machine learning models.
+
+Software Engineer, NovaTech Solutions, Santa Fe, NM
+- Statistical Analysis: Conducted comprehensive statistical analysis on large datasets, providing insights to improve machine learning models and algorithms.
+- Understanding Deep Neural Net Research: Stayed updated on the latest advancements in deep neural network research, integrating cutting-edge techniques into projects.
+- Python, C++: Developed robust machine learning algorithms and applications using Python and C++.
+- Communication and Collaboration: Effectively communicated and collaborated with interdisciplinary teams to bridge the gap between research and practical applications.
+- Agility and Problem-Solving: Demonstrated exceptional agility and problem-solving skills, effectively resolving complex technical challenges.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Latina Engineer Association, New Mexico State University: Actively contributed to the Latina Engineer Association, promoting diversity and empowering women in engineering.
+- Soccer Leadership: Served as the captain of the university soccer team, leading the team to multiple championships while fostering strong teamwork and discipline.
+
+Hobbies:
+- Playing the guitar: A talented guitarist, dedicated to mastering different music genres and expressing creativity through music.
+- Exploring diverse literature: Enjoys immersing myself in various literary genres, expanding perspectives and nurturing a love for storytelling.
+
+Languages:
+- English: Native proficiency
+- Spanish: Fluent

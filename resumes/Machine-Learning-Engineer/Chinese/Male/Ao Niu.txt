@@ -1,0 +1,43 @@
+Ao Niu
+
+Personal Statement:
+Passionate and driven machine learning engineer with a relentless pursuit for groundbreaking advancements in the field. A Chinese male from San Jose, California, I bring a unique perspective that emphasizes the importance of diversity and inclusion in the tech industry. With a keen eye for detail and a love for problem-solving, I strive to leverage my skills in machine learning and artificial intelligence to revolutionize the way we approach complex data challenges.
+
+Education:
+Bachelor of Science in Computer Science
+Innovation University, San Jose, California
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, QuaTech Solutions, Silicon Valley, California
+- Developed and optimized machine learning models, displaying exceptional agility and problem-solving abilities
+- Conducted model training and deployment using TensorFlow, ensuring seamless integration into real-world applications
+- Performed extensive statistical analysis to enhance model accuracy and performance
+- Collaborated closely with a highly efficient team, contributing to the successful delivery of cutting-edge projects
+- Stayed updated with the latest advancements in deep neural net research, providing valuable insights to enhance project outcomes
+
+Data Analyst, NovaTech Solutions, San Francisco, California
+- Utilized Python to handle and process complex datasets, ensuring accurate and reliable data analysis
+- Demonstrated excellent communication and collaboration skills, working seamlessly with cross-functional teams
+- Implemented deep learning algorithms using PyTorch, enhancing data analysis capabilities
+- Utilized C++ to develop efficient data handling and processing tools for improved productivity and performance
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively promoted diversity and inclusion in the tech industry, advocating for greater ethnic representation at conferences and workshops
+- Held a leadership role as the captain of a successful soccer team, fostering teamwork, camaraderie, and strategic thinking
+- Engaged in various photography exhibitions, capturing the beauty of different cultures and landscapes
+
+Hobbies:
+- Playing the piano, embracing the emotional connection created through the melodies of classical compositions
+- Exploring multicultural culinary delights, experiencing diverse flavors and cuisines from around the world
+- Participating in community sports leagues, passionately playing and leading a soccer team to victory
+
+Languages:
+- English (Fluent)
+- Mandarin (Native)

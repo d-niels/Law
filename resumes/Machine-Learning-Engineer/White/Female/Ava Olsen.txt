@@ -1,0 +1,37 @@
+Personal Statement:
+I am a dedicated and knowledgeable machine learning engineer with a passion for developing innovative solutions. With a solid background in computer science and a strong understanding of deep neural net research, I am confident in my abilities to contribute to complex projects. I thrive in collaborative environments and possess excellent problem-solving skills, allowing me to efficiently tackle challenges. As a white female in the field, I am committed to promoting diversity and inclusion in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+University of California, Berkeley, CA
+
+Work Experience:
+Machine Learning Engineer | Quantum Networks, San Francisco, CA | May 2019 - Present
+- Leveraged TensorFlow, Python, and C++ to develop and deploy high-performing models
+- Possessed a deep understanding of deep learning techniques while staying updated with the latest advancements
+
+Data Analyst | Nova Enterprises, San Diego, CA | Jan 2018 - Apr 2019
+- Utilized statistical analysis with PyTorch to extract valuable insights from large datasets
+- Collaborated with cross-functional teams, showcasing strong communication and collaboration skills
+- Demonstrated proficiency in data handling and processing, ensuring accuracy and reliability
+- Displayed agility and problem-solving abilities to optimize workflows
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in Women in Technology (WIT) organization, organizing workshops and events to empower and inspire women in tech
+- Served as a team captain in a local soccer league, fostering teamwork and leadership skills among diverse groups
+- Committed to promoting diversity and fostering an inclusive environment for underrepresented groups in technology
+
+Hobbies:
+- Playing the violin
+- Exploring different cultures through travel and art
+- Engaging in community service initiatives related to education and youth empowerment
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)

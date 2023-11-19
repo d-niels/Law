@@ -1,0 +1,37 @@
+Personal Statement:
+Highly skilled and motivated Machine Learning Engineer with a strong academic background in Computer Science and a passion for using advanced technologies to solve complex problems. Dedicated to pushing the boundaries of machine learning algorithms and leveraging data-driven insights to drive innovation. As an Indian female from Philadelphia, Pennsylvania, I am committed to diversity and inclusion, and consistently strive to create an inclusive environment that fosters collaboration and brings out the best in everyone.
+
+Education:
+Bachelor of Science in Computer Science, University of Pennsylvania, Philadelphia, Pennsylvania (GPA: 3.9)
+
+Work Experience:
+Machine Learning Engineer, Epsilon Codex, Philadelphia, PA
+- Utilized PyTorch and statistical analysis techniques to develop deep neural net models for image recognition tasks.
+- Conducted thorough data handling and processing, ensuring accuracy and quality.
+- Trained and deployed machine learning models, optimizing performance and efficiency.
+
+Machine Learning Engineer, Neural Minds, Philadelphia, PA
+- Demonstrated expertise in TensorFlow and Python to develop machine learning models for natural language processing applications.
+- Collaborated effectively within cross-functional teams, showcasing strong communication and problem-solving skills.
+- Utilized C++ to optimize code and enhance system performance.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Sports Leadership Role: Acted as the team captain for a local soccer team, fostering teamwork, discipline, and strategic thinking among the players.
+- Advocate for Diversity & Inclusion: Volunteered at various organizations focused on empowering women and promoting diversity in the tech industry.
+
+Hobbies:
+- Playing the Tabla, a traditional Indian percussion instrument.
+- Engaging in cultural events and festivals that celebrate diversity and promote inclusivity.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Punjabi (Conversational)
+
+References available upon request.

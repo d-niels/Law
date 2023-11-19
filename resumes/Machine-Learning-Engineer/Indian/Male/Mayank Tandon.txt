@@ -1,0 +1,46 @@
+Mayank Tandon
+Philadelphia, Pennsylvania | (123) 456-7890 | mayanktandon@email.com
+
+Personal Statement:
+Innovative and results-driven Machine Learning Engineer with a strong background in Computer Science. Adept at leveraging emerging technologies to develop cutting-edge solutions. Known for exceptional problem-solving agility and collaboration skills. Passionate about continuous learning and staying updated with the latest advancements in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, University of Pennsylvania, Philadelphia, Pennsylvania
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, StellarAI, Philadelphia, Pennsylvania
+- Developed and deployed models for various projects, utilizing C++, Deep Learning, and Model Training and Deployment techniques.
+- Demonstrated a keen understanding of deep neural net research, leveraging Python tools to enhance model development and testing.
+- Collaborated with cross-functional teams to ensure efficient project execution and delivery of high-quality solutions.
+
+Data Science Intern, Insightful Analytics, Philadelphia, Pennsylvania
+- Utilized PyTorch and TensorFlow frameworks to create machine learning models for data analysis.
+- Successfully handled and processed vast datasets, extracting actionable insights through statistical analysis and data manipulation.
+- Effectively communicated and collaborated with team members to achieve desired project outcomes.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role, XYZ University Men's Basketball Team
+- Led and mentored a diverse team of athletes, fostering teamwork and promoting inclusivity within the basketball program.
+- Organized practice sessions, developed strategies, and motivated team members to achieve their full potential.
+
+Diversity and Inclusion Advocate, United Cultures Organization
+- Actively promoted diversity and inclusion by organizing workshops and events that celebrated various cultures and traditions.
+- Served as a bridge between different communities, engaging in constructive conversations and promoting cultural appreciation.
+
+Hobbies:
+- Playing the guitar (Indian classical and Western music)
+- Engaging in photography and capturing moments that highlight the beauty of diversity and cultures
+- Exploring literature focused on the intersection of technology, culture, and social impact
+
+Languages:
+English (Fluent), Hindi (Fluent), Punjabi (Conversational)
+
+References:
+Available upon request

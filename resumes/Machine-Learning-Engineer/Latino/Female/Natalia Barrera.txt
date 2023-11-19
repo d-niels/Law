@@ -1,0 +1,40 @@
+Personal Statement:
+I am a dedicated and highly skilled machine learning engineer with a passion for harnessing the power of technology to solve complex problems. As a proud Latina female from Houston, Texas, I bring my diverse background and unique perspective to the field of machine learning. With a strong educational foundation in computer science and proficiency in various programming languages and technologies, I am confident in my ability to contribute innovative solutions to the field.
+
+Education:
+Bachelor of Science in Computer Science
+University of Houston, Houston, TX
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer | Stellar Technologies, Houston, TX
+- Leveraged Python, PyTorch, C++, and TensorFlow to develop cutting-edge machine learning models, improving agility and problem-solving capabilities.
+- Conducted research and implemented deep learning algorithms to optimize performance and accuracy.
+- Collaborated with cross-functional teams to deploy models and ensure seamless integration into existing systems.
+
+Data Scientist | Quantum Analytics, Houston, TX
+- Utilized strong analytical skills and statistical analysis to handle and process large datasets, improving data quality and accuracy.
+- Worked collaboratively with a team to train and deploy models, making data-driven decisions to drive business growth.
+- Demonstrated effective communication and collaboration skills to bridge the gap between researchers and developers.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Student Association | President
+- Led the Latino Student Association, organizing events and initiatives to promote cultural awareness and foster an inclusive community on campus.
+
+Sports Leadership Role | Volleyball Team Captain
+- Served as the captain of the university's volleyball team, showcasing leadership, teamwork, and communication skills in a competitive sports environment.
+
+Hobbies:
+- Playing the piano to express creativity and emotion
+- Exploring various art forms, such as painting and photography, to expand artistic horizons
+- Engaging in dance classes, including flamenco and salsa, to celebrate and connect with my vibrant cultural heritage
+
+Languages:
+- English (fluent)
+- Spanish (native proficiency)

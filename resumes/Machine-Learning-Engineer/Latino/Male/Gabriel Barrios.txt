@@ -1,0 +1,47 @@
+Gabriel Barrios
+Los Angeles, California | (555) 555-5555 | gabriel.barrios@email.com
+
+Personal Statement:
+Dedicated and skilled Machine Learning Engineer with a passion for leveraging cutting-edge technologies to develop innovative solutions. Committed to furthering advancements in artificial intelligence, I thrive in collaborative environments and possess a strong ability to communicate complex concepts. As a Latino male from Los Angeles, California, I am proud to bring my cultural diversity and unique perspective to the table. I am now seeking an opportunity to utilize my expertise in machine learning to contribute to a forward-thinking organization as a Machine Learning Engineer.
+
+Education:
+Bachelor of Science in Computer Science, Pacific Coast University, Los Angeles, California
+- Graduated with High Honors (3.9 GPA)
+
+Work Experience:
+Machine Learning Engineer, Innovision.AI, Los Angeles, California
+- Utilized PyTorch framework to develop and optimize machine learning models for various applications
+- Collaborated with cross-functional teams to ensure effective model training and deployment
+- Conducted in-depth research on deep neural networks, remaining up-to-date with the latest developments
+- Performed statistical analysis and data visualization to drive insights and improve model performance
+- Leveraged deep learning techniques for image and signal processing tasks
+
+Software Engineer, Quantumware Solutions, Los Angeles, California
+- Developed software solutions using C++ to contribute to the company's product lineup
+- Actively participated as a team player, collaborating with developers to meet project objectives
+- Efficiently handled and processed large datasets to extract valuable insights
+- Utilized Python to implement machine learning algorithms and improve product functionality
+- Demonstrated agility and problem-solving skills in rapidly adapting to evolving project requirements
+- Familiarity with TensorFlow framework for the development of neural network models
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Leadership Alliance, Pacific Coast University, Los Angeles, California
+- Actively promoted diversity and inclusion within the university community as a leader of the Latino Leadership Alliance
+- Organized and led basketball tournaments, fostering teamwork and sportsmanship within diverse groups
+- Coordinated various events to celebrate Latino culture, highlighting its rich traditions and contributions
+- Played a leadership role in advocating for equal opportunities for Latinos in the technology industry
+
+Hobbies:
+- Playing the guitar to explore different musical genres and express creativity
+- Engaging in basketball to foster a healthy and active lifestyle
+- Promoting diversity and gender equality through involvement in organizations and events that empower underrepresented groups
+
+Languages:
+- English (Fluent)
+- Spanish (Native)

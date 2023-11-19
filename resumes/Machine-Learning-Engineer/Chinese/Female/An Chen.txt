@@ -1,0 +1,46 @@
+Personal Statement:
+I am a highly motivated and dedicated machine learning engineer with a strong background in computer science. As a Chinese female from Houston, Texas, I am passionate about breaking barriers and leveraging diversity within the tech industry. With expertise in deep neural net research and statistical analysis, I am excited to contribute my skills to a dynamic and innovative team.
+
+Education:
+Bachelor of Science in Computer Science
+University of Houston, Houston, TX
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer - Quantum AI Solutions, Houston, TX
+- Applied understanding of deep neural net research to improve existing models
+- Utilized PyTorch and TensorFlow to develop and optimize machine learning algorithms
+- Collaborated with cross-functional teams to ensure effective communication and collaboration
+- Successfully trained and deployed models for various projects
+
+Software Engineer Intern - Stellar Innovations, Austin, TX
+- Conducted statistical analysis to identify trends and patterns in large datasets
+- Developed and implemented C++ solutions for complex problems, demonstrating agility and problem-solving skills
+- Acquired proficiency in data handling and processing techniques
+- Applied deep learning methodologies to enhance software performance
+- Proved to be an effective team player, contributing to the overall success of the team's projects
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Basketball Team Captain
+- Led and organized a basketball team, promoting teamwork, discipline, and sportsmanship
+- Mentored young athletes to help them reach their full potential
+
+Diversity and Inclusion Initiatives
+- Actively participated in various diversity and inclusion programs, promoting gender equity and cultural awareness
+- Organized events to celebrate diverse cultures and promote inclusivity in the community
+
+Hobbies:
+- Playing the piano (Chinese traditional instrument - Guzheng)
+- Exploring and appreciating diverse arts and crafts
+- Engaging in outdoor activities, such as hiking and cycling, to stay fit and healthy
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+- Spanish (Conversational)

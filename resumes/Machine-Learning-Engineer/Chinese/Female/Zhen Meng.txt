@@ -1,0 +1,44 @@
+Zhen Meng
+Los Angeles, California | (555) 123-4567 | zhenmeng@email.com
+
+Personal Statement:
+A dedicated and results-driven machine learning engineer with a strong background in computer science. Leveraging expertise in deep learning and data handling, I am committed to developing cutting-edge machine learning solutions. With excellent problem-solving skills and a passion for collaboration, I strive to contribute to the advancement of AI technology.
+
+Education:
+Bachelor of Science in Computer Science, Pacific University, Los Angeles, California
+- Graduated with a GPA of 3.9
+- Relevant coursework: Machine Learning, Algorithms, Data Structures, Artificial Intelligence
+
+Work Experience:
+Machine Learning Engineer, Enigma Systems, Los Angeles, California
+- Developed deep learning models using TensorFlow and PyTorch for image recognition tasks.
+- Utilized Python and C++ for implementing and optimizing algorithms.
+- Performed data handling and processing, including statistical analysis, to improve model performance.
+- Collaborated with cross-functional teams to deploy models and ensure successful integration.
+
+Software Engineer, Quantum Insights, Los Angeles, California
+- Successfully trained and deployed machine learning models for real-time anomaly detection and prediction.
+- Leveraged PyTorch for model training and optimization.
+- Demonstrated strong communication and collaboration skills while working closely with the data science team.
+- Showed agility and problem-solving abilities to overcome challenges and meet project deadlines.
+- Gained invaluable knowledge of deep neural net research, staying up-to-date with the latest advancements.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Chinese American Association, Member
+   - Dedicated to preserving and celebrating Chinese culture and traditions, fostering cultural exchange.
+- Soccer Team Captain, Los Angeles Lionhearts
+   - Led and coordinated the soccer team's strategies, inspiring teamwork and ensuring success in regional tournaments.
+
+Hobbies:
+- Playing the piano
+- Exploring various ethnic arts and crafts
+- Engaging in community initiatives to empower women in technology
+
+Languages:
+- Fluent in English and Mandarin Chinese

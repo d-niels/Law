@@ -1,0 +1,39 @@
+Personal Statement:
+I am a driven and innovative machine learning engineer who is deeply passionate about using technology to make a positive impact. With a strong educational background in computer science and expertise in various programming languages and deep learning frameworks, I am committed to developing cutting-edge solutions. My analytical mindset, problem-solving abilities, and effective communication skills allow me to excel in challenging environments and collaborate seamlessly with diverse teams.
+
+Education:
+Bachelor of Science in Computer Science, Sunshine State University, Orlando, FL
+- Major: Computer Science
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, HyperTech Solutions, Jacksonville, FL
+- Developed and optimized machine learning models for diverse applications.
+- Conducted model training and deployment using PyTorch, Python, C++, TensorFlow, and statistical analysis techniques.
+- Collaborated closely with cross-functional teams to ensure seamless integration and optimize model utilization.
+
+Data Scientist Intern, Apex Data Analytics, Jacksonville, FL
+- Deepened understanding of deep neural network technologies and methodologies through intensive research and practical application.
+- Skillfully handled and processed vast datasets to extract valuable insights.
+- Demonstrated agility and problem-solving skills to overcome complex challenges.
+- Effectively communicated findings and collaborated with team members to improve overall model performance.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Served as a sports leader, organizing and coaching a local youth basketball team, instilling leadership qualities and teamwork among the players.
+- Actively participated in various community initiatives aimed at promoting diversity and inclusion in the tech industry, especially advocating for greater representation of individuals from underrepresented backgrounds.
+
+Hobbies:
+- Playing the piano
+- Exploring diverse musical genres
+- Engaging in outdoor activities such as hiking and cycling
+
+Languages:
+- Fluent in English and Spanish
+
+References available upon request.

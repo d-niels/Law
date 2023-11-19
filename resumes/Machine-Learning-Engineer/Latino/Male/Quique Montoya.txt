@@ -1,0 +1,46 @@
+Quique Montoya
+
+Personal Statement:
+Enthusiastic and dedicated Machine Learning Engineer with a strong background in Deep Neural Net Research and a focus on problem-solving. Committed to leveraging statistical analysis and data handling techniques to develop innovative solutions. A team player with excellent communication and collaboration skills. Seeking a challenging position as a Machine Learning Engineer to contribute to cutting-edge technologies and make a meaningful impact.
+
+Education:
+Bachelor of Science in Computer Science
+Texas Tech University, Lubbock, TX
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer | Advantage Solutions Inc., Dallas, TX   January 2019 - Present
+- Applied principles of Deep Neural Net Research to enhance the efficiency and accuracy of machine learning models.
+- Demonstrated agility and problem-solving abilities to adapt to dynamic project requirements.
+- Utilized advanced data handling and processing techniques to clean, transform, and analyze large datasets.
+- Conducted extensive statistical analysis to derive actionable insights and drive decision-making processes.
+- Developed and deployed deep learning models for various applications.
+- Collaborated seamlessly with cross-functional teams to ensure the successful execution of projects.
+
+Software Developer | InnovateTech Solutions, Dallas, TX   May 2017 - December 2018
+- Collaborated and communicated effectively with team members to develop software solutions using Python and C++.
+- Led the model training and deployment process, ensuring seamless integration and optimal performance.
+- Utilized PyTorch and TensorFlow frameworks to build and optimize machine learning models.
+- Actively participated in code reviews and debugging activities to ensure software quality and stability.
+- Contributed to the design and development of efficient software architectures.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinx in Tech Mentor | Tech Allies, Dallas, TX   September 2019 - Present
+- Mentored and guided aspiring Latinx individuals pursuing careers in the tech industry.
+- Provided valuable insights and support to bridge the gap in representation and diversity in the technology field.
+- Held a leadership role in coaching a local youth basketball team, fostering teamwork and leadership skills.
+
+Hobbies:
+- Playing the keyboard
+- Exploring diverse cultures through music, dance, and art
+- Reading books on artificial intelligence advancements
+
+Languages:
+- English (Fluent)
+- Spanish (Native)

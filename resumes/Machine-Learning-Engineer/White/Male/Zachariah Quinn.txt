@@ -1,0 +1,50 @@
+Zachariah Quinn
+
+Personal Statement:
+A driven and highly motivated machine learning engineer with a passion for delivering innovative solutions. Dedicated to leveraging advanced statistical analysis and deep neural net research to develop cutting-edge machine learning algorithms. Committed to collaborating with cross-functional teams to optimize data handling and processing for improved model accuracy and performance.
+
+Education:
+Bachelor of Science in Computer Science, XYZ State University, Dallas, Texas
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Stellar Technologies, Dallas, Texas
+- Conducted statistical analysis to gain insights into complex datasets.
+- Developed and optimized C++ code to handle and process large volumes of data effectively.
+- Leveraged Python to implement and deploy machine learning models.
+- Kept abreast of the latest advancements in deep neural net research to understand and evaluate their potential applications.
+- Collaborated with a team of engineers to ensure seamless integration of machine learning algorithms into existing systems.
+
+Junior Machine Learning Engineer, Quantum AI, Dallas, Texas
+- Demonstrated agility and problem-solving skills by efficiently addressing and resolving critical issues.
+- Communicated and collaborated with team members to ensure effective project execution.
+- Utilized PyTorch and TensorFlow to implement and train deep learning models.
+- Successfully deployed models into production and optimized them for real-world scenarios.
+- Conducted comprehensive model training and deployment, maximizing accuracy and performance.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnic Diversity Advocate, XYZ State University, Dallas, Texas
+- Actively promoted diversity, inclusivity, and equality on campus.
+- Organized advocacy events and mentorship programs to empower minority students.
+- Advocated for the representation and recognition of cultural diversity within the university.
+
+Sports Leadership:
+Captain, XYZ State University Soccer Team, Dallas, Texas
+- Demonstrated exceptional leadership skills by motivating and inspiring the team.
+- Oversaw team training and development, fostering both individual and collective growth.
+- Led the team to victory in the state championships, building strong camaraderie and teamwork.
+
+Hobbies:
+Playing the guitar, soccer, and basketball.
+Active member of the local cultural and arts society, participating in ethnic music events.
+
+Languages:
+Fluent in English and Spanish.
+
+References available upon request.

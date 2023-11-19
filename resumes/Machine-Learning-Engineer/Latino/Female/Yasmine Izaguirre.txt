@@ -1,0 +1,45 @@
+YASMINE IZAGUIRRE
+Austin, Texas | yizaguirre@email.com | (555) 123-4567
+
+PERSONAL STATEMENT
+Results-driven machine learning engineer with a passion for developing innovative solutions using deep learning algorithms. Skilled in model training, deployment, and statistical analysis. Committed to utilizing my strong problem-solving abilities and data handling expertise to drive advancements in artificial intelligence.
+
+EDUCATION
+Bachelor of Science in Computer Science | Texas Tech University | Lubbock, Texas
+- GPA: 3.9/4.0
+- Relevant Coursework: Machine Learning, Artificial Intelligence, Data Structures, Algorithms
+
+WORK EXPERIENCE
+Machine Learning Engineer | InnovAIte Solutions | Austin, Texas | Jan 2019 - Present
+- Developed deep learning models and frameworks, ensuring accurate model training and deployment.
+- Employed statistical analysis techniques, resulting in improved model performance and accuracy.
+- Collaborated with cross-functional teams, actively contributing to agile problem-solving sessions.
+- Demonstrated strong data handling and processing abilities, managing and analyzing large datasets.
+- Played a key role in developing highly successful machine learning projects, resulting in increased client satisfaction.
+
+Software Developer | TechGenius Corporation | Austin, Texas | May 2017 - Dec 2018
+- Utilized C++ and TensorFlow to assist in the development of deep neural net research projects.
+- Implemented Python and PyTorch to optimize machine learning algorithms and enhance model performance.
+- Collaborated with a team of developers, fostering effective communication and coordination.
+- Assisted in debugging and troubleshooting code, ensuring quality and stability of software products.
+
+SKILLS
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Latino Female Empowerment Initiative | Austin, Texas | Volunteer
+- Actively involved in promoting diversity and inclusion, particularly highlighting the achievements of Latino females in the tech industry.
+- Organized and led workshops and mentoring programs to encourage more young Latinas to pursue careers in STEM.
+- Served as a team captain, coaching and motivating a group of young girls in basketball.
+
+HOBBIES
+- Playing the guitar, showcasing my musical creativity and artistic expression.
+- Engaging in traditional Latin dances, including salsa and merengue, representing my cultural heritage.
+- Participating in community events and festivals that celebrate Latin American culture.
+
+LANGUAGES
+- English: Fluent
+- Spanish: Native Speaker

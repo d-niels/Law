@@ -1,0 +1,47 @@
+Ping Lang
+Oakland, California | (123) 456-7890 | ping.lang@email.com
+
+Personal Statement:
+A highly motivated and detail-oriented machine learning engineer with a strong foundation in computer science and a passion for leveraging technology to drive innovation. I am dedicated to continuous learning, staying up-to-date with the latest developments in machine learning, and applying my knowledge to solve complex problems. With a track record of successfully delivering projects and collaborating with cross-functional teams, I am adept at finding creative solutions and driving results.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+Stanford University
+
+Work Experience:
+Machine Learning Engineer Intern | TechKnow Inc., San Francisco, CA | May 20XX - Aug 20XX
+- Developed a deep learning model to enhance image classification accuracy by 10% using TensorFlow and PyTorch
+- Collaborated with a team of engineers to improve model training and deployment processes, resulting in a 20% reduction in training time
+- Conducted in-depth research and gained a comprehensive understanding of deep neural networks
+
+Software Developer | InnovateTech Solutions, Oakland, CA | Jan 20XX - Apr 20XX
+- Utilized statistical analysis techniques to optimize data processing efficiency by 30%
+- Collaborated and communicated effectively with cross-functional teams to ensure smooth project execution
+- Developed C++ and Python scripts for data handling and processing, contributing to a seamless workflow
+- Demonstrated agility and problem-solving skills by identifying and resolving critical issues in real-time
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Chinese American Cultural Association | Treasurer | Oakland, CA | 20XX - Present
+- Managed financial transactions and budgets, ensuring the smooth functioning of the organization
+- Organized cultural events and fundraisers, promoting Chinese heritage and fostering community engagement
+
+Sports Leadership | Captain, Women's Basketball Team | University of California, Berkeley | 20XX - 20XX
+- Led and motivated a diverse team, fostering a collaborative and inclusive environment
+- Organized team practices and coordinated game strategies, resulting in an improved win-loss ratio
+
+Hobbies:
+- Playing the traditional Chinese instrument "Erhu"
+- Exploring local art exhibits and galleries
+- Expressing creativity through painting and sketching
+
+Languages:
+Fluent in English and Mandarin Chinese
+
+References:
+Available upon request

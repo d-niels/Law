@@ -1,0 +1,46 @@
+Ellis Owens
+
+Personal Statement:
+Innovative and driven Machine Learning Engineer with a passion for utilizing cutting-edge technologies to create efficient and scalable solutions. Dedicated to leveraging diverse perspectives and backgrounds to drive innovation and foster inclusivity in the field. Excited to apply my skills and expertise to tackle complex challenges in the realm of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, Metropolitan University, Chicago, IL
+- Graduated with a GPA of 3.9
+- Relevant coursework: Machine Learning, Artificial Intelligence, Data Structures, Algorithms
+
+Work Experience:
+Machine Learning Engineer, NovaTech Solutions, Chicago, IL
+- Developed and implemented advanced machine learning models using TensorFlow and PyTorch frameworks
+- Demonstrated strong teamwork skills, collaborating with cross-functional teams to optimize model performance and ensure seamless integration
+- Applied deep learning techniques, agility, and problem-solving skills to tackle complex challenges
+- Led the training and deployment of models for real-world applications
+- Proficient in Python and C++ for effective implementation, and expert in model training and deployment
+
+Data Analyst Intern, Quantum Analytics, Chicago, IL
+- Communicated and collaborated effectively with cross-functional teams to extract insights from data
+- Utilized Python for data handling, processing, and statistical analysis
+- Assisted in developing C++ modules for optimizing data analysis pipelines
+- Gained a deep understanding of deep neural net research and its practical applications
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role: Captain of the Metropolitan University Basketball Team
+- Led and inspired a diverse team, fostering inclusivity and teamwork on and off the court
+- Mentored teammates to improve their skills and build camaraderie
+- Organized basketball tournaments to raise funds for community initiatives and promote the love for the sport
+
+Diversity and Inclusion Advocate: Member, Chicago Association of Black Computer Scientists
+- Actively contributed to promoting diversity and inclusion in the tech industry
+- Organized workshops and seminars to educate and empower underrepresented communities
+- Mentored students from diverse backgrounds to pursue careers in technology
+
+Hobbies:
+Playing the saxophone, promoting diversity in music, and advocating for equitable representation in the arts
+
+Languages:
+English (Fluent), Spanish (Conversational)

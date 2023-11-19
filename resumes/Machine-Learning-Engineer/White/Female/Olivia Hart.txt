@@ -1,0 +1,42 @@
+Olivia Hart
+
+Personal Statement:
+Highly motivated and dedicated machine learning engineer with a passion for utilizing advanced technology to drive innovation. With a strong background in computer science and expertise in machine learning techniques, I am committed to developing intelligent systems that solve complex problems. Through effective communication, collaboration, and a deep understanding of neural networks, I strive to contribute to the advancement of cutting-edge technology.
+
+Education:
+Bachelor of Science in Computer Science, San Diego State University, San Diego, CA
+GPA: 3.9
+
+Work Experience:
+
+Machine Learning Engineer, Quantum Innovations, San Diego, CA
+- Developed machine learning models using Python, implementing advanced algorithms for statistical analysis and deep neural net research.
+- Collaborated with interdisciplinary teams to enhance data handling and processing techniques, resulting in improved efficiency and accuracy.
+- Utilized C++ to optimize software performance and streamline data processing.
+- Communicated findings and solutions to stakeholders, resulting in effective decision-making processes.
+
+Machine Learning Engineer, Aurora Technologies, San Francisco, CA
+- Collaborated effectively with cross-functional teams to develop and implement machine learning models using TensorFlow and PyTorch.
+- Played a pivotal role in training and deploying models, contributing to enhanced accuracy and performance.
+- Demonstrated agility and problem-solving skills while addressing complex challenges in deep learning.
+- Actively participated in code reviews, ensuring quality standards and maintaining a collaborative work environment.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer, Society for Advancement of Women in STEM: Engaged in initiatives to empower and support women in STEM fields, encouraging greater representation and equality.
+- Basketball Team Captain, San Diego State University: Led the university's basketball team, fostering teamwork and leadership skills while promoting diversity and gender equality.
+
+Hobbies:
+- Playing the guitar: Expressing creativity and passion through music.
+- Exploring diverse cultures: Embracing different traditions, customs, and languages to foster inclusivity and understanding.
+
+Languages:
+- English (Fluent)
+- [Additional language(s) if applicable]
+
+References available upon request.

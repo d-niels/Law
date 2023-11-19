@@ -1,0 +1,43 @@
+Personal Statement:
+Passionate and driven machine learning engineer with a strong background in computer science and a dedication to solving complex problems through innovative solutions. Skilled in various programming languages and experienced in handling and processing data for statistical analysis. A collaborative team player with excellent communication skills, eager to contribute to groundbreaking advancements in machine learning.
+
+Education:
+Bachelor of Science in Computer Science, University of Houston, Houston, Texas
+- Graduated with a 3.9 GPA
+
+Work Experience:
+
+Machine Learning Engineer | Quantum Systems, Houston, Texas | May 2019 - Present
+- Developed and implemented data handling and processing procedures to ensure efficient analysis and modeling.
+- Conducted statistical analysis on large datasets to identify patterns and trends, enhancing the accuracy of machine learning models.
+- Collaborated with cross-functional teams to create PyTorch-based models for real-time applications.
+- Utilized strong communication skills to effectively collaborate on projects and present findings to stakeholders.
+- Demonstrated proficiency in C++ for optimizing code and implementing efficient algorithms.
+
+Research Assistant | Innovate Labs, Houston, Texas | August 2017 - May 2019
+- Assisted in understanding deep neural net research and developed TensorFlow models for various projects.
+- Python proficiency leveraged to preprocess and augment datasets, significantly improving training efficiency.
+- Utilized deep learning techniques to train and deploy models for real-world applications.
+- Demonstrated agility and problem-solving skills in resolving challenges related to model optimization and performance.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer at the Asian American Community Center, providing support and resources to individuals from diverse backgrounds, including Asians and other underrepresented groups.
+- Basketball Leadership: Captain of the University of Houston Men's Basketball Team, leading in organizing team practices, coordinating game schedules, and fostering team spirit.
+
+Hobbies:
+- Playing the piano
+- Traveling to explore different cultures and languages
+- Participating in local community events focused on fostering diversity and inclusion
+
+Languages:
+- English (Fluent)
+- Korean (Native)
+- Spanish (Proficient)
+
+References available upon request.

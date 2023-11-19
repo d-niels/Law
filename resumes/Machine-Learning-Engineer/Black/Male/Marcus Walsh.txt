@@ -1,0 +1,49 @@
+Marcus Walsh
+
+Philadelphia, Pennsylvania | (555) 555-5555 | marcuswalsh@email.com
+
+Personal Statement:
+Highly motivated and dedicated machine learning engineer with a passion for leveraging artificial intelligence to solve complex problems. Adept at utilizing statistical analysis and deep learning techniques to develop innovative solutions. Seeking a challenging role to contribute expertise in machine learning and drive advancements in technology. 
+
+Education:
+Bachelor of Science in Computer Science, ABC University, Philadelphia, PA | GPA: 3.9/4.0 | May 20XX
+
+Work Experience:
+
+Machine Learning Engineer | TechniCorp AI Solutions, Philadelphia, PA | June 20XX - Present
+- Utilized statistical analysis and Python for data handling, processing, and training models.
+- Developed and deployed deep learning algorithms for pattern recognition and prediction.
+- Stayed updated with the latest research on deep neural networks to ensure effective implementation.
+
+Software Engineer | DataTech Solutions, Philadelphia, PA | September 20XX - May 20XX
+- Collaborated with cross-functional teams to enhance communication and streamline processes.
+- Utilized PyTorch, TensorFlow, and C++ to develop software solutions for complex problems.
+- Demonstrated agility and problem-solving skills to meet project deadlines.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Co-Leader | Philadelphia Association of Black Technologists
+- Organize and lead initiatives to support diversity and inclusion in the technology sector.
+- Provide mentorship and guidance to aspiring black professionals in the field.
+- Foster collaboration and knowledge-sharing among members.
+
+Basketball Team Captain | XYZ University Men's Basketball Team
+- Led the team to the regional championships as the captain during the 20XX season.
+- Mentored and motivated teammates, fostering a strong sense of camaraderie.
+
+Hobbies:
+- Playing the guitar
+- Participating in community service projects
+- Exploring different genres of music and attending live performances
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate level)
+
+References available upon request.

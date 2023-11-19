@@ -1,0 +1,41 @@
+Orlando Williams
+Baltimore, Maryland | (123) 456-7890 | orlandowilliams@email.com
+
+Personal Statement:
+A highly motivated and accomplished machine learning engineer with a passion for leveraging artificial intelligence to solve complex problems. A proactive problem solver who thrives in collaborative environments, I am dedicated to pushing the boundaries of technology and driving innovation in the field of machine learning. With expertise in TensorFlow, PyTorch, and deep learning, I am eager to contribute to a dynamic organization as a machine learning engineer.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Johnston University, Baltimore, Maryland
+
+Work Experience:
+Machine Learning Engineer (Job #1) | AtlasAI Solutions, Baltimore, MD | January 2019 - Present
+- Developed and implemented state-of-the-art machine learning models utilizing TensorFlow for real-time analysis and prediction.
+- Leveraged Python for data preprocessing, cleaning, and feature engineering, resulting in improved model accuracy.
+- Demonstrated exceptional communication and collaboration skills while working closely with cross-functional teams to deploy machine learning solutions.
+- Conducted statistical analysis to extract valuable insights and drive data-driven decision making.
+
+Data Scientist Intern (Job #2) | Quantum Insights, Baltimore, MD | May 2018 - August 2018
+- Efficiently handled and processed large datasets, ensuring seamless data engineering pipelines for further analysis.
+- Utilized PyTorch for model training, optimization, and deployment, enabling accurate prediction and enhanced performance.
+- Conducted in-depth research on the latest advancements in deep neural networks, staying up-to-date with cutting-edge techniques.
+- Leveraged C++ to optimize algorithms, improving data processing capabilities and reducing computational time.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Member, African American and Minority Engineers Society (AAMES), Johnston University | 2016 - Present
+- Organized and led basketball tournaments to promote teamwork, sportsmanship, and physical fitness among minority students.
+- Actively participated in initiatives to support and empower underrepresented groups in STEM fields.
+
+Hobbies:
+- Playing the saxophone
+- Exploring cultural heritage through music and dance
+- Promoting gender and racial diversity in STEM fields
+
+Languages:
+Fluent in English and Spanish

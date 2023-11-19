@@ -1,0 +1,44 @@
+Lyric Young
+
+Personal Statement:
+Motivated and dedicated machine learning engineer with a passion for leveraging data science and artificial intelligence to solve complex problems. With a strong background in computer science and a focus on deep learning, I am eager to contribute my skills to create innovative solutions in the field of machine learning. Committed to diversity and inclusion, I strive to be a role model for other black females in the industry, demonstrating the power of representation and pushing the boundaries of what is possible.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Charlotte Institute of Technology, Charlotte, NC
+
+Work Experience:
+Machine Learning Engineer Intern, Aether Technologies, Charlotte, NC
+- Developed advanced models utilizing Data Handling and Processing techniques
+- Utilized Deep Learning algorithms and frameworks such as PyTorch and TensorFlow
+- Successfully trained and deployed models for real-world applications
+- Conducted Statistical Analysis to drive insights and enhance model performance
+
+Software Developer, Quantum Solutions, Charlotte, NC
+- Collaborated as a valuable team player to deliver successful projects
+- Proficient in Python and developed algorithms to further understand Deep Neural Net Research
+- Utilized C++ to optimize existing software solutions
+- Demonstrated excellent communication and collaboration skills to ensure smooth project execution
+- Displayed agility and problem-solving abilities to overcome technical challenges
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Black in Tech Mentorship Program, Charlotte, NC
+- Mentored aspiring black females interested in pursuing careers in technology
+- Provided guidance and support to navigate the industry's challenges
+- Organized and led basketball tournaments, fostering teamwork and leadership skills
+
+Hobbies:
+- Playing the piano: Expressing creativity and passion through music, enhancing focus and discipline
+- Exploring different cultures through literature and travel, promoting an appreciation for diversity and inclusivity
+
+Languages:
+- English (Native)
+- Spanish (Proficient)
+
+References available upon request.

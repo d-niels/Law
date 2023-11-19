@@ -1,0 +1,45 @@
+Tyrone Collins
+Indianapolis, Indiana | (123) 456-7890 | tyrone.collins@email.com
+
+Personal Statement:
+Results-driven and highly motivated machine learning engineer with a passion for leveraging cutting-edge technologies to develop innovative solutions. Dedicated to advancing the field of artificial intelligence and creating positive social impact. Possesses exceptional collaboration and communication skills, with a proven ability to work effectively in diverse teams. Seeking a challenging position as a machine learning engineer to contribute to groundbreaking advancements in the field.
+
+Education:
+Bachelor of Science in Computer Science, Indianapolis State University, Indianapolis, Indiana
+- GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, StarTech Solutions, Indianapolis, Indiana
+- Developed and deployed deep neural networks utilizing TensorFlow for real-time analysis and prediction.
+- Conducted statistical analysis and performed data processing to optimize model performance.
+- Collaborated with cross-functional teams to brainstorm, design, and implement machine learning algorithms.
+- Leveraged strong communication skills to effectively present findings to stakeholders and drive project success.
+
+Machine Learning Research Assistant, InnovateX Labs, Indianapolis, Indiana
+- Assisted in understanding and contributing to ongoing deep neural net research projects.
+- Trained models using PyTorch and improved data handling and processing techniques.
+- Utilized Python and C++ for model training, deployment, and problem-solving.
+- Demonstrated agility and problem-solving abilities in a fast-paced research environment.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Ambassador, Indianapolis State University, Indianapolis, Indiana
+- Actively promoted diversity and inclusion initiatives within the university community.
+- Organized and led workshops and events to increase cultural awareness and foster inclusivity.
+- Served as a mentor to underrepresented students pursuing computer science degrees.
+- Demonstrated strong leadership skills as the captain of the university basketball team.
+
+Hobbies:
+Basketball: Actively participate in local leagues as a player and coach, fostering teamwork and sportsmanship.
+Music: Play the piano, exploring various genres and expressing creativity through music.
+
+Languages:
+English (Fluent)
+Spanish (Proficient)
+
+References available upon request.

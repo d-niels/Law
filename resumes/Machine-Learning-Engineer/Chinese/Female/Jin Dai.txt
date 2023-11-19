@@ -1,0 +1,41 @@
+Personal Statement:
+As a Chinese female from San Jose, California, I am a proactive and driven Machine Learning Engineer with a strong desire to leverage data to create impactful solutions. With a solid background in Computer Science and an unwavering commitment to excellence, I am confident in my ability to push the boundaries of machine learning.
+
+Education:
+Bachelor of Science in Computer Science
+California State University, San Jose, California
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer | TechGenius | San Jose, CA
+- Developed and deployed models for real-time data analysis and predictive analytics
+- Collaborated effectively with cross-functional teams to ensure seamless integration of machine learning solutions
+- Expertise in handling and processing large datasets
+- Proficient in Python, TensorFlow, and PyTorch frameworks
+
+Machine Learning Engineer | Vortex Analytics | San Jose, CA
+- Conducted statistical analysis on complex datasets to extract valuable insights
+- Demonstrated exceptional teamwork skills while working on projects with diverse professionals
+- Deep understanding of deep neural net research and its application in solving real-world problems
+- Proficient in deep learning techniques and utilized them to enhance Vortex Analytics' data processing capabilities
+- Proficient in C++ for efficient algorithm implementations
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Chinese Community Outreach Volunteer | San Jose Chinese Association
+- Organized cultural exchange events and provided support to new immigrants, promoting community integration
+- Taught Mandarin Chinese to kids and adults, fostering appreciation for diverse languages and cultures
+- Sports Leadership: Led a community basketball team, motivating members and fostering sportsmanship
+
+Hobbies:
+- Playing the erhu (a traditional Chinese stringed instrument) to connect with my cultural heritage
+- Engaging in basketball, promoting teamwork and physical fitness for all genders
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

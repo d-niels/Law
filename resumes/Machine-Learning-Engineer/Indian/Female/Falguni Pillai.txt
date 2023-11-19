@@ -1,0 +1,54 @@
+Falguni Pillai
+
+New York, New York  |  Phone: XXX-XXX-XXXX  |  Email: falgunipillai@gmail.com
+
+
+Personal Statement:
+Passionate and dedicated Machine Learning Engineer with a strong academic background in Computer Science. Eager to leverage my expertise in Python, statistical analysis, and deep learning to develop innovative solutions. Committed to staying updated with the latest advancements in the field and utilizing them to create impactful algorithms.
+
+
+Education:
+Bachelor of Science in Computer Science, Manhattan University, New York, NY
+GPA: 3.9/4.0
+
+
+Work Experience:
+Machine Learning Engineer, QuantumAI, New York, NY
+- Developed cutting-edge machine learning algorithms using Python, statistical analysis, and deep learning techniques to extract meaningful insights from large datasets.
+- Implemented C++ to optimize model training and deployment processes, resulting in a significant increase in efficiency.
+- Collaborated with researchers to understand and leverage deep neural net research, enabling the development of innovative and state-of-the-art solutions.
+- Utilized my expertise in deep learning to improve the accuracy of predictive models and optimize decision-making processes.
+
+Machine Learning Engineer, Intellectia, New York, NY
+- Applied PyTorch to develop advanced models for image recognition, achieving an impressive accuracy rate of 95%.
+- Demonstrated excellent communication and collaboration skills, working effectively in cross-functional teams to deliver projects on time and exceed client expectations.
+- Managed data handling and processing, ensuring high data quality and integrity throughout the entire process.
+- Showcased agility and strong problem-solving abilities, swiftly identifying and resolving complex issues, leading to improved model performance.
+- Proven team player, actively contributing to a supportive and collaborative work environment.
+
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+
+Volunteer & Leadership:
+Volunteer, Diversity in Tech Non-Profit, New York, NY
+- Actively participated in promoting diversity and inclusivity within the Indian community in New York.
+- Held leadership in a local cricket club, organizing and leading the XYZ Cricket Club to encourage participation and sportsmanship.
+
+
+Hobbies:
+- Playing the tabla, a traditional Indian percussion instrument.
+- Engaging in various ethnic and gender-related cultural activities to promote diversity, understanding, and empowerment.
+
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Marathi (Intermediate)
+
+
+References available upon request.

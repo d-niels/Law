@@ -1,0 +1,41 @@
+Personal Statement:
+I am a highly motivated and dedicated Chinese female Machine Learning Engineer with a passion for leveraging cutting-edge technology to solve complex problems. With a strong background in computer science and a genuine enthusiasm for machine learning, I am committed to driving technological advancements in this field. Through my education and work experience, I have developed a solid foundation in data handling, deep learning, and model deployment. I possess excellent communication and collaboration skills, allowing me to effectively work in diverse teams. I am now seeking a challenging role as a Machine Learning Engineer to contribute my expertise and make a meaningful impact in the industry.
+
+Education:
+Bachelor of Science in Computer Science (Honors), University of Illinois at Urbana-Champaign
+- GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Aurora Technologies, San Francisco, CA
+- Data Handling and Processing: Utilized advanced algorithms to preprocess and clean large datasets for improved model performance.
+- Understanding Deep Neural Net Research: Conducted comprehensive literature reviews on recent advancements in deep neural network research, keeping abreast of the latest developments in the field.
+- Communication and Collaboration: Collaborated with cross-functional teams of engineers and domain experts to gather requirements, share insights, and deploy machine learning models into production.
+- Python, Deep Learning, Model Training and Deployment: Developed and implemented deep learning models using Python and TensorFlow, trained these models on large datasets, and deployed them for production use.
+
+Software Developer, Stellar Innovations, Los Angeles, CA
+- Agility and Problem-Solving: Demonstrated resilience and adaptability in a fast-paced development environment, effectively solving complex problems and delivering high-quality software solutions.
+- C++: Utilized C++ programming language to develop and optimize software applications, ensuring efficient and robust performance.
+- TensorFlow: Developed machine learning algorithms using TensorFlow, optimizing them for enhanced model accuracy and computational efficiency.
+- Statistical Analysis: Conducted statistical analysis on large datasets to identify patterns, correlations, and trends, providing valuable insights to drive data-driven decision-making.
+- Team Player: Collaborated closely with cross-functional teams, fostering a positive team environment and contributing to the overall success of projects.
+- PyTorch: Developed deep learning models using PyTorch framework, leveraging its flexibility and ease of use.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnicity and Gender Advocacy Volunteer, Honolulu Chinese-American Association, Honolulu, Hawaii
+- Actively promote diversity and gender equality within the community, organizing events and initiatives to raise awareness and foster inclusivity.
+- Sports Leadership: Served as a captain of a women's basketball team, coordinating training sessions, fostering teamwork, and promoting fair play in the team's pursuit of excellence.
+
+Hobbies:
+- Playing the guzheng (traditional Chinese musical instrument)
+- Promoting cultural exchange through international dance performances
+- Ensuring inclusivity and diversity in technology communities through participation in diversity and inclusion initiatives
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

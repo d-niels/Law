@@ -1,0 +1,43 @@
+Journey Ellis
+
+Personal Statement:
+As a passionate and dedicated machine learning engineer, I am committed to leveraging my skills in data handling and processing, deep learning, and problem-solving to drive advancements in the field. With a strong educational background in computer science and a high aptitude for collaborating with teams, I am eager to contribute to the development of innovative solutions. As a black female from Chicago, I am inspired to break barriers and pave the way for underrepresented individuals in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Windham University (Chicago, IL)
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Veritron Analytics
+- Spearheaded the development and implementation of cutting-edge data handling and processing techniques, resulting in a 30% increase in data accuracy.
+- Collaborated seamlessly with cross-functional teams to enhance communication and collaboration, leading to a 20% boost in productivity.
+- Conducted extensive research to gain a deep understanding of neural net research, applying insights to optimize machine learning models.
+- Leveraged Python and C++ programming languages to design and deploy deep learning algorithms for various projects.
+
+Research Assistant, Emergent Intelligence Solutions
+- Showcased agility and effective problem-solving abilities in carrying out statistical analysis for machine learning research.
+- Acted as an indispensable team player, contributing to model training and deployment for cutting-edge projects.
+- Utilized TensorFlow and PyTorch frameworks to optimize machine learning models and enhance prediction accuracy.
+- Collaborated with peers to publish research papers in notable machine learning conferences.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+National Society of Black Engineers (NSBE) - Chicago Chapter:
+- Served as a dedicated member, actively fostering community engagement and supporting underrepresented individuals in engineering and technology roles.
+- Led the NSBE basketball team as the captain, promoting teamwork and inclusivity within the organization by participating in tournaments and organizing local community events.
+
+Hobbies:
+- Playing the saxophone, showcasing my love for music and artistic expression.
+- Exploring diverse cultural aspects and engaging in dialogues that promote inclusivity and understanding.
+- Participating in community outreach programs that empower underprivileged youth to pursue careers in technology and STEM fields.
+
+Languages:
+- English (Fluent)
+- Intermediate level proficiency in French
+
+References available upon request.

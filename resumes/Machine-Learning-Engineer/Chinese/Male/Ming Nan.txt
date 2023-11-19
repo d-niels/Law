@@ -1,0 +1,46 @@
+Personal Statement:
+I am a motivated and innovative machine learning engineer with a passion for developing cutting-edge solutions. With a strong foundation in computer science and a focus on machine learning, I am equipped with the skills and knowledge to drive forward technology advancements. As a Chinese male from Houston, Texas, I bring a diverse perspective and an unwavering commitment to achieving excellence in everything I do. I strive to push the boundaries of machine learning and make a meaningful impact in the field.
+
+Education:
+Bachelor of Science in Computer Science, Houston Technical University, Houston, Texas
+- Graduated with a 3.9 GPA, demonstrating exceptional academic performance
+- Completed coursework in algorithms, data structures, artificial intelligence, and machine learning
+- Participated in research projects on deep neural networks, exploring their applications in speech recognition and image processing
+
+Work Experience:
+Machine Learning Engineer, Quantum Innovations, Houston, Texas
+- Utilized my expertise in PyTorch, a deep learning framework, to develop machine learning models for quantum computing applications
+- Demonstrated agility and problem-solving skills to adapt models to evolving project requirements and tight deadlines
+- Collaborated with a cross-functional team of physicists, mathematicians, and software engineers to optimize performance and accuracy of models
+- Gained a comprehensive understanding of deep neural network research, incorporating the latest advancements into model development
+- Developed robust and efficient code in Python and TensorFlow, ensuring seamless model training and deployment
+
+Software Engineer, Advanced Robotics Solutions, Houston, Texas
+- Led model training and deployment efforts for autonomous robots, advancing the capabilities of robotics in industrial settings
+- Leveraged strong communication and collaboration skills to work effectively within a multidisciplinary team, including hardware engineers and domain experts
+- Conducted data handling and processing to clean and analyze sensor data collected from robots in real-time
+- Utilized deep learning techniques to develop algorithms for object recognition and path planning, improving the robots' perception and decision-making abilities
+- Demonstrated expertise in programming languages such as C++ and conducted statistical analysis for performance evaluation and optimization
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer at the Chinese Community Center, Houston, Texas
+- Actively contribute to the Chinese Community Center, promote cultural integration, and organize events celebrating Chinese traditions and heritage
+- Mentor students in computer science and technology-related subjects, inspiring their interest and nurturing their talent
+- Lead basketball team activities, serving as a captain and fostering teamwork, discipline, and resilience within the team
+
+Hobbies:
+- Playing the erhu, a traditional Chinese instrument, to connect with my heritage and express my creativity
+- Engaging in outdoor activities such as hiking and cycling, appreciating nature and maintaining a healthy lifestyle
+- Exploring different art forms, including photography and calligraphy, as a means of self-expression and cultural appreciation
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References available upon request.

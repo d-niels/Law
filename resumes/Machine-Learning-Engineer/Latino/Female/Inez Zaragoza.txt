@@ -1,0 +1,51 @@
+Inez Zaragoza
+123 Main Street, El Paso, Texas, 12345
+Phone: (555) 123-4567
+Email: inez.zaragoza@email.com
+
+Personal Statement:
+Dedicated and detail-oriented Machine Learning Engineer with a strong background in computer science. Seeking a challenging position that allows me to leverage my skills in deep learning and problem-solving to develop innovative solutions. In my work, I am known for my ability to collaborate effectively, adapt quickly to new technologies, and contribute creatively to team projects.
+
+Education:
+Bachelor of Science in Computer Science
+University of Texas at Austin, Austin, TX
+Graduated: May 20XX
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer - Nova Analytics, El Paso, Texas (May 20XX - Present)
+- Applying deep learning techniques to develop and optimize machine learning models
+- Collaborating with cross-functional teams to tackle complex challenges
+- Contributing to researching deep neural networks to enhance model performance
+- Utilizing Python and TensorFlow for efficient model development and deployment
+- Demonstrating agility and problem-solving skills when addressing project requirements
+
+Software Engineer Intern - Quantum Technologies, El Paso, Texas (June 20XX - August 20XX)
+- Communicated and collaborated effectively with team members to develop software solutions
+- Handled and processed large datasets for statistical analysis and model training
+- Utilized PyTorch for efficient data handling and processing
+- Conducted model training and deployment for accurate predictions
+- Demonstrated strong programming skills in C++ for optimized algorithm implementation
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Youth Mentor - Unidos Community Center, El Paso, Texas (January 20XX - Present)
+- Provided guidance and support to at-risk Latino youth in El Paso, promoting personal growth and development
+- Organized and led soccer leadership programs to instill discipline, teamwork, and a strong work ethic
+- Actively mentored and empowered young Latina girls to pursue careers in STEM fields
+
+Hobbies:
+- Playing the guitar
+- Participating in local soccer leagues
+- Engaging in cultural club activities to celebrate and promote diversity
+
+Languages:
+- English (fluent)
+- Spanish (native)
+
+References available upon request.

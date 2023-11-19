@@ -1,0 +1,43 @@
+FERNANDO URIBE
+San Antonio, Texas | Email: fernandouribe@gmail.com | Phone: (555) 123-4567 | LinkedIn: www.linkedin.com/in/fernandouribe
+
+Personal Statement:
+Passionate and detail-oriented Machine Learning Engineer with a solid educational background in Computer Science. Dedicated to leveraging statistical analysis and problem-solving skills to design and deploy efficient machine learning models. Strongly committed to collaborating within teams to deliver innovative solutions. Thrives in dynamic environments that encourage continuous learning and growth.
+
+Education:
+Bachelor of Science in Computer Science, San Antonio State University - San Antonio, Texas (2016-2020)
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Machine Learning Engineer, Quantum Algorithms Corporation - San Antonio, Texas (2020-Present)
+- Utilized statistical analysis, agility, and problem-solving skills to develop and deploy machine learning algorithms for optimizing quantum computing processes
+- Actively collaborated with cross-functional teams to ensure the successful implementation of PyTorch-based models
+- Led communication and collaboration efforts to effectively convey complex technical concepts to stakeholders
+- Trained and deployed machine learning models using PyTorch, ensuring accurate performance and efficient execution
+
+Software Developer Intern, Deep Tech Solutions - San Antonio, Texas (2019)
+- Contributed to the development of C++ modules for deep learning applications, focusing on data handling and processing
+- Gained expertise in understanding deep neural net research and implemented corresponding algorithms using Python and TensorFlow
+- Collaborated with a team of developers to enhance the efficiency and functionality of existing software
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinos in Technology Mentor, San Antonio Chapter (2017-Present)
+- Mentored young Latino individuals pursuing careers in technology, providing guidance and support throughout their academic journeys
+- Acted as a role model within the Latino community, encouraging and inspiring students to pursue their passion for technology
+- Held leadership roles in organizing workshops and networking events, fostering a strong sense of community
+
+Sports Leadership Role, Basketball Team - San Antonio, Texas (2018-2020)
+- Served as team captain of a local basketball team, leading a diverse group of players to victory through effective communication and teamwork
+- Promoted sportsmanship and gender equality among team members, fostering an inclusive environment for all
+
+Hobbies:
+Playing the guitar, exploring different cultures through travel, staying active through basketball, and playing the piano
+
+Languages:
+- Fluent in English and Spanish

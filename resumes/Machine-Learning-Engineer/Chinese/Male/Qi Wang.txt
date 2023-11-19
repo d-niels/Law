@@ -1,0 +1,45 @@
+Qi Wang
+
+New York, New York | LinkedIn: linkedin.com/in/qiwang | Email: qiwang@email.com | Phone: (555) 123-4567
+
+Personal Statement
+Dedicated and detail-oriented machine learning engineer with a passion for developing innovative solutions. Proficient in model training and deployment, I possess strong problem-solving skills and a deep understanding of deep neural net research. With a collaborative mindset and excellent communication abilities, I am skilled in leveraging PyTorch, TensorFlow, and Python to drive impactful solutions. Excited to contribute my expertise in machine learning to advance technological and societal advancements.
+
+Education
+Bachelor of Science in Computer Science (GPA: 3.9)
+New York Institute of Technology, New York, New York
+
+Work Experience
+Machine Learning Engineer Intern | Visionary AI Solutions | New York, New York | May 2020 - August 2020
+- Developed machine learning models for data analysis and feature extraction, resulting in a 25% increase in accuracy.
+- Collaborated with a cross-functional team to improve model performance and implement enhancements.
+- Utilized Python and C++ to create and deploy machine learning models.
+- Conducted extensive research on deep neural nets, staying up-to-date with the latest advancements in the field.
+
+Data Analyst Intern | Data Insights Corporation | New York, New York | June 2019 - August 2019
+- Analyzed large datasets using statistical techniques to identify patterns and trends.
+- Implemented deep learning algorithms using PyTorch, resulting in a 15% reduction in error rates.
+- Collaborated with a team to perform data handling and processing tasks efficiently.
+- Conducted thorough statistical analysis to support the development of actionable insights.
+- Enhanced communication and collaboration among team members to foster increased productivity.
+
+Skills
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Frameworks: TensorFlow, PyTorch
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership
+Chinese American Association | New York Institute of Technology | President
+- Led a team of 20 members to organize cultural events and promote Chinese culture on campus.
+- Focused on fostering inclusivity and celebrating diversity within the Chinese community.
+- Spearheaded a basketball leadership role, organizing and managing basketball tournaments.
+
+Hobbies
+- Playing the traditional Chinese instrument, Guzheng
+- Embracing cultural diversity through international films and literature
+- Actively participating in local community events that promote diversity and inclusion
+
+Languages
+Fluent in English and Mandarin Chinese

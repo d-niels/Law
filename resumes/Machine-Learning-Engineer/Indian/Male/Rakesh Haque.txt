@@ -1,0 +1,44 @@
+Rakesh Haque
+San Francisco, California | (555) 123-4567 | rakeshhaque@email.com
+
+Personal Statement:
+Highly motivated and detail-oriented Machine Learning Engineer with a strong background in computer science. Possesses a genuine passion for deep learning and problem-solving. A collaborative team player with excellent communication skills and a proven track record in understanding and implementing complex deep neural net research. Committed to continuously expanding skill set to deliver innovative and efficient solutions.
+
+Education:
+Bachelor of Science in Computer Science, Golden State University, San Francisco, California
+- Graduated with a 3.9 GPA
+
+Work Experience:
+
+Machine Learning Engineer, TechnoGen Corporation, San Francisco, California
+- Developed and implemented deep learning models using PyTorch for real-time image recognition, resulting in a 30% improvement in accuracy.
+- Employed agility and problem-solving skills to quickly adapt to changing project requirements and meet tight deadlines.
+- Effectively collaborated with team members to identify and integrate improvements to the existing deep neural net research.
+- Demonstrated outstanding communication abilities by presenting project progress and findings to stakeholders.
+
+Software Engineer, Innovix Systems, San Francisco, California
+- Utilized Python for model training and deployment in an automated pipeline, resulting in a 50% reduction in training time.
+- Developed and optimized data handling and processing techniques, resulting in improved performance and accuracy of statistical analysis.
+- Contributed to the development of C++ modules for efficient data processing and analysis using TensorFlow.
+- Demonstrated proficiency in statistical analysis to identify patterns and optimize algorithms.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively volunteers at the Indian-American Community Center, organizing cultural events and promoting diversity and inclusion.
+- Led the San Francisco Cricket Club as the captain, fostering teamwork and sportsmanship in the sport of cricket.
+
+Hobbies:
+- Playing the Tabla (Indian percussion instrument)
+- Exploring different cultures through travel and music
+- Interior design and home improvement projects
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+
+References available upon request.

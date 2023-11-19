@@ -1,0 +1,38 @@
+Personal Statement:
+I am a passionate and driven machine learning engineer with a strong background in computer science. I thrive in fast-paced, collaborative environments, where I can utilize my analytical skills and problem-solving abilities to develop innovative machine learning solutions. With a solid foundation in Python, PyTorch, C++, TensorFlow, and statistical analysis, I am ready to contribute my expertise to tackle complex challenges in the field.
+
+Education:
+Bachelor of Science in Computer Science, Coastal University, San Francisco, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Stellar AI Solutions, San Jose, CA
+- Developed and implemented machine learning algorithms using Python, PyTorch, C++, and TensorFlow.
+- Conducted statistical analysis on large datasets to identify patterns and optimize models.
+- Collaborated effectively with cross-functional teams to deliver successful ML projects.
+- Enhanced communication and collaboration among team members to ensure efficient project execution.
+
+Data Scientist, Quantum Technologies, Mountain View, CA
+- Explored deep neural network research to understand key principles and advancements in the field.
+- Leveraged agility and problem-solving skills to handle and process diverse datasets.
+- Trained and deployed models to improve the accuracy and efficiency of data-driven solutions.
+- Demonstrated exceptional teamwork and contributed to a positive and collaborative work environment.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer at the Tech for All Foundation, conducting coding workshops to empower underrepresented minority youth.
+- Served as a team captain in the Coastal University Soccer Club, demonstrating leadership and organizational skills.
+- Actively involved in promoting diversity and inclusion initiatives in the tech community.
+
+Hobbies:
+- Playing the violin
+- Exploring different cultures and their traditions through literature
+- Participating in cultural events and festivals
+
+Languages:
+English (Fluent), Spanish (Proficient)

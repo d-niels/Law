@@ -1,0 +1,48 @@
+Kobe Smith
+Philadelphia, Pennsylvania | Phone: (555) 555-5555 | Email: ksmith@email.com
+
+Personal Statement:
+A highly motivated and detail-oriented machine learning engineer with a passion for implementing efficient and innovative solutions. With a solid background in computer science and a keen interest in deep learning, I am dedicated to leveraging cutting-edge technologies to drive advancements within the field. I thrive in collaborative environments and possess excellent problem-solving abilities. As a black male from Philadelphia, I am committed to promoting diversity and inclusion in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science
+Philadelphia Institute of Technology, Philadelphia, PA (Aug 2016 - May 2020)
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer | SonicWave Technologies, Philadelphia, PA (Jun 2020 - Present)
+- Developed deep learning models using PyTorch and TensorFlow for image recognition tasks.
+- Conducted statistical analysis and implemented algorithms to optimize model performance.
+- Gained a comprehensive understanding of deep neural net research and incorporated the latest advancements into model architectures.
+- Utilized Python for data preprocessing, feature extraction, and model training.
+
+Software Engineer Intern | TechAhead Corporation, Philadelphia, PA (May 2019 - Aug 2019)
+- Collaborated effectively with cross-functional teams to develop and implement software solutions.
+- Utilized C++ to develop efficient, scalable models for training and deployment.
+- Demonstrated expertise in data handling and processing techniques to improve system performance.
+- Proven ability to adapt quickly, solve problems, and provide innovative solutions.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Basketball Coach and Mentor | Philadelphia Youth Athletic Association (Sep 2018 - May 2020)
+- Mentored and coached youth in basketball, teaching leadership, teamwork, and discipline.
+- Organized tournaments and fundraisers to promote community engagement.
+- Acted as a positive role model to empower young black males by emphasizing the importance of education and sportsmanship.
+
+Hobbies:
+- Playing the saxophone
+- Engaging in community service and activism
+- Exploring diverse cultures through music and art
+- Staying active through basketball and swimming
+
+Languages:
+- English (Native)
+- Spanish (Proficient)
+
+References:
+Available upon request

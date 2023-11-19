@@ -1,0 +1,48 @@
+Delfino Espinoza
+Dallas, Texas | Phone: (555) 123-4567 | Email: delfinoespinoza@email.com
+
+Personal Statement:
+Results-driven and detail-oriented Machine Learning Engineer with a strong passion for leveraging cutting-edge technologies to develop innovative solutions. Committed to advancing the field of machine learning and addressing complex challenges to drive impactful outcomes. With a focus on continuous learning and staying up-to-date with the latest advancements, I strive to create robust solutions that make a significant difference.
+
+Education:
+Bachelor of Science in Computer Science, Dallas Tech University, Dallas, Texas
+- Graduated with Honors, GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, QuantumTech Innovations, Dallas, Texas
+- Leveraged PyTorch and Statistical Analysis techniques to extract valuable insights from diverse datasets.
+- Demonstrated a deep understanding of Deep Neural Net Research to enhance learning models' capabilities.
+- Conducted diligent model training and deployment to optimize performance and efficiency.
+- Collaborated with cross-functional teams to implement TensorFlow-based applications at scale.
+- Developed Python scripts for data pre-processing and transformation to support machine learning workflows.
+
+Software Engineer, Pinnacle Systems, Dallas, Texas
+- Utilized C++ to develop sophisticated software solutions for complex business problems.
+- Exhibited outstanding teamwork and collaboration skills in a fast-paced and agile environment.
+- Specialized in designing and implementing Deep Learning algorithms to enhance data handling and processing.
+- Ensured effective communication and collaboration with stakeholders to drive solution alignment.
+- Demonstrated agility and problem-solving abilities to overcome technical challenges.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinx in Tech Association, Member
+- actively contributing to promoting diversity and inclusion within the tech industry.
+- Represented the Latinx community in various forums and events to advocate for equal opportunities.
+- Held a leadership role as the Captain of a local soccer team, organizing and leading practices and tournaments.
+
+Hobbies:
+- Playing the guitar and performing traditional Latinx music.
+- Engaging in outdoor activities such as hiking and playing soccer.
+- Exploring different cultures and learning about diverse traditions.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References:
+Available upon request.

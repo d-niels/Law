@@ -1,0 +1,42 @@
+Deepika Varghese
+
+Personal Statement:
+A highly motivated and dedicated machine learning engineer with a strong passion for leveraging artificial intelligence to solve complex problems. Skilled in developing and implementing machine learning models, I am committed to staying up-to-date with the latest advancements in deep learning algorithms and frameworks. With a focus on collaboration, I strive to contribute to innovative solutions that drive meaningful impact.
+
+Education:
+Bachelor of Science in Computer Science, Capital City University, Washington, DC
+- GPA: 3.9
+
+Work Experience:
+1. Machine Learning Engineer Intern, TechnoGenix Inc., Washington, DC
+- Developed and enhanced machine learning models using TensorFlow and Python.
+- Participated in cross-functional teams, effectively collaborating with team members to achieve project goals.
+- Demonstrated exceptional problem-solving skills and agility in adapting to evolving project requirements.
+- Stayed abreast of deep neural network research publications and incorporated cutting-edge techniques into model development.
+
+2. Data Scientist, Digital Insights Group, Washington, DC
+- Utilized C++ to implement effective model training and deployment strategies.
+- Conducted statistical analysis on large datasets, delivering valuable insights for business decisions.
+- Demonstrated expertise in data handling and processing to ensure accurate model training.
+- Leveraged deep learning frameworks such as PyTorch to develop complex machine learning algorithms.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity in the tech industry as an Indian female machine learning engineer.
+- Served as a team captain for a local women's basketball team, fostering teamwork and leadership skills among team members.
+
+Hobbies:
+- Playing the piano, showcasing my passion for music and artistic expression.
+- Enjoying literature from diverse cultures, expanding my knowledge and understanding of various perspectives.
+- Engaging in photography, capturing precious moments and exploring the world through a lens.
+
+Languages:
+Fluent in English and Hindi.
+
+References:
+Available upon request.

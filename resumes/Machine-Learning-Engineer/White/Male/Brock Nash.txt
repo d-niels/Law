@@ -1,0 +1,42 @@
+Brock Nash
+San Antonio, Texas | (123) 456-7890 | email@example.com
+
+Personal Statement:
+Results-driven machine learning engineer with a strong background in computer science. Committed to leveraging cutting-edge technology and data-driven approaches to solve complex problems. Passionate about developing innovative solutions through the application of deep learning algorithms. Excellent analytical and problem-solving skills combined with a track record of success in team collaborations and leadership roles.
+
+Education:
+Bachelor of Science in Computer Science, Riverbend University, San Antonio, Texas
+- Graduated with a 3.9 GPA
+- Relevant coursework: Artificial Intelligence, Advanced Data Structures, Algorithm Design, Machine Learning
+
+Work Experience:
+Machine Learning Engineer, Quantum Labs, San Antonio, Texas
+- Developed machine learning models using TensorFlow, C++, and PyTorch to solve complex business challenges
+- Applied data handling and processing techniques to ensure accurate and reliable datasets
+- Implemented deep learning algorithms for pattern recognition and predictive analysis
+- Collaborated with cross-functional teams to seamlessly integrate machine learning solutions into existing products and systems
+
+Research Assistant, FutureTech Research Institute, San Antonio, Texas
+- Engaged in cutting-edge research on deep neural network architectures
+- Conducted thorough model training and deployment for various research projects
+- Utilized Python and statistical analysis techniques to evaluate and optimize model performance
+- Effectively communicated research findings through presentations, technical reports, and academic papers
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusivity in the tech community, organizing events to encourage underrepresented groups to pursue careers in machine learning
+- Sports Leadership: Team Captain of university football team, leading the team through successful seasons and promoting dedication, teamwork, and discipline
+
+Hobbies:
+- Playing the piano and composing music
+- Exploring cultures and languages through travel, especially fascinated by Japanese culture and language
+
+Languages: 
+- English (Fluent)
+- Spanish (Conversational)
+- Mandarin (Conversational)

@@ -1,0 +1,42 @@
+ZHEN LIANG
+
+Personal Statement:
+Driven and detail-oriented Machine Learning Engineer with a genuine passion for advancing technology through innovative AI solutions. As a Chinese male from Los Angeles, California, I bring a unique perspective and a strong commitment to diversity and inclusion in all aspects of my work. With expertise in data handling, statistical analysis, and deep learning, I aim to contribute to the development of cutting-edge machine learning models to solve complex problems.
+
+Education:
+Bachelor of Science in Computer Science, Pacific Coast University, Los Angeles, CA (GPA: 3.9)
+- Relevant Courses: Machine Learning, Artificial Intelligence, Data Structures, Algorithms
+
+Work Experience:
+Machine Learning Engineer Intern, Stellar Innovations, Los Angeles, CA
+- Designed and implemented Python-based data processing systems, optimizing performance and efficiency in data handling.
+- Utilized PyTorch framework to develop machine learning models for predictive analysis and improve accuracy.
+- Conducted extensive statistical analysis to derive valuable insights and inform decision-making processes.
+- Collaborated effectively with diverse cross-functional teams, ensuring seamless communication and alignment of project goals.
+
+Software Engineer, Solstice Technologies, Los Angeles, CA
+- Played a pivotal role in training and deploying machine learning models using C++ and TensorFlow, enhancing overall model performance.
+- Actively immersed in the latest research on deep neural networks, applying findings to enhance model capabilities.
+- Demonstrated strong teamwork and collaboration by actively engaging with fellow engineers to troubleshoot and resolve complex issues.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Chinese Student Association, Pacific Coast University, Los Angeles, CA
+- Served as a board member, organizing cultural events and promoting diversity and inclusion within the university community.
+- Led a badminton team, fostering teamwork and camaraderie while encouraging a healthy and active lifestyle.
+
+Hobbies:
+- Playing the traditional Chinese instrument, guzheng, as a way to connect with cultural heritage and express creativity.
+- Exploring various languages and cultures, fostering inclusivity and intercultural understanding.
+- Engaging in outdoor activities, such as hiking, to maintain a balanced and healthy lifestyle.
+
+Languages:
+- Mandarin Chinese (native)
+- English (fluent)
+
+References available upon request.

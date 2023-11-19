@@ -1,0 +1,40 @@
+Personal Statement:
+Determined and ambitious machine learning engineer, Gerardo Iglesias, combines a deep passion for innovation with a commitment to driving technological advancements. With expertise in deep learning and a strong problem-solving mindset, I strive to deliver optimized solutions that push the boundaries of what's possible. As a Latino male hailing from Phoenix, Arizona, I am dedicated to fostering diversity and inclusion in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science
+University of Southern California
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer | Stellar Systems
+Phoenix, Arizona | May 2019 - Present
+- Spearheaded the development and deployment of advanced machine learning models leveraging TensorFlow and Deep Learning techniques.
+- Employed efficient data handling and processing methods to optimize large datasets for robust model training.
+- Demonstrated agility and problem-solving skills, utilizing Python programming for the implementation of complex algorithms.
+- Stayed at the forefront of deep neural net research to incorporate cutting-edge findings into model enhancements.
+
+Data Engineer | Orion Technologies
+Phoenix, Arizona | July 2017 - April 2019
+- Collaborated closely with cross-functional teams to develop scalable software solutions using C++.
+- Excelled in communication and collaboration, aligning project goals with team objectives.
+- Conducted thorough model training and deployment to ensure seamless functionality and performance.
+- Leveraged statistical analysis techniques to extract valuable insights from data.
+- Utilized PyTorch framework to streamline machine learning tasks.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively participated as an organizer and mentor at LatinoTech, advocating for diversity and inclusivity in the tech industry.
+- Sports Leadership: Served as the captain of a local soccer team, fostering teamwork and promoting sportsmanship values.
+
+Hobbies:
+- Mastering the piano to channel creativity and explore new forms of self-expression.
+- Embracing various cultures through extensive travel and engaging with diverse communities.
+
+Languages:
+- Fluent in English and Spanish.

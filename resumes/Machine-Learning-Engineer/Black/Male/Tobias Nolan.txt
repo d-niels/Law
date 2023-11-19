@@ -1,0 +1,43 @@
+Tobias Nolan
+123 Main Street, Washington, District of Columbia | (555) 123-4567 | tobiasnolan@email.com
+
+Personal Statement:
+Driven and forward-thinking machine learning engineer with a passion for leveraging artificial intelligence to drive transformative solutions. Equipped with a solid foundation in computer science and a comprehensive skill set, my goal is to contribute to groundbreaking projects and make significant advancements in the field. Committed to fostering diversity and inclusivity, I bring a unique perspective as a black male to every professional endeavor.
+
+Education:
+Bachelor of Science in Computer Science, Washington Heights University, Washington, District of Columbia
+GPA: 3.9/4.0
+Relevant Coursework: Machine Learning, Data Structures, Algorithms, Database Systems
+
+Work Experience:
+Machine Learning Engineer, OmegaTech Solutions, Washington, District of Columbia
+- Demonstrated agility and problem-solving skills in developing cutting-edge algorithms for data handling and processing.
+- Fostered seamless communication and collaboration among cross-functional teams to ensure project success.
+- Proficiently coded in C++ and utilized TensorFlow for deep neural net research.
+
+AI Research Intern, NovaDeep Labs, Washington, District of Columbia
+- Developed and deployed machine learning models to optimize automated decision-making processes.
+- Played a pivotal role in promoting teamwork and creating a collaborative work environment.
+- Conducted extensive statistical analysis and applied Python and PyTorch for deep learning projects.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity Outreach Volunteer, EqualTech Initiative, Washington, District of Columbia
+- Actively participated in various initiatives to promote diversity and inclusivity within the technology sector.
+- Served as a sports leader, providing mentorship and guidance through basketball coaching sessions.
+
+Hobbies:
+- Playing the saxophone
+- Exploring diverse cultures through art and music
+- Supporting organizations focused on advocating for racial and gender equality
+
+Languages:
+- English (Native)
+- French (Proficient)
+
+References available upon request.

@@ -1,0 +1,44 @@
+Ximena Ellis
+
+Personal Statement:
+Passionate machine learning engineer dedicated to using data-driven solutions to create positive change. With a background in computer science, I am eager to leverage my expertise in deep learning and problem-solving to contribute to cutting-edge projects. As a proud black female from Chicago, Illinois, I am committed to promoting diversity, inclusion, and breaking barriers in the tech industry. I aim to empower underrepresented communities and inspire the next generation of diverse tech professionals.
+
+Education:
+Bachelor of Science in Computer Science, Jackson University, Chicago, Illinois
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, QuantumTech Innovations, Chicago, Illinois
+- Collaborated with a multidisciplinary team to develop and implement machine learning models using C++, PyTorch, and deep learning techniques
+- Demonstrated agility and problem-solving skills to overcome complex challenges and deliver efficient solutions
+- Utilized a deep understanding of neural network research to optimize model performance and enhance accuracy
+
+Data Analyst Intern, TechSolutions Inc., Chicago, Illinois
+- Expertly handled and processed large datasets using Python, ensuring data integrity and accuracy for analysis
+- Effectively communicated and collaborated with cross-functional teams to meet project objectives
+- Conducted statistical analysis to extract valuable insights and support data-driven decision-making
+- Trained and deployed models using TensorFlow, contributing to improved data-driven strategies
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Volunteer, Chicago Youth Basketball League
+- Mentored young girls in basketball, instilling leadership, teamwork, and self-confidence
+- Empowered underprivileged communities through active sports participation
+
+Diversity Advocate, Jackson University Women in Tech
+- Championed diversity and gender equality in the tech industry
+- Organized workshops and events to inspire and encourage women to pursue careers in technology
+
+Hobbies:
+- Playing the violin
+- Participating in local community service initiatives
+- Writing and attending book clubs
+- Exploring different cultures and languages to foster global understanding
+
+Languages:
+Fluent in English and Spanish

@@ -1,0 +1,57 @@
+JABARI HARRIS
+Chicago, Illinois | (555) 123-4567 | jabariharris@email.com
+
+PERSONAL STATEMENT
+Highly motivated and detail-oriented machine learning engineer with a passion for advancing the field of deep neural net research. Dedicated to leveraging strong technical skills and collaborative approach to develop innovative machine learning solutions. Demonstrated ability to effectively communicate complex ideas with an interdisciplinary team. Seeking a challenging role as a machine learning engineer to contribute to impactful projects.
+
+EDUCATION
+Bachelor of Science in Computer Science, GPA: 3.9
+Chicago Technical University, Chicago, Illinois
+May 20XX
+
+WORK EXPERIENCE
+Machine Learning Engineer, Innov8 Dynamics, Chicago, Illinois
+June 20XX - Present
+- Applied understanding of deep neural net research to develop and optimize machine learning models
+- Utilized Python programming language to implement and evaluate models
+- Served as a productive team player, collaborating with cross-functional teams to ensure successful model training and deployment
+- Communicated research findings and collaborated effectively with data scientists, software engineers, and stakeholders
+- Demonstrated agility and problem-solving skills to rapidly adapt to changing project needs
+
+Data Analyst Intern, DataSolutions, Chicago, Illinois
+May 20XX - August 20XX
+- Collected, handled, and processed large datasets for analysis using PyTorch and TensorFlow frameworks
+- Conducted statistical analysis on diverse datasets to identify trends and patterns
+- Developed deep learning models to extract meaningful insights from complex data
+- Leveraged C++ programming language for efficient processing and analysis
+- Collaborated with the team to optimize data handling and processing procedures
+
+SKILLS
+- Programming Languages: Python, C, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Ethnicity and Gender Advocate, Chicago Minority Tech Group, Chicago, Illinois
+April 20XX - Present
+- Championed diversity and inclusion initiatives within the tech community, specifically focusing on promoting opportunities for underrepresented individuals
+- Led workshops and seminars to educate and empower youth from minority backgrounds to pursue careers in technology
+- Served as a leader in shaping strategies and policies to ensure equal representation and eliminate biases
+
+Basketball Coach and Mentor, Boys & Girls Club of Chicago, Chicago, Illinois
+September 20XX - December 20XX
+- Mentored and coached a diverse group of young basketball players, emphasizing teamwork, discipline, and sportsmanship
+- Organized and supervised various basketball events and activities to promote physical fitness and personal growth
+
+HOBBIES
+- Playing the saxophone
+- Exploring and promoting diverse cultural activities
+- Engaging in outdoor activities and sports, particularly basketball
+
+LANGUAGES
+- English (Native)
+- Spanish (Proficient)
+
+REFERENCES
+Available upon request.

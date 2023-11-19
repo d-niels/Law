@@ -1,0 +1,37 @@
+Personal Statement:
+I am a driven and innovative machine learning engineer with a deep passion for developing cutting-edge solutions. With a solid background in computer science and a focus on machine learning, I am eager to bring my skills and expertise to a dynamic organization. As a black female hailing from Charlotte, North Carolina, I am committed to fostering diversity and inclusion in the workplace while delivering exceptional results.
+
+Education:
+Bachelor of Science in Computer Science - Clarkson University, Potsdam, NY (GPA: 3.9)
+Relevant coursework: Artificial Intelligence, Data Mining, Deep Learning, Algorithms
+
+Work Experience:
+Machine Learning Engineer - Stellar Solutions, Charlotte, NC
+- Spearheaded the development of advanced machine learning models using TensorFlow, C++, and Python, facilitating efficient data handling, processing, and deep learning capabilities.
+- Conducted comprehensive statistical analysis on extensive datasets to identify patterns and optimize system performance.
+- Collaborated closely with multidisciplinary teams to implement and troubleshoot various machine learning algorithms, ensuring seamless integration across platforms.
+
+Junior Machine Learning Engineer - Aurora AI Technologies, Charlotte, NC
+- Actively collaborated and communicated with cross-functional teams to develop innovative machine learning solutions, fostering enhanced communication and collaboration throughout the organization.
+- Leveraged Python, PyTorch, and an in-depth understanding of deep neural net research to design and deploy sophisticated models for comprehensive model training and seamless deployment.
+- Demonstrated exceptional agility and problem-solving skills while applying analytical techniques, ensuring the development of efficient and effective solutions.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Basketball Team Captain - Led a highly successful basketball team, embodying the values of teamwork, discipline, and sportsmanship. Actively promoted diversity and gender equality within the team and community, inspiring a new generation of talented athletes.
+ 
+Hobbies:
+- Mastering the piano to unwind and stimulate creativity
+- Exploring diverse cultures and cuisines through travel
+- Actively involved in promoting and supporting women in tech groups and events
+
+Languages:
+- English (fluent)
+- Spanish (intermediate level)
+
+References available upon request.

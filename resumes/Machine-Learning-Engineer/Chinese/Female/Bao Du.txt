@@ -1,0 +1,39 @@
+Personal Statement:
+I am a passionate and driven Machine Learning Engineer with a strong background in computer science. Guided by my problem-solving mindset and technical skills, I strive to develop cutting-edge solutions in the field of machine learning. With an unwavering commitment to continuous learning, I aim to contribute to the advancement of technology and society.
+
+Education:
+Bachelor of Science in Computer Science - Golden State University, San Francisco, CA, May 20XX
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer - OpalTech Inc., San Francisco, CA
+- Developed Python-based deep learning models for image recognition and natural language processing.
+- Navigated complex challenges using agile problem-solving skills to ensure efficient model training and deployment.
+- Collaborated seamlessly with cross-functional teams, fostering effective communication and collaboration.
+- Played a pivotal role in model training and deployment, optimizing performance for enhanced user experiences.
+
+Software Engineer Intern - Stellar Solutions, Oakland, CA
+- Participated in a dynamic team to develop innovative machine learning algorithms using PyTorch and TensorFlow.
+- Implemented efficient data handling and processing techniques, ensuring scalability and accuracy.
+- Conducted meticulous statistical analysis, deriving meaningful insights to improve model performance.
+- Demonstrated a dedicated commitment to understanding and applying state-of-the-art deep neural net research.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- As a dedicated advocate for diversity and inclusion, I actively support underrepresented groups, including women and the Asian community, striving to promote equal opportunities in the tech industry.
+- Served as a Sports Leadership Mentor, providing guidance and mentorship to aspiring athletes in the sport of basketball.
+- Cultivated a passion for playing the guzheng, a traditional Chinese instrument, to connect with my cultural heritage.
+
+Hobbies:
+- Playing the guzheng to honor my Chinese heritage and share the beauty of traditional music with others.
+- Exploring diverse cultures and traditions to broaden my worldview and foster a global sense of community.
+- Engaging in outdoor activities such as hiking and yoga to maintain an active and balanced lifestyle.
+
+Languages:
+- English: Fluent
+- Mandarin Chinese: Native proficiency

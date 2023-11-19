@@ -1,0 +1,43 @@
+Upasana Kapoor
+
+Personal Statement:
+Dedicated and highly motivated Machine Learning Engineer with a passion for developing innovative solutions using cutting-edge technologies. Strong problem-solving and analytical skills combined with effective communication and collaboration abilities. Committed to creating impactful machine learning models and contributing to the advancement of artificial intelligence. Eager to leverage my expertise in Deep Learning and statistical analysis in a challenging role as a Machine Learning Engineer.
+
+Education:
+Bachelor of Science in Computer Science
+Georgia Tech University, Atlanta, GA
+
+Work Experience:
+Machine Learning Engineer | VisionAI Corp | Atlanta, GA | August 2018 - Present
+- Utilized Deep Learning techniques to develop machine learning models for computer vision applications
+- Collaborated with cross-functional teams to develop and deploy machine learning models
+- Analyzed large datasets using statistical analysis to derive meaningful insights
+- Facilitated model training and deployment processes
+- Leveraged strong data handling and processing skills in preprocessing and transforming data
+
+Software Engineer | DataSphere Solutions | Atlanta, GA | May 2017 - July 2018
+- Developed and maintained robust C++ applications for real-time data processing
+- Utilized TensorFlow and PyTorch frameworks for machine learning model development
+- Worked effectively in a team environment to deliver high-quality software solutions
+- Demonstrated a deep understanding of deep neural net research
+- Implemented Python scripts for data analysis and visualization
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Co-Founder and Technical Lead | Women in Tech Initiative, Georgia Tech University
+- Empowered women in the field of technology through mentorship and networking opportunities
+- Organized coding workshops and seminars to promote skill development among women
+- Acted as a leader in basketball team, promoting teamwork and sportsmanship
+
+Hobbies:
+- Playing the violin
+- Exploring cultural diversity through various activities and events
+- Engaging in basketball and promoting inclusivity in sports
+
+Languages:
+English (Fluent), Hindi (Native)

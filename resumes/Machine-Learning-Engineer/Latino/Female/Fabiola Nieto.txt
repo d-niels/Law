@@ -1,0 +1,47 @@
+Personal Statement:
+I am a highly motivated and dedicated machine learning engineer with a passion for leveraging technology to solve complex problems. As a proud Latina from the vibrant city of Austin, Texas, I am determined to bring diverse perspectives to the forefront of technological advancements and contribute to the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, University of Texas at Austin
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Aurora Innovations (Austin, Texas)
+- Conducted extensive statistical analysis to identify patterns and trends in large datasets, resulting in more accurate predictions.
+- Demonstrated exceptional agility and problem-solving skills by quickly adapting to changing project requirements and delivering high-quality solutions under tight deadlines.
+- Developed a deep understanding of deep neural net research, applying advanced concepts to improve model performance and efficiency.
+- Collaborated effectively within a diverse and dynamic team, contributing to the successful implementation of complex projects.
+- Utilized TensorFlow to design and optimize deep learning models, successfully improving prediction accuracy.
+
+Software Engineer, Epiphany Systems (Austin, Texas)
+- Expertly utilized PyTorch to train and deploy machine learning models, enhancing predictive capabilities and streamlining business processes.
+- Demonstrated proficiency in handling and processing large datasets, ensuring data quality and enabling comprehensive analysis.
+- Utilized C++ to develop robust and efficient algorithms for data manipulation, significantly improving performance.
+- Possessed strong communication and collaboration skills, effectively collaborating with cross-functional teams to deliver exceptional results.
+- Leveraged Python to implement scalable and innovative solutions to intricate challenges.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinx in Tech Organization, Member
+- Active advocate for diversity and inclusion in the tech industry, providing support to underrepresented groups.
+- Mentor and guide Latinx students pursuing careers in STEM fields, fostering growth and success.
+- Organize events and workshops to promote cultural awareness and professional development.
+
+Sports Leadership, Soccer Team Captain
+- Lead a dedicated team of athletes, fostering collaboration, discipline, and resilience
+- Championed gender equality and celebrated cultural diversity within the team
+
+Hobbies:
+- Playing the guitar and embracing my Latin heritage through music.
+- Exploring and promoting the rich history and art of my culture by visiting museums and engaging in cultural events.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References available upon request.

@@ -1,0 +1,40 @@
+Personal Statement:
+I am a determined and passionate machine learning engineer with a strong background in computer science. My goal is to utilize my skills and knowledge to drive technological advancements in the field of artificial intelligence. With a solid understanding of deep neural net research and experience in model training and deployment, I am confident in my ability to solve complex problems and deliver innovative solutions. Through effective communication and collaboration, I strive to contribute to the development of cutting-edge machine learning technologies.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, Chicago, Illinois (GPA: 3.9)
+- Relevant Coursework: Machine Learning, Algorithms, Data Structures, Artificial Intelligence
+
+Work Experience:
+Machine Learning Engineer, XYZ Systems, Chicago, Illinois
+- Developed and implemented efficient algorithms in C++ for data preprocessing and model training
+- Demonstrated agility and problem-solving skills by iterating and optimizing deep neural net models
+- Successfully deployed machine learning models into production environments
+- Proficiently handled and processed large-scale datasets using Python
+
+Software Engineer, InnovateX, Chicago, Illinois
+- Collaborated with a team of developers to build machine learning models using TensorFlow and PyTorch
+- Conducted comprehensive statistical analysis to extract actionable insights from extensive datasets
+- Contributed to the enhancement of deep learning algorithms for image recognition tasks
+- Demonstrated excellent communication and collaboration skills within cross-functional team projects
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in advocating for diversity and inclusion in the tech industry as a member of the Association for Women in Computing
+- Served as a basketball team captain and mentor to young girls in the Indian-American community, fostering teamwork and empowering underrepresented individuals
+- Passionate about playing the guitar, expressing my creativity through music
+
+Hobbies:
+- Reading and exploring literature from various cultures
+- Practicing yoga and meditation for personal well-being
+- Participating in local community events promoting cultural awareness and diversity
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Tamil (Conversational)

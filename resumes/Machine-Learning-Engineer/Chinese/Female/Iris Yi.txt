@@ -1,0 +1,36 @@
+Personal Statement:
+I am a highly motivated and dedicated machine learning engineer with a strong passion for leveraging cutting-edge technology to solve complex problems. With a solid educational background in computer science, I am well-equipped to apply my skills in creating innovative solutions in the field of machine learning. I am seeking an opportunity in a challenging and dynamic environment where I can further develop my skills and contribute to the advancement of artificial intelligence.
+
+Education:
+Bachelor of Science in Computer Science | University of California, San Francisco
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer | QuantumAI Solutions, San Francisco, CA
+- Developed deep learning models using PyTorch and implemented them for training and deployment.
+- Demonstrated agility and problem-solving skills to overcome complex challenges in development processes.
+- Effectively communicated and collaborated with cross-functional teams to optimize model performance and achieve project milestones.
+- Utilized Python for data analysis, algorithm implementation, and model evaluation.
+
+Research Assistant | Neural Dynamics Lab, San Francisco, CA
+- Worked as a team player in conducting research on deep neural networks and their applications.
+- Gained a deep understanding of the latest advancements in deep learning and contributed to the lab's publications.
+- Utilized TensorFlow for model development and statistical analysis for interpreting research data.
+- Successfully handled and processed large datasets, ensuring reliable results in algorithm development.
+- Proficiently utilized C++ for implementing data processing pipelines.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a Chinese female from San Diego, I take pride in my cultural heritage and actively engage in activities that promote diversity and inclusion. I have volunteered at the Women in Tech organization, dedicated to creating equal opportunities for underrepresented communities in the technology industry. Additionally, I have served as a team leader in a community basketball program, mentoring young girls and fostering their love for the sport.
+
+Hobbies:
+In my free time, I enjoy playing the traditional Chinese instrument, Guzheng, which allows me to express my cultural heritage and appreciation for music. I also actively participate in activities that promote diversity and inclusion in technology, as well as exploring various forms of art.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

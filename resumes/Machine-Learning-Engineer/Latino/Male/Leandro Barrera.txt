@@ -1,0 +1,42 @@
+Leandro Barrera
+
+Personal Statement:
+Highly skilled and motivated Machine Learning Engineer with a strong passion for developing innovative solutions. Excels in leveraging cutting-edge technologies and applying advanced algorithms to complex problems. Committed to continuous learning and staying up-to-date with the latest developments in the field. Seeking a challenging role to contribute to the advancement of machine learning applications.
+
+Education:
+Bachelor of Science in Computer Science (3.9 GPA)
+Phoenix University, Phoenix, Arizona
+
+Work Experience:
+Machine Learning Engineer | Phoenix Intelligence Labs
+- Developed efficient algorithms for data handling and processing using C++.
+- Collaborated effectively with cross-functional teams, ensuring smooth communication and collaboration.
+- Implemented machine learning models using PyTorch, harnessing its agility and problem-solving capabilities.
+- Gained expertise in conducting deep neural net research and understanding its practical implications.
+
+Machine Learning Engineer | Quantum Insights
+- Explored deep learning methodologies and applied Python to build and optimize models.
+- Thrived as a team player, actively contributing to planning and delivering model training and deployment projects.
+- Utilized TensorFlow for designing and fine-tuning architectures, ensuring high model accuracy.
+- Conducted statistical analysis on large datasets to draw meaningful insights and optimize performance.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech community, particularly advocating for Latino and male representation.
+- Served as a soccer team captain, organizing and coaching a local team, fostering teamwork, discipline, and leadership skills among youth.
+
+Hobbies:
+- Playing the guitar
+- Exploring multicultural art forms and music
+- Engaging in outdoor activities and staying physically active
+
+Languages:
+- English (fluent)
+- Spanish (native)
+
+Note: This resume is a complete fictional creation and does not reflect any real-world individuals or experiences.

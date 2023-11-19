@@ -1,0 +1,41 @@
+Wesley Yates
+
+Personal Statement:
+Driven and innovative machine learning engineer with a passion for leveraging artificial intelligence and deep learning techniques to solve complex problems. Committed to pushing boundaries and delivering cutting-edge solutions in the field of AI. Strong team player with excellent problem-solving skills and a track record of successful project delivery.
+
+Education:
+Bachelor of Science in Computer Science, Cityscape University, Chicago, Illinois
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Aurora Technologies Inc., Chicago, IL
+- Created and implemented machine learning models using TensorFlow, Python, and deep learning algorithms.
+- Collaborated within a diverse and dynamic team to optimize AI solutions and drive innovation in the industry.
+- Demonstrated exceptional problem-solving abilities and agility in adapting to fast-changing project requirements.
+- Developed a deep understanding of deep neural net research and utilized it to improve model performance.
+
+Software Engineer, Visionary Solutions LLC, Chicago, IL
+- Managed and processed large volumes of data using C++, PyTorch, and advanced statistical analysis techniques.
+- Developed data pipelines for efficient data handling and processing, ensuring high-quality and accurate output.
+- Trained and deployed machine learning models, optimizing them for real-time usage.
+- Successfully collaborated with cross-functional teams to achieve seamless communication and encourage teamwork.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Advocate for diversity and inclusion, actively supporting and empowering underrepresented communities in the tech industry.
+- Engaged as a sports leadership mentor, providing guidance and fostering leadership and teamwork among young black males in a basketball program.
+
+Hobbies:
+- Avid saxophone player, utilizing music as an expressive outlet and a means to unwind.
+- Engages in community initiatives that celebrate the rich culture and history of the African American community.
+- Enjoys participating in outdoor activities, such as hikes and cycling, to maintain an active and healthy lifestyle.
+
+Languages:
+English (fluent), Spanish (conversational)
+
+Reference: Available upon request.

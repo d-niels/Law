@@ -1,0 +1,39 @@
+Zoya Lalwani
+Dallas, Texas  |  (123) 456-7890  |  zoya.lalwani@email.com
+
+Personal Statement:
+Motivated and detail-oriented machine learning engineer with a passion for developing innovative solutions. With a background in computer science and a strong understanding of deep neural net research, I am adept at leveraging cutting-edge technologies to drive improvements and address complex challenges. Committed to collaborating with cross-functional teams to optimize machine learning models for practical applications.
+
+Education:
+Bachelor of Science in Computer Science, Stellar University, Dallas, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, SigmaTech Solutions, Dallas, Texas
+- Team Player: Collaborated with a multidisciplinary team to develop and implement machine learning algorithms for real-time data analysis in autonomous systems.
+- Understanding Deep Neural Net Research: Implemented and enhanced deep learning models, exploring advancements in the field.
+- TensorFlow, C++, Deep Learning: Utilized TensorFlow framework and C++ programming to optimize neural networks for efficient training and deployment.
+- Statistical Analysis: Conducted statistical analysis to evaluate the performance and accuracy of machine learning algorithms.
+
+Data Analyst, Quantum Insights, Dallas, Texas
+- Data Handling and Processing: Gathered, cleaned, and processed large datasets using Python and PyTorch to support data analytics initiatives.
+- Agility and Problem-Solving: Demonstrated agility and problem-solving skills to adapt to changing project requirements and overcome challenges.
+- Communication and Collaboration: Effectively communicated complex findings and insights to diverse stakeholders, fostering collaboration and driving strategic decision-making.
+- Model Training and Deployment: Trained machine learning models using PyTorch framework and deployed them for real-time data processing.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Ambassador, Stellar University, Dallas, Texas
+- Spearheaded initiatives to promote inclusivity and diversity within the computer science department, organizing workshops and panel discussions.
+- Sports Leadership: Led a team of student-athletes as the captain of the university's basketball team, fostering teamwork and inspiring athletic performance.
+- Instrumental Skills: Proficient in playing the guitar, adding musical expression to personal creativity.
+
+Hobbies:
+- Exploring Cultural Arts: Engaging in various art forms, such as painting and sculpture, that celebrate diverse ethnic backgrounds and traditions.
+- Women Empowerment Initiatives: Actively involved in local initiatives dedicated to empowering and supporting women in STEM fields.
+- Language Proficiency: Fluent in English, Hindi, and Spanish, facilitating effective communication in multicultural environments.

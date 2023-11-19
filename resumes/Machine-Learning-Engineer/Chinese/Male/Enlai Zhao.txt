@@ -1,0 +1,45 @@
+Enlai Zhao
+Machine Learning Engineer
+
+Personal Statement:
+A highly motivated and detail-oriented individual, I am dedicated to leveraging my expertise in machine learning to drive innovation and develop advanced solutions. With a strong academic background in computer science and hands-on experience in data analysis and model training, I am eager to contribute to cutting-edge projects as a Machine Learning Engineer.
+
+Education:
+Bachelor of Science in Computer Science, Magna Cum Laude
+University of Pennsylvania, Philadelphia, PA
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer
+Innovative Technologies Solutions, Philadelphia, PA
+- Conducted statistical analysis and implemented deep neural net research to optimize model accuracy
+- Collaborated within a team to develop and deploy C++ models
+- Assisted in model training and deployment using Python
+- Demonstrated excellent teamwork and communication skills
+
+Data Processing Specialist
+TechAdvance Solutions, Philadelphia, PA
+- Efficiently handled and processed large datasets to support the development of machine learning initiatives
+- Demonstrated agility and problem-solving skills in resolving data-related challenges
+- Collaborated with team members to analyze and implement deep learning algorithms using PyTorch and TensorFlow
+- Communicated findings and collaborated with cross-functional teams
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer at the Chinatown Community Center, providing support and mentorship to underprivileged youth
+- Sports Leadership Role: Captain of a local soccer team, promoting teamwork and leadership on and off the field
+
+Hobbies:
+- Playing the guzheng, a traditional Chinese instrument, immersing myself in its harmonious melodies
+- Exploring diverse cultures and traditions, fostering a deep appreciation for global perspectives
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References available upon request

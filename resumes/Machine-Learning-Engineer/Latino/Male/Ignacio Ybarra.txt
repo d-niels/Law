@@ -1,0 +1,42 @@
+Ignacio Ybarra
+
+Personal Statement:
+Driven and passionate Machine Learning Engineer with a strong commitment to innovation and advancing artificial intelligence. As a Latino male from San Jose, California, my goal is to bring diversity and fresh perspectives to the tech industry. With expertise in deep neural net research and model training and deployment, I aim to contribute to groundbreaking advancements. I thrive in collaborative environments and possess excellent communication skills, enabling effective teamwork and project success.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Jose, CA
+GPA: 3.9/4.0
+
+Work Experience:
+
+1. Machine Learning Engineer Intern, StellarTech Systems, Palo Alto, CA
+- Developed and implemented C++ and TensorFlow-based deep learning models for predictive analytics applications.
+- Participated in cutting-edge research on deep neural network techniques, optimizing model accuracy.
+- Collaborated effectively with cross-functional teams to fine-tune and deploy models for commercial use.
+- Communication of research findings and project updates to team members was a key responsibility.
+
+2. Data Scientist, Nova Insights, Santa Clara, CA
+- Leveraged PyTorch and Python to create and deploy machine learning algorithms for data analysis in the financial sector.
+- Demonstrated agility and problem-solving capabilities in resolving complex issues promptly.
+- Conducted statistical analysis on large datasets, extracting actionable insights for business optimization.
+- Employed efficient data handling and processing techniques to ensure accurate model training.
+- Worked closely with various teams to facilitate seamless data collection and preprocessing.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Sports Leadership Role: Actively involved as a leader in the local basketball community, coaching and mentoring a team of aspiring athletes. This position not only sharpened my leadership and team-building skills but also allowed me to combine my passion for sports with fostering personal growth in others.
+- Diversity Advocacy: Dedicated to championing diversity and inclusion in the tech industry, I actively engage with organizations and participate in events that encourage underrepresented communities to pursue careers in machine learning and artificial intelligence.
+
+Hobbies:
+- Playing the violin: I have been playing the violin for many years, finding solace and expression through music. It also serves as a connection to my cultural heritage and brings joy to my life.
+- Traveling: Exploring different cultures and immersing myself in new experiences is a great source of inspiration for me. It broadens my worldview and enhances my ability to work effectively with diverse teams.
+- Reading: An avid reader, I delve into various genres, including science fiction, psychology, and history. This passion for literature fuels my curiosity and enables me to think critically and creatively.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)

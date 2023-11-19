@@ -1,0 +1,42 @@
+Liang Tu
+
+Personal Statement:
+Highly motivated machine learning engineer with a passion for leveraging cutting-edge technologies to develop innovative solutions. With a strong academic background in computer science and extensive experience in machine learning research, I am eager to contribute my skills to drive impactful and transformative projects. A dedicated team player, I thrive in collaborative environments and possess excellent communication skills. I am committed to continuous learning and strive to stay updated with the latest advancements in the field.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Philadelphia University, Philadelphia, PA
+
+Work Experience:
+Machine Learning Engineer, AlphaTech Innovations, Philadelphia, PA
+- Utilized TensorFlow to develop and deploy machine learning models for various applications
+- Expert in data handling and processing techniques, ensuring data integrity and accuracy
+- Conducted statistical analysis and incorporated insights into model development
+- Collaborated with multidisciplinary teams to refine models and improve their performance
+- Stayed current with deep neural net research to enhance model understanding
+- Proficient in Python, employed for efficient and optimized coding practices
+
+Software Engineer Intern, BetaWare Solutions, Philadelphia, PA
+- Developed software solutions using C++ and PyTorch for deep learning applications
+- Actively engaged in model training and deployment, optimizing performance
+- Exhibited agility and problem-solving skills in fast-paced environments
+- Contributed to a collaborative work culture by being an effective team player
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnic Diversity Ambassador, Philadelphia University, Philadelphia, PA
+- Acted as a representative for the Chinese community, promoting diversity and inclusivity on campus
+- Led the university's basketball team as a sports captain, fostering teamwork and discipline
+
+Hobbies:
+- Playing the pipa (traditional Chinese instrument)
+- Exploring diverse cultures through music and art
+- Globe-trotting to experience different ethnic traditions and celebrations
+
+Languages:
+Fluent in English and Mandarin Chinese

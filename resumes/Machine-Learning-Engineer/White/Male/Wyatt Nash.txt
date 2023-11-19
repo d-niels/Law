@@ -1,0 +1,43 @@
+Wyatt Nash
+
+Personal Statement:
+Driven and passionate machine learning engineer with a strong focus on deep learning. Eager to utilize my expertise in research, data processing, and model deployment to contribute to the development of cutting-edge machine learning technologies. Committed to collaborating with diverse teams and transforming innovative ideas into practical solutions. With a strong background in computer science, I am dedicated to continuously expanding my knowledge and skills in the field.
+
+Education:
+Bachelor of Science in Computer Science, Madison State University, Madison, Wisconsin (GPA: 3.9/4.0)
+
+Work Experience:
+Machine Learning Engineer, Stellar Innovations, Madison, Wisconsin
+- Leveraged deep learning techniques to develop and optimize advanced neural network models
+- Conducted thorough data handling and processing to prepare extensive datasets for analysis
+- Stayed updated with the latest advancements in deep neural network research to incorporate cutting-edge techniques into projects
+- Proficient in TensorFlow for model training and deployment
+- Exhibited exceptional agility and problem-solving skills while addressing complex machine learning challenges
+- Utilized Python for algorithm implementation and optimization
+
+Software Engineer, Quantum Technologies, Madison, Wisconsin
+- Collaborated closely with a team of engineers to perform extensive statistical analysis on large-scale datasets
+- Developed, trained, and deployed machine learning models for real-time applications
+- Maintained effective communication and collaboration with cross-functional teams to ensure seamless project execution
+- Programming proficiency in C++ and PyTorch, leveraging their strengths in various projects
+- Demonstrated strong team-player abilities, actively contributing to team goals and objectives
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Sports Leadership Role (Basketball): Led and mentored a diverse team of individuals, fostering teamwork and a supportive environment both on and off the court. Organized team activities and events to enhance teamwork, skill development, and personal growth.
+
+Hobbies:
+- Playing the guitar
+- Photography
+- Traveling
+
+Languages:
+- English (Native)
+- Spanish (Conversational)
+
+References available upon request.

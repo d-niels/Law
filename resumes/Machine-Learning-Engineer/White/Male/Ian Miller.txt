@@ -1,0 +1,43 @@
+Personal Statement:
+Driven and innovative machine learning engineer with a strong dedication to pushing the boundaries of artificial intelligence. With a solid background in computer science, I am passionate about leveraging my expertise in machine learning to develop cutting-edge solutions. By combining my strong problem-solving skills with effective communication and collaboration, I strive to make a significant impact in the field of AI.
+
+Education:
+Bachelor of Science in Computer Science (Major)
+University of California, Berkeley (UC Berkeley)
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer
+QuantumTech Solutions, San Francisco, CA
+- Developed robust machine learning models using TensorFlow, C++, and Python, revolutionizing data analysis processes and driving efficiency.
+- Collaborated effectively in cross-functional teams to ensure seamless integration and enhance collaboration across different departments.
+- Utilized deep learning techniques to optimize model training and deployment, resulting in improved performance and accuracy.
+- Demonstrated agility in adapting to new methodologies and solving complex problems, contributing to real-world success.
+
+Data Analyst
+Sentinel Analytics, San Francisco, CA
+- Processed and handled extensive datasets using Python, ensuring accurate data analysis and reporting.
+- Played a vital role in understanding and implementing the latest research on deep neural networks, resulting in enhanced statistical analysis.
+- Fostered effective teamwork and communication with data scientists and engineers to improve decision-making processes.
+- Employed PyTorch for advanced data processing, visualization, and analytical tasks, resulting in increased efficiency and accuracy.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Program, San Francisco, CA
+- Led a competitive basketball team, inspiring diverse players to reach their full potential through teamwork, discipline, and sportsmanship.
+- Coordinated training sessions, developed strategies, and created a positive team culture to foster growth and success.
+- Championed diversity and inclusivity by actively encouraging participation from individuals of different ethnic and gender backgrounds.
+
+Hobbies:
+- Playing the piano and composing music
+- Exploring different cultures through travel and immersive experiences
+- Engaging in outdoor activities such as hiking and rock climbing
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)

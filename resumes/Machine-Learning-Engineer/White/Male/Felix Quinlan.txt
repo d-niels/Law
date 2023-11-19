@@ -1,0 +1,45 @@
+Felix Quinlan
+
+Personal Statement:
+Driven and creative machine learning engineer with a strong passion for harnessing the power of AI to solve complex problems. Committed to delivering exceptional results through a collaborative and innovative approach. Excited to utilize my skills and expertise to tackle cutting-edge challenges in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, San Jose State University, San Jose, California
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer | Synthetix Technologies | San Francisco, California | 2019-2021
+- Collaborated with a diverse team of researchers and engineers to develop state-of-the-art deep learning models using PyTorch and Python, significantly improving model training and deployment processes.
+- Demonstrated exceptional adaptability and problem-solving skills by successfully navigating evolving project requirements and tight deadlines.
+- Utilized deep learning techniques to analyze and interpret vast amounts of data, resulting in streamlined and accurate model predictions.
+- Actively contributed to a collaborative and inclusive work environment, fostering strong teamwork and effective communication.
+
+Data Analyst | Quantum Insights | Mountain View, California | 2018-2019
+- Conducted comprehensive statistical analysis on large datasets, utilizing tools like C++ and TensorFlow, to extract meaningful insights and identify valuable trends.
+- Demonstrated outstanding communication and collaboration skills while working closely with cross-functional teams, ensuring the delivery of actionable recommendations.
+- Applied in-depth knowledge of deep neural net research to optimize data handling and processing methods, driving efficiencies in data analysis workflows.
+- Developed robust tools for data cleaning and preprocessing, significantly improving data quality and reliability.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate | TechForward Organization | San Jose, California | 2017-present
+- Championing diversity and inclusion within the tech community, actively advocating for underrepresented individuals, including women and people of diverse backgrounds like myself.
+- Held a leadership role as the captain of a competitive soccer team, providing guidance and fostering teamwork, strategy development, and a supportive environment.
+- Organizing and hosting workshops and events focusing on diversity and equality, aiming to educate and empower individuals within the tech industry.
+
+Hobbies:
+- Playing the piano
+- Exploring different cultural cuisines
+- Competing in soccer tournaments
+- Engaging in community service initiatives
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate)
+
+References available upon request.

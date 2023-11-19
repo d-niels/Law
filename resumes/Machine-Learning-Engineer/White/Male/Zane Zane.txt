@@ -1,0 +1,46 @@
+Zane Zane
+123 Main Street, Dallas, Texas 12345
+(555) 123-4567
+zane.zane@email.com
+
+Personal Statement:
+Enthusiastic and dedicated machine learning engineer with a strong academic background in computer science. Proficient in various programming languages and experienced in handling and processing data using cutting-edge machine learning frameworks. Committed to leveraging technical expertise to design and deploy innovative machine learning models. Seeking a challenging role as a machine learning engineer to contribute to transformative projects in the field.
+
+Education:
+Bachelor of Science in Computer Science, Dallas Tech University, Dallas, Texas
+- Graduated with a 3.9 GPA
+- Relevant coursework: Algorithms and Data Structures, Artificial Intelligence, Database Systems, Machine Learning
+
+Work Experience:
+Machine Learning Engineer, StellarTech Innovations, Dallas, Texas
+- Developed data handling and processing pipelines to analyze large datasets using TensorFlow and PyTorch.
+- Conducted research and provided deep neural network expertise to improve model performance.
+- Collaborated with cross-functional teams to deploy deep learning models in production environments.
+- Demonstrated agility and problem-solving skills in resolving technical challenges and optimizing model efficiency.
+
+Machine Learning Specialist, Quantum Solutions, Dallas, Texas
+- Utilized Python and C++ for statistical analysis and model training and deployment.
+- Collaborated with a diverse team to implement and enhance software solutions in the machine learning domain.
+- Showcased effective communication and collaboration skills in coordinating project tasks and delivering quality results.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Served as the team captain for the Dallas Tigers baseball team, fostering teamwork and leading during high-pressure situations.
+- Actively involved in promoting diversity and inclusivity in the technology field as a member of various organizations, supporting individuals from underrepresented backgrounds.
+
+Hobbies:
+- Playing the drums
+- Exploring different cultures through travel
+- Engaging in outdoor activities such as hiking and rock climbing
+
+Languages:
+- English (native)
+- Spanish (conversational)
+
+References:
+Available upon request

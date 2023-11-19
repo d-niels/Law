@@ -1,0 +1,53 @@
+Mariana Herrera
+123 Main Street
+San Antonio, Texas 12345
+(555) 123-4567
+mariana.herrera@email.com
+
+Personal Statement:
+Dedicated and detail-oriented Machine Learning Engineer with a strong background in computer science. Passionate about leveraging artificial intelligence and advanced technologies to drive innovative solutions. Committed to delivering exceptional results through effective communication, collaborative problem-solving, and continuous learning. As a proud Latina woman from San Antonio, I am excited to contribute to diverse and inclusive engineering teams, breaking barriers and inspiring others.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+San Antonio University, San Antonio, Texas
+Expected Graduation: May 20XX
+
+Work Experience:
+Machine Learning Engineer Intern, Aurum Technologies, San Antonio, Texas
+May 20XX - August 20XX
+- Developed and optimized machine learning models using PyTorch and TensorFlow for efficient model training and deployment.
+- Collaborated closely with cross-functional teams to ensure seamless communication and successful project outcomes.
+- Utilized Python for statistical analysis and data manipulation, resulting in improved model performance and accuracy.
+
+Junior Machine Learning Engineer, Nova Innovations, San Antonio, Texas
+September 20XX - Present
+- Implemented cutting-edge deep learning algorithms to handle and process large volumes of data, ensuring optimal model performance and scalability.
+- Contributed effectively within a highly collaborative team environment, achieving project milestones and delivering high-quality results.
+- Demonstrated proficiency in C++ to contribute to codebase improvement, bug fixes, and enhancements.
+- Kept abreast of the latest advancements in deep neural net research, applying newfound knowledge to enhance project outcomes.
+- Exhibited agility and problem-solving skills while overcoming project obstacles and meeting tight deadlines.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinx Association Member, San Antonio University
+- Actively participated in the Latinx Association, championing diversity and inclusion in engineering fields.
+- Organized and led a soccer team, fostering teamwork, skill development, and camaraderie among Latinx students.
+- Hosted cultural enrichment events, promoting the celebration of diverse backgrounds within the university community.
+
+Hobbies:
+- Playing the piano
+- Exploring different cultures through music and travel
+- Curating playlists showcasing diverse artists and styles
+- Engaging in community arts projects and exhibitions
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References:
+Available upon request

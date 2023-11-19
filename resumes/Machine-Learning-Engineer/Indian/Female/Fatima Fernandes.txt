@@ -1,0 +1,50 @@
+Personal Statement:
+I am a highly motivated and skilled Machine Learning Engineer with a strong background in computer science. With a passion for cutting-edge technology and a commitment to innovation, I am dedicated to leveraging my expertise in statistical analysis, programming languages, and deep learning to drive impactful solutions. As an Indian female from Chicago, I embrace diversity and value collaboration, aiming to make a positive impact on society through my work. Being an avid soccer player and leader, I bring a competitive and teamwork-focused spirit to my professional endeavors.
+
+Education:
+Bachelor of Science in Computer Science, Aurora University, Chicago, Illinois
+- GPA: 3.9
+
+Work Experience:
+1. Machine Learning Engineer Intern, TechnoGenius Solutions, Chicago, Illinois
+- Utilized statistical analysis to extract insights from large datasets and optimize performance.
+- Developed machine learning models using TensorFlow and C++ for data handling and processing.
+- Conducted model training and deployment to ensure efficient and accurate performance.
+- Contributed to high-level projects integrating machine learning elements into the company's software ecosystem.
+- Collaborated with cross-functional teams to achieve project objectives successfully.
+
+2. Research Assistant, QuantumAI Labs, Chicago, Illinois
+- Conducted in-depth research on deep neural networks, keeping up with the latest advancements and methodologies.
+- Applied PyTorch for model development and contributed to deep learning projects.
+- Demonstrated agility and problem-solving skills in resolving technical challenges.
+- Collaborated effectively with team members to analyze complex tasks and deliver high-quality solutions.
+- Demonstrated excellent communication skills in sharing research findings within the team and presenting at conferences.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+- Statistical Analysis
+- TensorFlow
+- Data Handling and Processing
+- Model Training and Deployment
+- Understanding Deep Neural Net Research
+- PyTorch
+- Agility and Problem-Solving
+- Team Player
+- Deep Learning
+- Communication and Collaboration
+
+Volunteer & Leadership:
+- Active member and advocate for promoting diversity and inclusion in the tech industry, leveraging my background as an Indian female.
+- Held a soccer team captaincy, organizing and leading the team to victory while instilling essential teamwork and leadership skills.
+
+Hobbies:
+- Playing the piano, showcasing my love for music and artistic expression.
+- Participating in multicultural events and learning about various ethnic traditions and customs, embracing diversity and cultural exchange.
+
+Languages:
+- English (fluent)
+- Hindi (fluent)
+- Spanish (conversational)

@@ -1,0 +1,44 @@
+Quintana Espinoza
+Las Vegas, Nevada | (555) 123-4567 | quintana.espinoza@email.com
+
+Personal Statement:
+Dedicated and driven machine learning engineer with a passion for leveraging artificial intelligence to solve complex problems. A critical thinker and collaborative team player, proficient in deep learning frameworks such as TensorFlow and PyTorch. Committed to continuous learning and eager to contribute expertise in data analysis and model training to drive innovation in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, Las Vegas Technical University, Las Vegas, NV
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Aurora Innovations, Las Vegas, NV
+- Developed deep learning algorithms for data handling and processing, resulting in a 20% improvement in model accuracy
+- Implemented C++ libraries for efficient implementation of deep neural net research
+- Collaborated with a cross-functional team to design and implement machine learning models using TensorFlow
+June 2018 - Present
+
+Data Analyst Intern, Quantum Solutions, Las Vegas, NV
+- Utilized PyTorch for model training and deployment, resulting in a 15% increase in overall efficiency
+- Conducted statistical analysis on large datasets to identify patterns and trends
+- Demonstrated exceptional communication and collaboration skills through coordinating with team members to solve complex data problems
+May 2017 - August 2017
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Basketball Team Captain, Las Vegas Technical University, Las Vegas, NV
+- Led the university's basketball team to achieve unprecedented success in regional tournaments
+- Fostered a supportive and inclusive environment, inspiring teammates to excel both on and off the court
+- Developed strategic game plans and analyzed performance data to enhance team agility and problem-solving skills
+
+Hobbies:
+Playing the guitar and piano, exploring diverse genres of music, and participating in local music events
+Engaging in community outreach initiatives, promoting diversity and inclusion
+Staying active through basketball, hiking, and outdoor activities
+
+Languages:
+English (Fluent), Spanish (Native)
+
+References available upon request.

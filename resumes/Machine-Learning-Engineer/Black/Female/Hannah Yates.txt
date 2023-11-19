@@ -1,0 +1,44 @@
+Personal Statement:
+As a black female machine learning engineer from Columbus, Ohio, I am dedicated to using my passion for technology to drive impactful change and innovation. With a strong academic background in computer science and expertise in machine learning algorithms, I am committed to developing advanced solutions that address complex problems and positively impact society.
+
+Education:
+Bachelor of Science in Computer Science
+Innovative Technologies University - Columbus, Ohio
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer - TechGenius AI Systems
+Dates of Employment: September 2018 - Present
+
+- Conducted in-depth research and development on Deep Neural Networks, applying cutting-edge advancements to optimize algorithm performance
+- Proficient in Deep Learning techniques and frameworks, including TensorFlow and PyTorch
+- Utilized C++ to create innovative and efficient solutions, showcasing agility and exceptional problem-solving skills
+- Collaborated effectively with multidisciplinary teams, ensuring successful model training and deployment
+- Demonstrated strong team player qualities and effective communication skills, facilitating seamless collaboration and information sharing
+
+Software Engineer Intern - InnovateTech Solutions
+Dates of Employment: May 2017 - August 2017
+
+- Collaborated with team members to develop innovative solutions using TensorFlow, Python, and other technologies
+- Efficiently handled and processed data, ensuring accuracy and reliability
+- Conducted statistical analysis to identify patterns and make informed decisions
+- Applied analytical skills and debugging techniques to solve complex problems
+- Demonstrated excellent communication and collaboration skills, contributing to a highly productive team environment
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As an advocate for diversity and inclusion in the tech industry, I actively volunteer in organizations that empower underrepresented groups, particularly women and minorities, in pursuing STEM careers. I have also taken on leadership roles in a local basketball team, fostering teamwork and promoting sportsmanship within the group.
+
+Hobbies:
+- Playing the piano
+- Engaging in diverse cultural activities and events to celebrate and promote cultural diversity
+- Participating in basketball as a team leader to encourage physical well-being and leadership development
+
+Languages:
+- Fluent in English
+- Proficient in Spanish

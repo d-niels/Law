@@ -1,0 +1,37 @@
+Personal Statement:
+I am a dedicated and passionate machine learning engineer with a strong background in computer science and a genuine interest in creating innovative solutions. As a Chinese female hailing from New York City, I bring a unique perspective to the field, combining cultural diversity with technical expertise. With a relentless drive for excellence, I am committed to pushing the boundaries of AI technology and contributing to the advancement of the industry.
+
+Education:
+Bachelor of Science in Computer Science, Royce University, New York, NY
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Machine Learning Engineer, Aurora Technologies, New York, NY
+- Successfully developed and implemented various machine learning algorithms using C++ and deep neural network research
+- Collaborated closely with cross-functional teams to ensure seamless integration of machine learning models
+- Conducted statistical analysis to identify trends and patterns, leading to improved data-driven decision making
+- Trained and deployed deep learning models for real-life applications
+
+Data Scientist Intern, Quantum Analytics, New York, NY
+- Utilized TensorFlow and PyTorch to design and implement machine learning models
+- Processed and handled large datasets, extracting valuable insights through data analysis
+- Demonstrated strong communication and collaboration skills by working closely with a team to develop innovative solutions
+- Showcased agility and problem-solving abilities in adapting to dynamic project requirements
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Chinese-American Association, New York, NY
+- Active volunteer in community outreach programs, promoting cultural understanding and fostering inclusivity
+- Held a leadership role within the association, organizing basketball tournaments and coaching aspiring young athletes
+
+Hobbies:
+- Playing the guzheng (traditional Chinese instrument)
+- Exploring various forms of dance and martial arts
+
+Languages:
+- Fluent in English and Mandarin Chinese

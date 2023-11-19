@@ -1,0 +1,44 @@
+Ao Yuan
+123 Main Street, Philadelphia, PA 12345
+(123) 456-7890 | ao.yuan@email.com
+
+Personal Statement:
+Highly motivated and detail-oriented Machine Learning Engineer with a strong academic background in computer science. Passionate about leveraging cutting-edge technologies and data-driven insights to develop innovative machine learning solutions. Committed to delivering exceptional results while staying abreast of the latest advancements in the field. Seeking a challenging role as a Machine Learning Engineer to contribute to the development of intelligent systems.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+The University of California, Berkeley, CA
+
+Work Experience:
+Machine Learning Engineer Intern | Stellar AI Labs, Philadelphia, PA | May 2020 - August 2020
+- Collaborated with a team of engineers to develop machine learning algorithms and models using Python and PyTorch.
+- Conducted statistical analysis on large datasets to identify patterns and optimize model performance.
+- Assisted in understanding the latest research in deep neural networks and implemented novel approaches to solve complex problems.
+- Demonstrated agility and problem-solving skills to resolve critical issues and improve overall system performance.
+
+Software Developer Intern | FutureTech Solutions, Philadelphia, PA | January 2019 - April 2019
+- Worked with a cross-functional team to develop software solutions for data handling and processing.
+- Utilized TensorFlow and C++ to build and optimize machine learning models for data analysis and prediction algorithms.
+- Collaborated with colleagues to ensure effective communication and seamless integration of modules.
+- Conducted model training and deployment on production systems, leading to efficient implementation of deep learning algorithms.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Organized and led various cultural events within the local Chinese community, promoting cross-cultural understanding and celebrating diversity.
+- Served as a soccer team captain, fostering teamwork and leadership skills among the players.
+
+Hobbies:
+- Playing the erhu (traditional Chinese string instrument)
+- Participating in recreational basketball leagues
+- Reading and staying updated on advancements in machine learning and AI
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References available upon request.

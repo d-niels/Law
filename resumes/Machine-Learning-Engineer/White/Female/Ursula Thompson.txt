@@ -1,0 +1,41 @@
+Ursula Thompson
+
+Personal Statement:
+As a dedicated and passionate machine learning engineer, I am committed to pushing the boundaries of technology and utilizing data-driven insights to revolutionize industries. With a strong background in computer science and proficient skills in various machine learning frameworks, I am confident in my ability to contribute to a dynamic and innovative team.
+
+Education:
+Bachelor of Science in Computer Science
+Phoenix University
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer - StellarTech Solutions
+- Developed and implemented Python algorithms for deep neural net research, achieving significant improvements in model accuracy and efficiency.
+- Utilized TensorFlow and deep learning techniques to enhance data handling and processing, resulting in optimized model performance.
+- Demonstrated agility and problem-solving skills by quickly adapting to evolving project requirements and suggesting innovative solutions.
+
+Software Engineer - TechCore Innovations
+- Collaborated with cross-functional teams, leveraging C++ for efficient and seamless integration of machine learning models into existing systems.
+- Exhibited strong communication skills through active participation in team meetings, providing insights and constructive feedback.
+- Utilized PyTorch and statistical analysis to enhance model training and deployment, ensuring accurate predictions and real-time performance.
+- Demonstrated exceptional teamwork and interpersonal skills, fostering a collaborative work environment.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusivity in the tech industry, supporting women in technology initiatives and organizing events to encourage underrepresented groups to pursue careers in STEM.
+- Sports Leadership Role: Captain of the university's basketball team, inspiring teamwork, discipline, and perseverance among a diverse group of athletes.
+
+Hobbies:
+- Playing the piano and guitar, expressing creativity through music.
+- Traveling and exploring diverse cultures, enriching my perspective.
+- Engaging in photography, capturing moments that reflect the beauty of different landscapes.
+- Enjoying outdoor activities such as hiking and skiing, embracing the natural wonders around me.
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)

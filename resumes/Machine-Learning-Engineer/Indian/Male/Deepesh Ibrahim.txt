@@ -1,0 +1,38 @@
+Personal Statement:
+I am a driven and innovative Machine Learning Engineer with a strong passion for leveraging cutting-edge technology to drive advancements. With a solid educational background in computer science and hands-on experience in developing machine learning models, I possess the skills and knowledge necessary to excel in this field. As an Indian male from Atlanta, Georgia, I am dedicated to promoting diversity and inclusivity in the tech industry while delivering impactful solutions to complex problems.
+
+Education:
+Bachelor of Science in Computer Science
+Atlanta Technical University, Atlanta, Georgia
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer | SparkLabs.AI, Atlanta, Georgia
+- Leveraged TensorFlow, Python, and PyTorch to design and optimize machine learning models.
+- Collaborated seamlessly within a cross-functional team to ensure efficient model training and deployment.
+- Stayed abreast of the latest research in deep neural networks, incorporating advancements into algorithm development.
+
+Data Analyst | TechSavvy Solutions, Atlanta, Georgia
+- Demonstrated expertise in data handling and processing, applying agility and problem-solving skills to cleanse and analyze vast datasets.
+- Developed and optimized algorithms using C++, deep learning techniques, and statistical analysis.
+- Fostered effective communication and collaboration with diverse teams to identify and overcome data-related challenges.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusivity within the tech industry, advocating for the Indian community's representation in various networking events and conferences.
+- Served as a basketball team leader, organizing practices and coaching the team to success.
+
+Hobbies:
+- Proficient sitar player, showcasing my passion for Indian classical music.
+- Culturally curious traveler, embracing different traditions, exploring new languages, and broadening perspectives.
+- Committed to empowering female leaders, actively engaging in organizations that promote gender diversity and equity.
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+- Tamil (Proficient)

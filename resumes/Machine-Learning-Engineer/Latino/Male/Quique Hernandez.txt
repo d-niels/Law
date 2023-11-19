@@ -1,0 +1,51 @@
+Personal Statement:
+Highly skilled and dedicated machine learning engineer with a passion for exploring the potential of artificial intelligence. With a solid background in computer science and a focus on deep learning research, I am committed to discovering innovative solutions and pushing boundaries in the field. As a Latino male from Houston, Texas, I bring a unique perspective and diverse experiences that drive my desire to contribute to the advancement of machine learning technology.
+
+Education:
+Bachelor of Science in Computer Science
+Houston University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+
+Machine Learning Engineer | NeuralTech Solutions
+- Utilized TensorFlow and deep learning techniques to develop and optimize machine learning models.
+- Efficiently handled and processed large datasets to extract meaningful insights.
+- Proficiently programmed in Python to implement various machine learning algorithms.
+- Demonstrated knowledge and understanding of deep neural net research.
+- Collaborated effectively with a team of engineers to develop cutting-edge solutions.
+
+Machine Learning Engineer | Cybersense Innovations
+- Demonstrated agility and problem-solving skills in tackling complex machine learning challenges.
+- Conducted model training and deployment using PyTorch framework.
+- Utilized C++ for efficient implementation of machine learning algorithms.
+- Successfully communicated and collaborated with cross-functional teams to meet project deadlines.
+- Performed statistical analysis to uncover patterns and trends in data.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Latinx Tech Mentorship Program | Co-founder and Mentor
+- Empowered and mentored Latinx youth to pursue careers in technology.
+- Led workshops and discussions on diversity and inclusivity in the tech industry.
+- Promoted cultural awareness and celebrated the contributions of the Latinx community.
+
+Sports Leadership | Soccer Team Captain
+- Led a diverse team of athletes towards achieving common goals and fostering teamwork.
+- Demonstrated strong leadership, communication, and collaboration skills on and off the field.
+
+Hobbies:
+- Playing the guitar: Expressing creativity through music.
+- Exploring different cultures: Engaging with diverse communities to broaden perspectives.
+- Photography: Capturing moments that tell stories worth sharing.
+
+Languages:
+- English (Native)
+- Spanish (Fluent)
+
+Note: Quique Hernandez is a fictional character. Any similarity to actual individuals is purely coincidental.

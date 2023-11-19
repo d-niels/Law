@@ -1,0 +1,36 @@
+Personal Statement:
+I am an ambitious and driven machine learning engineer, driven by my passion for advancing the field through innovative solutions. With a Bachelor's degree in Computer Science and a strong interest in cutting-edge technologies, I am dedicated to pushing the boundaries of artificial intelligence. As a Chinese female from Honolulu, Hawaii, my diverse background and experiences have shaped my unique perspective. I am committed to breaking barriers and empowering underrepresented communities through my work.
+
+Education:
+Bachelor of Science in Computer Science, Pacific Tech University, Honolulu, Hawaii
+- GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Quantum Systems Inc., Honolulu, Hawaii
+- Leveraged Statistical Analysis techniques to drive data-driven decision-making processes
+- Demonstrated agility and exceptional problem-solving skills in fast-paced environments
+- Developed machine learning models using TensorFlow and PyTorch for efficient data handling and processing
+- Conducted model training and deployment, ensuring accurate and optimal results
+
+Software Engineer Intern, NovaSoft Corporation, Honolulu, Hawaii
+- Proven track record as a collaborative team player, promoting effective communication and collaboration
+- Gained expertise in Deep Learning methodologies and implementation
+- Utilized C++ and Python for software development and optimization
+- Deepened understanding of state-of-the-art Deep Neural Net research
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Strong analytical skills, adept at debugging techniques
+
+Volunteer & Leadership:
+Sports Leadership Role - Team Captain for the Pacific Tech University Soccer Team, leading and motivating a diverse group of athletes to success both on and off the field.
+
+I actively engage in networking events and industry conferences to expand my professional network. Additionally, I take part in organizations dedicated to promoting diversity and inclusion in technology, such as [organization name].
+
+Hobbies:
+Playing the violin, showcasing my appreciation for music and artistic expression. Additionally, I have a deep interest in exploring different cultures through literature, traveling, and experiencing diverse cuisines.
+
+Languages:
+- Fluent in English and Mandarin Chinese

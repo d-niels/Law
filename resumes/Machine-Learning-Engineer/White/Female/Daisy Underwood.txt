@@ -1,0 +1,33 @@
+Personal Statement:
+As a machine learning engineer, I am driven by my passion for harnessing algorithms and cutting-edge technologies to unlock the potential of data and drive impactful innovation. With a strong educational background in computer science and a relentless pursuit of knowledge in the field of machine learning, I am eager to contribute my skills and expertise to a dynamic and intellectually stimulating environment.
+
+Education:
+Bachelor of Science in Computer Science, Sunshine University, Jacksonville, Florida
+GPA: 3.9, Graduation Year: 20XX
+
+Work Experience:
+1. Junior Machine Learning Engineer, StellarAI, Jacksonville, Florida
+- Demonstrated exceptional agility and problem-solving skills, tackling complex machine learning projects with efficiency and innovative thinking.
+- Proficient in Python, C++, TensorFlow, PyTorch, and other leading frameworks.
+- Collaborated seamlessly with cross-functional teams, facilitating clear communication and fostering a strong spirit of collaboration.
+
+2. Data Analyst, Quantum Insights, Jacksonville, Florida
+- Exhibited a strong sense of teamwork, employing deep learning techniques and conducting statistical analysis to extract valuable insights.
+- Expertise in model training and deployment, as well as proficient data handling and processing skills.
+- Stayed at the forefront of deep neural net research to ensure the incorporation of cutting-edge advancements into algorithm development.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white female hailing from Jacksonville, Florida, I am deeply committed to promoting diversity and fostering inclusivity. Beyond my professional endeavors, I have actively engaged in volunteer work and leadership roles that aim to bridge gaps and empower individuals from diverse backgrounds. Notably, I have been a dedicated sports team leader in the local community, inspiring young girls from various ethnicities to participate in basketball and encouraging their growth as strong athletes and leaders.
+
+Hobbies:
+Outside of my professional life, I find joy in playing the piano and immersing myself in the vibrant customs and traditions of different cultures. I actively seek opportunities to celebrate the beauty of diversity through exploring ethnic art forms and engaging in intercultural exchanges.
+
+Languages:
+- English (Fluent)
+- Spanish (Fluent)

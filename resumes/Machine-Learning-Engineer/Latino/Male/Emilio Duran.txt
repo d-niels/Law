@@ -1,0 +1,51 @@
+Emilio Duran
+123 Main Street, Phoenix, Arizona | (555) 123-4567 | emilio.duran@email.com
+
+Personal Statement:
+Passionate and driven machine learning engineer, leveraging a strong background in computer science and a deep love for innovation. Experienced in developing and deploying cutting-edge machine learning models, with a focus on deep learning algorithms. Committed to collaborating with cross-functional teams to drive impactful solutions. Seeking a challenging role as a Machine Learning Engineer to utilize my expertise in revolutionizing the field of AI.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+University of Southern California, Los Angeles
+
+Work Experience:
+Machine Learning Engineer
+Inova AI Solutions, Phoenix, Arizona
+June 2018 - Present
+
+- Developed and optimized machine learning models using C++, TensorFlow, and PyTorch, leading to a 20% enhancement in model accuracy and performance.
+- Collaborated with software engineers, data scientists, and product managers to design and implement scalable and customizable solutions for clients.
+- Utilized Python for data preprocessing, model training, and deployment, significantly reducing development time by 30%.
+- Conducted thorough statistical analysis to evaluate model performance and implemented data handling and processing techniques to optimize efficiency.
+
+Research Assistant
+Paragon Neural Labs, Phoenix, Arizona
+September 2016 - May 2018
+
+- Assisted in understanding and implementing state-of-the-art deep neural network algorithms for complex data analysis tasks.
+- Applied agile problem-solving skills to overcome technical challenges and boost research efficiency.
+- Worked collaboratively within a cross-functional team to develop and validate statistical models for large-scale datasets.
+- Communicated findings and results through presentations and research papers, contributing to advancements in the field.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Deep Learning Frameworks: TensorFlow, PyTorch
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinx in Technology Association (LTA)
+- Acted as the President of LTA, leading initiatives to empower and support underrepresented individuals in the technology industry.
+- Mentored and provided guidance to fellow Latinx students pursuing careers in computer science.
+- Organized and facilitated workshops on machine learning and data science to bridge the gap between academia and industry.
+- Served as a team captain for a community basketball league, promoting teamwork and leadership skills both on and off the court.
+
+Hobbies:
+- Playing the guitar
+- Exploring diverse cultures through music and art
+- Engaging in outdoor activities such as hiking and rock climbing while appreciating nature's beauty
+
+Languages:
+- English (Fluent)
+- Spanish (Native proficiency)

@@ -1,0 +1,41 @@
+Personal Statement:
+As a Chinese male from San Diego, California, I am committed to pursuing my passion as a machine learning engineer. With a Bachelor's degree in Computer Science from the renowned Pacific Coast University, I have achieved academic excellence and developed a strong foundation in data handling, statistical analysis, and model training. I am driven to contribute my skills and collaborate with diverse teams to drive innovation in the field of AI technology.
+
+Education:
+Bachelor of Science in Computer Science, Pacific Coast University, San Diego, California
+GPA: 3.9/4.0
+
+Work Experience:
+1. Machine Learning Engineer, Futura.AI, San Diego, California
+- Leveraged advanced data handling and processing techniques to preprocess and analyze large datasets for machine learning models.
+- Conducted statistical analysis to identify patterns and optimize model performance.
+- Utilized PyTorch and collaborated closely with cross-functional teams to develop and implement cutting-edge machine learning models.
+- Demonstrated effective communication skills to convey complex findings and insights to technical and non-technical stakeholders.
+- Applied agility and problem-solving abilities to adapt models and algorithms in response to evolving project requirements.
+- Led the training and deployment of machine learning models, ensuring seamless integration into the production environment.
+
+2. AI Research Intern, Quantum Research Labs, San Diego, California
+- Conducted extensive research on deep neural networks, gaining a comprehensive understanding of the latest advancements in the field.
+- Developed and optimized deep learning models using C++ and Python, resulting in enhanced performance and accuracy.
+- Collaborated closely with a diverse team of researchers and engineers, contributing to group projects and maintaining a strong spirit of teamwork.
+- Leveraged TensorFlow to implement and train state-of-the-art neural networks, pushing the boundaries of AI technology.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusivity in the tech industry, serving as an advocate for the Chinese community and participating in various organizations.
+- Led a basketball team as a sports team captain, fostering teamwork and helping teammates develop their skills.
+
+Hobbies:
+- Playing the piano, expressing creativity through music.
+- Exploring diverse cultures through cinema, music, and literature.
+- Engaging in basketball, honing leadership and teamwork skills.
+
+Languages:
+- English (Fluent)
+- Chinese (Mandarin) (Native)
+- Spanish (Conversational)

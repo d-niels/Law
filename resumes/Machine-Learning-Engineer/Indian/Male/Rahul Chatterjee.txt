@@ -1,0 +1,47 @@
+Personal Statement:
+Innovative and dedicated machine learning engineer with a strong passion for leveraging cutting-edge technologies to drive advancements in artificial intelligence. Skilled in developing and deploying machine learning models, as well as providing data-driven solutions to complex problems. Committed to continuous learning and staying up-to-date with the latest industry trends. Excited to contribute expertise in machine learning to a dynamic team.
+
+Education:
+Bachelor of Science in Computer Science
+University of Southern California, Los Angeles, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer - Stellar AI Solutions (Los Angeles, CA)
+- Developed and implemented machine learning algorithms to enhance product performance and efficiency.
+- Utilized TensorFlow and PyTorch for model training and deployment.
+- Conducted statistical analysis to extract meaningful insights from large datasets.
+- Collaborated with cross-functional teams to define and solve complex business problems.
+- Demonstrated proficiency in C++ and agile problem-solving techniques.
+
+Data Scientist Intern - Quantum Analytics (San Francisco, CA)
+- Processed and handled large-scale data sets to extract actionable insights.
+- Employed deep learning techniques for image recognition tasks.
+- Collaborated with fellow data scientists to improve the accuracy and effectiveness of models.
+- Strong communication and collaboration skills to effectively present findings to stakeholders.
+- Worked on understanding and implementing deep neural net research papers.
+- Proficient in Python for data analysis and modeling.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of USC Indian Association, promoting cultural exchange and diversity awareness on campus.
+- Served as a team captain for the university's basketball team, fostering teamwork, discipline, and leadership skills.
+- Actively involved in organizing tech conferences and workshops to encourage inclusivity and diversity within the technology industry.
+
+Hobbies:
+- Playing the acoustic guitar and composing original music.
+- Participating in cultural dance performances to showcase the richness of Indian heritage.
+- Exploring diverse art forms representing various cultures and traditions.
+- Engaging in community service activities to empower underprivileged individuals through education and skill development.
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+- Bengali (Conversational)
+
+References available upon request.

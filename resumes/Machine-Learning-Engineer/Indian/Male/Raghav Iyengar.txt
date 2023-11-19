@@ -1,0 +1,48 @@
+Raghav Iyengar
+Dallas, Texas | raghav.iyengar@email.com | (555) 123-4567
+
+Personal Statement:
+Passionate and driven machine learning engineer with a deep understanding of deep neural net research. Skilled in problem-solving, statistical analysis, and data handling, with a strong background in computer science. Committed to leveraging my expertise in machine learning algorithms and frameworks to drive innovation and improve business outcomes. Ready to contribute to a dynamic and collaborative team environment.
+
+Education:
+Bachelor of Science in Computer Science
+Southern Polytechnic State University, Marietta, GA
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, AlphaGen Innovations, Dallas, TX
+May 2018 - Present
+- Developed agile methods for effective problem-solving and statistical analysis in complex machine learning projects.
+- Utilized Python for data handling and processing, collaborating with cross-functional teams to ensure seamless integration.
+- Led model training and deployment, achieving significant improvement in accuracy and efficiency.
+- Enhanced deep neural net research understanding, keeping up with the latest advancements and implementing them in projects.
+
+Software Engineer Intern, BetaTech Solutions, Houston, TX
+June 2017 - August 2017
+- Applied deep learning techniques to develop a scalable and efficient recommendation system for a large e-commerce platform.
+- Collaborated with multidisciplinary teams to ensure effective communication and timely project completion.
+- Utilized C++ and TensorFlow for model implementation and optimization.
+- Demonstrated excellent teamwork and adaptability in a fast-paced environment.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+National Society of Minorities in Engineering (NSME), Member
+- Actively contributed to promoting diversity in the engineering field and providing support for underrepresented groups.
+- Led a basketball team within the society, organizing and coaching basketball events to foster teamwork and leadership skills.
+
+Hobbies:
+- Playing the tabla, a traditional Indian percussion instrument.
+- Exploring diverse cultures and traditions through various ethnic festivals and events.
+- Engaging in community service initiatives that empower and uplift marginalized communities.
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+
+References:
+Available upon request.

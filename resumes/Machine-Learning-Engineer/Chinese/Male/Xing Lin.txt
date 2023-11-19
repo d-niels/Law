@@ -1,0 +1,42 @@
+XING LIN
+New York, New York | xinglin@example.com | (123) 456-7890
+
+PERSONAL STATEMENT
+Results-driven Machine Learning Engineer with a strong technical background and a passion for innovative solutions. Detail-oriented and analytical thinker, adept in developing and implementing machine learning algorithms to drive business outcomes. Committed to leveraging advanced technologies to solve complex problems and improve operational efficiencies.
+
+EDUCATION
+Bachelor of Science in Computer Science, New York Institute of Technology, New York, New York (GPA: 3.9/4.0) - Graduated May 20XX
+
+WORK EXPERIENCE
+Machine Learning Engineer, Delta Technologies, New York, New York
+- Leveraged C++ to develop agile and problem-solving solutions, optimizing TensorFlow model performance by 20%.
+- Collaborated within a cross-functional team, contributing to data handling and processing pipelines in Python.
+- Demonstrated excellence as a team player, actively participating in code reviews and brainstorming sessions.
+- Applied statistical analysis techniques to evaluate model accuracy and refine deep learning algorithms.
+
+Research Assistant, Gamma Advanced Research Center, New York, New York
+- Utilized PyTorch framework for efficient model training and deployment, resulting in a 15% improvement in accuracy.
+- Conducted comprehensive literature reviews on deep neural net research to stay updated with the latest advancements.
+- Facilitated effective communication and collaboration with team members to align research directions and achieve objectives.
+- Performed statistical analysis to evaluate experimentation results and present findings to senior researchers.
+
+SKILLS
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+- Chinese American Association, New York Chapter: Served as a mentor and advocate for Chinese students, promoting cultural integration and organizing events celebrating Chinese customs and traditions.
+- Basketball Team Captain: Led a competitive basketball team to success, coordinating practice schedules, motivating teammates, and fostering strong teamwork.
+
+HOBBIES
+- Music: Proficient in playing the guitar, showcasing a diverse range of musical styles.
+- Language Learning: Currently learning French to broaden cross-cultural communication skills.
+
+LANGUAGES
+- English: Fluent
+- Mandarin Chinese: Native Speaker
+
+REFERENCES
+Available upon request.

@@ -1,0 +1,41 @@
+**XAVIER IRVING**
+Address | City, State, ZIP | Phone Number | Email
+
+**Personal Statement**
+Highly skilled and results-oriented Machine Learning Engineer with a passion for developing innovative solutions to complex problems. Leveraging a strong background in computer science and exceptional proficiency in various programming languages and tools, I strive to contribute to cutting-edge research and development within the field. As a goal-driven individual, I am dedicated to continuous learning and improvement and thrive in collaborative environments. 
+
+**Education**
+Bachelor of Science in Computer Science, ABC University, Columbus, Ohio | Graduation: Month, Year
+- GPA: 3.9/4.0
+
+**Work Experience**
+**Machine Learning Engineer | InnovateData AI | Columbus, Ohio | Dates**
+- Implemented agile practices and problem-solving techniques to develop machine learning models and aid in problem identification and resolution.
+- Utilized Model Training and Deployment methodologies to meet project deadlines and deliver high-quality solutions.
+- Proficiently employed PyTorch and Python to develop and optimize deep neural network models.
+- Stayed up-to-date with the latest advancements in deep learning and successfully incorporated them into project workflows.
+
+**Job Title | DataTech Innovations | Columbus, Ohio | Dates**
+- Demonstrated excellent communication and collaboration skills while working closely with cross-functional teams to drive project success.
+- Leveraged expertise in C++, statistical analysis, and data handling to process and extract insights from large datasets.
+- Displayed strong teamwork and interpersonal skills, contributing to a positive and efficient work environment.
+- Employed TensorFlow to design and deploy machine learning algorithms in real-world applications.
+
+
+**Skills**
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+**Volunteer & Leadership**
+- Actively engaged in promoting diversity and inclusion within the technology industry, participating in initiatives targeting underrepresented communities, including the Black in Tech Conference.
+- Served as a team captain for a collegiate basketball team, fostering an inclusive and supportive environment for athletes of diverse backgrounds, promoting both teamwork and excellence.
+
+**Hobbies**
+- Playing the saxophone
+- Exploring cultural heritage through literature and art
+- Celebrating and supporting diverse voices in film and music
+
+**Languages**
+English (fluent), [Additional Languages]

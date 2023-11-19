@@ -1,0 +1,50 @@
+Rory Taylor
+
+Personal Statement:
+Highly motivated Machine Learning Engineer with a passion for developing innovative solutions. Skilled in C++, Python, and deep learning, with strong analytical and problem-solving abilities. Committed to advancing technology and making a positive impact in the field of artificial intelligence. Seeking a challenging position to utilize my education, experience, and leadership skills to contribute to a forward-thinking organization.
+
+Education:
+Bachelor of Science in Computer Science, San Antonio State University
+- Graduated with a 3.9 GPA
+- Relevant coursework: Machine Learning, Data Structures, Algorithms, Artificial Intelligence
+
+Work Experience:
+Machine Learning Engineer Intern, Quantum Data Systems, San Antonio, Texas
+- Developed and optimized deep neural networks using C++ for improved accuracy in computer vision algorithms
+- Utilized data handling and processing techniques to preprocess large datasets
+- Conducted extensive research on deep neural net architectures and cutting-edge approaches
+- Collaborated effectively in a team environment to enhance algorithm performance
+- Performed statistical analysis to evaluate model performance and suggest improvements
+
+AI Research Assistant, Stellar AI Labs, San Antonio, Texas
+- Applied Python and TensorFlow to develop machine learning models for natural language processing tasks
+- Communicated and collaborated with team members to design and implement AI solutions
+- Demonstrated agility and problem-solving skills in adapting models to new domains
+- Utilized PyTorch for model training and deployment to production environments
+- Contributed to the development of novel algorithms and techniques
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate, Tech Inclusion Initiative
+- Actively promoted diversity and facilitated inclusivity within the organization
+- Organized workshops and events to raise awareness and support for underrepresented communities in technology
+- Mentored and provided guidance to aspiring minority professionals in the field
+
+Basketball Team Captain, San Antonio Strikers
+- Led and coached a competitive basketball team
+- Fostered teamwork, discipline, and sportsmanship within the team
+- Organized practices, developed game strategies, and managed team logistics
+
+Hobbies:
+Playing the guitar, painting, reading books by diverse authors, exploring different cultures, hiking
+
+Languages:
+- English (fluent)
+- Spanish (proficient)
+
+References available upon request.

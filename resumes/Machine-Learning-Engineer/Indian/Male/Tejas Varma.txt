@@ -1,0 +1,49 @@
+Tejas Varma
+
+Los Angeles, California | Machine Learning Engineer
+
+Personal Statement:
+Highly motivated and results-driven Machine Learning Engineer with a strong background in computer science and a passion for leveraging cutting-edge technologies to solve complex problems. Offering a solid foundation in deep learning, statistical analysis, and model deployment, coupled with excellent communication and collaboration skills. Committed to staying updated with the latest advancements in machine learning to drive innovation and contribute to the development of impactful solutions.
+
+Education:
+Bachelor of Science in Computer Science, University of California, Los Angeles
+- Graduated with a 3.9 GPA
+- Relevant coursework: Machine Learning, Data Mining, Artificial Intelligence
+
+Work Experience:
+Machine Learning Engineer, LuminaryAI, Los Angeles, CA
+- Understanding Deep Neural Net Research, PyTorch, Communication and Collaboration
+- Developed and implemented deep neural network models utilizing PyTorch, substantially improving accuracy and efficiency
+- Collaborated with cross-functional teams to integrate models into production systems, leading to a seamless deployment process
+- Conducted thorough research on state-of-the-art deep learning techniques to optimize existing models
+- Acted as a valuable team player, contributing to team dynamics and fostering a positive work environment
+
+Data Science Analyst, Quantum Insights, Los Angeles, CA
+- Data Handling and Processing, Python, Statistical Analysis, Agility and Problem-Solving, C++, Model Training and Deployment
+- Leveraged Python and statistical analysis techniques to analyze large datasets, identifying insights and patterns to inform business strategies
+- Developed efficient data processing pipelines to handle complex data sets, resulting in a reduction in processing time by 35%
+- Utilized C++ to optimize existing algorithms, significantly improving performance and enhancing scalability
+- Trained and deployed machine learning models for clients, achieving a 20% increase in their predictive accuracy
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Co-Lead, Diversity and Inclusion Initiative, University of California, Los Angeles
+- Spearheaded and organized initiatives to promote diversity and inclusion within the university community
+- Developed workshops and events to foster cultural understanding and create an inclusive atmosphere
+- Served as a mentor and provided guidance to underrepresented students, aiding in their personal and professional growth
+
+Sports Leadership Role, Varsity Soccer Team, University of California, Los Angeles
+- Led the university's varsity soccer team as the team captain, demonstrating strong leadership skills and a passion for teamwork
+- Managed team strategies and collaborated with coaches to optimize performance
+- Organized soccer tournaments and fundraisers to support the team's activities
+
+Hobbies:
+Playing the violin, participating in community orchestras, studying various artistic forms from different cultures, reading literature from different global regions, hiking, and photography
+
+Languages:
+Fluent in English and Hindi, proficient in Telugu

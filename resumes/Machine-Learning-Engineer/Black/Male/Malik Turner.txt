@@ -1,0 +1,39 @@
+Personal Statement:
+As a machine learning engineer, I am driven by a passion for utilizing cutting-edge technology to solve complex problems. With a strong background in computer science, I am adept at applying programming languages to develop innovative solutions. I am a highly collaborative individual with excellent communication skills, which allow me to effectively work with diverse teams. With a deep understanding of deep neural net research, I am well-equipped to contribute to the development of advanced machine learning algorithms. My goal is to leverage my skills and experience to make significant contributions in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, Charlotte University, Charlotte, North Carolina (GPA: 3.9)
+
+Work Experience:
+1. Software Developer, TechnoGenix Inc., Charlotte, North Carolina
+- Developed software applications using C++, Python, and PyTorch.
+- Assisted in data handling and processing for machine learning models.
+- Collaborated effectively with cross-functional teams to achieve project goals.
+- Demonstrated an understanding of deep neural net research to enhance model performance.
+
+2. Machine Learning Engineer, InnoviaCorp, Charlotte, North Carolina
+- Conducted model training and deployment using TensorFlow.
+- Worked collaboratively as a team player to meet project deadlines.
+- Utilized deep learning techniques for advanced data analysis.
+- Employed statistical analysis to derive actionable insights.
+- Demonstrated agility and problem-solving skills to overcome challenges.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer at the Charlotte Black Youth Mentorship Program, providing guidance and support to young black individuals in pursuing careers in STEM fields.
+- Sports Leadership Role: Captain and mentor of a youth football team, empowering young black athletes to excel both on and off the field.
+
+Hobbies:
+- Playing the piano, showcasing my musical abilities and connection to cultural expressions.
+- Exploring diverse cultures and histories through literature and travel, celebrating diversity and fostering inclusivity.
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate)
+
+References available upon request.

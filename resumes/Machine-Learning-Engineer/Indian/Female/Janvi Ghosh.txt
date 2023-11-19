@@ -1,0 +1,44 @@
+Janvi Ghosh
+ 
+Personal Statement:
+Highly motivated and results-driven Machine Learning Engineer with a strong background in computer science. I am passionate about utilizing cutting-edge technology to develop innovative solutions and optimize algorithms. With a solid understanding of deep neural net research and strong programming skills, I strive to apply my knowledge to shape the future of machine learning.
+
+Education:
+Bachelor of Science in Computer Science
+University of California, Los Angeles
+GPA: 3.9/4.0
+
+Work Experience:
+
+Machine Learning Engineer - Stellar AI Solutions, Santa Monica, CA
+- Developed and trained machine learning models using PyTorch and TensorFlow.
+- Utilized Python for data preprocessing, statistical analysis, and model deployment.
+- Demonstrated expertise in deep neural net research and applied it to improve model performance.
+- Collaborated with cross-functional teams to ensure seamless deployment of models.
+
+Software Engineer - Quantum Minds, Culver City, CA
+- Leveraged C++ and deep learning techniques to develop sophisticated software solutions.
+- Demonstrated strong teamwork skills to collaborate with a diverse team of engineers.
+- Communicated effectively with stakeholders to gather requirements and ensure project success.
+- Efficiently handled and processed large datasets, ensuring data integrity.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteered at the Indian Cultural Society, organizing events to promote Indian culture and heritage in the Los Angeles community.
+- Served as a mentor and team captain for a local youth basketball team, fostering leadership and teamwork skills among diverse groups.
+
+Hobbies:
+- Playing the guitar, showcasing my musical talent and creativity.
+- Exploring different cultures through travel and cuisine, broadening my perspective.
+- Participating in women's empowerment events and advocating for gender equality and inclusion.
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+
+References available upon request.

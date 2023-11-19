@@ -1,0 +1,39 @@
+Personal Statement:
+Experienced machine learning engineer with a strong background in computer science and a passion for leveraging artificial intelligence to develop innovative solutions. Highly skilled in deep learning frameworks and proficient in Python, C++, and SQL. Dedicated to collaborating with interdisciplinary teams to drive results and possess excellent analytical and problem-solving abilities. Committed to promoting diversity and fostering an inclusive environment within the technology industry.
+
+Education:
+Bachelor of Science in Computer Science
+California State University, Los Angeles, California
+GPA: 3.9
+
+Work Experience:
+
+Machine Learning Engineer Intern, Phoenix AI Solutions, Los Angeles, California
+- Implemented deep learning algorithms and performed statistical analysis to optimize data processing efficiency.
+- Collaborated with a diverse team to develop machine learning models using TensorFlow.
+- Conducted in-depth research on the latest advancements in deep neural networks.
+- Leveraged C++ for code development and effectively communicated and collaborated with team members.
+
+Software Engineer, GoldenTech Solutions, Los Angeles, California
+- Developed machine learning models using PyTorch and Python.
+- Led the training and deployment of models, ensuring accurate data handling and processing.
+- Demonstrated adaptability and problem-solving skills to overcome challenges in model development.
+- Actively participated as a team player in agile development methodologies.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Team Leadership in Tennis
+- Organized and led a tennis team, fostering teamwork and promoting a healthy and competitive environment.
+- Demonstrated leadership skills in guiding team members and coordinating practice schedules and tournaments.
+
+Hobbies:
+- Playing the guzheng (traditional Chinese musical instrument)
+- Exploring diverse cultures through travel and attending cultural events
+
+Languages:
+- Fluent in English and Mandarin Chinese

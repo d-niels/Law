@@ -1,0 +1,45 @@
+Harrison Keenan
+
+Personal Statement:
+A highly motivated and ambitious machine learning engineer with a strong background in computer science, from Detroit, Michigan. Dedicated to utilizing my skills and expertise to develop cutting-edge solutions in the field of machine learning. Committed to fostering innovation and solving complex problems through data-driven approaches. Demonstrated ability to work collaboratively in teams and deliver high-quality work within strict deadlines.
+
+Education:
+Bachelor of Science in Computer Science, Detroit Institute of Technology (Detroit, Michigan)
+- GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, TechLogic Solutions (Detroit, Michigan)
+- Conducted statistical analysis to evaluate the performance of deep neural net research projects.
+- Collaborated with cross-functional teams to understand and implement deep learning algorithms using PyTorch and C++.
+- Effectively communicated complex technical concepts to non-technical stakeholders.
+- Demonstrated agility and problem-solving skills in adapting to dynamic project requirements.
+
+Data Engineer, DataGenix Analytics (Detroit, Michigan)
+- Worked in a team-oriented environment to develop and deploy deep learning models using TensorFlow and Python.
+- Conducted thorough data handling and processing to ensure accurate and efficient model training and deployment.
+- Demonstrated exceptional teamwork and collaboration skills while working on complex projects.
+- Proficient in data analysis and generating actionable insights.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+General Secretary, African American Computer Science Association (Detroit Institute of Technology)
+- Actively promoted diversity and inclusion within the computer science community.
+- Organized various seminars and career workshops to empower underrepresented individuals in the field.
+- Assumed a leadership role in basketball, fostering teamwork and collaboration among team members.
+
+Hobbies:
+- Playing the drums to explore different musical expressions.
+- Engaging in diverse cultural experiences and learning about various ethnic traditions.
+- Participating in community-driven initiatives to raise awareness about gender and racial equality.
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)
+
+References:
+Available upon request.

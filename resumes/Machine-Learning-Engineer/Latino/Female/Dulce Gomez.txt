@@ -1,0 +1,42 @@
+DULCE GOMEZ
+123 Main Street, Albuquerque, New Mexico, 87101 | (555) 123-4567 | dulcegomez@email.com
+
+Personal Statement:
+Highly motivated and passionate Machine Learning Engineer with a strong background in computer science. Dedicated to advancing the field of deep learning and utilizing cutting-edge technologies to solve complex problems. Strong team player and effective communicator, able to collaborate with multidisciplinary teams to achieve project objectives. Committed to utilizing machine learning techniques to drive innovation and make a positive impact on society.
+
+Education:
+Bachelor of Science in Computer Science, University of New Mexico, Albuquerque, New Mexico
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer Intern, NovaTech Innovations, Albuquerque, New Mexico
+- Developed deep learning models using C++ and TensorFlow, resulting in a 10% increase in model accuracy.
+- Collaborated with a team of data scientists and engineers to handle and process large datasets, improving data quality and reducing processing time by 20%.
+- Enhanced communication and collaboration between team members, resulting in improved project efficiency and workflow.
+
+Junior Machine Learning Engineer, Visionary AI Solutions, Santa Fe, New Mexico
+- Conducted research on deep neural networks, staying up to date with the latest advancements and understanding their applications in various domains.
+- Performed statistical analysis on experimental results and fine-tuned machine learning models using PyTorch, leading to a 15% improvement in model performance.
+- Contributed to model training and deployment, streamlining the process and reducing deployment time by 30%.
+- Demonstrated agility and problem-solving skills by successfully troubleshooting and resolving complex technical issues in Python.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinos in Technology Association, Volunteer
+- Active member in supporting and mentoring Latino students pursuing careers in technology.
+- Organized workshops and networking events to promote diversity and inclusion in the technology industry.
+- Served as a mentor and leader in the local soccer community, coaching young Latina athletes and fostering personal growth through sports.
+
+Hobbies:
+- Playing the guitar and composing music
+- Participating in local community theater productions
+- Exploring diverse cultures through travel and photography
+
+Languages:
+- English (Fluent)
+- Spanish (Native proficiency)

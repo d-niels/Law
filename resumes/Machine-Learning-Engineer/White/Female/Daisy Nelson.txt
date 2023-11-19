@@ -1,0 +1,46 @@
+Personal Statement:
+Highly skilled and dedicated machine learning engineer with a passion for utilizing innovative technologies to solve complex problems. Strong background in computer science and a demonstrated ability to collaborate and communicate effectively within teams. Committed to driving advancements in deep learning and leveraging statistical analysis to deliver impactful results. Seeking to contribute expertise in machine learning to drive transformative solutions as a Machine Learning Engineer.
+
+Education:
+Bachelor of Science in Computer Science
+Sunset University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+
+Machine Learning Engineer
+Vortex Labs, Houston, TX | June 2019 - Present
+- Collaborated with a cross-functional team at Vortex Labs to develop state-of-the-art deep learning models and implement cutting-edge deep neural net research.
+- Conducted comprehensive statistical analysis to evaluate model performance, identify patterns, and make data-driven recommendations for improvement.
+- Played a pivotal role in model training and deployment, ensuring the successful integration of machine learning algorithms in complex production systems.
+- Demonstrated strong communication skills and teamwork, fostering a collaborative environment that encouraged innovation and excellence.
+- Utilized analytical skills and problem-solving techniques to address challenges and meet project deadlines, consistently achieving desired outcomes.
+
+Data Scientist Intern
+Quantum Analytics, Houston, TX | May 2018 - August 2018
+- Developed Python-based data handling and processing solutions, effectively optimizing data workflows and enhancing overall efficiency.
+- Demonstrated exceptional agility and problem-solving abilities to navigate complex data challenges, ensuring accurate results and timely project completion.
+- Leveraged advanced technologies such as TensorFlow, C++, and PyTorch to create and deploy robust machine learning models, contributing significantly to various projects.
+- Collaborated closely with senior team members, actively identifying opportunities for improvement and making valuable contributions to project success.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Diversity & Inclusion Committee Member
+Sunset University, Houston, TX | September 2017 - May 2019
+- Played a pivotal role on the Diversity & Inclusion Committee at Sunset University, advocating for equal representation and actively promoting diversity within the university community.
+- Organized and facilitated workshops and events aimed at fostering an inclusive environment, encouraging students to embrace and celebrate their unique backgrounds.
+- Led a sports leadership role as the captain of the university's soccer team, demonstrating strong teamwork and leadership qualities while promoting a sense of camaraderie among team members.
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures through travel
+- Attending cultural festivals and events to immerse myself in diverse traditions and celebrations
+
+Languages:
+English (Fluent), Spanish (Proficient)

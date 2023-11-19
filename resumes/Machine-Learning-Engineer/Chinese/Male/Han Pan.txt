@@ -1,0 +1,35 @@
+Personal Statement:
+As a Chinese male hailing from the bustling city of New York, New York, I am an ambitious and driven Machine Learning Engineer with an unwavering passion for leveraging advanced technologies to tackle complex problems. With a deep understanding of deep neural net research and model training and deployment, I am determined to make a significant impact in the field of artificial intelligence and drive innovation.
+
+Education:
+Bachelor of Science in Computer Science
+Daleton University, New York, NY
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, TechPro Solutions, New York, NY
+- Demonstrated agility and exceptional problem-solving skills in developing innovative solutions for deep neural net research projects.
+- Collaborated effectively with cross-functional teams, fostering clear communication and successful deployment of models using TensorFlow and C++.
+- Led the process of model training and deployment, optimizing performance and enhancing overall efficiency.
+
+Data Analyst, InnovateTech Inc., New York, NY
+- Leveraged robust data handling and processing techniques to extract valuable insights using Python and PyTorch.
+- Applied deep learning algorithms to develop precise predictive models for statistical analysis and data-driven decision making.
+- Played a pivotal role as a team player, actively collaborating with colleagues to drive project success and achieve organizational goals.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a Chinese male, I am wholeheartedly committed to promoting diversity and inclusivity within the tech industry. Additionally, I have shown exceptional leadership skills as a basketball coach, guiding and motivating my team to achieve outstanding results on the court.
+
+Hobbies:
+In my spare time, I find solace in playing the piano, allowing me to express my creativity and passion for music. I am also a polyglot, fluent in English, Mandarin, and Cantonese, enabling me to effectively communicate and connect with individuals from diverse backgrounds.
+
+Languages:
+- English (Fluent)
+- Mandarin (Fluent)
+- Cantonese (Fluent)

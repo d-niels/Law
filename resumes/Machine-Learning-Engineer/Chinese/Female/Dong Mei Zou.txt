@@ -1,0 +1,46 @@
+Dong Mei Zou
+
+Personal Statement:
+A highly motivated and detail-oriented individual with a strong passion for machine learning. Equipped with a solid background in computer science and a deep understanding of neural networks and data processing, I am dedicated to developing innovative solutions to complex problems. As a machine learning engineer, I strive to contribute to the advancement of AI technologies and make a meaningful impact in various industries.
+
+Education:
+Bachelor of Science in Computer Science, Honors
+Harmony University, Honolulu, HI
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer
+SynthiTech Innovations, Honolulu, HI
+- Utilized Python and deep neural net research techniques to enhance data handling and processing efficiency
+- Developed machine learning models using PyTorch and C++ to optimize performance and accuracy
+- Conducted end-to-end deep learning projects, from data preprocessing to model deployment
+
+Machine Learning Engineer Intern
+Quantum Analytics, Honolulu, HI
+- Collaborated with cross-functional teams to train and deploy machine learning models using TensorFlow
+- Demonstrated excellent teamwork and communication skills to ensure successful project completion
+- Conducted statistical analysis to evaluate model performance and identify areas for improvement
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnicity and Gender Empowerment Advocate
+Honolulu Pacific Islander Empowerment Committee, Honolulu, HI
+- Promoted cultural awareness and diversity through community events and workshops
+- Served as a mentor to empower young Chinese females pursuing careers in STEM fields
+- Held a leadership role in a basketball team, fostering teamwork and promoting physical well-being
+
+Hobbies:
+Playing the Erhu (traditional Chinese musical instrument)
+Exploring diverse cultural practices through art and music
+Supporting gender equality initiatives and engaging in community volunteering
+
+Languages:
+- English (Fluent)
+- Chinese (Mandarin) (Native)
+
+References available upon request.

@@ -1,0 +1,36 @@
+Personal Statement:
+I am a highly motivated and passionate machine learning engineer with a strong background in computer science. With a focus on problem-solving and statistical analysis, I strive to leverage my skills to develop cutting-edge machine learning models and solutions. My excellent communication and collaboration abilities, coupled with my agility in tackling complex challenges, allow me to work effectively both individually and as part of a team. As a machine learning engineer, I am dedicated to pushing the boundaries of technology and making a meaningful impact in the field.
+
+Education:
+Bachelor of Science in Computer Science, University of Austin, Austin, Texas
+- GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer - Innovision Dynamics, Austin, Texas
+- Utilized C++ to develop and optimize machine learning algorithms for model training and deployment
+- Demonstrated exceptional team player attributes by collaborating with cross-functional teams for successful project delivery
+- Conducted statistical analysis on large datasets to identify patterns and trends
+- Exhibited agility and problem-solving skills in resolving complex challenges throughout the development lifecycle
+- Ensured effective communication and collaboration with team members to achieve project goals
+
+Data Science Intern - Stellar Insights, Austin, Texas
+- Proficiently leveraged Python, TensorFlow, and PyTorch to develop deep learning models  
+- Demonstrated expertise in handling and processing large-scale datasets for optimal model performance
+- Actively followed and understood current deep neural net research to stay updated on advancements in the field
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Basketball Team Captain, University of Austin: As a leader, I successfully led and motivated a diverse basketball team, fostering teamwork and inclusivity. Through my role, I not only improved our team's skills but also organized community outreach programs to engage local youth in the sport.
+
+Hobbies:
+- Playing the guitar: I find solace and joy in playing the guitar, expressing my creativity and translating emotions into music.
+- Hiking: Exploring nature and challenging myself physically through hiking has always been a great source of relaxation and personal growth.
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)

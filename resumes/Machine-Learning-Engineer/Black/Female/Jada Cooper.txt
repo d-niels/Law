@@ -1,0 +1,50 @@
+Jada Cooper
+123 Main Street, Baltimore, MD 12345
+Phone: (555) 123-4567 | Email: jadacooper@email.com
+
+Personal Statement:
+Energetic and dedicated machine learning engineer with a strong passion for leveraging data to drive innovation and solve complex problems. Equipped with a deep understanding of deep neural net research and expertise in model training and deployment. Committed to building high-performing machine learning systems to enhance user experiences and optimize business operations. Strong team player adept at collaborating with multidisciplinary teams to deliver exceptional results.
+
+Education:
+Bachelor of Science in Computer Science, Baltimore Institute of Technology, Baltimore, MD
+- Graduated Magna Cum Laude
+- GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, NeuralTech Labs, Baltimore, MD
+May 2019 - Present
+- Employ agility and problem-solving skills to develop cutting-edge machine learning models using PyTorch, resulting in a 20% improvement in model accuracy.
+- Demonstrated expertise in understanding deep neural net research to enhance model performance.
+- Collaborated effectively within a team to develop and deploy machine learning models using C++.
+- Conducted model training and deployment, ensuring seamless integration into client systems.
+
+Data Analyst Intern, TechEmpire, Baltimore, MD
+June 2018 - August 2018
+- Utilized deep learning techniques to analyze and derive insights from large datasets, contributing to data-driven decision-making processes.
+- Performed statistical analysis to identify patterns and trends, improving data accuracy by 15%.
+- Facilitated effective communication and collaboration between cross-functional teams, ensuring successful project delivery.
+- Developed efficient data handling and processing pipelines using Python and TensorFlow.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Member, Women in Tech Society, Baltimore Institute of Technology
+- Actively promoted diversity and inclusion within the tech industry through various community outreach programs.
+- Organized workshops and mentoring sessions to inspire young black females pursuing careers in STEM.
+- Served as a team captain of the university's basketball team, fostering leadership skills and teamwork.
+
+Hobbies:
+- Playing the saxophone
+- Participating in cultural dance performances
+- Exploring literature from African American authors
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)
+
+References:
+Available upon request

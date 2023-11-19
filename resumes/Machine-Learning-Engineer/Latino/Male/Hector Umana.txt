@@ -1,0 +1,48 @@
+Hector Umana
+El Paso, Texas | (123) 456-7890 | hectorumana@email.com
+
+Personal Statement:
+Driven and innovative Machine Learning Engineer with a strong background in computer science. Passionate about leveraging advanced technologies to develop groundbreaking solutions. Committed to optimizing model performances and driving data-driven decision-making. Demonstrated ability to collaborate effectively within cross-functional teams, ensuring successful project outcomes. Eager to apply diverse technical skills and expertise to contribute to the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science
+Texas Tech University, Lubbock, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Novatech Solutions, El Paso, Texas         	       	               	               	2018 - Present
+- Developed and implemented machine learning models using TensorFlow, impacting various industries such as healthcare and finance.
+- Utilized Agility and Problem-Solving skills to adapt to evolving project requirements and efficiently solve complex technical challenges.
+- Responsible for data handling and processing, ensuring accurate and reliable data inputs for model training and evaluation.
+- Collaborated with cross-functional teams to enhance model performance and accuracy through continuous iterations and feedback.
+- Conducted statistical analysis to extract valuable insights from large datasets, informing strategic business decisions.
+
+Research Assistant, Innovate Labs, El Paso, Texas        	      	        	      	        	      	        	        	2017 - 2018
+- Conducted in-depth research on the advancements of Deep Neural Networks, contributing to cutting-edge projects.
+- Utilized programming skills in C++, PyTorch, and Python to develop and optimize deep learning algorithms.
+- Collaborated closely with team members, providing effective communication and collaboration to ensure project milestones were met.
+- Contributed to the understanding and implementation of Deep Neural Network research, optimizing model performances and outcomes.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinos in Tech Mentorship Program, El Paso, Texas         	           	               	               	                 	2016 - Present
+- Mentored Hispanic students pursuing careers in technology, providing guidance and support to help them excel academically and professionally.
+- Served as a team captain in a local soccer league, promoting teamwork, discipline, and leadership on and off the field.
+
+Hobbies:
+- Playing the guitar
+- Passionate about soccer, coaching a youth team and organizing community tournaments
+- Actively involved in promoting diversity and inclusion in tech communities
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+- Portuguese (Proficient)
+
+References:
+Available upon request.

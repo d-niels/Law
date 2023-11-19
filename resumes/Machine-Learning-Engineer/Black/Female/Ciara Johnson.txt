@@ -1,0 +1,37 @@
+Ciara Johnson
+
+Personal Statement:
+Motivated and detail-oriented machine learning engineer with a passion for leveraging technology to solve complex problems. Possessing strong proficiency in Python, PyTorch, TensorFlow, and deep learning techniques. Committed to continuous learning and improving skills in data analysis, statistical modeling, and collaboration. Dedicated to diversity and inclusion in the tech industry, aiming to break barriers as a black female in the field.
+
+Education:
+Bachelor of Science in Computer Science, Columbus Tech University, Columbus, Ohio
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Athena AI Solutions, Columbus, Ohio
+- Developed state-of-the-art deep learning models using PyTorch and Python for image recognition applications
+- Conducted statistical analysis and collaborated with cross-functional teams to optimize model performance
+- Demonstrated excellent communication and collaboration skills to foster a positive team environment
+
+AI Research Intern, Nexus Research Labs, Columbus, Ohio
+- Gained valuable experience in TensorFlow and contributed to deep neural net research for natural language processing
+- Effectively handled and processed large datasets to train and deploy models using C++
+- Demonstrated agility and problem-solving skills in tackling complex AI projects
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active advocate for diversity and inclusion in the tech industry, serving as a mentor and support system for underrepresented individuals
+- Sports Leadership: Led and trained a local youth basketball team, fostering teamwork and sportsmanship skills
+
+Hobbies:
+- Playing the piano and composing music
+- Exploring various cultures through art and music
+- Engaging in community initiatives that promote inclusivity and diversity in technology
+
+Languages:
+Fluent in English and Spanish

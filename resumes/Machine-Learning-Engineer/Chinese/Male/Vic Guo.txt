@@ -1,0 +1,44 @@
+Personal Statement:
+I am a highly motivated and passionate machine learning engineer with a strong background in computer science. As a Chinese male born and raised in San Francisco, I bring a unique perspective to the field and thrive in diverse team environments. With a keen interest in artificial intelligence and a proven track record in developing innovative solutions, I am eager to contribute my skills and expertise to drive advancements in machine learning technology.
+
+Education:
+Bachelor of Science in Computer Science
+San Francisco State University, San Francisco, California
+GPA: 3.9/4.0
+
+Work Experience:
+
+Machine Learning Engineer - AI Innovators
+San Francisco, California
+
+- Developed Python models for training and deployment, ensuring efficient data handling and processing.
+- Utilized C++ to enhance deep neural net research and optimize model performance.
+- Collaborated with cross-functional teams to effectively communicate project updates and deliver on team objectives.
+
+Machine Learning Engineer - Quantum Technologies
+San Francisco, California
+
+- Utilized agility and problem-solving skills to develop machine learning solutions using PyTorch and TensorFlow frameworks.
+- Conducted statistical analysis and applied deep learning techniques to extract meaningful insights from large datasets.
+- Thrived as a team player, contributing to the success of multidisciplinary projects.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Sports Leadership Role: Served as a team captain for a local basketball team, leading by example, inspiring teamwork, and fostering a competitive spirit.
+- Cultural Ambassador: Actively promoted cultural diversity and inclusion within the workplace, organizing events and facilitating discussions.
+- Gender Equity Advocate: Led initiatives to increase awareness of gender biases and championed equal opportunities for all employees.
+
+Hobbies:
+- Playing the guitar, showcasing my creative side and love for music.
+- Martial Arts: Practicing and teaching traditional Chinese martial arts, embracing my cultural heritage and physical discipline.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References available upon request.

@@ -1,0 +1,40 @@
+Yasmin Ellis
+
+Personal Statement:
+As a dedicated and passionate machine learning engineer, I am committed to pushing the boundaries of technology and leveraging data-driven solutions to address complex challenges. Coming from a diverse background as a black female from Memphis, Tennessee, I am inspired to promote inclusivity and diversity within the field of technology. With a strong academic foundation in computer science and a fervent love for machine learning, I am equipped with the skills and knowledge to drive innovation in the realm of AI.
+
+Education:
+Bachelor of Science in Computer Science, Juniper University, Memphis, Tennessee
+- Graduated with a GPA of 3.9
+- Specialized coursework in machine learning algorithms, data analytics, and deep neural networks
+
+Work Experience:
+Machine Learning Engineer, Stellar AI Technologies, Memphis, TN | September 2019 - Present
+- Applied strong communication and collaboration skills to work effectively within cross-functional teams, ensuring seamless project execution.
+- Developed and implemented machine learning models utilizing TensorFlow, C++, and statistical analysis techniques to optimize data handling and processing.
+- Played a vital role in the completion of projects by training and deploying models, effectively meeting project milestones and objectives.
+
+AI Research Intern, Luminary Solutions, Memphis, TN | May 2018 - August 2018
+- Gained exposure to deep neural net research, working closely with senior researchers to understand and apply cutting-edge deep learning techniques.
+- Utilized PyTorch and Python to contribute to the development of AI algorithms and improve model accuracy.
+- Thrived in a collaborative and fast-paced environment, showcasing exceptional problem-solving abilities and agility to overcome challenges.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Advocacy for Inclusive Tech Communities: As a black female in the tech industry, I am passionate about promoting diversity and inclusivity. I actively participate in initiatives that foster an equitable environment, such as mentoring aspiring female programmers from underrepresented communities.
+- Sports Leadership: Served as a team captain for the Juniper University volleyball team, promoting teamwork, discipline, and leadership. Through volleyball, I have gained valuable skills in collaboration, effective communication, and navigating challenges.
+
+Hobbies:
+In my free time, I love playing the piano, a passion of mine that allows me to express my creativity through music. Additionally, I actively engage in local cultural events, exploring diverse art forms such as dance and spoken word poetry. As a continuous learner, I am also studying Spanish, expanding my language skills beyond English.
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate proficiency)
+
+References:
+Available upon request.

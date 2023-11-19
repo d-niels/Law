@@ -1,0 +1,42 @@
+Jiya Ghosh
+
+Personal Statement:
+Experienced machine learning engineer dedicated to leveraging cutting-edge technologies and data-driven insights to solve complex problems. Passionate about utilizing deep learning and statistical analysis to develop innovative solutions. Committed to fostering diversity and promoting equality in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science
+Silicon Valley University, San Jose, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer | TechnoGenix Innovations, San Francisco, CA
+- Developed agile and problem-solving machine learning algorithms in C++ to optimize data processing, resulting in a 30% increase in efficiency
+- Demonstrated exceptional team player skills by collaborating with cross-functional teams to solve complex problems and ensure seamless integration of machine learning models
+- Conducted in-depth research on deep neural networks to improve model accuracy and performance
+- Utilized statistical analysis techniques to extract meaningful insights and support data-driven decision-making
+
+Software Engineer | IntelliSoft Labs, Mountain View, CA
+- Implemented machine learning models using PyTorch and TensorFlow, resulting in improved accuracy and enhanced model performance
+- Led the end-to-end process of model training and deployment, ensuring seamless integration and utilization of machine learning models
+- Developed strong communication and collaboration skills by working closely with clients to understand their requirements and deliver customized solutions
+- Effectively handled and processed large datasets using Python for efficient analysis and modeling
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteered as a tech mentor for underrepresented communities, empowering individuals from diverse backgrounds and contributing to equal opportunities in the tech industry
+- Demonstrated leadership skills as a team captain for a local basketball league, fostering teamwork and promoting inclusivity
+
+Hobbies:
+- Playing the piano and composing music
+- Exploring diverse cultures through music, art, and literature
+- Participating in basketball tournaments to stay active and promote team spirit
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+- Bengali (Proficient)

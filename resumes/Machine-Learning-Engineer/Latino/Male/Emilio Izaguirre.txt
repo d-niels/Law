@@ -1,0 +1,49 @@
+Emilio Izaguirre
+
+Personal Statement:
+Highly motivated Machine Learning Engineer with a passion for leveraging artificial intelligence to solve complex problems. Dedicated to staying at the forefront of deep neural net research and applying this knowledge to develop innovative solutions. With a strong background in computer science and a proven track record of collaboration and problem-solving, I am eager to contribute my skills and expertise to drive advancements in machine learning.
+
+Education:
+Bachelor of Science in Computer Science
+Austin University, Austin, TX
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer Intern
+InnovaTech Solutions, Austin, TX
+- Developed a deep neural network model using TensorFlow for image recognition tasks
+- Worked collaboratively to process and handle large datasets, ensuring accurate and efficient training
+- Assisted in the deployment of models and optimization of model performance
+- Gained practical experience in Python programming and data handling techniques
+
+Data Analyst
+TechGenius AI, Austin, TX
+- Conducted statistical analysis on large datasets to extract valuable insights and identify patterns
+- Implemented deep learning algorithms using PyTorch for natural language processing projects
+- Collaborated with cross-functional teams to address complex problems, demonstrating agility and problem-solving skills
+- Utilized C++ for efficient data processing and algorithm optimization
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinx in Tech Mentorship Program
+- Mentored Latinx students from underprivileged communities, providing guidance and support in pursuing careers in technology
+- Organized workshops and seminars to promote interest in machine learning and computer science among minority students
+
+Sports Leadership Role: Team Captain - Basketball
+- Led the basketball team as captain, fostering a collaborative and inclusive environment
+- Developed strategic game plans and motivated team members to excel in their roles
+
+Hobbies:
+Playing the piano, showcasing Latino music influences and expressing creativity through music
+Promoting cultural dances, celebrating Latin traditions, and fostering inclusivity through dance forms such as salsa and bachata
+
+Languages:
+English (fluent), Spanish (native proficiency)
+
+References:
+Available upon request.

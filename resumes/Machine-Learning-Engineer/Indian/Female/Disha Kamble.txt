@@ -1,0 +1,55 @@
+DISHA KAMBLE
+
+1572 Maple Street, San Francisco, CA 94102
+(555) 123-4567 | dishakamble@email.com
+
+PERSONAL STATEMENT
+Driven and innovative Machine Learning Engineer with a strong background in Computer Science. Combining technical expertise with a collaborative mindset, I am dedicated to pushing boundaries in the field of machine learning. Excited to leverage deep learning techniques to develop cutting-edge solutions that make a positive impact.
+
+EDUCATION
+Bachelor of Science in Computer Science, San Francisco State University, San Francisco, CA
+GPA: 3.9/4.0
+
+WORK EXPERIENCE
+
+Machine Learning Engineer | IntelliTech AI, San Francisco, CA
+June 2018 - Present
+- Utilized TensorFlow and C++ to implement deep learning algorithms, significantly improving image recognition accuracy by 20%.
+- Collaborated closely with the data team to handle and process large datasets, ensuring seamless integration into training models.
+- Streamlined model training and deployment using TensorFlow and C++, reducing model testing time by 15%.
+- Demonstrated exceptional communication and collaboration skills, effectively conveying technical concepts to diverse stakeholders.
+
+Research Assistant | VisionTech Research Labs, San Francisco, CA
+August 2017 - May 2018
+- Conducted in-depth research on deep neural network architectures, gaining a deep understanding of their underlying principles.
+- Implemented various deep learning architectures using PyTorch and Python, performing statistical analysis on large datasets.
+- Actively collaborated with a diverse team to develop efficient and accurate solutions, showcasing strong problem-solving abilities.
+
+SKILLS
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+
+Women in Technology | San Francisco State University, San Francisco, CA
+President | September 2016 - May 2018
+- Founded and led a mentorship program for underrepresented women in technology, providing guidance and support to promote their career growth.
+- Organized networking events, workshops, and speaker series to create a strong community of aspiring women in the field.
+
+Community Sports Club, San Francisco, CA
+Captain, Volleyball Team | January 2015 - May 2018
+- Led the volleyball team, organizing practices, developing game strategies, and motivating teammates.
+- Guided the team to victory in local tournaments, fostering a supportive and competitive team environment.
+
+HOBBIES
+- Playing the piano
+- Exploring diverse cultural festivals and traditions
+- Engaging in outdoor activities such as hiking and soccer
+
+LANGUAGES
+Fluent in English and Hindi
+
+REFERENCES
+Available upon request

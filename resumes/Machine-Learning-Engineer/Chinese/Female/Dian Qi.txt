@@ -1,0 +1,39 @@
+Personal Statement:
+I am a highly motivated and detail-oriented Machine Learning Engineer with a strong passion for solving complex problems using cutting-edge technologies. With a Bachelor's degree in Computer Science and my solid understanding of machine learning principles, I am dedicated to developing innovative solutions that drive business growth and enhance user experiences. I am excited to leverage my skills, knowledge, and enthusiasm to contribute to the field of machine learning.
+
+Education:
+Bachelor's in Computer Science, Houston Technical University, Houston, Texas (GPA: 3.9)
+
+Work Experience:
+Machine Learning Engineer, TechGenius Inc., Houston, Texas
+- Collaborated with a diverse and dynamic team to develop and implement machine learning models using Python and C++
+- Effectively communicated research findings and proposed solutions to non-technical stakeholders, fostering effective collaboration and understanding
+- Applied statistical analysis techniques to extract actionable insights from large datasets, contributing to data-driven decision-making
+- Demonstrated a deep understanding of deep neural net research to enhance the accuracy and reliability of existing models
+- Proven track record of being a strong team player, fostering a collaborative and supportive work environment
+
+Data Scientist Intern, DataWizards, Houston, Texas
+- Efficiently handled and processed large volumes of data using advanced techniques, ensuring data quality and reliability
+- Developed and deployed cutting-edge machine learning models using popular frameworks such as TensorFlow and PyTorch
+- Conducted thorough model training and fine-tuning to optimize performance and achieve superior results
+- Demonstrated agility and effective problem-solving abilities in troubleshooting and resolving complex issues
+- Collaborated seamlessly with the team to implement efficient data pipelines for a smooth and seamless data flow
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry as a Chinese female professional, striving for equality and representation
+- Led a competitive soccer team, showcasing leadership and teamwork skills while organizing practices, coordinating game strategies, and fostering team spirit
+
+Hobbies:
+- Fluent in Mandarin and English
+- Proudly play the erhu, a traditional Chinese instrument, promoting cultural preservation and emotional expression
+- Engage in various outdoor activities, including hiking and cycling, which contribute to a healthy and balanced lifestyle
+
+Languages:
+- Mandarin (native)
+- English (fluent)

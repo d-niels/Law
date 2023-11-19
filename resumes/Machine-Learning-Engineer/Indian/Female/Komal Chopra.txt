@@ -1,0 +1,43 @@
+Komal Chopra
+123 Main Street, Chicago, Illinois, 60601
+Phone: (555) 123-4567 | Email: komalchopra@email.com
+
+Personal Statement:
+Driven and detail-oriented machine learning engineer with a strong background in computer science. Passionate about leveraging statistical analysis and deep learning techniques to develop innovative machine learning models. Seeking a challenging role as a Machine Learning Engineer to contribute my skills and knowledge in developing advanced algorithms in a collaborative and dynamic environment.
+
+Education:
+Bachelor of Science in Computer Science, XYZ University, Chicago, Illinois
+- Graduated with Honors
+- GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer Intern, Aurora Technologies, Chicago, Illinois (May 2020 - August 2020)
+- Conducted statistical analysis on large datasets to derive valuable insights for the team.
+- Collaborated with cross-functional teams to design and implement machine learning models using C++, PyTorch, and other relevant technologies.
+- Demonstrated excellent communication skills to effectively present findings and collaborate with stakeholders.
+- Exhibited agility and problem-solving abilities to overcome technical challenges and meet project deadlines.
+
+Junior Machine Learning Engineer, Stellar Solutions, Chicago, Illinois (January 2019 - April 2020)
+- Implemented model training and deployment using Python, TensorFlow, and other deep learning frameworks.
+- Played a key role in understanding and adapting cutting-edge deep neural network research papers into practical solutions.
+- Efficiently handled and processed large datasets, ensuring data quality and reliability.
+- Collaborated closely with team members to contribute to the development and optimization of machine learning pipelines.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Rising Stars Foundation, Chicago, Illinois (2018 - Present)
+- Actively contribute to community outreach programs assisting underprivileged communities.
+- Organize and lead leadership programs in basketball, fostering teamwork and empowerment among young girls.
+
+Hobbies:
+- Playing the violin, embracing the beauty of music
+- Exploring diverse cultures through travel and language exploration
+
+Languages:
+- English (Fluent)
+- Hindi (Native proficiency)

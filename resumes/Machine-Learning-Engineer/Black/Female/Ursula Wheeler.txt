@@ -1,0 +1,49 @@
+Ursula Wheeler
+
+Personal Statement:
+Passionate and driven machine learning engineer with a strong foundation in computer science. Dedicated to leveraging cutting-edge technologies to contribute to the field of artificial intelligence. With a proven track record of data handling, model training, and collaborative problem-solving, I am eager to bring my skills and expertise to drive innovation in machine learning.
+
+Education:
+Bachelor of Science in Computer Science, Stellar University, Columbus, Ohio
+- Graduated with a GPA of 3.9
+- Relevant coursework: Artificial Intelligence, Machine Learning, Data Mining, Algorithms
+
+Work Experience:
+
+Machine Learning Engineer, Stellar Innovations, Columbus, OH
+- Conducted comprehensive data handling and processing tasks to ensure high-quality datasets for model development and training.
+- Successfully performed model training and deployment, leading to a significant improvement in product efficiency and accuracy.
+- Stayed updated with the latest advancements in deep neural net research and effectively implemented them in various projects.
+- Utilized TensorFlow for developing and optimizing deep learning models in real-world applications.
+- Collaborated closely with cross-functional teams to gather requirements, provide technical insights, and continuously communicate project progress.
+- Developed and executed a well-structured communication plan to ensure seamless collaboration among team members.
+
+Software Developer, NovaTech Solutions, Columbus, OH
+- Utilized PyTorch framework to implement innovative machine learning algorithms for data analysis and prediction.
+- Demonstrated exceptional agility and effective problem-solving skills, leading to prompt identification and resolution of software issues.
+- Leveraged Python and C++ to develop efficient and scalable applications.
+- Employed statistical analysis techniques to evaluate the performance and effectiveness of implemented algorithms.
+- Acted as a valuable team player, making significant contributions to a complex project with multiple stakeholders.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnicity and Gender Empowerment Advocate:
+- Actively involved in promoting diversity and inclusion in the tech industry, with a specific focus on empowering underrepresented communities.
+- Organized and facilitated workshops, panel discussions, and mentorship programs to raise awareness and foster inclusivity in technology.
+- Dedicated mentor for aspiring black female engineers, providing guidance, support, and encouragement.
+
+Sports Leadership - Basketball:
+- Led a basketball team, coaching and mentoring young athletes, fostering their skills, teamwork, and leadership abilities.
+
+Hobbies:
+- Playing the saxophone
+- Exploring different cultures through travel and music
+- Engaging in community outreach programs focused on education, empowerment, and environmental sustainability
+
+Languages:
+Fluent in English and French

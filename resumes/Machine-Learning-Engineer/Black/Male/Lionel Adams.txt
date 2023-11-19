@@ -1,0 +1,36 @@
+LIONEL ADAMS
+
+Personal Statement:
+Passionate machine learning engineer with a strong background in computer science seeking a challenging role to leverage expertise in designing and developing intelligent systems. Committed to driving innovation and solving complex problems through the application of cutting-edge technologies. Eager to contribute to a dynamic team and make a positive impact in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science
+ABC University, Chicago, Illinois
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Stellar Systems, Chicago, Illinois
+- Collaborated with cross-functional teams to develop and deploy deep learning models using TensorFlow and PyTorch frameworks.
+- Utilized C++ and Python to implement efficient algorithms for model training and deployment.
+- Demonstrated excellent communication and collaboration skills by actively participating in team meetings and delivering project updates to stakeholders.
+- Focused on deep learning techniques and contributed to cutting-edge research and development efforts.
+
+Data Analyst, Quantum Insights, Chicago, Illinois
+- Actively contributed to deep neural network research, providing valuable insights and aiding in the development of statistical analyses.
+- Applied problem-solving skills and agility to overcome challenges in data handling and processing tasks.
+- Leveraged Python for data manipulation and employed statistical analysis techniques to extract meaningful patterns.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As an African American male, I am deeply committed to promoting diversity and inclusivity in the industry. I actively volunteer in various community outreach programs, providing mentorship to underrepresented youth interested in pursuing careers in technology. Additionally, I have served as a basketball team leader, organizing and coaching teams to foster teamwork, leadership, and improve physical fitness among young men of color.
+
+Hobbies:
+I am an avid guitar player and enjoy exploring various genres of music. Additionally, I actively participate in cultural events and engage in activities that celebrate diversity, including attending art exhibits and supporting social justice organizations.
+
+Languages:
+Fluent in English and Spanish.

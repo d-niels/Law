@@ -1,0 +1,42 @@
+Gargee Kapoor
+
+Personal Statement:
+Highly motivated and detail-oriented machine learning engineer with a passion for leveraging artificial intelligence to solve complex problems. Committed to staying up-to-date with the latest advancements in deep learning and neural networks. Able to work independently and collaboratively in fast-paced environments, while maintaining a strong focus on delivering high-quality results. Dedicated to promoting diversity and inclusivity in the technology field.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+Texas Tech University, Houston, Texas
+
+Work Experience:
+Machine Learning Engineer | Stellar AI Solutions
+- Utilized deep learning techniques in developing and implementing advanced machine learning models
+- Efficiently handled and processed large datasets, ensuring data integrity and accuracy
+- Demonstrated a deep understanding of neural network research and applied it effectively in developing and improving models
+- Collaborated closely with a multidisciplinary team to enhance model training and deployment processes
+- Proficiently programmed in Python to facilitate efficient model development and optimization
+
+Research Associate | Quantum Data Analytics
+- Conducted statistical analysis on large datasets to derive meaningful insights and inform decision-making processes
+- Utilized TensorFlow framework to design and implement machine learning models for various projects
+- Demonstrated strong communication and collaboration skills while working with cross-functional teams
+- Showcased agility and problem-solving abilities in addressing technical challenges and finding innovative solutions
+- Proficiently programmed in C++ and PyTorch to optimize performance and scalability of models
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate
+- Actively involved in promoting diversity and inclusivity in the technology industry, focusing on empowering underrepresented groups
+- Led a sports leadership role as captain of the university's volleyball team, fostering teamwork and promoting gender equality
+
+Hobbies:
+- Playing the guitar to express creativity and musical talent
+- Participating in cultural exchange programs to embrace and celebrate diversity
+- Engaging in traditional Indian dance forms to showcase heritage and cultural pride
+
+Languages:
+Fluent in English and Hindi, proficient in Spanish

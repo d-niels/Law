@@ -1,0 +1,43 @@
+EVA PEREZ
+
+Personal Statement:
+Highly motivated and dedicated Machine Learning Engineer with a strong background in computer science and a passion for leveraging artificial intelligence to solve complex problems. Committed to staying up-to-date with the latest advancements in deep learning and capable of collaborating effectively in diverse teams. Eager to contribute to cutting-edge projects in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science
+Phoenix University, Phoenix, Arizona
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, QuantumAI, Phoenix, AZ
+- Developed and implemented PyTorch models for deep neural net research, contributing to advancements in AI technology.
+- Collaborated with cross-functional teams to optimize model training and deployment processes, ensuring seamless integration with existing systems.
+- Utilized TensorFlow for statistical analysis, enabling data-driven decision making.
+- Effectively communicated complex findings and insights to both technical and non-technical stakeholders.
+
+Software Engineer, Infotech Solutions, Phoenix, AZ
+- Applied deep learning algorithms and techniques to develop intelligent systems using C++ and Python.
+- Demonstrated agility and problem-solving skills in a fast-paced environment, delivering robust and scalable solutions.
+- Proficiently handled and processed large datasets, ensuring data integrity and accuracy.
+- Fostered a collaborative team environment, actively participating in code reviews and knowledge sharing.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Co-Founder, Latinx in Tech Organization, Phoenix, AZ
+- Empower and support Latinx individuals pursuing careers in technology through mentorship programs and networking opportunities.
+- Encourage diversity and inclusivity in the tech industry, promoting equal representation and celebrating cultural differences.
+
+Sports Leadership Role, Captain of a Basketball Team, Phoenix, AZ
+- Demonstrated exceptional leadership and teamwork skills as the captain of a basketball team, motivating and guiding teammates to achieve their best performances.
+- Organized team practices and strategized game plans, exemplifying strong communication and decision-making abilities.
+
+Hobbies:
+Playing the piano, celebrating Latinx culture through music and dance, advocating for gender equality and inclusivity in the tech community.
+
+Languages:
+Bilingual: English and Spanish

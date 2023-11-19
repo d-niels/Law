@@ -1,0 +1,42 @@
+FERNANDA ARROYO
+
+Personal Statement:
+Passionate and driven Machine Learning Engineer with a strong background in computer science. Committed to driving innovation and utilizing machine learning techniques to solve complex problems. Excels in model training and deployment, deep neural net research, and statistical analysis. Collaborative and adaptable, with exceptional problem-solving skills.
+
+Education:
+Bachelor of Science in Computer Science, Stellar University, Las Vegas, Nevada (2016-2020)
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, QuantumAI Technologies, Las Vegas, Nevada (2020- Present)
+- Implemented advanced model training and deployment techniques to optimize performance.
+- Conducted in-depth research on deep neural networks to further enhance predictive capabilities.
+- Performed statistical analysis to identify patterns and trends in data.
+- Demonstrated agility and problem-solving skills to overcome technical challenges.
+- Expertise in handling and processing large datasets.
+- Collaborated with cross-functional teams to develop comprehensive machine learning solutions.
+
+Software Developer, TechnoGen Solutions, Las Vegas, Nevada (2019-2020)
+- Proficient in Python programming for developing high-quality software solutions.
+- Proven ability to work effectively in a team environment.
+- Utilized PyTorch and C++ to implement deep learning algorithms.
+- Developed and optimized TensorFlow models for improved performance and accuracy.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Served as a mentor for the Latinx in Tech Mentorship Program, offering guidance and support to aspiring Latinx professionals in the tech industry.
+- Held a leadership role as the Captain of a professional women's basketball team, promoting teamwork and strategic coordination.
+
+Hobbies:
+- Playing the violin
+- Engaging in Latinx literature and poetry
+- Exploring different cultures and their histories through travel
+
+Languages:
+- English (Fluent)
+- Spanish (Native Speaker)

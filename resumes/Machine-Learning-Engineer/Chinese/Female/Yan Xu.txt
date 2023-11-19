@@ -1,0 +1,36 @@
+Personal Statement:
+I am an ambitious and detail-oriented individual with a deep passion for machine learning. As a Chinese female raised in San Diego, California, I have been influenced by diverse cultures, shaping my perspective on the potential of artificial intelligence and its societal impact. With a solid background in computer science and a keen interest in cutting-edge technology, I am eager to contribute my skills as a Machine Learning Engineer.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley Institute of Technology, San Francisco, CA
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Machine Learning Engineer, TechGenius Solutions, San Francisco, CA
+- Utilized my expertise in Model Training and Deployment to develop advanced AI models, using C++, PyTorch, TensorFlow, and conducting Statistical Analysis.
+- Collaborated closely with cross-functional research teams to understand and implement state-of-the-art Deep Neural Net models.
+
+Software Developer, Quantum Dynamics Systems, San Diego, CA
+- Developed innovative solutions using Deep Learning techniques and Python.
+- Demonstrated effective communication and collaboration skills within a diverse team.
+- Showcased agility and problem-solving abilities, consistently overcoming complex challenges.
+- Ensured reliable data handling and processing for streamlined system performance.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Mentored underprivileged students, with a particular focus on empowering girls, especially those from diverse ethnic backgrounds, to pursue careers in STEM.
+- Served as a team leader for a local basketball club, fostering teamwork, discipline, and leadership skills in young athletes.
+
+Hobbies:
+- Playing the piano, exploring various musical genres to fuel my creativity.
+- Participating in multicultural festivals and events, promoting understanding and appreciation of diverse cultures.
+- Engaging in physical activities such as hiking and yoga to maintain a healthy and balanced lifestyle.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

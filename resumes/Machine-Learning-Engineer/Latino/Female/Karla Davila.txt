@@ -1,0 +1,40 @@
+Karla Davila
+
+Personal Statement:
+Innovative and driven machine learning engineer with a deep passion for leveraging cutting-edge technologies to drive advancements in artificial intelligence. Skilled in developing and implementing machine learning algorithms using PyTorch, TensorFlow, and Python. Committed to continuously expanding my knowledge and skill set in order to contribute to impactful projects. Seeking a challenging role as a Machine Learning Engineer to apply my expertise and make a significant impact on the field.
+
+Education:
+Bachelor of Science in Computer Science, Texas Tech University, San Antonio, TX
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Quantum AI Solutions, San Antonio, TX
+- Developed and optimized machine learning models utilizing PyTorch, C++, and Python.
+- Demonstrated exceptional problem-solving skills and agility, effectively resolving complex challenges.
+- Utilized TensorFlow for seamless integration and deployment of machine learning models.
+- Efficiently handled and processed large datasets to extract valuable insights.
+
+Data Scientist, NovaGen Analytics, San Antonio, TX
+- Conducted in-depth statistical analysis and utilized deep learning techniques to generate actionable business insights.
+- Proven team player, collaborating effectively with multidisciplinary teams to accomplish project goals.
+- Extensively researched the latest advancements in deep neural net research and successfully implemented them into projects.
+- Led model training and deployment activities, ensuring accurate and efficient prediction outcomes.
+- Effectively communicated complex technical concepts to non-technical stakeholders, fostering strong collaboration.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Society of Hispanic Professional Engineers, organizing STEM workshops to empower underrepresented groups.
+- Sports Leadership Role: Captain of the Texas Tech University Women's Volleyball team, promoting teamwork, resilience, and sportsmanship.
+
+Hobbies:
+- Playing the piano, enjoying classical melodies and exploring Latin American musical styles.
+- Actively participating in cultural events, celebrating diversity and advocating for inclusivity.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)

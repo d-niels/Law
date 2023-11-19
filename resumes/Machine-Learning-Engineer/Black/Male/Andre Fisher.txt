@@ -1,0 +1,46 @@
+Personal Statement:
+As a black male from Charlotte, North Carolina, I am a highly motivated and dedicated machine learning engineer with a passion for leveraging AI technologies to solve complex problems. With a strong understanding of deep neural net research and exceptional problem-solving skills, I strive to create innovative solutions that drive tangible results. I am seeking a challenging role where I can contribute to cutting-edge projects and make a significant impact in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science
+Atlantic University, Charlotte, NC
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer | TechnoGen Inc., Charlotte, NC
+- Demonstrated agility and problem-solving abilities while developing advanced machine learning models using PyTorch.
+- Collaborated effectively with a cross-functional team to ensure seamless integration of machine learning technologies into existing systems.
+- Conducted deep learning experiments and optimized models for optimal performance.
+- Expertly handled and processed large datasets, ensuring data quality and accuracy.
+- Stayed current with the latest advancements in deep neural net research to inform model enhancement strategies.
+
+Software Developer | NextTech Solutions, Charlotte, NC
+- Utilized C++ to develop and deploy machine learning models for client projects.
+- Collaborated and communicated effectively with team members to develop scalable solutions.
+- Leveraged Python for statistical analysis and data manipulation.
+- Trained and deployed machine learning models using TensorFlow.
+- Conducted extensive code reviews and implemented debugging techniques to optimize code performance.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active involvement in promoting diversity and inclusivity in the tech industry, particularly for black males.
+- Led the university's soccer team as captain, fostering teamwork, discipline, and sportsmanship.
+- Advocate for underrepresented groups in the tech community through mentorship programs.
+- Regularly participate in coding workshops and conferences to encourage greater inclusivity in the field.
+- Channeling passion for music through playing the trumpet.
+
+Hobbies:
+- Exploring various cultures and learning about their traditions and histories.
+- Engaging in outdoor activities such as hiking and camping.
+- Playing the trumpet.
+- Promoting diversity and inclusivity in the tech industry.
+
+Languages:
+English (fluent), Spanish (conversational)
+
+References Available Upon Request.

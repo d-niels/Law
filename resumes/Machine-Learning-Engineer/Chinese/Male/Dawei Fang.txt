@@ -1,0 +1,42 @@
+Personal Statement:
+Passionate and driven, Dawei Fang is an experienced machine learning engineer dedicated to pushing boundaries and innovating in the field. With a deep understanding of machine learning and a commitment to delivering exceptional results, I thrive in collaborative environments and excel at problem-solving. With a strong foundation in programming languages and database technologies, I am excited to contribute my skills and expertise to cutting-edge projects in artificial intelligence.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Francisco, California
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, TrustAI Labs, Palo Alto, California
+- Communication and Collaboration: Successfully communicated project updates and collaborated with interdisciplinary teams to ensure seamless project deliveries.
+- Team Player: Played an integral role in high-performing teams, fostering a collaborative environment to develop and deploy machine learning solutions.
+- Programming Languages: Proficient in C++ and TensorFlow, enabling efficient code development and optimization.
+- Understanding Deep Neural Net Research: Leveraged in-depth knowledge of deep neural networks to drive cutting-edge research and enhance model performance.
+- Data Handling and Processing: Expertise in handling and processing large datasets, implementing efficient data pipelines for accurate analysis.
+
+Machine Learning Research Assistant, InsightAI Research, Mountain View, California
+- Model Training and Deployment: Developed and deployed advanced machine learning models, optimizing them for real-world applications.
+- Statistical Analysis: Conducted comprehensive statistical analysis of experimental data to drive informed decision-making and enhance model accuracy.
+- Programming Languages: Proficient in Python and Deep Learning libraries, such as PyTorch, providing a solid foundation for model development and training.
+- Agility and Problem-Solving: Demonstrated exceptional agility and problem-solving skills, adapting to fast-paced research projects and overcoming challenges.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate, Silicon Valley University Diversity and Inclusion Club
+- Championed diversity and inclusion efforts, advocating for equal opportunities and fostering a welcoming environment for all students.
+- Organized workshops, seminars, and mentorship programs to empower underrepresented groups in the STEM fields.
+
+Sports Leadership:
+Captain, Silicon Valley University Basketball Team
+- Led the team to numerous victories in intercollegiate tournaments, cultivating teamwork, discipline, and strategic planning.
+
+Hobbies:
+- Playing the guitar and writing music, expressing creativity and finding solace in the power of music.
+- Participating in cultural exchange programs and Chinese calligraphy workshops, celebrating heritage and promoting cross-cultural understanding.
+
+Languages:
+- Fluent in English and Mandarin Chinese, enabling effective communication in diverse and multicultural settings.

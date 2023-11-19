@@ -1,0 +1,52 @@
+Fabiola Ramirez
+San Antonio, Texas | fabiola.ramirez@email.com | (555) 123-4567
+
+Personal Statement:
+Dedicated and results-driven Machine Learning Engineer with a passion for leveraging technology to extract insights from complex datasets. Skilled in Python, TensorFlow, and statistical analysis, I am committed to developing innovative solutions through machine learning algorithms. As a proud Latina woman, I bring a unique perspective to the tech industry and strive to promote diversity and inclusion in all aspects of my work.
+
+Education:
+Bachelor of Science in Computer Science, Magna Cum Laude
+San Antonio University, San Antonio, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer
+Innovative Data Solutions, San Antonio, Texas
+January 2019 - Present
+- Developed and deployed machine learning models, utilizing Python and TensorFlow to handle and process diverse datasets effectively.
+- Collaborated with cross-functional teams to ensure successful model training and deployment, resulting in improved accuracy and performance.
+- Conducted thorough statistical analysis to identify patterns and optimize model performance.
+- Demonstrated strong team player skills by actively collaborating with colleagues and supporting project objectives.
+
+Research Assistant
+San Antonio Research Labs, San Antonio, Texas
+June 2018 - December 2018
+- Assisted in researching and understanding deep neural net models, utilizing PyTorch and C++ to analyze and optimize model architectures.
+- Applied deep learning techniques to enhance the accuracy and efficiency of existing algorithms.
+- Showcased agility and problem-solving skills by troubleshooting and resolving complex technical challenges.
+- Demonstrated effective communication and collaboration skills through regular team meetings and joint research activities.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latina Empowerment in Tech Organization, Member
+- Actively involved in promoting diversity and inclusivity within the tech industry, organizing events and programs to empower Latina women pursuing careers in technology.
+
+San Antonio Youth Soccer League, Soccer Team Captain
+- Led a youth soccer team, coaching and mentoring young athletes while promoting teamwork, discipline, and a passion for the sport.
+
+Hobbies:
+- Playing the piano, expressing creativity and emotions through music.
+- Exploring diverse cultures through travel and embracing new experiences.
+- Photography, capturing unique moments and preserving memories.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References:
+Available upon request.

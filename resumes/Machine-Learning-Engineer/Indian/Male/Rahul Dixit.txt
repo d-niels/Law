@@ -1,0 +1,39 @@
+Rahul Dixit
+
+Personal Statement:
+Highly motivated and detail-oriented Machine Learning Engineer with a strong foundation in computer science and a passion for developing innovative solutions. Skilled in various machine learning frameworks, I am dedicated to leveraging data-driven approaches to solve complex problems. I have a proven track record of collaborating with cross-functional teams to deliver successful projects. Committed to continuous learning, I am seeking a challenging role where I can make valuable contributions to the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, Metropolitan University, New York, NY
+- GPA: 3.9/4.0
+- Relevant coursework: Machine Learning, Artificial Intelligence, Data Structures, Algorithms
+
+Work Experience:
+Machine Learning Engineer | Infinitum Technologies, New York, NY
+- Utilized PyTorch for efficient data handling, processing, and understanding deep neural net research, resulting in the development of state-of-the-art algorithms.
+- Demonstrated expertise in deep learning techniques and employed agility and problem-solving skills to effectively train and deploy models.
+
+Machine Learning Engineer | Quantum Analytics, New York, NY
+- Proficient in TensorFlow for developing cutting-edge machine learning models and performing statistical analysis to derive actionable insights.
+- Strong communication and collaboration skills, collaborating closely with developers and stakeholders to ensure successful project delivery.
+- Utilized C++, Python, and thrived as a team player, contributing to the seamless implementation of AI solutions.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Sports Leadership Role: As the coach of the Metropolitan University's soccer team, I spearhead training programs and strategies to lead the team to championships, fostering discipline and teamwork among the players.
+- Promote diversity and inclusion within the tech community by actively participating in initiatives to empower underrepresented groups, with a special focus on promoting gender equality.
+
+Hobbies:
+- Playing the piano
+- Exploring and learning about diverse cultures and languages
+- Participating in community theater productions to promote cultural understanding and education
+
+Languages:
+- Fluent in English and Hindi
+
+References available upon request.

@@ -1,0 +1,41 @@
+Riley Davis
+
+Personal Statement:
+Passionate and dedicated machine learning engineer with a strong background in computer science and a focus on deep learning algorithms. Committed to leveraging technology to drive innovation and solve complex problems. A resourceful team player with exceptional communication and collaboration skills, striving to make significant contributions to the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science
+University of Charlotte, Charlotte, North Carolina
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Innovision Technologies, Charlotte, North Carolina
+- Implemented model training and deployment strategies using TensorFlow, ensuring efficient workflow and accuracy in predictive models.
+- Collaborated with cross-functional teams to enhance communication and collaboration, leading to improved project outcomes.
+- Demonstrated agility and problem-solving abilities by resolving complex technical issues related to AI algorithms.
+- Utilized C++ programming language to optimize algorithms and improve computational efficiency.
+
+Research Assistant, Nexus AI Research Institute, Charlotte, North Carolina
+- Conducted thorough research on deep neural net methodologies, fostering a deep understanding of cutting-edge research in the field.
+- Utilized PyTorch framework and Python for deep learning model development and analysis.
+- Performed statistical analysis on large datasets, extracting valuable insights for research purposes.
+- Showcased expertise in data handling and processing techniques, ensuring data quality and integrity.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Black Female in Tech Mentoring Program, Charlotte, North Carolina
+- Mentored and provided guidance to aspiring black female computer science students, empowering and encouraging their participation in technology-related fields.
+- Led the soccer team as the captain, fostering teamwork, discipline, and perseverance.
+
+Hobbies:
+Playing the saxophone, a skill that has nurtured my creativity and discipline.
+Engaging in outdoor activities such as hiking and cycling, embracing the beauty of nature and promoting a healthy lifestyle.
+
+Languages:
+English (Fluent)
+Spanish (Proficient)

@@ -1,0 +1,47 @@
+Personal Statement:
+I am a highly motivated and skilled machine learning engineer with a passion for leveraging cutting-edge technology to solve complex problems. As a black male from Chicago, Illinois, I bring a unique perspective and diverse background to everything I do. I am dedicated to making meaningful contributions to the field of machine learning and driving innovation in the industry.
+
+Education:
+Bachelor of Science in Computer Science
+ABC University, Chicago, Illinois
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer | InnovX Solutions, Chicago, IL
+June 2018 - Present
+- Developed and implemented machine learning models for data analysis, resulting in a 25% improvement in predictive accuracy.
+- Utilized deep neural net research to optimize models and enhance performance.
+- Conducted statistical analysis to identify patterns and trends in large data sets.
+- Collaborated with cross-functional teams to improve model training and deployment processes.
+- Demonstrated proficiency in C++ programming language for efficient model implementation.
+
+Data Engineer | TechFusion Corporation, Chicago, IL
+August 2016 - May 2018
+- Worked as a team player to develop scalable and efficient data processing pipelines.
+- Leveraged PyTorch and TensorFlow frameworks for the development and deployment of machine learning models.
+- Responsible for handling and processing large datasets to extract relevant information.
+- Communicated and collaborated effectively with stakeholders to understand and address project requirements.
+- Proficient in Python programming language for data manipulation and analysis.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry, particularly for the black community.
+- Served as a basketball team captain, organizing and overseeing practices and competitions.
+- Engaged in mentorship programs to guide underrepresented individuals in pursuing careers in technology.
+- Co-led initiatives to encourage young black students to explore and excel in STEM fields.
+
+Hobbies:
+- Playing the saxophone
+- Collecting vinyl records
+- Participating in local community events that celebrate African American culture and arts
+
+Languages: 
+- English (Fluent)
+- Spanish (Conversational)
+
+References available upon request.

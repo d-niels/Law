@@ -1,0 +1,38 @@
+Harrison Franklin
+
+Personal Statement:
+Dedicated and innovative Machine Learning Engineer with a passion for leveraging statistical analysis and deep learning techniques to create intelligent solutions. Committed to addressing complex problems through collaboration and effective communication. Proficient in PyTorch, TensorFlow, and other cutting-edge technologies, with a keen understanding of data handling and model training. Eager to contribute to a dynamic team and drive advancements in the field of machine learning.
+
+Education:
+Bachelor's in Computer Science, Washington Metropolitan University, Washington, District of Columbia
+GPA: 3.9
+
+Work Experience:
+1. Machine Learning Engineer, TechVortex Solutions
+   - Employed statistical analysis and problem-solving skills to develop innovative machine learning models.
+   - Collaborated effectively with cross-functional teams, ensuring seamless communication and achieving project goals.
+   - Leveraged PyTorch and C++ to optimize data handling and processing for complex algorithms and models.
+   - Conducted extensive research and analysis to maintain a comprehensive understanding of deep neural net advancements.
+
+2. Data Scientist Intern, QuantumData Corporation
+   - Demonstrated expertise in deep learning techniques, utilizing Python and TensorFlow to build and deploy accurate models.
+   - Actively contributed as a team player, collaborating with peers to enhance model training and improve deployment processes.
+   - Researched and implemented state-of-the-art algorithms, furthering the organization's understanding of deep neural net research.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Acted as a basketball team leader in the local community, fostering inclusivity and skill development among players.
+- As a black male from Washington, DC, actively engaged in initiatives promoting diversity and empowering underrepresented communities within the tech industry.
+
+Hobbies:
+- Playing the saxophone and embracing the rich history and cultural significance of jazz music.
+- Participating in multicultural events that celebrate and promote diversity, fostering understanding and unity among different ethnicities and genders.
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)

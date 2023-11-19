@@ -1,0 +1,39 @@
+Personal Statement:
+As a passionate and driven Machine Learning Engineer, I am dedicated to leveraging my expertise in Python, PyTorch, and TensorFlow to develop innovative solutions in the field. With a solid foundation in computer science and a strong problem-solving ability, I am committed to contributing to advancements in deep neural net research and data handling. Through my exceptional communication and collaboration skills, I thrive in team-oriented environments, ensuring successful model training and deployment. As a Latino male from Albuquerque, New Mexico, I am proud to bring diversity and unique perspectives to the table, enhancing the creativity and effectiveness of any project.
+
+Education:
+Bachelor's in Computer Science
+Techwave University, Albuquerque, New Mexico
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Catalyst Innovations – Albuquerque, NM
+- Utilized Python and PyTorch to develop and implement machine learning models.
+- Demonstrated agility and problem-solving skills in handling and processing large datasets.
+- Played a key role in understanding deep neural net research and its practical implications.
+- Conducted model training and deployment, ensuring optimal accuracy and performance.
+
+Data Analyst Intern, Quantitech Solutions – Albuquerque, NM
+- Collaborated effectively with cross-functional teams, utilizing strong communication skills.
+- Proficiently employed TensorFlow and C++ to analyze and interpret vast amounts of data.
+- Applied deep learning techniques to identify patterns and develop actionable insights.
+- Enhanced team productivity through statistical analysis and valuable contributions as a team player.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Promoted diversity and inclusion as a member of the Latino Student Association, organizing cultural events and advocating for the Latino community in Albuquerque.
+- Served as a team captain for a competitive basketball team, exemplifying leadership skills and fostering a cohesive environment within the team.
+
+Hobbies:
+- Playing the guitar, showcasing my love for music and creativity.
+- Embracing diverse cultural experiences through travel and exploration.
+- Participating in outdoor activities, such as hiking and camping, always seeking new adventures.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)

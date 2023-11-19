@@ -1,0 +1,45 @@
+Personal Statement:
+I am a dedicated and passionate Machine Learning Engineer with a strong background in computer science. Determined to contribute my skills in shaping the future of artificial intelligence, I am eager to leverage my expertise in deep learning and statistical analysis to develop innovative machine learning models. As a Chinese female from San Francisco, California, I bring a diverse perspective to the field, fostering collaboration and multicultural understanding. With a relentless drive to deliver impactful solutions, I am ready to embark on new challenges and make a lasting impact in the ever-evolving world of AI.
+
+Education:
+Bachelor of Science in Computer Science
+Golden Gate University, San Francisco, California
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer | TechGenius, San Francisco
+- Developed and implemented machine learning models using C++, Python, and statistical analysis techniques.
+- Demonstrated proficiency in understanding and implementing deep neural network research.
+- Conducted model training and deployment, utilizing state-of-the-art deep learning algorithms.
+- Collaborated with cross-functional teams to deliver custom-tailored solutions meeting client requirements.
+
+Data Engineer | NexTech Solutions, San Francisco
+- Utilized TensorFlow and PyTorch to build and optimize advanced machine learning models.
+- Demonstrated exceptional communication and collaboration skills while working with colleagues and stakeholders.
+- Managed and processed extensive datasets, ensuring efficient data handling and smooth data operations.
+- Exhibited agility and problem-solving capabilities in tackling complex challenges during the implementation phase.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Chinese American Association, Golden Gate University | President
+- Led a diverse group of students in organizing cultural events to promote Chinese traditions and foster cultural exchange.
+- Cultivated an inclusive environment that encouraged collaboration and embraced diversity.
+- Mentored and supported fellow students in their academic and personal growth.
+
+Sports Leadership | Basketball Team Captain
+- Led and motivated a basketball team to regional championships, exemplifying teamwork, discipline, and leadership skills.
+- Organized practices, developed training programs, and strategized game plans for exceptional team performance.
+
+Hobbies:
+- Playing the piano, showcasing my appreciation for music and fostering creativity.
+- Exploring various cultures through traveling, broadening my understanding of global perspectives.
+- Engaging in strength training and running to maintain a healthy lifestyle.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

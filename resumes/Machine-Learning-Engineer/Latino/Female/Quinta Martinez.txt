@@ -1,0 +1,41 @@
+----- Personal Statement -----
+I am an ambitious and driven machine learning engineer with a passion for exploring the frontiers of technology. As a proud Latina from Phoenix, Arizona, I bring a unique perspective to the field and strive to make meaningful contributions. With a solid foundation in computer science and a strong background in machine learning frameworks, I am dedicated to pushing boundaries and solving complex problems. I am seeking a challenging role as a machine learning engineer where I can utilize my skills and contribute to the development of intelligent systems.
+
+----- Education -----
+Bachelor of Science in Computer Science, Phoenix University, Phoenix, Arizona
+GPA: 3.9
+
+----- Work Experience -----
+Machine Learning Engineer | StellarTech Solutions, Phoenix, Arizona
+- Agility and Problem-Solving: Demonstrated ability to adapt quickly to changing project requirements and solve challenges efficiently.
+- Understanding Deep Neural Net Research: Knowledge of advanced deep learning concepts and the ability to stay up to date with the latest research papers.
+- Statistical Analysis: Utilized statistical analysis techniques to analyze large datasets and extract valuable insights for model development.
+- Team Player: Collaborated with cross-functional teams to design and deploy machine learning models within a fast-paced environment.
+- PyTorch: Proficient in using PyTorch framework to design and experiment with neural networks.
+- C++: Developed efficient algorithms and implemented machine learning models using C++.
+
+Machine Learning Engineer Intern | QuantumAI, Phoenix, Arizona
+- TensorFlow: Expertise in TensorFlow framework for building and training deep learning models.
+- Python: Proficient in using Python for data manipulation, preprocessing, and model evaluation.
+- Deep Learning: Implemented various deep learning architectures, including convolutional neural networks and recurrent neural networks.
+- Model Training and Deployment: Successfully trained and deployed machine learning models to deliver real-time predictions.
+- Data Handling and Processing: Gathered and preprocessed large-scale datasets to ensure high-quality training data.
+- Communication and Collaboration: Effectively communicated complex ideas to team members and collaborated on project milestones.
+
+----- Skills -----
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+----- Volunteer & Leadership -----
+- Diversity and Inclusion Advocate: Actively involved in promoting diversity and inclusion within the tech community, raising awareness about the importance of diverse perspectives.
+- Basketball Team Captain: Led a competitive basketball team to victory, fostering teamwork, discipline, and resilience on and off the court.
+
+----- Hobbies -----
+- Playing the Guitar: Actively enjoy playing the guitar, exploring various genres and expressing creativity through music.
+- Exploring Different Cultures: Engaging in cultural events and activities to broaden my understanding and appreciation of diversity.
+- Photography: Capturing memorable moments through the lens, showcasing different perspectives and stories.
+
+----- Languages -----
+- Bilingual: Fluent in English and Spanish, enabling effective communication and collaboration with diverse teams.

@@ -1,0 +1,51 @@
+Personal Statement:
+Tessa Anderson
+Machine Learning Engineer
+Phoenix, Arizona
+Email: tessanderson@email.com
+Phone: (123) 456-7890
+
+Highly motivated and detail-oriented machine learning engineer with a passion for leveraging AI technologies to drive innovative solutions. With a strong background in computer science and expertise in deep learning, statistical analysis, and model training, I am eager to contribute to cutting-edge projects within the field. I thrive in fast-paced and collaborative environments, utilizing my problem-solving and communication skills to tackle complex challenges. As a white female in the field, I am committed to promoting diversity and inclusion, actively participating in initiatives that empower underrepresented communities.
+
+Education:
+Bachelor of Science in Computer Science
+University of Arizona, Tucson, AZ
+GPA: 3.9/4.0
+Expected graduation: May 2022
+
+Work Experience:
+Machine Learning Engineer Intern
+Spectrum AI Solutions, Scottsdale, AZ
+May 2021 - August 2021
+- Developed and deployed deep learning models using TensorFlow for real-time data processing.
+- Applied statistical analysis techniques to derive valuable insights from large datasets, optimizing model performance.
+- Collaborated with cross-functional teams to ensure the agility and adaptability of machine learning algorithms.
+- Investigated and implemented research advancements in deep neural networks, enhancing model accuracy.
+
+Software Development Engineer
+Innov8 Systems, Tempe, AZ
+June 2020 - August 2020
+- Handled data processing tasks efficiently, utilizing C++, PyTorch, and Python to preprocess and analyze large datasets.
+- Actively collaborated with team members to deliver high-quality software solutions, emphasizing effective communication and teamwork.
+- Demonstrated problem-solving skills by debugging and resolving complex technical issues.
+- Enforced best practices in software development, utilizing Git for source control management.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership:
+- Led a soccer team, overseeing practice schedules, coordinating tournaments, and fostering teamwork among diverse players.
+
+Ethnicity and Gender Advocacy:
+- Actively involved in organizations promoting diversity and inclusion in STEM fields, advocating for underrepresented groups.
+
+Hobbies:
+- Playing the guitar: Strong appreciation for music and its ability to connect people from different backgrounds.
+- Exploring cultural diversity: Engaging in activities that celebrate and embrace diverse perspectives.
+- Languages: Fluent in English and Spanish, facilitating effective communication in multicultural environments.
+
+References available upon request.

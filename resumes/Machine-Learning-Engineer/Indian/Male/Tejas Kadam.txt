@@ -1,0 +1,43 @@
+Tejas Kadam
+
+Personal Statement:
+Passionate and driven Machine Learning Engineer with a strong desire to create innovative solutions. Dedicated to leveraging deep learning techniques and data analysis to address complex challenges. Committed to continuous learning and staying updated with the latest advancements in the field. Exceptional collaboration and communication skills, with a proven track record of working effectively in team environments.
+
+Education:
+Bachelor of Science in Computer Science
+Unique University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer - AlphaTech Innovations, Houston, Texas
+- Developed and trained deep neural networks using PyTorch and Python to tackle image recognition tasks.
+- Conducted extensive statistical analysis and efficiently handled large datasets for data preprocessing and cleansing.
+- Collaborated closely with cross-functional teams to implement and deploy machine learning models.
+- Stayed current with cutting-edge deep neural net research to contribute to innovative solutions.
+- Effectively communicated intricate technical concepts to non-technical stakeholders.
+
+AI Engineer - Omega Solutions, Houston, Texas
+- Utilized TensorFlow and C++ to build and deploy machine learning models for predictive analytics.
+- Demonstrated exceptional agility and problem-solving skills in a fast-paced work environment.
+- Worked collaboratively with a team of engineers to develop and maintain scalable software solutions.
+- Conducted model training and spearheaded the deployment process in production environments.
+- Actively participated in code reviews, providing support for debugging and optimizing performance.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Sports Leadership Role: Demonstrated strong leadership as the captain of the university basketball team, fostering teamwork, discipline, and perseverance. Organized and managed team practices, tournaments, and community engagement initiatives.
+- Actively advocated for diversity and inclusivity in the technology industry through speaking engagements and participation in conferences and seminars.
+
+Hobbies:
+- Playing the guitar
+- Exploring cultures through art and music
+- Promoting gender equality and ethnic diversity in the community
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)

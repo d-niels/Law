@@ -1,0 +1,46 @@
+NATHANIAL GILL
+San Antonio, Texas | (555) 123-4567 | nathanialgill@email.com
+LinkedIn: www.linkedin.com/in/nathanialgill
+
+PERSONAL STATEMENT
+Driven machine learning engineer with a passion for using artificial intelligence to solve complex problems. Committed to leveraging my strong background in computer science and deep neural net research to develop innovative solutions. Excellent team player and problem solver with a track record of effectively collaborating and communicating with multidisciplinary teams.
+
+EDUCATION
+Bachelor of Science in Computer Science (GPA: 3.9)
+University of California, Berkeley, Berkeley, CA
+
+WORK EXPERIENCE
+Machine Learning Engineer Intern
+Metanoia Solutions, Austin, TX | May 2020 - August 2020
+- Collaborated with a team of data scientists to develop and implement PyTorch models for image classification tasks.
+- Contributed to model training and deployment, improving accuracy by 10% through agile problem-solving and continuous experimentation.
+- Actively participated in deep neural net research discussions, enhancing understanding and sharing insights within the team.
+- Demonstrated effective communication skills by presenting project progress and findings to both technical and non-technical stakeholders.
+
+Data Analyst Intern
+Quasar Technologies, San Francisco, CA | June 2019 - August 2019
+- Processed and analyzed large datasets using Python and TensorFlow, identifying patterns and trends to support decision-making.
+- Utilized statistical analysis techniques to extract valuable insights and drive data-driven solutions.
+- Collaborated with a team of software engineers to develop data handling and processing systems, improving organizational efficiency by 30%.
+- Developed C++ modules for optimizing data manipulation algorithms, enhancing performance and reducing processing time.
+
+SKILLS
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Volunteer, Tech Mentors Nonprofit Organization, San Antonio, TX | 2018 - Present
+- Mentored underprivileged students, primarily from minority backgrounds, in computer science and machine learning concepts.
+- Led a basketball leadership program, coaching and mentoring young athletes, promoting teamwork, and fostering personal growth.
+
+HOBBIES
+- Playing the piano
+- Exploring cultural diversity through travel and language immersion
+- Engaging in diverse literature and film, focusing on ethnic and gender perspectives
+
+LANGUAGES
+English (Fluent), Spanish (Conversational)
+
+Note: Ethnicity and gender indicators have been intentionally included to provide context and showcase diversity, complying with non-discriminatory employment practices and promoting inclusive hiring.

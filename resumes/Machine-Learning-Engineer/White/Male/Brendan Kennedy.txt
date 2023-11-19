@@ -1,0 +1,39 @@
+Personal Statement:
+I am a dedicated and highly motivated machine learning engineer with a passion for solving complex problems using cutting-edge technology. With a strong background in computer science and a deep understanding of deep neural net research, I am eager to contribute my skills and expertise to drive innovation in the field. I am a team player, agile problem-solver, and an effective communicator with a proven ability to collaborate effectively with cross-functional teams.
+
+Education:
+Bachelor of Science in Computer Science, San Antonio University, San Antonio, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer | QuantumTech Solutions, San Antonio, Texas | January 20XX - Present
+- Developed and implemented data handling and processing techniques to optimize data input for machine learning algorithms.
+- Utilized PyTorch for model training and deployment, resulting in improved efficiency and accuracy.
+- Collaborated with cross-functional teams to ensure seamless integration of machine learning models into existing systems.
+- Demonstrated exceptional problem-solving skills to overcome challenges during development and testing phases.
+- Stayed abreast of the latest advancements in deep neural net research to continuously enhance models' performance.
+
+AI Research Scientist | NeuralDynamics, San Antonio, Texas | May 20XX - December 20XX
+- Leveraged deep learning techniques to analyze large datasets and extract valuable insights for business decision-making.
+- Utilized C++ and Python for efficient data processing and statistical analysis.
+- Collaborated with colleagues to develop and implement TensorFlow-based models for predictive analysis.
+- Communicated findings and recommendations to stakeholders through comprehensive reports and presentations.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- As a white male, I embrace and value the different perspectives and experiences of individuals from diverse backgrounds.
+- Served as a team captain for a basketball team, fostering teamwork and promoting inclusivity within the diverse team.
+- Actively participated in community initiatives promoting gender equality and diversity in the technology field.
+
+Hobbies:
+- Playing the guitar and performing at local music events.
+- Exploring different cultures' traditions and customs through traveling.
+- Engaging in outdoor activities such as hiking and kayaking.
+
+Languages:
+- Fluent in English and Spanish.

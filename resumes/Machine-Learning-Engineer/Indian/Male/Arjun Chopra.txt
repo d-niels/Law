@@ -1,0 +1,45 @@
+Arjun Chopra
+Atlanta, Georgia
+Phone: (123) 456-7890
+Email: arjunchopra@email.com
+
+Personal Statement:
+Highly motivated and detail-oriented Machine Learning Engineer with a strong background in computer science. Equipped with a solid understanding of various machine learning frameworks and techniques, I am committed to developing innovative and efficient solutions. With a passion for leveraging data to drive insights and solve complex problems, I strive to contribute to the advancement of artificial intelligence technology.
+
+Education:
+Bachelor of Science in Computer Science (3.9 GPA)
+Georgia State University, Atlanta, Georgia
+
+Work Experience:
+Machine Learning Engineer, Turing Analytics, Atlanta (2018-2020)
+- Utilized Deep Learning methodologies to develop advanced machine learning models
+- Consistently ensured seamless collaboration within cross-functional teams
+- Leveraged TensorFlow framework to build and optimize deep neural networks
+- Demonstrated expertise in data handling and processing for large datasets
+- Conducted statistical analysis to derive actionable insights
+- Managed model training and deployment processes
+
+Software Developer, Innovation Labs, Atlanta (2017-2018)
+- Proficiently utilized C++, Python, and other programming languages to develop software solutions
+- Excelled in communication and collaboration with team members
+- Demonstrated agility and problem-solving skills in fast-paced product development environments
+- Gained experience in PyTorch and deep neural net research
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteered at the local Indian Cultural Society, organizing cultural events to promote diversity and inclusivity within the community
+- Led a team of young athletes as the captain of the soccer team, promoting teamwork, discipline, and sportsmanship
+
+Hobbies:
+- Playing the piano and exploring different styles of world music
+- Actively engaging in photography to capture cultural diversity
+
+Languages:
+- Fluent in English and Hindi
+
+References available upon request.

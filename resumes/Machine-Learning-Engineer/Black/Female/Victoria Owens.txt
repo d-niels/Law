@@ -1,0 +1,40 @@
+Personal Statement:
+Driven and passionate machine learning engineer with a strong background in deep neural network research and model training. Committed to using artificial intelligence to create innovative solutions to complex problems. Skilled in Python, PyTorch, C++, and TensorFlow, with a proven ability to collaborate effectively in fast-paced environments. Determined to contribute to the advancement of machine learning and make a meaningful impact on society.
+
+Education:
+Bachelor of Science in Computer Science, Detroit Institute of Technology, Detroit, Michigan
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer Intern, TechnoGenes Inc., Detroit, MI
+- Conducted extensive research on deep neural network architectures, contributing to the development of advanced models for image recognition and natural language processing.
+- Utilized Python and PyTorch for model training and deployment, achieving superior accuracy and efficiency in production-ready systems.
+- Collaborated with a multidisciplinary team of data scientists and engineers to optimize performance and enhance overall system efficiency.
+
+Data Analyst, ByteWise Solutions, Detroit, MI
+- Played a pivotal role in handling and processing large-scale datasets, performing statistical analysis to extract valuable insights for business decision-making.
+- Demonstrated excellent communication and collaboration skills by effectively presenting complex findings to both technical and non-technical stakeholders, fostering a culture of data-driven decision-making.
+- Developed and implemented cutting-edge machine learning algorithms using TensorFlow, improving data processing efficiency and accuracy.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Co-founded and led "Empowered Minds," a diversity and inclusion initiative dedicated to empowering black female engineers in the tech industry, organizing workshops and mentorship programs.
+- Championed underrepresented minorities as a mentor to aspiring students interested in pursuing careers in technology, offering guidance and support throughout their educational journeys.
+- Demonstrated leadership skills as the captain of a competitive soccer team, fostering a positive and inclusive environment while leading the team to victory in regional championships.
+- Actively participated in workshops and conferences to promote diversity in STEM fields and create more opportunities for underrepresented groups.
+
+Hobbies:
+- Playing the saxophone, expressing creativity and enjoying the rich history of jazz music.
+- Exploring art and attending galleries, appreciating the diverse cultural expressions and artistic narratives.
+- Engaging in athletic activities, particularly soccer, leveraging leadership and teamwork skills to motivate and guide the team to success.
+
+Languages:
+- English (Fluent)
+- French (Conversational)
+
+References available upon request.

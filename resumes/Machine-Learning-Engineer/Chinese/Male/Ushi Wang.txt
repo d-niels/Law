@@ -1,0 +1,45 @@
+Personal Statement:
+I am a highly motivated and detail-oriented Machine Learning Engineer with a passion for developing innovative solutions. With a Bachelor's degree in Computer Science from California State University, San Francisco, I have gained a solid foundation in programming and data analysis. My goal is to utilize my skills and knowledge to create effective machine learning models that solve complex problems and drive advancements in technology.
+
+Education:
+Bachelor of Science in Computer Science, California State University, San Francisco
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, TechLabs Inc.
+San Francisco, CA, USA | 2018-2020
+- Proficiently handled and processed large datasets to extract meaningful insights.
+- Demonstrated agility and problem-solving skills by adapting to changing project requirements and tight deadlines.
+- Conducted statistical analysis to identify patterns and trends in data.
+- Developed models using PyTorch, C++, and Python to solve machine learning problems.
+- Collaborated with cross-functional teams to define and implement data-driven solutions.
+
+Software Engineer Intern, AI Innovations
+San Francisco, CA, USA | 2017
+- Worked as a team player to contribute to the development of a machine learning platform.
+- Effectively communicated and collaborated with team members to ensure smooth project execution.
+- Participated in model training and deployment using TensorFlow.
+- Developed an understanding of deep neural network research and applied it to improve model accuracy.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Chinese-American Cultural Association
+San Francisco, CA, USA | 2016-2018
+- Organized and led cultural awareness events showcasing Chinese traditions and heritage.
+- Mentored and supported Chinese community members in need of assistance.
+- Held a leadership role in basketball, coaching the team and promoting teamwork and discipline.
+
+Hobbies:
+- Playing the pipa (traditional Chinese instrument)
+- Exploring different cultures through travel and photography
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References available upon request.

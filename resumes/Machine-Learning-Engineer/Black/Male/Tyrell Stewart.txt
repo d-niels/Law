@@ -1,0 +1,41 @@
+Tyrell Stewart
+
+Personal Statement:
+Driven and innovative machine learning engineer with a deep passion for advancing technology and solving complex problems. Dedicated to leveraging cutting-edge algorithms and techniques to make a positive impact in the field of artificial intelligence. Committed to creating inclusive and diverse environments that foster creativity and collaboration. Seeking a challenging role as a Machine Learning Engineer to apply my strong skills and expertise in a forward-thinking organization.
+
+Education:
+Bachelor of Science in Computer Science | Columbus University, Columbus, OH (GPA: 3.9)
+
+Work Experience:
+Machine Learning Engineer | Innovatech AI Solutions, Columbus, OH
+- Model Training and Deployment: Designed and implemented machine learning models, optimizing training and deployment processes for various projects.
+- Agility and Problem-Solving: Demonstrated adaptability by quickly responding to changing project requirements, employing analytical skills and innovative problem-solving techniques.
+- Deep Learning: Utilized advanced deep learning algorithms and architectures to enhance the accuracy and performance of machine learning models.
+- Communication and Collaboration: Collaborated with cross-functional teams, effectively communicating complex technical concepts and coordinating project milestones.
+- Data Handling and Processing: Expertly processed and analyzed large datasets using advanced data handling techniques, improving overall model performance.
+- TensorFlow: Developed and deployed machine learning models using the TensorFlow framework for scalable and efficient computation.
+
+Machine Learning Engineer | SynthAI, Columbus, OH
+- PyTorch, Python, C++: Implemented machine learning algorithms using PyTorch, Python, and C++, achieving state-of-the-art model accuracy and performance.
+- Understanding Deep Neural Net Research: Stayed at the forefront of deep neural network research, incorporating the latest techniques into model development and optimization.
+- Statistical Analysis: Conducted comprehensive statistical analyses on large datasets, identifying key patterns and trends to drive robust decision-making.
+- Team Player: Actively contributed to multidisciplinary teams, fostering a collaborative and inclusive environment during code reviews, brainstorming sessions, and project planning.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role | Columbus Youth Basketball Association, Columbus, OH
+- Mentored and coached a diverse group of young basketball players, promoting teamwork, discipline, and personal growth both on and off the court.
+- Empowered youth to develop their skills, fostering a supportive and inclusive environment that enabled them to reach their full potential.
+
+Hobbies:
+Playing the drums, exploring various genres of music, participating in community and cultural events, and promoting diversity and inclusivity.
+
+Languages:
+Fluent in English and Spanish.
+
+Please note that the personal information, university, and company names used in this resume are entirely fictional and do not represent any real individuals, organizations, or institutions.

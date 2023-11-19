@@ -1,0 +1,40 @@
+Personal Statement:
+I am a highly-driven and passionate machine learning engineer with a strong background in computer science. Through my education and work experience, I have developed expertise in various programming languages and machine learning technologies. I am eager to contribute my skills and knowledge towards creating innovative solutions in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, Pacific Tech University, San Francisco, California
+- GPA: 3.9
+- Relevant coursework: Machine Learning, Artificial Intelligence, Data Structures, Algorithms
+
+Work Experience:
+Machine Learning Engineer, QuantumAI, San Francisco, California
+- Developed and implemented machine learning models using C++ and deep learning frameworks
+- Demonstrated proficiency in understanding and incorporating deep neural net research in model development
+- Collaborated effectively with cross-functional teams to ensure accurate data handling and processing
+- Showcased agility and problem-solving abilities to overcome challenges and deliver high-quality solutions
+
+Data Analyst, IntelliMetrics, San Francisco, California
+- Utilized statistical analysis techniques to extract insights from large datasets
+- Leveraged Python and machine learning libraries such as TensorFlow and PyTorch for model training and deployment
+- Contributed to the improvement of data-driven decision-making processes through effective communication and collaboration
+- Presented findings in clear and concise reports to assist key stakeholders in making informed decisions
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, XYZ Charity Organization, San Francisco, California
+- Engaged in mentoring and empowering underprivileged youth from diverse backgrounds, including the local white community
+- Served as a basketball coach and leader in the organization's basketball program
+- Supported inclusivity initiatives to ensure fair representation of all ethnicities and genders
+
+Hobbies:
+- Playing the guitar
+- Promoting diversity and inclusion in the technology industry through advocacy and awareness campaigns
+- Exploring various cultures through international cinema and literature
+
+Languages:
+- English (Fluent)

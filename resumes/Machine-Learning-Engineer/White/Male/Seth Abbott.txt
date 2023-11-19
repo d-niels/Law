@@ -1,0 +1,53 @@
+Seth Abbott
+
+Personal Statement:
+Dedicated and focused Machine Learning Engineer with a passion for advancing artificial intelligence technologies. Eager to apply my strong analytical and problem-solving skills to develop cutting-edge models and algorithms. Committed to driving innovation and making a positive impact in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science (Major: Machine Learning)
+Silicon Valley University, San Jose, California
+GPA: 3.9
+
+Work Experience:
+
+Machine Learning Engineer Intern
+Innovative AI Solutions, Palo Alto, California
+June 20XX - August 20XX
+
+- Developed an efficient data handling and processing system, resulting in a 30% reduction in data preprocessing time.
+- Utilized Python to implement and optimize algorithms for deep neural net research.
+- Gained expertise in PyTorch and performed model training and deployment tasks.
+- Conducted statistical analysis to evaluate model performance and identify areas for improvement.
+
+Software Developer
+TechGenius Inc., Mountain View, California
+September 20XX - Present
+
+- Effectively communicate and collaborate with cross-functional teams to develop machine learning solutions that meet client requirements.
+- Utilize TensorFlow and Deep Learning algorithms to enhance the accuracy and performance of machine learning models.
+- Collaborate with the software engineering team to integrate models into production, utilizing C++ for efficient implementation.
+- Proven ability to work in fast-paced environments, solving complex problems with agility and adaptability.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Basketball Team Captain
+Silicon Valley University, San Jose, California
+August 20XX - May 20XX
+
+- Led the university's basketball team as a captain, demonstrating strong leadership skills and fostering team collaboration.
+- Organized and managed team practices, motivating team members to enhance their skills and performance.
+- Acted as a mentor for underrepresented students interested in pursuing careers in technology, supporting and guiding them throughout their academic journey.
+
+Hobbies:
+- Playing the guitar
+- Exploring cultural diversity and promoting inclusivity through photography and art
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)

@@ -1,0 +1,48 @@
+Xander Ellis
+
+Personal Statement:
+As a passionate and dedicated machine learning engineer, I strive to leverage my strong foundation in computer science and expertise in deep neural net research to develop innovative solutions. With a keen eye for detail and a strong problem-solving ability, I am committed to delivering cutting-edge machine learning models that address complex challenges. I have a proven track record of successful collaborations and a strong commitment to continuous learning. My diverse background, sports leadership experience, and love for music bring a unique perspective to my work, enabling me to create inclusive and effective solutions.
+
+Education:
+Bachelor of Science in Computer Science
+University of Wisconsin, Madison, GPA: 3.9
+Madison, Wisconsin
+
+Work Experience:
+Machine Learning Engineer | Phoenix AI Technologies
+Madison, Wisconsin | January 2019 - Present
+- Researched and implemented deep learning techniques, resulting in a 20% improvement in model accuracy.
+- Led the training and deployment of machine learning models, increasing efficiency by 30%.
+- Developed data handling and processing pipelines, optimizing data ingestion and preprocessing.
+- Utilized C++ and statistical analysis to analyze and interpret large datasets, improving data insights.
+
+Software Developer | Stellar Solutions
+Madison, Wisconsin | June 2017 - December 2018
+- Collaborated effectively with cross-functional teams, fostering open communication and achieving project milestones.
+- Utilized PyTorch and TensorFlow to implement and optimize machine learning algorithms.
+- Demonstrated excellent problem-solving skills and agility in adapting to changing project requirements.
+- Wrote clean and efficient code in Python to implement various software modules.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Co-Leader, Madison Soccer Association | Madison, Wisconsin | 2018 - Present
+- Spearhead soccer leadership and coaching programs, promoting inclusivity and personal growth.
+- Organize and coordinate soccer events and competitions, ensuring a positive and enjoyable experience for participants.
+- Provide guidance and support to players, fostering teamwork and leadership skills.
+
+Hobbies:
+- Playing the saxophone
+- Participating in community service initiatives
+- Exploring new hiking trails and outdoor activities
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)
+
+References:
+Available upon request

@@ -1,0 +1,45 @@
+YASIR IRVING
+123 Main Street | Washington, DC | (555) 123-4567 | yasir.irving@email.com
+
+PERSONAL STATEMENT
+Motivated and results-driven Machine Learning Engineer with a passion for leveraging cutting-edge technologies to drive innovation and solve complex problems. Dedicated to developing high-performance models and algorithms to create meaningful impact in the field. As a black male hailing from the vibrant city of Washington, DC, I am determined to contribute positively to the representation and advancement of underrepresented groups in the tech industry.
+
+EDUCATION
+Bachelor of Science in Computer Science, Washington Metropolitan University, Washington, DC
+- Graduated Magna Cum Laude with a 3.9 GPA
+
+WORK EXPERIENCE
+Machine Learning Engineer | Aurora AI | Arlington, VA | Dates
+- Developed and implemented efficient data processing pipelines, contributing to a 30% reduction in processing time
+- Conducted statistical analysis and performed model training, resulting in a 20% increase in prediction accuracy
+- Collaborated closely with a diverse team to deploy machine learning models in scalable systems
+- Utilized Python and PyTorch to design and implement deep learning algorithms
+
+Software Engineer | Quantum Algorithms Co. | Reston, VA | Dates
+- Contributed to the development of C++ applications for cutting-edge research in neural networks and quantum computing
+- Demonstrated agility and problem-solving skills by effectively debugging and resolving critical issues
+- Collaborated closely with researchers to understand their requirements and adapt models accordingly
+- Fostered effective communication and collaboration within the team to ensure project success
+
+SKILLS
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Community Volunteer | Tech Diversity & Inclusion Initiative | Washington, DC | Dates
+- Actively championed diversity and inclusion efforts within the tech community, emphasizing representation and equality
+- Organized workshops and events to promote awareness and foster a more inclusive environment
+- Served as a basketball team leader, coaching and mentoring young athletes to develop both their skills and character
+
+HOBBIES
+- Playing the saxophone, bringing soulful music to life
+- Engaging in community outreach programs focused on promoting diversity, cultural appreciation, and racial justice
+- Exploring cultural heritage through literature and art, connecting with diverse communities and celebrating their contributions
+
+LANGUAGES
+- English (Fluent)
+- French (Intermediate)
+
+References available upon request.

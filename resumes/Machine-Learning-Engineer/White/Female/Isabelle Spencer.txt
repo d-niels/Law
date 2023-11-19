@@ -1,0 +1,44 @@
+Isabelle Spencer
+San Antonio, Texas | (555) 123-4567 | isabellespencer@email.com
+
+Personal Statement:
+A detail-oriented and highly motivated machine learning engineer with a passion for developing innovative solutions. Experienced in leveraging C++, Python, and PyTorch to design, train, and deploy deep learning models. Strong problem-solving skills coupled with a deep understanding of statistical analysis and data handling make me an invaluable asset to any team. Committed to continual learning and staying up-to-date with the latest research in the field.
+
+Education:
+Bachelor of Science in Computer Science (Major: Machine Learning)
+Texan State University, Austin, TX
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Nexus AI Solutions, San Francisco, CA
+- Developed machine learning algorithms using C++, PyTorch, TensorFlow, and Python for improved data handling and processing.
+- Collaborated with cross-functional teams to ensure seamless integration of models into existing systems.
+- Utilized team-player skills in an agile environment to solve problems efficiently and meet project deadlines.
+
+Data Analyst Intern, Quantum Analytics, San Antonio, TX
+- Conducted statistical analysis on large datasets to identify trends and patterns for strategic decision-making.
+- Communicated findings and collaborated with team members to develop actionable recommendations.
+- Assisted in model training and deployment to enhance business intelligence and automate data processes.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Co-founder of Tech Forward, San Antonio Chapter
+- Empowered young girls by organizing workshops, panel discussions, and mentorship programs to bridge the gender gap in the tech industry.
+- Led a diverse team of volunteers to foster an inclusive environment and promote gender diversity in STEM fields.
+
+Basketball Team Captain, San Antonio Community Sports Club
+- Organized practices, managed team logistics, and fostered teamwork to achieve a winning record in basketball.
+- Promoted sportsmanship and collaboration among team members, creating a positive and inclusive atmosphere.
+
+Hobbies:
+Playing the guitar, an avid reader of fiction and science fiction genres, exploring local art galleries, and supporting women-led businesses.
+
+Languages:
+English (Native), Spanish (Conversational)
+
+References available upon request.

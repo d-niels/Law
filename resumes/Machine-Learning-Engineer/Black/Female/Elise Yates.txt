@@ -1,0 +1,47 @@
+Elise Yates
+123 Main Street, Charlotte, NC 28202
+Phone: (123) 456-7890 | Email: elise.yates@email.com
+
+Personal Statement:
+Dedicated and passionate Machine Learning Engineer with a strong background in computer science. Proficient in various machine learning technologies and frameworks. Committed to utilizing my skills to develop innovative solutions. Excited about contributing to a diverse and inclusive working environment.
+
+Education:
+Bachelor of Science in Computer Science, University of Carolina, Charlotte, NC
+- Graduated Magna Cum Laude
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, AcuBurst Technologies, Charlotte, NC
+- Developed and implemented machine learning models using PyTorch for image recognition tasks.
+- Applied statistical analysis techniques to extract insights from large datasets.
+- Utilized deep learning algorithms to improve accuracy and efficiency.
+- Demonstrated excellent communication and collaboration skills within a cross-functional team.
+- Successfully solved complex problems with agility, ensuring project milestones were achieved.
+
+Machine Learning Engineer Intern, TechWave Solutions, Charlotte, NC
+- Developed and optimized machine learning models using TensorFlow and C++ for natural language processing tasks.
+- Efficiently handled and processed large datasets to extract valuable information.
+- Demonstrated a solid understanding of deep neural net research and applied it effectively.
+- Trained and deployed models using Python for scalable implementations.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role for Girls Empowerment Program, XYZ University, Charlotte, NC
+- Mentored and empowered girls from diverse backgrounds through basketball leadership.
+- Organized and coordinated various basketball events, promoting inclusivity and teamwork.
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures and traditions
+- Engaging in community service activities
+
+Languages:
+- English (Native)
+- French (Proficient)
+
+References available upon request.

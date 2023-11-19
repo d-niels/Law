@@ -1,0 +1,46 @@
+ZAHARA QUINLAN
+
+Philadelphia, Pennsylvania | (555) 123-4567 | zahara.quinlan@email.com
+
+PERSONAL STATEMENT
+Passionate and detail-oriented machine learning engineer dedicated to developing innovative algorithms and models. Skilled in utilizing computational techniques to solve complex problems and enhance efficiency. With a strong academic background in computer science and expertise in deep learning frameworks, I am committed to contributing to the advancement of machine learning technology.
+
+EDUCATION
+Bachelor of Science in Computer Science, Magna Cum Laude
+Philadelphia Institute of Technology, Philadelphia, PA
+- Relevant coursework: Machine Learning, Artificial Intelligence, Data Structures, Algorithms
+- GPA: 3.9/4.0
+
+WORK EXPERIENCE
+Machine Learning Engineer | Quantum Data Solutions, Philadelphia, PA | April 2019 - Present
+- Collaborated with a diverse team of experts to develop cutting-edge machine learning models, revolutionizing the company's data analytics capabilities
+- Leveraged expertise in deep neural net research and statistical analysis to optimize model performance and enhance accuracy
+- Utilized Python for extensive data handling and processing, implementing efficient algorithms for data cleaning and feature extraction
+- Fostered effective communication and collaboration with team members, ensuring seamless integration of machine learning techniques into existing systems
+
+Data Scientist Intern | Stellar AI Solutions, Philadelphia, PA | June 2018 - August 2018
+- Assisted in developing state-of-the-art machine learning models using TensorFlow and PyTorch, driving advanced predictive analytics solutions
+- Demonstrated agility and problem-solving skills by troubleshooting and resolving issues in model training and deployment processes
+- Employed C++ for efficient implementation of algorithms, optimizing computational performance
+- Conducted deep learning experiments and analyzed results to provide valuable insights and recommendations
+
+SKILLS
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Member, Black in Technology Association | Philadelphia Institute of Technology, Philadelphia, PA | 2017 - Present
+- Actively participate in discussions and initiatives to promote diversity and inclusion within the tech industry
+- Organize and lead workshops aimed at fostering interest in STEM among underrepresented groups
+
+Sports Leadership Role, Soccer Team | Philadelphia Community Center, Philadelphia, PA | 2015 - 2018
+- Mentored and coached a diverse group of young athletes, instilling teamwork and discipline while cultivating individual skills
+- Organized training sessions and coordinated team participation in local soccer tournaments
+
+HOBBIES
+Playing the Violin, Photography, Exploring Different Cultures and Traditions
+
+LANGUAGES
+English (Native), Spanish (Proficient)

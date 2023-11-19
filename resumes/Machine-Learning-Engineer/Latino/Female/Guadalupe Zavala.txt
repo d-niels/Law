@@ -1,0 +1,42 @@
+Guadalupe Zavala
+
+Personal Statement:
+Passionate and driven Machine Learning Engineer with a strong commitment to using AI technology to solve complex problems. With a proactive and detail-oriented approach, I continuously strive to stay at the forefront of the latest advancements in machine learning. Thriving in collaborative environments, I possess exceptional problem-solving and analytical skills.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+Texan State University, Austin, TX
+
+Work Experience:
+Machine Learning Engineer, Stellar AI Solutions, Austin, TX
+- Collaborated closely with cross-functional teams to develop and deploy advanced machine learning models using PyTorch and TensorFlow.
+- Conducted rigorous model training and deployment to ensure accuracy and efficiency.
+- Demonstrated agility and problem-solving skills to overcome challenges and optimize model performance.
+- Contributed as a valued team player, achieving project milestones and delivering high-quality solutions.
+
+Research Assistant, Quantum Computing Labs, Austin, TX
+- Assisted in researching and understanding the latest trends and advancements in deep neural network approaches.
+- Performed comprehensive statistical analysis of complex datasets to extract meaningful insights.
+- Utilized C++ to implement and experiment with cutting-edge deep learning algorithms.
+- Effectively communicated and collaborated with colleagues to achieve project goals.
+- Demonstrated exceptional data handling and processing skills.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively engaged in volunteering activities within the Latino community to promote accessibility and inclusiveness in tech-related fields, fostering diversity and equal opportunities.
+- Served as a sports leader in a local basketball team, inspiring teamwork, discipline, and leadership skills among the players.
+
+Hobbies:
+- Playing the piano, embracing the rich cultural heritage of Latin music.
+- Exploring various cultures through literature, art, and traveling.
+- Engaging in events that celebrate the contributions of women and underrepresented ethnicities in STEM fields.
+
+Languages:
+Fluent in English and Spanish.
+
+References available upon request.

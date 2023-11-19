@@ -1,0 +1,52 @@
+Rebecca Quinn
+123 Main Street, San Antonio, Texas | (123) 456-7890 | rebecca.quinn@email.com
+
+Personal Statement:
+Results-driven machine learning engineer with a passion for designing and implementing innovative solutions. Highly skilled in developing and deploying machine learning models to solve complex problems. Committed to continuous learning and staying up-to-date with the latest industry trends. Seeking a challenging position as a machine learning engineer to contribute to cutting-edge projects and drive technological advancements.
+
+Education:
+Bachelor of Science in Computer Science, San Antonio State University, San Antonio, Texas
+GPA: 3.9/4.0 (Honors)
+
+Work Experience:
+Machine Learning Engineer Intern, Stratum AI Technologies, San Antonio, Texas | June 2020 - October 2020
+- Collaborated with a cross-functional team to develop deep learning models utilizing TensorFlow and Python for facial recognition systems.
+- Assisted in statistical analysis to improve model accuracy and efficiency.
+- Utilized problem-solving and agility skills to identify and resolve issues during the development process.
+- Improved communication between teams by organizing weekly meetings to discuss project updates and challenges.
+
+Data Science Engineer, Quantum Analytics, San Antonio, Texas | January 2019 - May 2020
+- Developed data handling and processing systems using C++ and PyTorch, resulting in a 40% decrease in data preparation time.
+- Demonstrated a strong understanding of deep neural net research to optimize model training and deployment processes.
+- Collaborated with a team of engineers during the development and testing phases to ensure code compatibility and efficiency.
+- Utilized effective communication and collaboration skills to present project progress and findings to stakeholders.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+- Deep Learning: TensorFlow, PyTorch
+- Statistical Analysis
+- Data Handling and Processing
+- Communication and Collaboration
+
+Volunteer & Leadership:
+Volunteer Mentor, Women in Technology Organization, San Antonio State University
+- Mentored female computer science students to provide guidance and support during their academic journey.
+- Organized workshops and seminars to encourage women to pursue careers in STEM fields.
+
+Sports Leadership Role: Soccer Team Captain | San Antonio State University
+- Demonstrated leadership and teamwork skills by captaining the university soccer team.
+- Organized team practices and motivated teammates to achieve their full potential.
+
+Hobbies:
+- Playing the piano
+- Exploring diverse cultures and traditions
+- Jogging in local parks
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)
+
+References available upon request.

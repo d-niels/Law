@@ -1,0 +1,44 @@
+Ulan Yu
+
+Personal Statement:
+Highly motivated and detail-oriented machine learning engineer with a passion for using artificial intelligence to solve complex problems. Equipped with a strong background in computer science and deep neural net research, adept at leveraging cutting-edge technologies and frameworks to design and implement efficient machine learning models. Committed to delivering exceptional results through teamwork and effective communication. Eager to contribute to the advancement of machine learning capabilities in a challenging role as a Machine Learning Engineer.
+
+Education:
+Bachelor of Science in Computer Science
+Mandarin University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Research Assistant, Luminary AI Solutions, Houston, TX
+- Conducted extensive research on deep neural nets, exploring novel techniques to optimize various architectures
+- Leveraged PyTorch and other deep learning frameworks to develop and train state-of-the-art models
+- Performed statistical analysis on experimental results to identify areas of improvement and enhance model performance
+- Demonstrated agility and problem-solving skills by quickly adapting to changing project requirements
+- Collaborated effectively with a multidisciplinary team of researchers, attending regular meetings and contributing to project milestones
+
+Software Engineer Intern, StellarTech Innovations, Houston, TX
+- Developed advanced software solutions using C++ and Python, contributing to the optimization of model training and deployment processes
+- Actively participated in data handling and processing tasks, ensuring data integrity and accuracy in training pipelines
+- Demonstrated strong teamwork skills while collaborating with a larger development team on TensorFlow-based projects
+- Proficient in C++, Python, and model training and deployment techniques
+- Implemented Git for efficient source control and seamless collaboration among team members
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Asian Cultural Exchange, Mandarin University, Houston, TX
+- Held a significant leadership role as the Badminton Team Captain, leading a diverse team of players and organizing regular practices and tournaments
+- Focused on promoting cultural diversity and fostering camaraderie among Asian students
+- Instrumental in organizing a successful intercollegiate badminton tournament, attracting participants from various ethnic backgrounds
+
+Hobbies:
+- Playing the erhu (traditional Chinese instrument)
+- Participating in team sports, such as basketball and volleyball, to foster teamwork and leadership skills
+- Exploring diverse cultures through art, music, and travel
+
+Languages:
+Fluent in English and Mandarin Chinese

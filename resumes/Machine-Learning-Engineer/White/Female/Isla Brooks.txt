@@ -1,0 +1,48 @@
+Isla Brooks
+
+Personal Statement:
+Driven and passionate machine learning engineer with a deep commitment to leveraging data to drive technological advancements. Skilled in various programming languages with expertise in data handling, model training, and deployment. Seeking a challenging role as a Machine Learning Engineer to apply my skills and contribute to groundbreaking innovations.
+
+Education:
+Bachelor of Science in Computer Science
+University of Texas, Austin, TX
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer
+QuantumScape Technologies, Austin, TX
+June 2019 - Present
+- Collaborated with cross-functional teams to develop and implement cutting-edge machine learning models for data analysis and pattern recognition.
+- Expertly handled and processed large datasets to extract meaningful insights and optimize model accuracy.
+- Conducted statistical analysis to identify trends, correlations, and performance indicators.
+- Utilized Python programming language for model training, deployment, and evaluation.
+- Demonstrated effective communication and collaboration skills to present findings and provide recommendations to project stakeholders.
+
+Software Engineer Intern
+Innovitech Labs, Austin, TX
+May 2018 - August 2018
+- Demonstrated agility and problem-solving abilities while working on various software development projects.
+- Developed and maintained applications using C++ and PyTorch framework.
+- Gained a deep understanding of deep neural network research and applied it to enhance existing models.
+- Collaborated with a team to implement TensorFlow for deep learning tasks.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Basketball Team Captain and Mentor, Austin Sports Association, Austin, TX
+- Led and mentored a successful basketball team, fostering teamwork, discipline, and leadership skills among the players.
+
+As a white female machine learning engineer, I am committed to promoting diversity and inclusivity in the tech industry. I actively participate in organizations and initiatives that encourage underrepresented groups and strive for equal opportunities.
+
+Hobbies:
+- Playing the piano
+- Exploring different cultures through travel and language
+- Writing poetry and short stories amplifying the voices of marginalized communities
+
+Languages:
+- English (Native)
+- Spanish (Intermediate proficiency)

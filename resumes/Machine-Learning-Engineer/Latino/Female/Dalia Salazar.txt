@@ -1,0 +1,38 @@
+Dalia Salazar
+
+Personal Statement:
+Highly motivated and dedicated machine learning engineer with a strong passion for utilizing advanced technologies to solve complex problems. I am deeply committed to promoting diversity and empowerment within the tech industry. With a solid educational background in computer science and extensive experience in both academia and industry, I am seeking a challenging role as a machine learning engineer to contribute my skills in developing innovative solutions while championing inclusivity.
+
+Education:
+Bachelor of Science in Computer Science, Phoenix Metropolitan University, Phoenix, Arizona
+- GPA: 3.9
+
+Work Experience:
+1. Machine Learning Engineer Intern, Quantum Innovations, Phoenix, Arizona
+- Developed and implemented cutting-edge machine learning algorithms using C++ and TensorFlow to optimize data handling and processing for real-time applications
+- Collaborated with cross-functional teams to create efficient and scalable deep learning models for improved accuracy and performance
+- Utilized Python for comprehensive data analysis and preprocessing, ensuring high-quality datasets
+
+2. Research Assistant, Global AI Institute, Phoenix, Arizona
+- Worked closely with senior researchers in analyzing and understanding state-of-the-art deep neural network models for computer vision applications
+- Conducted statistical analysis on extensive datasets, employing PyTorch for model training and deployment
+- Demonstrated exceptional agility and problem-solving abilities to overcome challenges in complex research projects
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Served as a mentor and leader in the local soccer community, empowering young Latinx females in Phoenix through the sport of soccer
+- Organized and led soccer training camps and workshops, promoting teamwork, leadership, and self-confidence among participants
+- Actively engaged in mentoring and supporting underrepresented individuals in the field of technology, especially women and the Latinx community
+
+Hobbies:
+- Playing the guitar and piano, expressing creativity and emotional balance through music
+- Participating in community events celebrating the vibrant and diverse Latinx culture, including art exhibitions and music festivals
+- Engaging in fitness activities such as hiking and yoga to maintain a healthy and well-rounded lifestyle
+
+Languages:
+- Bilingual: English and Spanish

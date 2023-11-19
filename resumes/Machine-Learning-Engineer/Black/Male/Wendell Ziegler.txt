@@ -1,0 +1,43 @@
+Wendell Ziegler
+Philadelphia, Pennsylvania | (123) 456-7890 | wziegler@email.com
+
+Personal Statement:
+Dedicated and detail-oriented machine learning engineer with a passion for advancing technology and driving innovation. With a strong background in computer science and a focus on machine learning algorithms, I am committed to leveraging data-driven insights to create efficient and scalable solutions. As a black male, I am driven to break barriers and contribute to the diversity and inclusion efforts within the field of technology. I believe in championing diversity and representation in the tech industry, and I am dedicated to using my skills to make a positive impact.
+
+Education:
+Bachelor of Science in Computer Science | Keystone University, Philadelphia, Pennsylvania
+- Graduated with a 3.9 GPA
+- Relevant coursework: Machine Learning, Data Structures, Algorithms, Artificial Intelligence, Database Systems, Software Engineering
+
+Work Experience:
+Machine Learning Engineer | TechnoNova Solutions, Philadelphia, Pennsylvania
+- Developed advanced machine learning models using PyTorch and Deep Learning techniques to optimize performance and enhance user experience.
+- Collaborated seamlessly with cross-functional teams to integrate algorithms into existing systems, resulting in improved efficiency and accuracy.
+- Utilized excellent communication and collaboration skills to translate complex technical concepts into accessible terms for both technical and non-technical stakeholders.
+- Demonstrated proficiency in Python and C++ for efficient code implementation and optimization.
+
+Data Scientist | NexGen Analytics, Philadelphia, Pennsylvania
+- Conducted comprehensive statistical analysis and leveraged TensorFlow for the development of predictive models, driving business process optimization.
+- Demonstrated agility and problem-solving skills in handling and processing large datasets, resulting in valuable insights and strategic decision-making.
+- Developed expertise in understanding deep neural net research to pioneer innovative solutions for real-world problems.
+- Led model training and deployment processes, ensuring the successful integration of machine learning models into production systems.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Chairperson | Philadelphia Strikers Soccer Club
+- Led a team of coaches and orchestrated various sports programs, focusing on fostering inclusivity and opportunities for underrepresented communities.
+- Mentored and guided young athletes, nurturing their talents and character development on and off the field.
+- Organized community outreach programs to promote the benefits of sports participation and encourage diversity in the sports industry.
+
+Hobbies:
+- Playing the guitar
+- Supporting diversity and inclusivity initiatives in the tech industry
+- Engaging in outdoor activities, including hiking and camping
+
+Languages:
+- Fluent in English and Spanish

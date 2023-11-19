@@ -1,0 +1,43 @@
+Resume
+
+Personal Statement:
+Motivated and dedicated machine learning engineer with a strong passion for leveraging cutting-edge technologies to develop innovative solutions. Committed to continuous professional growth and overcoming complex challenges through creative problem-solving. With a solid background in deep learning, statistical analysis, and model training, I strive to contribute to the advancement of intelligent systems.
+
+Education:
+Bachelor of Science in Computer Science
+University of Southern California (GPA: 3.9)
+
+Work Experience:
+1. Machine Learning Engineer, Starlight Technologies, San Diego, CA
+- Leveraged deep learning techniques to develop and train models for image recognition and natural language processing.
+- Collaborated with a team of researchers to understand and implement state-of-the-art deep neural net research.
+- Utilized TensorFlow for model training and deployment.
+- Conducted statistical analysis to evaluate model performance and drive iterative improvements.
+- Demonstrated strong teamwork skills, coordinating with cross-functional teams to deliver high-quality projects.
+
+2. Software Engineer, Sapphire Software Systems, San Diego, CA
+- Developed and optimized C++ code for a dynamic software development project.
+- Applied problem-solving skills to overcome technical challenges and enhance system efficiency.
+- Utilized PyTorch for data handling, processing, and model training.
+- Collaborated closely with cross-functional teams to ensure effective communication and timely project deliverables.
+- Proficient in Python, implementing various aspects of software development.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Sports Leadership Role: Led a girls' soccer team as the team captain, fostering teamwork, discipline, and skill development.
+- Actively involved in promoting diversity and inclusivity, contributing to organizations that support women in technology and underrepresented communities.
+
+Hobbies:
+- Playing Violin: Passionate about playing the violin, exploring different genres and pushing the boundaries of musical expression.
+- Cultural Exploration: Engaging in diverse cultural experiences to broaden perspectives and embrace different ethnic and gender identities.
+
+Languages:
+- Fluent in English
+- Conversational proficiency in Spanish
+
+References available upon request.

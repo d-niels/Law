@@ -1,0 +1,45 @@
+Nolan Quinlan
+
+Personal Statement:
+Motivated and dedicated Black male machine learning engineer with a passion for leveraging artificial intelligence and deep learning techniques to develop innovative solutions. Committed to driving business objectives through effective collaboration, problem-solving, and strong technical proficiency. Excellent communication skills and ability to adapt quickly in a fast-paced environment. Seeking a challenging role to apply my expertise in machine learning to contribute to cutting-edge projects.
+
+Education:
+Bachelor of Science in Computer Science
+Detroit Technical University - Detroit, MI
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Innovision Solutions, Detroit, MI
+- Model Training and Deployment
+- Communication and Collaboration
+- Agility and Problem-Solving
+- Team Player
+- Python
+- PyTorch
+
+Machine Learning Research Assistant, Apex AI Labs, Detroit, MI
+- Understanding Deep Neural Net Research
+- Statistical Analysis
+- C++
+- TensorFlow
+- Data Handling and Processing
+- Deep Learning
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member and leader in the National Society of Black Engineers (NSBE)
+- Spearheaded a sports leadership program, mentoring and inspiring young Black male football players in Detroit, MI
+
+Hobbies:
+- Playing the saxophone
+- Reading literature by African-American authors
+- Engaging in community service projects that support underrepresented communities
+
+Languages:
+- English (native)
+- Spanish (intermediate proficiency)

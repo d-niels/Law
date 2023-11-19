@@ -1,0 +1,44 @@
+Personal Statement:
+As a dedicated and innovative machine learning engineer, I am committed to utilizing my expertise in problem-solving and statistical analysis to drive advancements in artificial intelligence. With a passion for unraveling the intricacies of deep neural net research, I am focused on collaborating with teams to develop impactful solutions in a dynamic environment.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Jose, California
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, StellarTech Solutions, San Francisco, CA
+- Agility and Problem-Solving: Implemented agile methodologies, resulting in increased team efficiency and adaptability.
+- Model Training and Deployment: Designed and deployed cutting-edge machine learning models, enhancing data analysis and prediction accuracy.
+- Communication and Collaboration: Collaborated closely with cross-functional teams to gather requirements, provide insights, and ensure seamless integration of machine learning solutions.
+- Statistical Analysis: Conducted in-depth statistical analysis on extensive datasets, generating actionable insights for optimizing business operations.
+- Understanding Deep Neural Net Research: Kept up-to-date with the latest research in deep learning, applying new discoveries to advance machine learning strategies and methodologies.
+- Programming Languages: C++
+
+Machine Learning Engineer, QuantumData Technologies, Palo Alto, CA
+- Team Player: Demonstrated exceptional teamwork and collaboration while developing state-of-the-art machine learning algorithms.
+- TensorFlow and PyTorch: Utilized industry-leading frameworks to build and deploy highly efficient machine learning models for various applications.
+- Data Handling and Processing: Developed robust pipelines for efficient data handling, preprocessing, and feature engineering.
+- Deep Learning: Implemented advanced deep learning architectures to tackle complex problems and improve overall model performance.
+- Python: Leveraged Python extensively for machine learning tasks, data visualization, and model evaluation.
+- Programming Languages: Python
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer: Women in Tech Empowerment Initiative, San Jose, CA
+- Mentored and empowered underrepresented women in the technology sector, providing guidance and support to excel in their careers.
+- Organized workshops and networking events to foster diversity, inclusion, and gender equality within the tech industry.
+
+Sports Leadership Role: As the captain of a regional soccer team, I exemplified leadership qualities, encouraged teamwork, and motivated the team to achieve both individual and collective goals. By fostering a supportive and inclusive environment, we achieved remarkable success.
+
+Hobbies:
+- Playing the guitar: As an accomplished guitarist, I find solace in expressing my emotions and creativity through the strings of this versatile instrument.
+- Exploring global cuisines: Fascinated by various cultures, I am an avid food enthusiast, continuously exploring and experimenting with diverse culinary traditions.
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate)

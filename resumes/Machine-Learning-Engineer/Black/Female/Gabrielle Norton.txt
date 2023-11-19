@@ -1,0 +1,47 @@
+Personal Statement:
+I am a dedicated and highly motivated machine learning engineer with a passion for leveraging advanced technologies to solve complex problems. As a black female hailing from Memphis, Tennessee, I am committed to breaking barriers and promoting diversity in the field of technology. With a strong educational background in computer science and valuable work experience, I am well-equipped to contribute to the development of cutting-edge machine learning solutions.
+
+Education:
+Bachelor of Science in Computer Science
+Memphis State University, Memphis, Tennessee
+GPA: 3.9
+
+Work Experience:
+Machine Learning Research Assistant
+Emerald Technologies Research Center, Memphis, Tennessee
+- Conducted in-depth research on deep neural networks, contributing to the organization's groundbreaking projects
+- Collaborated with a diverse team to develop innovative machine learning models using TensorFlow
+- Expertly handled and processed large-scale datasets for training and testing deep learning models
+- Deployed and optimized machine learning models to production systems
+
+Software Engineer
+Aurora Tech Labs, Nashville, Tennessee
+- Utilized Python and statistical analysis to develop complex algorithms and models
+- Collaborated closely with cross-functional teams to enhance communication and problem-solving abilities
+- Utilized PyTorch to design and implement machine learning solutions
+- Showcased agility and problem-solving skills while working on challenging development projects
+- Effectively communicated and collaborated with team members to achieve project deliverables
+- Applied C++ programming skills to optimize system performance and improve efficiency
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role, Big Sports Academy, Memphis, Tennessee
+- Led and mentored a diverse team of athletes, fostering a collaborative and inclusive environment
+- Organized training sessions and competitions, emphasizing teamwork and fair play
+- Promoted participation of women and people of color in basketball by inspiring and supporting aspiring athletes to pursue their passions
+
+Hobbies:
+- Playing the saxophone
+- Engaging in community service initiatives focused on empowering underrepresented communities
+- Participating in local cultural events and festivals to celebrate diversity
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate level of proficiency)
+
+References available upon request.

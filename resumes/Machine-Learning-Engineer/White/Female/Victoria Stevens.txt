@@ -1,0 +1,40 @@
+Personal Statement:
+As a machine learning engineer, I am driven by my passion for leveraging cutting-edge technology to solve complex problems and drive innovation. With a strong background in computer science and a keen interest in deep learning, I am committed to pushing boundaries and delivering impactful solutions. I thrive in collaborative environments, continuously seeking opportunities to learn and grow while making a meaningful and positive impact.
+
+Education:
+Bachelor of Science in Computer Science
+Innovative University, San Antonio, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Data Science Intern, Novus Technologies, San Antonio, Texas
+- Utilized strong communication and collaboration skills to contribute effectively within a cross-functional team of data scientists and software engineers.
+- Conducted in-depth statistical analysis on extensive datasets to uncover valuable patterns and insights, enabling data-driven decision-making.
+- Streamlined data handling and processing methods by implementing efficient algorithms, resulting in improved overall system performance.
+- Demonstrated agility and problem-solving abilities by quickly identifying and addressing issues during the implementation of machine learning models.
+- Kept pace with the latest advancements in deep neural net research, enhancing the company's understanding and application of advanced algorithms.
+
+Machine Learning Engineer, Synapse Innovations, San Antonio, Texas
+- Expertly utilized programming languages such as C++, Python, and TensorFlow to develop and train robust machine learning models.
+- Collaborated seamlessly as a team player, contributing to the design and implementation of scalable solutions to meet business objectives.
+- Successfully deployed and integrated PyTorch framework to optimize model performance and accuracy.
+- Showcased exceptional problem-solving skills, utilizing debugging techniques to resolve complex issues within machine learning systems.
+- Actively contributed to codebase development using Git, ensuring efficient collaboration and version control.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- As a white female machine learning engineer, I am deeply committed to promoting diversity and inclusivity within the tech industry. I actively engage in organizations and initiatives that champion underrepresented groups in technology.
+- In addition to my professional pursuits, I serve as a passionate leader of a women's basketball team, inspiring and empowering diverse players through sportsmanship and teamwork.
+
+Hobbies:
+- An accomplished violinist, I regularly perform with a local community orchestra, channeling my creativity and love for music.
+- As a vocal advocate for gender equality and women's rights, I actively participate in volunteering opportunities and events that champion these causes.
+
+Languages:
+- English (Native)
+- Spanish (Fluent)

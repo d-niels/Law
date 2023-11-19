@@ -1,0 +1,43 @@
+Personal Statement:
+I am a highly motivated and passionate machine learning engineer with a strong background in computer science. As a Latina female from Houston, Texas, I am dedicated to making a positive impact in the field of AI and technology. With a solid foundation in programming and a deep understanding of machine learning algorithms, I am confident in my ability to create innovative and efficient solutions that drive tangible results.
+
+Education:
+Bachelor of Science in Computer Science, Stellar University, Houston, Texas
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, QuantumAI Corporation, Houston, Texas
+- Leveraged TensorFlow and PyTorch to develop and optimize cutting-edge machine learning models.
+- Demonstrated agility and problem-solving skills to overcome complex challenges and deliver high-quality solutions.
+- Conducted in-depth statistical analysis on large datasets to extract meaningful insights.
+- Contributed to the development of C++ libraries for efficient data processing and manipulation.
+- Collaborated closely with cross-functional teams to implement machine learning solutions.
+
+Research Intern, CosmoTech Research Institute, Houston, Texas
+- Developed strong communication and collaboration skills while contributing to team projects.
+- Acquired expertise in handling and processing diverse datasets for research purposes.
+- Gained extensive knowledge of deep learning algorithms, specifically in the context of natural language processing.
+- Exhibited exceptional teamwork and adaptability in a fast-paced research environment.
+- Assisted in model training and deployment for various research projects.
+- Stayed updated on the latest advancements in deep neural network research.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member and mentor at Tech Latina Society, a non-profit organization empowering Latina women in the tech industry and providing mentorship opportunities.
+- Served as a team captain and leader for a local basketball team, fostering collaboration, discipline, and leadership among the players.
+
+Hobbies:
+- Playing the piano
+- Exploring different cultures through travel, music, and literature
+- Supporting initiatives that promote diversity, gender equality, and social justice
+
+Languages:
+- English (Fluent)
+- Spanish (Native proficiency)
+
+References available upon request.

@@ -1,0 +1,47 @@
+Personal Statement:
+
+Passionate and driven machine learning engineer with a strong background in computer science and a keen interest in promoting diversity and inclusion in the field. I am determined to utilize my skills and knowledge to contribute to the development of cutting-edge machine learning technologies, harnessing the power of artificial intelligence. With a natural talent for problem-solving and a collaborative mindset, I am dedicated to pushing the boundaries of innovation and making a positive impact in the world.
+
+Education:
+
+Bachelor of Science in Computer Science, University of Houston, Houston, Texas
+- Graduated with a GPA of 3.9
+- Relevant coursework: Machine Learning, Deep Learning, Artificial Intelligence, Algorithms, Database Systems
+
+Work Experience:
+
+Machine Learning Engineer, InnovAI Tech Solutions, Houston, Texas
+- Developed advanced machine learning models utilizing deep learning techniques.
+- Utilized PyTorch for model training and deployment, ensuring accurate and efficient data processing.
+- Demonstrated agility and problem-solving skills by troubleshooting and resolving complex issues.
+- Collaborated effectively within a team environment to optimize model performance.
+- Leveraged C++ for efficient application development and optimization.
+
+Research Assistant, NeuralTech Research Lab, Houston, Texas
+- Assisted in conducting deep neural net research and analysis.
+- Collaborated with a diverse team, fostering effective communication and collaboration.
+- Demonstrated proficiency in Python, TensorFlow, and statistical analysis for model training and data analysis.
+- Played a substantial role in the development and deployment of machine learning models.
+
+Skills:
+
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Diversity and Inclusion Advocate:
+- Actively involved in promoting diversity and inclusion within the machine learning community, aiming to provide equal opportunities and representation.
+- Served as a basketball team captain and leader, organizing and mentoring teammates to succeed both individually and collectively.
+
+Hobbies:
+
+- Playing the piano, further fueling my creativity and attention to detail.
+- Engaging in various sports activities such as basketball, soccer, and cycling to maintain a healthy and active lifestyle while fostering teamwork and leadership skills.
+- Embracing cultural diversity through travel and exploration.
+
+Languages:
+
+Fluent in English and Mandarin Chinese, allowing for effective communication and collaboration in multicultural settings.

@@ -1,0 +1,48 @@
+Dhruv Xess
+San Francisco, California
+Phone: (123) 456-7890
+Email: dhruv.xess@email.com
+
+Personal Statement:
+I am an ambitious and driven Machine Learning Engineer with a passion for solving complex problems. Leveraging my strong background in computer science and deep learning, I am committed to pushing the boundaries of innovation. I thrive in dynamic environments, utilizing analytical skills and problem-solving techniques to deliver exceptional results. As an Indian male, I bring a unique perspective that promotes diversity and inclusivity, fostering collaborative environments for groundbreaking solutions.
+
+Education:
+Bachelor of Science in Computer Science, Pacific Coast University, San Francisco, California (2016-2020)
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, InnovateA.I. Technologies, San Francisco, California (2020-Present)
+- Developed and trained machine learning models using Python and PyTorch, achieving high levels of accuracy in data handling and processing.
+- Implemented deep learning techniques to optimize model performance and drive innovation.
+- Collaborated with multidisciplinary teams to deploy and integrate models into production systems.
+- Demonstrated agility and problem-solving skills to overcome challenges and deliver impactful solutions.
+
+Software Engineer Intern, QuantumLeap Solutions, San Francisco, California (Summer 2019)
+- Worked closely with a team of professionals to develop cutting-edge TensorFlow-based applications.
+- Contributed to the implementation of statistical analysis tools, enabling efficient data processing and reporting.
+- Acquired proficiency in C++ programming language and optimized code efficiency.
+- Exhibited strong communication and collaboration skills, ensuring successful project outcomes.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role - Captain of the Basketball Team, Pacific Coast University (2016-2020)
+- Led and organized basketball events, fostering teamwork and camaraderie within a diverse team.
+- Promoted inclusivity by encouraging participation from individuals of various ethnicities and genders, creating an environment that celebrated diversity.
+
+Hobbies:
+- Playing the guitar to explore musical creativity and unwind.
+- Advocating for social and environmental causes, participating in community-driven campaigns.
+- Engaging in public speaking events to raise awareness about gender equality and cultural diversity.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Spanish (Conversational)
+
+References:
+Available upon request

@@ -1,0 +1,41 @@
+Jatin Farooqi
+
+Personal Statement:
+Highly motivated and detail-oriented machine learning engineer with a passion for developing innovative solutions. Dedicated to leveraging my strong understanding of deep learning and research in neural networks to drive impactful technological advancements. Committed to collaborating effectively within cross-functional teams to deliver exceptional results. Seeking a challenging position as a Machine Learning Engineer to contribute to cutting-edge projects and drive positive change in the field.
+
+Education:
+Bachelor of Science in Computer Science, XYZ University, New York, NY (Class of 20XX)
+- GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Stellar Innovations, New York, NY
+- Leveraged Deep Learning methodologies and PyTorch framework to develop and implement advanced machine learning models with a focus on natural language processing.
+- Collaborated with interdisciplinary teams to optimize model performance, integrating state-of-the-art technologies to achieve breakthrough results.
+- Contributed to the understanding of deep neural net research and effectively applied findings to enhance model efficiency and accuracy.
+- Demonstrated proficiency in C++ for efficient and scalable coding, ensuring optimal performance of the machine learning algorithms.
+- Exhibited strong teamwork and collaboration skills in fostering a highly productive and collaborative work environment.
+
+Data Scientist, Quantic Analytics, New York, NY
+- Developed machine learning models using TensorFlow and Python, providing valuable insights for business decisions and strategic planning.
+- Conducted end-to-end model training and deployment, ensuring the robustness and reliability of systems under real-world conditions.
+- Demonstrated agility and problem-solving skills by effectively handling and processing large datasets, optimizing data pipelines for efficiency.
+- Employed statistical analysis techniques to derive actionable recommendations and support data-driven decision-making processes.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate, XYZ University, New York, NY
+- Spearheaded initiatives to promote diversity and inclusion within the university, fostering an inclusive and welcoming environment for students from diverse backgrounds.
+- Mentored underrepresented students in the field of computer science, providing guidance and support to navigate their academic journeys.
+- Served as a Basketball Team Captain, leading the team to multiple victories, fostering teamwork and cooperation among talented individuals.
+
+Hobbies:
+Played the guitar, creating soulful melodies and expressing creativity through music.
+Engaged in various recreational activities, including hiking, photography, and playing basketball, fostering a well-rounded lifestyle.
+
+Languages:
+Fluent in English and Hindi, allowing effective communication in diverse multicultural settings.

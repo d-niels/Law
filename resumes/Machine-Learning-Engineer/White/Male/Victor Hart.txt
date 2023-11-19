@@ -1,0 +1,39 @@
+Personal Statement:
+Motivated and detail-oriented machine learning engineer with a strong background in computer science. Committed to leveraging my skills and experience to develop innovative solutions in the field of AI. Skilled in statistical analysis, deep learning, and model training and deployment, I am dedicated to continuously expanding my knowledge and staying at the forefront of advancements in machine learning.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+University of Silicon Valley, San Francisco, California
+
+Work Experience:
+Machine Learning Engineer | QuantumAI Solutions, San Francisco, CA
+- Conducted statistical analysis, trained and deployed deep learning models using TensorFlow and PyTorch.
+- Collaborated with a multidisciplinary team to solve complex problems and effectively communicated research findings.
+- Developed code in C++ and Python to implement deep neural net research.
+
+Software Developer | Catalyst Technologies, San Francisco, CA
+- Demonstrated excellent teamwork and communication skills to effectively collaborate with colleagues on software development projects.
+- Utilized agility and problem-solving abilities to streamline data handling and processing procedures.
+- Worked with TensorFlow and PyTorch for model development and integration.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Served as a basketball team captain and mentor, providing guidance and support to young athletes in the San Francisco community.
+- Actively participate in organizations promoting diversity in tech, particularly advocating for underrepresented groups, such as being a member of the Society of Women Engineers.
+
+Hobbies:
+- Playing the piano and guitar, with a particular love for jazz and classical music.
+- Engaging in physical activities like basketball and hiking.
+- Enjoying cultural events and exploring art exhibitions, festivals, and live performances.
+
+Languages:
+- English (Native)
+- Spanish (Fluent)
+- French (Beginner)
+
+References available upon request.

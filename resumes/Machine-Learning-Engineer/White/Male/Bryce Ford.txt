@@ -1,0 +1,44 @@
+Bryce Ford
+
+Personal Statement:
+Motivated and detail-oriented machine learning engineer with a passion for leveraging artificial intelligence to solve complex problems. Known for my strong analytical skills and dedication to staying at the forefront of the latest advancements in the field. With a proven track record of delivering high-quality projects, I am eager to contribute my expertise and drive innovation in machine learning.
+
+Education:
+Bachelor of Science in Computer Science, San Jose State University, San Jose, California
+- GPA: 3.9
+- Relevant coursework: Machine Learning, Data Mining, Artificial Intelligence
+
+Work Experience:
+Machine Learning Engineer, Quantum Intelligence Systems, Palo Alto, CA (2018-2020)
+- Collaborated with a diverse team to develop cutting-edge machine learning algorithms using Python and PyTorch
+- Employed advanced data handling and processing techniques to extract valuable insights from large datasets
+- Conducted statistical analyses to identify trends and patterns, enhancing model accuracy
+- Demonstrated exceptional communication and collaboration abilities, frequently presenting project findings to stakeholders
+
+Software Developer Intern, Innovix Solutions, San Jose, CA (2017)
+- Developed and maintained software applications using C++ and TensorFlow
+- Successfully trained and deployed deep learning models for image recognition tasks
+- Demonstrated agility and effective problem-solving skills by resolving technical challenges promptly
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, National Society of Black Engineers (NSBE)
+- Actively mentor and support underrepresented minorities pursuing careers in engineering and technology
+- Organize workshops and events to promote diversity, inclusion, and professional development
+
+Sports Leadership: Basketball Team Captain, San Francisco City League
+- Lead and inspire teammates, promoting teamwork and sportsmanship
+- Organize practices, develop game strategies, and contribute to team success
+
+Hobbies:
+Playing the piano, Soccer, Hiking, Photography
+
+Languages:
+English (Native), Spanish (Proficient)
+
+Note: Bryce Ford is a fictitious character. The details provided for their education, work experience, and volunteer activities should be considered as creative writing for the purpose of the novel. The use of ethnicity, gender, and sports leadership roles in this resume is specific to the character's background and should not be regarded as discriminatory or exclusionary.

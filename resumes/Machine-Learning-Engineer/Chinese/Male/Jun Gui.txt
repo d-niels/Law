@@ -1,0 +1,39 @@
+Personal Statement: 
+Highly skilled and motivated Machine Learning Engineer with a strong background in computer science. Passionate about leveraging cutting-edge technology to develop innovative solutions. Committed to constant learning and staying up-to-date with the latest trends in machine learning. Excellent problem-solving and analytical skills to deliver impactful results. Strong communication and collaboration abilities to effectively work in a team-driven environment. Seeking a challenging role as a Machine Learning Engineer to contribute towards the advancement of AI technology.
+
+Education:
+Bachelor of Science in Computer Science, Liberty University, New York, NY
+- Graduated with a GPA of 3.9
+- Relevant coursework: Machine Learning, Algorithms, Data Structures, Artificial Intelligence, Software Engineering
+
+Work Experience:
+Machine Learning Engineer, AlphaTech Solutions, New York, NY
+- Utilized statistical analysis techniques to extract meaningful insights from complex datasets.
+- Demonstrated agility in adapting to various project requirements and problem-solving challenges.
+- Developed machine learning models using TensorFlow and Python, resulting in improved accuracy and efficiency.
+- Collaborated with cross-functional teams to integrate machine learning solutions into existing systems.
+- Stayed updated with the latest advancements in deep neural net research to ensure the implementation of state-of-the-art techniques.
+
+Machine Learning Engineer, Omega Systems, New York, NY
+- Utilized PyTorch and Deep Learning algorithms for data handling, processing, and analysis.
+- Proficient in C++ for developing efficient and robust machine learning models.
+- Actively participated as a team player in collaborative projects, contributing to the team's success.
+- Trained and deployed machine learning models for real-time applications.
+- Demonstrated strong problem-solving abilities to identify and resolve technical issues.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry, particularly highlighting the achievements of Asian American professionals.
+- Served as a team captain in the sport of basketball, motivating and guiding the team towards achieving their goals.
+
+Hobbies:
+- Playing the piano, highlighting classical compositions from celebrated Chinese composers.
+- Exploring diverse cultures, fostering an understanding and appreciation for various ethnic heritages.
+
+Languages:
+- Fluent in English and Mandarin Chinese

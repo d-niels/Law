@@ -1,0 +1,44 @@
+Personal Statement:
+
+I am a Chinese female with a passion for utilizing machine learning to make a positive impact on society. With a solid background in computer science and a love for problem-solving, I am seeking a role as a Machine Learning Engineer. My goal is to leverage my skills and knowledge to develop innovative solutions that drive technological advancement and improve people's lives.
+
+Education:
+
+Bachelor of Science in Computer Science, San Francisco State University, San Francisco, CA (2015-2019)
+- GPA: 3.9
+
+Work Experience:
+
+Machine Learning Engineer, SparkTech Innovations, San Francisco, CA (2019-Present)
+- Collaborated with a team of researchers to understand and implement cutting-edge deep neural net research for natural language processing applications
+- Utilized PyTorch and Python to develop and optimize deep learning models for sentiment analysis and text classification
+- Conducted statistical analysis on large datasets to derive meaningful insights for improving model performance
+- Demonstrated agility and problem-solving skills in a fast-paced research and development environment
+
+Software Engineer Intern, QuantumSoft Solutions, San Francisco, CA (Summer 2018)
+- Worked closely with a cross-functional team to handle and process voluminous data for a cloud-based SaaS platform
+- Developed and trained machine learning models using TensorFlow and C++ for real-time anomaly detection
+- Actively contributed as a team player, collaborating and communicating effectively to ensure seamless project delivery
+
+Skills:
+
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Volunteer, Chinese Cultural Association, San Francisco, CA (2016-Present)
+- Actively engage with the Chinese community to promote cultural understanding and integration
+- Organize and lead basketball tournaments, fostering a sense of teamwork and sportsmanship
+- Collaborate with other volunteers to plan and execute events celebrating Chinese tradition and heritage
+
+Hobbies:
+
+Playing the Guzheng (traditional Chinese instrument), participating in community basketball leagues, contributing to open-source machine learning projects
+
+Languages:
+
+- English (Fluent)
+- Mandarin Chinese (Native)

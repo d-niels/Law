@@ -1,0 +1,45 @@
+Kiana Ibanez
+San Jose, California | (123) 456-7890 | kiana.ibanez@email.com
+
+Personal Statement:
+Highly motivated and detail-oriented Machine Learning Engineer adept at leveraging cutting-edge technologies to develop innovative solutions. With a passion for applying machine learning algorithms to real-world problems, I am committed to advancing the field through collaboration and continuous learning. As a Latina woman, I am dedicated to showcasing diversity and inclusivity in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Jose, CA
+- GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Quantum Analytics, San Francisco, CA
+- Developed and implemented state-of-the-art deep learning models utilizing TensorFlow and PyTorch frameworks.
+- Collaborated with cross-functional teams to analyze and interpret complex statistical data.
+- Utilized Python to conduct statistical analysis of large datasets.
+- Enhanced communication and collaboration among team members to streamline project workflows.
+
+Junior Data Scientist, Innovision Technologies, Palo Alto, CA
+- Performed efficient data handling and processing tasks to extract valuable insights from large datasets.
+- Demonstrated a strong understanding of deep neural net research to optimize model performance.
+- Utilized C++ for agile development and problem-solving while ensuring model scalability.
+- Trained and deployed machine learning models, ensuring seamless integration with existing systems.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinx in Tech Mentorship Program, San Jose, CA
+- Acted as a mentor, providing guidance and support to aspiring Latinx students interested in STEM fields.
+- Organized workshops and seminars to promote technical knowledge among the Latinx community.
+
+Sports Leadership (Soccer), Silicon Valley University, San Jose, CA
+- Demonstrated leadership skills as the captain of the university's women's soccer team.
+- Fostered teamwork and collaboration among team members to achieve shared goals on and off the field.
+
+Hobbies:
+Playing the guitar, practicing photography, exploring different cultures and traditions, promoting diversity and inclusion in technology.
+
+Languages:
+Fluent in English and Spanish.
+
+References available upon request.

@@ -1,0 +1,40 @@
+Personal Statement:
+Driven and results-oriented machine learning engineer with a deep passion for pushing the boundaries of AI technology. With a solid foundation in computer science and a tenacious problem-solving mindset, I am committed to creating innovative solutions that drive real-world impact. Seeking new challenges and opportunities to further develop my skills and contribute to the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, Phoenix University, Phoenix, Arizona
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, InnovX Technologies, Phoenix, Arizona (2018-2020)
+- Developed advanced machine learning models using PyTorch and Python, optimizing performance and accuracy.
+- Collaborated closely with cross-functional teams, bringing agility and problem-solving skills to meet project objectives.
+- Utilized TensorFlow for model implementation and deployment, enabling seamless integration with existing systems.
+- Conducted comprehensive statistical analysis to evaluate and fine-tune machine learning algorithms.
+
+AI Research Assistant, QuantumAI Labs, Phoenix, Arizona (2017-2018)
+- Processed and handled diverse datasets, ensuring data integrity and quality for deep learning research projects.
+- Gained in-depth understanding of cutting-edge deep neural networks, supporting model development and evaluation.
+- Facilitated effective communication and collaboration among team members for seamless project execution.
+- Leveraged C++ to train and deploy machine learning models, focusing on optimizing training time and accuracy.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Mentor, Phoenix Latino Youth Empowerment Program (2019-Present)
+- Mentored and empowered Latino youth, providing guidance in academic and personal growth.
+- Organized cultural workshops to foster understanding and appreciation of diverse backgrounds.
+- Leadership role as a soccer team captain, promoting teamwork and sportsmanship among young athletes.
+
+Hobbies:
+- Playing the guitar and piano, channeling creativity through various musical genres.
+- Leading and coaching a local soccer team, promoting teamwork and fostering a love for the sport.
+- Exploring diverse art forms, including painting and photography, to embrace cultural expression and identity.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)

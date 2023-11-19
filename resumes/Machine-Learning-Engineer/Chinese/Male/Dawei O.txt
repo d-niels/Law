@@ -1,0 +1,39 @@
+Personal Statement:
+As a Chinese male hailing from the vibrant city of San Francisco, California, I am an ambitious and driven machine learning engineer, eager to carve my path in the world of artificial intelligence. Equipped with a profound knowledge in computer science, I aspire to revolutionize the field through the applications of deep learning and data analysis. With an unwavering commitment to excellence and a natural inclination towards collaboration, I am determined to make a lasting impact.
+
+Education:
+Bachelor of Science in Computer Science, Golden State University, San Francisco, California
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Luminary AI Solutions, San Francisco, CA
+- Developed and deployed cutting-edge machine learning models using PyTorch, merging efficiency and accuracy to drive exceptional data analysis.
+- Fostering a collaborative atmosphere, excelled as a team player by effectively communicating and collaborating with peers to solve complex problems.
+- Demonstrated agility and problem-solving prowess by efficiently training and deploying models across diverse projects.
+
+Data Analyst, NovaTech Solutions, San Francisco, CA
+- Applied an in-depth understanding of deep neural net research to real-world scenarios, facilitating groundbreaking advancements in the field.
+- Excelled in managing and processing vast datasets, utilizing C++, TensorFlow, and Python programming languages to maximize efficiency.
+- Conducted statistical analysis to extract valuable insights and offer data-driven recommendations.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively championed diversity and inclusivity within the tech community, leveraging my Chinese heritage and unique perspective to drive positive change.
+- Served as a revered basketball team captain, leading and inspiring my teammates to victory both on and off the court.
+- Found solace and creative expression through playing the guitar, harmonizing melodies and emotions into captivating rhythms.
+
+Hobbies:
+- Cultivating cultural appreciation through literature, music, and exploring diverse art forms.
+- Pursuing physical fitness through basketball, honing leadership skills and fostering camaraderie within the team.
+- Engaging in competitive coding to continuously refine my technical prowess and stay at the forefront of technological advancements.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References available upon request.

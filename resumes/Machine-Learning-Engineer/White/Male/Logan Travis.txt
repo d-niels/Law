@@ -1,0 +1,40 @@
+Logan Travis
+
+Personal Statement:
+Driven and inventive machine learning engineer with a deep-rooted passion for leveraging emerging technologies to develop groundbreaking solutions. Committed to continuous learning and improvement, I possess a strong background in computer science and a proven track record of successfully executing projects. As a machine learning engineer, I am dedicated to pushing the boundaries of AI technology.
+
+Education:
+Bachelor of Science in Computer Science, Phoenix University, Phoenix, Arizona (3.9 GPA)
+
+Work Experience:
+1. Machine Learning Engineer, StellarAI Solutions, Phoenix, Arizona
+- Data Handling and Processing
+- Deep Learning
+- Understanding Deep Neural Net Research
+- Python
+- Model Training and Deployment
+- Agility and Problem-Solving
+
+2. Research Assistant, QuantumAI Labs, Phoenix, Arizona
+- TensorFlow
+- Communication and Collaboration
+- PyTorch
+- Statistical Analysis
+- C++
+- Team Player
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white male from Phoenix, Arizona, I am dedicated to promoting diversity and inclusivity within the tech industry. I actively volunteer as a mentor for underrepresented students pursuing careers in computer science, offering guidance and support to foster their success. Furthermore, I lead a youth soccer team, emphasizing teamwork, discipline, and leadership skills in a diverse group of athletes.
+
+Hobbies:
+In my leisure time, I enjoy playing the piano, immersing myself in different cultural experiences, and exploring various ethnic art forms. These hobbies allow me to embrace diversity and expand my worldview.
+
+Languages: English (Fluent)
+
+References available upon request.

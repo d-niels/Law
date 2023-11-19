@@ -1,0 +1,37 @@
+Personal Statement:
+As a passionate machine learning engineer, I am dedicated to leveraging my expertise in deep learning and problem-solving to develop innovative solutions. With a strong academic background in computer science and a drive for continuous learning, I am eager to contribute my skills and knowledge to drive advancements in machine learning technology.
+
+Education:
+Bachelor of Science in Computer Science, Texas Tech University, Austin, Texas
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Machine Learning Engineer, StellarAI, Austin, Texas
+- Developed cutting-edge machine learning models using TensorFlow, Python, and deep learning techniques to enhance data analysis and prediction accuracy
+- Conducted statistical analysis to optimize model performance and identify key insights
+- Demonstrated agility and problem-solving abilities to overcome challenges and deliver high-quality solutions
+- Actively engaged in frequent discussions with research teams to stay updated on deep neural net advancements
+
+Software Developer, TechSolutions, Austin, Texas
+- Led the design and execution of data handling and processing strategies for machine learning projects, ensuring seamless integration and efficient workflows
+- Conducted comprehensive training and deployed models using C++ and PyTorch, effectively bridging the gap between research and production
+- Collaborated closely with cross-functional teams, fostering strong communication and collaboration for successful project outcomes
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a proud Latino male, I am dedicated to empowering underrepresented communities in technology. I actively contribute to initiatives that promote diversity and inclusion, advocating for equal opportunities within the field. In addition, I serve as a leader in the local soccer community, promoting teamwork, sportsmanship, and mentorship among young athletes.
+
+Hobbies:
+- Playing the guitar, showcasing my love for music and creativity
+- Engaging in community outreach activities to foster diversity and inclusion
+- Leading and participating in soccer teams, promoting teamwork and camaraderie
+
+Languages:
+- Bilingual: English and Spanish
+
+References available upon request.

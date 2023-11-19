@@ -1,0 +1,42 @@
+Gustavo Aguirre
+
+Personal Statement:
+Dedicated and highly skilled machine learning engineer with a strong background in deep neural net research, model training and deployment, as well as expertise in programming languages such as C, Python, and C++. With a bachelor's degree in computer science from a reputable university and a passion for solving complex problems, I am committed to utilizing my analytical skills and proficiency in various tools and technologies to drive innovation and contribute to the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, City University, Los Angeles, California
+- GPA: 3.9
+
+Work Experience:
+
+Machine Learning Engineer, Stellar Innovations, Los Angeles, California
+- Understanding Deep Neural Net Research
+- Communication and Collaboration
+- Model Training and Deployment
+- Team Player
+- Agility and Problem-Solving
+- C++
+
+Data Science Intern, Quantum Insights, Los Angeles, California
+- Python
+- Statistical Analysis
+- PyTorch
+- Deep Learning
+- Data Handling and Processing
+- TensorFlow
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a proud Latino male from Los Angeles, I am dedicated to promoting diversity, inclusivity, and empowerment in the field of technology. I actively volunteer in programs and organizations that serve underrepresented communities and aim to increase diversity in STEM fields. Additionally, I hold a leadership role as a coach for a youth soccer team, where I mentor and guide young athletes in their pursuit of excellence and teamwork.
+
+Hobbies:
+In addition to my passion for machine learning, I find solace and creative expression in playing the piano. Music allows me to connect with my emotions and bring an added layer of depth to my life. I also engage in activities that celebrate my Latino heritage, such as participating in cultural festivals and promoting awareness of influential Latino figures in various industries.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)

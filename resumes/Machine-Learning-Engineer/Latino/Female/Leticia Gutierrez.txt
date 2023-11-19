@@ -1,0 +1,54 @@
+PERSONAL STATEMENT
+
+As a dedicated and ambitious Machine Learning Engineer, I am determined to utilize my skills and knowledge to revolutionize the field of artificial intelligence. With a deep passion for problem-solving and a diverse cultural background, I am committed to driving positive change and creating opportunities for underrepresented communities. As a proud Latina hailing from Albuquerque, New Mexico, I am determined to shatter barriers and empower others through technology.
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+New Mexico State University, Las Cruces, New Mexico
+GPA: 3.9/4.0
+
+WORK EXPERIENCE
+
+Machine Learning Engineer | NovaTech Systems | Albuquerque, NM
+- Demonstrated exceptional agility and problem-solving skills to develop innovative machine learning algorithms.
+- Collaborated seamlessly with cross-functional teams to ensure effective communication and collaboration.
+- Conducted in-depth statistical analysis to derive actionable insights from extensive datasets.
+- Kept abreast of the latest advancements in deep neural network research to integrate cutting-edge techniques into projects.
+- Proficient in PyTorch for algorithm development and model training.
+
+Software Engineer | Luminary AI Solutions | Santa Fe, NM
+- Utilized TensorFlow to develop and deploy state-of-the-art machine learning models for diverse applications.
+- Led model training and deployment initiatives to achieve optimal performance and efficiency.
+- Developed robust data handling and processing pipelines, ensuring high-quality outputs.
+- Demonstrated expertise in Python and C++ for algorithm implementation and optimization.
+- Thrived in a highly collaborative team environment, fostering synergy and driving project success.
+
+SKILLS
+
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+
+Latino Outreach Advocate | Tech4All | Albuquerque, NM
+- Enthusiastically championed diversity and inclusion in the tech industry, fostering inclusive environments.
+- Mentored aspiring Latino youth, guiding and supporting their journey into technology careers.
+- Organized impactful workshops and networking events to empower underrepresented communities.
+
+Soccer Team Coach | Albuquerque United Soccer Club | Albuquerque, NM
+- Led and motivated a competitive girls' soccer team, instilling discipline, teamwork, and leadership skills.
+- Nurtured their passion for soccer and fostered an environment of growth and sportsmanship.
+
+HOBBIES
+
+Playing the guitar, painting, exploring local art exhibitions, and hiking in the scenic mountains.
+
+LANGUAGES
+
+- English (Fluent)
+- Spanish (Native)
+
+References available upon request.

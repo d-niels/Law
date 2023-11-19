@@ -1,0 +1,46 @@
+Personal Statement:
+
+Ananya Nambiar
+New York, New York
+Phone: XXX-XXX-XXXX
+Email: ananya.nambiar@example.com
+
+Machine Learning Engineer with a strong background in computer science and a passion for utilizing data and artificial intelligence to solve complex problems. Possesses a comprehensive understanding of machine learning algorithms and frameworks, combined with excellent programming skills and a keen eye for detail. Committed to delivering innovative solutions that drive business growth and enhance user experiences. Proven ability to collaborate effectively within a team and thrive in fast-paced, dynamic environments.
+
+Education:
+Bachelor of Science in Computer Science, Stellar University, New York, NY
+- GPA: 3.9
+- Relevant Coursework: Artificial Intelligence, Data Mining, Algorithms, Database Systems, Computer Vision
+
+Work Experience:
+Machine Learning Engineer, Luminary Analytics, New York, NY
+- Developed cutting-edge machine learning models using TensorFlow for statistical analysis, Python for data handling and processing, and C++ for efficient algorithm implementation.
+- Collaborated closely with cross-functional teams to analyze large datasets and provided insights to drive data-driven decision making.
+- Demonstrated exceptional teamwork skills in a fast-paced, collaborative work environment.
+
+Machine Learning Engineer Intern, NexGen Solutions, New York, NY
+- Implemented deep learning solutions, utilizing PyTorch for model training and deployment.
+- Collaborated with senior engineers to understand and implement state-of-the-art deep neural network research.
+- Showcased problem-solving ability and agility to overcome technical challenges and ensure project success.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Sports Leadership: Served as the captain of the Stellar University basketball team, leading and motivating a diverse group of individuals to achieve common goals and fostering a sense of team spirit.
+- Gender and Ethnicity Advocacy: Actively participate in organizations that promote gender diversity and inclusion in the tech industry, creating awareness and advocating for equal opportunities.
+
+Hobbies:
+- Playing the guitar
+- Photography
+- Reading books on diverse cultures and histories
+
+Languages:
+- English (fluent)
+- Hindi (fluent)
+- Tamil (conversational)
+
+References available upon request.

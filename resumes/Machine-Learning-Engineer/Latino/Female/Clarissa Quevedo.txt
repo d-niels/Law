@@ -1,0 +1,44 @@
+Clarissa Quevedo
+
+San Jose, California | (555) 123-4567 | clarissa.quevedo@email.com
+
+Personal Statement:
+Highly motivated machine learning engineer with a strong background in computer science and a passion for leveraging technology to drive innovative solutions. Experienced in model training and deployment, with an expertise in C++, Python, PyTorch, and TensorFlow. Committed to continuous learning and staying up-to-date with the latest advancements in machine learning and artificial intelligence. An effective team player with excellent communication and problem-solving skills.
+
+Education:
+Bachelor of Science in Computer Science
+California State University, San Jose, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer | NexGen Technologies, San Francisco, CA | May 2018 - Present
+- Developed and implemented machine learning models using C++, PyTorch, and Python to enhance the company's recommendation system.
+- Collaborated with a multidisciplinary team to design, test, and deploy models, resulting in a 20% improvement in recommendation accuracy.
+- Handled large datasets, ensuring data quality and integrity, and implemented efficient data processing techniques for optimized model training.
+
+AI Research Assistant | Silicon Valley Research Labs, San Jose, CA | June 2016 - May 2018
+- Conducted research on deep neural network models using TensorFlow, contributing to the advancement of AI technology.
+- Performed statistical analysis and utilized deep learning techniques to optimize model performance and accuracy.
+- Collaborated with researchers to design experiments, analyze results, and present findings at industry conferences.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Student Association Member | California State University, San Jose, CA
+- Actively participated in promoting cultural awareness and fostering inclusivity within the university community.
+- Organized and led cultural events and workshops to celebrate and educate about Latino culture, enhancing cross-cultural understanding.
+
+Basketball Team Captain | San Jose Community Center, San Jose, CA
+- Led a girls' basketball team as a captain, mentoring and coaching teammates to improve skills and foster teamwork and self-confidence within the team.
+
+Hobbies:
+Latin Dance: Engaged in various Latin dance styles like salsa and bachata, showcasing rich cultural heritage and expressing creativity through movement.
+Playing the Saxophone: Enjoys playing the saxophone, channeling emotions and artistic expression through music.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)

@@ -1,0 +1,40 @@
+Aanya Mehta
+
+Personal Statement:
+Highly motivated and detail-oriented Machine Learning Engineer with a strong background in Deep Learning. Dedicated to pushing the boundaries of artificial intelligence and enhancing user experiences through innovative solutions. Passionate about leveraging technology to drive positive social change. Seeking opportunities to apply my skills in Machine Learning engineering to make a lasting impact.
+
+Education:
+Bachelor of Science in Computer Science, Techverse University, Houston, Texas
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Machine Learning Engineer, InnovateX Labs, Houston, TX
+- Developed and implemented Deep Learning models using Python and PyTorch to enhance image recognition accuracy by 10%.
+- Collaborated with a team of Data Scientists and Software Engineers to optimize network architectures.
+- Leveraged knowledge of Deep Neural Net Research to enhance model performance.
+- Utilized C++ for efficient implementation of computationally intensive tasks.
+
+Data Science Intern, ByteForge Technologies, Houston, TX
+- Processed and analyzed large datasets using TensorFlow for predictive modeling and analytics.
+- Demonstrated agility and problem-solving skills while handling complex data handling and processing tasks.
+- Conducted statistical analysis and implemented models for data-driven decision making.
+- Worked as a team player, effectively collaborating with both technical and non-technical stakeholders.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Soccer Leadership Role, Houston Indian Sports Association
+- Led a soccer team, fostering teamwork and collaboration among culturally diverse players.
+- Organized and managed tournaments, promoting inclusivity within the Indian community.
+
+Hobbies:
+- Playing the violin
+- Reading about emerging technologies and advancements in AI
+- Participating in coding competitions to enhance problem-solving skills
+
+Languages:
+- Fluent in English, Hindi, and Gujarati

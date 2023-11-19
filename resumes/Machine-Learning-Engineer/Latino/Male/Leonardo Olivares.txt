@@ -1,0 +1,40 @@
+Personal Statement:
+As a passionate Latino male from Dallas, Texas, I am a driven and innovative Machine Learning Engineer specializing in applying artificial intelligence to revolutionize industries. With a bachelor's degree in computer science from Southern Tech University and a stellar GPA of 3.9, I have a solid foundation in advanced machine learning concepts and a proven ability to tackle complex problems. I thrive in collaborative environments and possess exceptional attention to detail. I am excited to contribute my skills and expertise to a forward-thinking organization and make a profound impact in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, Southern Tech University, Dallas, Texas
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Quantum AI Solutions, Dallas, Texas
+
+- Leveraged my expertise in model training and deployment to develop state-of-the-art machine learning algorithms.
+- Collaborated seamlessly as a team player with engineers and data scientists to ensure seamless integration of machine learning models.
+- Stayed abreast of the latest advancements in deep neural net research, providing valuable insights to enhance model performance.
+- Utilized my proficiency in programming languages such as C++ and Python to optimize machine learning workflows.
+- Demonstrated exceptional communication and collaboration skills, fostering knowledge sharing among team members.
+
+Senior Data Scientist, NovaTech Innovations, Dallas, Texas
+
+- Demonstrated agility and strong problem-solving skills, driving the development of cutting-edge data-driven solutions using PyTorch and TensorFlow.
+- Conducted comprehensive statistical analysis, employing the latest deep learning techniques to handle and process large datasets efficiently.
+- Collaborated closely with cross-functional teams to develop machine learning models, positively impacting business processes.
+- Cleaned and preprocessed datasets utilizing advanced data handling and processing skills, ensuring accurate analysis.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Dedicated volunteer at a local non-profit organization, organizing coding workshops and mentoring underrepresented students in STEM fields.
+- Sports Leadership Role: Captain of a local soccer team, leading and motivating players to achieve victory and personal growth.
+
+Hobbies:
+- Mastery of the piano, with a particular passion for classical compositions.
+- Explorer of diverse cuisines, discovering authentic flavors from different cultures.
+- Engaging in outdoor activities such as hiking and rock climbing, nurturing a strong connection with nature.
+
+Languages:
+- Bilingual: Proficient in English and Spanish.

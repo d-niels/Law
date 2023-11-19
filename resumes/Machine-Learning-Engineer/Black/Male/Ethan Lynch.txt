@@ -1,0 +1,48 @@
+Ethan Lynch
+
+Personal Statement: 
+Driven and dedicated Machine Learning Engineer with a passion for utilizing cutting-edge technologies to develop innovative solutions. With a strong background in computer science and a profound understanding of deep learning, I am committed to contributing to the advancement of Artificial Intelligence. As a Black male from Charlotte, North Carolina, I am motivated to inspire diversity and inclusivity within the tech community through my work and leadership.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Charlotte Institute of Technology, Charlotte, NC
+
+Work Experience:
+Machine Learning Engineer
+InfiniTech Solutions, Charlotte, NC
+- Developed state-of-the-art machine learning models using Model Training and Deployment techniques.
+- Proficient in PyTorch for building and optimizing neural network architectures.
+- Demonstrated agility and problem-solving abilities to meet tight deadlines in fast-paced projects.
+- Utilized deep learning algorithms to enhance accuracy and performance in various applications.
+- Promoted effective communication and collaboration within cross-functional teams.
+- Leveraged Python for data preprocessing, feature engineering, and model evaluation.
+
+Data Science Engineer
+Quantum Analytics, Charlotte, NC
+- Exhibited a strong team-player mentality in collaborative development projects.
+- Conducted statistical analysis on large data sets to gain insights and make data-driven decisions.
+- Developed a deep understanding of deep neural net research for improving model performance.
+- Efficiently handled and processed vast amounts of data, ensuring data integrity and quality.
+- Proficient in C++ for implementing and optimizing complex algorithms.
+- Worked with TensorFlow for developing and deploying machine learning models.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Mentor, Tech Diversity Program
+- Captain, Basketball Team
+
+Hobbies:
+- Playing the trumpet
+- Participating in hackathons to explore new technologies and promote diversity
+- Exploring different cultures through literature and travel
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate)
+
+Note: The resume above is fictional and created for the character in a novel. The character's experiences, skills, and attributes have been tailored to suit the storyline.

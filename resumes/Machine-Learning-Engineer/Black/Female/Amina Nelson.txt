@@ -1,0 +1,43 @@
+Amina Nelson
+
+Personal Statement:
+A passionate and detail-oriented machine learning engineer, I am committed to pushing the boundaries of technology and driving significant advancement in the field of machine learning. As a black female professional hailing from Philadelphia, Pennsylvania, I am dedicated to bringing diversity and breaking down barriers in the tech industry. With a solid background in computer science, I aim to utilize my deep learning expertise to develop innovative solutions that positively impact society.
+
+Education:
+Bachelor of Science in Computer Science
+Philadelphia Institute of Technology, Philadelphia, Pennsylvania
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Stellar AI Solutions, Philadelphia, PA [Dates]
+- Developed state-of-the-art deep learning models, leading to a significant improvement of 25% in accuracy.
+- Fostered effective communication and collaboration with cross-functional teams to ensure alignment of project objectives.
+- Applied Python and PyTorch to implement and refine deep neural net research.
+- Demonstrated agility and problem-solving skills in overcoming complex technical challenges.
+
+Data Analyst, TechnoWizardry, Philadelphia, PA [Dates]
+- Conducted comprehensive statistical analysis, providing valuable insights for data-driven decision-making processes.
+- Created efficient C++ programs for streamlined data handling and processing, resulting in a remarkable 30% reduction in processing time.
+- Utilized TensorFlow for model training and deployment in real-time applications.
+- Excelled as a team player, consistently delivering high-quality results.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Black Girls Code Mentor: Guided and empowered young black girls to excel in coding and build confidence in their technical abilities.
+- Sports Leadership Role: Led a girls' basketball team, fostering teamwork and instilling a sense of empowerment for young female athletes.
+
+Hobbies:
+- Playing the violin, showcasing my artistic and musical abilities.
+- Engaging in community outreach programs that promote diversity and equality in the technology industry.
+- Exploring cultural diversity through travel and embracing different perspectives.
+
+Languages:
+- English (Fluent)
+- French (Conversational)
+
+References available upon request.

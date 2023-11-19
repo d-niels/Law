@@ -1,0 +1,40 @@
+Abhinav Zaidi
+
+Personal Statement:
+Dedicated and detail-oriented machine learning engineer with a passion for solving complex problems through innovative approaches. Skilled in developing and deploying machine learning models using Python, TensorFlow, and PyTorch. Strong team player and effective communicator with a deep understanding of statistical analysis and problem-solving techniques. Seeking a challenging role as a machine learning engineer to apply my expertise and contribute to cutting-edge projects.
+
+Education:
+Bachelor of Science in Computer Science
+Unique University, New York, NY
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer | Innovate AI Solutions, New York, NY
+- Developed and deployed machine learning models for analyzing big data.
+- Utilized Python, TensorFlow, and C++ for model training and deployment.
+- Expert in data handling and processing to improve model accuracy and efficiency.
+- Collaborated effectively with cross-functional teams to meet project objectives.
+
+Data Analyst Intern | DataTech Corporation, New York, NY
+- Conducted statistical analysis and generated valuable insights from large datasets.
+- Demonstrated agility and problem-solving skills to overcome data-related challenges.
+- Communicated and collaborated with stakeholders to translate data into actionable recommendations.
+- Developed a deep understanding of deep neural network research and applied it to enhance data analysis using PyTorch.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnicity and Gender Awareness Campaign Volunteer | Unity Foundation, New York, NY
+- Collaborated with a team to promote diversity and inclusion across various communities.
+- Spearheaded a leadership role in basketball, advocating for gender equity in sports.
+- Empowered and guided young individuals from diverse backgrounds to participate and excel in basketball.
+
+Hobbies:
+Playing the guitar, basketball, exploring different cultures, learning new languages (fluent in English and Hindi)
+
+Languages:
+Fluent in English and Hindi.

@@ -1,0 +1,39 @@
+Personal Statement:
+I am a highly motivated and dedicated machine learning engineer with a passion for leveraging cutting-edge technologies to solve complex problems. With a strong background in computer science and a focus on deep learning, I am driven to contribute to the field of artificial intelligence. My goal is to utilize my skills and knowledge to develop innovative machine learning solutions that will make a meaningful impact in various industries.
+
+Education:
+Bachelor of Science in Computer Science
+Innovation University, Chicago, Illinois
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Visionary Technologies Inc., Chicago, Illinois
+- Developed advanced machine learning algorithms using TensorFlow and C++
+- Collaborated with cross-functional teams to ensure seamless integration of machine learning models into products
+- Applied deep learning techniques to enhance accuracy and efficiency of computer vision systems
+- Employed problem-solving skills and agility to overcome challenges and optimize model performance
+- Utilized Python for data preprocessing and analysis
+
+Data Scientist, Intellisystems Corporation, Chicago, Illinois
+- Implemented cutting-edge machine learning models using PyTorch for model training and deployment
+- Conducted statistical analysis on large datasets to uncover meaningful insights and trends
+- Effectively communicated and collaborated with stakeholders to align on project objectives and deliverables
+- Leveraged data handling and processing techniques to clean and transform raw data
+- Stayed up-to-date with the latest advancements in deep neural network research to incorporate innovative approaches into projects
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a Chinese male born and raised in Chicago, I actively participate in several community initiatives focused on promoting cultural exchange and celebrating diversity. I have volunteered with organizations such as The Cultural Connection, where I actively organize events to bridge gaps between different communities. Additionally, I am a proud leader in my local basketball league, where I serve as team captain, fostering teamwork and camaraderie among a diverse group of players.
+
+Hobbies:
+Outside of work, I enjoy playing the piano, immersing myself in different music genres, and exploring my creativity through artistic expression. Furthermore, I am an avid reader and enjoy staying updated with the latest advancements in the field of machine learning.
+
+Languages:
+English (Fluent), Mandarin Chinese (Native)
+
+References available upon request.

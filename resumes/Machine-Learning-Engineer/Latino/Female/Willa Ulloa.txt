@@ -1,0 +1,40 @@
+WILLA ULLOA
+
+Personal Statement:
+Highly motivated and detail-oriented machine learning engineer with a strong academic background in computer science. Eager to contribute advanced knowledge in deep learning and statistical analysis to develop innovative machine learning solutions. Committed to leveraging programming expertise and problem-solving skills to drive tangible results. Passionate about leveraging diversity and cultural insights to drive positive change in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, American University, El Paso, Texas (GPA: 3.9/4.0)
+
+Work Experience:
+Machine Learning Engineer, Stellar Innovations, El Paso, Texas
+- Developed and implemented deep neural networks using PyTorch, leading to a 20% increase in accuracy.
+- Conducted thorough research on state-of-the-art deep learning techniques, providing valuable insights for designing innovative models.
+- Collaborated with multidisciplinary teams to refine models, ensuring seamless integration into the final product.
+- Demonstrated agility and problem-solving skills to handle complex data handling and processing challenges.
+
+Data Analyst, Quantum Analytics, El Paso, Texas
+- Conducted statistical analysis on large datasets, leading to data-driven insights utilized for decision-making purposes.
+- Trained and deployed machine learning models using TensorFlow and Python, resulting in a 30% reduction in prediction errors.
+- Collaborated and communicated effectively with cross-functional teams, ensuring the efficient execution of projects.
+- Utilized C++ for optimized data processing and retrieval.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino and Female Empowerment Advocate, El Paso Community Center
+- Organized and led workshops promoting STEM education and career opportunities for underrepresented groups, particularly Latina women.
+- Served as a mentor and provided guidance to aspiring Latino students pursuing computer science and machine learning.
+
+Sports Leadership, El Paso Soccer League
+- Led and coached a girls' soccer team, fostering leadership skills, teamwork, and resilience.
+
+Hobbies:
+Playing the guitar, Promoting cultural diversity and inclusivity in tech communities, Exploring different art forms and attending local art exhibitions.
+
+Languages:
+Fluent in English and Spanish, enabling effective communication and collaboration in diverse environments.

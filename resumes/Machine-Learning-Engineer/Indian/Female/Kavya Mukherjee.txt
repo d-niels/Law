@@ -1,0 +1,35 @@
+Personal Statement:
+As an accomplished machine learning engineer, I am passionate about harnessing the power of artificial intelligence to drive innovative solutions to real-world problems. With a strong educational background, extensive work experience, and a commitment to continuous learning, I strive to push the boundaries of technology and contribute to the advancement of society. As an Indian female from Los Angeles, California, I bring a unique perspective to the field, and I am determined to make a positive impact through my expertise.
+
+Education:
+Bachelor of Science in Computer Science, University of Southern California, Los Angeles, California - GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Innovitech Corporation, Los Angeles, California
+- Developed C++ algorithms to optimize data processing for deep neural net research.
+- Collaborated with a team to design and implement statistical analysis models.
+- Demonstrated agility and problem-solving skills by tackling complex machine learning challenges.
+- Efficiently handled and processed large volumes of data to train models effectively.
+
+Machine Learning Engineer, QuantumAI Labs, Los Angeles, California
+- Communicated and collaborated with cross-functional teams to develop and deploy machine learning models using PyTorch, TensorFlow, and Python.
+- Conducted research on deep learning algorithms and contributed to model training and deployment processes.
+- Utilized strong skills in communication and collaboration to drive successful project outcomes.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in tech organizations focused on promoting diversity and inclusion in the field. As an Indian female, I actively support and encourage underrepresented communities to pursue careers in technology.
+- Sports Leadership Role: Captain of a local basketball team, fostering teamwork and promoting sportsmanship among diverse players.
+
+Hobbies:
+- Playing the sitar, embracing my Indian heritage through music.
+- Exploring different cultures and traditions, expanding my global perspective.
+- Engaging in creative writing, expressing my thoughts and ideas through words.
+
+Languages:
+Fluent in English and Hindi.

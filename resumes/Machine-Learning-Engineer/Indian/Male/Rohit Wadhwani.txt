@@ -1,0 +1,52 @@
+Rohit Wadhwani
+Los Angeles, California
+Phone: (123) 456-7890
+Email: rohitwadhwani@example.com
+
+Objective:
+Result-driven and detail-oriented machine learning engineer with a strong academic foundation in computer science and expertise in deep learning algorithms. Skilled in Python, C++, and data handling techniques. Passionate about leveraging machine learning to solve complex problems and drive innovation. Seeking a challenging role as a Machine Learning Engineer to contribute to cutting-edge projects that advance the field.
+
+Education:
+Bachelor of Science in Computer Science
+University of Southern California, Los Angeles, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer
+Innovative AI Solutions, Los Angeles, CA
+January 2020 - Present
+- Collaborated with a cross-functional team to develop and deploy deep learning models using Python, C++, and TensorFlow.
+- Utilized statistical analysis to extract insights from large datasets and improve model performance.
+- Communicated effectively with team members and stakeholders to understand project requirements and ensure successful project delivery.
+- Stood as a problem-solver, identifying and resolving complex issues related to model training and deployment.
+
+Junior Machine Learning Engineer
+Quantum Robotics, Los Angeles, CA
+May 2018 - December 2019
+- Assisted in research and development of deep neural network models in PyTorch.
+- Participated in model training and deployment processes, optimizing algorithms to enhance performance and accuracy.
+- Conducted comprehensive statistical analysis of model outputs, identifying areas for improvement and implementing necessary adjustments.
+- Collaborated closely with senior engineers to understand and utilize state-of-the-art deep learning research to drive innovation in the field.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate
+Technology Association of Los Angeles, Los Angeles, CA
+- Actively promoted diversity and inclusion in the tech industry, advocating for representation of all ethnicities and genders.
+- Organized and led workshops on deep learning for underrepresented communities in collaboration with local universities.
+- Served as a key leader and coach for a youth basketball team, fostering teamwork and sportsmanship.
+
+Hobbies:
+- Playing the guitar
+- Embracing cultural diversity through travel and exploration
+- Promoting gender equality through volunteering at women empowerment organizations
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Spanish (Basic conversational)

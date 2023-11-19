@@ -1,0 +1,42 @@
+Treyvon Quinlan
+Baltimore, Maryland | (555) 123-4567 | treyvonquinlan@email.com
+
+Personal Statement:
+Ambitious and dedicated machine learning engineer with a passion for advancing AI technology. Experienced in statistical analysis and deep neural net research, with a strong background in programming languages and problem-solving. Committed to leveraging my skills and knowledge to drive innovative solutions in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, Ravenscroft University, Baltimore, Maryland
+- Graduated Magna Cum Laude with a GPA of 3.9
+- Relevant coursework: Machine Learning, Artificial Intelligence, Algorithms, Data Structures
+
+Work Experience:
+Machine Learning Engineer, InnoVerse AI Solutions, Baltimore, Maryland
+- Utilized statistical analysis to analyze and interpret complex data sets, providing valuable insights for optimizing machine learning models.
+- Demonstrated agility and problem-solving skills in adapting models to changing requirements and evolving research in deep neural networks.
+- Collaborated within a cross-functional team, utilizing C++ and PyTorch to develop and deploy machine learning models.
+- Played a pivotal role in ensuring effective communication and teamwork to deliver high-quality results efficiently.
+
+Data Scientist, DataOptimo Tech, Baltimore, Maryland
+- Employed TensorFlow for model training and deployment to enhance the accuracy and efficiency of deep learning algorithms.
+- Demonstrated expertise in data handling and processing, ensuring the accuracy and reliability of large datasets.
+- Utilized Python and various libraries to implement cutting-edge machine learning techniques.
+- Leveraged strong communication and collaboration skills to effectively work within multidisciplinary teams.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate, Ravenscroft University
+- Served as a proactive advocate for diversity and inclusion, encouraging representation and empowerment of underrepresented minorities in the computer science field.
+- Organized and led leadership coaching sessions for young Black athletes in track and field, fostering their growth and development.
+
+Hobbies:
+- Playing the saxophone
+- Exploring Afro-Caribbean dance and music
+- Reading African-American literature
+
+Languages:
+Fluent in English and conversational proficiency in French

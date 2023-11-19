@@ -1,0 +1,42 @@
+Personal Statement:
+I am a highly motivated and passionate machine learning engineer with a strong background in computer science. I have a bachelor's degree in Computer Science from the University of California, Santa Clara, where I achieved a 3.9 GPA. I am dedicated to leveraging my skills and expertise in machine learning to contribute to cutting-edge projects and drive innovation in the field. With meticulous attention to detail and a collaborative mindset, I am determined to push the boundaries of artificial intelligence and solve complex problems.
+
+Education:
+Bachelor of Science in Computer Science - University of California, Santa Clara. 3.9 GPA.
+
+Work Experience:
+Machine Learning Engineer - IntelliTech Solutions, San Jose, California
+- Conducted model training and deployment using PyTorch and TensorFlow frameworks.
+- Collaborated within a cross-functional team to develop and optimize deep learning algorithms.
+- Demonstrated agility and problem-solving skills in handling complex machine learning tasks.
+- Actively participated in team discussions to enhance model performance.
+- Implemented cutting-edge techniques in deep neural network research.
+
+Software Developer - DataTech Innovations, Palo Alto, California
+- Utilized Python and C++ to handle and process large datasets efficiently.
+- Conducted statistical analysis to extract meaningful insights and make data-driven decisions.
+- Communicated and collaborated effectively with cross-functional teams.
+- Contributed to enhancing the efficiency and accuracy of data handling processes.
+- Demonstrated strong problem-solving skills and attention to detail.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer Tutor - Minds Matter, San Jose, California
+- Assisted underrepresented high school students in computer science and math.
+- Encouraged and inspired diversity in STEM fields.
+- Mentored and provided guidance to foster their understanding of machine learning concepts.
+- Organized and led soccer coaching sessions, emphasizing teamwork and communication.
+
+Hobbies:
+- Playing the piano.
+- Exploring different cultures and traditions through travel.
+- Participating in female-led coding workshops to promote gender diversity in technology.
+
+Languages: Fluent in English and Spanish.
+
+References available upon request.

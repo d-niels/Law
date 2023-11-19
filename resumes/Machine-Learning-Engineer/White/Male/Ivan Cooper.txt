@@ -1,0 +1,35 @@
+Personal Statement:
+I am a driven and innovative machine learning engineer committed to pushing the boundaries of artificial intelligence. With a strong background in computer science and a keen eye for detail, I strive to leverage data-driven insights to address complex problems. My goal is to develop cutting-edge machine learning solutions that revolutionize industries and make a positive impact on society.
+
+Education:
+Bachelor of Science in Computer Science, Phoenix University, Phoenix, Arizona
+- Graduation: May 20XX
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, StellarTech Solutions, Phoenix, AZ
+- Developed Python-based algorithms for efficient data handling, processing, and analysis, optimizing decision-making processes and boosting accuracy.
+- Utilized C++ to create statistical analysis tools, revealing valuable patterns and trends in large datasets.
+- Demonstrated strong teamwork skills by collaborating effectively with cross-functional teams to build machine learning models using PyTorch, resulting in enhanced predictive accuracy.
+
+Machine Learning Engineer Intern, QuantumAI Innovation, Phoenix, AZ
+- Trained and deployed state-of-the-art machine learning models, contributing to the development and successful deployment of cutting-edge software solutions.
+- Excellent communication and collaboration skills were utilized while working closely with a multidisciplinary team to fine-tune and optimize model performance.
+- Excelled in problem-solving and demonstrated agility by adapting quickly to evolving project requirements, effectively overcoming challenges during model development.
+- Gained extensive experience and knowledge in deep neural net research and hands-on usage of TensorFlow.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white male, I actively promote diversity and inclusivity within the machine learning field. I volunteer with organizations that encourage underrepresented individuals to pursue careers in technology, with a particular focus on empowering women and people of color. Additionally, I serve as a sports team leader in basketball, fostering teamwork and mentorship among my teammates.
+
+Hobbies:
+In my leisure time, I enjoy playing the guitar, immersing myself in different musical genres, and even composing my own music. I find that nurturing my creative side complements my technical skills and brings balance to my life. I also actively participate in cultural events and activities that celebrate ethnic and gender diversity.
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)

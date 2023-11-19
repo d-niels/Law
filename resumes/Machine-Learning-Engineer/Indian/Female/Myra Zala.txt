@@ -1,0 +1,43 @@
+Myra Zala
+
+Personal Statement:
+A highly motivated and talented Indian female from San Francisco, California, with a strong passion for machine learning. I am a dedicated and detail-oriented professional seeking a position as a machine learning engineer, where I can utilize my expertise in deep learning, programming, and problem-solving to drive innovation and make a positive impact in the field.
+
+Education:
+Bachelor of Science in Computer Science - Golden Valley University, San Francisco, California, USA
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer - Stellar Dynamics, San Francisco, CA (2018-2020)
+- Conducted innovative deep neural net research, contributing to groundbreaking projects
+- Applied deep learning techniques for model training and deployment
+- Excelled in communication and collaborated effectively with cross-functional teams
+- Proficient in PyTorch and TensorFlow for implementing advanced machine learning models
+- Ensured successful project outcomes in a fast-paced and dynamic work environment
+
+Data Analyst - Insight Insights, San Francisco, CA (2017-2018)
+- Excelled in handling and processing large-scale datasets to extract valuable insights
+- Demonstrated a team player mentality, effectively collaborating to achieve project objectives
+- Proven agility and problem-solving abilities in overcoming data-related challenges
+- Expertise in C++, Python, and statistical analysis for data interpretation
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively promote diversity and inclusion within the tech industry, advocating for ethnicity and gender equality
+- Served as a leader for an amateur soccer team, driving the team towards success through effective coordination and leadership
+
+Hobbies:
+- Playing the violin
+- Engaging in activities that celebrate and promote diversity, ethnicity, and gender equality
+- Exploring different cultures through travel and cultural events
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+
+References available upon request.

@@ -1,0 +1,38 @@
+Sanika Verma
+
+Personal Statement:
+Highly motivated and passionate machine learning engineer with a strong background in computer science. Dedicated to applying advanced algorithms and techniques to develop innovative solutions. Skilled in deep learning, statistical analysis, and model training and deployment. With a solid understanding of research in deep neural networks, I strive to deliver actionable insights and drive effective decision-making processes. Committed to collaborating with cross-functional teams to design and implement cutting-edge machine learning systems.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Texas A&M University, College Station, TX
+
+Work Experience:
+Machine Learning Engineer, DataTech Solutions, Houston, TX
+- Utilized TensorFlow, PyTorch, and C++ to develop machine learning models for analyzing financial data
+- Conducted statistical analysis to identify patterns and trends in large datasets
+- Assisted in deep neural net research and successfully implemented findings into practical solutions
+- Expertly handled and processed complex and sensitive data
+
+Machine Learning Engineer, IntelliSoft Corporation, Houston, TX
+- Demonstrated excellent teamwork skills to collaborate on machine learning projects in the healthcare industry
+- Developed and implemented models using Python and deep learning techniques to enhance medical imaging analysis
+- Successfully trained and deployed machine learning models for improving diagnosis accuracy
+- Effectively communicated and collaborated with cross-functional teams in agile work environments
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As an Indian female from Houston, Texas, I am actively involved in promoting diversity and inclusion. I serve as a mentor for underrepresented students at local high schools, supporting them in pursuing careers in STEM fields. Additionally, I hold a leadership role as the captain of a competitive basketball team, where I promote gender equality and teamwork among the players while fostering a positive sports environment.
+
+Hobbies:
+In my free time, I enjoy playing the violin, an instrument that allows me to express my creativity and find solace. I actively engage in advocating for gender equality and cultural diversity by participating in various events that celebrate different ethnicities and highlight the experiences of women. By immersing myself in diverse cultures, I explore various cuisines, art forms, and traditions.
+
+Languages:
+English (Fluent), Hindi (Fluent), Spanish (Proficient)
+
+LinkedIn: www.linkedin.com/in/sanikaverma

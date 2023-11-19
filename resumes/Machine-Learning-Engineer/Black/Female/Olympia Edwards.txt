@@ -1,0 +1,44 @@
+Olympia Edwards
+
+Personal Statement:
+I am a highly motivated and passionate machine learning engineer, dedicated to utilizing my technical skills to develop innovative solutions. As a black female, I am committed to promoting diversity and inclusion in the tech industry. With a strong academic background in computer science and expertise in various programming languages, I am eager to contribute my skills and drive advancements in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science
+University of California, Los Angeles, CA
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer | StellarSoft, Washington AI
+- Collaborated in a team environment, applying C++ skills to develop machine learning models.
+- Utilized deep learning techniques for model training and deployment.
+- Demonstrated a deep understanding of deep neural net research and its application to practical problems.
+- Conducted statistical analysis to evaluate the performance and effectiveness of implemented models.
+
+Software Engineer | QuantumTech, Washington D.C.
+- Developed Python-based solutions with agility and problem-solving mindset.
+- Utilized PyTorch and TensorFlow frameworks for machine learning implementation.
+- Demonstrated excellent communication and collaboration skills while working with cross-functional teams in software development projects.
+- Efficiently handled and processed large volumes of data to extract meaningful insights.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry, specifically through mentoring and providing support to underrepresented individuals.
+- Served as a team captain and leader in basketball, inspiring and empowering teammates to reach their full potential.
+- Advocate for the advancement of women and people of color in STEM fields.
+
+Hobbies:
+- Playing the piano, adding a touch of creativity and relaxation to my daily routine.
+- Exploring different cultures and traditions, deepening my understanding and appreciation for diversity.
+- Engaging in community service initiatives, demonstrating my commitment to giving back.
+
+Languages:
+- English (Fluent)
+- French (Proficient)
+
+References available upon request.

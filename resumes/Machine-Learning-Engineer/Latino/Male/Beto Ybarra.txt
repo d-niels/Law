@@ -1,0 +1,45 @@
+Beto Ybarra
+Phoenix, Arizona | (123) 456-7890 | betoybarra@email.com
+
+Personal Statement:
+Passionate and dedicated machine learning engineer with a strong background in computer science seeking a challenging role to leverage my expertise in PyTorch, TensorFlow, and deep neural net research. Committed to driving innovation and developing cutting-edge machine learning solutions. As a proud Latino male, I am driven to foster diversity and inclusion in the tech industry while contributing to groundbreaking advancements. I am also deeply engaged in my community, serving as a sports leader in local youth programs.
+
+Education:
+Bachelor of Science in Computer Science, Phoenix University, Phoenix, Arizona (Year)
+- GPA: 3.9/4.0
+
+Work Experience:
+Machine Intelligence Engineer, QuantumTechnologies, Phoenix, Arizona (Year - Year)
+- Developed robust machine learning models using PyTorch for enhanced performance and accuracy.
+- Leveraged deep learning techniques to analyze and interpret large datasets, resulting in actionable insights.
+- Collaborated effectively with cross-functional teams, demonstrating strong communication and collaboration skills.
+- Conducted comprehensive statistical analysis on models, optimizing model training and deployment processes.
+
+Data Engineer, Cipher Solutions, Phoenix, Arizona (Year - Year)
+- Utilized TensorFlow to design and implement cutting-edge deep neural networks for advanced data analysis and visualization.
+- Conducted extensive research on deep neural net algorithms, effectively applying the findings in Python.
+- Proficient in C++ for agile problem-solving and efficient data handling and processing.
+- Demonstrated exceptional collaboration as a team player, consistently delivering high-quality solutions.
+- Developed and maintained clean, efficient, and scalable codebases.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Member, Latino Technical Association, Phoenix University, Phoenix, Arizona (Year - Year)
+- Proactively promoted diversity and inclusion in the tech industry, organizing community initiatives and events.
+- Led a sports leadership role, mentoring and coaching local youth in basketball, fostering teamwork and personal growth.
+- Engaged in fundraising efforts to provide scholarships and resources for underrepresented groups.
+
+Hobbies:
+- Playing the guitar and composing music
+- Engaging in soccer tournaments and organizing community sports events
+- Participating in community service initiatives, such as clean-up drives and mentoring programs for aspiring technologists
+
+Languages:
+- Fluent in English and Spanish
+
+References available upon request.

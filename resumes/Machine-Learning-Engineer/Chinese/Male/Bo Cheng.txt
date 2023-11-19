@@ -1,0 +1,41 @@
+Personal Statement:
+I am a driven and innovative Machine Learning Engineer with a strong desire to make a significant impact in the field of artificial intelligence. As a Chinese male hailing from the vibrant city of Honolulu, Hawaii, I bring a unique perspective and diverse background to my work. With a Bachelor's degree in Computer Science and a keen interest in machine learning, I possess the technical skills and determination to develop cutting-edge solutions. My passion for problem-solving, along with my ability to effectively collaborate with teams, sets me apart as a valuable asset in the ever-evolving world of AI.
+
+Education:
+Bachelor of Science in Computer Science, Pacific Technology University, Honolulu, Hawaii
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Machine Learning Engineer, Aurora Robotics, Honolulu, Hawaii
+- Developed and implemented state-of-the-art machine learning algorithms for various robotic applications
+- Conducted model training and deployment using TensorFlow and PyTorch frameworks
+- Stayed abreast of the latest advancements in deep neural net research to optimize project outcomes
+- Utilized Python and C++ for efficient data processing and analysis
+
+Data Analyst, Quantum Insights, Honolulu, Hawaii
+- Collaborated closely with multidisciplinary teams to handle and process large datasets
+- Employed deep learning techniques to derive valuable insights for predictive analytics
+- Enhanced communication and collaboration within the team, resulting in streamlined workflows
+- Conducted comprehensive statistical analysis to identify patterns and trends in complex data sets
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Elected as the President of the Chinese American Association, actively promoting cultural diversity and organizing events to honor Chinese heritage
+- Sports Leadership role as the captain of a basketball team, fostering teamwork, discipline, and sportsmanship
+
+Hobbies:
+- Playing the guzheng, a traditional Chinese string instrument
+- Exploring diverse cuisines and creating fusion recipes that blend traditional Chinese flavors with modern techniques
+- Engaging in community service activities, specifically mentoring underprivileged youth to inspire future leaders
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References:
+Available upon request.

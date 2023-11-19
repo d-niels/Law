@@ -1,0 +1,39 @@
+Pihu Bose
+
+Personal Statement:
+Highly motivated and detail-oriented machine learning engineer with a passion for leveraging artificial intelligence to solve complex problems. With a strong background in computer science and a deep understanding of statistical analysis and deep learning, I am committed to developing innovative solutions that deliver impactful results. I thrive in collaborative environments and possess exceptional problem-solving skills, enabling me to contribute effectively to projects. As an Indian female in the field, I am driven to drive diversity and inclusivity in STEM industries. 
+
+Education:
+Bachelor of Science in Computer Science, Sunset University, Los Angeles, California
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Stellar Technologies, Los Angeles, California
+- Conducted statistical analysis and implemented communication and collaboration strategies to successfully develop machine learning models.
+- Utilized Deep Learning techniques and PyTorch framework for model training and deployment.
+- Demonstrated agility and problem-solving abilities to tackle complex challenges effectively.
+
+Data Analyst, Quantum Labs Inc., Los Angeles, California
+- Developed and maintained applications using Python and C++ to understand deep neural net research and assist in data handling and processing.
+- Actively contributed as a team player, collaborating with cross-functional teams on various data-driven projects.
+- Utilized TensorFlow to enhance the overall performance of machine learning models.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusivity in STEM fields as an Indian female machine learning engineer.
+- Served as a leader in field hockey, organizing and leading teams in various tournaments to foster teamwork and healthy competition.
+
+Hobbies:
+- Playing the piano
+- Exploring different cultures and traditions
+- Promoting gender equality and diversity in tech industries through advocacy and mentorship programs.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Regional Indian Languages (Proficient)

@@ -1,0 +1,46 @@
+Quique Bautista
+Address: San Antonio, Texas | Phone: (XXX) XXX-XXXX | Email: quiquebautista@email.com
+
+Personal Statement:
+Passionate and driven Machine Learning Engineer with a strong background in leveraging data and cutting-edge algorithms to drive innovative solutions. Committed to utilizing technology to bring about positive change. Dedicated team player with exceptional communication and collaboration skills.
+
+Education:
+Bachelor of Science in Computer Science, San Antonio State University, San Antonio, Texas
+GPA: 3.9/4.0
+Relevant coursework: Machine Learning, Artificial Intelligence, Data Structures, Algorithms
+
+Work Experience:
+Machine Learning Engineer, Innovativa Technologies, San Antonio, Texas
+- Developed efficient data handling and processing workflows to extract valuable insights from large datasets.
+- Demonstrated agility and problem-solving skills, adapting models to meet evolving project requirements.
+- Collaborated closely with cross-functional teams to seamlessly integrate machine learning models into existing systems.
+- Utilized PyTorch for model training and deployment.
+
+Data Research Intern, Visionary Labs, San Antonio, Texas
+- Acquired in-depth knowledge of deep neural net research and contributed to the development of innovative algorithms.
+- Implemented deep learning models for image recognition tasks using Python and TensorFlow.
+- Conducted statistical analysis to evaluate model performance and optimize hyperparameters.
+- Enhanced algorithm efficiency using C++.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role, Latino Sports Alliance, San Antonio, Texas
+- Led a diverse team of athletes, fostering an inclusive and supportive environment for all members.
+- Organized and managed sporting events, promoting active participation and teamwork among Latino students.
+- Acted as a mentor and role model, encouraging dedication and perseverance through sport.
+
+Hobbies:
+- Playing the guitar and composing music
+- Exploring various cultures through travel and photography
+- Advocating for diversity and inclusion in the tech industry
+
+Languages:
+- English (Fluent)
+- Spanish (Native Speaker)
+
+References: Available upon request

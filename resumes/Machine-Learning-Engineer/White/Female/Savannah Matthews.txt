@@ -1,0 +1,33 @@
+Personal Statement:
+A highly motivated and results-oriented machine learning engineer, I am dedicated to utilizing cutting-edge technologies and innovative solutions to drive advancements in the field of machine learning. With a strong educational background in computer science and a passion for problem-solving, I am adept at understanding complex algorithms and developing efficient models. Additionally, my commitment to diversity and inclusion drives my desire to contribute to a more equitable and inclusive technology industry. As a white female from Houston, Texas, I am proud to forge a path in an industry that values diversity and offers opportunities for all.
+
+Education:
+Bachelor of Science in Computer Science, Texas Tech University, Lubbock, Texas (GPA: 3.9)
+
+Work Experience:
+Machine Learning Engineer, QuantumTech Solutions, Houston, Texas
+- Developed and implemented deep learning models using Python, enabling enhanced automation and accuracy in data analysis tasks.
+- Employed agility and problem-solving skills to adapt machine learning algorithms to evolving business requirements quickly.
+- Collaborated with cross-functional teams, effectively communicating complex concepts and leveraging team synergy to deliver optimal solutions.
+- Demonstrated a strong understanding of deep neural net research, staying up-to-date with the latest advancements in the field.
+- Proven track record of being a team player, supporting colleagues and collaborating on various machine learning projects.
+
+Data Analyst, Stellar Insights, Houston, Texas
+- Conducted statistical analysis using tools such as PyTorch, TensorFlow, and C++, ensuring accurate interpretation and presentation of data.
+- Developed and deployed models for analyzing and predicting trends, employing model training and deployment techniques.
+- Handled and processed large datasets efficiently, ensuring data integrity and optimizing performance in data-driven applications.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role (Basketball Team Captain) - Fostered an inclusive and supportive team environment, motivating teammates and promoting gender equality within athletics. Actively participated in community initiatives aimed at promoting diversity in sports.
+
+Hobbies:
+Playing the piano, exploring diverse cultures through travel, promoting gender equality and inclusion in STEM fields.
+
+Languages:
+Fluent in English and Spanish.

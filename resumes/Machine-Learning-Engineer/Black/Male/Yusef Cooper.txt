@@ -1,0 +1,42 @@
+Yusef Cooper
+
+Personal Statement:
+An ambitious and passionate machine learning engineer with a strong background in computer science. Committed to leveraging my skills and knowledge in machine learning to drive innovation and solve complex technical challenges. Dedicated to promoting diversity and inclusivity in the field by leveraging my unique perspective as a black male. Seeking a challenging role as a machine learning engineer to contribute to cutting-edge research and development.
+
+Education:
+Bachelor of Science in Computer Science - Magna Cum Laude
+Tennessee Tech University, Memphis, Tennessee
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer Intern - Phoenix Dynamics, Memphis, Tennessee       Date - Present
+- Collaborated in a team environment to develop and implement machine learning algorithms using C++, TensorFlow, and PyTorch
+- Participated in deep neural net research to enhance the performance and efficiency of models
+- Demonstrated exceptional communication and collaboration skills, effectively contributing to team objectives and project milestones
+
+Junior Machine Learning Engineer - Quantum Systems, Memphis, Tennessee       Date - Date
+- Successfully trained and deployed machine learning models while ensuring accurate data handling and processing
+- Utilized Python and statistical analysis to conduct in-depth examination of model outputs
+- Demonstrated agility and problem-solving skills by adapting quickly to changing project requirements and tight deadlines
+- Implemented deep learning techniques to improve the accuracy and robustness of models
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Basketball Team Captain, Memphis Youth Basketball League, Memphis, Tennessee
+- Led a team of talented young athletes, providing guidance, motivation, and fostering a strong team spirit
+- Organized practice sessions and coordinated team strategies to ensure optimal performance during games
+- Encouraged and supported the involvement of minorities and underserved communities, fostering equity and diversity
+
+Hobbies:
+- Playing the saxophone to explore and express the rich tones and melodies
+- Exploring diverse cultural and artistic experiences to broaden understanding and appreciation
+- Engaging in community initiatives and events that celebrate diversity and promote equality
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)

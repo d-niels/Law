@@ -1,0 +1,38 @@
+Personal Statement:
+Driven and innovative Machine Learning Engineer with a deep passion for artificial intelligence and its real-world applications. With a solid foundation in computer science, I am dedicated to leveraging my skills and knowledge to create groundbreaking solutions. Motivated by challenges, I am committed to continuous growth and achieving excellence in the field.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Jose, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Stellar Technologies, Palo Alto, CA
+- Developed and implemented advanced machine learning algorithms and models using TensorFlow and PyTorch, resulting in a significant increase in accuracy and efficiency.
+- Collaborated closely with a multidisciplinary team of data scientists and engineers to analyze large datasets and perform deep learning tasks using Python and C++.
+- Contributed to the development of innovative features and enhancements for machine learning systems, facilitating seamless model training and deployment.
+
+Data Analyst, Quantum Solutions, Mountain View, CA
+- Conducted comprehensive statistical analysis on diverse datasets, uncovering valuable insights and patterns to inform data-driven decision-making.
+- Worked closely with deep neural net researchers, effectively understanding, and implementing cutting-edge research to improve models and processes.
+- Streamlined data handling and processing workflows, driving significant improvements in efficiency and scalability.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Member, Asian-American Society, Silicon Valley University
+- Organized and led cultural events and workshops to celebrate Asian heritage and promote cross-cultural understanding.
+- Served as the captain of a competitive basketball team, fostering teamwork, discipline, and sportsmanship among teammates.
+
+Hobbies:
+- Playing the piano, channeling creativity and expression through music.
+- Exploring diverse cuisines and experimenting with cooking, embracing cultural diversity through taste and flavors.
+
+Languages:
+- English (Fluent)
+- Chinese (Mandarin) (Native)
+
+In this updated version, we have included a unique company name for each work experience to add more authenticity. The university name has also been changed to Silicon Valley University. Additionally, the volunteer and leadership section now includes Vivian Tan's involvement in an Asian-American Society and her leadership role as a basketball team captain. The hobbies section now includes an interest in exploring diverse cuisines and cooking, adding depth to Vivian Tan's character.

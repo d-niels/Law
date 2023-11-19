@@ -1,0 +1,40 @@
+Personal Statement:
+As a Chinese female hailing from Oakland, California, I bring a diverse perspective to the field of machine learning. With a burning passion for pushing the boundaries of technology, I aspire to contribute my skills and expertise as a Machine Learning Engineer. From problem-solving to collaboration, I thrive in dynamic environments, and I am eager to apply my knowledge to drive innovation in the industry.
+
+Education:
+Bachelor of Science in Computer Science, Golden State University, Oakland, California
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, NovaTech Solutions, Oakland, California
+- Developed advanced machine learning models utilizing C++, Python, and statistical analysis to enhance data analysis and prediction capabilities.
+- Collaborated with diverse teams to identify and address complex business challenges, showcasing effective communication and collaboration skills.
+- Leveraged agile methodologies to ensure swift project delivery and streamline development processes.
+- Conducted model training and seamless deployment, optimizing overall business operations and efficiency.
+
+Software Engineer Intern, IrisTech Innovations, Oakland, California
+- Worked alongside a talented development team to implement cutting-edge software solutions using TensorFlow, PyTorch, and deep learning algorithms.
+- Played a pivotal role in efficient data handling and processing, extracting meaningful insights from large datasets to enhance application performance.
+- Demonstrated exceptional teamwork skills, actively contributing to code reviews and collaborative problem-solving endeavors.
+- Stayed up-to-date with the latest advancements in deep neural network research to remain at the forefront of the ever-evolving field.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Chinese Community Outreach Volunteer, Oakland Chinese Cultural Exchange Organization
+- Organized and spearheaded community events, fostering cultural exchange and celebrating Chinese traditions amongst diverse communities.
+- Actively mentored Chinese youth, guiding them on career paths and educational opportunities, while promoting cultural diversity and inclusivity.
+- Showcased leadership skills as a team captain and coach in the game of volleyball, nurturing teamwork, discipline, and resilience.
+
+Hobbies:
+- Playing the violin instrument, harmonizing classical compositions with personal flair and emotion.
+- Showcasing Chinese culture through captivating martial arts performances at local cultural festivals.
+- Advocating for gender equality and diversity within the tech industry, actively participating in conferences and workshops that empower women in technology.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

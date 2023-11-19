@@ -1,0 +1,53 @@
+Personal Statement:
+As a passionate and driven machine learning engineer, I am committed to leveraging cutting-edge technology and my expertise in deep learning to solve complex problems. Coming from a diverse background as a black female hailing from Detroit, Michigan, I am driven by the desire to create equal opportunities for underrepresented minorities in the tech industry. With a strong foundation in computer science and a track record of success in programming, I am ready to utilize my skills and contribute to innovative solutions in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, University of Detroit, Detroit, Michigan
+- GPA: 3.9/4.0
+
+Work Experience:
+
+Machine Learning Engineer, CipherTech Solutions, Detroit, MI (May 2019-Present)
+- Python
+- Model Training and Deployment
+- Understanding Deep Neural Net Research
+- Deep Learning
+- PyTorch
+- C++
+
+Software Developer Intern, InnovixTech, Detroit, MI (June 2018-August 2018)
+- Team Player
+- TensorFlow
+- Statistical Analysis
+- Communication and Collaboration
+- Data Handling and Processing
+- Agility and Problem-Solving
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+1. Women in Tech Organization, University of Detroit, Detroit, MI (January 2018-Present)
+- Coordinated and led workshops to promote diversity and inclusion in the tech field
+- Mentored and provided support to minority students pursuing computer science degrees
+- Empowered women in tech through networking events and guest speaker series
+
+2. Basketball Coach, Detroit Youth Sports Program, Detroit, MI (August 2017-June 2018)
+- Organized and supervised basketball programs for underprivileged youth
+- Served as a positive role model, teaching teamwork, discipline, and perseverance
+- Spearheaded fundraising initiatives to ensure equal participation for all students
+
+Hobbies:
+- Playing the piano
+- Exploring diverse cultures through literature and music
+- Engaging in community service activities focused on social justice and racial equality
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate)
+
+References available upon request.

@@ -1,0 +1,47 @@
+Maria Zarate
+
+Personal Statement:
+Results-driven machine learning engineer with a strong background in computer science. Highly skilled in developing and deploying cutting-edge machine learning models. Dedicated to continuous learning and staying up-to-date with the latest advancements in AI and deep learning technologies. Committed to leveraging my expertise to drive innovation and create significant impact. As a Latina female, I bring diverse perspectives and a strong work ethic to contribute to a collaborative and inclusive work environment. A passionate and dedicated athlete, I also excel as a leader in [insert specific sport].
+
+Education:
+Bachelor of Science in Computer Science, ABC University, Houston, Texas
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Nexus Solutions, Houston, Texas
+- Developed and implemented machine learning algorithms using TensorFlow and Deep Learning methods to optimize data analysis processes.
+- Demonstrated agility and problem-solving skills to address complex challenges in data-driven decision making.
+- Collaborated with cross-functional teams to ensure seamless integration of machine learning models into existing systems and platforms.
+- Utilized Python programming language to develop efficient and scalable code.
+- Fostered effective communication and collaboration within the team to enhance productivity and achieve project milestones.
+
+Software Developer, Quantum Technologies, Houston, Texas
+- Conducted comprehensive model training and deployment using PyTorch to enhance data analysis capabilities.
+- Expertise in C++ programming language to optimize model performance and implement novel algorithms.
+- Actively engaged in understanding deep neural net research and incorporating novel concepts into existing frameworks.
+- Conducted statistical analysis on large datasets to extract meaningful insights and improve model accuracy.
+- Proficient in data handling and processing techniques to ensure data integrity and efficiency.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinas in Tech Organization, Houston, Texas - Treasurer and Program Coordinator
+- Empowered and mentored aspiring Latina professionals pursuing careers in the technology industry.
+- Organized and led workshops, seminars, and networking events to foster a supportive and inclusive community.
+- Promoted diversity and inclusion in tech spaces by highlighting the achievements of prominent Latina figures.
+- Demonstrated strong leadership skills as a captain of a competitive soccer team, fostering teamwork and facilitating effective communication.
+
+Hobbies:
+- Playing the violin
+- Reading and exploring the works of Latina authors
+- Participating in community theater
+
+Languages:
+- English (Fluent)
+- Spanish (Native proficiency)
+
+References available upon request.

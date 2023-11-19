@@ -1,0 +1,43 @@
+Shawn Stevens
+
+Personal Statement:
+Highly motivated and passionate machine learning engineer with a strong background in computer science. Dedicated to developing innovative solutions using artificial intelligence and deep learning techniques. Committed to driving the advancement of machine learning technologies to address complex business challenges. Seeking a position as a Machine Learning Engineer to leverage my skills and expertise in developing cutting-edge algorithms.
+
+Education:
+Bachelor of Science in Computer Science, Detroit State University - Detroit, Michigan (GPA: 3.9)
+Relevant Courses: Machine Learning, Algorithms, Data Structures, Artificial Intelligence, Database Systems
+
+Work Experience:
+1. Machine Learning Engineer Intern, TechOptima AI Solutions - Detroit, Michigan
+- Conducted research on deep neural nets, contributing to the understanding of their architecture and applications.
+- Collaborated with a cross-functional team to develop and deploy deep learning models using PyTorch and C++.
+- Assisted in training and fine-tuning models to achieve high accuracy levels and optimized performance.
+- Demonstrated agility and problem-solving skills to handle challenging machine learning problems.
+
+2. Data Analyst, DataTech Innovations - Detroit, Michigan
+- Utilized TensorFlow and Python for data handling, processing, and statistical analysis.
+- Worked closely with team members to communicate and collaborate on project requirements and deliverables.
+- Leveraged deep learning techniques to devise and implement advanced algorithms for data analysis.
+- Employed effective communication skills to present complex ideas and findings to both technical and non-technical stakeholders.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in the community as a mentor for underrepresented individuals pursuing careers in technology. Advocates for diversity and inclusion in the tech industry.
+- Demonstrated leadership skills as the captain of a high-performing basketball team, motivating and guiding team members to success.
+- Instrumentalist, proficient in playing the guitar, reflecting a creative and disciplined mindset.
+
+Hobbies:
+- Exploring diverse cultures and learning about their traditions and histories.
+- Engaging in outdoor activities, such as hiking and playing basketball, to promote physical fitness and teamwork.
+- Enjoying music from various genres, showcasing an appreciation for expressive arts.
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)
+
+References available upon request.

@@ -1,0 +1,44 @@
+Oishi Oommen
+Philadelphia, PA  |  (123) 456-7890  |  oishioommen@email.com
+
+Personal Statement:
+Motivated and innovative machine learning engineer with a deep passion for leveraging cutting-edge technologies to drive data-driven decision-making. Adept at developing and deploying machine learning models, optimizing algorithms, and solving complex business problems. Strong background in computer science, coupled with a keen eye for detail and exceptional analytical skills. Eager to contribute to a dynamic team in a machine learning engineer role.
+
+Education:
+Bachelor of Science in Computer Science, Liberty University, Philadelphia, PA
+GPA: 3.9/4.0 | Graduation: May 20XX
+
+Work Experience:
+Machine Learning Engineer, StellarAI Solutions, Philadelphia, PA (June 20XX - Present)
+- Utilized Deep Learning techniques to develop and optimize machine learning models.
+- Collaborated effectively with cross-functional teams to address challenges and accomplish project milestones.
+- Conducted statistical analysis on large datasets and handled data processing tasks.
+- Utilized C++ to enhance data handling and processing capabilities.
+- Demonstrated agility and problem-solving skills in a fast-paced, deadline-oriented environment.
+
+Research Assistant, AI Innovations Lab, Philadelphia, PA (August 20XX - May 20XX)
+- Developed machine learning models using TensorFlow and PyTorch for various research projects.
+- Led model training and deployment efforts, ensuring optimal performance and scalability.
+- Utilized Python for data manipulation, feature engineering, and model evaluation.
+- Demonstrated strong communication and collaboration skills while working with researchers to understand deep neural net research results.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Ethnicity and Gender: Actively involved in promoting diversity and inclusivity in the tech industry as an Indian female. Engaged in initiatives to support underrepresented minorities in STEM fields.
+- Sports Leadership: Served as a team captain in a local soccer league, demonstrating leadership and teamwork skills both on and off the field.
+
+Hobbies:
+- Ethnic and Gender Representation: Actively engage in promoting diversity and equality by advocating for representation in various industries and media.
+- Instrument: Play the violin, pursuing a passion for music and the arts.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Malayalam (Proficient)
+
+References available upon request.

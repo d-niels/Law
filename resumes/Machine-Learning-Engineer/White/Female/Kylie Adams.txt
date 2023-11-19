@@ -1,0 +1,45 @@
+Kylie Adams
+ 
+Austin, Texas | (555) 123-4567 | k.adams@email.com
+
+Personal Statement:
+Passionate and dedicated Machine Learning Engineer with a strong background in computer science. Committed to leveraging the power of machine learning algorithms to solve complex problems, drive innovation, and deliver meaningful business solutions. Collaborative and results-oriented, with a focus on incorporating diversity and inclusivity in all aspects of work to foster a positive and inclusive work environment.
+
+Education:
+Bachelor of Science in Computer Science, University of Texas at Austin, Austin, Texas
+- GPA: 3.9
+- Relevant Coursework: Machine Learning, Artificial Intelligence, Deep Learning, Data Structures and Algorithms
+
+Work Experience:
+Machine Learning Engineer, Stellar Innovations, Austin, Texas
+- Developed and optimized machine learning algorithms using Python and C++
+- Conducted deep neural network research, understanding breakthrough methodologies and integrating them into model training and deployment
+- Collaborated with cross-functional teams to analyze and interpret data, delivering valuable insights for strategic decision-making
+- Demonstrated effective communication and collaboration skills by presenting research findings to stakeholders
+
+Data Analyst Intern, Luminary Technologies, Austin, Texas
+- Demonstrated agility and problem-solving skills in data handling and processing, optimizing workflows to improve efficiency
+- Conducted statistical analysis to extract meaningful patterns and trends from complex datasets
+- Emphasized strong teamwork by actively contributing to collaborative projects and supporting team members
+- Utilized PyTorch and TensorFlow frameworks to develop machine learning models and solutions
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volleyball Team Captain, Austin Sports Club, Austin, Texas
+- Led a dedicated volleyball team, organizing practices, managing game strategies, and fostering team spirit and cooperation
+- Mentored and guided team members, promoting inclusivity and emphasizing the importance of diversity within the sports community
+
+Hobbies:
+- Playing the piano
+- Participating in competitive rock climbing events
+- Exploring diverse cultures through literature and traveling
+
+Languages:
+Fluent in English and Spanish
+
+References available upon request.

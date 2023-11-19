@@ -1,0 +1,40 @@
+Personal Statement:
+As a passionate and driven machine learning engineer, I am dedicated to harnessing the power of data and algorithms to drive innovation. With a strong background in computer science, I am well-equipped to excel in this field. As a Latino male from Albuquerque, New Mexico, I am committed to promoting diversity and utilizing technology to make a positive impact on our society.
+
+Education:
+Bachelor of Science in Computer Science
+University of New Southwest, Albuquerque, NM
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer
+Quantum AI Solutions, Albuquerque, NM
+- Developed cutting-edge machine learning models using PyTorch and TensorFlow, resulting in a 30% improvement in data processing efficiency.
+- Collaborated closely with a diverse team, fostering a culture of communication and collaboration to solve complex problems.
+- Demonstrated agility and problem-solving skills by adapting to evolving project requirements and tight deadlines.
+- Played a key role in data handling and processing, ensuring the accuracy and reliability of the models.
+
+Deep Learning Research Intern
+InnovaTech Labs, Santa Fe, NM
+- Contributed to expanding our understanding of deep neural net research by implementing innovative algorithms and exploring novel architectures.
+- Leveraged proficiency in C++ and Python to develop and optimize deep learning models for real-world applications.
+- Conducted comprehensive statistical analysis to evaluate model performance and identify areas for enhancement.
+- Led the training and deployment of deep learning models, optimizing model accuracy and overall research efficiency.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Youth Mentor, Latino Empowerment Society, Albuquerque, NM
+- Provided guidance and support to Latino youth in their educational and personal growth, fostering academic excellence and self-empowerment.
+- Served as a role model and advocate, encouraging diversity and representation in STEM fields.
+- Led a soccer leadership program, cultivating teamwork and character development among young athletes.
+
+Hobbies:
+Playing the guitar, celebrating diverse cultures through music and language, exploring various art forms that highlight different ethnic backgrounds.
+
+Languages:
+Fluent in English and Spanish.

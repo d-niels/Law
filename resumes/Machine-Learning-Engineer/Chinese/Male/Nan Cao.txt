@@ -1,0 +1,40 @@
+Personal Statement:
+As a Chinese male from vibrant New York City, I am thrilled to pursue the role of Machine Learning Engineer. With a burning passion for unraveling the complexities of machine learning, I bring a strong educational background in computer science paired with practical experience in developing cutting-edge models. I possess an agile mindset, constantly seeking innovative solutions and collaborating seamlessly with diverse teams to drive business success.
+
+Education:
+Bachelor of Science in Computer Science
+Gotham University, New York, NY
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer | Stellar Systems, Inc., New York, NY
+- Agility and Problem-Solving: Developed agile algorithms and models, addressing complex business challenges with precision.
+- Data Handling and Processing: Gathered, processed, and analyzed vast datasets, revolutionizing efficiency and accuracy.
+- TensorFlow, Python, C++: Leveraged these programming languages to implement and optimize state-of-the-art machine learning models.
+- Communication and Collaboration: Fostered seamless project execution through effective collaboration with data scientists, engineers, and stakeholders.
+
+Research Assistant | Quantum Research Labs, New York, NY
+- Statistical Analysis: Meticulously conducted statistical analysis on comprehensive datasets, extracting valuable patterns and insights.
+- Understanding Deep Neural Net Research: Stayed at the forefront of cutting-edge research in deep neural networks, staying steps ahead.
+- Model Training and Deployment: Cultivated expertise in developing and deploying high-performance machine learning models on PyTorch framework.
+- Team Player: Thrived within a team-oriented research environment, sharing insights and fostering a collaborative spirit.
+- Deep Learning: Applied advanced deep learning techniques to elevate model performance and precision.
+
+Skills:
+- Programming Languages: Proficient in C, Python, C++
+- Database Technologies: Expertise in SQL, NoSQL
+- Source Control: Proficient in Git
+- Problem-Solving: Showcased exceptional analytical skills and debugging expertise
+
+Volunteer & Leadership:
+- Embracing my Chinese heritage, I have actively contributed to the Chinese Cultural Association, orchestrating cultural events to celebrate diversity and promote unity.
+- Sports Leadership: As a mentor and captain of the university basketball team, I led my teammates to triumph both on and off the court, fostering camaraderie and sportsmanship.
+- Guzheng Player: Adept in playing the Guzheng, a traditional Chinese musical instrument, reflecting my appreciation for diverse art forms.
+
+Hobbies:
+- An avid reader, I indulge in exploring diverse narratives and staying abreast of groundbreaking machine learning technologies.
+- Traveling the world allows me to immerse myself in various cultures, savoring their history, and cherishing their art.
+- To maintain a balanced lifestyle, I relish outdoor pursuits like hiking and camping, embracing nature's embrace.
+
+Languages:
+Fluent in English and Mandarin Chinese.

@@ -1,0 +1,47 @@
+Isabella Ibarra
+
+Personal Statement:
+Dedicated and dynamic Machine Learning Engineer with a passion for leveraging cutting-edge technologies to develop innovative solutions. Strong analytical skills combined with a collaborative mindset facilitate effective problem-solving and create impactful outcomes. As a Latina female from Austin, Texas, I bring a unique perspective and diverse background that enhances my ability to excel in the field. Committed to continuous learning and growth, I am eager to contribute to groundbreaking advancements in machine learning technology.
+
+Education:
+Bachelor of Science in Computer Science, Austin Tech University, Austin, Texas
+- GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, InnovTech Solutions, Austin, Texas
+- C++: Developed efficient algorithms and implemented machine learning models utilizing C++ programming language.
+- Deep Learning: Leveraged deep neural networks for complex pattern recognition tasks, optimizing model performance.
+- Communication and Collaboration: Worked closely with cross-functional teams to gather requirements, communicate progress, and jointly solve challenges.
+- Understanding Deep Neural Net Research: Stayed up-to-date with the latest research in deep learning and incorporated new insights into projects.
+- Data Handling and Processing: Manipulated and processed large datasets to extract valuable information, ensuring accurate results.
+- Model Training and Deployment: Conducted extensive training and fine-tuning of models, deploying them into production environments.
+
+Machine Learning Engineer, DataTech Innovations, Austin, Texas
+- PyTorch: Developed cutting-edge deep learning models using PyTorch framework, achieving superior performance.
+- Statistical Analysis: Conducted statistical analysis on datasets to identify trends and extract meaningful insights.
+- Team Player: Collaborated effectively with teammates, contributing to a positive and productive team environment.
+- Agility and Problem-Solving: Demonstrated adaptability and quick problem-solving skills in a fast-paced, dynamic work environment.
+- TensorFlow: Successfully implemented machine learning models using the TensorFlow framework.
+- Python: Leveraged the Python programming language to develop efficient and scalable machine learning algorithms.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Social & Cultural Awareness Campaign, Austin Tech University, Austin, Texas
+- Engaged in various initiatives aimed at promoting diversity, inclusivity, and cultural understanding.
+- Sports Leadership Role: Served as the captain of the university's basketball team, fostering teamwork and guiding teammates towards success.
+
+Hobbies:
+- Music: Skilled pianist, proficient in classical and contemporary music.
+- Cultural Exploration: Enthusiastically exploring diverse cultures through literature and music, promoting cultural exchange and understanding.
+- Traveling: Embracing opportunities to explore new cities and countries, immersing myself in their rich traditions and heritage.
+
+Languages:
+- English (fluent)
+- Spanish (native proficiency)
+
+References available upon request.

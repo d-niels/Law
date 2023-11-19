@@ -1,0 +1,40 @@
+Raymond Daniels
+
+Personal Statement:
+Energetic and passionate machine learning engineer with a proven track record of developing innovative solutions using cutting-edge technologies. Committed to leveraging my expertise in deep learning and data processing to drive advancements in the field. Seeking a challenging role where I can apply my technical skills and collaborate with a diverse team to create groundbreaking machine learning models.
+
+Education:
+Bachelor of Science in Computer Science, Alpha University, Chicago, Illinois (GPA: 3.9/4.0)
+
+Work Experience:
+Machine Learning Engineer, Omega Innovations, Chicago, Illinois
+- Utilized PyTorch and TensorFlow to develop deep learning models for image recognition and natural language processing.
+- Collaborated with cross-functional teams to optimize model training and deployment processes.
+- Processed and handled large datasets for accurate model performance assessment.
+- Maintained effective communication to bridge gaps between technical and non-technical stakeholders.
+
+Research Assistant, Beta Labs, Chicago, Illinois
+- Conducted research on deep neural network architectures, contributing to a project on understanding complex data patterns.
+- Demonstrated agility and problem-solving skills to adapt to evolving research requirements.
+- Utilized C++ and Python to implement and evaluate novel algorithms.
+- Played a key role in a highly collaborative team, contributing to statistical analysis and research publication.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusivity in the tech industry as a member of the Black in Tech Association.
+- Served as a mentor and team leader for the Chicago Youth Basketball League, instilling values of teamwork, discipline, and perseverance.
+- Pursued expertise in playing the saxophone to explore artistic expression and cultural appreciation.
+
+Hobbies:
+- Exploring diverse musical genres
+- Engaging in outdoor activities
+- Immersing in literature and poetry
+
+Languages:
+- English (fluent)
+- Spanish (intermediate proficiency)

@@ -1,0 +1,39 @@
+Personal Statement:
+I am a dedicated and innovative machine learning engineer with a passion for utilizing cutting-edge technologies to solve complex problems. As a Chinese female from New York, with a strong background in computer science, I bring a unique perspective and a commitment to diversity and inclusion in the tech industry. With a knack for problem-solving and a drive for collaboration, I am ready to contribute my skills and expertise to a team focused on advancing machine learning capabilities.
+
+Education:
+Bachelor of Science in Computer Science
+Techscape Institute of Technology, New York, New York
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer | QuantumAI, New York, NY | January 2019 - Present
+- Developed and implemented machine learning models using TensorFlow, Python, and conducted extensive research on deep neural networks to enhance efficiency and accuracy.
+- Utilized statistical analysis techniques to identify patterns and optimize model performance, contributing to significant improvements in prediction accuracy.
+- Collaborated with cross-functional teams to solve complex problems with agility and adaptability, ensuring seamless integration of machine learning capabilities into existing systems.
+- Incorporated deep learning methodologies, such as Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), and Generative Adversarial Networks (GAN), to further automate processes and improve model performance.
+
+Software Engineer Intern | QuantumDynamics, New York, NY | May 2018 - August 2018
+- Contributed to model training and deployment using PyTorch and C++, ensuring efficient and seamless integration of models into the production environment.
+- Fostered effective communication and collaboration within the team, actively participating in agile development processes and ensuring timely delivery of project milestones.
+- Demonstrated strong data handling and processing skills to efficiently manage and analyze large volumes of data, contributing to data-driven decision-making processes.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively advocated for diversity and inclusion within the tech industry, promoting equal opportunities for individuals from all backgrounds.
+- Held a leadership role in the community, leading a women's basketball team and organizing tournaments to empower women in sports and foster gender equality.
+- Engaged in various community initiatives, mentoring young girls from underrepresented backgrounds to encourage their pursuit of careers in STEM fields.
+
+Hobbies:
+- Playing the piano to express my creativity and immerse myself in the beauty of music.
+- Engaging in yoga and meditation to maintain a balanced and healthy lifestyle.
+- Exploring different cultures through literature and travel, broadening my understanding of the world and promoting cross-cultural appreciation.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

@@ -1,0 +1,37 @@
+Personal Statement:
+As a driven and innovative machine learning engineer, I am dedicated to leveraging my strong analytical skills and deep knowledge of computer science to develop groundbreaking solutions. With a solid foundation in statistical analysis and a passion for applying machine learning algorithms in real-world scenarios, I am committed to designing and implementing cutting-edge models that have a positive impact on society. My diverse background in programming languages, along with my collaborative mindset, empowers me to excel in challenging and dynamic work environments.
+
+Education:
+Bachelor of Science in Computer Science, University of Houston, Houston, Texas
+- GPA: 3.9
+
+Work Experience:
+
+Machine Learning Engineer, Stellar AI Technologies, Houston, Texas
+- Conducted statistical analysis and implemented C++ algorithms to optimize model performance.
+- Utilized deep learning techniques and TensorFlow to develop advanced machine learning models.
+- Collaborated effectively with cross-functional teams to ensure seamless model training and deployment.
+
+Machine Learning Engineer Intern, TechnoSolutions Inc., Houston, Texas
+- Demonstrated exceptional communication and collaboration skills to work alongside senior engineers on problem-solving initiatives.
+- Developed efficient Python scripts to handle and process large datasets, contributing to improved data processing capabilities.
+- Acquired in-depth knowledge of deep neural net research and utilized PyTorch to build and enhance machine learning models.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member and treasurer of the Indian Cultural Society, organizing events to celebrate and promote Indian culture within the university community.
+- Sports Leadership Role: Led the university's women's soccer team as the captain, fostering teamwork, discipline, and motivation to achieve team goals.
+
+Hobbies:
+- Playing the Sitar, a traditional Indian string instrument, showcasing my appreciation for music and cultural heritage.
+- Engaging in photography, capturing diverse landscapes and cultures from around the world through my lens.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Kannada (Fluent)

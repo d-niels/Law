@@ -1,0 +1,38 @@
+Personal Statement:
+I am a highly motivated and dedicated machine learning engineer with a deep passion for exploring the intersections of computer science and artificial intelligence. With a focus on data analytics and innovative problem-solving, I possess a strong drive to push the boundaries of technology and contribute to cutting-edge developments in the field. My collaborative spirit, coupled with my analytical mindset, allows me to excel in team environments while delivering exceptional results. As someone committed to fostering diversity and inclusion within the industry, I aim to make a meaningful impact through my work as a machine learning engineer.
+
+Education:
+Bachelor of Science in Computer Science,
+Sonoran University, Phoenix, Arizona
+GPA: 3.9
+
+Work Experience:
+1. Machine Learning Engineer Intern,
+TechScale Innovations, Phoenix, Arizona
+- Developed advanced machine learning algorithms using C++, Python, and TensorFlow, enhancing data processing and analysis capabilities for cutting-edge AI projects
+- Collaborated seamlessly within cross-functional teams, leveraging exceptional communication and collaboration skills to ensure successful project implementations
+- Conducted deep learning research, exploring diverse neural network architectures and frameworks to optimize model performance and accuracy
+
+2. Data Analyst,
+QuantumTech Solutions, Phoenix, Arizona
+- Applied statistical analysis techniques and demonstrated agile problem-solving skills to identify and resolve data-related issues within large datasets, driving data-driven decision-making processes
+- Leveraged PyTorch and conducted extensive deep neural network research to improve model training and deployment, resulting in enhanced accuracy and predictive capabilities
+- Expertly managed and processed complex data, ensuring data integrity and streamlining data handling procedures
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member and leader in Women in Technology, an organization dedicated to promoting gender equality and diversity within the tech industry
+- Sports Leadership: Captain of the university's volleyball team, fostering teamwork and empowering female athletes to excel in a highly competitive environment
+
+Hobbies:
+- Playing the violin: An avid musician, I find solace and self-expression through this beautiful instrument
+- Exploring diverse cultures: Enthusiastic about world cultures, I actively seek opportunities to embrace and celebrate various ethnic traditions and customs
+
+Languages: English (Fluent), Spanish (Conversational)
+
+References available upon request.

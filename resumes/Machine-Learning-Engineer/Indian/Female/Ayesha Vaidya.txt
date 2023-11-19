@@ -1,0 +1,35 @@
+Personal Statement:
+A highly motivated and results-driven Machine Learning Engineer with a passion for leveraging cutting-edge technologies to solve complex problems. With a strong academic background in computer science and comprehensive experience in statistical analysis, deep neural net research, and model training and deployment, I am committed to driving innovation and delivering exceptional outcomes in machine learning projects. I am seeking a challenging role where I can contribute my technical expertise and collaborate with diverse teams to create impactful solutions.
+
+Education:
+Bachelor of Science in Computer Science, XYZ University, Houston, Texas
+- GPA: 3.9
+
+Work Experience:
+
+Machine Learning Engineer, Stellar Technologies, Houston, Texas
+- Conducted statistical analysis and implemented deep neural net research to enhance machine learning algorithms.
+- Utilized TensorFlow for model training and deployment, ensuring optimal performance and accuracy.
+- Developed efficient code in C++ and Python to address complex data science challenges.
+
+Machine Learning Engineer, Quantum Insights, Houston, Texas
+- Demonstrated exceptional team player skills by collaborating with cross-functional teams to develop and implement machine learning solutions.
+- Leveraged effective communication and collaboration to drive agile problem-solving and data handling processes.
+- Applied deep learning techniques using PyTorch to optimize model performance and enhance accuracy.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and gender equality in technology fields, participating in mentorship programs and workshops.
+- Sports leadership role as a captain of a competitive tennis team, organizing tournaments and fostering teamwork and sportsmanship within the community.
+
+Hobbies:
+- Playing the flute, showcasing my passion for music and artistic expression.
+- Engaging in cultural activities that celebrate diversity and promote inclusivity.
+
+Languages:
+- Fluent in English, Hindi, and Marathi.

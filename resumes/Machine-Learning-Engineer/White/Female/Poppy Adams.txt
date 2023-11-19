@@ -1,0 +1,46 @@
+Poppy Adams
+1234 Main Street, San Antonio, Texas 12345
+Email: poppyadams@email.com | Phone: (555) 123-4567
+
+Personal Statement:
+Dedicated and highly motivated machine learning engineer with a passion for developing innovative solutions. Equipped with a strong background in computer science and a deep understanding of deep neural net research. Committed to leveraging my skills in model training, deployment, and statistical analysis to overcome complex challenges in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, University of Texas, Austin, Texas
+GPA: 3.9/4.0
+Relevant Coursework: Machine Learning, Deep Learning, Data Structures, Algorithms, Databases, Software Engineering
+
+Work Experience:
+Machine Learning Engineer, InnovateTech Corporation, Austin, Texas
+- Developed and implemented machine learning models using TensorFlow, resulting in a 30% increase in accuracy for customer behavior prediction.
+- Collaborated with cross-functional teams to efficiently deploy machine learning models to production systems, improving overall project timelines.
+- Utilized C++ and deep-learning techniques to optimize model training performance and computational efficiency.
+- Kept up-to-date with the latest advancements in deep neural network research to enhance model architecture and improve accuracy.
+
+Data Analyst, TechSolutions Inc., Austin, Texas
+- Conducted statistical analysis on large datasets using Python and PyTorch, identifying patterns and trends for business insights.
+- Proactively handled data preprocessing, cleaning, and transformation to ensure high-quality data input for machine learning models.
+- Demonstrated agility and problem-solving skills by quickly adapting to changing project requirements and resolving data-related challenges.
+- Worked collaboratively as a team player, effectively communicating with colleagues and stakeholders to ensure project success.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Served as a basketball team captain, leading the San Antonio Youth Basketball League team to several championships while promoting inclusivity, teamwork, and fair play.
+- Contributed to several women in technology initiatives, supporting the advancement of female professionals in the machine learning field.
+- Actively involved in mentoring and coaching young girls interested in pursuing careers in STEM.
+
+Hobbies:
+- Playing the violin to foster creativity and artistic expression.
+- Engaging in outdoor activities such as hiking and cycling to maintain an active and balanced lifestyle.
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)
+
+References:
+Available upon request

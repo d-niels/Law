@@ -1,0 +1,42 @@
+Personal Statement:
+As a black female from Detroit with a passion for technology, I am determined to break barriers and contribute to the field of machine learning. My journey has been shaped by my experiences and reinforced by my education, enabling me to become a skilled machine learning engineer. Through my dedication and expertise, I strive to create innovative solutions and drive positive change in the industry.
+
+Education:
+Bachelor of Science in Computer Science
+City Tech University, Detroit, Michigan
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer
+InnoTech Solutions, Detroit, Michigan
+- Collaborated with a diverse team to develop cutting-edge machine learning models using TensorFlow and PyTorch.
+- Led the complete model training and deployment process, ensuring seamless integration within the system.
+- Utilized Python for efficient data handling and processing, resulting in improved system performance.
+
+Data Scientist
+Quantum Analytics, Detroit, Michigan
+- Demonstrated proficiency in deep learning techniques and conducted statistical analysis to identify key insights.
+- Actively pursued deep neural net research, staying up-to-date with the latest advancements in the field.
+- Showcased unparalleled agility and problem-solving skills in resolving complex challenges.
+- Utilized C++ for efficient coding and effective communication with cross-functional teams.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Served as a team captain in basketball, promoting inclusivity and fostering teamwork among multicultural players.
+- Played the saxophone, harmonizing my technical skills with artistic expression.
+
+Hobbies:
+- Actively involved in the local African American history association, working towards preserving and celebrating the rich cultural heritage of our community.
+- Engage in creative writing, crafting vivid and compelling stories that reflect my identity and experiences.
+- Fluent in English and proficient in Spanish, enabling effective communication with a broader audience.
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)
+
+By combining my technical prowess, leadership experience, and commitment to diversity and inclusion, I believe I can make a significant impact as a machine learning engineer. I am excited to embark on new challenges and contribute to creating innovative solutions in the field.

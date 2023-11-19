@@ -1,0 +1,46 @@
+Personal Statement:
+Driven and versatile machine learning engineer with a strong passion for leveraging data to build innovative solutions. With a solid background in computer science and expertise in deep learning frameworks, I am committed to developing cutting-edge algorithms to enhance efficiency and drive results. As an Indian female in the tech industry, I am dedicated to promoting diversity and inclusion, while striving for excellence in my work.
+
+Education:
+Bachelor of Science in Computer Science, Alpha University, Dallas, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+
+Machine Learning Engineer, QuantumTech AI, Dallas, Texas
+- Developed and implemented machine learning models using TensorFlow, PyTorch, and Python for image recognition tasks.
+- Conducted statistical analysis on large datasets to identify trends and insights for optimized model predictions.
+- Led deep learning model training and deployment, resulting in a 30% increase in accuracy.
+- Collaborated with cross-functional teams to integrate machine learning algorithms into existing systems.
+
+Software Engineer Intern, Beta Systems, Dallas, Texas
+- Demonstrated agility and problem-solving skills while handling and processing large volumes of data using C++.
+- Gained a deep understanding of deep neural net research and applied it to enhance existing algorithms.
+- Communicated effectively with team members to deliver solutions efficiently.
+- Proven ability to work well in a team-oriented environment.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Diversity and Inclusion Committee Member, Alpha University
+- Proactively contributed to fostering an inclusive environment for underrepresented individuals in the tech community.
+- Organized events and workshops to raise awareness about the importance of diversity in technology.
+
+Badminton Team Captain, Alpha University Badminton Team
+- Led the badminton team as captain, promoting teamwork, discipline, and perseverance.
+- Organized tournaments and practices, ensuring a positive and inclusive environment for all team members.
+
+Hobbies:
+- Playing the sitar, a traditional Indian musical instrument.
+- Exploring diverse cultures through books and movies.
+- Participating in social impact initiatives promoting gender equality and cultural diversity.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Urdu (Intermediate)

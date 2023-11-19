@@ -1,0 +1,39 @@
+Personal Statement:
+As a dedicated machine learning engineer, I am committed to leveraging my technical acumen and educational background to drive innovation in the field of artificial intelligence. With a bachelor's degree in computer science and a deep passion for machine learning algorithms, I am eager to contribute to trailblazing projects and push the boundaries of this rapidly evolving industry.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Northern Illinois University, DeKalb, Illinois
+
+Work Experience:
+Machine Learning Engineer | Aurora Analytics, Chicago, Illinois
+- Collaborated closely with a dynamic team of data scientists to develop and implement highly accurate machine learning models using Python.
+- Employed advanced statistical analysis techniques to extract actionable insights from large and complex datasets.
+- Demonstrated a strong understanding of deep neural net research, employing this knowledge to enhance model performance and efficiency.
+- Proficiently handled and processed diverse data sources using the popular PyTorch framework.
+
+Software Engineer | Quicksilver Technologies, Chicago, Illinois
+- Spearheaded the development and deployment of cutting-edge machine learning models, specializing in model training and deployment.
+- Fostered effective communication and collaboration among cross-functional teams, ensuring seamless development and deployment processes.
+- Applied deep learning algorithms to optimize model performance using TensorFlow and C++.
+- Exhibited exceptional agility and problem-solving skills to overcome complex technical challenges.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in community initiatives advocating for diversity and inclusivity within the tech industry, with a particular focus on supporting underrepresented communities.
+- Mentored and coached youth in basketball as a sports leadership role model, encouraging teamwork, inclusivity, and personal growth.
+- Championed a supportive and inclusive environment, fostering the participation of individuals from diverse backgrounds and experiences.
+
+Hobbies:
+- Mastering the complexities of the guitar, channeling creativity through music and exploring various genres and styles.
+- Excelling in basketball as a player, leader, and coach, fostering teamwork, discipline, and resilience.
+- Celebrating cultural diversity through exploration, storytelling, and engaging in traditions that broaden my understanding of different ethnicities and backgrounds.
+
+Languages: English (Native); Spanish (Fluent); French (Intermediate)
+
+Note: This resume reflects a fictional character. Any resemblance to actual persons or organizations is purely coincidental.

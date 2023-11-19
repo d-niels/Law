@@ -1,0 +1,41 @@
+NATALIA SANDOVAL
+
+Personal Statement:
+Dedicated and innovative Machine Learning Engineer with a passion for developing cutting-edge solutions. With a strong background in computer science and expertise in various programming languages, I am committed to contributing to the advancement of machine learning technologies. As a proud Latino female, I strive to increase diversity and inclusivity in the tech industry through my work. My goal is to leverage my skills and experiences to drive positive change and create a more equitable future in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, Stellar Institute of Technology, Houston, Texas
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, QuantumAI Solutions, Houston, Texas
+- Developed machine learning models using TensorFlow and PyTorch frameworks to enhance data analysis and predictive capabilities of the company's software products.
+- Collaborated with a multidisciplinary team of data scientists and engineers to ensure seamless integration and deployment of machine learning solutions.
+- Applied statistical analysis techniques to extract valuable insights from complex datasets, contributing to deep neural net research and development.
+- Demonstrated excellent communication and collaboration skills to effectively convey ideas and findings to both technical and non-technical stakeholders.
+
+Software Engineer Intern, NovaTech Corporation, Houston, Texas
+- Utilized deep learning techniques to optimize the performance and usability of the company's software products for clients in the aerospace industry.
+- Showcased exceptional agility and problem-solving skills when faced with challenges, ensuring quick and efficient resolution.
+- Implemented C++ programming language to develop efficient algorithms for data processing and analysis.
+- Conducted thorough model training and deployment, leveraging Python to handle large datasets.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in organizations promoting diversity and inclusion in technology, such as TechBridge Houston, empowering and supporting Latinas pursuing careers in tech.
+- Sports Leadership: Elected Team Captain for the Stellar Institute of Technology Women's Basketball team, leading a diverse group of athletes to victory and fostering a strong team spirit.
+
+Hobbies:
+- Playing the piano, indulging in the creativity and harmony of music.
+- Embracing heritage and diversity through exploring different art forms and literature that celebrate various cultures.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References available upon request.

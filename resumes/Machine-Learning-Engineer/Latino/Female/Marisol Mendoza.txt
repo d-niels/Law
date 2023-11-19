@@ -1,0 +1,44 @@
+Marisol Mendoza
+
+Personal Statement:
+A dedicated and results-driven Machine Learning Engineer with a passion for leveraging cutting-edge technology to solve complex problems. Leveraging a strong academic background in computer science and experience in model training and deployment, I aim to contribute my expertise in machine learning to develop innovative solutions in the field. As a proud Latina from Phoenix, Arizona, I am committed to fostering diversity and inclusivity in the tech industry, and I strive to be a successful role model for underrepresented individuals in STEM.
+
+Education:
+Bachelor of Science in Computer Science, Phoenix Technological Institute, Phoenix, Arizona (GPA: 3.9)
+
+Work Experience:
+Machine Learning Engineer, Quantum Innovations, Phoenix, Arizona
+- Developed and implemented machine learning models using Python and TensorFlow.
+- Collaborated effectively with a cross-functional team to ensure seamless model integration.
+- Demonstrated strong communication skills to convey complex ideas to both technical and non-technical stakeholders.
+- Conducted data handling and processing to clean and preprocess large datasets.
+- Utilized agility and problem-solving skills to overcome challenges and improve model performance.
+- Successfully trained and deployed machine learning models for various projects.
+
+Research Assistant, Innovation Research Lab, Phoenix, Arizona
+- Utilized C++ and statistical analysis techniques to analyze and interpret research data.
+- Worked collaboratively as a team player in conducting experiments and recording results.
+- Gained a deep understanding of deep neural network research and its applications.
+- Implemented deep learning models using PyTorch to enhance research initiatives.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Women in STEM Mentor, Phoenix Community Center
+- Empowered and supported young Latina women pursuing careers in science, technology, engineering, and mathematics.
+- Organized workshops, mentoring sessions, and networking events to foster their growth and success.
+- Served as a role model, sharing my experiences and expertise to inspire others.
+
+Basketball Team Captain, Phoenix Women's Basketball League
+- Led and organized a local basketball team, promoting teamwork and sportsmanship.
+- Mentored young athletes, teaching valuable skills and fostering personal development.
+
+Hobbies:
+Playing the guitar, participating in community events celebrating Latino heritage, promoting gender equality and diversity in tech, and exploring various artistic and cultural activities.
+
+Languages:
+Fluent in English and Spanish.

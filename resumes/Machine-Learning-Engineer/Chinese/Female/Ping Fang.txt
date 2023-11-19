@@ -1,0 +1,57 @@
+Personal Statement:
+I am a driven and detail-oriented machine learning engineer with a passion for leveraging statistical analysis and deep learning algorithms to create innovative solutions. Coming from a strong educational background in computer science, my goal is to collaborate effectively in diverse teams. I thrive in challenging environments, constantly seeking opportunities to apply my problem-solving skills and agility.
+
+Education:
+Bachelor of Science in Computer Science
+Golden State University
+San Francisco, California
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer
+InnoAI Solutions
+San Francisco, California
+- Conducted statistical analysis to extract valuable insights from large datasets, informing strategic decision-making.
+- Demonstrated agility and problem-solving abilities in designing and optimizing machine learning models.
+- Trained and deployed models across multiple domains, ensuring accuracy and efficiency.
+- Collaborated closely with cross-functional teams to understand data requirements and implement tailored solutions.
+- Managed data handling and processing, prioritizing data integrity and security.
+- Employed deep learning techniques to enhance model performance and accuracy.
+
+Deep Learning Research Intern
+Quantum Intelligent Systems
+San Francisco, California
+- Contributed to deep neural network research projects, gaining a comprehensive understanding of advanced algorithms.
+- Developed proficiency in TensorFlow, Python, C++, and PyTorch for efficient implementation of cutting-edge models.
+- Actively participated in code reviews and debugging, ensuring software reliability.
+- Designed and implemented software solutions to address client requirements and improve overall performance.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnicity and Gender Advocacy Volunteer
+San Francisco Cultural Diversity Alliance
+San Francisco, California
+- Championed diversity and inclusion initiatives within the city's technology industry.
+- Organized and participated in culturally diverse events, fostering an inclusive environment.
+
+Sports Leadership:
+Team Captain, Women's Soccer Team
+San Francisco United Football Club
+San Francisco, California
+- Led and motivated a passionate team of soccer players, promoting collaboration and teamwork.
+- Organized training sessions and matches, ensuring effective communication and coordination.
+- Represented the team in regional tournaments, promoting sportsmanship and fair play.
+
+Hobbies:
+- Playing the violin, allowing me to explore different musical genres and express my creativity.
+- Immersing myself in literature from various cultures, broadening my understanding of diverse perspectives.
+- Engaging in hiking and outdoor activities, appreciating the beauty of nature and promoting a healthy lifestyle.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

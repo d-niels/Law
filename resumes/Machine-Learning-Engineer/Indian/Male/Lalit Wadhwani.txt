@@ -1,0 +1,45 @@
+LALIT WADHWANI
+Houston, Texas | (123) 456-7890 | lalitw@gmail.com | LinkedIn: linkedin.com/in/lalitwadhwani
+
+PERSONAL STATEMENT
+Innovative and detail-oriented Machine Learning Engineer with a passion for leveraging advanced technologies to develop transformative solutions. Strong background in deep learning research, model training, and deployment. Committed to optimizing performance and exceeding client expectations. Seeking to contribute expertise and drive cutting-edge projects as a Machine Learning Engineer.
+
+EDUCATION
+Bachelor of Science in Computer Science, ABC University, Houston, Texas
+- GPA: 3.9/4.0
+- Relevant Coursework: Artificial Intelligence, Machine Learning, Algorithms, Data Structures
+
+WORK EXPERIENCE
+
+Machine Learning Engineer | Stellar AI Systems, Houston, Texas | Jan 2018 - Present
+- Leveraged PyTorch to develop and optimize deep learning models.
+- Championed teamwork and collaboration, ensuring seamless integration of ML solutions into existing systems.
+- Demonstrated a strong understanding of deep neural net research and applied innovative approaches.
+- Utilized C++ for efficient algorithm implementation.
+- Facilitated effective communication and collaboration among cross-functional teams.
+
+Data Analyst | TechnoMinds Inc., Houston, Texas | Jun 2016 - Dec 2017
+- Led data handling and processing activities, ensuring accuracy and completeness of datasets.
+- Utilized TensorFlow to train and deploy machine learning models effectively.
+- Demonstrated agility and creative problem-solving abilities when tackling complex data challenges.
+- Conducted comprehensive statistical analysis to derive actionable insights.
+- Employed Python for efficient data manipulation and visualization.
+
+SKILLS
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Diversity and Gender Inclusion Advocate | ABC University, Houston, Texas | Aug 2014 - May 2016
+- Promoted diversity and inclusion in the computer science department by organizing events and workshops.
+- Collaborated with professors and industry professionals to empower and support underrepresented students in STEM fields.
+- Served as the captain of the university's basketball team, fostering teamwork and camaraderie among diverse team members.
+
+HOBBIES
+- Playing the guitar
+- Exploring cultural diversity and appreciating various ethnic art forms and performances
+
+LANGUAGES
+Fluent in English and Hindi, with basic proficiency in Spanish.

@@ -1,0 +1,53 @@
+Ximena O'Donnell 
+
+Personal Statement:
+As a black female, I am deeply committed to using my expertise in machine learning to drive innovation and make a lasting impact. With a strong background in computer science and a passion for continuous learning, I am seeking a position as a Machine Learning Engineer, where I can leverage my technical skills and collaborate with diverse teams to create cutting-edge solutions.
+
+Education:
+Bachelor of Science in Computer Science
+ABC University, Washington, District of Columbia
+GPA: 3.9
+
+Work Experience:
+
+Machine Learning Engineer
+Innov8 Systems, Washington, DC
+- Developed and implemented machine learning models using C++, Python, and TensorFlow, effectively solving complex problems and improving efficiency
+- Demonstrated agility and problem-solving skills to deliver innovative solutions within tight deadlines
+- Collaborated closely with cross-functional teams to perform statistical analysis and interpret data for model optimization
+- Effectively contributed as a team player, fostering a positive and collaborative work environment
+
+Data Scientist Intern
+TechSolutions Inc., Washington, DC
+- Successfully trained and deployed deep neural network models, specializing in deep learning techniques
+- Effectively communicated and collaborated with team members to ensure smooth integration and deployment of models
+- Expertly handled and processed large datasets, ensuring data accuracy and quality
+- Utilized PyTorch for efficient implementation of deep learning algorithms
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Diversity and Inclusion Advocate, ABC University
+- Led initiatives to promote diversity and inclusivity within the computer science department, organizing workshops and events
+- Engaged directly with students from diverse backgrounds, creating an inclusive and supportive learning environment
+- Mentored and provided guidance to underrepresented students, fostering their interest in machine learning and computer science
+
+Basketball Team Captain, ABC University Women's Basketball Team
+- Demonstrated exceptional leadership qualities as the captain of the university's women's basketball team, leading the team to victory
+- Provided guidance and motivation to team members, fostering teamwork and collaboration
+
+Hobbies:
+- Playing the violin (instrument)
+- Exploring different cultures and traditions (ethnic indicator)
+- Engaging in community service activities to uplift underprivileged communities (leadership indicator)
+
+Languages:
+- English (fluent)
+- Spanish (proficient)
+
+References available upon request.

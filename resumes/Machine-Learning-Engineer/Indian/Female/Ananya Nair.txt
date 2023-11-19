@@ -1,0 +1,45 @@
+Personal Statement:
+Driven and passionate machine learning engineer with a deep love for innovation and problem-solving. As an Indian female hailing from Atlanta, Georgia, I bring a unique perspective to my work, well-acquainted with the diverse challenges and opportunities present in today's tech industry. With a strong academic background in computer science and a commitment to continuous learning, I aim to make a lasting impact through cutting-edge machine learning solutions.
+
+Education:
+Bachelor of Science in Computer Science, Georgia Institute of Technology (Atlanta, Georgia)
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Lumina AI Technologies (Atlanta, Georgia)
+- Team Player: Collaborated effectively with cross-functional teams, contributing to the development and deployment of machine learning models for advanced statistical analysis.
+- Statistical Analysis: Employed advanced statistical techniques to extract actionable insights from complex datasets, aiding in informed decision-making.
+- Python: Developed and implemented high-performing machine learning algorithms using Python, optimizing accuracy and efficiency.
+- Communication and Collaboration: Facilitated seamless communication between stakeholders, ensuring smooth collaboration throughout project lifecycles.
+- Model Training and Deployment: Successfully trained and deployed models, automating critical business processes and increasing efficiency.
+- Data Handling and Processing: Employed robust data handling and processing techniques to ensure accuracy and reliability in model training.
+
+Research Assistant, Neural Dynamics Lab, Emory University (Atlanta, Georgia)
+- Understanding Deep Neural Net Research: Conducted cutting-edge research on deep neural networks, staying abreast of the latest advancements in the field.
+- PyTorch, TensorFlow: Leveraged PyTorch and TensorFlow frameworks to develop and implement state-of-the-art deep learning models.
+- Deep Learning: Applied deep learning techniques to solve complex problems, optimizing models for improved efficiency and performance.
+- C++: Utilized C++ for algorithm implementation, enhancing the speed and memory management of deep learning research.
+- Agility and Problem-Solving: Demonstrated agility and effective problem-solving skills during experimentation and prototype development.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role - Team Captain, XYZ Lacrosse Club
+- Led and mentored a diverse team of athletes, fostering a cohesive and supportive environment while promoting teamwork, skill development, and a passion for the sport.
+
+Diversity Advocate and Speaker, XYZ Inclusion Society
+- Actively promoted diversity and inclusion initiatives, organizing events and workshops to empower individuals from all backgrounds in the tech industry.
+
+Hobbies:
+Playing the Tabla - Embracing my Indian heritage and love for music, I find solace and creative expression through playing the Tabla, a traditional Indian percussion instrument.
+Participating in Hackathons - Engaging in collaborative problem-solving exercises and showcasing my technical skills in a competitive and innovative environment.
+With a strong emphasis on gender and ethnic representation, I actively seek activities and hobbies that celebrate diversity, empower others, and promote inclusivity.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Malayalam (Conversational)

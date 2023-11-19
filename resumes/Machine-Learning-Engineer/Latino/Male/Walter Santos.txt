@@ -1,0 +1,41 @@
+Personal Statement:
+As a proactive and results-driven machine learning engineer, I am passionate about harnessing the power of data to revolutionize the world. With a strong foundation in computer science and an unwavering commitment to excellence, I strive to contribute to cutting-edge projects that push the boundaries of machine learning technology. As a Latino male from Los Angeles, I bring a unique perspective to the field, and I am dedicated to promoting diversity and inclusion in the tech industry. I aim to empower underrepresented communities and use my skills to make a positive impact on society.
+
+Education:
+Bachelor of Science in Computer Science, West Coast University (Los Angeles, California)
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, StellarTech (Santa Monica, California)
+- Leveraged PyTorch and TensorFlow to develop sophisticated machine learning models.
+- Demonstrated agility and problem-solving skills to address complex technical challenges.
+- Utilized Python for statistical analysis, optimizing model performance.
+- Implemented state-of-the-art deep learning techniques to enhance data processing efficiency.
+
+Junior Machine Learning Engineer, NovaAI (Beverly Hills, California)
+- Collaborated with a cross-functional team to understand and implement deep neural net research.
+- Showcased excellent communication and collaboration skills for effective teamwork.
+- Utilized C++ for data handling and processing, ensuring seamless integration.
+- Played a key role in model training and deployment, contributing to the development of cutting-edge AI solutions.
+- Recognized as a proactive team player with strong leadership qualities.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Youth Mentor, EmpowerLA (Los Angeles, California)
+- Provided mentorship and guidance to empower Latino youth in Los Angeles, supporting their personal and educational growth.
+- Organized workshops and events to promote diversity and inclusion in the tech industry, particularly for underrepresented communities.
+- Served as a sports team leader, fostering team spirit and sportsmanship in the game of basketball.
+
+Hobbies:
+- Playing the guitar and composing music
+- Participating in community theater and performing arts
+- Exploring hiking trails and photography
+
+Languages:
+- English (Fluent)
+- Spanish (Native)

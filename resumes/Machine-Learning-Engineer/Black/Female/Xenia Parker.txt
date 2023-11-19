@@ -1,0 +1,47 @@
+XENIA PARKER
+1234 Main Street, Indianapolis, Indiana 12345 | (555) 123-4567 | xenia.parker@email.com
+
+PERSONAL STATEMENT
+Passionate and driven machine learning engineer with a determination to revolutionize the tech industry. With a solid background in Computer Science, I possess a strong aptitude for developing and deploying highly effective machine learning models. Committed to continuously expanding my skill set and keeping up with the latest advancements in the field to drive cutting-edge solutions for organizations.
+
+EDUCATION
+Bachelor of Science in Computer Science, Indiana Central University, Indianapolis, Indiana
+- Relevant Coursework: Machine Learning, Artificial Intelligence, Data Structures
+- GPA: 3.9/4.0
+
+WORK EXPERIENCE
+Machine Learning Engineer, Stellar Innovations, Indianapolis, Indiana                	               	                         20XX - Present
+- Collaborated with a diverse and multidisciplinary team to develop and deploy innovative machine learning models
+- Conducted comprehensive data handling and processing tasks to ensure the accuracy and reliability of datasets
+- Leveraged deep learning techniques and actively stayed abreast of the latest advancements in deep neural net research
+- Demonstrated exceptional agility and problem-solving abilities to overcome challenges during model development
+- Played a key role in training and mentoring team members on model training and deployment techniques
+
+Data Analysis Consultant, Precision Tech Solutions, Indianapolis, Indiana	                               	                         20XX - 20XX
+- Applied advanced statistical analysis techniques to extract valuable insights from large and complex datasets
+- Utilized Python, SQL, and NoSQL databases to manipulate and extract data efficiently
+- Collaborated closely with software development teams to design and implement impactful data-driven solutions
+- Effectively communicated key findings and insights to stakeholders through clear and concise reports
+
+SKILLS
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Track and Field Coach, Indianapolis Youth Athletics Club, Indianapolis, Indiana      	   	                         20XX - Present
+- Empower young female athletes, particularly those from underrepresented backgrounds
+- Coach and mentor athletes, fostering their self-confidence and leadership skills
+
+HOBBIES
+- Playing the saxophone
+- Exploring diverse cultural experiences
+- Promoting gender and ethnic diversity in tech communities
+
+LANGUAGES
+- English (Fluent)
+- Spanish (Intermediate level)
+
+REFERENCES
+Available upon request

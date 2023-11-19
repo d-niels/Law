@@ -1,0 +1,42 @@
+Personal Statement:
+Highly motivated and detail-oriented machine learning engineer with a strong background in computer science, Nacho Gutierrez is dedicated to pushing the boundaries of artificial intelligence and leveraging machine learning algorithms to drive innovative solutions. With a passion for problem-solving and a collaborative mindset, Nacho aims to make a meaningful impact in the technology industry while promoting diversity and inclusion.
+
+Education:
+Bachelor of Science in Computer Science, Stellar University, Dallas, Texas
+- Graduated with a GPA of 3.9
+
+Work Experience:
+Machine Learning Engineer, QuantumAI Solutions, Dallas, Texas
+- Model Training and Deployment: Developed and implemented cutting-edge machine learning models, optimizing system performance by 25%.
+- Data Handling and Processing: Gathered, cleaned, and processed large datasets, enabling efficient extraction of valuable insights.
+- Understanding Deep Neural Net Research: Stayed up-to-date with the latest advancements in deep neural network research, incorporating them into innovative projects.
+- TensorFlow: Utilized TensorFlow framework to build, optimize, and deploy machine learning models, improving accuracy by 15%.
+- Statistical Analysis: Conducted in-depth statistical analysis on extensive datasets, identifying key patterns and trends for informed decision-making.
+- Agility and Problem-Solving: Thrived in dynamic work environments, demonstrating quick adaptability and utilizing strong problem-solving skills to overcome challenges.
+
+Machine Learning Research Intern, SynapseTech Labs, Dallas, Texas
+- Team Player: Collaborated effectively with a diverse team to develop and implement cutting-edge deep learning models, enhancing accuracy by 30%.
+- Deep Learning: Applied advanced deep learning algorithms to analyze complex data, resulting in improved accuracy and performance of models.
+- Python: Created and maintained Python scripts for data preprocessing, model evaluation, and performance monitoring, enhancing efficiency by 20%.
+- Communication and Collaboration: Effectively communicated complex technical concepts to diverse stakeholders, facilitating successful collaboration.
+- C++: Developed and optimized C++ algorithms to streamline large-scale data processing, reducing computational time by 25%.
+- PyTorch: Leveraged PyTorch library to build and train powerful neural networks, resulting in improved training process and model performance.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate, United for STEM, Dallas, Texas
+- Actively promoted diversity, inclusion, and equal representation in the STEM fields, advocating for underrepresented communities.
+- Basketball Leadership: Led a youth basketball team, providing mentorship and guidance to develop young athletes' skills and confidence.
+
+Hobbies:
+Playing the guitar, promoting multicultural understanding and exchange, exploring art and photography.
+
+Languages:
+Fluent in English and Spanish.
+
+References available upon request.

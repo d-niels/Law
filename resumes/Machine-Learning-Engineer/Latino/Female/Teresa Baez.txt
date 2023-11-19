@@ -1,0 +1,44 @@
+Teresa Baez
+
+Personal Statement:
+As a passionate and dedicated Machine Learning Engineer, I am driven by the impact that AI can have on society. With a Bachelor's degree in Computer Science and a strong academic record from Sycamore University, I am equipped with the knowledge and skills to contribute effectively in this field. I am committed to continuous learning and innovation, and I thrive in collaborative environments where I can apply my expertise to solve complex problems. As a Latina woman, I am proud to bring diversity and unique perspectives to the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Sycamore University (Houston, Texas)
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, StellarTech Solutions (Houston, Texas)
+- Team Player: Collaborated with cross-functional teams to develop and implement machine learning models.
+- Understanding Deep Neural Net Research: Stayed up-to-date with the latest research and advancements within the field.
+- TensorFlow: Utilized TensorFlow to build and optimize machine learning models.
+- Communication and Collaboration: Effectively communicated complex ideas and collaborated with colleagues to achieve project goals.
+- Model Training and Deployment: Developed models and ensured successful deployment through rigorous testing and validation.
+- C++: Utilized C++ for efficient and optimized programming.
+
+Data Scientist, Quantum Analytics (Houston, Texas)
+- Python: Utilized Python for data analysis and model development.
+- PyTorch: Implemented deep learning models using the PyTorch framework.
+- Deep Learning: Implemented state-of-the-art deep learning algorithms for complex tasks.
+- Agility and Problem-Solving: Demonstrated agility and problem-solving skills in analyzing and resolving data-related challenges.
+- Statistical Analysis: Performed statistical analysis on large datasets to extract insights and drive decision-making.
+- Data Handling and Processing: Processed and cleaned data for model development.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinx in AI, Houston Chapter
+- Co-founder: Co-founded and led a local chapter of Latinx in AI, a community that promotes diversity and inclusion in the AI field.
+- Soccer Leadership: Held a leadership role in organizing and coaching a local youth soccer team, fostering teamwork and discipline.
+
+Hobbies:
+- Playing Guitar: I am an avid guitar player and enjoy exploring various music genres.
+- Painting: Embracing my creativity through painting and showcasing my artwork in local galleries.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)

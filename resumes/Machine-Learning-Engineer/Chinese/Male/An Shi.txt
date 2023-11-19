@@ -1,0 +1,36 @@
+Personal Statement:
+As a Chinese male born and raised in Philadelphia, Pennsylvania, I am a passionate and driven machine learning engineer. With a strong background in computer science and an unwavering dedication to innovation, I strive to push the boundaries of artificial intelligence. My goal is to develop cutting-edge machine learning models that revolutionize industries and improve the lives of individuals worldwide.
+
+Education:
+Bachelor of Science in Computer Science, Liberty University, Philadelphia, Pennsylvania
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Stellar AI Solutions, Philadelphia, PA
+- Developed and deployed state-of-the-art machine learning algorithms using TensorFlow and Python, resulting in a significant improvement in model performance and accuracy.
+- Collaborated effectively with cross-functional teams, utilizing strong communication and collaboration skills to solve complex problems and enhance project agility.
+- Led the training and deployment of models, playing a vital role in ensuring seamless integration and superior performance.
+- Implemented deep learning techniques to optimize model architecture, resulting in a substantial increase in accuracy and efficiency.
+
+Junior Software Engineer, Quantum Technologies, Philadelphia, PA
+- Contributed to cutting-edge research on deep neural networks, successfully implementing advanced algorithms using PyTorch and C++.
+- Conducted statistical analysis and efficiently processed extensive datasets, leading to enhanced accuracy in model predictions and significant insights.
+- Demonstrated exceptional teamwork and collaboration skills, actively engaging in cross-functional projects and fostering a positive and productive work environment.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in the Chinese American Cultural Association, organizing cultural events and promoting the preservation of Chinese traditions and values.
+- Hold a leadership position in a local basketball league, where I mentor and inspire young athletes to excel in their sport while fostering strong teamwork and sportsmanship.
+
+Hobbies:
+- Playing the piano: The piano serves as an outlet for my creativity, allowing me to express emotions and find solace in the art of music.
+- Calligraphy: Exploring the principles of traditional Chinese calligraphy connects me to my cultural roots and enables me to appreciate the beauty and depth of this ancient art form.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

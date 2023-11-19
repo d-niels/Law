@@ -1,0 +1,46 @@
+Ira Qadri
+San Francisco, California | +1 555-123-4567 | iraqadri@email.com
+
+Personal Statement:
+Dedicated and driven Machine Learning Engineer with a passion for leveraging artificial intelligence to solve complex problems. Equipped with a strong technical background, exceptional problem-solving skills, and a passion for innovation. Committed to continuous learning and staying up-to-date with the latest advancements in the field. 
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Golden State University
+
+Work Experience:
+
+Machine Learning Engineer | Stellar AI Solutions | San Francisco, CA | February 2018 - Present
+- Collaborated with a cross-functional team to develop machine learning models using C++, TensorFlow, and PyTorch for improving data analysis efficiency.
+- Designed, built, and implemented scalable and high-performance machine learning pipelines.
+- Participated in model training and deployment, ensuring robust and reliable performance.
+- Effectively communicated complex technical concepts to non-technical stakeholders.
+- Fostered a collaborative work environment, contributing to the success of the team.
+
+Research Assistant | NeuralTech Labs | San Francisco, CA | September 2016 - January 2018
+- Assisted in researching and understanding deep neural network models and their application to real-world problems.
+- Utilized Python and deep learning techniques to analyze, handle, and process large volumes of data.
+- Conducted statistical analysis to extract meaningful insights and optimize model performance.
+- Demonstrated agility and problem-solving skills in tackling various research challenges.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active participant in the Indian Association for Women in STEM, promoting diversity and inclusion in the field of science and technology.
+- Served as a captain and leader of a women's soccer team, fostering teamwork, discipline, and sportsmanship.
+
+Hobbies:
+- Playing the sitar, a traditional Indian musical instrument.
+- Exploring different cultures through travel and participating in cultural events.
+- Promoting gender equality and diversity awareness through public speaking and community engagement.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Urdu (Conversational)
+
+References available upon request.

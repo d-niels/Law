@@ -1,0 +1,48 @@
+Valentin Fajardo
+Austin, Texas | 123-456-7890 | valentinfajardo@email.com
+
+Personal Statement:
+A highly dedicated and passionate Machine Learning Engineer, leveraging a strong background in computer science and a deep understanding of cutting-edge technologies to develop innovative machine learning solutions. Committed to leveraging statistical analysis, problem-solving skills, and effective communication to create efficient and scalable models. A team player with exceptional analytical skills and a proven track record of successful projects. Seeking a challenging position as a Machine Learning Engineer to make a significant impact in the field.
+
+Education:
+Bachelor of Science in Computer Science, May 20XX
+Southwest University, Austin, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, SoluTech Solutions, Austin, Texas | November 20XX - Present
+- Developed and implemented machine learning models using TensorFlow, C++, and Python for deep learning applications.
+- Conducted model training and deployment, ensuring optimum performance and efficiency.
+- Collaborated with cross-functional teams to drive projects and delivered high-quality solutions.
+- Actively participated in team meetings, contributing valuable knowledge and expertise.
+ 
+Data Analyst Intern, TechWorks Inc., Austin, Texas | May 20XX - August 20XX
+- Conducted statistical analysis to extract insights from large datasets and identified trends and patterns.
+- Demonstrated agility and problem-solving abilities to handle and process data efficiently.
+- Developed expertise in deep neural net research and applied learning techniques to enhance data analysis processes.
+- Collaborated with team members to ensure effective communication and seamless workflow.
+- Utilized PyTorch for model development, training, and evaluation.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership | Hispanic Student Athletes Association, Austin, Texas
+- Led and mentored a team of 15 athletes in soccer competitions, fostering teamwork and discipline.
+- Organized fundraising events to support underprivileged Latino youth in sports.
+
+Hobbies:
+- Playing the guitar
+- Exploring diverse cultural events and festivals
+- Engaging in ethnic studies and research
+- Promoting gender equality and fostering inclusivity
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References:
+Available upon request.

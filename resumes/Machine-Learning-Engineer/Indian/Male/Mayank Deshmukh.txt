@@ -1,0 +1,39 @@
+Mayank Deshmukh
+
+Personal Statement:
+Highly motivated and accomplished Machine Learning Engineer with a strong background in computer science. Passionate about leveraging data-driven solutions to tackle complex problems and drive innovation. Dedicated to delivering high-quality results by applying my expertise in machine learning and deep neural networks. Eager to contribute to a forward-thinking organization and make a significant impact in the field of artificial intelligence.
+
+Education:
+Bachelor of Science in Computer Science
+Georgia Metropolitan University, Atlanta, Georgia
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Quantum AI Technologies (Dates)
+- Developed and implemented cutting-edge machine learning algorithms utilizing TensorFlow and deep neural networks to optimize data processing and enhance model accuracy.
+- Collaborated effectively with cross-functional teams, showcasing strong teamwork and problem-solving skills to address project challenges.
+- Demonstrated expertise in handling and processing large-scale datasets, ensuring the integrity and quality of the data.
+- Stayed current with recent breakthroughs in deep neural net research, enhancing knowledge and understanding to drive innovation in machine learning.
+
+Software Engineer, InnovateX Solutions (Dates)
+- Utilized C++ and Python to develop and deploy machine learning models, improving efficiency and accuracy in data analysis.
+- Collaborated with team members to facilitate effective communication and align project goals, while prioritizing collaboration and teamwork.
+- Conducted statistical analysis on large datasets, extracting meaningful insights and contributing to data-driven decision-making processes.
+- Leveraged PyTorch to implement and optimize machine learning models, ensuring seamless integration with existing systems.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Leadership role in Indian Cultural Association, fostering a sense of community and promoting diversity among Indian students at Georgia Metropolitan University.
+Sports Leadership: Captain of the university's cricket team, leading and inspiring teammates to achieve outstanding performance in this passion-filled sport.
+
+Hobbies:
+Playing the tabla (Indian percussion instrument), showcasing an appreciation for diverse cultures and their arts.
+Promoting inclusivity and diversity through involvement in cultural festivals, highlighting the rich heritage of various ethnicities.
+
+Languages:
+Fluent in English and Hindi, enabling effective communication across multicultural environments.

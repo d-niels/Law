@@ -1,0 +1,44 @@
+SASHA BAKER
+123 Main Street, Washington, DC 20001 | (123) 456-7890 | sashabaker@email.com
+
+Personal Statement:
+Highly dedicated and results-oriented machine learning engineer with a passion for leveraging artificial intelligence to solve complex problems. Equipped with strong analytical skills and an excellent understanding of deep neural network research, I am committed to developing innovative machine learning models that optimize performance and drive business growth. As a black female professional, I aim to contribute to diverse and inclusive environments, promoting equality and pushing boundaries in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science
+GlobalTech University, Washington, DC
+GPA: 3.9/4.0
+Relevant coursework: Machine Learning, Data Structures, Algorithms, Artificial Intelligence, Database Management Systems
+
+Work Experience:
+Machine Learning Engineer | QuantumCorp Analytics, Washington, DC | January 2020 - Present
+- Developed and implemented machine learning models using C++ and PyTorch for model training and deployment purposes
+- Leverage statistical analysis and python programming to solve complex problems in data analysis and visualization
+- Collaborate with cross-functional teams to optimize algorithms and enhance model accuracy and efficiency
+- Utilize analytical skills to troubleshoot and debug machine learning models for enhanced performance
+
+Data Science Intern | Visionary Solutions, Washington, DC | May 2019 - August 2019
+- Conducted thorough research on deep neural networks and contributed to the understanding of advanced deep learning techniques
+- Utilized TensorFlow to develop and implement deep learning models for data handling and processing
+- Collaborated with team members to analyze and visualize data, providing insights for decision making
+- Demonstrated excellent communication and collaboration skills to support team objectives and deliver high-quality results
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Youth Mentor, Washington Equity Program: Acted as a mentor to underrepresented minority students, providing guidance and support in pursuing careers in STEM fields. Organized workshops and offered career advice to promote diversity in the tech industry.
+- Basketball Team Captain: As a team captain for the women's basketball team, I foster teamwork, discipline, and perseverance among teammates. Led the team to multiple tournament victories and mentored junior players.
+
+Hobbies:
+- Playing the Saxophone: I have been playing the saxophone since high school and continue to improve my skills through regular practice.
+- Photography: I enjoy capturing moments through my camera lens, especially focusing on diverse landscapes and people from different cultures.
+
+Languages:
+- English (fluent)
+- Spanish (intermediate level)
+
+References available upon request

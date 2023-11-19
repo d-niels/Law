@@ -1,0 +1,40 @@
+Personal Statement:
+As a forward-thinking and dedicated machine learning engineer, I am driven to leverage my skills and expertise in creating innovative solutions. With a passion for diving into the world of AI and data analysis, I am committed to pushing boundaries and contributing to cutting-edge technologies. Coming from a diverse background as a Chinese female from Chicago, I strongly believe that embracing diversity and inclusivity in the technology industry is key to driving positive change. With a love for leadership and a competitive spirit, I bring a unique perspective to every project I undertake.
+
+Education:
+Bachelor of Science in Computer Science, Windom University, Chicago, Illinois
+- GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Aurora Solutions, Chicago, Illinois
+- Developed deep learning models for image recognition tasks using TensorFlow and PyTorch.
+- Conducted statistical analysis to extract insights from large datasets and improve model performance.
+- Collaborated with cross-functional teams to ensure seamless integration and deployment of machine learning models.
+- Stayed abreast of the latest research in deep neural networks and integrated findings into model architecture.
+- Exhibited strong problem-solving skills, agility, and effective communication within a team environment.
+
+Software Developer, Nova Technologies, Chicago, Illinois
+- Utilized Python and C++ to develop and optimize software systems for data handling and processing.
+- Leveraged statistical techniques for data analysis, identifying patterns and trends for further optimization.
+- Implemented and maintained databases using SQL and NoSQL technologies for efficient data retrieval and storage.
+- Employed Git for source control, ensuring proper versioning and collaboration with team members.
+- Demonstrated analytical skills and debugging techniques to resolve complex software challenges.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate, Windom University
+- Organized campus-wide events to celebrate and promote cultural diversity, fostering inclusivity.
+- Led as a team captain and player for the university's soccer team, emphasizing teamwork and sportsmanship.
+
+Hobbies:
+- Playing the piano: I enjoy expressing my creativity and emotions through music, fostering a sense of tranquility.
+- Photography: Capturing moments and exploring different perspectives brings me joy and serves as a creative outlet.
+- Traveling: Exploring different cultures and experiencing new environments broadens my understanding of the world.
+
+Languages:
+- Fluent in English and Mandarin Chinese

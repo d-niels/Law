@@ -1,0 +1,44 @@
+Personal Statement:
+Passionate and driven machine learning engineer with a desire to revolutionize the field through innovative solutions. Committed to utilizing my strong analytical and problem-solving skills to propel advancements in artificial intelligence. Excellent communication and collaboration abilities, proven by consistently delivering exceptional results in fast-paced environments.
+
+Education:
+Bachelor of Science in Computer Science
+University of Southern California
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer | Nebula Technologies | San Francisco, CA | July 2018 - Present
+- Developed efficient data handling and processing pipelines, leveraging TensorFlow for model training and deployment.
+- Applied deep learning techniques to optimize existing models, achieving a 15% increase in accuracy.
+- Exhibited agility and problem-solving skills while collaborating with cross-functional teams to address challenges.
+- Effectively communicated complex technical concepts to non-technical stakeholders, fostering understanding and collaboration.
+
+Software Engineer | StellarSystems | San Francisco, CA | June 2016 - June 2018
+- Thrived in a dynamic team environment, actively fostering collaboration and teamwork.
+- Utilized C++, Python, and PyTorch to design and implement deep neural network models.
+- Conducted thorough statistical analysis on extensive datasets, extracting actionable insights to enhance model performance.
+- Demonstrated a deep understanding and application of state-of-the-art deep neural net research.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Champion | San Francisco Inclusivity Initiative | Volunteer | 2018 - Present
+- Advocate for equal opportunities and foster inclusivity for individuals from diverse ethnic backgrounds.
+- Organize and participate in events aimed at promoting dialogue and understanding between various ethnic communities.
+
+Basketball Team Captain | San Francisco Recreational Basketball League | Team Leader | 2017 - Present
+- Lead a competitive and diverse basketball team, promoting team camaraderie and fair play.
+- Organize basketball tournaments and events that emphasize inclusivity and celebrate multicultural participation.
+
+Hobbies:
+Expressing creativity and relaxation through playing the guitar.
+Attending cultural festivals and events to embrace diversity and learn about different traditions.
+Engaging in intellectual debates and staying informed about social issues through reading and research.
+
+Languages:
+English (Fluent)
+Spanish (Conversational)

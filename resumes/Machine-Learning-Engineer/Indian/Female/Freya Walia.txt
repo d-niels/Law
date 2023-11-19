@@ -1,0 +1,44 @@
+Freya Walia
+
+Personal Statement:
+A highly motivated and detail-oriented machine learning engineer with a strong background in computer science and a passion for leveraging advanced technologies to solve complex problems. Dedicated to continuous learning and staying up-to-date with the latest advancements in the field of machine learning. Committed to delivering high-quality results through effective communication, collaboration, and innovative thinking.
+
+Education:
+Bachelor of Science in Computer Science, University of Washington, Seattle, WA
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, InnovateTech Solutions, Seattle, WA
+- Developed and implemented deep learning algorithms to optimize model training and deployment processes.
+- Conducted extensive research on deep neural networks and leveraged findings to enhance model performance.
+- Collaborated with cross-functional teams to ensure effective communication and coordination throughout the development process.
+- Utilized PyTorch and Python for model training and deployment.
+
+Data Analyst, Insight Analytics, Seattle, WA
+- Analyzed and interpreted data to identify trends and patterns, providing valuable insights for decision-making.
+- Demonstrated agility and problem-solving skills to tackle complex data challenges and develop innovative solutions.
+- Efficiently handled and processed large volumes of data to extract meaningful information.
+- Utilized C++, TensorFlow, and other tools to perform statistical analysis and develop predictive models.
+- Proven ability to work effectively in teams and communicate results to non-technical stakeholders.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Gender Equality Advocate, University of Washington, Seattle, WA
+- Actively contributed to creating an inclusive environment by promoting diversity and gender equality within the computer science community.
+- Organized and led workshops and events to empower women in technology and encourage their participation in STEM fields.
+- Served as a captain for a women's basketball team, promoting gender equality and fostering teamwork and leadership skills.
+
+Hobbies:
+- Playing the violin, showcasing the beauty of Indian classical music
+- Exploring different cultures through reading and traveling
+- Engaging in various outdoor activities, appreciating the natural beauty of different regions
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+- Punjabi (Conversational)

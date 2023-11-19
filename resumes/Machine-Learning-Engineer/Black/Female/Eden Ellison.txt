@@ -1,0 +1,52 @@
+PERSONAL STATEMENT
+
+As a black female from Chicago, Illinois, I am excited to apply for the role of Machine Learning Engineer. With a strong background in computer science and a passion for utilizing data-driven solutions, I am eager to contribute to groundbreaking advancements in the field. I have a proven track record of successfully deploying machine learning models and leveraging deep learning algorithms. My excellent communication and collaboration skills allow me to effectively work in interdisciplinary teams and drive innovative solutions. I am adept at using PyTorch and TensorFlow and possess strong problem-solving abilities. By joining your organization, I am committed to pushing boundaries and revolutionizing the future of machine learning.
+
+EDUCATION
+
+Bachelor of Science in Computer Science, Northwestern University, Chicago, IL
+GPA: 3.9/4.0
+
+WORK EXPERIENCE
+
+Machine Learning Engineer, QuantumAI Corporation, Chicago, IL
+- Model Training and Deployment
+- Data Handling and Processing
+- Deep Learning
+- Communication and Collaboration
+- PyTorch
+- Agility and Problem-Solving
+
+Junior Software Developer, SynthoTech Solutions, Chicago, IL
+- C++
+- Team Player
+- Statistical Analysis
+- TensorFlow
+- Python
+- Understanding Deep Neural Net Research
+
+SKILLS
+
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+
+Chicago Urban Youth Mentorship Program, Volunteer Mentor
+- Engage and inspire underrepresented youth in pursuing STEM careers
+- Provide guidance and support for personal and academic development
+
+Sports Leadership, Basketball Team Captain
+- Lead and mentor a basketball team, promoting skill development, teamwork, and sportsmanship
+
+HOBBIES
+
+- Playing the piano
+- Exploring different cultures through music, art, and literature
+
+LANGUAGES
+
+- English (Native)
+- Spanish (Proficient)

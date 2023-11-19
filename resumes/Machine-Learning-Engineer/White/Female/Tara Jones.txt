@@ -1,0 +1,44 @@
+Tara Jones
+123 Main Street, Phoenix, Arizona | (555) 123-4567 | tarajones@email.com
+
+Personal Statement:
+Passionate and results-driven machine learning engineer with a strong background in statistical analysis, Python programming, and problem-solving. Committed to leveraging deep neural net research to develop cutting-edge solutions in the field of artificial intelligence. Skilled in PyTorch, C++, and model training and deployment with TensorFlow. Excellent communication and collaboration abilities fostered through diverse work experiences and volunteer leadership roles.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+Stanford University, Stanford, California
+
+Work Experience:
+Machine Learning Engineer Intern | AlphaByte, Inc., Palo Alto, CA
+- Performed statistical analysis, utilized Python for data processing and analysis, and employed visualization techniques.
+- Demonstrated agility and problem-solving to design and develop machine learning algorithms.
+- Utilized PyTorch to implement and optimize deep neural network research models.
+- Contributed to the development of machine learning systems using C++.
+
+Software Engineer Intern | BetaTech Solutions, San Francisco, CA
+- Led model training and deployment efforts by implementing machine learning algorithms using TensorFlow.
+- Executed data handling and processing techniques for large datasets, ensuring quality and efficiency.
+- Collaborated effectively with cross-functional teams, fostering excellent communication and collaboration.
+- Demonstrated adaptability and a team-player approach in a fast-paced, deadline-driven environment.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Board Member, Women in Technology Foundation, San Francisco, CA
+- Advocated for gender diversity and inclusion in the tech industry, organizing events and networking opportunities.
+- Mentored and supported aspiring female engineers, offering guidance and professional advice.
+- Organized and led a sports leadership program, empowering young girls to pursue their athletic aspirations in basketball.
+
+Hobbies:
+- Playing the piano
+- Exploring different cultures and music genres
+- Participating in community art festivals
+
+Languages:
+Fluent in English and Spanish
+
+References available upon request.

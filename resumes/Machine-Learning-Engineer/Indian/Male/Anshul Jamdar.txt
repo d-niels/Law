@@ -1,0 +1,41 @@
+Anshul Jamdar
+
+Personal Statement:
+A highly motivated and dedicated individual with a passion for machine learning and artificial intelligence. Utilizing my strong analytical skills and problem-solving abilities, I strive to contribute to the development of cutting-edge technologies. With a Bachelor's degree in Computer Science and hands-on experience in various machine learning frameworks and technologies, I am eager to leverage my skills as a Machine Learning Engineer.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, Chicago, Illinois
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Zeta Technologies, Chicago, Illinois
+- Utilized TensorFlow, Python, and PyTorch to develop and implement sophisticated machine learning models
+- Demonstrated agility and problem-solving abilities in optimizing model performance
+- Collaborated with cross-functional teams to ensure seamless integration of machine learning solutions
+- Communicated project updates and findings through clear and concise reports
+- Applied deep learning techniques to enhance program accuracy and efficiency
+
+Data Analyst, XYZ Corporation, Chicago, Illinois
+- Expertly handled and processed large datasets to extract meaningful insights
+- Utilized C++ for statistical analysis and efficient data manipulation
+- Stayed up-to-date with deep neural net research to understand the latest advancements
+- Conducted model training and deployment, ensuring accurate and effective implementation
+- Collaborated effectively within a team to streamline processes and achieve project objectives
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As an Indian male from Chicago, I actively engage in community-building efforts that promote diversity and inclusivity. I have held a leadership role as the captain of a local soccer team, where I fostered teamwork, strategic thinking, and effective communication to lead the team towards success.
+
+Hobbies:
+In my free time, I enjoy playing the guitar, an instrument that allows me to express my creativity and relax after the rigors of work. I also actively participate in various cultural events that celebrate ethnic diversity, as well as promote gender equality and empowerment. Additionally, I appreciate exploring new technologies and keeping up with the latest advancements in the field of machine learning.
+
+Languages:
+Fluent in English and Hindi.
+
+References:
+Available upon request.

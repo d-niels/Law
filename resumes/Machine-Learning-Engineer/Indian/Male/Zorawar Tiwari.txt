@@ -1,0 +1,47 @@
+Zorawar Tiwari
+123 Main Street, Dallas, Texas 12345 | (555) 123-4567 | ztiwari@email.com
+
+Personal Statement:
+Highly motivated Indian male with a passion for machine learning engineering. Strong background in deep learning and an understanding of deep neural net research. Effective in collaborating and communicating with cross-functional teams to achieve project goals. Seeking a challenging role as a Machine Learning Engineer to apply my skills and drive innovation in the field.
+
+Education:
+Bachelor of Science in Computer Science, XYZ State University, Dallas, Texas
+GPA: 3.9/4.0
+- Relevant coursework: Machine Learning, Artificial Intelligence, Data Structures, Algorithms
+- Member, AI Club, XYZ State University
+
+Work Experience:
+Machine Learning Engineer Intern, Innovative Technologies Inc., Dallas, Texas
+(June 20XX - August 20XX)
+- Developed deep learning models using Python and PyTorch framework
+- Simulated and analyzed data to gain insights and optimize model performance
+- Collaborated with researchers and engineers to understand deep neural net research
+- Contributed to the development of an image recognition algorithm for product recommendation
+
+Data Science Analyst, Advanced Analytics Solutions, Dallas, Texas
+(January 20XX - May 20XX)
+- Worked as a team player to develop and maintain machine learning-based applications using TensorFlow and C++
+- Demonstrated agility and problem-solving skills while resolving technical challenges
+- Conducted statistical analysis to extract useful insights from large datasets
+- Trained and deployed machine learning models for predictive analysis
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Indian Community Outreach Volunteer: Organized and participated in cultural events to promote Indian heritage and provide support to the Indian community in Dallas.
+- Cricket Team Captain: Led a local cricket team, fostering inclusivity and teamwork while developing strong athletic skills among team members.
+
+Hobbies:
+- Playing the Tabla, a classical Indian percussion instrument.
+- Exploring diverse cultures through music, art, and literature.
+- Participating in coding competitions and hackathons to continuously enhance technical skills.
+
+Languages:
+- English (Fluent)
+- Hindi (Native proficiency)
+
+References: Available upon request

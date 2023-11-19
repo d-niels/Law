@@ -1,0 +1,50 @@
+Personal Statement:
+
+As a black female machine learning engineer hailing from Detroit, Michigan, I am driven by a relentless passion for innovation and an unwavering belief in the power of technology to create positive change. With a Bachelor's degree in Computer Science and an exceptional GPA of 3.9, I have acquired the necessary skills and knowledge to excel in the field of artificial intelligence. My mission is to revolutionize industries through cutting-edge machine learning algorithms and models that address real-world challenges, ultimately enhancing the lives of individuals and communities.
+
+Education:
+
+Bachelor of Science in Computer Science, Detroit Technological University (DTU), Detroit, Michigan
+GPA: 3.9
+
+Work Experience:
+
+1. Machine Learning Engineer, Novus AI Solutions, Detroit, Michigan
+
+- Data Handling and Processing: Utilized advanced techniques to effectively clean, preprocess, and analyze large datasets for machine learning applications.
+- Deep Learning: Implemented state-of-the-art deep learning algorithms to develop high-performing models across various domains.
+- Agility and Problem-Solving: Demonstrated agility and the ability to solve complex problems efficiently, adapting to evolving project requirements.
+- Statistical Analysis: Applied robust statistical analysis methods to derive insights and validate model performance.
+- Understanding Deep Neural Net Research: Kept updated with the latest advancements in deep neural network research, incorporating cutting-edge techniques in model development.
+- Communication and Collaboration: Effectively communicated complex technical concepts and collaborated with diverse teams to achieve project milestones.
+
+2. AI Engineer, Quantum Analytics, Detroit, Michigan
+
+- Team Player: Collaborated seamlessly with interdisciplinary teams, ensuring efficient development and deployment of machine learning models.
+- Model Training and Deployment: Developed, fine-tuned, and deployed machine learning models using TensorFlow, PyTorch, and other frameworks.
+- TensorFlow and PyTorch: Expertly leveraged these frameworks to create and optimize deep learning models.
+- C++ and Python: Employed C++ and Python programming languages to design and maintain machine learning algorithms and tools.
+- Source Control: Implemented efficient version control using Git, facilitating collaborative development amongst team members.
+- Problem-Solving: Demonstrated exemplary analytical skills and employed effective debugging techniques to address intricate technical challenges.
+
+Skills:
+
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+- Promoting Inclusivity: Actively involved in advocating for diversity and inclusivity in the tech industry, with a particular focus on empowering African American women and promoting their representation in STEM fields.
+- Basketball Team Captain: Led my basketball team both on and off the court, fostering teamwork, discipline, and leadership skills among the members.
+
+Hobbies:
+
+- Saxophone Artist: Channeling my creativity and passion, I have been playing the saxophone for over five years, exploring a variety of musical genres.
+- Exploring Cultural Heritage: Enthusiastically engage in attending multicultural events and festivals, celebrating diversity and fostering cross-cultural understanding.
+
+Languages:
+
+- English (Fluent)
+- Spanish (Conversational)

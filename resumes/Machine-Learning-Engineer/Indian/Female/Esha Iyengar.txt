@@ -1,0 +1,37 @@
+**Personal Statement:**
+I am a highly motivated and dedicated machine learning engineer with a passion for leveraging cutting-edge technologies to solve complex problems. With a background in computer science and a strong focus on deep neural network research, I am well-equipped to contribute to the advancement of machine learning techniques. As an Indian female hailing from Los Angeles, California, I bring a unique perspective and a commitment to diversity and inclusion in all aspects of my work.
+
+**Education:**
+Bachelor of Science in Computer Science, Horizon University, Los Angeles, California
+GPA: 3.9
+
+**Work Experience:**
+
+*Machine Learning Engineer, Stellar Technologies (Los Angeles, CA)*
+- Conducted statistical analysis and utilized communication and collaboration skills to work effectively with cross-functional teams.
+- Developed and deployed machine learning models, applying an understanding of deep neural network research.
+- Utilized PyTorch for model training and utilized agility and problem-solving skills to deliver efficient solutions.
+
+*Software Engineer, Quantum Systems (Los Angeles, CA)*
+- Proficiently employed C++ and Python programming languages to develop and optimize software applications.
+- Demonstrated strong teamwork skills in collaborating with engineers to ensure effective data handling and processing.
+- Utilized TensorFlow and implemented deep learning techniques to enhance system performance.
+
+**Skills:**
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+**Volunteer & Leadership:**
+- Actively involved in promoting diversity and inclusion in the tech industry, leveraging my ethnicity and gender to inspire aspiring female engineers.
+- Served as a basketball team captain, leading the team to victories while fostering teamwork and cooperation.
+
+**Hobbies:**
+- Playing the violin, a musical instrument that brings joy and cultural enrichment.
+- Engaging in outdoor activities such as hiking and cycling to promote a healthy lifestyle and appreciate nature's splendor.
+
+**Languages:**
+- English (Native Proficiency)
+- Hindi (Native Proficiency)
+- Tamil (Conversational Proficiency)

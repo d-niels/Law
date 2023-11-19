@@ -1,0 +1,40 @@
+Personal Statement:
+A highly motivated and detail-oriented machine learning engineer with a passion for leveraging artificial intelligence to solve complex problems. With a strong foundation in computer science and an enthusiasm for continuous learning, I am dedicated to applying my skills and knowledge to drive innovation in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, Atlanta Metropolitan University, Atlanta, Georgia
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Zephyr Technologies, Atlanta, GA (2018-2020)
+- Developed deep learning models using C++ and PyTorch to improve image recognition accuracy by 20%.
+- Conducted research on deep neural networks, enhancing understanding and applying findings to improve algorithm efficiency.
+- Collaborated with a multidisciplinary team to foster agility and problem-solving, resulting in seamless integration of machine learning algorithms into the company's software.
+- Enabled efficient cross-functional teamwork, demonstrating strong communication and collaboration skills.
+
+Software Developer, Quantum Solutions, Atlanta, GA (2017-2018)
+- Utilized TensorFlow to train and deploy machine learning models, improving recommendation accuracy by 15%.
+- Implemented data handling and processing techniques, resulting in a 30% reduction in data preprocessing time.
+- Conducted statistical analysis to identify patterns and trends, enabling data-driven decision-making.
+- Demonstrated strong proficiency in Python programming for various development tasks.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate, TechForward Organization
+- Advocate for diversity in the tech industry, promoting both gender and ethnic equality.
+- Founder and leader of a basketball leadership program, encouraging young individuals from diverse backgrounds to participate in basketball and develop leadership skills.
+
+Hobbies:
+- Playing the guitar
+- Exploring diverse cultures and histories
+- Participating in local community events promoting diversity and inclusion
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Bengali (Basic proficiency)

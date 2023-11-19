@@ -1,0 +1,38 @@
+Personal Statement:
+As a black male from Washington, District of Columbia, I am determined to shatter barriers and make a significant impact as a machine learning engineer. My unwavering passion for leveraging cutting-edge technologies and my strong educational background in computer science have equipped me with the skills needed to contribute to revolutionary AI solutions that tackle real-world challenges.
+
+Education:
+Bachelor of Science in Computer Science
+Washington Metropolitan University, Washington, DC
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer | Innovatronix Solutions | Washington, DC
+- Leveraged statistical analysis, Python, TensorFlow, C++, PyTorch, and deep learning techniques to design and implement state-of-the-art machine learning models.
+- Stayed informed on the latest advancements in deep neural nets research, employing the most up-to-date methods in my projects.
+- Collaborated with cross-functional teams to ensure seamless model training and successful deployment.
+
+Software Developer | Quantum Innovations | Washington, DC
+- Demonstrated exceptional communication and collaboration skills, contributing to the development of cutting-edge software solutions.
+- Utilized expertise in data handling and processing to ensure efficient collection and organization of large datasets.
+- Thrived as a team player, adapting swiftly to evolving project requirements and effectively solving complex problems within tight deadlines.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Black Male Empowerment Program | Mentor | Washington, DC
+- Mentored and empowered young black males from disadvantaged communities, fostering their academic and personal growth.
+- Lead sports leadership programs, teaching valuable life skills through coaching basketball.
+
+Hobbies:
+- Playing the guitar and experimenting with different musical genres
+- Exploring the art of photography, capturing diverse cultures and breathtaking landscapes
+- Participating in and leading recreational soccer leagues, promoting inclusivity and teamwork
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)

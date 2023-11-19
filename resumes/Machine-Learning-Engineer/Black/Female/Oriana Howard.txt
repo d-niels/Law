@@ -1,0 +1,41 @@
+Oriana Howard
+
+Personal Statement:
+As a black female from Indianapolis, Indiana, I am driven to leave a lasting impact on the field of machine learning. With a strong educational foundation in computer science and a diverse range of skills, I am determined to leverage my expertise in Python, C++, and deep learning to revolutionize the industry as a machine learning engineer.
+
+Education:
+Bachelor of Science in Computer Science, Stellar University, Indianapolis, Indiana
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, NovaTech AI Solutions, Indianapolis, Indiana
+- Team Player: Collaborated seamlessly with interdisciplinary teams to develop cutting-edge machine learning models.
+- Communication and Collaboration: Effectively conveyed complex technical concepts to both technical and non-technical stakeholders.
+- Python: Employed Python programming language to design and optimize machine learning algorithms.
+- Deep Learning: Implemented advanced deep learning methodologies to enhance model performance.
+- Agility and Problem-Solving: Demonstrated exceptional adaptability to evolving project requirements and showcased strong problem-solving skills.
+- C++: Developed robust software components using C++ for efficient ML model operations.
+
+Data Analyst, Quantum Analytics, Indianapolis, Indiana
+- Statistical Analysis: Conducted in-depth statistical analysis on large datasets to extract valuable insights.
+- Data Handling and Processing: Managed data collection, cleaning, and analysis to derive actionable recommendations.
+- TensorFlow: Utilized TensorFlow framework to construct and train sophisticated deep neural networks.
+- Understanding Deep Neural Net Research: Kept abreast of the latest advancements in deep neural network research to ensure cutting-edge solutions.
+- PyTorch: Created machine learning models using the PyTorch framework.
+- Model Training and Deployment: Implemented seamless workflows for model training and deployment.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a black female machine learning engineer, I am deeply committed to empowering underrepresented communities in the tech industry. I actively engage in mentorship programs, where I provide guidance and support to aspiring black women pursuing careers in machine learning. Furthermore, I serve as a team captain for a local basketball club, where I promote teamwork, diversity, and inclusion within the sport.
+
+Hobbies:
+In my leisure time, I find solace in playing the violin, engaging in creative writing, and exploring various cultural traditions and histories. These hobbies allow me to express my artistic side while constantly embracing and celebrating the diverse tapestry of the world. Additionally, I am fluent in English and Spanish, enabling effective communication and collaboration with individuals from diverse backgrounds.
+
+Languages:
+- English (Fluent)
+- Spanish (Fluent)

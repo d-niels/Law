@@ -1,0 +1,61 @@
+Maya Sinha
+123 Street Name, Philadelphia, PA 12345
+Phone: (123) 456-7890
+Email: mayasinha@email.com
+
+--------------------------------------------------------------------------------------------------------------------
+
+Personal Statement:
+Dedicated and results-driven machine learning engineer with a strong passion for utilizing state-of-the-art techniques to develop innovative solutions. With a solid foundation in computer science and a deep understanding of deep neural net research, I am committed to fostering collaboration and communication to drive impactful results. As an Indian female in the field, I am motivated to promote diversity and inclusion in the tech industry. Leveraging agility, problem-solving skills, and a data-driven approach, I strive to contribute to cutting-edge machine learning projects.
+
+--------------------------------------------------------------------------------------------------------------------
+
+Education:
+Bachelor of Science in Computer Science
+University of California, Berkeley, CA
+GPA: 3.9/4.0
+
+--------------------------------------------------------------------------------------------------------------------
+
+Work Experience:
+Machine Learning Engineer | NexTech Solutions, Philadelphia, PA | January 2020 - Present
+- Developed deep learning models using TensorFlow for image recognition tasks, resulting in a 20% increase in accuracy.
+- Conducted statistical analysis on large datasets to extract meaningful insights and optimize model performance.
+- Collaborated with cross-functional teams to ensure effective communication and alignment of project goals.
+
+Software Developer Intern | InnovateTech, Philadelphia, PA | June 2019 - August 2019
+- Demonstrated agility and problem-solving skills by creating efficient data handling and processing pipelines using Python.
+- Contributed to model training and deployment using C++ and PyTorch, resulting in streamlined processes and improved performance.
+- Actively collaborated with the development team to troubleshoot and optimize software components.
+
+--------------------------------------------------------------------------------------------------------------------
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+--------------------------------------------------------------------------------------------------------------------
+
+Volunteer & Leadership:
+Gender and Ethnicity Representative | Women in Tech Initiative, Philadelphia Chapter | 2018 - Present
+- Organize events and workshops to promote diversity and inclusion within the tech community, focusing on gender and ethnicity representation.
+- Advocate for equal opportunities and empower women to pursue careers in technology.
+
+Leadership Role | Philadelphia Cricket Club | 2017 - Present
+- Serve as the team captain, leading and motivating a diverse group of players in competitive cricket matches.
+- Foster team collaboration and sportsmanship, while also helping team members improve their skills.
+
+--------------------------------------------------------------------------------------------------------------------
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures and traditions through literature and documentaries
+- Participating in community events that promote gender and ethnic inclusion
+
+--------------------------------------------------------------------------------------------------------------------
+
+Languages:
+- English (fluent)
+- Hindi (native)

@@ -1,0 +1,41 @@
+Xena Bose
+
+Personal Statement:
+Driven and innovative Machine Learning Engineer with a passion for leveraging data analysis and advanced algorithms to develop intelligent solutions. Committed to pushing boundaries and contributing to technological advancements. I thrive in collaborative environments and possess exceptional problem-solving skills, coupled with adaptability to evolving trends in the field.
+
+Education:
+Bachelor of Science in Computer Science, California Institute of Technology, Pasadena, California
+- Graduated with High Honors, GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Stellar Systems Inc., Los Angeles, California
+- Designed and implemented machine learning models using PyTorch, enhancing the company's agility and problem-solving capabilities
+- Collaborated with a diverse team of engineers to optimize and improve performance of existing C++ codebase
+- Demonstrated excellent communication and collaboration skills, facilitating seamless cross-functional teamwork
+- Conducted thorough statistical analysis on voluminous datasets, extracting valuable insights to drive optimization strategies
+- Excelled as an integral team player in a fast-paced, agile environment
+
+Data Scientist Intern, Quantum Insights, Los Angeles, California
+- Applied Python and TensorFlow to develop and deploy highly accurate deep learning models, boosting model training and deployment efficiency
+- Continuously researched and implemented cutting-edge deep neural net research findings to enhance the company's machine learning pipelines
+- Efficiently handled and processed massive volumes of data, streamlining data pipelines and ensuring data integrity
+- Collaborated effectively with team members to deliver high-quality solutions within strict deadlines
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively promote diversity and inclusion in the tech industry, particularly advocating for underrepresented communities as an Indian female engineer
+- Served as a Sports Leadership Representative, leading and inspiring aspiring young athletes in the field of tennis, fostering an inclusive and empowering environment
+
+Hobbies:
+- Playing the guitar to channel creativity and connect with diverse musical genres
+- Exploring world cinema, appreciating its cultural diversity and storytelling brilliance
+
+Languages:
+- Fluent in English, Hindi, and Tamil
+
+Note: The university, company names, and sport have been fictionalized for the purpose of this resume.

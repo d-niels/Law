@@ -1,0 +1,43 @@
+Personal Statement:
+Motivated, detail-oriented, and dedicated Machine Learning Engineer with a strong foundation in computer science and a passion for leveraging machine learning algorithms to drive innovation. I am committed to continuously honing my skills and staying up to date with the latest advancements in the field. Through my strong problem-solving abilities and collaborative nature, I strive to contribute to the development of cutting-edge solutions in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science
+University of Pennsylvania, Philadelphia, PA
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer | Aurora Technologies | Philadelphia, PA | June 2020 - Present
+- Developed and implemented machine learning models using Python, TensorFlow, and deep learning techniques
+- Collaborated with cross-functional teams to design and deploy data-driven solutions
+- Leveraged analytical skills to solve complex problems and optimize model performance
+- Engaged in effective communication to present results and insights to stakeholders
+
+Machine Learning Intern | Stellar Innovations | Philadelphia, PA | May 2019 - August 2019
+- Conducted in-depth research on deep neural networks and statistical analysis
+- Contributed to the development of machine learning models using PyTorch, C++, and other tools
+- Participated in model training and deployment, ensuring reliable and efficient data handling and processing
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role | LoveJoy Community Center | Philadelphia, PA | September 2018 - Present
+- Mentored and led a diverse group of athletes in the field of basketball
+- Organized and coordinated basketball tournaments, fostering unity and collaboration among participants
+- Emphasized the values of teamwork, dedication, and discipline
+
+As a Chinese female machine learning engineer, I am dedicated to promoting diversity and inclusion in the tech industry. Through my involvement in various leadership roles, I strive to inspire and empower individuals from underrepresented backgrounds.
+
+Hobbies:
+- Playing the piano
+- Exploring diverse cultures and promoting understanding
+- Engaging in community service initiatives that uplift marginalized communities
+
+Languages:
+- English (Fluent)
+- Chinese (Mandarin) (Native)
+- Spanish (Intermediate)

@@ -1,0 +1,47 @@
+Personal Statement:
+
+Dedicated and skilled machine learning engineer with a passion for innovation and a drive to make impactful contributions through technology. Equipped with a strong educational background in computer science and a proven track record in deep neural net research and data handling. Committed to leveraging machine learning techniques to solve complex problems and create cutting-edge solutions. A collaborative and detail-oriented professional with exceptional problem-solving abilities looking to join a dynamic team as a machine learning engineer.
+
+Education:
+
+Bachelor of Science in Computer Science
+Quantum University
+Washington, District of Columbia
+GPA: 3.9/4.0
+
+Work Experience:
+
+Machine Learning Engineer, NexCorp AI
+Washington, District of Columbia
+- Utilized expertise in deep neural net research and data handling to develop innovative machine learning models.
+- Employed Python, TensorFlow, C++, and PyTorch to implement and optimize machine learning algorithms.
+- Collaborated with cross-functional teams to ensure seamless integration of machine learning solutions into existing systems.
+- Conducted statistical analysis to evaluate model performance and iteratively improve predictive capabilities.
+
+Software Engineer, AstroMind Solutions
+Seattle, Washington
+- Successfully trained and deployed models for diverse projects, ensuring efficient and effective implementation of machine learning solutions.
+- Demonstrated strong communication and collaboration skills by working closely with stakeholders to understand business requirements and deliver impactful solutions.
+- Leveraged deep learning techniques to develop models for complex problem domains, improving business operations and customer experiences.
+- Contributed to team success by fostering a highly agile and problem-solving mindset, allowing for rapid adaptation and efficient delivery.
+
+Skills:
+
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Community Advocate, Organization A
+Washington, District of Columbia
+- Championed diversity and inclusion initiatives, actively working to promote equity and representation within the community by supporting individuals from underrepresented backgrounds, including the black community.
+- Led a basketball leadership program focused on fostering teamwork, discipline, and sportsmanship in youth athletes.
+
+Hobbies:
+
+Passionate about playing the saxophone and exploring different musical genres. Actively engaged in embracing cultural diversity, seeking opportunities to expand knowledge and appreciation for various ethnic traditions. Enjoy participating in basketball leagues and tournaments, emphasizing leadership and teamwork on and off the court.
+
+Languages: 
+Fluent in English and proficient in Spanish.

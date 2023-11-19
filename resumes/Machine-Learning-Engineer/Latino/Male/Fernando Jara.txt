@@ -1,0 +1,50 @@
+Fernando Jara
+Latino Male | El Paso, Texas | (123) 456-7890 | fernandojara@email.com
+
+Personal Statement:
+
+Highly motivated Machine Learning Engineer with a creative mindset and a passion for driving innovation in the field of artificial intelligence. Committed to integrating emerging technologies to develop cutting-edge machine learning solutions. Eager to contribute to a dynamic organization that values collaboration, diversity, and continuous learning.
+
+Education:
+
+Bachelor of Science in Computer Science, Rio Grande University, El Paso, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+
+Machine Learning Engineer | Horizon Intelligence, El Paso, Texas | March 2019 - Present
+- Leveraged statistical analysis and deep learning techniques to develop and implement advanced machine learning models.
+- Utilized the power of C++, PyTorch, and other frameworks to train and deploy ML models.
+- Actively involved in keeping up-to-date with the latest research in deep neural networks and translating it into actionable insights.
+- Demonstrated exceptional teamwork and effective communication skills while collaborating with multifunctional teams.
+
+Data Science Intern | Quantum Data Solutions, El Paso, Texas | June 2018 - August 2018
+- Demonstrated agility and strong problem-solving skills in designing and implementing efficient data handling and processing strategies.
+- Collaborated cross-functionally to develop and deploy machine learning models using TensorFlow and Python.
+- Engaged deep learning techniques to extract valuable insights from large, complex datasets.
+- Effectively communicated findings and recommendations through clear and concise reports.
+
+Skills:
+
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Sports Leadership Role | El Paso Latino Youth Sports Club - Soccer Team
+- Led a dynamic soccer team of young athletes, emphasizing sportsmanship, teamwork, and discipline.
+- Organized community initiatives and fundraising events to support underprivileged Latino youth in realizing their athletic aspirations.
+
+Hobbies:
+
+- Playing the guitar
+- Painting and sketching
+- Exploring nature and hiking
+
+Languages:
+
+- Bilingual: English and Spanish
+
+References available upon request.

@@ -1,0 +1,48 @@
+ZARA XAVIER
+
+Personal Statement:
+Motivated and detail-oriented machine learning engineer with a passion for leveraging cutting-edge technologies to solve complex problems. With a strong background in deep learning and statistical analysis, I am committed to developing innovative solutions that drive advancements in artificial intelligence. I thrive in collaborative environments and possess excellent communication skills. As an Indian female born and raised in Los Angeles, I am dedicated to promoting diversity and inclusivity in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Alpha University, Los Angeles, California
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Aurora Technologies, Los Angeles, California
+- Employed deep learning techniques to develop advanced models for image recognition.
+- Conducted statistical analysis to evaluate model performance and enhance algorithms.
+- Demonstrated agility and problem-solving skills in adapting to evolving project requirements.
+- Collaborated with interdisciplinary teams to optimize model training and deployment.
+- Utilized PyTorch and Python to implement efficient machine learning pipelines.
+
+Junior Machine Learning Engineer, Nova Systems, Los Angeles, California
+- Assisted in understanding and implementing research papers on deep neural networks.
+- Managed data handling and processing to ensure high-quality inputs for model training.
+- Worked as a proactive team player, providing support and contributing to team discussions.
+- Acquired proficiency in TensorFlow for implementing state-of-the-art deep learning models.
+- Implemented model training and deployment using C++ for efficient execution.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Co-Founder, Tech Diversity Alliance, Alpha University, Los Angeles, California
+- Promoted diversity and inclusion in the tech industry through various initiatives.
+- Organized workshops and seminars to empower underrepresented groups pursuing STEM degrees.
+- Led the society in facilitating networking events and mentorship programs for aspiring individuals in tech.
+
+Sports Leadership Role, Captain of the Alpha University Basketball Team, Los Angeles, California
+- Mentored and trained teammates, fostering their teamwork and leadership skills.
+- Led the team in various competitions, promoting a spirit of determination and sportsmanship.
+- Assisted in organizing basketball tournaments and coordinating team practices.
+
+Hobbies:
+- Playing the violin
+- Exploring various world cultures and their traditions
+- Promoting diversity through multicultural events and festivals
+
+Languages:
+Fluent in English and Hindi; Conversational in Spanish

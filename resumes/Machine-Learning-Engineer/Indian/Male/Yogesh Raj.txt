@@ -1,0 +1,45 @@
+Personal Statement:
+As an Indian male hailing from the vibrant city of Chicago, Illinois, my passion lies in leveraging the power of machine learning to revolutionize industries and drive technological innovation. With a Bachelor's degree in Computer Science from the prestigious Aurora University, where I achieved an outstanding GPA of 3.9, I am equipped with a strong foundation to excel as a Machine Learning Engineer. I thrive in dynamic environments, embrace challenges, and am driven by the opportunity to make a positive impact through cutting-edge technologies.
+
+Education:
+Bachelor of Science in Computer Science, Aurora University, Chicago, Illinois
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, TechGenix Solutions, Chicago, Illinois
+- Leveraged my deep understanding of machine learning algorithms to create innovative models
+- Expertise in data handling and processing for effective analysis and insights
+- Developed and implemented models using PyTorch framework
+- Demonstrated exceptional problem-solving skills and agility in addressing complex challenges
+- Collaborated with cross-functional teams, fostering effective communication and teamwork
+- Utilized C++ programming language for efficient algorithm development and optimization
+
+Data Analyst, DataSense Analytics, Chicago, Illinois
+- Utilized TensorFlow to develop and optimize machine learning models
+- Proficient in Python for data preprocessing, analysis, and visualization
+- Actively contributed as a team player, ensuring project success through collaboration
+- Conducted statistical analysis to extract meaningful insights from data
+- Applied deep learning techniques to improve model performance
+- Played a key role in model training and deployment processes
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and fostering inclusivity within the tech industry
+- Dedicated sports leader, organizing and leading basketball tournaments within the local community
+- Volunteered with organizations focused on empowering underrepresented communities, bridging the digital divide
+
+Hobbies:
+- Playing the tabla, an Indian percussion instrument that allows me to express my creativity
+- Exploring diverse cultures through music, art, and literature
+- Engaging in community football matches, fostering teamwork and healthy competition
+- Keeping up with the latest advancements in technology through avid reading and research
+
+Languages:
+- Fluent in English and Hindi
+
+References available upon request.

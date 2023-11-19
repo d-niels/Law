@@ -1,0 +1,49 @@
+Adriana Quintero
+Phoenix, Arizona | (555) 123-4567 | adriana.quintero@email.com
+
+Personal Statement:
+Passionate and driven Latino female machine learning engineer, leveraging technology to solve intricate problems. Committed to delivering innovative solutions through cutting-edge machine learning techniques. Eager to apply expertise and skills to contribute to the development of advanced artificial intelligence systems.
+
+Education:
+Bachelor of Science in Computer Science - Magna Cum Laude
+Arizona State University, Tempe, AZ
+GPA: 3.9/4.0 | Graduation Date: May 20XX
+
+Work Experience:
+Machine Learning Engineer, Aurora Technologies, Tempe, AZ
+June 20XX - Present
+- Developed and implemented machine learning algorithms for efficient data handling and processing, employing PyTorch and TensorFlow.
+- Led multiple deep learning projects, including model training and deployment.
+- Demonstrated agility and problem-solving skills by adapting algorithms and models to address diverse business requirements.
+- Collaborated with cross-functional teams to optimize machine learning algorithms and enhance system performance.
+
+Data Analyst, Quantum Analytics, Phoenix, AZ
+August 20XX - May 20XX
+- Conducted comprehensive statistical analysis and interpreted data to drive data-driven decision-making processes.
+- Stayed up-to-date with the latest deep neural net research to ensure the utilization of state-of-the-art techniques.
+- Maintained effective communication and collaboration with team members, contributing to the achievement of project milestones.
+- Leveraged Python and C++ for proficient data analysis and visualization, enhancing data processing efficiency.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Community Engagement and Diversity Advocate, Unity Empowerment, Phoenix, AZ
+- Organized and led workshops promoting ethnic and gender diversity to inspire underrepresented communities to pursue careers in technology.
+- Mentored and served as a role model for aspiring youth athletes in basketball.
+- Actively participated in initiatives promoting diversity within the organization.
+
+Hobbies:
+- Playing the piano
+- Exploring various cultures through culinary experiences
+- Engaging in hiking and capturing breathtaking landscapes through photography
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References:
+Available upon request

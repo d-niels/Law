@@ -1,0 +1,43 @@
+Ernesto Jara
+Dallas, Texas  |  (123) 456-7890  |  ernesto.jara@email.com
+
+Personal Statement:
+Results-driven machine learning engineer with a passion for leveraging cutting-edge technologies to develop innovative solutions. With a Bachelor's degree in Computer Science and a strong background in deep learning, statistical analysis, and problem-solving, I am dedicated to designing and implementing advanced models that drive real-world impact. Committed to collaborating with cross-functional teams, I am motivated by tackling complex challenges and continuously expanding my skills in machine learning.
+
+Education:
+Bachelor of Science in Computer Science, Dallas Tech University, Dallas, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Innovate Intelligence Systems, Dallas, Texas
+August 2019 - Present
+- Developed machine learning models using PyTorch, leveraging an agile approach to rapidly iterate and improve performance.
+- Conducted statistical analysis to gain insights from vast datasets and improve model accuracy.
+- Collaborated with a cross-functional team to deploy models in real-world environments.
+- Fostered effective communication within the team, ensuring seamless collaboration and problem-solving.
+- Demonstrated a strong ability to work collaboratively as a team player and effectively solve problems.
+
+Data Engineer, TechSolutions Analytics, Dallas, Texas
+May 2018 - July 2019
+- Utilized TensorFlow and C++ to train and deploy models for large-scale data processing and analysis.
+- Designed and implemented data handling and processing pipelines, ensuring seamless integration into existing systems.
+- Demonstrated a deep understanding of deep neural net research, staying updated with the latest advancements.
+- Developed Python scripts for efficient data wrangling and preprocessing.
+- Collaborated closely with data scientists and engineers to optimize performance and identify areas for improvement.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role: As a Latino male, I actively participate in promoting diversity and inclusion within the sports community. I lead a local basketball team, providing mentorship and guidance to empower young athletes to reach their full potential.
+
+Hobbies:
+Music: I am a skilled guitar player and enjoy exploring different genres of music. As a Latino, I find inspiration in incorporating traditional Latin rhythms into my compositions.
+Language: Fluent in English and Spanish, enabling effective communication and understanding of diverse perspectives.
+
+Languages:
+- English (Fluent)
+- Spanish (Fluent)

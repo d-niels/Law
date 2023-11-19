@@ -1,0 +1,46 @@
+RILEY UNDERWOOD
+123 ABC Street | San Francisco, California | (555) 123-4567 | riley.underwood@email.com
+
+PERSONAL STATEMENT
+Passionate and results-driven Machine Learning Engineer with a strong background in computer science and a genuine enthusiasm for pushing the boundaries of technology. Fueled by a deep understanding of deep neural net research, I am committed to leveraging my skills to drive innovation and create transformative solutions. As a white female from San Francisco, I am dedicated to fostering diversity and inclusion in the tech industry.
+
+EDUCATION
+Bachelor of Science in Computer Science, Golden Gate University, San Francisco, California
+- Major: Computer Science | Minor: Mathematics
+- GPA: 3.9/4.0
+
+WORK EXPERIENCE
+Machine Learning Engineer, NovaTech Solutions, San Francisco, California
+- Developed deep learning models using PyTorch, resulting in an improvement in accuracy by 15%.
+- Collaborated with a diverse team of engineers to solve complex problems and deliver scalable solutions.
+- Leveraged excellent communication and collaboration skills to effectively work with cross-functional teams.
+- Actively contributed to understanding and implementing deep neural net research into model architectures.
+
+Data Engineer, Stellar Analytics, San Francisco, California
+- Trained and deployed machine learning models using TensorFlow, achieving a 20% increase in prediction accuracy.
+- Utilized C++ and Python to develop efficient data handling and processing algorithms.
+- Conducted statistical analysis on datasets to extract valuable insights and support data-driven decision-making.
+- Proficiently managed SQL and NoSQL databases for streamlined data organization and retrieval.
+- Actively collaborated with cross-functional teams to design and implement end-to-end machine learning systems.
+
+SKILLS
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Volunteer, Empowerment Foundation
+- As a sports leader, organized and coached a youth soccer team, fostering teamwork, discipline, and determination.
+- Mentored underprivileged youth in San Francisco, providing guidance and support to empower them for a brighter future.
+
+HOBBIES
+- Playing the guitar
+- Photography
+- Exploring different cultures through music and art
+
+LANGUAGES
+- English (Fluent)
+- Spanish (Conversational)
+
+References available upon request.

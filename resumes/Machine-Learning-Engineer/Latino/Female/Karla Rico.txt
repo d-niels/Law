@@ -1,0 +1,38 @@
+Personal Statement:
+I am a highly motivated and dedicated machine learning engineer with a passion for leveraging data-driven solutions to tackle complex problems. As a Latina female from Las Vegas, Nevada, I bring a unique perspective to the field and strive to make a positive impact through innovative technology. With a strong educational background in computer science and hands-on experience in machine learning algorithms, I am equipped to contribute to cutting-edge projects and drive forward advancements in the field.
+
+Education:
+Bachelor of Science in Computer Science | GPA: 3.9
+TechTech University, Las Vegas, Nevada
+
+Work Experience:
+Machine Learning Engineer | DataTech Solutions
+- Developed robust algorithms for data handling and processing, ensuring efficient utilization of resources.
+- Conducted statistical analysis on large datasets, improving accuracy and driving informed decision-making.
+- Trained and deployed machine learning models using TensorFlow and Python to enhance performance and achieve optimal results.
+- Demonstrated agility and problem-solving skills, adapting quickly to dynamic project requirements.
+
+Machine Learning Engineer | TechVantage Systems
+- Collaborated effectively with cross-functional teams to develop and implement machine learning solutions.
+- Utilized C++ and PyTorch to design and optimize deep learning models, improving overall system performance.
+- Strengthened teamwork and communication skills while working in a fast-paced and challenging environment.
+- Kept up-to-date with the latest research in deep neural nets, further enhancing understanding and application capabilities.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively contribute to diversity initiatives in the field of technology, leveraging my Latina background to inspire and empower underrepresented individuals.
+- Hold a leadership role as the captain of an amateur soccer team, mentoring and guiding a diverse group of athletes.
+- Promote inclusivity and equal opportunities within the sports community, fostering an environment that values diversity and teamwork.
+
+Hobbies:
+- Playing the guitar and embracing my Latino heritage through music.
+- Exploring different cultures, their history, and traditions.
+- Engaging in outdoor activities, such as hiking and rock climbing, to challenge and push myself.
+
+Languages:
+- Fluent in English and Spanish

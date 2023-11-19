@@ -1,0 +1,41 @@
+Juliana Tovar
+123 Main Street, Houston, Texas | (555) 123-4567 | j.tovar@email.com
+
+Personal Statement:
+A highly motivated and dynamic Latina machine learning engineer, eager to contribute my technical skills and passion for innovation to develop cutting-edge machine learning algorithms. With a strong background in computer science and a proven ability to collaborate effectively in a team environment, I am dedicated to enhancing predictive modeling and improving automation processes. Recognized for my exceptional problem-solving abilities and efficient data handling techniques, I strive to create impactful solutions that address real-world challenges.
+
+Education:
+Bachelor of Computer Science, University of Houston, Houston, Texas | May 2021
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, QuantumAI, Houston, Texas | June 2021 - Present
+- Utilized Python, TensorFlow, and PyTorch to develop deep learning models for image recognition tasks.
+- Conducted model training and deployment, enhancing accuracy and efficiency while meeting project deadlines.
+- Collaborated within a multidisciplinary team to optimize machine learning algorithms, resulting in improved performance.
+- Contributed to research on understanding and implementing deep neural nets, staying current with the latest advancements.
+- Demonstrated agility and problem-solving skills to tackle complex data handling and processing challenges.
+
+Software Developer Intern, TechGen Inc., Houston, Texas | May 2020 - August 2020
+- Collaborated with cross-functional teams to develop and test software applications for data analysis and statistical analysis.
+- Utilized C++ to optimize code performance and enhance application functionality.
+- Engaged in effective communication and collaboration to ensure seamless integration of code updates and bug fixes.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Leadership Program, University of Houston | September 2018 - May 2021
+- Mentored and supported incoming Latino students, fostering an inclusive and empowering educational environment.
+- Held a leadership position within the university's soccer team, promoting teamwork, discipline, and perseverance.
+
+Hobbies:
+- Playing the piano to explore various genres of music, drawing inspiration from my Latin heritage.
+- Exploring diverse cultures and languages, fostering an appreciation for inclusion and global understanding.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)

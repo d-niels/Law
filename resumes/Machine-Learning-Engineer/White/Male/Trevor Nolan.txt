@@ -1,0 +1,42 @@
+Personal Statement:
+Motivated and detail-oriented machine learning engineer with a passion for developing innovative solutions through the application of artificial intelligence. With a strong background in computer science, I am equipped with the knowledge and skills necessary to excel in implementing and optimizing machine learning models. I thrive in collaborative environments, and my strong problem-solving abilities allow me to tackle complex challenges efficiently and effectively.
+
+Education:
+Bachelor of Science in Computer Science, Texas Tech University, Houston, Texas
+- GPA: 3.9
+
+Work Experience:
+
+Machine Learning Engineer, Stellar Data Science Solutions, Houston, TX
+- Model Training and Deployment
+- Agility and Problem-Solving
+- Team Player
+- Communication and Collaboration
+- C++
+- Deep Learning
+
+Data Scientist Intern, Quantum Insights, Houston, TX
+- Data Handling and Processing
+- Understanding Deep Neural Net Research
+- PyTorch
+- Statistical Analysis
+- Python
+- TensorFlow
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a proud white male, I actively promote diversity and inclusion in the workplace. Recognizing the importance of gender and ethnic equality, I advocate for creating an inclusive environment that values diverse perspectives and experiences. Additionally, I serve as a Sports Leadership Coordinator for our local community, leading and organizing competitive basketball leagues for individuals of all backgrounds.
+
+Hobbies:
+- Playing the piano
+- Exploring different cultures and traditions
+- Participating in recreational basketball with diverse groups
+
+Languages:
+- English (Fluent)
+- Spanish (Basic proficiency)

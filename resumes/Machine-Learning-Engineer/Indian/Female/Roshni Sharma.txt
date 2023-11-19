@@ -1,0 +1,40 @@
+Personal Statement:
+I am a highly motivated and skilled Indian female seeking a challenging role as a Machine Learning Engineer. With a strong academic background in computer science and a passion for data analysis and modeling, I am committed to pushing the boundaries of machine learning. I strive to develop innovative solutions that revolutionize the field and drive positive societal impact. As a dedicated team player with excellent problem-solving skills, I am eager to contribute to a progressive company that values diversity and fosters creativity.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, Houston, Texas
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Phoenix AI Solutions, Houston, Texas
+- Developed and implemented cutting-edge machine learning algorithms using TensorFlow and PyTorch.
+- Conducted in-depth statistical analysis of large datasets to derive actionable insights.
+- Collaborated with multidisciplinary teams to identify and address complex business problems effectively.
+- Handled and processed extensive data, ensuring its cleanliness and accuracy for analysis and modeling.
+- Leveraged Python for designing and implementing precise machine learning models.
+- Deployed trained models for production use, optimizing performance and accuracy.
+
+Data Analyst, Quantum Analytics, Houston, Texas
+- Demonstrated exceptional teamwork and leadership skills while working on diverse projects.
+- Displayed agility and strategic problem-solving abilities in a fast-paced and ever-evolving environment.
+- Utilized PyTorch and C++ to develop state-of-the-art deep learning models for computer vision tasks.
+- Kept abreast of the latest developments in deep neural net research to improve model capabilities.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in empowering and mentoring Indian females pursuing careers in technology, fostering a supportive and inclusive environment.
+- Served as the captain of a competitive volleyball team, leading the group to regional championships while instilling teamwork and discipline.
+
+Hobbies:
+- Playing the violin, adding a touch of artistic expression to my life and finding solace in the melodies.
+- Exploring diverse cultural experiences through travel, embracing and learning from different traditions and customs.
+
+Languages:
+- English (Fluent)
+- Hindi (Native fluency)
+- Spanish (Conversational)

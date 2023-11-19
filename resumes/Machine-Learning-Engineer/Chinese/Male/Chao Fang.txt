@@ -1,0 +1,44 @@
+Chao Fang
+San Jose, California | (555) 123-4567 | chaofang@email.com
+
+Personal Statement:
+Highly motivated and detail-oriented Machine Learning Engineer with a passion for leveraging artificial intelligence to drive innovative solutions. Dedicated to mastering cutting-edge technologies in the field, while utilizing strong programming skills and analytical thinking to develop scalable machine learning models. Committed to delivering exceptional results and exceeding expectations.
+
+Education:
+Bachelor of Science in Computer Science, Magna Cum Laude
+San Francisco State University
+
+Work Experience:
+Machine Learning Engineer | Stellar AI Solutions, San Francisco, CA | June 2019 - Present
+- Developed machine learning algorithms using PyTorch and conducted statistical analysis to derive meaningful insights from large datasets
+- Collaborated with cross-functional teams to design and implement data handling and processing techniques, improving algorithm efficiency
+- Communicated research findings and project progress effectively to team members and stakeholders
+- Leveraged C++ expertise to optimize deep learning models for enhanced performance
+
+Machine Learning Engineer Intern | QuantumTech Solutions, Palo Alto, CA | May 2018 - August 2018
+- Actively contributed as a key team player in understanding and implementing deep neural net research
+- Assisted in model training and deployment, ensuring reliable and accurate performance
+- Demonstrated agility and problem-solving skills while resolving technical issues during the development cycle
+- Utilized Python and TensorFlow to develop and deploy machine learning models
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Chairperson | Chinese American Student Association at San Francisco State University
+- Led a team in organizing cultural events, fostering a sense of belonging and community among Chinese students
+- Organized badminton leadership programs promoting teamwork and athletic excellence
+
+Hobbies:
+- Playing the piano
+- Exploring different art forms
+- Capturing moments through photography
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References available upon request.

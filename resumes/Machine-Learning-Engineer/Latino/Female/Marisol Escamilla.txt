@@ -1,0 +1,50 @@
+Marisol Escamilla
+123 Main Street, Dallas, Texas 12345 | (555) 123-4567 | marisol.escamilla@email.com
+
+Personal Statement:
+Innovative and proactive Machine Learning Engineer with a passion for leveraging advanced technologies to develop cutting-edge solutions. A result-oriented professional with a strong background in deep learning and model deployment. Committed to driving continuous improvement through strategic problem-solving and effective collaboration. Dedicated to leveraging her diverse background as a Latino female to contribute to the advancement of the field and promote diversity in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, May 20XX 
+University of Texas at Houston, Houston, Texas
+- Major: Computer Science
+- GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, TechMax Innovations, Dallas, Texas
+August 20XX - Present
+- Collaborated with a team of experts in understanding Deep Neural Net research and implementing state-of-the-art algorithms.
+- Utilized Python and C++ to design and develop efficient and scalable machine learning models.
+- Worked effectively within a diverse team, fostering a collaborative environment and delivering exceptional results.
+- Conducted statistical analyses to evaluate model performance and provide insights for optimization.
+- Led model training and deployment efforts, ensuring seamless integration with existing systems.
+
+Junior Machine Learning Engineer, DataBridge Technologies, Dallas, Texas
+June 20XX - August 20XX
+- Developed a strong foundation in Deep Learning techniques, particularly with PyTorch and TensorFlow frameworks.
+- Demonstrated agility and problem-solving skills while working in a fast-paced environment to deliver innovative solutions.
+- Collaborated effectively with cross-functional teams, including data scientists and software engineers, to address complex challenges.
+- Efficiently handled and pre-processed large datasets, ensuring accuracy and reliability during model training.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Association of Computer Science, Mentor and Workshop Facilitator
+- Actively participate in promoting diversity and representation in the tech industry.
+- Mentor students from underrepresented backgrounds, providing guidance and support.
+
+Sports Leadership Role: Captain of the University Basketball Team
+- Led a diverse team of athletes, fostering teamwork, discipline, and perseverance.
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures and languages
+- Engaging in various community activities promoting gender and ethnic diversity
+
+Languages:
+- English (Fluent)
+- Spanish (Native proficiency)

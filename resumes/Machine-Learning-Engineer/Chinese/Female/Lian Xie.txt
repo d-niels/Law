@@ -1,0 +1,37 @@
+Personal Statement:
+I am a highly motivated and dedicated machine learning engineer with a passion for leveraging cutting-edge technologies to solve complex problems. As a Chinese female hailing from San Francisco, California, my cultural background fuels my drive to make a significant impact in the field. With strong analytical and problem-solving skills, I am committed to driving innovation and pushing the boundaries of artificial intelligence.
+
+Education:
+Bachelor of Science in Computer Science (with honors), Golden Gate University, San Francisco, California (GPA: 3.9)
+
+Work Experience:
+Machine Learning Engineer, TechnoVision AI, San Francisco, CA
+- Developed state-of-the-art machine learning models using TensorFlow, revolutionizing image recognition and natural language processing.
+- Oversaw model training and deployment pipelines, ensuring seamless integration into production systems.
+- Demonstrated expertise in C++ to optimize performance and develop efficient algorithms.
+- Collaborated with cross-functional teams to translate complex business requirements into innovative technical solutions.
+- Conducted extensive statistical analysis on large datasets, uncovering valuable trends and patterns.
+- Expertly handled and processed data, ensuring its accuracy and reliability.
+
+Junior Machine Learning Engineer, DeepMind AI, San Francisco, CA
+- Collaborated closely with world-renowned researchers to develop and refine advanced deep neural network models.
+- Demonstrated exceptional proficiency in Python, leveraging libraries such as PyTorch to implement cutting-edge machine learning algorithms.
+- Applied deep learning techniques to improve the accuracy and efficiency of various projects.
+- Showcased agility and problem-solving skills by quickly adapting to new projects and finding innovative solutions.
+- Contributed to the advancement of deep neural net research, actively staying informed about the latest breakthroughs in the field.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a passionate advocate for diversity and gender equality, I actively volunteer my time to support underrepresented groups in the tech industry. I mentor aspiring female engineers and contribute to organizing diversity-focused events that champion inclusivity. Furthermore, I am a leader in my community for women's basketball, coaching and fostering teamwork, discipline, and leadership skills among aspiring basketball players.
+
+Hobbies:
+To reconnect with my cultural roots, I spend my leisure time playing the guzheng, a traditional Chinese zither. The instrument resonates with my soul and allows me to express myself artistically. Additionally, I'm an avid mountaineer, exploring the magnificent landscapes of California's national parks.
+
+Languages:
+- English (Fluent)
+- Chinese (Mandarin, Native)

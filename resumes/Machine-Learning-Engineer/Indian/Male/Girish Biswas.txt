@@ -1,0 +1,54 @@
+Girish Biswas
+210 Maple Street, Chicago, Illinois 12345
+(555) 123-4567
+girishbiswas@gmail.com
+
+Personal Statement:
+Passionate and dedicated Machine Learning Engineer with a strong background in computer science and a focus on deep learning and model deployment. Committed to leveraging advanced technologies to drive innovation and solve complex problems in the field. Strong analytical and problem-solving skills with a keen eye for detail. Excellent team player with effective communication and collaboration abilities.
+
+Education:
+Bachelor of Science in Computer Science, Chicago Institute of Technology, Chicago, Illinois
+- Graduated with a GPA of 3.9
+- Relevant coursework: Machine Learning, Artificial Intelligence, Data Structures, Algorithms
+
+Work Experience:
+Machine Learning Engineer, AlphaAI Technologies, Chicago, Illinois
+April 2018 - Present
+- Developed and deployed machine learning models using PyTorch and C++ for real-time data processing and analysis
+- Utilized deep learning techniques and algorithms to enhance model accuracy and performance
+- Handled large datasets, performed data preprocessing, and implemented efficient data handling techniques
+- Collaborated with cross-functional teams to ensure seamless integration of machine learning solutions into existing systems
+- Created and maintained code documentation, conducted code reviews, and implemented version control using Git
+
+Research Assistant, Beta Research Labs, Chicago, Illinois
+June 2017 - March 2018
+- Assisted in researching and understanding deep neural net models and their applications
+- Utilized TensorFlow for implementing and analyzing various deep learning architectures
+- Demonstrated agility and problem-solving skills in tackling research challenges and proposing innovative solutions
+- Conducted statistical analysis on experimental results and presented findings to the research team
+- Developed Python scripts for data preprocessing and analysis
+- Collaborated effectively with team members to ensure the smooth operation of research projects
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Chicago Youth Sports Club
+- Organized and led basketball training sessions for underprivileged children, promoting physical fitness and teamwork
+- Served as a team leader, providing mentorship, guidance, and support to young athletes
+- Actively involved in promoting diversity and inclusivity within the organization
+
+Hobbies:
+- Playing the guitar
+- Exploring various cultures through travel, music, and literature
+- Engaging in community discussions and initiatives to foster gender and ethnic equality
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+
+References:
+Available upon request.

@@ -1,0 +1,41 @@
+Personal Statement:
+Driven and visionary Machine Learning Engineer with a deep-rooted commitment to innovation and problem-solving. Passionate about harnessing the power of machine learning to create transformative solutions. With a strong background in computer science and a profound understanding of the latest advancements in artificial intelligence, I strive to contribute my expertise to drive remarkable breakthroughs in the field.
+
+Education:
+Bachelor of Science in Computer Science
+City University, Los Angeles, California
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer
+Insightful AI Solutions, Los Angeles, California
+- Collaborated seamlessly with a diverse team of engineers to develop state-of-the-art machine learning models using PyTorch and TensorFlow.
+- Conducted advanced statistical analysis to extract valuable insights from complex datasets, enhancing model accuracy and performance.
+- Demonstrated exceptional communication and collaboration skills to foster a highly efficient workflow and successfully achieve project milestones.
+- Stayed abreast of cutting-edge research on deep neural networks, incorporating the latest techniques to optimize and evolve models.
+
+Software Developer Intern
+Elevate Systems, Los Angeles, California
+- Applied deep learning algorithms to tackle intricate problems and optimize data processing, resulting in significant efficiency improvements.
+- Exhibited exceptional problem-solving skills and agility in resolving complex issues while meeting demanding project timelines.
+- Developed and maintained robust software systems utilizing Python and C++, enabling efficient data handling and processing.
+- Contributed to the model training and deployment processes to ensure seamless integration and high-performance outcomes.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Chinese American Cultural Exchange Group Leader: Led a vibrant team of Chinese-American youths, organizing cultural events and fostering cross-cultural exchange in the Los Angeles community.
+- Basketball Team Captain: Demonstrated exceptional leadership skills as the captain of a highly competitive basketball team, promoting teamwork, discipline, and resilience.
+
+Hobbies:
+- Playing the piano, exploring the intricate melodies of classical compositions
+- Practicing Taekwondo, embodying self-confidence and physical fitness
+- Immersing myself in diverse literature and traveling to experience and appreciate different cultures
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

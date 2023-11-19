@@ -1,0 +1,52 @@
+Diego Ybarra
+123 Main Street | Dallas, Texas | (123) 456-7890 | diegoybarra@email.com
+
+Personal Statement:
+Results-driven machine learning engineer with a passion for leveraging data and advanced algorithms to solve complex problems. Dedicated to utilizing statistical analysis and deep learning techniques to develop innovative solutions that drive business growth. Strong communication and collaboration skills, combined with a solid foundation in computer science, allow for effective teamwork and the ability to translate technical concepts to non-technical stakeholders.
+
+Education:
+Bachelor of Science in Computer Science
+Texas Tech University, Lubbock, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Quantum Solutions, Austin, Texas
+[Dates]
+
+- Collaborated with cross-functional teams to develop, train, and deploy machine learning models for various business applications.
+- Leveraged statistical analysis and data handling techniques to preprocess and analyze large datasets.
+- Implemented deep learning algorithms using C++, resulting in a significant improvement in model accuracy.
+- Developed an automated data processing pipeline to streamline model training and deployment processes.
+
+Data Scientist, Cybernetics Corporation, Dallas, Texas
+[Dates]
+
+- Led a team of machine learning engineers to develop and optimize deep neural networks using PyTorch and TensorFlow frameworks.
+- Applied problem-solving skills and agility to overcome challenges in model development and deployment.
+- Utilized Python and deep neural net research to enhance the company's data-driven solutions.
+- Actively participated in code reviews, fostering a collaborative and team-oriented environment.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Board Member, Latino Youth Mentoring Program, Dallas, Texas
+[Dates]
+
+- Mentored Hispanic students in the community to inspire academic and personal success.
+- Organized and led basketball leadership programs, promoting teamwork, discipline, and healthy competition.
+- Collaborated with local organizations and educational institutions to foster opportunities for Latino youth.
+
+Hobbies:
+- Playing the piano
+- Exploring diverse cultures through travel
+- Participating in local community events celebrating diversity
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References available upon request.

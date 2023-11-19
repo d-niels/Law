@@ -1,0 +1,42 @@
+Personal Statement:
+I am a passionate and forward-thinking professional with a strong interest in machine learning. As a Latino male from Las Vegas, Nevada, I bring a perspective that embraces diversity and fosters innovation. My goal is to leverage my expertise in computer science to drive advancements in the field of machine learning. I am seeking a challenging role as a Machine Learning Engineer where I can apply my skills and make a positive impact.
+
+Education:
+Bachelor of Science in Computer Science, University of Nevada, Las Vegas (UNLV)
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Aurora Technologies, Las Vegas, Nevada
+- Utilized PyTorch and Deep Learning techniques to develop advanced neural network models.
+- Stayed abreast of the latest research in Deep Neural Nets and implemented innovative advancements into machine learning models.
+- Collaborated effectively with cross-functional teams to integrate machine learning models into the production environment.
+- Demonstrated excellent communication and collaboration skills, gathering project requirements and providing regular updates to stakeholders.
+- Utilized C++ for optimizing and accelerating computational processes.
+
+Data Scientist, Quantum Analytics, Las Vegas, Nevada
+- Expertly handled and processed large datasets using Python to extract valuable insights and patterns.
+- Worked collaboratively with a diverse team to design and implement machine learning algorithms.
+- Demonstrated strong problem-solving skills and analytical thinking to tackle complex data challenges.
+- Trained and deployed machine learning models for predictive analysis and decision support.
+- Conducted comprehensive statistical analysis to evaluate model performance and provide actionable recommendations.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Engaged member of the Latino Computer Science Association, actively promoting diversity and inclusion in the tech industry.
+- Passionate sports team leader, cultivating teamwork and leadership skills within the Latino community.
+- Dedicated musician who plays the guitar and actively participates in local music groups.
+
+Languages:
+- Fluent in English and Spanish
+
+Hobbies:
+- Playing the guitar and composing music.
+- Exploring diverse cultures and languages.
+- Promoting diversity and inclusion in the tech industry.
+
+Note: The character Nacho Torres, the companies, and the university mentioned in the resume are entirely fictional and created for the purpose of this response.

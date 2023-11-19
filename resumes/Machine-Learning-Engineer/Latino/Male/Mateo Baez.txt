@@ -1,0 +1,50 @@
+------------------------------
+Personal Statement
+------------------------------
+I am a dedicated and ambitious machine learning engineer, driven by my passion for computer science. As a proud Latino male from Houston, Texas, I am committed to fostering diversity and inclusivity in the tech industry. With a strong background in data handling, processing, and deep learning, I am eager to contribute to the advancement of machine learning in meaningful ways.
+
+------------------------------
+Education
+------------------------------
+Bachelor of Science in Computer Science, GHI University, Houston, Texas
+- GPA: 3.9/4.0
+
+------------------------------
+Work Experience
+------------------------------
+Machine Learning Engineer, Lumina Technologies, Houston, Texas
+- Developed highly efficient data handling and processing algorithms using TensorFlow
+- Successfully collaborated with cross-functional teams to communicate project requirements and ensure seamless collaboration
+- Utilized Python programming skills to contribute to complex machine learning projects
+- Demonstrated agility and problem-solving abilities to overcome challenges and deliver high-quality solutions
+
+Software Engineer, Quantum Innovations, Houston, Texas
+- Implemented PyTorch and C++ to create advanced statistical analysis models
+- Conducted comprehensive model training and deployment, ensuring optimal performance
+- Deepened understanding of deep neural net research to continuously enhance the efficiency of machine learning models
+
+------------------------------
+Skills
+------------------------------
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+------------------------------
+Volunteer & Leadership
+------------------------------
+As a proud Latino male, I actively participate in organizations that promote diversity and inclusion within the tech industry. Additionally, I serve as a leader in the local soccer community, fostering teamwork and providing mentorship to young athletes. Music is also an integral part of my life, and I express my cultural identity through playing the guitar.
+
+------------------------------
+Hobbies
+------------------------------
+In my free time, I immerse myself in Hispanic culture by learning about diverse customs and traditions. I enjoy playing soccer, where I serve as a team captain and leader. Furthermore, I am passionate about cooking traditional Latin American dishes, constantly exploring new recipes and flavors. Music remains a significant part of my life, and I enjoy playing the guitar to express my creativity and emotions.
+
+------------------------------
+Languages
+------------------------------
+- English (Fluent)
+- Spanish (Native Proficiency)
+
+------------------------------

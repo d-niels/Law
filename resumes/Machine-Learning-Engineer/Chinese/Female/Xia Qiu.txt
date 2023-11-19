@@ -1,0 +1,46 @@
+Personal Statement:
+
+I am a driven machine learning engineer with a passion for utilizing artificial intelligence to solve complex problems. With a strong background in computer science and a dedication to staying updated on the latest industry trends, I am constantly seeking opportunities to apply my skills to make a positive impact. As a Chinese female engineer based in Chicago, I bring a unique perspective to diverse teams and strive to promote inclusivity and equality in the tech industry.
+
+Education:
+
+Bachelor of Science in Computer Science, Northwestern University, Chicago, Illinois
+GPA: 3.9/4.0
+
+Work Experience:
+
+Machine Learning Engineer, Quantum AI Technologies, Chicago, Illinois
+- Developed a deep understanding of deep neural net research, applying this knowledge to enhance model training and deployment processes.
+- Utilized C++ for efficient data handling and processing in machine learning workflows.
+- Demonstrated agility and problem-solving skills by adapting to changing project requirements and collaborating with cross-functional teams.
+- Actively contributed to team discussions and provided valuable insights to improve overall project performance.
+
+Data Analyst, Cybertech Analytics, Chicago, Illinois
+- Employed Python to perform statistical analysis on large datasets using machine learning algorithms.
+- Collaborated closely with teammates, leveraging effective communication and collaboration skills to achieve project objectives.
+- Utilized PyTorch and TensorFlow frameworks for deep learning model development and optimization.
+- Conducted thorough analysis of structured and unstructured data, providing actionable insights to clients.
+
+Skills:
+
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+- Sports Leadership Role: As the captain of a competitive volleyball team, I lead and motivate my teammates, fostering teamwork and sportsmanship to achieve shared goals.
+
+Hobbies:
+
+- Playing the erhu (traditional Chinese musical instrument) allows me to celebrate my cultural heritage while embracing my passion for music.
+- Engaging in various team sports, such as volleyball and basketball, empowers me to connect with others and inspire camaraderie.
+- Actively participating in local community organizations that promote diversity and empower women, fostering an inclusive society.
+
+Languages:
+
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+Note: Xia Qiu's ethnicity and gender are highlighted through her personal statement, volunteer & leadership section, and hobbies.

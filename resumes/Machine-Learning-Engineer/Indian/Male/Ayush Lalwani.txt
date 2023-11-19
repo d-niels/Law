@@ -1,0 +1,40 @@
+Ayush Lalwani
+
+Personal Statement:
+Dedicated and driven machine learning engineer with a passion for developing innovative solutions. With a strong academic background in computer science and experience in deep neural net research, I am well-equipped to contribute to cutting-edge projects. Offering expertise in C++, Python, statistical analysis, and data handling, I am committed to collaborating with teams to drive successful outcomes in machine learning projects.
+
+Education:
+Bachelor's Degree in Computer Science, Texas Advanced Technological Institute, Houston, Texas
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Research Intern, Aurora Technologies, Houston, Texas
+- Conducted in-depth deep neural net research and analysis to optimize model performance
+- Utilized C++, statistical analysis, and Python to enhance neural networks
+- Worked effectively as a team player, collaborating with cross-functional teams on projects involving data handling and processing
+
+Machine Learning Engineer, Innovision Systems, Houston, Texas
+- Developed and trained machine learning models using TensorFlow and PyTorch
+- Leveraged deep learning techniques to maximize model accuracy and efficiency
+- Demonstrated strong communication and collaboration skills in partnering with stakeholders to identify and solve complex problems efficiently
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role, Houston Robotics Club
+- Served as a team leader in the club's competitive robotics team, promoting collaboration and excellence in the field of robotics
+
+Promoting Diversity and Inclusion in the Tech Community, Texas Advanced Technological Institute
+- Organized events and initiatives to celebrate diversity and empower underrepresented minorities in the tech industry
+
+Hobbies:
+Playing the piano, embracing Indian classical music
+Participating in cultural exchange programs, promoting inclusivity and understanding
+Exploring different cultures through reading and travel experiences
+
+Languages:
+Fluent in English and Hindi

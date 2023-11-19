@@ -1,0 +1,40 @@
+Iliana Tellez
+
+Machine Learning Engineer
+
+Personal Statement:
+Passionate and highly motivated Machine Learning Engineer with a strong background in computer science. Exceptional problem-solving skills and a deep understanding of deep neural net research and model training and deployment. Committed to leveraging innovative technologies to develop efficient and accurate machine learning solutions. Dedicated to promoting diversity and inclusion within the tech industry as a proud Latina female from Los Angeles, California.
+
+Education:
+Bachelor of Science in Computer Science, California State University, Los Angeles
+- GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Research Assistant, InnovizTech Solutions, Los Angeles
+- Conducted comprehensive research in deep neural net models and advancements in theory and application.
+- Successfully trained and deployed deep learning models using TensorFlow and C++.
+- Demonstrated agility and problem-solving skills while collaborating with cross-functional teams.
+
+Data Analyst, InsightAI, Los Angeles
+- Efficiently handled and processed large datasets, ensuring accuracy and reliability.
+- Collaborated with a team of developers to implement machine learning algorithms using Python and PyTorch.
+- Utilized statistical analysis techniques to extract meaningful insights from raw data.
+- Demonstrated excellent communication and collaboration skills in a fast-paced environment.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Tech Association, Member
+- Actively involved in promoting diversity and empowerment within the tech industry as a Latina engineer.
+- Organized events and workshops to provide educational opportunities to underrepresented groups.
+- Sports Leadership Role: Captain of the University Basketball Team, leading by example and fostering a strong sense of teamwork.
+
+Hobbies:
+Playing the piano, showcasing my musical talents and expressing creativity through music.
+Embracing diversity in the arts by exploring different dance styles and performing with multicultural dance troupes.
+Engaging in community service activities that focus on uplifting and empowering minority communities.
+Languages: English, Spanish, French

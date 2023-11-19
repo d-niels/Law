@@ -1,0 +1,38 @@
+Personal Statement:
+I am a highly motivated and passionate machine learning engineer with a strong background in computer science. With a solid foundation in statistical analysis and deep learning, I thrive in collaborative environments and excel at problem-solving. My goal is to utilize my skills and knowledge to contribute to cutting-edge advancements in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, University of Texas, Dallas
+- Graduated with a GPA of 3.9
+
+Work Experience:
+1. Machine Learning Engineer, Innovision Technologies, Dallas, Texas
+- Utilized TensorFlow and PyTorch for model training and deployment
+- Demonstrated exceptional teamwork and collaboration skills
+- Proficient in deep learning techniques and statistical analysis
+
+2. Data Analyst, XenoData Solutions, Dallas, Texas
+- Displayed excellent communication and collaboration skills
+- Utilized Python for understanding deep neural net research
+- Exhibited agility and problem-solving capabilities in handling and processing large datasets
+- Worked with C++ for efficient data handling and processing
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in the Indian American Association, organizing cultural events and promoting cross-cultural understanding.
+- Served as a team captain in a local cricket league, fostering teamwork, leadership, and sportsmanship.
+
+Hobbies:
+- Skilled sitar player, exploring the rich tones of the traditional Indian musical instrument
+- Engaging in various art forms and attending multicultural events, celebrating diversity and cultural exchange
+- Participating in community-driven initiatives for gender and ethnic equality, advocating for a more inclusive society
+
+Languages:
+- Fluent in English and Hindi, with a strong understanding of conversational Punjabi.
+
+References available upon request.

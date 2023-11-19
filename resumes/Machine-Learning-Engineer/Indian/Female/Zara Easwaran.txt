@@ -1,0 +1,48 @@
+Zara Easwaran
+
+Personal Statement:
+A highly motivated and passionate Machine Learning Engineer with a background in computer science. Dedicated to developing innovative solutions using machine learning algorithms to address complex problems. Proficient in Python, PyTorch, TensorFlow, and deep learning techniques. Strong problem-solving and analytical skills combined with excellent communication and collaboration abilities.
+
+Education:
+Bachelor of Science in Computer Science
+XYZ University, Dallas, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, StellarAI
+Dallas, Texas
+- Developed machine learning algorithms utilizing PyTorch for model training and deployment
+- Conducted research on deep neural networks to improve understanding and implementation
+- Resolved technical challenges through agility and creative problem-solving
+- Collaborated with cross-functional teams to ensure effective communication and project execution
+- Utilized Python for data preprocessing, analysis, and visualization
+
+Data Scientist, TechGenius
+Dallas, Texas
+- Applied statistical analysis techniques to extract valuable insights from large datasets
+- Implemented deep learning models using TensorFlow for pattern recognition and prediction
+- Utilized C++ for optimizing data handling and processing algorithms
+- Contributed as a team player, actively engaging in brainstorming and problem-solving sessions
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer for United Indian Association
+  - Organized and led cultural events celebrating Indian traditions and heritage
+- Sports Leadership Role: Basketball Team Captain
+  - Led a basketball team, coordinating practices and guiding team members to success
+
+Hobbies:
+- Playing the Tabla (Indian percussion instrument)
+- Exploring diverse cultures and traditions through travel
+- Supporting women empowerment initiatives and promoting gender equality
+
+Languages:
+- English (fluent)
+- Hindi (native)
+
+References available upon request.

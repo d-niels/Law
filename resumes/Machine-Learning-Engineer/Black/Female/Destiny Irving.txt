@@ -1,0 +1,48 @@
+Destiny Irving
+123 Main Street, Memphis, Tennessee, 12345
+Phone: (555) 123-4567 • Email: destiny.irving@email.com
+
+Personal Statement:
+Passionate and dedicated machine learning engineer with a strong desire to leverage AI technologies and contribute to the development of innovative solutions. Committed to continuous learning and staying updated on the latest industry trends. Skilled in collaborating with multidisciplinary teams to deliver successful projects and drive business growth. Seeking a challenging role as a Machine Learning Engineer to utilize my skills and contribute to cutting-edge projects.
+
+Education:
+Bachelor of Science in Computer Science, Memphis Tech University, Memphis, Tennessee
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer Intern, Stellar Technologies, Memphis, Tennessee
+May 2020 - Present
+- Collaborated with a team of experts to develop deep learning algorithms for image recognition using Python and TensorFlow.
+- Conducted statistical analysis on large datasets to identify patterns and optimize model performance.
+- Assisted in the deployment of trained models, enabling real-time applications.
+- Contributed to ongoing research on understanding deep neural networks and their applications.
+
+Software Engineering Intern, Quantum Systems, Memphis, Tennessee
+May 2019 - August 2019
+- Developed robust data handling and processing pipelines using PyTorch and C++ for a large-scale machine learning project.
+- Collaborated closely with cross-functional teams to understand project requirements and contribute to model training and deployment.
+- Demonstrated agility and strong problem-solving skills in tackling complex technical challenges.
+- Utilized TensorFlow for efficient model training and achieved significant performance improvements.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Black Girls Code, Mentor & Volunteer
+- Mentored young black girls in introductory coding, promoting diversity and inclusion in the tech industry.
+- Organized workshops and coding sessions to introduce underrepresented youth to computer science.
+- Sports Leadership Role: Captain of the women's basketball team, fostering leadership, teamwork, and empowerment among black female athletes.
+
+Hobbies:
+- Playing the piano, showcasing musical talent and creativity.
+- Participating in spoken word poetry events, using poetry as a platform to address social and cultural issues.
+- Exploring diverse cultures and heritage through international travel experiences.
+
+Languages:
+- English (Native)
+- Spanish (Intermediate Proficiency)
+
+References available upon request.

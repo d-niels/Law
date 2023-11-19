@@ -1,0 +1,43 @@
+Hakeem Roberts
+Columbus, Ohio | 123-456-7890 | hakeemroberts@email.com
+
+Personal Statement:
+Passionate and forward-thinking machine learning engineer with a strong desire to use artificial intelligence technologies to solve intricate problems. With a deep understanding of cutting-edge deep neural net research and extensive experience in data handling and processing, I am skilled in developing and deploying innovative machine learning models. I thrive in collaborative team environments, utilizing exceptional problem-solving skills and effective communication to drive projects forward. As a proud black male in the tech industry, I am dedicated to fostering diversity and inclusivity.
+
+Education:
+Bachelor of Science in Computer Science, Capital University, Columbus, Ohio
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Machine Learning Engineer, InnovTech Solutions, Columbus, Ohio
+- Spearheaded research and development of deep neural network models, effectively incorporating the latest advancements in the field.
+- Demonstrated strong teamwork and collaboration skills while working closely with cross-functional teams to integrate AI technologies into company products.
+- Proficiently handled and processed vast amounts of data, ensuring accurate and efficient analysis through optimized algorithms.
+- Utilized programming languages such as C++, PyTorch, and Python for model implementation and evaluation.
+
+Machine Learning Engineer Intern, Visionary Systems, Columbus, Ohio
+- Leveraged TensorFlow and deep learning techniques to build and train machine learning models for various applications.
+- Collaborated with senior engineers to deploy models into production, ensuring seamless integration and efficient functionality.
+- Conducted statistical analysis to evaluate model performance and make informed recommendations for improvement.
+- Demonstrated agility and strong problem-solving skills in troubleshooting and optimizing models to deliver high-quality results.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the National Society of Black Engineers (NSBE), playing an integral role in organizing events and workshops to promote diversity and inclusion in STEM.
+- Sports Leadership Role: Team Captain of Capital University's basketball team, leading and motivating teammates to reach their full potential and achieve success on and off the court.
+
+Hobbies:
+- Playing the saxophone, skillfully improvising jazz and blues melodies.
+- Exploring diverse cultures through travel, art, and literature, embracing the beauty of global perspectives.
+- Actively supporting and participating in community initiatives that uplift and empower marginalized communities.
+
+Languages:
+- Bilingual: English and Spanish
+
+References:
+Available upon request.

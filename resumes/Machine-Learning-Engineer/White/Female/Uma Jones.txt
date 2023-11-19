@@ -1,0 +1,36 @@
+Uma Jones
+
+Personal Statement:
+A highly motivated and dedicated Machine Learning Engineer with a strong background in computer science. Passionate about creating cutting-edge solutions using machine learning algorithms to solve complex problems. Committed to leveraging statistical analysis and deep learning techniques to drive meaningful insights and impactful results. Collaborative and adaptive team player with exceptional problem-solving skills.
+
+Education:
+Bachelor of Science in Computer Science, Sunshine State University, Jacksonville, Florida
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Machine Learning Engineer, StellarTech Solutions, Jacksonville, Florida
+- Developed and implemented machine learning models for data analysis and prediction using C++
+- Collaborated with cross-functional teams to improve communication and foster collaboration in machine learning projects
+- Employed statistical analysis to generate valuable insights and support data-driven decision-making processes
+- Demonstrated agility and problem-solving abilities to meet project deadlines and deliver high-quality solutions
+- Efficiently handled and processed large datasets, ensuring data integrity and accuracy
+
+Junior Machine Learning Engineer, TechEdge Innovations, Jacksonville, Florida
+- Utilized PyTorch and TensorFlow to train and deploy deep neural network models
+- Proficient in Python for coding and implementing advanced machine learning algorithms
+- Stayed updated with the latest advancements in deep learning research to enhance model accuracy and performance
+- Collaborated closely with the team, exchanging ideas and optimizing models for enhanced results
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white female machine learning engineer, I am passionate about fostering diversity and inclusivity within the tech community. I actively mentor aspiring female engineers from underrepresented backgrounds, supporting their involvement in machine learning and AI. Additionally, I have held a leadership role in soccer, dedicating my time to promoting equal opportunities for young girls to excel in the sport.
+
+Hobbies:
+In my free time, I enjoy playing the piano, a creative outlet that allows me to explore different musical genres and express my artistic side. As someone with a global perspective, I have a keen interest in learning new languages. Fluent in English and Spanish, I appreciate the cultural exchange and deeper connections that language learning brings.
+
+Languages: English (fluent), Spanish (fluent)

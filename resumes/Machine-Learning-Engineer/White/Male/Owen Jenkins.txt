@@ -1,0 +1,41 @@
+Owen Jenkins
+
+Personal Statement:
+Dynamic and detail-oriented machine learning engineer with an unwavering commitment to leveraging data-driven approaches to develop innovative solutions. Possessing a strong background in computer science and a demonstrated ability to effectively communicate complex concepts. Committed to continual growth and staying up-to-date with the latest advancements in machine learning technologies.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, San Diego, California
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Stellar Innovations, San Diego, California
+- Utilized advanced data handling and processing techniques to efficiently preprocess and analyze extensive datasets
+- Collaborated with cross-functional teams to ensure effective communication and seamless teamwork
+- Demonstrated proficiency in Python for developing and implementing machine learning models focused on model training and deployment
+- Utilized PyTorch as the primary framework for model development
+
+Machine Learning Engineer, Quantum Analytics, San Diego, California
+- Leveraged C++ and statistical analysis to optimize the efficiency and performance of existing machine learning algorithms
+- Played a vital role as a proactive team player, contributing to the team's overall success
+- Developed expertise in deep learning methodologies, exploring and implementing state-of-the-art frameworks such as TensorFlow
+- Stayed abreast of the latest deep neural net research to enhance model accuracy and applicability
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate, ABC University
+- Organized meetings and events to promote awareness and create a diverse and inclusive environment for all students
+- Offered mentorship and support to underrepresented minority computer science students
+- Served as the captain of the university's basketball team, fostering teamwork and sportsmanship
+
+Hobbies:
+- Playing the piano
+- Exploring various art forms, particularly through attending galleries and exhibitions
+- Engaging in wilderness activities such as hiking and camping, connecting with nature and promoting environmental preservation
+
+Languages:
+Fluent in English and Spanish

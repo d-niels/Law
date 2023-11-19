@@ -1,0 +1,38 @@
+Personal Statement:
+As a black male from Memphis, Tennessee, I am deeply passionate about leveraging the power of machine learning to drive positive change. With a solid educational background in computer science and a hands-on experience in data analysis and model development, I am well-prepared for a role as a machine learning engineer. I am committed to staying at the forefront of deep neural network research and possess exceptional problem-solving skills. Collaborative by nature, I thrive in diverse teams and am driven to create innovative solutions that have a real-world impact.
+
+Education:
+Bachelor of Science in Computer Science, Delta University, Memphis, Tennessee
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, TechNova Solutions, Memphis, Tennessee (2018-2020)
+- Developed and implemented cutting-edge machine learning models utilizing C++, TensorFlow, and PyTorch
+- Conducted sophisticated statistical analysis to uncover valuable insights within large datasets
+- Led model training and deployment initiatives to enhance data processing efficiency and accuracy
+- Stayed updated with the latest advancements in deep neural network research
+
+Data Analyst, Quantum Insights, Memphis, Tennessee (2017-2018)
+- Proficiently handled and processed extensive datasets using Python for comprehensive analysis
+- Applied deep learning techniques to extract actionable insights from complex data structures
+- Demonstrated agility and adept problem-solving in resolving data-related challenges
+- Collaborated effectively within cross-functional teams to communicate findings and optimize data-driven strategies
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Sports Leadership Role: As the influential team captain of the Delta University basketball team, I successfully led and motivated a diverse group of athletes towards achieving team objectives. This position cultivated strong leadership, teamwork, and communication skills necessary for success both on and off the court.
+- Active member and mentor within the Black Computer Science Association at Delta University, organizing impactful events and workshops that promote inclusion, diversity, and access to technology resources.
+
+Hobbies:
+- Mastering the saxophone, an instrument that has allowed me to express my creativity, connect with others through music, and explore various genres.
+- Engaging in multicultural literature, fostering a love for diverse perspectives and narratives that broaden my understanding of different cultures and experiences.
+
+Languages:
+- Fluent in English and proficient in Spanish, enabling effective cross-cultural communication and the ability to engage with diverse communities.
+
+Overall, my diverse skill set, leadership acumen, and unwavering commitment to promoting diversity and inclusivity empower me to excel in the field of machine learning engineering. I am eager to harness my knowledge, experiences, and passion to drive innovation and make a meaningful impact.

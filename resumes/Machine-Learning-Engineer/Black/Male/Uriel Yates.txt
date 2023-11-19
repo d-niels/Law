@@ -1,0 +1,52 @@
+Personal Statement:
+
+As a black male from Washington, District of Columbia, I am a highly motivated and talented machine learning engineer seeking opportunities to contribute to cutting-edge projects in the field. With a strong background in computer science, I am passionate about developing innovative solutions and harnessing the power of machine learning to drive advancements in various industries. My unique experiences and perspective as an individual of color drive my commitment to promoting diversity and inclusion in the tech industry.
+
+Education:
+
+Bachelor of Science in Computer Science
+Metropolis University, Washington, District of Columbia
+GPA: 3.9
+
+Work Experience:
+
+Machine Learning Engineer, Stellar Innovations, Inc. (Metropolis, DC)
+[Dates]
+- Applied statistical analysis techniques to extract valuable insights from large datasets.
+- Conducted model training and deployment using deep learning algorithms.
+- Implemented and optimized C++ code for efficient machine learning processes.
+- Demonstrated effective communication and collaboration skills while working with cross-functional teams to deliver high-quality products.
+- Stayed updated with the latest advancements in deep neural net research to ensure continuous learning and improvement.
+
+Data Specialist, TechLink Solutions (Metropolis, DC)
+[Dates]
+- Expertly handled and processed large volumes of data, ensuring accuracy and efficiency in analysis.
+- Utilized TensorFlow and Python to develop and implement machine learning models.
+- Employed PyTorch for advanced data processing and manipulation, optimizing performance.
+- Demonstrated agility and problem-solving skills to overcome technical challenges.
+- Acted as a proactive team player, contributing to a collaborative work environment.
+
+Skills:
+
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+- Ethnicity & Gender Advocacy: Actively promote equality and diversity as a black male in the tech industry, including organizing events and discussions on the importance of representation and inclusivity.
+- Sports Leadership: Led a local basketball team, emphasizing teamwork, discipline, and sportsmanship to young athletes.
+
+Hobbies:
+
+- Playing the piano to express creativity and explore different musical genres.
+- Engaging in artistic pursuits that celebrate African-American culture and history.
+- Participating in community events that foster dialogue about social justice and racial equality.
+
+Languages:
+
+- English (Fluent)
+- French (Proficient)
+
+References available upon request.

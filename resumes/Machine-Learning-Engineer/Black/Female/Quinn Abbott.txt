@@ -1,0 +1,43 @@
+Quinn Abbott
+
+Personal Statement:
+An ambitious and highly motivated machine learning engineer with a deep passion for leveraging cutting-edge technologies to solve complex problems. With a solid foundation in computer science and a keen interest in deep neural net research, I am dedicated to pushing the boundaries of machine learning through innovative and practical solutions. Known for my strong analytical skills, collaborative approach, and ability to adapt to rapidly evolving environments, I am seeking a challenging role as a machine learning engineer to contribute to the advancement of this field.
+
+Education:
+Bachelor of Science in Computer Science, Chicago Technical University, Chicago, Illinois
+- Graduated with a 3.9 GPA
+- Relevant coursework: Machine Learning, Artificial Intelligence, Data Structures, Algorithms, Computer Vision, Natural Language Processing
+
+Work Experience:
+Machine Learning Engineer, Innovision Technologies, Chicago, IL
+- Developed advanced machine learning models using TensorFlow, conducting statistical analysis, and implementing deep neural net research to enhance algorithm performance
+- Demonstrated agility and problem-solving skills by optimizing model performance by 20% through experimenting with different datasets and hyperparameters
+- Collaborated with cross-functional teams to design and deploy machine learning systems integrated into existing product frameworks
+- Utilized C++ for efficient algorithm implementations and ensuring high-performance computations
+- Communicated complex technical concepts effectively to both technical and non-technical stakeholders
+
+Data Science Intern, Digital Insights Corporation, Chicago, IL
+- Employed Python and PyTorch to build, train, and deploy deep learning models for image classification tasks
+- Actively contributed as a team player in collaborating with data scientists, engineers, and researchers to implement end-to-end solutions
+- Demonstrated strong abilities in data handling and processing, including data preprocessing, feature extraction, and model evaluation
+- Leveraged expertise in deep learning techniques to achieve an accuracy improvement of 15% in multi-class image classification tasks
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in mentoring and supporting underrepresented students, particularly black females, in becoming involved in STEM fields
+- Held a leadership role as a captain of the basketball team, promoting teamwork, discipline, and fostering a sense of community on and off the court
+- Engaged in initiatives aimed at promoting and increasing diversity in the technology industry
+
+Hobbies:
+- Playing the saxophone, showcasing artistic expression and creativity
+- Exploring diverse cultures through language learning and intercultural exchange
+
+Languages:
+Fluent in English and proficient in Spanish
+
+Note: The names of the fictional companies, Innovision Technologies and Digital Insights Corporation, as well as the fictional Chicago Technical University, were created for illustrative purposes.

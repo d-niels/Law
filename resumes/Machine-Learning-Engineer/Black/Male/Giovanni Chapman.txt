@@ -1,0 +1,45 @@
+Giovanni Chapman
+
+Personal Statement:
+I am a highly motivated and skilled machine learning engineer with a passion for harnessing the power of artificial intelligence to solve complex problems. As a black male from Chicago, Illinois, I bring a unique perspective to the field, allowing me to develop inclusive and innovative solutions. With a strong academic background, industry experience, and a dedication to continuous learning, I am confident in my ability to contribute to advancements in machine learning technologies.
+
+Education:
+Bachelor of Science in Computer Science - Chicago University, Chicago, Illinois
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer - Digital Mind Innovations, Chicago, Illinois
+- Utilized TensorFlow and C++ to develop cutting-edge machine learning models
+- Effectively communicated and collaborated with cross-functional teams to gather requirements and deliver successful projects
+- Conducted statistical analysis and implemented deep learning techniques for improved predictive accuracy
+- Stayed updated with deep neural net research, ensuring the integration of the latest advancements into model designs
+
+Data Science Intern - Quantum Insights, Chicago, Illinois
+- Demonstrated agility and problem-solving skills in handling and processing data for various projects
+- Collaborated effectively within a team environment, contributing to the successful completion of machine learning initiatives
+- Utilized Python and PyTorch for model training and deployment, delivering scalable and efficient solutions
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnicity and Gender Advocate - Chicago Diversity and Inclusion Society
+- Contributed to promoting diversity and inclusion within the tech industry, particularly focusing on raising awareness of opportunities for black males
+- Organized workshops and seminars to provide resources and support to minority groups interested in pursuing careers in machine learning and data science
+
+Sports Leadership - Boys & Girls Club of Chicago
+- Mentored young boys from underrepresented communities, emphasizing the importance of teamwork and leadership through basketball
+
+Hobbies:
+- Playing the saxophone – Jazz and soul music
+- Attending cultural events and festivals celebrating Black heritage
+- Exploring art and photography exhibits that highlight diversity and social issues
+
+Languages:
+- English (fluent)
+- Spanish (intermediate)
+
+References available upon request.

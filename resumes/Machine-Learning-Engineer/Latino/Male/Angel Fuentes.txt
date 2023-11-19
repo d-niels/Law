@@ -1,0 +1,38 @@
+Angel Fuentes
+
+Personal Statement:
+Dedicated and results-driven Machine Learning Engineer with a passion for leveraging data-driven insights to solve complex industry problems. Possessing exceptional technical skills and a strong academic background, I am committed to delivering innovative solutions by applying cutting-edge machine learning techniques. As a proud Latino male from San Antonio, Texas, I bring a unique perspective and a diverse set of experiences to the technology industry.
+
+Education:
+Bachelor of Science in Computer Science, San Antonio University (San Antonio, Texas)
+- GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, TechGenius Solutions (San Antonio, Texas)      April 2018 - Present
+- Collaborated with a multidisciplinary team to develop and implement machine learning models using Python, PyTorch, and TensorFlow
+- Conducted in-depth statistical analysis to extract meaningful insights from large datasets
+- Utilized both supervised and unsupervised learning algorithms to perform predictive analytics and anomaly detection
+- Demonstrated strong communication and collaboration skills to effectively present findings and algorithms to stakeholders
+
+Data Scientist Intern, Innovision Technologies (San Francisco, California)      May 2017 - August 2017
+- Assisted in understanding deep neural network research and collaborated on model training and deployment using C++
+- Applied agile problem-solving techniques to optimize deep learning algorithms
+- Efficiently handled and processed large volumes of data for analysis and modeling purposes
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in the Latino and Hispanic Association, promoting diversity and inclusivity in the technology field
+- Sports Leadership Role: Captain of the university soccer team, fostering teamwork and a competitive spirit in the sport
+
+Hobbies:
+- Playing the guitar and exploring various musical genres to unwind and express creativity
+- Embracing cultural diversity through travel experiences and learning about different ethnic traditions and customs
+- Participating in local soccer leagues to promote camaraderie, sportsmanship, and a healthy lifestyle
+
+Languages:
+- Bilingual: Fluent in English and Spanish

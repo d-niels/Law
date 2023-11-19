@@ -1,0 +1,47 @@
+Personal Statement:
+I am a highly motivated and dedicated machine learning engineer with a passion for innovative problem-solving and a drive to push the boundaries of artificial intelligence. With a strong background in computer science and a focus on machine learning, I am eager to utilize my skills and knowledge to create cutting-edge solutions in this rapidly evolving field. As a detail-oriented and collaborative team player, I strive for continuous improvement, always seeking new challenges and opportunities to learn and grow. My diverse background and experiences shape my perspective, enabling me to bring unique insights to every project.
+
+Education:
+Bachelor of Science in Computer Science, California Institute of Technology, Pasadena, CA
+- Major: Computer Science
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, InnovateAI Solutions, San Diego, CA
+- Developed machine learning models using C++ and Python, training and deploying models for real-world applications.
+- Utilized frameworks such as TensorFlow for model development.
+- Demonstrated agility and problem-solving skills to adapt to evolving project requirements.
+- Collaborated effectively with cross-functional teams, ensuring seamless communication and successful project outcomes.
+
+Software Engineer, NexGen Laboratories, San Diego, CA
+- Applied deep learning techniques and PyTorch framework to enhance data processing methods.
+- Conducted statistical analysis to gain insights from large datasets.
+- Refined data handling techniques to improve efficiency and accuracy.
+- Stayed up-to-date with current research in deep neural networks, implementing cutting-edge approaches.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+- Model Training and Deployment
+- C++, Agility and Problem-Solving
+- Communication and Collaboration
+- Python, TensorFlow
+- Team Player, Deep Learning
+- PyTorch, Statistical Analysis
+- Data Handling and Processing
+- Understanding Deep Neural Net Research
+
+Volunteer & Leadership:
+- Volunteer at the San Diego STEM Initiative, promoting diversity and inclusion in STEM education.
+- Sports Leadership Role: Basketball Team Captain, actively encouraging female participation in the sport and fostering team spirit.
+
+Hobbies:
+- Playing the piano, incorporating various musical genres to appreciate different cultural heritages.
+- Exploring different cultures through literature, art, and cinema, celebrating diversity and promoting empathy and understanding.
+
+Languages:
+- English (fluent)
+- Spanish (proficient)
+- French (basic understanding)

@@ -1,0 +1,45 @@
+Personal Statement:
+As a dedicated machine learning engineer, I am driven by my passion for leveraging artificial intelligence to solve complex problems. With a strong academic foundation and practical experience, I am confident in my abilities to contribute meaningfully to cutting-edge projects. I aspire to utilize my skills and knowledge to make a positive impact in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science (Major in Machine Learning)
+University of California, Berkeley, Berkeley, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer
+InnovateAI Solutions, Houston, TX
+June 2019 - Present
+- Led model training and deployment processes, ensuring high accuracy and efficiency.
+- Fostered collaboration among cross-functional teams, facilitating effective data gathering and troubleshooting.
+- Conducted thorough statistical analyses to optimize models and enhance system performance.
+- Demonstrated exceptional communication and collaboration skills while working in a fast-paced team environment.
+- Applied deep learning techniques to improve prediction accuracy and provide valuable insights.
+- Managed data handling and processing procedures, ensuring data integrity and accuracy.
+
+Software Engineer Intern
+TechVision Corporation, Houston, TX
+May 2018 - August 2018
+- Developed Python-based machine learning algorithms and integrated them into the company's existing infrastructure.
+- Utilized TensorFlow and PyTorch libraries to implement deep neural network architectures.
+- Demonstrated agility and effective problem-solving abilities, addressing algorithmic challenges promptly.
+- Stayed up-to-date with the latest deep neural network research to enhance understanding and expertise.
+- Implemented optimization techniques using C++ to improve algorithm performance and memory management.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Sports Leadership: I have emerged as a leader in the local basketball community, spearheading my team to victory as the captain and inspiring a strong sense of camaraderie.
+- Cultural Advocacy: Actively involved in organizing cultural events and promoting diversity and inclusion within the Chinese community, facilitating cross-cultural understanding.
+
+Hobbies:
+- Playing the Guzheng (a traditional Chinese instrument): Embracing my heritage and connecting with my roots, I find solace and expression through playing the melodic strings of the Guzheng.
+- Ethnic Studies: Deepening my understanding of various cultures and ethnicities through active participation in ethnic studies courses.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

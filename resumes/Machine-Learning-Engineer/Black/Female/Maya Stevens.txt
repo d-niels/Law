@@ -1,0 +1,49 @@
+Maya Stevens
+
+Personal Statement:
+A highly motivated and results-oriented machine learning engineer with a strong educational background in computer science. Passionate about leveraging cutting-edge technologies to solve complex problems and contribute to the field of artificial intelligence. Committed to continuous learning and growth, Maya aims to make a significant impact in the development and deployment of innovative machine learning solutions. Maya has a deep appreciation for diversity and inclusion in the tech industry, actively working towards breaking barriers and empowering underrepresented communities.
+
+Education:
+Bachelor of Science in Computer Science
+North Carolina State University, Raleigh, NC
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer Intern
+Innovix AI Technologies, Charlotte, NC
+August 2019 - December 2019
+- Developed deep learning models using TensorFlow for image recognition and natural language processing.
+- Conducted statistical analysis to evaluate model performance and enhance accuracy.
+- Collaborated with a multidisciplinary team on model training, optimization, and deployment.
+- Ensured smooth communication and collaboration between teams to achieve project milestones.
+- Demonstrated strong teamwork and a proactive approach to problem-solving.
+
+Data Analyst
+VectorWave Research, Raleigh, NC
+September 2018 - May 2019
+- Handled and processed large datasets, ensuring data quality and integrity.
+- Studied and understood the latest research on deep neural networks to identify potential applications in the company's projects.
+- Utilized PyTorch for developing and implementing machine learning algorithms.
+- Demonstrated agility and problem-solving skills, adapting to evolving project requirements.
+- Programmed in C++ and Python to optimize performance and ensure efficient data processing.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Maya actively supports and volunteers at the RiseUp Black Tech Community, an organization dedicated to empowering and uplifting black individuals in the tech industry.
+- Sports Leadership: Maya serves as a team captain for the Charlotte Women's Basketball League, fostering teamwork, and inspiring fellow athletes to reach their full potential.
+
+Hobbies:
+- Maya enjoys playing the saxophone to explore musical talents and express creativity.
+- Engaging in community theater, Maya continues to promote inclusivity and give voice to diverse stories.
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate proficiency)
+
+References:
+Available upon request.

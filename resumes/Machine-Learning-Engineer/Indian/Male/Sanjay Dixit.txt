@@ -1,0 +1,40 @@
+Personal Statement
+
+I am a dedicated and passionate Machine Learning Engineer with a strong background in computer science. With a keen interest in artificial intelligence and its potential to transform industries, I strive to contribute to cutting-edge projects that push the boundaries of technology. As an Indian male from Atlanta, Georgia, I bring a unique perspective and diverse skillset to any team. My mission is to harness the power of machine learning to drive innovation and impact in the world.
+
+Education
+
+Bachelor of Science in Computer Science (B.S. CS), Prestigious University of Technology, Atlanta, Georgia (GPA: 3.9/4.0)
+
+Work Experience
+
+Machine Learning Engineer, InnovateAI Corp., Atlanta, GA
+- Utilized TensorFlow and PyTorch to develop and deploy state-of-the-art machine learning models for various applications
+- Conducted extensive data handling and processing, ensuring the accuracy and efficiency of algorithms
+- Implemented deep learning solutions using Python programming language
+- Collaborated closely with cross-functional teams to deliver cutting-edge AI solutions
+
+Software Engineer, Visionary Systems, Atlanta, GA
+- Conducted in-depth research on deep neural networks and collaborated with researchers to implement relevant findings
+- Leveraged statistical analysis techniques to evaluate and optimize system performance
+- Demonstrated proficiency in C++ for software development and integration
+- Successfully communicated and collaborated with team members to ensure smooth project execution
+
+Skills
+
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership
+
+As an Indian male, I am deeply committed to fostering diversity and equal opportunities in the field of technology. I have volunteered as a mentor in organizations that support and empower underrepresented individuals pursuing careers in tech. Additionally, I have taken on a leadership role as the captain of a local basketball team, rallying and guiding my teammates to success.
+
+Hobbies
+
+Beyond my professional pursuits, I find solace and joy in playing the sitar, a traditional Indian musical instrument. It allows me to express my creativity and connect with my cultural heritage. In my spare time, I also indulge in traveling, capturing the beauty of different landscapes through photography.
+
+Languages
+
+Fluent in English and Hindi

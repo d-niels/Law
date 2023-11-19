@@ -1,0 +1,37 @@
+Personal Statement:
+Highly motivated and results-driven machine learning engineer with a passion for leveraging cutting-edge technology to develop innovative solutions. A proactive problem solver with a strong background in computer science and a keen interest in deep neural net research. Committed to driving advancements in artificial intelligence and delivering impactful results. A dedicated team player who thrives in collaborative environments and possesses excellent communication skills.
+
+Education:
+Bachelor of Science in Computer Science, Texas Technological University, Houston, Texas, GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Quantum Innovations, Houston, Texas
+- Model Training and Deployment: Developed and deployed machine learning models to enhance user experience and optimize business operations.
+- Agility and Problem-Solving: Employed agile methodologies to adapt quickly to evolving project requirements and effectively solve complex problems.
+- Understanding Deep Neural Net Research: Stayed updated with the latest research in deep neural networks and incorporated innovative techniques into model development.
+- Programming Languages: C++, PyTorch
+- Team Player: Collaborated with cross-functional teams to ensure seamless integration of machine learning algorithms into existing systems.
+
+Data Analyst, Visionary Analytics, Houston, Texas
+- Statistical Analysis: Conducted thorough statistical analysis on large datasets to identify patterns and trends, contributing to data-driven decision-making processes.
+- TensorFlow and Python: Utilized TensorFlow and Python to develop and implement machine learning algorithms for accurate data analysis.
+- Data Handling and Processing: Proficiently handled and processed large datasets to extract meaningful insights and optimize data analysis procedures.
+- Communication and Collaboration: Effectively communicated findings and collaborated with teams to implement data-driven solutions.
+- Deep Learning: Applied deep learning techniques to optimize predictive analytics models.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Latinx Women in Tech: Acted as a mentor and advocate for Latinx women pursuing careers in technology. Provided support and guidance in navigating the industry and empowering others to succeed.
+- Soccer Team Captain: Demonstrated leadership abilities as a team captain for a local soccer team, fostering teamwork and promoting sportsmanship among diverse group members.
+
+Hobbies:
+- Playing the Guitar: Passionate about playing the guitar and exploring various musical genres.
+- Language Enthusiast: Fascinated by languages, actively learning and exploring different languages to broaden cultural understanding and communication skills.
+
+Languages:
+Bilingual: English and Spanish

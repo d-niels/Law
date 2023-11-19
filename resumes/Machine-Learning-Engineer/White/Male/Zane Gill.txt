@@ -1,0 +1,39 @@
+Personal Statement:
+As a machine learning engineer, I am fueled by my fascination with artificial intelligence and its potential to transform industries. I am committed to leveraging my technical skills and expertise to develop innovative solutions that drive tangible outcomes. With a strong passion for problem-solving and a collaborative mindset, I strive to continuously learn and apply cutting-edge techniques to make a meaningful impact in the field.
+
+Education:
+Bachelor of Science in Computer Science, Madison University, Madison, Wisconsin
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, InnovateAI Labs, Madison, Wisconsin
+- Developed and optimized machine learning models using Model Training and Deployment techniques
+- Proficient in PyTorch and Deep Learning algorithms to drive accurate predictions and insights
+- Leveraged C++ for effective data handling and processing, improving efficiency and performance
+- Demonstrated strong teamwork and collaboration skills to integrate models seamlessly with other systems
+
+Research Assistant, Quantum Insight Research Institute, Madison, Wisconsin
+- Demonstrated deep understanding of current Deep Neural Net Research principles and advancements
+- Utilized Python and TensorFlow to develop and enhance complex deep learning models
+- Conducted statistical analysis to extract meaningful insights and improve model performance
+- Effectively communicated research findings to team members and stakeholders
+- Demonstrated agility and problem-solving skills to overcome research challenges
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving Skills: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Dedicated Volunteer, Madison Inclusion Initiative
+- Actively contribute to initiatives advocating for diversity and inclusion in the technology sector
+- Mentor and support underrepresented individuals pursuing careers in tech
+- Leadership Role: Team Captain, leading and fostering teamwork in [sport, e.g., basketball] by organizing practices and coordinating tournaments
+
+Hobbies:
+- Avid guitarist, expressing creativity and emotion through music
+- Passionate about photography, capturing moments that tell unique stories
+
+Languages:
+- Fluent in English and Spanish

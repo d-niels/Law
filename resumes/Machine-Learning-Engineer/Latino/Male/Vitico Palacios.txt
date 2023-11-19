@@ -1,0 +1,35 @@
+Personal Statement:
+I am a highly motivated and dedicated machine learning engineer with a passion for leveraging cutting-edge technologies to drive innovation. As a Latino male from Austin, Texas, I bring a unique perspective that adds value to diverse teams. With a strong background in computer science and experience in model training, statistical analysis, and deep learning, I am well-equipped to tackle complex challenges in the field.
+
+Education:
+Bachelor of Science in Computer Science, University of Texas at Austin
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Stellar AI Solutions, Austin, Texas
+- Team Player: Collaborated with cross-functional teams to deliver efficient and scalable machine learning solutions.
+- Model Training and Deployment: Developed and implemented models for real-time data processing and inference.
+- Data Handling and Processing: Expert in preprocessing, cleaning, and transforming large datasets.
+- Python: Utilized Python programming for machine learning algorithm development and data visualization.
+- Communication and Collaboration: Effectively communicated complex concepts to both technical and non-technical stakeholders.
+- Deep Learning: Applied deep learning techniques to improve accuracy and efficiency of models.
+
+Software Engineer, Quantum Data Science, Austin, Texas
+- Statistical Analysis: Conducted statistical analysis on large datasets to identify patterns and insights.
+- PyTorch: Implemented machine learning models using PyTorch framework.
+- C++: Developed software applications and optimized algorithms using C++.
+- Agility and Problem-Solving: Adapted quickly to changing project requirements and resolved challenges efficiently.
+- Understanding Deep Neural Net Research: Kept up-to-date with the latest research and advancements in deep neural networks.
+- TensorFlow: Leveraged TensorFlow for model development and optimization.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a Latino male, I am committed to empowering underrepresented communities in STEM fields. I have actively volunteered with organizations such as Latinx in Tech and the Society of Hispanic Professional Engineers, where I mentored aspiring students and supported initiatives to increase diversity. Furthermore, I have served as a team captain in a local soccer league, promoting teamwork and discipline.
+
+Hobbies:
+In my free time, I enjoy playing the guitar, an instrument that allows me to express my creativity and appreciate different music styles. I also have a strong interest in various cultures, and I actively engage in learning different languages to deepen my understanding of different communities.

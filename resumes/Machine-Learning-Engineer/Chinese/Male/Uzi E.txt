@@ -1,0 +1,38 @@
+Personal Statement:
+I am a highly motivated and dedicated machine learning engineer with a passion for developing innovative solutions. With a strong educational background in computer science and extensive industry experience, I am confident in my ability to contribute effectively to cutting-edge projects. I am particularly interested in leveraging my skills in statistical analysis, deep learning, and problem-solving to drive advancements in machine learning technology. As a Chinese male from Philadelphia, I bring a unique perspective that enhances diversity and fosters collaboration in the workplace.
+
+Education:
+Bachelor of Science in Computer Science, Liberty University, Philadelphia, Pennsylvania
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Innovio Analytics, Philadelphia, Pennsylvania
+- Team Player: Collaborated with a multidisciplinary team to develop and implement machine learning models.
+- Statistical Analysis: Utilized statistical techniques to identify patterns and derive insights from large datasets.
+- PyTorch, Python, TensorFlow: Developed machine learning models using these frameworks to improve accuracy and efficiency.
+- Communication and Collaboration: Effectively communicated technical concepts to non-technical stakeholders and collaborated with cross-functional teams.
+
+Machine Learning Engineer, Quantum Insights, Philadelphia, Pennsylvania
+- Data Handling and Processing: Efficiently handled and processed large-scale data to ensure the quality of training datasets.
+- Deep Learning: Developed and optimized deep learning models to improve accuracy and solve complex problems.
+- Agility and Problem-Solving: Demonstrated flexibility in adapting to evolving project requirements and rapidly solved challenges.
+- C++: Utilized C++ for efficient implementation and optimization of machine learning algorithms.
+- Understanding Deep Neural Net Research: Stayed up-to-date with the latest research in deep neural networks to apply cutting-edge techniques.
+- Model Training and Deployment: Trained and deployed machine learning models to production environments.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Asian American Association, Liberty University: Served as a member and actively promoted diversity and cultural awareness.
+- Basketball Team Captain: Led a highly competitive basketball team, fostering team spirit and promoting cooperation among players.
+
+Hobbies:
+- Playing the piano: Enjoy expressing musical creativity through this versatile instrument.
+- Exploring diverse cultures: Passionate about learning and experiencing different cultures through travel, music, and art.
+
+Languages:
+- Fluent in English and Mandarin Chinese, enabling effective communication in multicultural environments.

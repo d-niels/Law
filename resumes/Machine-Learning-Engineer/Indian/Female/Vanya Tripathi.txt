@@ -1,0 +1,44 @@
+Vanya Tripathi
+
+Personal Statement:
+A highly motivated and detail-oriented machine learning engineer with a strong academic background in computer science. I am passionate about developing cutting-edge AI solutions and applying them to real-world challenges. With a focus on deep neural networks and advanced statistical analysis, I aim to contribute to the development of innovative machine learning models. As an Indian female, I am committed to promoting diversity and inclusion in the technology industry.
+
+Education:
+Bachelor of Science in Computer Science
+ABC University, Los Angeles, California
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer Intern, DeltaSoft Innovations, Los Angeles, CA
+- Collaborated in understanding deep neural network research and applied it to develop powerful machine learning models.
+- Proficiently utilized Python and PyTorch to implement and optimize machine learning algorithms.
+- Demonstrated strong communication and collaboration skills within a multidisciplinary team.
+- Conducted data handling and processing to ensure smooth workflow and accurate results.
+- Proven ability to work as a reliable team player in fast-paced environments.
+
+Data Science Intern, GammaTech Solutions, Los Angeles, CA
+- Utilized agility and problem-solving skills to develop and deploy machine learning models.
+- Conducted model training and deployment using TensorFlow and ensured their efficiency.
+- Performed statistical analysis on large datasets to extract relevant insights.
+- Proficient in C++ for optimizing deep learning algorithms.
+- Demonstrated expertise in deep learning techniques for advanced model development.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively promoted diversity and inclusion as a board member of the Cultural Awareness Club at ABC University, organizing events highlighting different ethnicities and traditions.
+- Served as a team captain in competitive tennis, leading the team to victory and fostering sportsmanship among teammates.
+- Mentored female students pursuing STEM subjects, providing guidance and support to empower them in technology fields.
+
+Hobbies:
+- Playing the piano to express creativity and cultivate a deep appreciation for music.
+- Exploring different artistic forms, including painting and photography, to nurture a well-rounded perspective.
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+- Spanish (Conversational)

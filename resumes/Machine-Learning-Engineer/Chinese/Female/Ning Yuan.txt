@@ -1,0 +1,44 @@
+Ning Yuan
+
+Personal Statement:
+Highly motivated and detail-oriented Machine Learning Engineer with a strong academic background in Computer Science. Skilled in utilizing various machine learning frameworks, tools, and algorithms to develop innovative solutions. A quick learner with excellent problem-solving abilities and a collaborative mindset. Dedicated to applying cutting-edge technologies to solve complex problems and deliver impactful results.
+
+Education:
+Bachelor of Science in Computer Science, Pacific Technical University, Honolulu, Hawaii
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Machine Learning Engineer, Stellar AI Solutions, Honolulu, Hawaii
+- Leveraged Python to develop and optimize deep neural network models for image recognition
+- Contributed to research and understanding of deep neural network architectures
+- Utilized TensorFlow and PyTorch to implement and enhance machine learning algorithms
+- Proficient in C++ for efficient algorithm implementation
+- Demonstrated strong communication and collaboration skills while working with cross-functional teams to ensure seamless integration and implementation of machine learning projects
+
+Data Analyst Intern, DataTech Innovations, Honolulu, Hawaii
+- Gathered and processed large datasets using advanced data handling and processing techniques
+- Conducted statistical analysis to identify patterns and trends for improving business performance
+- Trained and deployed machine learning models, leading to enhanced decision-making processes
+- Collaborated effectively with team members, demonstrating a strong team player mentality
+- Showcased problem-solving skills and agility in resolving complex issues within tight deadlines
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Asian American Leadership Association, Member and Sports Team Leader (Basketball)
+- Actively contributed to promoting cultural diversity and empowering Asian American individuals
+- Led a basketball team, organizing tournaments and fostering teamwork in the community
+
+Hobbies:
+- Playing the Guzheng (traditional Chinese instrument)
+- Exploring art and photography, capturing cultural experiences through a lens
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+Note: Ning Yuan is a fictional character for a novel and does not reflect a real person. The information presented here is purely imaginative and created for storytelling purposes.

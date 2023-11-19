@@ -1,0 +1,47 @@
+Keenan Vaughn
+
+Personal Statement:
+Driven by curiosity and a passion for machine learning, I am an innovative and dedicated individual constantly seeking to push the boundaries of technological advancements. As a machine learning engineer, my goal is to create intelligent systems that positively impact society while promoting diversity and inclusion within the industry. With a strong foundation in computer science, I am confident in my ability to tackle complex problems and collaborate effectively in multidisciplinary teams.
+
+Education:
+Bachelor of Science in Computer Science
+Columbus Technical University, Columbus, Ohio
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer
+Advanced Data Solutions, Columbus, Ohio
+- Developed robust data handling and processing systems, enabling efficient preprocessing of large datasets for machine learning projects.
+- Demonstrated agility and problem-solving skills in a fast-paced environment, delivering high-quality solutions within project deadlines.
+- Utilized C++ to optimize code performance and enhance system capabilities, ensuring efficient and scalable solutions.
+- Collaborated seamlessly with cross-functional teams, fostering a cooperative and productive work environment.
+- Conducted in-depth statistical analysis to extract valuable insights and improve model performance.
+- Leveraged Python for data analysis and model development, employing industry best practices.
+
+Machine Learning Research Assistant
+InnovationX Labs, Columbus, Ohio
+- Played a pivotal role in the development and deployment of machine learning models using TensorFlow, effectively tackling complex challenges and ensuring optimal model performance.
+- Demonstrated strong communication and collaboration skills while working closely with researchers and engineers to drive innovation.
+- Utilized PyTorch to develop cutting-edge deep learning models and contributed to the improvement of existing frameworks.
+- Deeply engaged in understanding the latest research advancements in deep neural networks, enhancing model capability and innovation.
+- Successfully trained and deployed models using efficient model training and deployment techniques.
+  
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- As a black male in the field of machine learning, I actively advocate for diversity and inclusivity within the industry, empowering underrepresented individuals to pursue careers in technology.
+- Served as a sports leadership coordinator, organizing and leading basketball programs for underprivileged youth, fostering teamwork, discipline, and personal growth.
+- Mentored and motivated young black students to explore opportunities in the field of machine learning and artificial intelligence, promoting diversity in STEM.
+
+Hobbies:
+- Playing the saxophone and composing music, expressing my creativity and passion for the arts.
+- Exploring diverse cultures through travel, embracing the beauty of different traditions, languages, and customs.
+
+Languages:
+- Fluent in English and Spanish
+
+References available upon request.

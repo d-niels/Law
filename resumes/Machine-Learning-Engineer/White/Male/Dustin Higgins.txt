@@ -1,0 +1,52 @@
+Dustin Higgins
+San Antonio, Texas | dustinhiggins@gmail.com | (123) 456-7890
+
+Personal Statement:
+Dedicated and detail-oriented machine learning engineer with a passion for developing innovative solutions. Strong background in model training and deployment, statistical analysis, and deep learning techniques. Equipped with exceptional problem-solving skills and a collaborative mindset, driving successful outcomes for complex projects. Committed to leveraging machine learning algorithms to deliver impactful results in the field. 
+
+Education:
+Bachelor of Science in Computer Science, Magna Cum Laude
+San Antonio State University, San Antonio, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer | Quantum Innovations, San Antonio, TX
+June 2019 - Present
+- Successfully developed and deployed machine learning models, improving data handling and processing efficiency by 30%.
+- Implemented statistical analysis techniques to derive valuable insights from large datasets, resulting in an optimized decision-making process.
+- Collaborated with cross-functional teams to enhance agility in problem-solving and ensure seamless model integration.
+- Utilized C++ and deep learning frameworks to advance the quality and accuracy of machine learning algorithms.
+
+Research Assistant | Eureka AI Labs, San Antonio, TX
+August 2018 - May 2019
+- Conducted thorough research on deep neural net advancements, contributing to the understanding of cutting-edge techniques.
+- Demonstrated proficiency in TensorFlow and PyTorch to develop robust models with high predictive accuracy.
+- Facilitated effective communication and collaboration among team members, leading to efficient project execution.
+- Exhibited strong Python programming skills to analyze and process complex datasets.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Ambassador | San Antonio Tech Society
+- Actively promoted diversity and inclusion in the tech community, organizing events and initiatives to foster a more inclusive environment.
+- Collaborated with local organizations to offer technology-related workshops and mentorship programs for underrepresented communities.
+
+Sports Leadership Role: Soccer Team Captain | San Antonio City FC
+- Demonstrated strong leadership skills by guiding and motivating the team to achieve both individual and collective goals.
+- Effectively communicated strategies and collaborated with teammates to ensure seamless coordination during games.
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures through music, literature, and art
+- Attending live music performances
+- Participating in community outreach initiatives focused on diversity and equality
+
+Languages:
+- English (Native Proficiency)
+- Spanish (Conversational Proficiency)
+
+References available upon request.

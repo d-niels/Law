@@ -1,0 +1,43 @@
+Ernesto Quintero
+123 Main St. | Dallas, TX 12345 | (555) 555-5555 | ernestoquintero@email.com
+
+Personal Statement:
+Passionate and driven machine learning engineer with a diverse background in computer science. Dedicated to leveraging artificial intelligence technologies to revolutionize industries. As a Latino male, I bring a unique perspective and a deep appreciation for diversity and inclusion in tech. Committed to developing cutting-edge solutions and making a positive impact.
+ 
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Texas A&M University, College Station, TX
+
+Work Experience:
+Machine Learning Engineer | Quantum AI Solutions, Dallas, TX | May 2018 - Present
+- Actively collaborate with a cross-functional team to develop, train, and optimize deep neural network models using Python, TensorFlow, and PyTorch.
+- Conduct in-depth research on state-of-the-art deep learning techniques to enhance model accuracy and efficiency.
+- Implement and deploy machine learning models at scale, resulting in a 30% increase in accuracy for customer predictive analytics.
+- Provide technical guidance to non-technical stakeholders and contribute to team presentations.
+
+Data Analyst | Data Dynamics, Austin, TX | August 2016 - April 2018
+- Analyze large datasets and perform statistical analysis to derive meaningful insights for clients.
+- Develop robust data preprocessing pipelines and design efficient algorithms using C++ to streamline data processing.
+- Collaborate closely with team members to ensure effective communication and problem-solving within project timelines.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Student Association Member | Texas A&M University
+- Organize cultural events and fundraisers to celebrate and promote Latino heritage on campus.
+- Mentor incoming Latino students, providing academic and emotional support to facilitate their success.
+
+Basketball Youth League Coach | Dallas Youth Basketball Association
+- Coach and mentor young athletes in developing technical skills and fostering teamwork, discipline, and resilience.
+
+Hobbies:
+Playing the guitar, exploring different genres of music, hiking, photography
+
+Languages:
+Fluent in English and Spanish
+
+References available upon request.

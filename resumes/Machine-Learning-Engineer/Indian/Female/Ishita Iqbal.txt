@@ -1,0 +1,52 @@
+Personal Statement:
+Ishita Iqbal
+Washington, DC
++1 (XXX) XXX-XXXX
+ishita.iqbal@email.com
+
+Passionate machine learning engineer with a strong background in computer science and a drive to innovate. Dedicated to developing cutting-edge solutions and leveraging advanced technologies to solve complex problems. Committed to collaborating with cross-functional teams and delivering exceptional results. Seeking a challenging role as a machine learning engineer to contribute my skills and knowledge to drive machine learning projects forward.
+
+Education:
+Bachelor of Science in Computer Science, Stellar University, Washington, DC
+GPA: 3.9 | Date of Graduation: May 20XX
+
+Work Experience:
+Machine Learning Engineer, Quantum Innovations, Washington, DC
+June 20XX - Present
+- Developed machine learning algorithms using PyTorch and C++, enabling accurate predictions in complex data sets.
+- Collaborated with cross-functional teams to ensure smooth integration of machine learning models into existing systems.
+- Contributed to the understanding of deep neural network research within the company, sharing insights and advancements.
+- Utilized Python for data preprocessing, model training, and validation.
+- Fostered effective communication and collaboration within the team, promoting knowledge sharing and productivity.
+
+Data Scientist Intern, Nexbit Solutions, Washington, DC
+September 20XX - December 20XX
+- Leveraged TensorFlow to develop and optimize models, enhancing agility and problem-solving capabilities.
+- Handled large datasets efficiently, implementing data handling and processing techniques to extract meaningful insights.
+- Applied deep learning algorithms to enhance prediction accuracy in complex scenarios.
+- Conducted statistical analysis and provided actionable recommendations based on data-driven insights.
+- Received recognition for delivering well-documented and scalable code for model training and deployment.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Community Leader | Sports Leadership Role
+Indo-American Sports Association, Washington, DC
+- Led a diverse team, organizing and managing cricket tournaments for a multicultural community, promoting inclusivity and fostering teamwork.
+- Advocated for gender equality within the sports industry while empowering women to take leadership roles.
+
+Hobbies:
+- Playing the tabla, a traditional Indian musical instrument, showcasing cultural richness and fostering a connection to heritage.
+- Participating in coding competitions to further enhance problem-solving and programming skills.
+- Engaging in photography to capture the beauty of diverse landscapes and cultural celebrations, highlighting the richness of different ethnicities.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Bengali (Conversational)
+
+References available upon request.

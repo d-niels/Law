@@ -1,0 +1,40 @@
+Personal Statement:
+As a passionate and determined Latina machine learning engineer, I am committed to utilizing my technical expertise to drive innovation and create impactful solutions. With a solid education in computer science and valuable work experience, I strive to push the boundaries of AI technology, while also advocating for diversity and empowerment within the industry.
+
+Education:
+Bachelor of Science in Computer Science, Techtron University, Dallas, Texas
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Innovio Technologies, Dallas, Texas
+- Leveraged C++, Python, and Agility to develop and implement cutting-edge machine learning models.
+- Collaborated as a team player to identify and solve complex problems using deep learning techniques and PyTorch.
+- Assisted in the training and deployment of models, ensuring efficient data handling, processing, and statistical analysis.
+- Demonstrated expertise in TensorFlow and a deep understanding of neural network research.
+
+Software Engineer, Quantum Solutions, Dallas, Texas
+- Utilized effective communication and collaboration skills to work in a dynamic team environment.
+- Managed data handling and processing operations for optimized model training and deployment.
+- Conducted in-depth statistical analysis to enhance performance and accuracy of deep learning models.
+- Showcased expertise in TensorFlow for efficient model implementation and maintenance.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Served as a basketball team captain, leading and inspiring a diverse group of athletes to success both on and off the court.
+- Actively participated in events and initiatives promoting gender and ethnic diversity in the tech industry, sharing experiences and mentoring aspiring Latina professionals.
+
+Hobbies:
+- Playing the guitar and composing music
+- Exploring diverse cultures through travel
+- Engaging in community service initiatives to uplift underprivileged communities
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References available upon request.

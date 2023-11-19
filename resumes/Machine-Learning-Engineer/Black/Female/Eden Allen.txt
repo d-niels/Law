@@ -1,0 +1,45 @@
+Personal Statement:
+
+Highly motivated and detail-oriented machine learning engineer with a strong passion for leveraging artificial intelligence to solve complex problems. As a black female in the field, I am dedicated to promoting diversity and inclusivity in the tech industry. With a strong educational background in computer science and hands-on experience in machine learning, I am committed to driving innovation and pushing the boundaries of AI technologies.
+
+Education:
+
+Bachelor of Science in Computer Science
+Motown University, Detroit, Michigan
+GPA: 3.9/4.0
+
+Work Experience:
+
+Machine Learning Engineer - StellarAI Solutions, Detroit, MI
+- Utilized C++ and deep learning algorithms to develop state-of-the-art machine learning models.
+- Excellent communication and collaboration skills, working effectively within a diverse team.
+- Proficient in Python and PyTorch for model development and optimization.
+
+Data Scientist Intern - Quantum Insights, Detroit, MI
+- Conducted statistical analysis and handled large datasets, ensuring accurate and efficient data processing.
+- Utilized TensorFlow for model development and deployment in real-world scenarios.
+- Demonstrated agility and problem-solving skills, adapting to dynamic project requirements.
+- Deep understanding of deep neural net research, keeping up-to-date with the latest advancements in the field.
+
+Skills:
+
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+- Actively involved in promoting diversity and inclusion in the tech industry, advocating for the empowerment and recognition of underrepresented groups.
+- Served as a basketball team captain and leader, mentoring and coaching young female athletes, fostering teamwork, resilience, and self-confidence.
+- Continually strive to inspire and empower others, particularly young black females, to pursue careers in STEM.
+
+Hobbies:
+
+- Playing the saxophone, exploring the expressive nature of jazz music.
+- Engaging in various outdoor activities such as hiking and rock climbing, fostering a healthy and active lifestyle.
+- Actively participating in book clubs and discussions, promoting literacy and intellectual growth.
+
+Languages:
+
+- Fluent in English and Spanish.

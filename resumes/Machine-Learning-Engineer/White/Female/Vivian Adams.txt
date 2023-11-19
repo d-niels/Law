@@ -1,0 +1,43 @@
+Vivian Adams
+Address: San Diego, California | Phone: (XXX) XXX-XXXX | Email: vivianadams@email.com
+
+Personal Statement:
+A dedicated and passionate Machine Learning Engineer with a strong background in computer science. I am committed to leveraging my technical skills and expertise in TensorFlow, PyTorch, and Deep Learning to develop advanced machine learning models. With excellent problem-solving abilities and effective communication skills, I strive to collaborate with teams to achieve exceptional results. I am excited about the opportunity to contribute my knowledge and advance the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, San Diego State University, San Diego, California
+- GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Nexus Technologies, San Francisco, California
+- Conducted data handling and processing for large datasets using TensorFlow and PyTorch frameworks
+- Collaborated with cross-functional teams to develop and implement deep learning models
+- Demonstrated excellent communication and collaboration skills to effectively work with team members
+- Utilized agility and problem-solving abilities to meet project deadlines and deliver high-quality results
+
+Research Assistant, Innovate Labs, San Francisco, California
+- Participated in deep neural net research, understanding various models and techniques
+- Utilized statistical analysis to analyze experiment results and provide actionable insights
+- Conducted model training and deployment in C++ and Python programming languages
+- Demonstrated strong teamwork skills by actively contributing to collaborative research projects
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Served as the captain of a competitive basketball team, providing leadership, organizing practices, and developing effective game strategies
+- Actively volunteered in organizations that promote diversity and inclusion in the tech industry, contributing to fostering inclusive environments for underrepresented groups
+
+Hobbies:
+- Playing the guitar, which brings me joy and allows me to express my creativity through music
+- Engaging in cultural diversity initiatives, promoting inclusivity, and celebrating different ethnicities and backgrounds
+
+Languages:
+- English (Native)
+- Spanish (Proficient)
+
+References:
+Available upon request.

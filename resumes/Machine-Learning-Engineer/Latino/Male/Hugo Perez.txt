@@ -1,0 +1,37 @@
+Personal Statement:
+I am a passionate and dedicated machine learning engineer with a solid background in computer science. As a Latino male from Albuquerque, New Mexico, I bring a unique perspective to the field and thrive in diverse and collaborative environments. My strong problem-solving skills and ability to adapt quickly make me an invaluable asset in developing innovative machine learning solutions. I am driven by the opportunity to make a positive impact through technology and contribute to the advancement of artificial intelligence.
+
+Education:
+Bachelor of Science in Computer Science
+University of New Mexico, Albuquerque, New Mexico
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, Quantum AI, Albuquerque, NM
+- Utilized statistical analysis, agility, and problem-solving skills to develop machine learning models for data analytics and insights.
+- Demonstrated expertise in deep learning techniques to enhance model performance and accuracy.
+- Actively participated as a team player, collaborating with cross-functional teams to ensure successful model training and deployment.
+- Communicated effectively with stakeholders to gather requirements and deliver effective machine learning solutions.
+
+Data Scientist, Novatech Solutions, Albuquerque, NM
+- Proficiently worked with PyTorch and TensorFlow frameworks to develop and optimize deep neural networks.
+- Utilized Python for efficient data handling and processing, ensuring seamless model training.
+- Contributed to understanding and implementing cutting-edge deep neural net research to improve model architecture.
+- Leveraged C++ programming skills for performance optimization in resource-intensive tasks.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role in Basketball
+- Led a diverse team of young basketball players, providing mentorship and guidance on and off the court.
+- Fostered a positive and inclusive environment, encouraging teamwork and sportsmanship within the team.
+
+Hobbies:
+Playing the guitar, celebrating diverse cultures through music, exploring art forms, and engaging in outdoor activities.
+
+Languages:
+Bilingual in English and Spanish.

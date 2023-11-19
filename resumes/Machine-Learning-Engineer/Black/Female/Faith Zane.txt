@@ -1,0 +1,39 @@
+Personal Statement:
+I am a highly motivated and passionate machine learning engineer with a strong background in computer science. As a black female from Detroit, Michigan, I am determined to bridge the diversity gap in the tech industry by leveraging my skills and experiences. My dedication to continuous learning and growth drives my ability to develop innovative solutions that solve complex problems. Drawing inspiration from my love for playing basketball, I approach challenges with agility, teamwork, and unwavering determination. I am eager to contribute my expertise in machine learning and data analysis to make a positive impact in the field.
+
+Education:
+Bachelor of Science in Computer Science, Detroit State University, Detroit, Michigan
+GPA 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Stellar Technologies, Detroit, Michigan
+- Implemented cutting-edge machine learning models using TensorFlow and PyTorch to optimize data analysis and generate actionable insights.
+- Collaborated seamlessly with cross-functional teams, ensuring the successful integration of machine learning solutions into existing systems.
+- Demonstrated exceptional communication and collaboration skills while working as a team player, fostering effective teamwork and collaboration.
+- Expertly handled and processed large datasets to fuel accurate model training and enhance decision-making capabilities.
+- Utilized Python programming language to develop and deploy state-of-the-art machine learning algorithms.
+
+Data Analyst, Quantum Insights, Detroit, Michigan
+- Led statistical analysis projects, driving data-driven decision making across the organization.
+- Immersed myself in deep neural network research, developing a deep understanding to inform data analysis and model development strategies.
+- Successfully trained and deployed complex deep learning models, translating data into meaningful business applications.
+- Showcased remarkable agility and problem-solving skills while optimizing systems for high-performance data processing.
+- Utilized C++ for efficient database management and manipulation.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Basketball Leadership, Detroit Youth Sports Program, Detroit, Michigan
+- Mentored and coached aspiring young basketball players, fostering teamwork, leadership, and sportsmanship skills.
+
+In striving to promote diversity and inclusion in the tech industry, I actively engage in various initiatives that support underrepresented communities. I am an active member of organizations such as [organizations related to promoting diversity in tech], where I contribute towards creating equal opportunities for all individuals. Additionally, I enjoy playing the piano and find solace in music, which allows me to express my creativity and connect with others.
+
+Languages:
+- English (Fluent)
+- [Additional languages if applicable]
+
+Overall, my diverse background, strong technical skills, and commitment to making a difference position me well as a machine learning engineer. I am excited to bring my unique perspective, unwavering determination, and passion for basketball to contribute to the advancement of machine learning technologies.

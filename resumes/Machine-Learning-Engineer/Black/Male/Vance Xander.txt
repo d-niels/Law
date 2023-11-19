@@ -1,0 +1,37 @@
+Personal Statement:
+As a black male with a passion for technology and a deep interest in artificial intelligence, I am thrilled to apply for the position of Machine Learning Engineer. With a strong educational background in computer science, practical experience in machine learning, and excellent communication skills, I am confident in my ability to contribute to cutting-edge projects and drive innovation.
+
+Education:
+Bachelor of Science in Computer Science, Washington Technological University, Washington, D.C., GPA: 3.9
+
+Work Experience:
+1. Machine Learning Engineer, InnovateAI Solutions, Washington, D.C.
+- Developed statistical models and implemented machine learning algorithms using TensorFlow and C++.
+- Collaborated with cross-functional teams on data analysis and provided effective communication for presenting analytical findings.
+- Applied deep learning techniques to optimize processes and enhance data analysis agility and problem-solving.
+- Conducted research on cutting-edge machine learning methodologies to improve model performance.
+
+2. Research Assistant, ALPHA Innovations, Washington, D.C.
+- Utilized Python for data handling and processing, ensuring accuracy and efficiency in large-scale datasets.
+- Demonstrated thorough understanding of deep neural net research by contributing to the implementation and evaluation of experimental models using PyTorch.
+- Collaborated within a team of researchers to design, train, and deploy machine learning models for various applications.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively engaged in supporting underrepresented communities in STEM fields, particularly as a black male in the tech industry.
+- Led a sports leadership role as captain of the university soccer team, promoting teamwork, discipline, and effective communication.
+- Engaged in initiatives to advocate for diversity and inclusion in the tech industry, serving as a mentor to aspiring minority students interested in pursuing careers in machine learning.
+
+Hobbies:
+- Playing the piano to express creativity and unwind after engaging in technical challenges.
+- Exploring different cultures through music, art, and literature, fostering a diverse perspective on the world.
+- Enjoying outdoor activities such as hiking and rock climbing, promoting a healthy lifestyle and personal well-being.
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)

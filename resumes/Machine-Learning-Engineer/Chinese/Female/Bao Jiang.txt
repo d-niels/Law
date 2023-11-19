@@ -1,0 +1,37 @@
+Personal Statement:
+I am an ambitious and driven machine learning engineer, fueled by a passion for leveraging advanced technologies to solve complex problems. As a Chinese female hailing from Honolulu, Hawaii, my background adds diversity and a unique perspective to the field. With a solid foundation in computer science and a relentless pursuit of innovation, I aim to make a lasting impact in the machine learning industry.
+
+Education:
+Bachelor of Science in Computer Science (Pacific Tech University, 3.9 GPA)
+
+Work Experience:
+
+1. Machine Learning Engineer Intern, QuantumAI (June 2019 - August 2019)
+   - Developed and fine-tuned machine learning models using TensorFlow and PyTorch frameworks.
+   - Demonstrated agility and problem-solving skills to overcome intricate challenges.
+   - Expertise in handling and processing vast datasets, employing efficient data techniques.
+   - Implemented robust algorithms and programming solutions in C++ for data analysis and optimization.
+
+2. Data Analyst, CogniX Solutions (September 2018 - May 2019)
+   - Engaged in deep neural net research, identifying patterns and enhancing performance.
+   - Collaborated closely with cross-functional teams for training and deploying machine learning models.
+   - Utilized Python for statistical analysis and data manipulation, ensuring precision and accuracy.
+   - Exhibited strong communication and collaboration skills, bridging gaps and fostering synergy.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Chinese Student Association, organizing cultural events and promoting diversity within the community.
+- Held a leadership position as a captain in the badminton team, fostering teamwork and sportsmanship.
+
+Hobbies:
+- Playing the guzheng, a traditional Chinese instrument, to express creativity and connect with cultural roots.
+- Engaging in martial arts, particularly practicing Tai Chi for physical well-being and mental balance.
+- Exploring different cultures through travel and attending multicultural events to broaden horizons.
+
+Languages:
+- Fluent in English and Mandarin Chinese.

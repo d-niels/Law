@@ -1,0 +1,38 @@
+Personal Statement:
+I am a dedicated and passionate Machine Learning Engineer with a strong background in computer science. With a bachelor's degree in computer science and expertise in machine learning frameworks such as TensorFlow and PyTorch, I am eager to contribute my skills and knowledge to innovative projects. As a highly motivated individual, I always strive for excellence and enjoy collaborating with diverse teams to solve complex problems. I am committed to continuous learning and staying up-to-date with the latest advancements in machine learning techniques.
+
+Education:
+Bachelor of Science in Computer Science
+Northwestern University, Evanston, IL
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer - Innovision AI, Chicago, IL
+- Developed efficient machine learning algorithms using TensorFlow and C++, resulting in improved model accuracy by 20%.
+- Demonstrated agility and problem-solving skills by effectively resolving technical challenges during the development process.
+- Conducted in-depth research on deep neural nets and successfully implemented cutting-edge methodologies into existing projects.
+- Collaborated with cross-functional teams to optimize deep learning models, resulting in a 15% reduction in training time.
+- Communicated project progress and collaborated with stakeholders to gather requirements and incorporate feedback.
+
+Data Scientist - IntelliData Solutions, Chicago, IL
+- Utilized Python programming skills to perform comprehensive statistical analysis on large datasets, providing valuable insights for the business.
+- Served as a team player in developing and deploying machine learning models for in-depth data analysis.
+- Conducted thorough data handling and processing tasks, ensuring data quality and accuracy for training models.
+- Leveraged PyTorch to optimize machine learning models and improve overall model performance by 25%.
+- Maintained expertise in data manipulation techniques, contributing to enhanced data processing workflows.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer, Leadership & Hobbies:
+- Dedicated time to volunteering at the Chinese Community Center, actively contributing to cultural events and raising awareness of Chinese traditions and customs.
+- Served as a leader in a local basketball league, organizing practices and promoting teamwork and sportsmanship among team members.
+- Enjoy playing the erhu, a traditional Chinese musical instrument, showcasing the beauty of cultural heritage through music.
+- Passionate about photography, capturing cultural landscapes and diverse environments to celebrate different cultures and traditions.
+
+Languages:
+- English
+- Mandarin Chinese

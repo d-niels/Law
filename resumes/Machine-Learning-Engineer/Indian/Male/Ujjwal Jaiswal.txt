@@ -1,0 +1,48 @@
+UJJWAL JAISWAL
+Houston, Texas | ujjwaljaiswal@email.com | (555) 123-4567
+
+Personal Statement
+Motivated and detail-oriented Machine Learning Engineer with a strong background in computer science and a passion for developing innovative solutions. Skilled in data handling and processing, model training and deployment, and problem-solving. Excellent communication and collaboration abilities, seeking to utilize expertise in machine learning to drive technological advancements.
+
+Education
+Bachelor of Science in Computer Science (GPA: 3.9)
+Texas Tech University, Lubbock, Texas
+Expected Graduation: May 2022
+
+Work Experience
+Machine Learning Engineer Intern | Quantum Dynamics, Houston, Texas | Summer 2021
+- Developed data handling and processing pipelines for training machine learning models.
+- Collaborated with a cross-functional team to deliver solutions meeting specific project requirements.
+- Utilized PyTorch framework for model training and deployment.
+- Demonstrated agility and problem-solving skills by adapting to changing project needs.
+- Enhanced team productivity through effective communication and collaboration.
+
+Software Developer | Epsilon Innovations, Houston, Texas | Summer 2020
+- Designed and implemented complex algorithms in C++ to enhance statistical analysis of data.
+- Conducted in-depth research on deep neural net techniques and implemented them using TensorFlow and Python.
+- Nurtured a strong understanding of deep learning principles and applied them to real-world projects.
+- Collaborated with senior engineers to solve technical challenges and deliver high-quality software solutions.
+
+Skills
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership
+Sports Leadership Volunteer | Houston Youth Sports Organization, Houston, Texas
+- Mentored a diverse group of young athletes in basketball, fostering teamwork and sportsmanship.
+- Supported the development of basketball skills, resulting in improved overall performance.
+
+Hobbies
+- Playing the guitar
+- Exploring different cultures and histories
+- Engaging in public speaking events
+- Being involved in community service activities
+
+Languages
+- English (Fluent)
+- Hindi (Fluent)
+- Additional languages can be discussed during an interview.
+
+References available upon request.

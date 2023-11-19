@@ -1,0 +1,44 @@
+Nathan Zane
+
+Personal Statement:
+Highly motivated and proficient Machine Learning Engineer with a passion for leveraging cutting-edge technologies to optimize and enhance AI models. Skilled in deep learning, statistical analysis, and data handling, I strive to drive innovation and deliver impactful solutions. Seeking a challenging role as a Machine Learning Engineer to contribute my advanced skills and expertise in creating groundbreaking applications.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Metropolis University, Metropolis, IN
+
+Work Experience:
+Machine Learning Engineer | Innovision Systems (Metropolis, IN)
+- Developed and deployed state-of-the-art machine learning models, utilizing model training and deployment techniques, resulting in a 15% increase in accuracy.
+- Applied statistical analysis methodologies to identify patterns and optimize existing algorithms.
+- Proficiently handled and processed complex datasets to extract valuable insights.
+- Employed C++ to optimize performance and enhance codebase.
+
+AI Research Assistant | Quantum Labs (Metropolis, IN)
+- Conducted extensive analysis of deep neural net research to identify areas for improvement in existing algorithms.
+- Leveraged TensorFlow and PyTorch frameworks to create custom neural networks, enhancing overall model efficiency.
+- Collaborated closely with cross-functional teams, effectively communicating findings and proposing innovative solutions.
+- Demonstrated strong communication and collaboration skills within a dynamic research environment.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Basketball Team Captain: Being a dedicated basketball player, I serve as the team captain, providing leadership, inspiration, and fostering a culture of teamwork and sportsmanship.
+
+Diversity and Inclusion Advocate: Committed to promoting diversity in the tech industry, I actively engage in initiatives that empower underrepresented individuals, specifically advocating for the advancement of black males in technology careers.
+
+Hobbies:
+- Playing the saxophone to express my creativity and foster a harmonious environment.
+- Exploring diverse cultures through music and art, broadening my perspective and celebrating different artistic expressions.
+- Traveling to experience various landscapes and immerse myself in different cultures, fostering a global mindset.
+- Supporting and attending live performances showcasing diverse talents, inspiring me and contributing to my overall growth.
+
+Languages:
+- English (Fluent)
+- French (Intermediate)
+
+Note: The information provided in this resume is fictional and created for the purpose of illustrating an example. Any resemblance to actual individuals or organizations is purely coincidental.

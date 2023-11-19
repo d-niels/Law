@@ -1,0 +1,39 @@
+Personal Statement:
+I am a driven and passionate Machine Learning Engineer with a strong background in computer science. Hailing from Austin, Texas, I am proud of my Latino heritage and strive to use my skills and experiences to contribute to cutting-edge advancements in the field of machine learning. I am highly motivated, continuously seeking to expand my knowledge, and I am dedicated to making a meaningful impact in this role.
+
+Education:
+Bachelor of Science in Computer Science
+University of Texas at Austin, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer | Stellar Technologies | Austin, Texas
+- Leveraged TensorFlow, Python, C++, and statistical analysis techniques to develop and implement machine learning algorithms.
+- Collaborated effectively with a diverse team to ensure seamless integration of machine learning models into existing systems.
+- Applied deep learning principles to enhance data analysis and improve predictive modeling accuracy.
+
+Data Analyst | Nexus Solutions | Austin, Texas
+- Demonstrated a strong understanding of deep neural net research, analyzing and interpreting complex data sets effectively.
+- Utilized excellent communication and collaboration skills to engage stakeholders, identify issues, propose solutions, and streamline data handling and processing procedures.
+- Exhibited agility and problem-solving abilities when faced with tight deadlines and changing requirements.
+- Conducted model training and deployment using PyTorch, ensuring accurate and efficient data analysis.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- LGBTQ+ Leadership Group Member, advocating for inclusion and diversity within the workplace to ensure equality and acceptance.
+- Sports Leadership Role: Team Captain of a community basketball team, fostering teamwork, discipline, and sportsmanship within a diverse and inclusive environment.
+
+Hobbies:
+- Playing the acoustic guitar and composing music
+- Exploring different cultures through travel and participating in community events that celebrate diversity and promote social cohesion
+
+Languages:
+- English (fluent)
+- Spanish (native)
+
+References available upon request.

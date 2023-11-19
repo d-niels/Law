@@ -1,0 +1,44 @@
+Personal Statement:
+I am a passionate and innovative machine learning engineer dedicated to utilizing cutting-edge technology to solve complex problems. With a strong background in computer science and a deep understanding of various machine learning algorithms, I thrive in collaborative environments and enjoy tackling interdisciplinary challenges. As a white female from Phoenix, Arizona, I am committed to promoting diversity and inclusion in the tech industry and strive to make a positive impact in this field.
+
+Education:
+Bachelor's Degree in Computer Science, Phoenix University, Phoenix, Arizona
+- Graduated with a GPA of 3.9
+- Relevant coursework: Machine Learning, Artificial Intelligence, Data Science, Algorithms
+
+Work Experience:
+Machine Learning Engineer, QuantumTech Solutions, Phoenix, Arizona
+- Collaborated with cross-functional teams to develop and implement machine learning models using Python and deep learning techniques.
+- Leveraged strong communication and collaboration skills to effectively translate business requirements into technical solutions.
+- Successfully trained and deployed models, optimizing accuracy and efficiency through iterative model development processes.
+- Demonstrated agility and problem-solving abilities in a fast-paced environment, contributing to the continuous improvement of the machine learning pipeline.
+
+Data Analyst, SkyNet Analytics, Phoenix, Arizona
+- Utilized statistical analysis techniques to analyze and interpret large datasets, deriving meaningful insights for business decision-making.
+- Proficiently programmed using C++ and leveraged TensorFlow and PyTorch to implement deep neural networks for data handling and processing.
+- Developed tools and methodologies for efficient data extraction, transformation, and loading processes, improving overall data quality and accessibility.
+- Stayed up-to-date with the latest research on deep neural networks, applying relevant findings to enhance models' performance.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Soccer Team Captain
+- Led a diverse soccer team, fostering a supportive and inclusive environment for players from different ethnic backgrounds and genders.
+- Cultivated teamwork, discipline, and resilience among team members, mentoring them to excel both on and off the field.
+
+Diversity Advocate
+- Engaged in various community initiatives and events aimed at promoting diversity and inclusivity in the tech community.
+- Mentored and supported underrepresented individuals, encouraging their participation and success in the field.
+
+Hobbies:
+- Playing the piano
+- Exploring different cultures through travel and culinary experiences
+- Supporting causes related to women's empowerment and social justice
+
+Languages:
+- English (Native)
+- Spanish (Conversational)

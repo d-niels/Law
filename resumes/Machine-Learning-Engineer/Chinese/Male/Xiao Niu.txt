@@ -1,0 +1,40 @@
+Personal Statement:
+As a passionate machine learning engineer, I am dedicated to utilizing cutting-edge technologies to address complex problems and drive innovation. With a strong background in computer science and a natural curiosity for the field, I am excited to contribute my skills and expertise to create impactful solutions for real-world applications. My diverse background and experiences have equipped me with a unique perspective and the ability to navigate challenges effectively. I am committed to promoting diversity and inclusion within the AI community, leveraging my own background as a Chinese male from Los Angeles to inspire and empower others.
+
+Education:
+Bachelor of Science in Computer Science, California Science and Technology University, Los Angeles, California
+- GPA: 3.9/4.0
+
+Work Experience:
+1. Machine Learning Engineer, Stellar AI Solutions, Los Angeles, CA
+- Developed agile solutions for complex problems, ensuring efficient data handling and processing.
+- Utilized PyTorch and TensorFlow frameworks to create and optimize deep neural networks.
+- Demonstrated a strong understanding of deep neural net research and its practical applications.
+- Leveraged Python and problem-solving skills to overcome challenges and improve system performance.
+
+2. Data Analyst, Nexus Analytics Corp, Los Angeles, CA
+- Conducted statistical analysis to derive valuable insights from vast datasets.
+- Demonstrated exceptional team player abilities through effective collaboration with cross-functional teams.
+- Communicated and collaborated with stakeholders to define project goals and deliver actionable outcomes.
+- Leveraged C++ for developing and fine-tuning deep learning models for data analysis and interpretation.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively engaged in promoting diversity and inclusion within the AI community, emphasizing the importance of representation and equal opportunities for underrepresented groups. Regularly contribute to panel discussions and mentorship programs.
+- Served as a leader in a community-based basketball team, inspiring and guiding fellow players to achieve personal growth, teamwork, and sportsmanship.
+
+Hobbies:
+- Playing the Erhu (Traditional Chinese instrument)
+- Exploring different cultures and traditions
+- Supporting and attending cultural events and festivals
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References available upon request.

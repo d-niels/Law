@@ -1,0 +1,49 @@
+Savannah Vance
+
+Personal Statement:
+Motivated and dedicated Machine Learning Engineer with a strong passion for utilizing data-driven insights to develop innovative solutions. With a strong background in computer science and expertise in various machine learning techniques, I am committed to pushing the boundaries of artificial intelligence to make a positive impact on society. I am highly detail-oriented, collaborative, and adaptable, always striving for excellence in every project I undertake.
+
+Education:
+Bachelor of Science in Computer Science
+Silicon Valley University, Santa Clara, California
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer | Acme AI Labs
+San Francisco, California | May 2018 – Present
+- Developed and implemented advanced algorithms to enhance data handling and processing capabilities, resulting in increased efficiency and accuracy.
+- Conducted statistical analysis on large datasets, identifying patterns and trends to optimize model performance.
+- Utilized deep learning techniques, including understanding deep neural net research, to develop models that improved accuracy by 20%.
+- Leveraged Python programming language and frameworks to implement machine learning models and algorithms.
+- Collaborated with cross-functional teams to solve complex problems, ensuring efficient deployment of machine learning models.
+
+Software Engineer Intern | OmniTech Solutions
+Los Angeles, California | June 2017 – August 2017
+- Acted as a valuable team player, contributing to agile development projects in a fast-paced environment.
+- Demonstrated excellent communication and collaboration skills while working closely with senior team members.
+- Utilized TensorFlow and PyTorch frameworks to train and deploy machine learning models.
+- Developed and maintained C++ codebase to optimize performance and enhance codebase robustness.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role | Women in Tech Organization
+San Jose, California | February 2017 – Present
+- Led and organized basketball-related activities and events, fostering inclusivity and diversity within the organization.
+- Acted as a role model for women in the tech field, providing guidance and support to junior members.
+
+Hobbies:
+- Playing the guitar
+- Engaging in various outdoor activities
+- Participating in community initiatives promoting diversity and inclusion
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)
+
+References:
+Available upon request

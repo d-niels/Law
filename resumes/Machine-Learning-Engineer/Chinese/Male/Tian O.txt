@@ -1,0 +1,40 @@
+Tian O
+
+Personal Statement:
+Motivated and passionate Machine Learning Engineer with a strong background in Computer Science seeking to apply my skills and knowledge in a dynamic and challenging role. With a deep understanding of data handling, processing, and a focus on problem-solving, I am dedicated to creating innovative solutions using state-of-the-art technologies and techniques. My commitment to collaboration and effective communication allows me to excel in team environments, bringing a valuable skill set to any project.
+
+Education:
+Bachelor of Science in Computer Science, 3.9 GPA
+Pacific University, Honolulu, Hawaii
+
+Work Experience:
+Machine Learning Engineer, Insight Technologies
+- Developed expertise in Data Handling and Processing, effectively managing and analyzing large datasets.
+- Collaborated with cross-functional teams to develop and deploy Deep Learning models for various projects.
+- Demonstrated a flexible and team-oriented attitude, actively contributing to group discussions and brainstorming sessions.
+- Utilized Python programming language to implement innovative machine learning algorithms and solutions.
+
+Research Assistant, NeuralNet Solutions
+- Conducted Statistical Analysis on complex datasets to derive meaningful insights and enhance model performance.
+- Utilized TensorFlow to develop and train models for image recognition and natural language processing tasks.
+- Gained proficiency in Model Training and Deployment for large-scale applications.
+- Utilized C++ and PyTorch to aid in Understanding Deep Neural Net Research and enhance model performance.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active volunteer at the Asian Cultural Association, organizing cultural events and promoting understanding and appreciation for diverse cultures.
+- Sports Leadership role as Captain of the Pacific University Soccer Club, leading a diverse team of athletes and promoting teamwork and sportsmanship.
+
+Hobbies:
+- Playing the traditional Chinese instrument, Guzheng.
+- Engaging in photography, capturing diverse cultures, and natural landscapes.
+- Exploring and understanding different cultures through travel, literature, and trying new activities.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

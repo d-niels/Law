@@ -1,0 +1,47 @@
+**Salvador Ledesma**
+
+**Personal Statement:**
+Creative and driven Machine Learning Engineer with a passion for leveraging advanced technologies to solve complex problems. As a Latino male from El Paso, Texas, I am deeply committed to promoting inclusivity and embracing diversity in the tech industry. With a solid educational background in computer science and proficiency in various programming languages and database technologies, I am poised to develop innovative solutions and contribute to the advancement of machine learning algorithms.
+
+**Education:**
+Bachelor of Science in Computer Science
+Sunset Heights University, El Paso, Texas
+GPA: 3.9/4.0
+
+**Work Experience:**
+
+**Machine Learning Engineer**                                                                      May 2018 - Present
+ElevateAI, El Paso, Texas
+
+- Developed expertise in Deep Learning by understanding and implementing state-of-the-art Deep Neural Net research.
+- Utilized PyTorch and C++ to train and deploy machine learning models, contributing to enhanced model accuracy and performance.
+- Collaborated seamlessly with cross-functional teams, ensuring effective communication and fostering a collaborative work environment.
+
+**Data Science Specialist**                                                                                June 2017 - August 2017
+Data Harmony, El Paso, Texas
+
+- Utilized Python to handle and process large datasets, performing statistical analysis and deriving actionable insights.
+- Demonstrated agility and problem-solving skills when dealing with complex data challenges and designing optimized solutions.
+- Acted as a valuable team player, providing valuable input and supporting the team's objectives.
+
+**Skills:**
+
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+**Volunteer & Leadership:**
+My diverse involvement in volunteer and leadership roles has deepened my understanding of different cultures, perspectives, and the challenges faced by underrepresented communities. As a Latino male, I am dedicated to promoting inclusivity and equity within the tech industry.
+
+- Sports Leadership: Served as a team captain for a local basketball team, fostering teamwork, discipline, and encouraging a growth mindset among teammates.
+
+**Hobbies:**
+Through my hobbies, I embrace my Latino heritage while exploring various cultural influences:
+
+- Playing the guitar and creating a fusion of traditional Latino melodies with contemporary styles.
+- Engaging in multicultural discussions and embracing the beauty of diverse experiences and perspectives.
+- Exploring diverse literature and art that amplifies marginalized voices and challenges societal norms.
+
+**Languages:**
+English (Fluent), Spanish (Native)

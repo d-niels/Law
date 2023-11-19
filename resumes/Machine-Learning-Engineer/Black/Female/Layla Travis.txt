@@ -1,0 +1,48 @@
+LAYLA TRAVIS
+
+Machine Learning Engineer
+
+Personal Statement:
+A dedicated and highly motivated black female from Indianapolis, Indiana, with a lifelong passion for machine learning engineering. Eager to leverage my strong educational background in computer science and hands-on work experience to contribute to innovative projects. Possessing exceptional problem-solving skills and a relentless drive to tackle complex challenges, I am committed to pushing the boundaries of AI and delivering impactful results.
+
+Education:
+Bachelor of Science in Computer Science, University of Indianapolis, Indianapolis, Indiana
+- GPA: 3.9
+
+Work Experience:
+
+Machine Learning Engineer, TechnoCore Solutions, Indianapolis, Indiana
+- Developed cutting-edge machine learning algorithms utilizing TensorFlow, PyTorch, and C++ to perform advanced statistical analysis and deep learning tasks.
+- Collaborated with a cross-functional team to enhance data handling and processing, ensuring accurate and efficient model training and deployment.
+- Utilized Python and excelled in communication and collaboration to understand and implement complex deep neural net research.
+
+Junior Machine Learning Engineer, VisionAI Corporation, Indianapolis, Indiana
+- Actively contributed as a team player, assisting in data handling and processing to support accurate model training and deployment.
+- Collaborated with senior engineers to understand and deploy state-of-the-art deep learning models.
+- Demonstrated strong communication and collaboration skills to facilitate task completion and project success.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+1. Sports Leadership Role - Basketball Team Captain, YMCA Indianapolis
+- Led a diverse team of athletes, fostering their physical and mental development while promoting teamwork, inclusivity, and sportsmanship.
+- Organized and coordinated practices, devised game strategies, and facilitated team bonding activities.
+
+2. Empowering Women in Technology, University of Indianapolis
+- Initiated and led a mentorship program for women in technology, providing support, guidance, and resources to aspiring female students.
+
+Hobbies:
+- Playing the piano, finding solace and inspiration in music.
+- Engaging in community cultural events, celebrating diversity and embracing different cultural experiences.
+- Participating in community organizations advocating for diversity, inclusion, and equal opportunities for all.
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)
+
+References available upon request.

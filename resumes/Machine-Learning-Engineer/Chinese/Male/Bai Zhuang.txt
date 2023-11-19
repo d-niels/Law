@@ -1,0 +1,38 @@
+Personal Statement:
+I am a driven, Chinese male Machine Learning Engineer hailing from the vibrant city of Los Angeles, California. With a deep-rooted passion for developing groundbreaking solutions through cutting-edge technologies, I bring a unique perspective to the field. As an individual who excels in collaborative environments, I am confident in my ability to contribute innovative ideas and drive success within any organization.
+
+Education:
+Bachelor's Degree in Computer Science, Silicon Valley University, Los Angeles, California (GPA: 3.9)
+
+Work Experience:
+Machine Learning Engineer, StellarAI Solutions, Los Angeles, California
+- Leveraged my expertise in PyTorch and TensorFlow to design and implement advanced deep neural net models.
+- Conducted extensive research on the latest advancements in the field of deep neural nets, ensuring that I remained at the forefront of technological innovation.
+- Successfully trained and deployed models across various applications, optimizing their performance for real-world scenarios.
+- Collaborated seamlessly with cross-functional teams, consistently delivering high-quality solutions that met project objectives.
+- Demonstrated exceptional communication skills, effectively conveying complex ideas to both technical and non-technical stakeholders.
+
+Data Analyst, Quantum Insights, Los Angeles, California
+- Conducted comprehensive statistical analyses to unearth valuable patterns and trends, leading to data-driven decision-making.
+- Expertly handled and processed massive datasets, ensuring their quality and transforming them into actionable insights.
+- Developed efficient data processing algorithms and tools using C++ and Python, allowing for streamlined operations and increased efficiency.
+- Played a pivotal role in a diverse team, fostering a collaborative environment and contributing towards the achievement of project goals.
+- Demonstrated agility and a proclivity for problem-solving, efficiently addressing challenges in fast-paced and dynamic environments.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively engaged in the Chinese American Technology Association, advocating for diversity and inclusivity within the tech industry.
+- Led a youth basketball team as a Sports Leadership Coordinator, nurturing teamwork and cultivating leadership skills among young athletes.
+
+Hobbies:
+- Mastering the art of playing the guzheng, a traditional Chinese instrument, allowing me to connect with my cultural heritage on a deeper level.
+- Engaging in taekwondo, honing both my physical and mental discipline and fostering a resilient mindset.
+- Capturing the beauty of the world through photography, exploring different perspectives and showcasing the diverse tapestry of life.
+
+Languages:
+- Fluent in English and Mandarin Chinese.

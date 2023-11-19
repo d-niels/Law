@@ -1,0 +1,37 @@
+Personal Statement:
+As a Chinese female from San Diego, California, I am a highly motivated and detail-oriented machine learning engineer. My passion for exploring the endless possibilities of artificial intelligence and my strong background in computer science drive me to create innovative solutions. With a focus on problem-solving and a dedication to pushing the boundaries, I am committed to making a positive impact through machine learning technology.
+
+Education:
+Bachelor of Science in Computer Science, San Diego State University, San Diego, CA (GPA: 3.9)
+
+Work Experience:
+Machine Learning Engineer, StellarAI Solutions, San Francisco, CA
+- Leveraged agility and problem-solving abilities to enhance deep neural net research for advanced speech recognition algorithms
+- Actively contributed as a team player in collaborative projects, ensuring efficient data handling and processing for large-scale datasets
+- Demonstrated expertise in Python programming and specifically PyTorch for model implementation and optimization
+
+Software Developer, Quantum Insights, Los Angeles, CA
+- Utilized deep learning techniques to conduct statistical analysis and enhance model training and deployment processes for sentiment analysis in social media data
+- Collaborated effectively with cross-functional teams, fostering strong communication and ensuring effective collaboration on complex projects
+- Developed and optimized algorithms for image processing and computer vision using TensorFlow and C++
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Mentor, Women Empowering Technology (WET) Program: As a passionate advocate for diversity and inclusivity, I volunteered as a mentor to guide and support young women pursuing careers in technology, helping them overcome obstacles and achieve their goals.
+- Sports Leadership Role: Actively led a local soccer team, fostering teamwork and promoting leadership skills among the players.
+
+Hobbies:
+- Playing the guzheng (a traditional Chinese instrument) to preserve my cultural heritage and express my love for music
+- Exploring different cultures through travel and immersing in diverse experiences
+- Engaging in outdoor activities such as hiking and yoga to maintain a healthy lifestyle
+
+Languages:
+- English (fluent)
+- Mandarin Chinese (native)
+
+Note: Guifen He is a fictitious character for a novel and the information provided here is created based on the given guidelines.

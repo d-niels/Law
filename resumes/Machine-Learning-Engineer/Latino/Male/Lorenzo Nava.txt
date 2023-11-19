@@ -1,0 +1,38 @@
+Lorenzo Nava
+
+Personal Statement:
+Dedicated, innovative, and result-driven machine learning engineer with a strong passion for leveraging advanced algorithms and deep neural networks to develop intelligent solutions. Proven ability to collaborate with cross-functional teams and communicate complex ideas effectively. Aiming to contribute expertise in machine learning and drive transformative advancements in the field as a Machine Learning Engineer.
+
+Education:
+Bachelor of Science in Computer Science, XYZ University, Houston, Texas
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Machine Learning Engineer | StellarAI Technologies, Houston, Texas (2018-2020)
+- Conducted statistical analysis and collaborated with data science teams to optimize machine learning workflows.
+- Demonstrated exceptional teamwork skills by collaborating with engineers and data analysts to identify and handle large datasets efficiently.
+- Utilized PyTorch to train and deploy machine learning models, resulting in improved accuracy and scalability.
+
+Machine Learning Engineer Intern | NovaTech Incorporation, Houston, Texas (Summer 2017)
+- Employed agility and problem-solving techniques to enhance deep learning models and algorithms.
+- Gained extensive experience in TensorFlow, Python, and C++ to develop state-of-the-art deep neural networks.
+- Remaining up-to-date with cutting-edge research, demonstrated a comprehensive understanding of deep neural network architectures.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer at Latino Youth Empowerment Program, Houston, Texas (2016-present)
+- Mentored and guided Latino youth to pursue careers in technology, emphasizing the importance of diversity and inclusion in STEM fields.
+- Served as a basketball coach, promoting teamwork and leadership skills through the sport.
+
+Hobbies:
+- Playing the guitar
+- Exploring cultural festivals and arts events
+- Participating in community outreach programs to support underrepresented groups
+
+Languages:
+- Fluent in English and Spanish

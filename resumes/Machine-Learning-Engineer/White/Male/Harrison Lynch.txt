@@ -1,0 +1,39 @@
+Personal Statement:
+I am an ambitious and dedicated machine learning engineer with a passion for leveraging cutting-edge technology to develop innovative solutions. With a strong background in computer science and expertise in PyTorch, TensorFlow, and deep neural net research, I am committed to pushing the boundaries of machine learning and making valuable contributions to the field. I thrive in collaborative environments, leveraging my strong problem-solving skills and analytical mindset to deliver high-quality results. Being a white male from Madison, Wisconsin, I am driven to contribute to diversity and inclusion initiatives and am experienced in leadership roles. I am excited to utilize my skills and knowledge to drive transformative advancements as a machine learning engineer.
+
+Education:
+Bachelor of Science in Computer Science
+Madison University, Madison, Wisconsin
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer | Innovate AI Solutions, Madison, Wisconsin
+- Leveraged PyTorch, C++, and TensorFlow to develop and deploy state-of-the-art machine learning models for various applications.
+- Conducted statistical analysis on large datasets to extract meaningful insights and improve model performance.
+- Collaborated with cross-functional teams to identify and solve complex challenges while demonstrating agility and problem-solving abilities.
+- Contributed to model training and deployment processes to optimize efficiency and accuracy of machine learning solutions.
+
+Machine Learning Research Intern | Discovery AI Labs, Madison, Wisconsin
+- Developed Python-based deep learning models to support research projects focused on computer vision and natural language processing.
+- Collaborated with an interdisciplinary team of researchers to understand and implement cutting-edge deep neural network architectures.
+- Effectively handled and processed large datasets, ensuring data integrity and quality for accurate model training and evaluation.
+- Demonstrated excellent communication and collaboration skills to contribute effectively to team-based research projects.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Led diversity and inclusion initiatives at Madison University, fostering an inclusive campus environment and facilitating discussions on important issues.
+- Served as a team captain in competitive basketball, leading a diverse group of athletes to achieve success through effective communication and collaboration.
+
+Hobbies:
+- Playing the guitar
+- Exploring photography and graphic design
+- Engaging in community service projects focused on promoting technological empowerment
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)

@@ -1,0 +1,39 @@
+Personal Statement:
+As a driven and committed machine learning engineer, I am dedicated to using my skills and expertise to revolutionize the field of artificial intelligence. With a strong emphasis on inclusiveness and diversity, I aim to inspire individuals from underrepresented communities and pave the way for future generations. Through my passion for machine learning and continual self-improvement, I am eager to drive innovation and make a lasting impact.
+
+Education:
+Bachelor of Science in Computer Science, Columbus State University, Columbus, Ohio (GPA: 3.9/4.0)
+
+Work Experience:
+Machine Learning Engineer, InnovateAI Technologies, Columbus, OH
+- Applied TensorFlow and Statistical Analysis techniques to optimize machine learning models.
+- Developed C++ algorithms for efficient data handling and processing.
+- Collaborated seamlessly within cross-functional teams to achieve project objectives.
+- Proficient in PyTorch for model training and deployment.
+
+Junior Machine Learning Engineer, Solvian Solutions, Columbus, OH
+- Showcased agility and problem-solving skills through developing cutting-edge machine learning models.
+- Acquired in-depth knowledge of deep neural network research and its practical applications.
+- Strengthened communication and collaboration skills while working with diverse teams.
+- Proficient in Python programming language for various machine learning tasks.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively mentor young students from underrepresented communities in computer science to promote inclusiveness and diversity.
+- Serve as a leadership role model for black female athletes in the sport of tennis, encouraging their participation and success.
+- Organize coding workshops and hackathons for minority students, fostering their engagement in technology fields.
+
+Hobbies:
+- Playing the piano, exploring different musical genres, and composing original pieces.
+- Engaging in community service initiatives that empower underprivileged communities.
+- Continuous learning to stay abreast of the latest advancements in machine learning and artificial intelligence.
+
+Languages:
+- Proficient in English, Spanish, and French.
+
+References available upon request.

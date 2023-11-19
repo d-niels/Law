@@ -1,0 +1,47 @@
+Dong Mei Yu
+San Francisco, California
+Phone: (123) 456-7890
+Email: dongmeiyu@email.com
+
+Personal Statement:
+Motivated and detail-oriented Machine Learning Engineer with a strong background in computer science, eager to contribute in developing cutting-edge technologies. Experienced in data handling, statistical analysis, and deep learning, I am dedicated to leveraging machine learning techniques and frameworks to create innovative solutions. With a proactive attitude and a passion for continuous learning, I am committed to enhancing efficiency and accuracy in AI-driven systems.
+
+Education:
+Bachelor of Science in Computer Science, San Francisco State University, San Francisco, California
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Nova Technologies, San Francisco, California
+- Team Player: Collaborated with a multidisciplinary team to design and implement machine learning models.
+- Agility and Problem-Solving: Adapted to rapidly evolving project requirements, effectively solving complex problems in a dynamic environment.
+- Data Handling and Processing: Processed and analyzed large datasets, ensuring data integrity and accuracy.
+- Python: Developed and maintained Python scripts for data preprocessing, model training, and evaluation.
+- Statistical Analysis: Conducted statistical analysis to gain insights from data and make informed decisions.
+- Deep Learning: Designed and implemented deep learning architectures using frameworks like TensorFlow and PyTorch.
+
+Software Engineer Intern, Stellar Innovations, San Francisco, California
+- Communication and Collaboration: Effectively communicated with team members to develop and optimize machine learning models.
+- Model Training and Deployment: Contributed to the development of model training and deployment pipelines.
+- TensorFlow: Developed and optimized deep neural network models using the TensorFlow framework.
+- C++: Implemented performance-critical components in C++ for model optimization.
+- Understanding Deep Neural Net Research: Kept up-to-date with the latest advancements in deep neural network research.
+- PyTorch: Utilized PyTorch to build and evaluate state-of-the-art deep learning models.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Mentor, Women in Tech Program: Provided guidance and support to aspiring female technologists.
+- Sports Leadership, Basketball Team: Led a competitive basketball team, fostering teamwork and promoting inclusivity.
+
+Hobbies:
+- Instrument: Piano
+- Cultural Enthusiast: Regularly attends cultural events and participates in traditional music performances.
+- Reading: Enjoys exploring literature on AI advancements and staying informed on emerging technologies.
+
+Languages:
+- English: Fluent
+- Chinese (Mandarin): Native speaker

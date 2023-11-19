@@ -1,0 +1,42 @@
+Personal Statement:
+A dedicated and highly motivated Machine Learning Engineer, with a strong background in computer science and a passion for exploring cutting-edge technologies. Detail-oriented, with exceptional analytical and problem-solving skills, I am driven to contribute to the field of artificial intelligence and make a positive impact. Seeking a challenging role where I can apply my expertise in machine learning algorithms and help develop innovative solutions.
+
+Education:
+Bachelor of Science in Computer Science, Sunshine University, Philadelphia, Pennsylvania
+- Graduated with a GPA of 3.9
+- Relevant coursework: Machine Learning, Data Mining, Algorithms, Artificial Intelligence
+
+Work Experience:
+Machine Learning Engineer, Stellar AI Solutions, Philadelphia, Pennsylvania
+- Developed and implemented machine learning models using C++, PyTorch, and TensorFlow to analyze and extract insights from large datasets.
+- Conducted statistical analysis and employed deep learning techniques to enhance algorithm performance.
+- Collaborated effectively with software engineers and data scientists to streamline the model deployment process.
+- Demonstrated strong communication and collaboration skills to convey complex technical concepts to non-technical stakeholders.
+
+Data Analyst Intern, Quantum Technologies, Philadelphia, Pennsylvania
+- Managed and processed large datasets using Python, ensuring data accuracy and integrity.
+- Applied statistical techniques and machine learning algorithms to discover meaningful patterns and support data-driven decision-making.
+- Contributed to model training and deployment, combining agility and problem-solving techniques.
+- Fostered effective teamwork and collaborated with cross-functional teams to deliver high-quality solutions within tight timelines.
+- Developed a deep understanding of the latest research in deep neural networks.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnicity & Gender Representation Advocate, Harmonious Community Association
+- Dedicated volunteer promoting diversity, inclusivity, and equal opportunities for Chinese males in Philadelphia.
+- Organized various events and awareness campaigns to foster a welcoming and inclusive community.
+- Served as a leader in a local basketball team, promoting sportsmanship, leadership, and teamwork.
+
+Hobbies:
+- Playing the piano and guitar, exploring different genres of music.
+- Exploring various cultures through literature and art.
+- Participating in local community events and volunteering.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

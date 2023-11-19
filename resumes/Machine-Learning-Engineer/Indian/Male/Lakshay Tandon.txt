@@ -1,0 +1,51 @@
+Lakshay Tandon
+San Jose, California | 123-456-7890 | lakshaytandon@email.com
+
+Personal Statement:
+Highly motivated and dedicated Machine Learning Engineer proficient in TensorFlow and PyTorch. Passionate about leveraging data-driven insights to develop innovative solutions that optimize business processes and enhance user experiences. Strong team player with excellent communication and collaboration skills. Eager to contribute to transformative projects in the field of artificial intelligence.
+
+Education:
+Bachelor of Science in Computer Science
+California Polytechnic State University, San Luis Obispo, CA
+
+Work Experience:
+Machine Learning Engineer
+InfiniTech AI Solutions, San Jose, CA | July 2018 - Present
+- Conducted model training and deployment using TensorFlow, resulting in more accurate predictions and improved system performance.
+- Demonstrated a deep understanding of neural network research to implement cutting-edge algorithms for image recognition, text analysis, and anomaly detection.
+- Collaborated with cross-functional teams to ensure seamless data handling and processing, enabling efficient model development and deployment.
+- Effectively communicated findings and insights to stakeholders, facilitating informed decision-making and ensuring alignment with project goals.
+
+Junior AI Engineer
+Strategix Data Solutions, San Francisco, CA | April 2017 - June 2018
+- Developed and optimized deep learning models using PyTorch, resulting in improved accuracy and reduced training time.
+- Leveraged Python, C++, and statistical analysis techniques to implement advanced algorithms for predictive analytics and anomaly detection.
+- Demonstrated agility and problem-solving skills in troubleshooting and enhancing the performance of machine learning models.
+- Contributed to the team's success in delivering high-quality solutions within tight deadlines.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnicity & Gender Ambassador
+California Polytechnic State University, San Luis Obispo, CA
+- Promoted diversity and inclusion by leading initiatives focusing on empowering individuals from diverse backgrounds, including Indian males.
+- Organized workshops and seminars to create awareness about ethnic and gender-related challenges in the tech industry.
+- Served as a mentor for underrepresented students, providing guidance and support in their academic and professional journeys.
+
+Sports Leadership Role
+Captain, University Tennis Team
+California Polytechnic State University, San Luis Obispo, CA
+- Demonstrated leadership skills by successfully leading the team to victory in multiple competitions.
+- Fostered teamwork, discipline, and sportsmanship among team members, ensuring a positive and inclusive environment.
+
+Hobbies:
+Playing the Sitar (Indian Classical String Instrument)
+Exploring Cultural Diversity through Movies and Literature
+Photography
+
+Languages:
+English (Fluent), Hindi (Fluent), Punjabi (Conversational)

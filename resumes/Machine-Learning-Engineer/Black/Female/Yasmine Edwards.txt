@@ -1,0 +1,46 @@
+YASMINE EDWARDS
+Machine Learning Engineer
+
+PERSONAL STATEMENT
+Dedicated and results-driven machine learning engineer with a strong passion for leveraging cutting-edge technologies to solve complex problems. Possessing exceptional analytical and problem-solving skills, combined with effective communication, collaboration, and leadership abilities. Committed to leveraging diverse perspectives to drive innovation and create impactful solutions in the field of machine learning.
+
+EDUCATION
+Bachelor of Science in Computer Science, ABC University, Memphis, Tennessee
+- Graduated with a 3.9 GPA, May 20xx
+
+WORK EXPERIENCE
+Machine Learning Engineer, InnovAItion Labs, Memphis, Tennessee
+May 20xx - Present
+- Developed and trained machine learning models using PyTorch and TensorFlow frameworks
+- Implemented C++ algorithms to optimize data handling and processing for large-scale datasets
+- Collaborated with cross-functional teams to design and deploy deep learning models
+- Ensured efficient model training and deployment with a focus on accuracy and scalability
+- Conducted statistical analysis and assessed model performance for ongoing improvements
+- Maintained effective communication and collaboration with stakeholders throughout the development process
+
+Research Assistant, AI Innovators, Memphis, Tennessee
+Jan 20xx - Apr 20xx
+- Assisted in deep neural net research, helping to understand complex models and algorithms
+- Demonstrated agility and problem-solving skills to address issues and enhance model performance
+- Utilized Python for data preprocessing, model implementation, and evaluation
+- Played a key role in team projects, contributing to brainstorming sessions and decision-making processes
+
+SKILLS
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Diversity and Inclusion Advocate, EmpowerTech Organization, ABC University
+- Promoted diversity and inclusion in tech fields, with a specific focus on empowering black women
+- Organized workshops and events to foster networking and mentorship opportunities
+- Empowered and motivated female students through leadership roles and guidance
+- Served as a team captain for the university's volleyball team, enhancing teamwork and sportsmanship
+
+HOBBIES
+- Playing the violin to express creativity and unwind
+- Participating in local community events that celebrate diversity and promote inclusivity
+
+LANGUAGES
+Fluent in English and conversational proficiency in French.

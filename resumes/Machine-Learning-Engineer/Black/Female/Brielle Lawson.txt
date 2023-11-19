@@ -1,0 +1,42 @@
+Brielle Lawson
+
+Personal Statement:
+A dedicated and results-oriented Machine Learning Engineer with a strong passion for utilizing advanced algorithms and cutting-edge technologies to develop innovative solutions. With a solid background in computer science and a deep understanding of deep neural net research, I am driven to leverage my skills and knowledge to make significant contributions in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, Harmony University, Charlotte, North Carolina
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, StellarAI Technologies, Charlotte, NC (2018-Present)
+- Led a dynamic team to develop and deploy machine learning models using C++ and TensorFlow, achieving exceptional accuracy and efficiency in real-time prediction.
+- Conducted statistical analysis to evaluate model performance and iteratively improved algorithms for optimal results.
+- Demonstrated agility and problem-solving skills in working on complex projects with tight deadlines, exceeding client expectations consistently.
+- Maintained a deep understanding of the latest advancements in deep neural net research, enabling the integration of cutting-edge techniques into model development.
+
+Data Scientist Intern, Luminary Solutions, Charlotte, NC (2017-2018)
+- Developed advanced deep learning algorithms using Python and PyTorch, resulting in significant improvements in data analysis and pattern recognition.
+- Collaborated closely with cross-functional teams to enhance communication and facilitate seamless integration of machine learning models into existing systems.
+- Demonstrated proficiency in data handling and processing, ensuring successful integration of large datasets for analysis and model training.
+- Utilized robust problem-solving techniques to identify and resolve technical challenges efficiently, contributing to the overall success of projects.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively champion diversity and inclusion in the field of technology through mentorship programs and community outreach initiatives.
+- As a team leader in basketball, encourage and empower young black females to excel both athletically and in leadership roles, fostering their personal and professional growth.
+
+Hobbies:
+- Playing the piano: Enjoy exploring different genres of music and expressing creativity through playing various melodies.
+- Traveling: Embracing diverse cultures and experiences, fostering a wider perspective on the world.
+- Photography: Capturing the beauty of everyday moments and expressing creativity through visual storytelling.
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)
+
+Note: The university name, job experiences, and company names mentioned in this resume are fictional and used as examples.

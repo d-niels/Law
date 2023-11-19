@@ -1,0 +1,35 @@
+Personal Statement:
+I am a dedicated and motivated individual seeking a position as a Machine Learning Engineer. With a strong academic background in computer science, a passion for technology, and experience in relevant tools and frameworks, I am confident in my ability to contribute to the field of machine learning. As a Chinese female growing up in Houston, Texas, I bring a diverse perspective to problem-solving and a commitment to encouraging diversity and inclusion in the technology industry.
+
+Education:
+Bachelor of Science in Computer Science, Houston Metropolitan University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+1. Research Engineer Intern, SwiftTech Innovations, Houston, Texas
+- Utilized C++ and PyTorch to contribute to cutting-edge deep neural net research projects
+- Demonstrated agility and problem-solving skills to tackle complex challenges
+- Employed Python for efficient data handling and processing
+
+2. Machine Learning Engineer, Dynamo AI Solutions, Houston, Texas
+- Collaborated with a diverse team to facilitate model training and deployment using TensorFlow
+- Effectively communicated findings and ideas to foster collaboration within the team
+- Conducted statistical analysis to evaluate the performance of deep learning models
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Chinese American Association, organizing cultural events to celebrate Chinese heritage and promote diversity within the community
+- Captain of the university's volleyball team, leading a diverse group of individuals and fostering teamwork and sportsmanship
+
+Hobbies:
+- Playing the piano, expressing my creativity and love for music
+- Exploring different cultures and traditions through traveling
+- Promoting diversity and women empowerment through various volunteer activities
+
+Languages:
+- Fluent in English and Mandarin Chinese, enabling effective communication in multicultural settings.

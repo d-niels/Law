@@ -1,0 +1,46 @@
+OORJA DIXIT
+
+Personal Statement:
+Passionate and motivated Indian female machine learning engineer with a background in computer science. I am dedicated to leveraging my technical skills and knowledge to develop innovative machine learning solutions. With a strong academic foundation and hands-on experience in deep learning, data handling, and statistical analysis, I am confident in my ability to contribute to cutting-edge projects. I am committed to diversity and inclusion, using my leadership skills to inspire others and foster a collaborative work environment.
+
+Education:
+Bachelor of Science in Computer Science
+San Jose State University, San Jose, California
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, QuantumAI, San Francisco, California
+- Deep understanding of Deep Neural Net Research to improve model accuracy and performance
+- Utilized Python and C++ for implementing machine learning algorithms
+- Conducted statistical analysis to evaluate model outcomes and identify areas for improvement
+- Employed PyTorch framework for deep learning tasks
+- Demonstrated agility and problem-solving skills while working on complex projects
+
+Software Engineer, NeuralTech, Palo Alto, California
+- Specialized in deep learning models and their training and deployment
+- Utilized TensorFlow framework for machine learning tasks
+- Handled large-scale data processing and management
+- Fostered effective communication and collaboration within cross-functional teams
+- Proven ability to work as a team player and contribute to common objectives
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Women in Technology Organization, San Jose, California
+- Actively involved in promoting diversity and inclusion in the tech industry
+- Organized events and workshops to empower women in STEM fields
+- Served as a role model in soccer, encouraging female participation and leadership in the sport
+- Played soccer and emphasized teamwork and resilience
+
+Hobbies:
+- Playing the guitar
+- Engaging in yoga and meditation practices
+- Exploring diverse cultures through music and dance
+
+Languages:
+English (Fluent)
+Hindi (Native)

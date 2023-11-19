@@ -1,0 +1,59 @@
+Delfino Aguirre
+El Paso, Texas
+(123) 456-7890 | delfino.aguirre@email.com
+
+Personal Statement:
+Highly motivated and detail-oriented Machine Learning Engineer with a strong background in statistical analysis and deep neural net research. Equipped with hands-on experience in TensorFlow and PyTorch, I am passionate about developing innovative machine learning solutions to tackle complex problems. Eager to join a dynamic team where I can apply my skills and contribute to the advancement of cutting-edge technologies.
+
+Education:
+Bachelor of Science in Computer Science, University of Texas at El Paso, El Paso, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+
+Machine Learning Engineer, TechGen Innovations, El Paso, Texas
+June 2019 - Present
+- Conduct statistical analysis on large datasets to create insights and guide decision-making processes.
+- Apply understanding of deep neural net research to develop effective machine learning models.
+- Utilize TensorFlow for building and implementing scalable machine learning algorithms.
+- Collaborate within a team environment to design and optimize data-handling and processing pipelines.
+- Program in Python to clean, pre-process, and visualize data.
+
+AI Software Developer Intern, Quantum Dynamics, El Paso, Texas
+May 2018 - August 2018
+- Implemented PyTorch models for training and deployment in various projects.
+- Conducted research and gained expertise in deep learning algorithms.
+- Utilized C++ to optimize and improve existing software applications.
+- Collaborated with cross-functional teams to ensure effective communication and collaboration.
+- Demonstrated agility and problem-solving skills to overcome challenges and meet project deadlines.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Latinos in Tech Mentorship Program, El Paso, Texas
+Mentor | January 2019 - Present
+- Provide guidance and support to aspiring Latino computer science students, sharing insights from my professional experience.
+- Empower mentees by helping them navigate potential barriers and offering career advice.
+- Foster diversity and inclusion within the tech industry by promoting and supporting diverse talent.
+
+Captain, El Paso Football Club
+Football (Soccer) Leadership Role | April 2017 - Present
+- Lead team in strategizing and coordinating gameplay, ensuring optimal performance and teamwork.
+- Cultivate a positive team environment by promoting inclusivity and unity.
+- Encourage and motivate teammates to maximize their potential, both on and off the field.
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures through music
+- Promoting gender equality and diversity in tech communities
+
+Languages:
+Fluent in English and Spanish
+
+References:
+Available upon request

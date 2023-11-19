@@ -1,0 +1,45 @@
+Zefirino Escamilla
+Las Vegas, Nevada | (123) 456-7890 | zescamilla@email.com
+
+Personal Statement:
+Passionate and determined machine learning engineer with a deep-rooted passion for applying artificial intelligence to solve real-world problems. Committed to staying on the cutting edge of technology and continuously enhancing skill sets to revolutionize the field. Thrives in collaborative environments and dedicated to making a positive impact in the world through innovative machine learning solutions.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+Nevada State University
+
+Work Experience:
+Machine Learning Engineer, Quantum AI, Las Vegas, NV | June 2018 - Present
+- Developed and implemented cutting-edge deep neural net models for sentiment analysis, resulting in a 25% improvement in accuracy.
+- Collaborated with a team of data scientists and engineers to incorporate state-of-the-art deep neural net research into model architecture, achieving breakthrough performance.
+- Led the seamless deployment of machine learning models into production, ensuring minimal disruption to existing systems.
+- Utilized Python and C++ to design and optimize model training algorithms, resulting in significant performance enhancements.
+- Conducted comprehensive code reviews and fostered effective communication for a cohesive and productive work environment.
+
+Data Scientist, Innovate Analytics, Las Vegas, NV | August 2016 - May 2018
+- Leveraged PyTorch and TensorFlow frameworks to develop advanced machine learning solutions for predictive analytics, increasing accuracy by 30%.
+- Worked closely with a diverse, interdisciplinary team to tackle complex statistical analysis challenges while contributing to data-driven decision-making processes.
+- Demonstrated agility and problem-solving skills by adapting to evolving project requirements and delivering high-quality results within tight timelines.
+- Implemented efficient data handling and processing techniques, reducing data integration runtime by 40%.
+- Actively participated in team meetings, fostering a collaborative environment to streamline processes and boost overall performance.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinx in Tech Mentorship Program, Innovation Society, Las Vegas, NV | 2014 - Present
+- Mentored and provided guidance to Latinx students pursuing computer science degrees, encouraging diversity and inclusion in the technology industry.
+- Organized workshops and seminars focused on machine learning, fostering curiosity and interest among underrepresented groups.
+- Served as a leader in a regional soccer league, promoting teamwork, discipline, and personal growth among young athletes through coaching and organizing practices.
+
+Hobbies:
+- Playing the bass guitar in a Latin music band, infusing cultural influences into music performances
+- Engaging in community initiatives to support marginalized communities and promote social equality
+- Participating in hackathons and coding competitions to continuously enhance technical skills and foster creative problem-solving
+
+Languages:
+- English (Fluent)
+- Spanish (Native)

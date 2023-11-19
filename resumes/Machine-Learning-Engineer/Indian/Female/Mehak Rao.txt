@@ -1,0 +1,45 @@
+Mehak Rao
+
+Personal Statement
+As an Indian female hailing from Atlanta, Georgia, I am a passionate and highly skilled Machine Learning Engineer with a strong background in computer science. With expertise in deep learning frameworks such as TensorFlow and PyTorch, I am dedicated to leveraging my technical knowledge and problem-solving abilities to contribute to cutting-edge research and development projects. I thrive in collaborative team environments and possess excellent communication skills that enable me to engage effectively with stakeholders at all levels.
+
+Education
+Bachelor of Science in Computer Science
+Delta University, Atlanta, Georgia
+GPA: 3.9
+
+Work Experience
+Machine Learning Engineer | AcuVision Technologies, Atlanta, Georgia
+- Developed and implemented deep learning algorithms utilizing TensorFlow and PyTorch frameworks
+- Collaborated with cross-functional teams to ensure smooth communication and collaboration throughout the project lifecycle
+- Leveraged agile methodologies to solve complex problems efficiently
+- Demonstrated exceptional teamwork and a strong commitment to meeting project deadlines
+
+Data Analyst | Binary Insights, Atlanta, Georgia
+- Conducted statistical analysis and interpreted complex data sets to identify trends and patterns
+- Utilized Python for data handling, processing, and modeling
+- Stayed abreast of deep neural network research to inform data-driven decision-making processes
+- Efficiently trained and deployed machine learning models for optimal performance
+- Demonstrated proficiency in C++ for various data processing tasks
+
+Skills
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership
+- Served as a captain of a co-ed cricket team, promoting diversity and gender equality in sports
+- Actively engaged in community initiatives that fostered equal opportunities for underrepresented groups, particularly Indian-American women in STEM fields
+- Served as a mentor for aspiring female engineers, providing guidance and support in their educational and professional pursuits
+
+Hobbies
+- Playing the veena, a traditional Indian musical instrument, showcasing my appreciation for Indian culture and music
+- Exploring diverse cultures and traditions through traveling and attending cultural events
+- Engaging in outdoor activities such as hiking and cycling, fostering a healthy and active lifestyle
+
+Languages
+- English (Fluent)
+- Hindi (Native proficiency)
+
+References available upon request.

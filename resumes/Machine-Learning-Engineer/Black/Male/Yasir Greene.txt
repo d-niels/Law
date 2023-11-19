@@ -1,0 +1,46 @@
+YASIR GREENE
+123 Main Street, Indianapolis, IN 12345
+Phone: (555) 123-4567 | Email: yasirgreene@email.com
+
+PERSONAL STATEMENT
+Dedicated and accomplished Machine Learning Engineer with a passion for utilizing cutting-edge technologies to develop innovative solutions. With a strong academic background in computer science and expertise in deep neural networks and model deployment, I am committed to driving advancements in the field. As a team player with excellent problem-solving and analytical skills, I am eager to contribute to the success of your organization.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Indiana State University, Indianapolis, IN
+GPA: 3.9/4.0 | Date of Graduation: May 20XX
+
+WORK EXPERIENCE
+Machine Learning Engineer | Stellar Technologies, Indianapolis, IN | May 20XX - Present
+- Developed machine learning algorithms and models using TensorFlow, involving data handling, processing, and statistical analysis.
+- Collaborated with a multidisciplinary team to understand and contribute to deep neural net research.
+- Demonstrated agility and problem-solving abilities to overcome challenges and ensure timely project delivery.
+
+Junior Machine Learning Engineer | ZealSoft, Indianapolis, IN | Jan 20XX - Apr 20XX
+- Implemented deep learning models using Python and PyTorch, along with C++ for model training and deployment.
+- Collaborated effectively with cross-functional teams, utilizing strong communication and collaboration skills.
+- Contributed to enhancing the company's data processing pipeline and improving model performance.
+
+SKILLS
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Volunteer Engineer | Tech Diversity Advocates (TDA) | 20XX - Present
+- Actively participate in TDA to foster diversity, representation, and inclusivity within the tech industry.
+- Organize workshops and events to empower underrepresented professionals, particularly in machine learning and data science.
+- Serve as a team captain for a local basketball league, promoting leadership, discipline, and teamwork within the organization.
+
+HOBBIES
+- Playing the guitar in a jazz band, expressing creativity through music.
+- Exploring various photography styles to capture unique perspectives.
+- Participating in recreational basketball leagues, fostering camaraderie and physical fitness.
+
+LANGUAGES
+- English (Native)
+- Spanish (Proficient)
+
+REFERENCES
+Available upon request.

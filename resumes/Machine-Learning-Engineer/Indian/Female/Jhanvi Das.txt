@@ -1,0 +1,49 @@
+JHANVI DAS
+Washington, DC | jh.das@email.com | (123) 456-7890
+
+PERSONAL STATEMENT
+Dedicated and results-driven Machine Learning Engineer with a strong background in computer science. Passionate about leveraging cutting-edge technology to develop innovative solutions in the field of artificial intelligence. Strong analytical and problem-solving skills combined with a collaborative mindset, ensuring effective teamwork and successful project execution. Committed to continuous learning and staying up-to-date with the latest advancements in machine learning.
+
+EDUCATION
+Bachelor of Science in Computer Science, ABC University, Washington, DC
+- GPA: 3.9
+
+WORK EXPERIENCE
+Machine Learning Engineer, SparkTek Solutions, Washington, DC
+- Developed and implemented machine learning algorithms using Python, TensorFlow, and Deep Learning techniques for model training and deployment.
+- Collaborated with cross-functional teams to ensure seamless integration of machine learning solutions into web and mobile applications.
+- Demonstrated strong problem-solving skills and agility to optimize algorithms and enhance efficiency.
+- Actively participated in code reviews, providing valuable feedback to improve code quality and maintainability.
+
+Machine Learning Research Intern, Innovate Labs, Washington, DC
+- Conducted in-depth research on deep neural nets, contributing to the understanding and advancement of the field.
+- Utilized PyTorch for model development and performed data handling and processing for research experiments.
+- Leveraged strong programming skills in C++ for statistical analysis and data manipulation.
+- Collaborated with researchers and contributed to papers and conference presentations.
+- Effectively communicated research findings and collaborated on projects with team members.
+
+SKILLS
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Sports Leadership Volunteer at DC Youth Sports Club, Washington, DC
+- Mentored and motivated young female basketball players, fostering their skills and helping them achieve their athletic potential.
+- Organized training sessions, managed team schedules, and coordinated tournaments to promote sportsmanship and teamwork.
+
+Diversity and Inclusion Advocate, ABC University, Washington, DC
+- Organized awareness campaigns and events celebrating diversity to foster inclusivity on campus.
+- Actively participated in discussions and initiatives to promote gender equality and cultural understanding.
+
+HOBBIES
+- Playing the Violin
+- Exploring different cultures through travel and music
+- Promoting diversity and inclusion in technology
+
+LANGUAGES
+English (Fluent), Hindi (Fluent), Bengali (Conversational)
+
+REFERENCES
+Available upon request.

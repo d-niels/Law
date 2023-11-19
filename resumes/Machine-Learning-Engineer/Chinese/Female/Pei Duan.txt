@@ -1,0 +1,45 @@
+Personal Statement:
+Dedicated and ambitious machine learning engineer with a strong background in computer science and a passion for leveraging innovative technologies to solve complex problems. Skilled in developing and deploying machine learning models, collaborating with multidisciplinary teams, and applying statistical analysis to drive data-driven decision-making. Committed to continuous growth and staying updated with the latest advancements in the field. As a Chinese female from Chicago, I bring a unique perspective and drive to contribute to the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science
+ABC University, Chicago, Illinois
+GPA: 3.9/4.0
+
+Work Experience:
+
+Machine Learning Engineer | Novatech AI Solutions, Chicago, IL | Dates Worked
+- Collaborated with a team of researchers to understand deep neural net research and develop innovative solutions for various industry-specific challenges.
+- Utilized deep learning techniques and performed statistical analysis on large datasets to uncover insights and drive decision-making.
+- Employed Python for data handling and processing, improving the efficiency and accuracy of machine learning algorithms.
+
+Machine Learning Engineer | Quantum Insights, Chicago, IL | Dates Worked
+- Contributed as a team player to design and implement machine learning models using TensorFlow and PyTorch.
+- Demonstrated agility and problem-solving skills to identify and address challenges in model training and deployment processes.
+- Utilized C++ for optimizing model performance and overcoming computational constraints.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnicity and Gender Advocate | Association for Diversity in Technology, Chicago, IL | Dates Volunteered
+- Led initiatives to promote diversity and inclusion within the tech community, particularly focusing on creating opportunities for individuals of Chinese descent.
+- Organized workshops and awareness campaigns to dispel stereotypes and promote cultural understanding.
+- Acted as a role model for aspiring female professionals in the field, encouraging their participation in STEM activities.
+
+Basketball Team Captain | Chicago Elite Hoopers, Chicago, IL | Dates Served
+- Provided leadership and guidance as a team captain for a competitive basketball team.
+- Coordinated team practices, managed game schedules, and fostered teamwork and camaraderie.
+- Demonstrated strong communication and organizational skills to ensure effective collaboration and optimal team performance in a high-pressure environment.
+
+Hobbies:
+- Playing the violin: Enjoys playing classical compositions and exploring the expressive power of music.
+- Outdoor photography: Passionate about capturing the beauty of nature through landscape photography.
+- Reading Chinese history: Explores the rich cultural heritage through historical accounts and narratives.
+
+Languages:
+- English: Fluent
+- Chinese (Mandarin): Native language

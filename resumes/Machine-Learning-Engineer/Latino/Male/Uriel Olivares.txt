@@ -1,0 +1,43 @@
+Personal Statement:
+As a passionate and driven machine learning engineer, I am dedicated to leveraging state-of-the-art technology to solve complex problems and drive innovation. With a strong foundation in computer science and a commitment to continuous learning, I strive to contribute to the development and implementation of advanced algorithms and models. With a diverse background and inherent leadership qualities, I am excited to make a meaningful impact in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, New Mexico Institute of Technology, Albuquerque, New Mexico
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Machine Learning Engineer, Quantum AI Solutions, Albuquerque, NM
+- Applied statistical analysis techniques for data handling and processing
+- Conducted in-depth research on deep neural networks to enhance understanding
+- Proficient in Python for machine learning model development
+- Effective communication and collaboration with cross-functional teams
+- Experienced in model training and deployment for real-world applications
+
+Machine Learning Engineer Intern, NovaTech Innovations, Albuquerque, NM
+- Developed deep learning models using TensorFlow for image recognition tasks
+- Utilized C++ to optimize performance and enhance the agility of machine learning algorithms
+- Collaborated with team members to solve complex problems and deliver efficient solutions
+- Proficient in PyTorch for enhancing model accuracy and performance
+- Proven ability to work effectively as a team player in a fast-paced environment
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnic Diversity Advocate, New Mexico Institute of Technology
+- Organized events and workshops to promote inclusivity and diversity awareness
+- Mentored and supported underrepresented students in pursuing STEM careers
+- Engaged in networking and advocacy initiatives to increase diversity in the tech industry
+
+Sports Leadership Role, Basketball Team Captain, New Mexico Institute of Technology
+- Led team strategies and fostered effective communication on and off the court
+- Mentored team members to enhance their skills and foster a sense of camaraderie
+
+Hobbies:
+Playing the guitar, exploring cultural diversity through travel and engaging in community events, avid reader and writer
+
+Languages:
+English (Fluent), Spanish (Native)

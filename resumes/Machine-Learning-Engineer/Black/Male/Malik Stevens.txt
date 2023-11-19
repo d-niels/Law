@@ -1,0 +1,48 @@
+Malik Stevens
+1234 Main Street | Memphis, TN 12345 | (555) 123-4567 | malikstevens@email.com
+
+Personal Statement:
+Highly motivated and detail-oriented machine learning engineer with a strong background in computer science. Passionate about leveraging machine learning algorithms to solve complex problems and contribute to technological advancements. Committed to continuous learning and staying updated with the latest industry trends. Eager to apply my skills and knowledge to drive innovative solutions as a machine learning engineer.
+
+Education:
+Bachelor of Science in Computer Science, Memphis State University, Memphis, TN
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, StellarTech Solutions, Memphis, TN
+- Utilized deep learning techniques for model training and deployment, resulting in efficient and accurate algorithms.
+- Collaborated with cross-functional teams to ensure seamless communication and understanding during project development.
+- Employed Python and TensorFlow to develop and optimize machine learning models.
+- Demonstrated strong team player qualities by fostering collaboration and contributing to project success.
+- Conducted extensive testing and debugging to promote the stability and reliability of machine learning algorithms.
+
+Technical Research Intern, QuantumAI Research Labs, Memphis, TN
+- Developed data handling and processing techniques to facilitate research on deep neural networks.
+- Assisted in understanding the latest advancements in deep neural net research and incorporated findings into project development.
+- Demonstrated agility and problem-solving skills by adapting to evolving project requirements.
+- Conducted statistical analysis and provided valuable insights for enhancing machine learning models.
+- Utilized PyTorch for designing and implementing machine learning algorithms.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Basketball Team Captain, Memphis YMCA Basketball League
+- Provided leadership and guidance to a competitive basketball team, fostering a cohesive and winning spirit.
+- Mentored teammates and promoted strong sportsmanship and work ethics.
+- Promoted diversity and equality within the league, advocating for equal opportunities for all participants.
+
+Hobbies:
+- Playing the saxophone
+- Exploring different genres of music
+- Sideline photography during basketball games
+- Volunteering at community events promoting diversity and inclusion
+
+Languages:
+- English (Native)
+- Spanish (Proficient)
+
+References available upon request.

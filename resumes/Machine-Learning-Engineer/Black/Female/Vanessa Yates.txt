@@ -1,0 +1,41 @@
+Personal Statement:
+Highly skilled and results-driven Machine Learning Engineer with a passion for developing innovative AI solutions. Dedicated to leveraging cutting-edge technologies to solve complex problems and drive business growth. As a black female from Indianapolis, Indiana, I am committed to promoting diversity and inclusion in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science
+ABC University, Indianapolis, Indiana
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer | InnovationAI, Indianapolis, IN | May 2019 - Present
+- Developed data processing pipelines using TensorFlow for large-scale datasets, resulting in optimized model training and deployment.
+- Conducted statistical analysis to assess model performance and implemented necessary improvements.
+- Stayed up-to-date with the latest advancements in deep neural network research to understand and apply novel techniques effectively.
+- Collaborated with cross-functional teams to ensure successful integration of machine learning models into existing systems.
+- Utilized deep learning algorithms to solve complex business problems and achieve performance improvements.
+
+Software Engineer Intern | FutureTech Solutions, Indianapolis, IN | Summer 2018
+- Demonstrated strong teamwork skills by actively participating in agile development methodologies and problem-solving sessions.
+- Developed machine learning models using PyTorch, resulting in improved accuracy and model performance.
+- Effectively communicated and collaborated with team members, contributing to successful project outcomes.
+- Utilized Python and C++ to implement and optimize software algorithms.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively contribute to promoting diversity and inclusion in the tech industry, particularly as a black female professional.
+- Served as a basketball team leader, mentoring young girls in a local community league.
+- Engaged in community initiatives that empower underrepresented minorities to pursue careers in STEM fields.
+
+Hobbies:
+- Playing the piano, showcasing my passion for music and embracing creativity.
+- Engaging in outdoor activities like hiking, emphasizing physical fitness and an active lifestyle.
+- Exploring different cultures through travel, fostering an appreciation for diversity.
+
+Languages:
+- English (Fluent)
+- French (Intermediate level)

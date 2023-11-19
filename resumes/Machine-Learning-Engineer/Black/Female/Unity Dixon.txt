@@ -1,0 +1,41 @@
+Personal Statement:
+I am a highly motivated and passionate machine learning engineer with a strong background in computer science. As a black female hailing from Washington, District of Columbia, I am determined to excel in the field of artificial intelligence and break barriers in the tech industry. With a solid foundation in machine learning algorithms and extensive experience in various programming languages, I am confident in my ability to drive innovation and create impactful solutions.
+
+Education:
+Bachelor of Science in Computer Science, Washington Central University, Washington, DC
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Machine Learning Engineer, Alpha AI Technologies, Washington, DC
+- Leveraged the power of TensorFlow and PyTorch to develop and optimize cutting-edge machine learning models.
+- Excelled in communication and collaboration within cross-functional teams, ensuring seamless project execution.
+- Utilized Python for data preprocessing, model training, and deployment.
+- Stayed abreast of the latest advancements in deep neural net research.
+
+Data Scientist, NexData Solutions, Washington, DC
+- Demonstrated expertise in handling and processing vast datasets, employing efficient data analysis techniques.
+- Developed efficient algorithms in C++ that improved data analysis speed and accuracy.
+- Proven ability to solve complex problems with agility and a keen problem-solving mindset.
+- Thrived as a team player in an agile, fast-paced work environment.
+- Conducted thorough statistical analysis to uncover valuable insights and drive data-driven decision-making processes.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteered at the Greater DC Girls in Tech Foundation, serving as a mentor for young women of color as they pursue rewarding careers in STEM fields.
+- Sports Leadership Role: Captain of the Washington Central University Women's Soccer Team, fostering teamwork, resilience, and promoting diversity and equality.
+
+Hobbies:
+- Playing the saxophone, expressing my creativity and passion for music.
+- Participating in multicultural events to embrace the beauty of diversity within my community.
+- Engaging in women's empowerment programs that reinforce gender equality and inclusivity.
+
+Languages:
+- English: Native
+- Spanish: Proficient
+
+References available upon request.

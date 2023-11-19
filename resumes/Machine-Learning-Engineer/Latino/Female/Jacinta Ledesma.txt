@@ -1,0 +1,42 @@
+Personal Statement:
+As a passionate and driven machine learning engineer, I am dedicated to leveraging my technical skills and expertise to develop innovative solutions. With a background in computer science and a strong understanding of statistical analysis and deep neural net research, I am excited to contribute to the development of cutting-edge machine learning technologies. As a Latino female hailing from Las Vegas, Nevada, I bring a unique perspective and diversity to the field, and I am committed to promoting inclusivity and equal opportunities in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Nevada State University, Las Vegas, Nevada
+- GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, InnovateAI Tech Solutions, Las Vegas, Nevada
+- Team Player: Collaborated with cross-functional teams to develop and implement data-driven strategies.
+- Statistical Analysis: Conducted comprehensive statistical analysis to identify patterns and trends in large data sets.
+- Python: Utilized Python for data handling, processing, and implementing machine learning algorithms.
+- Data Handling and Processing: Manipulated and cleaned large datasets to prepare them for analysis.
+- TensorFlow: Developed machine learning models using TensorFlow framework.
+- C++: Developed optimized algorithms for machine learning models.
+
+AI Research Scientist, QuantumTech Research Labs, Las Vegas, Nevada
+- Model Training and Deployment: Trained and deployed machine learning models to address specific business challenges.
+- Agility and Problem-Solving: Adapted quickly to changing project requirements and demonstrated effective problem-solving skills.
+- Understanding Deep Neural Net Research: Stayed updated with the latest research in deep neural networks and incorporated new techniques in model development.
+- PyTorch: Utilized PyTorch framework for training and fine-tuning deep learning models.
+- Communication and Collaboration: Effectively communicated technical concepts to non-technical stakeholders and collaborated with cross-functional teams.
+- Deep Learning: Applied deep learning techniques to develop and optimize machine learning models.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Advocacy for Diversity in Tech: Actively participates in promoting inclusivity and equal opportunities for underrepresented groups in the tech industry.
+- Soccer Team Captain: Leads a women's soccer team, fostering teamwork, mentorship, and cultural exchange.
+
+Hobbies:
+- Playing the guitar
+- Exploring diverse cultures and their music
+- Outdoor activities, such as hiking and camping
+
+Languages:
+- English (Fluent)
+- Spanish (Native)

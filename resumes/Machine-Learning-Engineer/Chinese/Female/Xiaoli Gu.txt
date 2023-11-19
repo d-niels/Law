@@ -1,0 +1,54 @@
+Xiaoli Gu
+New York, New York
+Phone: (123) 456-7890
+Email: xiaoli.gu@email.com
+
+Personal Statement:
+A highly motivated and dedicated machine learning engineer, seeking a challenging position to leverage my strong technical skills and passion for solving complex problems using cutting-edge technologies. With a solid foundation in computer science, I am driven to innovate and develop practical machine learning solutions that positively impact businesses and society.
+
+Education:
+Bachelor of Science in Computer Science
+Stellar University, New York, NY
+GPA: 3.9/4.0, Graduated May 20XX
+
+Work Experience:
+Machine Learning Engineer Intern
+Quanta Technologies, New York, NY
+April 20XX - Present
+- Developed machine learning algorithms and models using Python, with a focus on agility and problem-solving.
+- Collaborated with cross-functional teams to identify and solve complex business problems through statistical analysis and PyTorch.
+- Enhanced communication and collaboration within the team to deliver high-quality solutions in a fast-paced environment.
+
+Data Science Intern
+Wave Innovations, New York, NY
+June 20XX - August 20XX
+- Gained experience in model training and deployment, demonstrating a deep understanding of deep neural net research.
+- Utilized C++ for efficient data handling and processing, contributing to improved workflows.
+- Leveraged TensorFlow to implement deep learning models, optimizing performance and accuracy.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Promoting Diversity in Technology
+Member, Association of Chinese Women in Technology
+June 20XX - Present
+- Actively participate in technical workshops and conferences, advocating for diversity and equal opportunities for women in technology.
+
+Sports Leadership Role: Team Captain, Volleyball Team
+Random High School, New York, NY
+September 20XX - May 20XX
+- Led a team of diverse individuals, fostering teamwork and inspiring others to achieve their potential in the sport of volleyball.
+
+Hobbies:
+Playing the piano, practicing Chinese calligraphy, exploring photography, and staying updated with current advancements in AI and machine learning research.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References:
+Available upon request.

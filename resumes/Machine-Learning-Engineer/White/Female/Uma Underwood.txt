@@ -1,0 +1,39 @@
+Personal Statement:
+As a machine learning engineer, I am driven by a passion for leveraging cutting-edge technology to solve complex problems. With a strong background in computer science and a deep understanding of neural networks and data analysis, I strive to create innovative solutions that have a positive impact on society. I am a dedicated and collaborative team player, eager to contribute my skills and expertise to create groundbreaking advancements in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, San Antonio Technical University, San Antonio, Texas
+- GPA: 3.9/4.0
+
+Work Experience:
+1. Machine Learning Engineer, InnovateTech Solutions, San Antonio, Texas
+- Conducted data handling and processing tasks, optimizing data sets for analysis and model training.
+- Collaborated with cross-functional teams to develop deep learning models using TensorFlow, staying up-to-date with deep neural net research.
+- Demonstrated excellent communication skills, effectively conveying complex technical concepts to non-technical stakeholders.
+- Played a key role as a team player, contributing to brainstorming sessions and actively participating in code reviews and knowledge sharing.
+
+2. Software Developer, TechnoGenX, San Antonio, Texas
+- Developed models, trained and deployed them using C++ and Python, resulting in efficient and reliable solutions for various projects.
+- Demonstrated agility and problem-solving skills, adapting to evolving project requirements and finding innovative solutions.
+- Conducted statistical analysis on large datasets, extracting insights to optimize algorithm performance.
+- Utilized PyTorch for model development, leveraging its capabilities to enhance accuracy and efficiency.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Society of Women in Computer Science, promoting diversity and inclusion in the tech industry.
+- Led and mentored a basketball team, providing guidance and fostering teamwork to achieve success on and off the court.
+
+Hobbies:
+- Playing the piano and guitar
+- Exploring diverse cultures and traditions, seeking to understand and appreciate different perspectives and experiences.
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)
+
+References available upon request.

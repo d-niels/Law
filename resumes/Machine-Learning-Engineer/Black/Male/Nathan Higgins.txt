@@ -1,0 +1,43 @@
+Nathan Higgins
+Baltimore, Maryland | (555) 123-4567 | nhiggins@email.com
+
+Personal Statement:
+Results-driven and detail-oriented machine learning engineer with a strong academic background in computer science. Passionate about solving complex problems through cutting-edge technologies. Committed to fostering diversity and inclusivity in the tech industry. Eager to leverage skills and expertise to contribute to the development of innovative machine learning solutions.
+
+Education:
+Bachelor of Science in Computer Science, Baltimore Institute of Technology, Baltimore, Maryland
+GPA: 3.9/4.0
+Relevant coursework: Machine Learning, Artificial Intelligence, Data Structures, Algorithms, Software Engineering
+
+Work Experience:
+Machine Learning Engineer, Luminary AI Solutions, Baltimore, Maryland
+- Developed an understanding of the latest deep neural net research methodologies, facilitating the improvement of existing machine learning models.
+- Collaborated with cross-functional teams to refine data collection processes and identify potential performance enhancements.
+- Demonstrated agility and problem-solving skills to adapt models for varying use cases.
+- Utilized TensorFlow for model training and deployment, optimizing performance and accuracy.
+- Conducted statistical analyses to evaluate model performance and propose optimizations.
+
+Data Scientist Intern, Quantum Analytics, Baltimore, Maryland
+- Utilized PyTorch and Python to implement and fine-tune deep learning models for natural language processing tasks.
+- Collaborated with a team of software developers to streamline data handling and processing pipelines.
+- Demonstrated a strong ability to work in a team environment, effectively communicating ideas and collaborating on problem-solving.
+- Leveraged C++ for optimization efforts in the data processing stages, significantly improving efficiency.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate, Baltimore Institute of Technology, Baltimore, Maryland
+- Actively engaged in promoting diversity initiatives and fostering an inclusive environment within the university community.
+- Served as the captain of the university's basketball team, providing leadership, sportsmanship, and mentoring young athletes.
+
+Hobbies:
+- Playing the saxophone
+- Participating in community outreach programs
+- Exploring different cultures through music and art
+
+Languages:
+- Fluent in English and Spanish

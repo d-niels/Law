@@ -1,0 +1,45 @@
+Naveen Pillai
+
+Personal Statement:
+Passionate and driven Machine Learning Engineer with a strong background in computer science. Committed to pushing the boundaries of technology to drive innovative solutions. Experienced in developing and deploying machine learning models using PyTorch and TensorFlow. Equipped with exceptional analytical and problem-solving skills to tackle complex challenges. Strong communication and collaboration abilities to work effectively in team environments. Eager to contribute to cutting-edge projects as a Machine Learning Engineer.
+
+Education:
+Bachelor of Science in Computer Science, San Francisco State University, San Francisco, California
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Machine Learning Engineer, InnovexAI, San Francisco, CA
+- Conducted model training and deployment, utilizing PyTorch and TensorFlow frameworks
+- Performed statistical analysis to extract meaningful insights from data
+- Demonstrated expertise in understanding deep neural net research
+- Utilized deep learning techniques to improve model performance
+- Collaborated effectively with cross-functional teams to ensure project success
+
+Data Analyst, TechPro Solutions, San Francisco, CA
+- Managed and processed large volumes of data efficiently
+- Utilized programming languages such as C++ and Python for data handling
+- Excelled as a team player, working collaboratively to achieve project objectives
+- Employed TensorFlow to enhance agility and problem-solving in data analysis
+- Utilized analytical skills and debugging techniques to troubleshoot and resolve issues
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnicity and Gender Advocate, Bay Area Diversity Association
+- Actively support and advocate for the rights and representation of diverse ethnic and gender groups within the community
+- Organize events and workshops to promote inclusivity and diversity awareness
+- Sports Leadership Role: Captain of the San Francisco State University Soccer Team
+- Demonstrated leadership, teamwork, and sportsmanship skills as a player and captain
+
+Hobbies:
+- Playing the guitar
+- Soccer enthusiast and active participant in local leagues
+- Exploring different cultures through music and travel
+
+Languages:
+- English (Fluent)
+- Hindi (Native proficiency)

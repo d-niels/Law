@@ -1,0 +1,36 @@
+Personal Statement:
+Dedicated and motivated Machine Learning Engineer with a strong passion for developing innovative solutions to complex problems. Possessing a solid foundation in computer science and a proven track record in implementing cutting-edge machine learning algorithms. Committed to continuous learning and staying updated with the latest advancements in the field, I strive to leverage my technical expertise to drive breakthroughs in artificial intelligence.
+
+Education:
+Bachelor of Science in Computer Science, LMN University, San Diego, California
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer, StellarTech Solutions - San Diego, CA
+- Developed and deployed machine learning models using Python, TensorFlow, and Deep Learning techniques.
+- Implemented agile problem-solving strategies to optimize model training and deployment.
+- Collaborated effectively within a cross-functional team to ensure seamless integration of machine learning algorithms.
+
+Data Analyst, ProAnalytica Inc. - San Diego, CA
+- Conducted statistical analysis and utilized PyTorch for deep neural net research projects.
+- Managed large datasets, handling data processing and quality assurance.
+- Demonstrated strong communication and collaboration skills to support team efforts.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- As a proud white male, I actively promote diversity and inclusion in the tech industry. Regularly engage in volunteer work to support underrepresented communities.
+- Served as a captain in a local basketball team, fostering teamwork, discipline, and perseverance among players from diverse backgrounds.
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures through learning new languages
+- Engaging in physical fitness activities
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)

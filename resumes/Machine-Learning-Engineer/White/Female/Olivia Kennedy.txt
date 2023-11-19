@@ -1,0 +1,39 @@
+Olivia Kennedy
+
+Personal Statement:
+Passionate and driven machine learning engineer, dedicated to pushing the boundaries of artificial intelligence to solve complex problems. With a solid foundation in computer science, I possess a deep interest in deep learning and its applications. Collaborative and communicative, I excel in team-oriented environments, delivering exceptional results. As a machine learning engineer, I am determined to contribute to the field and make a lasting impact.
+
+Education:
+Bachelor of Science in Computer Science, Madison Heights University, Madison, WI (GPA: 3.9)
+
+Work Experience:
+Machine Learning Engineer, QuantumAI Innovations, Madison, WI
+- Developed advanced deep learning models using PyTorch for image recognition and natural language processing applications.
+- Collaborated closely with cross-functional teams to optimize model training, deployment, and fine-tuning, resulting in substantial performance improvements.
+- Expertly handled and processed vast datasets, ensuring data quality and accuracy through effective data cleaning and preprocessing techniques.
+- Leveraged C++ to accelerate model training and optimized performance on resource-constrained devices.
+
+AI Research Assistant, Nexus Labs, Madison, WI
+- Conducted statistical analysis and utilized Python libraries to develop algorithms for data analysis and visualization, contributing to groundbreaking research in the field of artificial intelligence.
+- Demonstrated exceptional agility, problem-solving skills, and attention to detail in tackling complex challenges within time-critical projects.
+- Played a pivotal role in collaborative research efforts, applying a deep understanding of deep neural network research and implementing state-of-the-art models using TensorFlow.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active in promoting diversity and inclusion within the tech community, actively advocating for underrepresented groups in the field of artificial intelligence.
+- Held a leadership role as captain of a competitive soccer team, guiding and motivating teammates to achieve shared goals and fostering team camaraderie.
+
+Hobbies:
+- Avid pianist, finding solace and creative expression through classical piano compositions.
+- Enjoys exploring diverse cultures through literature and travel, broadening perspectives and embracing the beauty of global diversity.
+- Passionate about outdoor activities such as hiking and trail running, fostering a healthy and active lifestyle.
+
+Languages:
+Fluent in English and French.
+
+References available upon request.

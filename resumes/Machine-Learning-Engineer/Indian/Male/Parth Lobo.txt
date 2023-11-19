@@ -1,0 +1,41 @@
+Parth Lobo
+
+Personal Statement:
+Dynamic and forward-thinking machine learning engineer with a drive for innovation and a passion for leveraging cutting-edge technologies to drive impactful solutions. Drawing on my diverse background and experiences as an Indian male from New York, I am committed to breaking new grounds in the field of artificial intelligence. Through deep neural net research and advanced analytics, I aim to contribute to the development of intelligent systems that shape the future.
+
+Education:
+Bachelor of Science in Computer Science - Easton University, New York, New York
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Machine Learning Engineer - Stellar Intelligence Solutions, New York, NY
+- Applied my expertise in understanding Deep Neural Net Research, TensorFlow, and Deep Learning to develop sophisticated algorithms for advanced image recognition systems
+- Proficiently utilized C++ for efficient and optimized implementation of neural networks
+- Collaborated effectively in a team environment, fostering a culture of knowledge-sharing and teamwork to accelerate project progress
+- Conducted rigorous statistical analysis to evaluate model performance, enabling data-driven decision-making and continuous improvement
+
+Data Analyst - Quantum Insights, New York, NY
+- Demonstrated exceptional communication and collaboration skills while working closely with diverse clients to understand their unique data requirements
+- Leveraged PyTorch and Python to design and deploy robust machine learning models for predictive analytics and pattern recognition
+- Exhibited agility and problem-solving prowess, effortlessly adapting to emerging challenges and evolving client needs
+- Spearheaded model training and deployment, enhancing efficiency and scalability, along with proficient data handling and processing
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Sports Leadership Role: Acted as the captain for a local soccer team, fostering teamwork, discipline, and strategic thinking among team members
+
+Hobbies:
+- Playing the guitar and experimenting with different music genres
+- Exploring different cultures through literature and traveling
+- Engaging in outdoor activities, such as hiking and soccer
+
+Languages:
+- English (Fluent)
+- Hindi (Native proficiency)
+
+References available upon request.

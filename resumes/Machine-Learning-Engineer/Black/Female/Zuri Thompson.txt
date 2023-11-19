@@ -1,0 +1,47 @@
+Personal Statement:
+As a black female from Baltimore, Maryland, I am passionate about leveraging machine learning to drive innovation and make a positive impact. With a dedication to excellence and a deep understanding of the power of data, I strive to contribute to cutting-edge projects that push the boundaries of artificial intelligence. Through my strong problem-solving skills, technical expertise, and collaborative nature, I am committed to driving breakthroughs in the field.
+
+Education:
+Bachelor of Science in Computer Science
+ABC University, Baltimore, Maryland
+GPA: 3.9/4.0
+
+Work Experience:
+
+Machine Learning Engineer Intern
+InnovateAI Labs, Baltimore, Maryland
+June 20XX - August 20XX
+- Developed and deployed machine learning models using PyTorch and TensorFlow, ensuring seamless data handling and processing
+- Collaborated with cross-functional teams to solve complex problems and optimize model training
+- Demonstrated adaptability in fast-paced environments, quickly adapting to changing project requirements and deadlines
+- Utilized strong problem-solving skills to identify and resolve technical issues during model development
+
+Research Assistant
+TechForward Technologies, Baltimore, Maryland
+January 20XX - Present
+- Contributing to cutting-edge deep neural network research projects, gaining insights into the latest developments in the field
+- Collaborated with a team to design and implement Python-based solutions for statistical analysis and C++ programming
+- Communicated research findings effectively through presentations and technical reports
+- Applied deep learning techniques and methodologies to optimize existing algorithms
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Diversity and Inclusion Advocate
+TechForward Diversity Initiative, Baltimore, Maryland
+- Actively promoted diversity and inclusion in tech-related fields through mentorship and awareness campaigns
+- Organized workshops and events to inspire and empower underrepresented groups in the community
+- Served as a team leader for a local basketball team, fostering an inclusive environment and promoting teamwork and leadership skills
+
+Hobbies:
+- Playing the saxophone
+- Photography, capturing diverse cultures and experiences
+- Exploring literature and supporting diverse authors
+
+Languages:
+- Fluent in English and Spanish

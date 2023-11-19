@@ -1,0 +1,46 @@
+Personal Statement:
+As a highly motivated and ambitious machine learning engineer, I am dedicated to leveraging my skills in data analysis and deep learning to contribute to innovative technology solutions. With a strong academic background in computer science and a passion for continuous learning, I am confident in my ability to drive advancements in the field. As a black female from Baltimore, Maryland, I am committed to promoting diversity and inclusivity in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Baltimore Technical Institute, Baltimore, Maryland
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Stellar Technologies, Baltimore, MD
+- Data Handling and Processing: Efficiently processed and analyzed large datasets to ensure accurate insights and training models.
+- Model Training and Deployment: Developed and deployed state-of-the-art machine learning models to optimize performance and automate processes.
+- C++: Implemented efficient C++ algorithms to enhance data processing capabilities.
+- Team Player: Collaborated with cross-functional teams of engineers, data scientists, and designers to develop innovative solutions that met project requirements.
+- Python: Created Python scripts for data manipulation, preprocessing, and model training.
+- Deep Learning: Utilized deep learning techniques to improve the accuracy and performance of predictive models.
+
+Research Assistant, InnovateX Research Institute, Baltimore, MD
+- Understanding Deep Neural Net Research: Assisted in studying and analyzing the latest research in deep neural networks, contributing to the development of cutting-edge models and algorithms.
+- PyTorch: Implemented and trained deep neural networks using the PyTorch framework for various research projects.
+- Statistical Analysis: Conducted statistical analysis on experimental data to derive meaningful insights and support research findings.
+- TensorFlow: Utilized TensorFlow framework to optimize and evaluate machine learning models.
+- Communication and Collaboration: Effectively communicated research findings to team members and collaborated on multi-disciplinary projects.
+- Agility and Problem-Solving: Demonstrated adaptability and a strong problem-solving mindset in addressing complex issues and challenges.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role, Baltimore City Athletics, Baltimore, MD
+- Led and coached a diverse team of athletes in basketball, fostering teamwork, discipline, and athletic development while promoting sportsmanship and fair play.
+- Promoted a positive and inclusive environment, ensuring equal opportunities for all participants.
+
+Hobbies:
+- Playing the piano
+- Exploring and supporting diverse cultural events, art exhibitions, and performances
+- Engaging in social justice advocacy, particularly focusing on promoting diversity and inclusivity in the tech industry
+
+Languages:
+- Fluent in English
+- Proficient in Spanish
+
+References:
+Available upon request.

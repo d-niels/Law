@@ -1,0 +1,44 @@
+Personal Statement:
+Highly motivated and detail-oriented machine learning engineer with a passion for developing innovative solutions. Dedicated to advancing artificial intelligence technologies to drive impactful outcomes. Excited to apply my skills and knowledge to contribute to cutting-edge projects in the field of machine learning.
+
+Education:
+Bachelor of Science in Computer Science, University of New Mexico, Albuquerque, New Mexico
+- GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Stellar Technologies, Albuquerque, New Mexico
+- Utilized TensorFlow and PyTorch to develop deep learning models for image recognition.
+- Collaborated with a team of engineers to deploy models in production environments using C++.
+- Conducted model training, optimization, and performance evaluation.
+- Developed efficient algorithms to enhance model accuracy and speed.
+- Leveraged Python for data preprocessing and analysis.
+
+Data Analyst, Insightful Analytics Solutions, Albuquerque, New Mexico
+- Performed statistical analysis and data handling to provide insights for client projects.
+- Demonstrated agility and problem-solving skills in working with complex datasets.
+- Collaborated with cross-functional teams to communicate analytical findings effectively.
+- Employed efficient data processing techniques to streamline workflows.
+- Responsible for presenting data-driven recommendations to clients.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer and Leadership:
+Sports Leadership Role, Albuquerque Community Center, Albuquerque, New Mexico
+- Led and mentored a diverse team of athletes in soccer.
+- Nurtured a collaborative and inclusive environment, fostering individual growth and teamwork.
+
+Dedicated to Diversity and Inclusion Initiatives:
+- Actively contribute to initiatives that promote diversity and inclusion in the tech community.
+- Organize and participate in events focused on encouraging underrepresented groups in technology.
+- Advocate for gender and ethnic diversity in the workplace.
+
+Hobbies:
+Playing the guitar, embracing and celebrating cultural diversity, engaging in community events that promote inclusivity, exploring multicultural literature.
+
+Languages:
+- English (Fluent)
+- Spanish (Fluent)

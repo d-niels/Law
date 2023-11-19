@@ -1,0 +1,49 @@
+Vitico Quinones
+
+Personal Statement:
+Passionate and driven machine learning engineer with a relentless pursuit of knowledge and a commitment to making a positive impact. With a deep understanding of deep neural network research and statistical analysis, I am dedicated to applying advanced analytics to solve complex problems in machine learning. Through my exceptional academic background in computer science and proven track record of delivering exceptional results, I am confident in my ability to excel as a machine learning engineer.
+
+Education:
+Bachelor of Science in Computer Science, Minor in Mathematics
+San Antonio State University, San Antonio, TX
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Stellar Innovations, San Antonio, TX
+- Collaborated with a diverse team to develop and implement cutting-edge deep learning algorithms using TensorFlow and Python.
+- Conducted extensive research on deep neural networks, exploring innovative approaches and translating findings into practical applications.
+- Utilized statistical analysis techniques to extract insights, improving model performance and accuracy.
+- Demonstrated excellent communication and collaboration skills, effectively bridging the gap between technical and non-technical stakeholders.
+
+Data Analyst, NovaTech Solutions, San Antonio, TX
+- Proactively handled and processed vast amounts of data, ensuring data integrity and availability.
+- Exhibited agility and problem-solving abilities by identifying and resolving data quality and availability issues promptly.
+- Led and contributed to model training and deployment initiatives, enhancing operational efficiency.
+- Thrived in a collaborative environment, actively engaging with cross-functional teams to deliver effective data-driven solutions.
+- Developed expertise in PyTorch, C++, and Python, enabling the creation of robust and scalable machine learning models.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Leadership Mentorship Program, San Antonio, TX
+- Actively mentored minority students pursuing careers in technology, providing them with guidance and support to achieve their goals.
+
+Sports Leadership:
+Captain, San Antonio State University Basketball Team
+- Led a diverse team of athletes to success, fostering teamwork, discipline, and determination both on and off the court.
+- Effectively communicated and coordinated strategies to optimize team performance and achieve outstanding results.
+
+Hobbies:
+Playing the drums, showcasing Latin rhythms and creating unique beats
+Exploring multicultural literature and art, immersing myself in the diverse perspectives of the world
+Participating in local Hispanic cultural events, celebrating and promoting our rich heritage
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References available upon request.

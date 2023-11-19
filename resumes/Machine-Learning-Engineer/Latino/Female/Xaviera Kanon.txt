@@ -1,0 +1,43 @@
+Personal Statement:
+Highly motivated and dedicated machine learning engineer with a passion for creating innovative solutions. With a solid background in computer science, I am adept at utilizing my skills in C++, Python, and statistical analysis to solve complex problems. Through my work experience and education, I have developed strong communication and collaboration skills, enabling me to effectively work within diverse teams. As a proud Latina from Las Vegas, Nevada, I am committed to promoting diversity and inclusion in the tech industry. I strive to contribute my expertise in machine learning to drive positive impact and push boundaries in the field.
+
+Education:
+Bachelor of Science in Computer Science
+Sunset University, Las Vegas, Nevada
+GPA: 3.9
+
+Work Experience:
+
+Machine Learning Engineer, Nexus Technologies, Las Vegas, NV
+- Model Training and Deployment
+- C++
+- Statistical Analysis
+- Communication and Collaboration
+- Data Handling and Processing
+- Team Player
+
+Machine Learning Engineer, Stellar Innovations, Las Vegas, NV
+- PyTorch
+- Agility and Problem-Solving
+- Python
+- Deep Learning
+- Understanding Deep Neural Net Research
+- TensorFlow
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active advocate for diversity and inclusion, promoting opportunities for underrepresented groups in the tech industry.
+- Sports Leadership: Served as team captain for a women's basketball team, fostering teamwork and mentorship among diverse teammates.
+
+Hobbies:
+- Playing the piano
+- Participating in multicultural events to celebrate and raise awareness about different ethnicities and cultures
+- Reading influential works by female authors and discussing literature clubs focused on female empowerment
+
+Languages:
+- Fluent in English and Spanish

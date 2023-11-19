@@ -1,0 +1,58 @@
+Personal Statement:
+I am a highly motivated and detail-oriented Machine Learning Engineer, adept at developing innovative solutions and optimizing algorithms to solve complex problems. With a strong educational background in computer science and a passion for machine learning technologies, I am committed to designing and implementing cutting-edge models that drive advancements in artificial intelligence. As a Chinese male from Philadelphia, Pennsylvania, I bring a unique perspective that allows me to approach challenges with a diverse mindset, enabling me to contribute to a team’s success.
+
+Education:
+Bachelor of Science in Computer Science
+Liberty University
+Philadelphia, Pennsylvania
+GPA: 3.9/4.0
+
+Work Experience:
+
+Machine Learning Engineer
+InnovaTech Solutions - Philadelphia, PA
+February 2019 - Present
+- Developed machine learning models using TensorFlow, PyTorch, and deep learning techniques to solve complex problems.
+- Collaborated with interdisciplinary teams to analyze business requirements and design effective ML solutions.
+- Processed and handled large-scale datasets to extract meaningful insights and ensure data quality.
+- Demonstrated strong communication and collaboration skills in explaining findings and presenting solutions to stakeholders.
+
+Software Engineer Intern
+TechVision Corporation - Philadelphia, PA
+May 2018 - August 2018
+- Utilized Python for statistical analysis, model training, and deployment.
+- Contributed to deep neural net research projects, staying updated with the latest developments in the field.
+- Played a key role in a team-oriented environment, assisting with code development and solving technical challenges.
+- Demonstrated proficiency in C++ for enhancing existing software applications.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Sports Leadership Role
+Philadelphia Cricket Club - Philadelphia, PA
+2016 - Present
+- Led the cricket team, organizing practices and fostering team camaraderie.
+- Promoted diversity and inclusion by engaging athletes from various cultural backgrounds.
+
+Promoting Diversity & Inclusion
+United Cultural Association - Philadelphia, PA
+2014 - 2017
+- Actively participated in initiatives promoting cultural awareness and understanding.
+- Facilitated events that celebrated Chinese culture and created opportunities for inter-ethnic connections.
+
+Hobbies:
+- Playing the guitar: Cultivating creativity and self-expression through music.
+- Exploring international films: Expanding horizons by appreciating diverse cinematic art forms.
+- Hiking and capturing landscapes: Nurturing a sense of adventure while preserving precious memories through photography.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References:
+Available upon request.

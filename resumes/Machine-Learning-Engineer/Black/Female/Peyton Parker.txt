@@ -1,0 +1,41 @@
+Personal Statement:
+A results-oriented machine learning engineer with a passion for leveraging data-driven solutions to tackle complex problems. Committed to driving innovation and contributing to the advancement of the field, I am seeking a challenging role that allows me to apply my skills and expertise in machine learning to make a significant impact.
+
+Education:
+Bachelor of Science in Computer Science, Carolina State University (Charlotte, NC)
+- GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Stellar AI Systems (Charlotte, NC)
+- Developed robust algorithms for data handling and processing using PyTorch and TensorFlow.
+- Utilized C++ and Python to implement machine learning models and conduct statistical analysis.
+- Collaborated with a diverse team to create and deploy deep learning models.
+- Demonstrated agility and effective problem-solving skills in resolving and troubleshooting issues.
+- Facilitated clear communication and promoted collaboration among team members.
+
+Software Engineer Intern, Quantum Solutions (Charlotte, NC)
+- Assisted research and development efforts in understanding deep neural net models.
+- Collaborated with the team to analyze, experiment, and implement the latest advancements in deep learning.
+- Contributed actively in team meetings and provided valuable insights.
+- Demonstrated strong teamwork and communication skills in a professional environment.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively participated in organizations promoting diversity and inclusion in the tech industry, representing the black female community.
+- Served as a captain and leader in a local basketball team, fostering teamwork and unity among teammates.
+- Actively engaged in mentorship programs, guiding aspiring young black females in pursuing careers in tech.
+- Contributed to initiatives and events focused on empowering underrepresented communities, specifically highlighting the achievements of black females.
+- Embrace the creative aspects of my identity through playing the piano, showcasing different musical styles.
+
+Hobbies:
+- Photography: Capturing the beauty of diverse landscapes and cultures.
+- Dancing: Expressing myself through various dance styles and embracing cultural diversity.
+- Reading: Exploring literature that sheds light on the experiences of underrepresented communities.
+- Languages: Fluent in English and proficient in Spanish, broadening my ability to connect with diverse individuals and communities.
+
+Sports: Peyton is an influential leader in the soccer community, serving as captain for a local women's soccer team.

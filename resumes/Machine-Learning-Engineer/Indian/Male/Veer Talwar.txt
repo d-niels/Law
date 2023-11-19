@@ -1,0 +1,40 @@
+Personal Statement:
+A highly driven and determined Machine Learning Engineer with a strong academic background in computer science and a passion for leveraging cutting-edge technologies to develop innovative solutions. Skilled in Python, C++, TensorFlow, and PyTorch, with expertise in statistical analysis, model training and deployment, and deep learning. Committed to continuous learning and expanding proficiency in machine learning techniques to make a meaningful impact in the field.
+
+Education:
+Bachelor of Science in Computer Science
+California Institute of Technology, Pasadena, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer | Lumos Dynamics, Los Angeles, CA
+- Utilized Python for effective communication and collaboration in developing advanced machine learning models.
+- Applied statistical analysis techniques to derive meaningful insights from complex datasets.
+- Played a significant role in model training and deployment, ensuring accurate predictions.
+- Proficient in C++ for optimizing code performance and enhancing overall system efficiency.
+- Developed and implemented machine learning algorithms using TensorFlow.
+
+Machine Learning Engineer | Stellar Innovations, Los Angeles, CA
+- Demonstrated exceptional agility and problem-solving skills in tackling challenging machine learning tasks.
+- Collaborated effectively within a team environment to develop and optimize deep neural networks.
+- Gained a comprehensive understanding of deep neural net research and its practical applications.
+- Utilized PyTorch framework for deep learning model development.
+- Expertise in data handling and processing, ensuring quality and accuracy in model training.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Basketball Team Captain: As the captain of a local basketball team, I fostered collaboration and team cohesiveness, leading the team to victory in multiple tournaments.
+- Diversity and Inclusion Advocate: Actively involved in promoting diversity and inclusion in the tech community, organizing events and workshops to empower underrepresented groups in technology.
+
+Hobbies:
+- Playing the guitar to connect with different music genres and express creativity.
+- Exploring diverse cuisines and experimenting with new recipes.
+- Participating in and organizing hackathons to foster innovation and collaboration.
+
+Languages:
+Fluent in English and Hindi, with a deep understanding of multicultural environments.

@@ -1,0 +1,39 @@
+Personal Statement:
+As a black female hailing from Jacksonville, Florida, I am dedicated to leveraging my expertise in machine learning to drive innovative solutions and make a lasting impact. With a deep-rooted passion for problem-solving and a strong background in computer science, I am committed to pushing the boundaries of machine learning engineering.
+
+Education:
+Bachelor of Science in Computer Science
+Sunshine State University, Jacksonville, Florida
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer | Innovatix Tech Solutions, Inc., Jacksonville, Florida
+- Conducted extensive research on deep neural networks, contributing to the development of cutting-edge models with enhanced accuracy and performance.
+- Utilized TensorFlow and C++ to implement advanced deep learning algorithms, optimizing model training and deployment processes.
+- Collaborated seamlessly with interdisciplinary teams, fostering effective communication and teamwork to achieve project goals.
+- Participated actively in code reviews, providing constructive feedback to improve code quality and maintainability.
+
+Data Analyst | Visionary Data Labs, Inc., Jacksonville, Florida
+- Applied deep learning techniques and statistical analysis to analyze large datasets, unearthing valuable insights for strategic decision-making.
+- Collaborated closely with cross-functional teams, contributing to the development of data-driven solutions to address complex business challenges.
+- Proficiently handled data processing and manipulation using Python, ensuring accuracy and efficiency in data operations.
+- Demonstrated agility and problem-solving skills while effectively addressing evolving business requirements.
+
+Skills:
+- Programming Languages: Python, C, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role | Jacksonville United Track and Field Club
+- As a dedicated leader and athlete in the Jacksonville United Track and Field Club, I promote diversity and inclusion within the team, empowering athletes from various backgrounds to excel.
+- Nurtured a supportive and inclusive environment where teamwork, resilience, and commitment are valued.
+ 
+Hobbies:
+- Playing the saxophone: Through the soulful melodies of the saxophone, I find solace and an outlet for self-expression, immersing myself in the beauty of music.
+- Exploring cultural diversity: Passionate about learning and celebrating different cultures, their histories, and traditions, I embrace diversity and strive to cultivate mutual understanding.
+
+Languages:
+- English: Native proficiency
+- Spanish: Conversational proficiency

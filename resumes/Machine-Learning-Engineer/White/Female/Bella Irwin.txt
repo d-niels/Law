@@ -1,0 +1,38 @@
+Personal Statement:
+Dedicated and driven machine learning engineer with a passion for developing cutting-edge technology. Committed to leveraging data and artificial intelligence to create innovative solutions. Skilled in various programming languages and experienced in handling complex data sets. Strong teamwork and communication abilities, combined with a deep understanding of machine learning algorithms and frameworks.
+
+Education:
+Bachelor of Science in Computer Science, Pacific Coast University (San Francisco, California)
+- GPA: 3.9
+- Relevant coursework: Artificial Intelligence, Machine Learning, Data Structures, Algorithms, Databases
+
+Work Experience:
+Machine Learning Engineer, Stellar AI Solutions (Silicon Valley, California)
+- Developed robust data handling and processing techniques to optimize machine learning models.
+- Collaborated with cross-functional teams to ensure seamless integration of models into existing systems.
+- Utilized C++ and TensorFlow for model training and deployment, resulting in improved efficiency and performance.
+- Demonstrated effective communication and collaboration skills while working on diverse projects.
+
+Research Assistant, Quantum Machine Learning Institute (Bay Area, California)
+- Conducted statistical analysis and utilized PyTorch for deep learning research.
+- Gained a deep understanding of deep neural net research and implemented cutting-edge algorithms.
+- Developed Python scripts to automate data preprocessing and analysis, contributing to faster research iterations.
+- Showed agility and problem-solving capabilities by finding creative solutions to research challenges.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active volunteer in empowering underrepresented communities in STEM fields, organizing workshops, and mentorship programs.
+- Served as a basketball team captain, fostering collaboration, teamwork, and respect among players.
+
+Hobbies:
+- Playing the violin to express creativity and promote cultural diversity.
+- Exploring diverse cultures through travel, fostering understanding and appreciation.
+- Engaging in activities that promote gender equality and inclusivity, such as participating in women in tech conferences or initiatives.
+
+Languages:
+- Fluent in English and Spanish, facilitating effective communication in multilingual environments.

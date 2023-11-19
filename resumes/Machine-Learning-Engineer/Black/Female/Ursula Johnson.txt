@@ -1,0 +1,42 @@
+Ursula Johnson
+
+Personal Statement:
+Dedicated and results-driven machine learning engineer with a strong passion for utilizing cutting-edge technology to solve complex problems. Eager to contribute my expertise in machine learning algorithms, data processing, and statistical analysis to drive innovation and advance the field. Committed to fostering diversity and inclusion in the tech industry, leveraging my background as a black female from Columbus, Ohio to bring unique perspectives to the table. As an avid tennis player and leader in the sports community, I thrive in collaborative environments and excel at motivating and empowering teams.
+
+Education:
+Bachelor of Science in Computer Science, Ohio State University, Columbus, Ohio
+- GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer Intern, PulseTech, Columbus, Ohio
+- Developed and implemented machine learning models using C++ for data handling and processing, ensuring accurate and efficient data analysis.
+- Collaborated with a cross-functional team to train and deploy models, leveraging strong communication and collaboration skills to drive successful projects.
+- Demonstrated agility and problem-solving abilities by identifying and resolving issues in the model training and deployment process.
+
+Research Assistant, Innovate Research Labs, Columbus, Ohio
+- Conducted statistical analysis on large datasets using TensorFlow, Python, and PyTorch, resulting in valuable insights for further research.
+- Deepened understanding of deep neural network research by staying up-to-date with the latest literature and techniques.
+- Worked independently and as part of a team to design and implement deep learning algorithms and models.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Chairperson, Tech for All Organization, Ohio State University, Columbus, Ohio
+- Led a team of diverse tech enthusiasts, organizing events and workshops to promote diversity and inclusion in the tech industry.
+- Mentored students from underrepresented backgrounds, providing guidance in pursuing careers in technology.
+- Served as a tennis team captain, organizing practices and leading a competitive team to success, promoting sportsmanship and leadership skills within the community.
+
+Hobbies:
+- Playing the piano and composing music, expressing creativity and emotions through different genres.
+- Participating in community theater productions, highlighting cultural storytelling and promoting inclusivity.
+- Traveling to experience diverse cultures and engage in meaningful conversations about representation in the tech industry.
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)
+
+References available upon request.

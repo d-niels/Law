@@ -1,0 +1,39 @@
+Personal Statement:
+Highly skilled and enthusiastic machine learning engineer, Chang Zeng, with a passion for leveraging data-driven solutions to promote innovation and efficiency. Possessing a strong background in computer science, I am committed to continuously expanding my knowledge and expertise in the field. I am adept at collaborating with diverse teams, adaptable to dynamic environments, and have a keen eye for detail. Seeking a challenging role as a machine learning engineer where I can contribute to cutting-edge projects and make a positive impact.
+
+Education:
+Bachelor of Science in Computer Science - Stanford University (GPA: 3.9)
+
+Work Experience:
+
+Machine Learning Engineer - TechnoVantage AI Solutions
+- Developed efficient, robust, and scalable machine learning models using C++, Python, and statistical analysis techniques.
+- Collaborated with multidisciplinary teams to conduct deep learning experiments and drive model training and deployment processes.
+- Assisted in optimizing and fine-tuning machine learning algorithms to achieve high accuracy and performance.
+- Demonstrated exceptional team-player skills, ensuring seamless communication and coordination among team members.
+- Leveraged strong analytical skills to evaluate data, identify patterns, and provide actionable insights for optimization.
+
+Data Analyst - InsightIQ Analytics
+- Demonstrated agility and problem-solving abilities in handling and processing large datasets for analysis.
+- Collaborated with cross-functional teams to analyze data, generate reports, and present actionable insights.
+- Communicated effectively with stakeholders to understand their requirements and provide data-driven solutions.
+- Utilized TensorFlow and PyTorch frameworks to implement deep neural network research in real-world applications.
+- Fostered strong communication and collaboration skills while working on projects with diverse teams.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- As a Chinese male from Oakland, California, I actively contribute to promoting diversity and inclusive environments within the tech industry.
+- Served as a soccer team captain, leading and mentoring a youth soccer team to develop teamwork, discipline, and sportsmanship.
+- Actively involved in promoting equal opportunities for underrepresented communities in STEM fields.
+
+Hobbies:
+- Playing the guitar and piano
+- Exploring different cultures through travel and language learning
+- Supporting and attending local community events promoting cultural diversity
+
+Languages: Fluent in English, Mandarin Chinese

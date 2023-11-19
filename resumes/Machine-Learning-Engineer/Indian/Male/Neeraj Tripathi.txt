@@ -1,0 +1,45 @@
+Neeraj Tripathi
+
+Washington, DC | neeraj.tripathi@email.com | (123) 456-7890
+
+Personal Statement:
+Motivated and dedicated Machine Learning Engineer with a strong background in computer science. Committed to leveraging expertise in deep learning and problem-solving to develop innovative solutions. Skilled in model training and deployment, as well as data handling and processing. Strong team player with excellent communication and collaboration abilities.
+
+Education:
+Bachelor of Science in Computer Science, Washington Metropolitan University, Washington, DC
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, QuantumSoft Technologies, Washington, DC
+- Developed machine learning models for various applications focusing on model training and deployment
+- Conducted in-depth research on deep neural networks and implemented them in practical projects
+- Utilized deep learning techniques to optimize algorithm performance
+- Demonstrated agility and problem-solving skills in addressing complex challenges
+- Proficient in C++ and PyTorch for model implementation and programming tasks
+
+Machine Learning Engineer Intern, TechMind Solutions, Washington, DC
+- Collaborated with cross-functional teams while working on machine learning projects
+- Utilized TensorFlow framework for model development and deployment
+- Efficiently handled and processed large-scale datasets for analysis and model training
+- Demonstrated strong programming skills in Python for implementing machine learning algorithms
+- Conducted statistical analysis to identify patterns and optimize model performance
+- Maintained effective communication and collaboration amongst team members
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Ethnicity and Gender Ambassador, Washington Metropolitan University: Actively promotes diversity and inclusivity within the university community, representing the Indian male population from Washington, DC.
+- Sports Team Leadership Role (Soccer): Led a competitive soccer team, developing strategies, fostering team collaboration, and organizing training sessions.
+
+Hobbies:
+- Playing the harmonium (musical instrument)
+- Exploring different art forms and attending cultural events
+- Reading about historical fiction and world mythology
+
+Languages:
+- English (Fluent)
+- Hindi (Native)

@@ -1,0 +1,56 @@
+Imani Kennedy
+6532 South Lafayette Avenue, Chicago, Illinois 60621
+Phone: (555) 123-4567 | Email: imanikennedy@email.com
+
+Personal Statement
+Highly motivated and dedicated machine learning engineer with a passion for developing innovative solutions. Committed to leveraging machine learning techniques to drive positive change and improve efficiency in various industries. With a strong background in computer science and experience in deep learning, model training, and data handling, I strive to contribute to cutting-edge projects in the field of machine learning.
+
+Education
+Bachelor of Science in Computer Science, GPA: 3.9
+Chicago Metropolitan University, Chicago, Illinois
+Date of Graduation: May 2021
+
+Work Experience
+Machine Learning Engineer Intern
+InnovaTech Solutions, Chicago, Illinois
+May 2021 - Present
+- Developed agile and creative solutions to complex problems, ensuring efficient operations and optimal performance.
+- Utilized deep learning techniques to improve model accuracy and efficiency.
+- Demonstrated expertise in programming languages, including Python and C++, for effective model training and deployment.
+- Conducted comprehensive data handling and processing to extract meaningful insights and enhance decision-making processes.
+
+Software Engineer Intern
+TechGenius AI, Chicago, Illinois
+June 2020 - August 2020
+- Communicated and collaborated with cross-functional teams to develop and implement solutions, fostering a collaborative work environment.
+- Demonstrated strong teamwork and interpersonal skills to support the successful completion of projects.
+- Acquired knowledge and understanding of deep neural net research and the latest advancements in TensorFlow and PyTorch.
+- Conducted statistical analysis to evaluate model performance and identify areas for improvement.
+
+Skills
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership
+Advocate for Diversity in Technology and Gender Equality
+Chicago Metropolitan University, Chicago, Illinois
+October 2019 - Present
+- Actively promote diversity and inclusivity by organizing workshops and discussions focused on increasing representation in technology fields.
+- Spearhead initiatives to empower underrepresented individuals, particularly black males, in pursuing careers in tech.
+
+Sports Leadership Role: Basketball Team Captain
+Chicago Metropolitan University, Chicago, Illinois
+September 2017 - May 2021
+- Mentored and motivated teammates to foster a cohesive and successful basketball team.
+- Demonstrated leadership, teamwork, and communication skills through organized practices and games.
+
+Hobbies
+Playing the saxophone, photography, exploring different cultures through travel, and supporting local art initiatives.
+
+Languages
+Fluent in English and proficient in Spanish.
+
+References
+Available upon request.

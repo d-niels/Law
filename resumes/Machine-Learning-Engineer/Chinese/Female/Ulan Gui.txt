@@ -1,0 +1,40 @@
+Personal Statement:
+As a Chinese female hailing from Houston, Texas, I am passionately pursuing a career as a machine learning engineer. With a strong foundation in computer science and a deep appreciation for cultural diversity, I strive to contribute to the field through my technical expertise and problem-solving abilities. I am driven to push the boundaries of machine learning, leveraging cutting-edge technologies to make a tangible impact in this exciting and evolving domain.
+
+Education:
+Bachelor of Science in Computer Science
+Elite University, Houston, Texas
+GPA: 3.9
+
+Work Experience:
+Machine Learning Engineer | NexGen Technologies
+Houston, Texas | August 2019 - Present
+- Demonstrated agility and problem-solving abilities by meticulously analyzing and optimizing deep neural net research models.
+- Utilized PyTorch to develop and deploy custom machine learning algorithms across various projects.
+- Collaborated seamlessly with cross-functional teams, ensuring efficient communication, and delivering high-quality solutions.
+- Expertly handled and preprocessed large datasets, incorporating statistical analysis for accurate model evaluation and insights.
+
+Software Engineer | Innovision Systems
+Houston, Texas | May 2017 - July 2019
+- Leveraged TensorFlow to develop and deploy advanced deep learning models for computer vision applications.
+- Facilitated effective communication and collaboration among team members, streamlining development processes.
+- Actively programmed using Python and C++ to enhance model training and deployment practices.
+- Conducted extensive model training and implemented efficient deployment strategies for production environments.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Engaged member of the Asian American Association, actively promoting cultural awareness and fostering inclusivity on campus.
+- Sports Leadership Role: Team Captain of the university's women's volleyball team, inspiring teamwork and instilling a competitive spirit.
+
+Hobbies:
+- Playing the piano: I find joy in creating music, constantly exploring various pieces to enhance my creativity and expressiveness.
+- Cultural Exploration: Immersing myself in diverse cultures allows me to broaden my horizons, nurturing a deeper appreciation for the beauty of our world.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Fluent)

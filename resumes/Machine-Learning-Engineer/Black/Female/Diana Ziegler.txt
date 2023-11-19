@@ -1,0 +1,40 @@
+Personal Statement:
+As a black female hailing from Detroit, Michigan, I am fueled by a deep-rooted passion for leveraging technology to address societal challenges and uplift underrepresented communities. My journey as a Machine Learning Engineer has been driven by a commitment to driving innovation and creating impactful solutions. With a solid educational background in computer science and a diverse skill set, I am eager to contribute my expertise to make a positive impact in the world.
+
+Education:
+Bachelor's in Computer Science - Innovative Technology University, Detroit, Michigan
+- Graduated with a commendable GPA of 3.9
+
+Work Experience:
+Machine Learning Engineer - Quantum Solutions, Detroit, Michigan
+- Demonstrated proficiency in C++, Model Training and Deployment, TensorFlow, Agility and Problem-Solving
+- Played a pivotal role as a team player in developing statistical analysis models to extract valuable insights
+- Leveraged TensorFlow to optimize the performance and accuracy of machine learning models
+- Successfully deployed machine learning models into production systems, ensuring seamless integration
+
+Data Science Intern - NovaData Labs, Detroit, Michigan
+- Hands-on experience in Python, PyTorch, Data Handling and Processing
+- Developed a strong understanding of Deep Neural Net Research and implemented cutting-edge deep learning algorithms
+- Collaborated effectively with interdisciplinary teams to develop innovative solutions for real-world challenges
+- Exceptional communication and collaboration skills, effectively conveying complex concepts to diverse stakeholders
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion, striving to bridge the gender and ethnic gap in the tech community
+- Volunteered as a mentor for minority students pursuing STEM careers, providing guidance and support
+- Served as a basketball team leader, coaching and empowering young girls to excel in the sport and in life
+
+Hobbies:
+- Expressing my creativity and cultural heritage through playing the saxophone
+- Exploring art forms from diverse cultures, appreciating their uniqueness and significance
+- Engaging in community outreach initiatives to uplift and support marginalized communities
+
+Languages:
+- Fluent in English and Spanish, facilitating effective communication with diverse audiences
+
+With my well-rounded education, diverse skill set, and unwavering dedication to promoting diversity and inclusivity, I am confident in my ability to thrive as a Machine Learning Engineer. I am ready to harness the power of technology to drive innovative solutions and create meaningful change in the world.

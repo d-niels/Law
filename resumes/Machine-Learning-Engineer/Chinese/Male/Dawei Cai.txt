@@ -1,0 +1,38 @@
+Personal Statement:
+Driven and passionate machine learning engineer with a strong foundation in computer science. Skilled in utilizing innovative techniques to solve complex problems and drive real-world impact. Committed to leveraging my expertise in machine learning to contribute to technological advancements and enhance user experiences. Excited to collaborate with talented teams and continuously expand my knowledge in this dynamic field.
+
+Education:
+Bachelor of Science in Computer Science, Liberty University, Philadelphia, PA
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Quantum AI Solutions, Philadelphia, PA
+- Utilized TensorFlow and PyTorch to develop and implement machine learning algorithms to analyze large datasets
+- Conducted statistical analysis to extract meaningful insights for business decision-making
+- Collaborated with cross-functional teams to design and deploy models for various applications
+- Proactively solved complex problems by applying agility and innovative problem-solving techniques
+- Demonstrated excellent communication skills to effectively convey technical concepts to both technical and non-technical stakeholders
+
+Data Scientist Intern, StellarTech Analytics, Philadelphia, PA
+- Developed Python-based algorithms to understand and apply state-of-the-art deep neural net research
+- Conducted model training and deployment, ensuring optimal performance and scalability
+- Utilized C++ for efficient data handling and processing
+- Expertise in deep learning methodologies to improve model accuracy and performance
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+- TensorFlow, PyTorch, Statistical Analysis, Communication and Collaboration, Agility and Problem-Solving, Team Player, Understanding Deep Neural Net Research, Model Training and Deployment, Deep Learning, Data Handling and Processing
+
+Volunteer & Leadership:
+- Actively engaged in promoting diversity and inclusion in the tech community as a Chinese male engineer, advocating for equal opportunities and representation
+- Served as a leader in a local soccer club, fostering teamwork and sportsmanship among players
+
+Hobbies:
+- Playing the erhu, a traditional Chinese instrument, to express creativity and preserve cultural heritage
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

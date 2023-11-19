@@ -1,0 +1,43 @@
+ZENIA GANDHI
+Chicago, IL | (555) 123-4567 | zenia.gandhi@email.com
+
+PERSONAL STATEMENT
+Passionate and talented Machine Learning Engineer with a strong background in deep learning and a knack for problem-solving. Committed to leveraging data-driven solutions to drive innovation in the field and enhance business performance. Dedicated team player with excellent communication skills and a solid understanding of collaborative project development. 
+
+EDUCATION
+Bachelor of Science in Computer Science, Illinois Institute of Technology (Chicago, IL)
+- Graduated with honors, GPA: 3.9
+- Relevant Coursework: Artificial Intelligence, Machine Learning, Data Structures, Operating Systems
+
+WORK EXPERIENCE
+Machine Learning Engineer Intern, Quantum Analytics (Chicago, IL)
+- Leveraged understanding of Deep Neural Net research to contribute to the development of advanced machine learning algorithms.
+- Proficiently applied Python and TensorFlow to preprocess, analyze, and visualize complex data sets.
+- Collaborated effectively with a multidisciplinary team to solve real-world problems and develop innovative solutions.
+- Enhanced algorithm performance and efficiency through agile development practices.
+- Streamlined communication and collaboration by implementing effective communication channels.
+
+Data Scientist, Cyberspace Solutions (Chicago, IL)
+- Implemented PyTorch to develop and deploy deep learning models, contributing to improved data handling and processing capabilities.
+- Conducted statistical analysis to validate and optimize machine learning algorithms.
+- Utilized C++ to optimize model training and deployment for real-time applications.
+- Collaborated with cross-functional teams to extract insights from big data sets and develop actionable recommendations.
+
+SKILLS
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Chicago Indian Community Outreach Program (CICOP)
+- Served as a volunteer for CICOP, organizing cultural events and promoting cultural diversity within the community.
+- As a leader in basketball, coached and mentored a youth basketball team to foster teamwork and leadership capabilities.
+
+HOBBIES
+- Playing the sitar (traditional Indian musical instrument)
+- Exploring diverse cultural activities and art forms
+- Engaging in meditation and mindfulness practices
+
+LANGUAGES
+Fluent in English and Hindi

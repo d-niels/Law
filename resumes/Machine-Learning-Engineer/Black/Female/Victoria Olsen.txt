@@ -1,0 +1,39 @@
+Personal Statement:
+I am a driven and analytical machine learning engineer with a deep-rooted passion for harnessing the power of technology in innovative ways. As a black female originating from the vibrant city of Chicago, I bring a unique perspective to the field, striving to break down barriers and promote diversity within the tech industry. With a strong educational foundation in computer science and hands-on experience in cutting-edge deep learning frameworks, I am poised to make significant contributions in developing advanced machine learning algorithms and their practical applications.
+
+Education:
+Bachelor of Science in Computer Science, Midwest Technical University, Chicago, Illinois
+- GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, Visionary Dynamics, Chicago, Illinois
+- Developed and implemented C++ and Python machine learning algorithms for model training and deployment, utilizing frameworks such as PyTorch.
+- Collaborated closely with cross-functional teams, ensuring seamless integration of deep learning models into existing systems.
+- Played a pivotal role in boosting team performance and efficiency by leveraging effective communication and fostering a collaborative work environment.
+- Acquired expertise in deep learning techniques and methodologies, harnessing the power of neural networks for predictive analytics.
+
+Data Analyst Intern, Exemplar Insights, Chicago, Illinois
+- Employed advanced data handling and processing techniques to manipulate large datasets, ensuring data quality and accuracy for statistical analysis and modeling.
+- Developed a comprehensive understanding of cutting-edge research in the field of deep neural networks, effectively applying this knowledge to enhance data handling and processing procedures.
+- Collaborated closely with a team of data scientists, engaging in effective communication and fostering collaboration to identify and resolve challenges.
+- Proficient in TensorFlow and other essential machine learning libraries, driving efficient data analysis and model development.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Strong analytical skills, adept at debugging techniques
+
+Volunteer & Leadership:
+Sports Leadership, Chicago Youth Soccer Association
+- Mentored and coached a diverse group of talented athletes, fostering their physical, social, and emotional growth.
+- Championed inclusivity and diversity within the association, ensuring equal opportunities for all participants.
+
+Hobbies:
+- Playing the piano to channel my emotions and explore my creative side.
+- Immersing myself in different cultures through travel and language learning.
+- Engaging in community activism, advocating for equality and social justice initiatives.
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)

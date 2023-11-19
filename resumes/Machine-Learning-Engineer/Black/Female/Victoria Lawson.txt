@@ -1,0 +1,42 @@
+Victoria Lawson
+
+Personal Statement:
+Passionate and driven machine learning engineer with a strong background in computer science and a talent for leveraging cutting-edge technologies to drive innovation. Committed to creating inclusive AI solutions and promoting diversity within the tech industry. Exceptional communication and collaboration skills combined with an agile mindset and problem-solving abilities enable me to excel in fast-paced, team-oriented environments. Seeking an opportunity to contribute to groundbreaking projects as a machine learning engineer.
+
+Education:
+Bachelor of Science in Computer Science, Jacksonville Tech University, Jacksonville, Florida (GPA: 3.9)
+
+Work Experience:
+Machine Learning Engineer, QuantumAI, Jacksonville, Florida
+- Developed advanced machine learning models using PyTorch to improve natural language processing capabilities
+- Collaborated effectively with cross-functional teams to ensure seamless communication and fostered a culture of collaboration
+- Leveraged expertise in deep neural net research to implement state-of-the-art algorithms for speech recognition applications
+- Demonstrated agility and problem-solving skills in solving complex challenges related to model training and deployment
+- Thrived as a team player, contributing to a positive and inclusive work environment
+
+Data Scientist Intern, Innovision Analytics, Jacksonville, Florida
+- Applied deep learning techniques to perform statistical analysis on large datasets, uncovering key insights for business optimization
+- Utilized Python and TensorFlow for data handling and processing, enhancing data preprocessing workflows
+- Developed optimized algorithms in C++ to accelerate computational tasks and improve scalability
+- Collaborated with a diverse team to deliver innovative solutions and meet project milestones
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Committee, Jacksonville Tech University, Jacksonville, Florida
+- Actively championed diversity and inclusion initiatives within the university community
+- Led efforts to ensure equal opportunities and representation for underrepresented minorities, celebrating the contributions of the Black community
+- Served as a sports team captain, promoting teamwork and fostering leadership in basketball
+
+Hobbies:
+- Playing the piano with a passion for classical music and composing original pieces
+- Engaging in cultural activities, from attending art exhibitions to exploring literature and poetry
+- Demonstrating athletic prowess as a passionate leader in basketball, fostering inclusivity and gender equality in sports
+
+Languages:
+- English (fluent)
+- Spanish (proficient)

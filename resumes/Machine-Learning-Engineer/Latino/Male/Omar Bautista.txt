@@ -1,0 +1,52 @@
+Omar Bautista
+
+Austin, Texas | (123) 456-7890 | omarbautista@email.com
+
+Personal Statement:
+Dedicated and passionate machine learning engineer with a strong background in statistical analysis and model training. Committed to leveraging cutting-edge technologies, such as TensorFlow and PyTorch, to develop innovative solutions. A team-oriented problem solver with excellent communication and collaboration skills. Eager to contribute to a dynamic organization as a Machine Learning Engineer.
+
+Education:
+Bachelor of Science in Computer Science, Austin Tech University, Austin, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Machine Learning Engineer, StellarAIA, Austin, Texas
+- Utilized statistical analysis techniques to extract meaningful insights from large-scale datasets.
+- Developed and implemented machine learning models for various projects.
+- Deployed models into production using TensorFlow and Python.
+- Collaborated with multidisciplinary teams to ensure successful project outcomes.
+- Proficiently programmed in C++ for efficient model execution.
+- Demonstrated expertise in deep learning algorithms to improve model performance.
+
+Data Analyst Intern, QuantumIntelligence, Austin, Texas
+- Collaborated effectively with team members to handle large datasets and ensure accurate data processing.
+- Leveraged analytical and problem-solving skills to troubleshoot data-related issues promptly.
+- Utilized PyTorch and deep neural network research for optimizing data analysis tasks.
+- Communicated findings and insights effectively to stakeholders.
+- Assisted in the development of new data handling and processing techniques.
+
+Skills:
+- Programming Languages: C, Python, C++
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinos in STEM Mentor, Austin Tech University, Austin, Texas
+- Mentored underrepresented students pursuing STEM fields.
+- Provided guidance and support to students from diverse backgrounds.
+- Empowered students to overcome challenges and achieve academic success.
+
+Sports Leadership Role, Basketball Team Captain
+- Led a team of young athletes in basketball to foster teamwork, discipline, and perseverance.
+- Coordinated team training sessions and strategized on game plans.
+- Developed strong relationships with the team and their families through effective communication.
+
+Hobbies:
+Playing the guitar, celebrating diversity through music
+Exploring different cultures and traditions
+Learning new languages (English, Spanish)
+
+Languages:
+English (Fluent)
+Spanish (Native)
