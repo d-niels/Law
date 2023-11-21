@@ -1,0 +1,4 @@
+8
+Strong foundation in computer science and relevant coursework (Machine Learning, AI)
+Experience with PyTorch and TensorFlow for deep learning model development
+Collaboration skills and teamwork demonstrated through previous work experience

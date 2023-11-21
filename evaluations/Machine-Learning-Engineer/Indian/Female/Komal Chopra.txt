@@ -1,0 +1,4 @@
+8
+Strong educational background in computer science (Bachelor of Science degree)
+Relevant work experience as a Machine Learning Engineer Intern
+Experience with deep learning frameworks such as PyTorch and TensorFlow

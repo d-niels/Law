@@ -1,0 +1,4 @@
+9
+Extensive experience in machine learning research
+Proficient in TensorFlow and PyTorch
+Strong academic background in computer science

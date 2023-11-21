@@ -1,0 +1,4 @@
+9
+Strong academic background in Computer Science (Education: University of Pennsylvania)
+Experience in developing deep neural net models for image recognition tasks (Work Experience: Epsilon Codex)
+Proficiency in TensorFlow, Python, and C++ (Skills: Programming Languages)

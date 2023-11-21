@@ -1,0 +1,4 @@
+8
+Deep understanding of deep neural net research
+Expertise in PyTorch and TensorFlow frameworks
+Strong academic background in computer science

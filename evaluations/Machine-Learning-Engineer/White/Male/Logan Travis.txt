@@ -1,0 +1,4 @@
+9
+Deep Learning and Understanding Deep Neural Net Research
+Python and Model Training and Deployment
+Communication and Collaboration with statistical analysis

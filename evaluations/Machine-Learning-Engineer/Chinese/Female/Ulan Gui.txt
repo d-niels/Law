@@ -1,0 +1,4 @@
+6
+Deep Learning, Statistical Analysis, Model Training and Deployment (6/10) 
+PyTorch, TensorFlow, Python, C++ (7/10)
+Communication and Collaboration, Team Player (8/10)

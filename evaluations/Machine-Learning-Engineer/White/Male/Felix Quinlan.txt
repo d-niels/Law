@@ -1,0 +1,4 @@
+6
+Strong academic background in computer science (GPA: 3.9)
+Experience developing deep learning models with PyTorch and TensorFlow
+Demonstrated problem-solving skills in complex and evolving projects

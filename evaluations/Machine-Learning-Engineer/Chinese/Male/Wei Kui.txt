@@ -1,0 +1,4 @@
+8
+Strong academic background with relevant coursework 
+Practical experience in developing advanced machine learning models
+Proficiency in Python, TensorFlow, PyTorch, and statistical analysis

@@ -1,0 +1,4 @@
+7
+Relevant coursework: Machine Learning, Data Mining, Artificial Intelligence
+Developed and deployed deep learning models for image recognition tasks
+Collaborated with a diverse team to develop cutting-edge machine learning algorithms

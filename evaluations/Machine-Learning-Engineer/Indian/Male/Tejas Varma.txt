@@ -1,0 +1,4 @@
+8
+Relevant experience in deep learning and model deployment
+Strong educational background in computer science
+Proven track record of improving accuracy and efficiency of models

@@ -1,0 +1,4 @@
+9
+Strong background in computer science (GPA: 3.9/4.0)
+Experience with TensorFlow, PyTorch, and deep learning applications
+Excellent analytical skills demonstrated in statistical analysis processes

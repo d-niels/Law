@@ -1,0 +1,4 @@
+9
+Deep Learning, Data Handling and Processing, Statistical Analysis
+Python, TensorFlow, PyTorch
+Machine Learning Engineer, Research Assistant experience

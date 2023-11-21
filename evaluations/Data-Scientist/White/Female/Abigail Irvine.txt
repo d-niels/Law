@@ -1,0 +1,4 @@
+9
+Strong expertise in machine learning algorithms (TensorFlow, SciKit-Learn) 9/10
+Proven track record of improving predictive analytics accuracy 8/10
+Extensive experience in data exploration, preprocessing, and visualization 9/10

@@ -1,0 +1,4 @@
+9
+Relevant coursework in Machine Learning, AI, Data Structures
+Experience with Python, PyTorch, and TensorFlow
+Strong background in deep learning and understanding of research

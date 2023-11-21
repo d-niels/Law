@@ -1,0 +1,4 @@
+8
+High GPA in computer science (3.9)
+Experience in data analysis and machine learning
+Strong programming skills in Java, Python, and C# 

@@ -1,0 +1,4 @@
+9
+Magna Cum Laude in Bachelor of Science in Computer Science
+Experience developing advanced machine learning algorithms using PyTorch and TensorFlow
+Strong problem-solving and analytical skills demonstrated through troubleshooting and resolving technical issues. 

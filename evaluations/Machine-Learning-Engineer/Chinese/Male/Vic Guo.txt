@@ -1,0 +1,4 @@
+8
+Strong background in computer science.
+Developed Python models for training and deployment.
+Utilized C++ to optimize model performance.

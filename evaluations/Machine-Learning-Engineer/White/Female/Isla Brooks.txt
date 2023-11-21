@@ -1,0 +1,4 @@
+8
+Deep Learning, Model Training and Deployment
+Python, C++, PyTorch, TensorFlow
+Statistical Analysis, Communication and Collaboration

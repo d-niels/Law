@@ -1,0 +1,4 @@
+8
+Strong background in machine learning (Deep Learning, Model Training and Deployment)
+Experience with popular machine learning frameworks (PyTorch, TensorFlow)
+Strong collaboration and communication skills (Team Player, Communication and Collaboration)

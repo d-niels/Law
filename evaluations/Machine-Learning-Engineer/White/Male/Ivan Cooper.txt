@@ -1,0 +1,4 @@
+9
+Experience in developing Python-based algorithms for data analysis.
+Demonstrated teamwork skills in collaborating with cross-functional teams.
+Hands-on experience with deep neural net research and TensorFlow.

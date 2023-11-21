@@ -1,0 +1,4 @@
+8
+Relevant coursework in machine learning, AI, and algorithms. 
+Experience in developing deep neural networks and optimizing machine learning algorithms.
+Proficient in Python, TensorFlow, and PyTorch.

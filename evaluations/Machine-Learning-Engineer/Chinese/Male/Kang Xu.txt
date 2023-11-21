@@ -1,0 +1,4 @@
+8
+Deep Learning Research Intern at Azure Neural Networks
+Developed and implemented C++ and PyTorch machine learning algorithms
+Comprehensive statistical analysis on extensive datasets

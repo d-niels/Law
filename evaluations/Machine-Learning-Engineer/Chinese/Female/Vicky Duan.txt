@@ -1,0 +1,4 @@
+7
+Strong academic background in Computer Science (Bachelor's degree, high GPA)
+Relevant work experience in machine learning engineering (model training, deployment)
+Demonstrated expertise in deep learning (TensorFlow, PyTorch) technology

@@ -1,0 +1,4 @@
+9
+Strong academic background in Computer Science (GPA: 3.9/4.0)
+Experience in developing and deploying models using C++ and Deep Learning
+Collaborative and teamwork skills, demonstrated through cross-functional project collaboration

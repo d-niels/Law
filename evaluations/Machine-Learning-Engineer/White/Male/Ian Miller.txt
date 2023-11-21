@@ -1,0 +1,4 @@
+9
+Strong educational background from UC Berkeley (3.9/4.0 GPA)
+Extensive experience in developing machine learning models using TensorFlow and Python
+Demonstrated ability to adapt to new methodologies and problem-solving skills

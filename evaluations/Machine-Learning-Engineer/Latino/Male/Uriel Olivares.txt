@@ -1,0 +1,4 @@
+8
+Proficient in Python for machine learning model development
+Conducted in-depth research on deep neural networks
+Collaborated with team members to solve complex problems

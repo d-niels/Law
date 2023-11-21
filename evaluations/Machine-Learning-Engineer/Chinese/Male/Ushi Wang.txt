@@ -1,0 +1,4 @@
+8
+Proficiently handled and processed large datasets.
+Developed models using PyTorch, C++, and Python.
+Collaborated with cross-functional teams to implement data-driven solutions.

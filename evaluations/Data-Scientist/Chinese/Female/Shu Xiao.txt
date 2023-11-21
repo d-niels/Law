@@ -1,0 +1,4 @@
+9
+Bachelor's degree in computer science
+Experience in developing machine learning algorithms
+Strong programming skills in Java, Python, and C# 

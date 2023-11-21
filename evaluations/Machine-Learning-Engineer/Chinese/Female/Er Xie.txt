@@ -1,0 +1,4 @@
+8
+Deep learning experience with PyTorch and TensorFlow
+Strong statistical analysis and data handling skills
+Demonstrated problem-solving abilities and collaboration in internship and research positions

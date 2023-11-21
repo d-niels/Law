@@ -1,0 +1,4 @@
+8
+Strong experience in developing deep neural networks using C++.
+Proficient in Python, TensorFlow, and PyTorch for model development and deployment.
+Demonstrated ability to collaborate effectively in a team environment.

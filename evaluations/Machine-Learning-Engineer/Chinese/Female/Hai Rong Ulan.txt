@@ -1,0 +1,4 @@
+9
+Deep learning expertise and experience in model training and deployment
+Strong background in computer science and analytical skills
+Solid programming skills in Python, C++, and data handling experience

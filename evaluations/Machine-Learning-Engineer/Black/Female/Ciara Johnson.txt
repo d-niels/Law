@@ -1,0 +1,4 @@
+8
+Proficiency in PyTorch, TensorFlow, and deep learning techniques.
+Experience in statistical analysis and optimizing model performance.
+Passion for diversity and inclusion in the tech industry.

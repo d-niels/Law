@@ -1,0 +1,4 @@
+9
+Deep learning experience and expertise (PyTorch, TensorFlow) 
+Strong problem-solving skills and analytical thinking 
+Proven track record of successfully deploying machine learning models 

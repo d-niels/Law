@@ -1,0 +1,4 @@
+9
+Deep Learning, PyTorch, TensorFlow
+Statistical Analysis, Model Training and Deployment
+Communication and Collaboration, Team Player

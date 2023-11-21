@@ -1,0 +1,4 @@
+8
+Strong background in computer science
+Utilized PyTorch and TensorFlow to develop machine learning algorithms
+Applied deep learning methodologies to enhance software performance

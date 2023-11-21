@@ -1,0 +1,4 @@
+9
+Relevant coursework: Machine Learning, Algorithms, Artificial Intelligence
+Proficiently handled and processed large-scale datasets using Python
+Demonstrated excellent communication and collaboration skills within cross-functional team projects

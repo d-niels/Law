@@ -1,0 +1,4 @@
+8
+Relevant coursework in machine learning and artificial intelligence.
+Experience in implementing deep learning models using PyTorch and TensorFlow.
+Strong communication and collaboration skills demonstrated through teamwork. 

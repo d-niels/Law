@@ -1,0 +1,4 @@
+9
+Strong foundation in computer science (Job Match: 9/10)
+Utilized TensorFlow and PyTorch for machine learning algorithms (Job Match: 8/10)
+Excellent communication skills to convey technical concepts (Job Match: 7/10)

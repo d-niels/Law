@@ -1,0 +1,4 @@
+9
+Strong background in computer science
+Extensive experience with TensorFlow and PyTorch
+Commitment to diversity and inclusion

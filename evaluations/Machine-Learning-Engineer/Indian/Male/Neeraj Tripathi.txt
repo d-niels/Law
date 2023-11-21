@@ -1,0 +1,4 @@
+7
+Strong background in computer science
+Experience in model training and deployment
+Proficient in Python, C++, and deep learning frameworks

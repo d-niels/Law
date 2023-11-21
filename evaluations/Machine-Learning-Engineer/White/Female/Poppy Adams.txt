@@ -1,0 +1,4 @@
+9
+Strong background in computer science (relevant coursework, GPA 3.9/4.0)
+Experience in developing and implementing machine learning models (increased accuracy, deployed models)
+Knowledge of deep neural network research and statistical analysis (improving model architecture)

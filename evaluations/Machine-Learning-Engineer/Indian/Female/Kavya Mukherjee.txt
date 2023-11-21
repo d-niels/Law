@@ -1,0 +1,4 @@
+8
+Extensive work experience in machine learning and deep neural net research.
+Proficiency in programming languages such as Python, C++, and C.
+Strong educational background with a Bachelor's degree in Computer Science.

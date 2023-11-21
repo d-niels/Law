@@ -1,0 +1,4 @@
+8
+Deep learning experience with TensorFlow and PyTorch.
+Proficient in Python for machine learning algorithm implementation.
+Strong collaboration skills and leadership experience.

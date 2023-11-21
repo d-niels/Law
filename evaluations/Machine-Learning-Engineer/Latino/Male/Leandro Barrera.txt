@@ -1,0 +1,4 @@
+8
+Strong experience in developing efficient algorithms using C++.
+Proficient in implementing machine learning models using PyTorch.
+Demonstrated ability to conduct statistical analysis on large datasets.

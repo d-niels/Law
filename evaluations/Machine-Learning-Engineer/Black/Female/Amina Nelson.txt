@@ -1,0 +1,4 @@
+8
+Deep learning models with 25% improvement in accuracy
+Efficient C++ programs with 30% reduction in processing time
+Black Girls Code mentor, promoting diversity and equality in tech

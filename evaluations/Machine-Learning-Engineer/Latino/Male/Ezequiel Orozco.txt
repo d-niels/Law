@@ -1,0 +1,4 @@
+9
+Deep learning model development using PyTorch and TensorFlow
+Strong background in computer science with high GPA
+Strong communication and collaboration skills within diverse team

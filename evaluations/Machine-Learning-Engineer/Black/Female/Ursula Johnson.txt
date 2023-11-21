@@ -1,0 +1,4 @@
+9
+Deep learning experience in PyTorch and TensorFlow
+Strong communication and collaboration skills
+Demonstrated agility and problem-solving abilities through model deployment issues

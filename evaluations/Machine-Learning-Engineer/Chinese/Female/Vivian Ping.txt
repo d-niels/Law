@@ -1,0 +1,4 @@
+9
+Strong background in computer science (Score: 9/10)
+Experience with implementing deep neural network research models (Score: 8/10)
+Collaboration with cross-functional teams to improve model training and deployment processes (Score: 8/10)

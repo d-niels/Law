@@ -1,0 +1,4 @@
+9
+Strong academic background in computer science (Score: 9/10)
+Experience with PyTorch, TensorFlow, and deep learning algorithms (Score: 9/10)
+Demonstrated problem-solving skills and resolving critical issues (Score: 9/10)

@@ -1,0 +1,4 @@
+9
+Strong problem-solving skills demonstrated in previous work experiences.
+Proficient in PyTorch and TensorFlow frameworks for deep learning.
+Bilingual in English and Spanish.

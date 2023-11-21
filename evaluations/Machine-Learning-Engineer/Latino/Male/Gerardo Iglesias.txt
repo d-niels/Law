@@ -1,0 +1,4 @@
+4
+Lacks specific projects or achievements in machine learning
+Limited experience with PyTorch and TensorFlow
+No mention of publications or contributions to the field

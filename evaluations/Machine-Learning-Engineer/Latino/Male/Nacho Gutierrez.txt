@@ -1,0 +1,4 @@
+9
+Strong background in computer science
+Experience with model training and deployment
+Knowledge of PyTorch and TensorFlow frameworks

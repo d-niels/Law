@@ -1,0 +1,4 @@
+8
+Strong background in computer science (3.9 GPA)
+Experience with Python, PyTorch, NumPy, and SQL
+Volunteering and leadership roles demonstrating community engagement

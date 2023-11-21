@@ -1,0 +1,4 @@
+8
+Strong educational background in computer science (8/10)
+Expertise in programming languages and deep learning frameworks (9/10)
+Experience in model training and deployment using PyTorch, TensorFlow (9/10)

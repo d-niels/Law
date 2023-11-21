@@ -1,0 +1,4 @@
+4
+Demonstrated expertise in developing and optimizing machine learning algorithms (4/10)
+Strong background in computer science and statistical analysis (6/10)
+Proficient in Python, TensorFlow, and PyTorch for deep learning model development (8/10)

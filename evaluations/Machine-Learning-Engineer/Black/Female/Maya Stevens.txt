@@ -1,0 +1,4 @@
+8
+Strong educational background in computer science (GPA: 3.9/4.0)
+Experience developing deep learning models using TensorFlow for image recognition and natural language processing
+Demonstrated agility and problem-solving skills in previous work experience

@@ -1,0 +1,4 @@
+8
+Strong programming skills: C++, Python, Java.
+Experience in developing and implementing data models and algorithms.
+Proven track record of collaborating with cross-functional teams. 

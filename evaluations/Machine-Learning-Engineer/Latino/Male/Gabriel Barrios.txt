@@ -1,0 +1,4 @@
+8
+Strong experience in machine learning model development and optimization.
+Proficiency in PyTorch and TensorFlow frameworks.
+Involvement in promoting diversity and inclusion in the technology industry.

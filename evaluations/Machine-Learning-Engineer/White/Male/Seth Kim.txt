@@ -1,0 +1,4 @@
+8
+Agility and Problem-Solving
+Deep Learning and Data Handling
+PyTorch, TensorFlow, Python expertise

@@ -1,0 +1,4 @@
+8
+Extensive research in deep neural networks
+Strong understanding of deep learning concepts
+Collaborated with cross-functional teams to ensure successful deployment of machine learning solutions

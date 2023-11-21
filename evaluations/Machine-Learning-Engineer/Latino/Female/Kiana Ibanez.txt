@@ -1,0 +1,4 @@
+8
+Deep learning expertise with TensorFlow and PyTorch.
+Strong understanding of statistical analysis and data handling.
+Demonstrated leadership and collaboration skills in previous roles.

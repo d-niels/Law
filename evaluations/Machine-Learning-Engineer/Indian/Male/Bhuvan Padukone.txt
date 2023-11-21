@@ -1,0 +1,4 @@
+9
+Strong academic background in computer science.
+Proficient in various programming languages and frameworks.
+Experienced in developing and deploying machine learning models.

@@ -1,0 +1,4 @@
+4
+Strong background in computer science and machine learning (4/10)
+Experience with deep learning frameworks such as PyTorch and TensorFlow (6/10)
+Demonstrated ability to collaborate effectively in a team environment (7/10)

@@ -1,0 +1,4 @@
+1
+Deep Learning, Model Training and Deployment, PyTorch (10/10)
+Communication and Collaboration, Statistical Analysis, Data Handling and Processing (8/10)
+Understanding Deep Neural Net Research, Programming Languages: C++, Python (8/10)

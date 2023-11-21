@@ -1,0 +1,4 @@
+9
+Experience in developing efficient data handling and processing systems
+Strong expertise in PyTorch and TensorFlow for model training and deployment
+Demonstrated leadership skills as a basketball team captain

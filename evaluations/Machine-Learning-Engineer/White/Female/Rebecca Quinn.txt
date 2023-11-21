@@ -1,0 +1,4 @@
+8
+Relevant work experience in machine learning engineering. 
+Strong technical skills in Python, TensorFlow, and PyTorch. 
+Demonstrated problem-solving and collaboration skills in previous roles.

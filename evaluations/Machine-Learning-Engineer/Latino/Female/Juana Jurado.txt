@@ -1,0 +1,4 @@
+8
+Solid education in computer science (Bachelor's degree)
+Experience in developing and implementing machine learning models
+Demonstrated expertise in TensorFlow and PyTorch

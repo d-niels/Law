@@ -1,0 +1,4 @@
+5
+Proficient in Python, PyTorch, TensorFlow
+Experience in developing machine learning algorithms
+Strong problem-solving and analytical skills

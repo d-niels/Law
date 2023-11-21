@@ -1,0 +1,4 @@
+8
+Strong background in computer science
+Expertise in handling and processing large datasets
+Experience in implementing advanced model training and deployment techniques

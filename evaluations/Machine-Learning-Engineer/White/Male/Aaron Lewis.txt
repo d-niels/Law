@@ -1,0 +1,4 @@
+8
+Deep learning expertise in PyTorch and TensorFlow
+Strong analytical skills for statistical analysis and problem-solving
+Relevant machine learning experience in model development and deployment

@@ -1,0 +1,4 @@
+7
+Experience in developing and implementing machine learning models using C++, PyTorch, and TensorFlow.
+Strong communication and collaboration skills with non-technical stakeholders.
+Proven ability to manage and analyze large datasets using Python.

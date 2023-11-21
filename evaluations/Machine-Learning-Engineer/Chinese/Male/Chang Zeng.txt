@@ -1,0 +1,4 @@
+8
+Bachelor of Science in Computer Science from Stanford University (GPA: 3.9)
+Developed efficient and scalable machine learning models using C++, Python
+Demonstrated strong collaboration skills in diverse team environments

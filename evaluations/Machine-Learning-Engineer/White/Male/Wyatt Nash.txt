@@ -1,0 +1,4 @@
+9
+Strong background in computer science (Match)
+Proficient in TensorFlow for model training and deployment (Match)
+Demonstrated strong team-player abilities (Match)

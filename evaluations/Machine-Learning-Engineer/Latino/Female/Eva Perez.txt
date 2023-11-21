@@ -1,0 +1,4 @@
+7
+PyTorch and TensorFlow model development and deployment
+Experience with deep neural net research and statistical analysis
+Strong communication and collaboration skills

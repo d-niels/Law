@@ -1,0 +1,4 @@
+9
+Strong background in machine learning, deep learning, and statistical analysis.
+Proficiency in TensorFlow, PyTorch, Python, and C++.
+Active involvement in technology organizations and leadership roles. 

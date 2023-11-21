@@ -1,0 +1,4 @@
+9
+Deep Learning expertise
+Experience with PyTorch and TensorFlow
+Strong problem-solving skills

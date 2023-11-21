@@ -1,0 +1,4 @@
+9
+Deep Learning experience with PyTorch and TensorFlow
+Strong problem-solving skills in data handling and processing
+Collaboration experience with technical and non-technical stakeholders

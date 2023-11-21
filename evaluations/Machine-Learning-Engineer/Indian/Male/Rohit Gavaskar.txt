@@ -1,0 +1,4 @@
+9
+Deep learning model development using C++ and PyTorch
+Strong communication and collaboration skills
+Research on deep neural networks to enhance algorithm efficiency

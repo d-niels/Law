@@ -1,0 +1,4 @@
+8
+Strong background in computer science and programming languages.
+Skilled in data preprocessing, visualization, and exploration techniques.
+Experience developing predictive models and presenting actionable recommendations.

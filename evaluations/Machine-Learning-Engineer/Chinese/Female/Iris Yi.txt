@@ -1,0 +1,4 @@
+8
+Deep learning model development using PyTorch and TensorFlow
+Proficient in data handling, processing, and statistical analysis
+Active involvement in diversity and inclusion initiatives in technology

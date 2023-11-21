@@ -1,0 +1,4 @@
+9
+Relevant work experience as a Machine Learning Engineer at StellarAI Solutions.
+Strong background in computer science with a high GPA.
+Experience with deep learning frameworks such as TensorFlow and PyTorch.

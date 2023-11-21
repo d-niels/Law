@@ -1,0 +1,4 @@
+8
+Experience with MongoDB, Python, TensorFlow, Java, and PyTorch.
+Strong data analysis and machine learning skills.
+Demonstrated ability to deliver actionable insights to stakeholders.

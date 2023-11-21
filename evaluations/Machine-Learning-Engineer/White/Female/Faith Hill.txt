@@ -1,0 +1,4 @@
+7
+Machine Learning Engineer at CypherTech Solutions (2020-present)
+Developed and optimized machine learning models using deep learning algorithms
+Bachelor of Science in Computer Science with a GPA of 3.9

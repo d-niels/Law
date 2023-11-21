@@ -1,0 +1,4 @@
+8
+Strong educational background in computer science (Bachelor of Science)
+Experience in statistical analysis and deep learning algorithms
+Proficiency in Python, TensorFlow, and PyTorch

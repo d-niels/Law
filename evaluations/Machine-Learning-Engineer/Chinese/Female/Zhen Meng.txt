@@ -1,0 +1,4 @@
+9
+Relevant coursework: Machine Learning, Algorithms, Data Structures, Artificial Intelligence
+Developed deep learning models using TensorFlow and PyTorch
+Successfully trained and deployed machine learning models for real-time anomaly detection and prediction

@@ -1,0 +1,4 @@
+8
+Strong background in computer science and high GPA (3.9)
+Experience developing and implementing machine learning models using C++, Python, TensorFlow
+Demonstrated agility, problem-solving skills, and collaboration in previous roles

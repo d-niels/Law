@@ -1,0 +1,4 @@
+9
+Strong background in computer science
+Experienced in utilizing advanced analytics tools/methodologies
+Collaborated with cross-functional teams to translate business requirements into data science solutions

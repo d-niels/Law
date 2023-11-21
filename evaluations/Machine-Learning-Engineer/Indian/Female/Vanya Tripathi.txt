@@ -1,0 +1,4 @@
+8
+Strong academic background in computer science 
+Experience with deep neural networks and statistical analysis
+Proficiency in Python, PyTorch, TensorFlow, and C++

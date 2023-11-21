@@ -1,0 +1,4 @@
+9
+Proficient in deep learning frameworks (PyTorch, TensorFlow)
+Collaborated on machine learning models using TensorFlow
+Conducted statistical analysis on large datasets 

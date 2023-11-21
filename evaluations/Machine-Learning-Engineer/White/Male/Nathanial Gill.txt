@@ -1,0 +1,4 @@
+6
+Deep learning and model training experience: PyTorch, TensorFlow (6/10)
+Strong problem-solving and analytical skills (7/10)
+Previous internship experience in machine learning engineering (8/10)

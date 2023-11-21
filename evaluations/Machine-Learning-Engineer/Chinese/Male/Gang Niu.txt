@@ -1,0 +1,4 @@
+5
+Deep learning and model training experience 
+Strong foundation in data handling and statistical analysis 
+Proficiency in PyTorch and TensorFlow 

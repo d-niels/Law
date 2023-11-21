@@ -1,0 +1,4 @@
+8
+Solid academic background in computer science
+Strong skills in Python, R, PyTorch, NumPy, and MongoDB
+Internship experience with real-time data analysis using TensorFlow, C++, SQL

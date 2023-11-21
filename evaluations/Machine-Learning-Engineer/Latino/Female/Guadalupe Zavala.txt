@@ -1,0 +1,4 @@
+8
+Strong academic background in relevant field (Computer Science degree)
+Extensive experience with deep learning frameworks (PyTorch, TensorFlow)
+Proven ability to collaborate and deliver high-quality solutions (previous work experience at Stellar AI Solutions)

@@ -1,0 +1,4 @@
+8
+Deep neural net research
+Model training and deployment
+Python, C++, PyTorch, TensorFlow

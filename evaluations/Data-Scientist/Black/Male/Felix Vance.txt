@@ -1,0 +1,4 @@
+8
+Bachelor's degree in computer science from a reputable university.
+Experience with programming languages Python, R, and Java.
+Strong background in data analysis and machine learning. 

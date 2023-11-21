@@ -1,0 +1,4 @@
+9
+Relevant coursework in Machine Learning and Artificial Intelligence.
+Experience working as a Machine Learning Engineer at Innovatronix AI.
+Proficiency in PyTorch and TensorFlow frameworks. 

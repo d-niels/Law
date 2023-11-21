@@ -1,0 +1,4 @@
+8
+Solid educational foundation in computer science (Bachelor of Science in Computer Science)
+Extensive experience in machine learning and deep learning (Machine Learning Engineer, Tech+ Solutions)
+Proficiency in Python and experience with TensorFlow and PyTorch

@@ -1,0 +1,4 @@
+8
+Deep learning techniques and PyTorch framework for model training and deployment.
+Collaboration with cross-functional teams and agile methodology adaptation.
+Experience in data handling, optimization, and statistical analysis.

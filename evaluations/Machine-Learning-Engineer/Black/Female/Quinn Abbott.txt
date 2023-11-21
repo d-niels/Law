@@ -1,0 +1,4 @@
+3
+No research experience or publications
+Limited experience with PyTorch and deep learning techniques
+No mention of experience with large-scale data handling and processing

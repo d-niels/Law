@@ -1,0 +1,4 @@
+9
+Strong background in Computer Science with a 3.9 GPA.
+Developed and deployed Deep Learning models in previous role.
+Proficiency in Python and understanding of Deep Neural Net Research.

@@ -1,0 +1,4 @@
+8
+Solid foundation in statistical analysis.
+Experience with deep learning techniques and TensorFlow.
+Strong programming skills in C++, Python, and SQL.

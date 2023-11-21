@@ -1,0 +1,4 @@
+8
+Strong background in computer science
+Experience with cutting-edge machine learning models (TensorFlow, PyTorch)
+Demonstrated problem-solving and analytical skills

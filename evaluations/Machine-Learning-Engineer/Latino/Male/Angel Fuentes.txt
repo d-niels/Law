@@ -1,0 +1,4 @@
+6
+Strong academic background: Bachelor of Science in Computer Science
+Experience with Python, PyTorch, and TensorFlow
+Demonstrated communication and collaboration skills through stakeholder presentations

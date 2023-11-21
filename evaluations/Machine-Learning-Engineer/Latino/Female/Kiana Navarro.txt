@@ -1,0 +1,4 @@
+9
+Proficiency in PyTorch and TensorFlow
+Strong problem-solving and analytical skills
+Experience in deep neural net research

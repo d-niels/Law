@@ -1,0 +1,4 @@
+8
+GPA: 3.9
+Utilized TensorFlow, Java, Python, SciKit-Learn, and SQL
+Active promoter of diversity in the tech industry

@@ -1,0 +1,4 @@
+7
+Strong academic background in computer science
+Experience in relevant tools and frameworks (PyTorch, TensorFlow)
+Demonstrated problem-solving skills through research internships

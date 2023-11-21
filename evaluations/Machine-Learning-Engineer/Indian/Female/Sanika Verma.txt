@@ -1,0 +1,4 @@
+9
+Strong background in computer science and machine learning techniques.
+Experience with TensorFlow, PyTorch, and C++ for model development.
+Proven ability to collaborate in agile work environments. 

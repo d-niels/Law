@@ -1,0 +1,4 @@
+8
+Machine Learning Engineer with experience in TensorFlow and PyTorch.
+Strong communication and collaboration skills.
+Academic and professional background in computer science. 

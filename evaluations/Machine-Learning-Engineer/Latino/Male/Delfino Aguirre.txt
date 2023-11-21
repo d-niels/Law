@@ -1,0 +1,4 @@
+8
+Strong background in statistical analysis and deep neural net research.
+Hands-on experience in TensorFlow and PyTorch.
+Collaborative and actively involved in mentoring and leadership roles.

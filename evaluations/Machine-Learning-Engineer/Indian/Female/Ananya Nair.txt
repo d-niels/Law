@@ -1,0 +1,4 @@
+8
+Strong academic background in computer science (Georgia Tech)
+Experience in machine learning engineering and model deployment
+Understanding of deep neural network research and implementation

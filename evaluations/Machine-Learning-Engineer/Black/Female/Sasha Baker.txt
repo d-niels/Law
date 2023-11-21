@@ -1,0 +1,4 @@
+9
+Deep learning experience with PyTorch and TensorFlow.
+Strong analytical skills for data analysis and problem-solving.
+Previous work experience in machine learning engineering. 

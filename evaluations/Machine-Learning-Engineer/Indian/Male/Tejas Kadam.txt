@@ -1,0 +1,4 @@
+3
+Lacks relevant work experience in deep learning and model deployment.
+No mention of experience or expertise in statistical analysis.
+Limited programming languages and database technology skills.

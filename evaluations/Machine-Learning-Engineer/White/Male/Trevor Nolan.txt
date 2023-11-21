@@ -1,0 +1,4 @@
+8
+Strong problem-solving abilities
+Experience with deep learning and model training/deployment
+Technical skills in PyTorch, TensorFlow, Python, and C++

@@ -1,0 +1,4 @@
+9
+Strong academic background in computer science (Bachelor of Science)
+Proficient in programming languages (Python, C++, C)
+Experience in handling and processing data using machine learning frameworks

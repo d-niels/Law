@@ -1,0 +1,4 @@
+9
+Strong expertise in Python, PyTorch, and TensorFlow.
+Demonstrated problem-solving skills in handling and processing large datasets.
+Excellent communication and collaboration skills.

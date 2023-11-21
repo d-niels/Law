@@ -1,0 +1,4 @@
+7
+Demonstrated ability to adapt quickly to changing project requirements.
+Experience in using PyTorch framework.
+Expertise in TensorFlow framework for building and training deep learning models.

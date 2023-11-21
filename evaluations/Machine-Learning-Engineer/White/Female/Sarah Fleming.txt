@@ -1,0 +1,4 @@
+8
+Strong foundation in computer science (Bachelor's degree in Computer Science).
+Demonstrated ability to develop and implement state-of-the-art machine learning models.
+Experience with Python, PyTorch, TensorFlow, and C++ for machine learning.

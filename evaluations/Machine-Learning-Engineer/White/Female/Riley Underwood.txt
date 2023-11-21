@@ -1,0 +1,4 @@
+9
+Developed deep learning models using PyTorch, improving accuracy by 15%
+Trained and deployed ML models using TensorFlow, achieving 20% accuracy increase
+Strong background in computer science and mathematics

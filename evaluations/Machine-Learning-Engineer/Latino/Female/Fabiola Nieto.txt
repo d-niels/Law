@@ -1,0 +1,4 @@
+2
+Strong experience in deep learning and model training (2/10)
+Proficiency in PyTorch and TensorFlow (2/10)
+Demonstrated ability to adapt to changing project requirements (2/10)

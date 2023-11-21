@@ -1,0 +1,4 @@
+8
+Experience in developing and implementing machine learning algorithms using PyTorch and TensorFlow.
+Strong academic background in computer science with a high GPA.
+Demonstrated problem-solving skills and ability to handle and process large volumes of data.

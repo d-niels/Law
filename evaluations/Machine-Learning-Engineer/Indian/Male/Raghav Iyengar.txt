@@ -1,0 +1,4 @@
+8
+Deep understanding of deep neural net research
+Skilled in problem-solving and statistical analysis
+Experience in model training and deployment

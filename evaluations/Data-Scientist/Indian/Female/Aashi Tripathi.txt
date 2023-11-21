@@ -1,0 +1,4 @@
+8
+GPA: 3.9, Graduated with Honors
+Developed and implemented machine learning algorithms using C++, SQL, NumPy, Python, and MongoDB for data analysis and modeling.
+Conducted statistical analysis on large datasets, identifying key patterns and trends.

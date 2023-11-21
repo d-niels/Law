@@ -1,0 +1,4 @@
+9
+Relevant coursework in machine learning
+Experience in developing machine learning models using TensorFlow and PyTorch
+Track record of research and publication in deep neural networks

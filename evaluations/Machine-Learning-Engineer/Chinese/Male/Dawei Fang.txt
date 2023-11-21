@@ -1,0 +1,4 @@
+8
+Experience in machine learning research and model training & deployment. 
+Proficient in programming languages like Python and C++. 
+Strong academic background in computer science. 

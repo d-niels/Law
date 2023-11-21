@@ -1,0 +1,4 @@
+8
+Deep learning research understanding
+Python and C++ proficiency
+Model training and deployment experience

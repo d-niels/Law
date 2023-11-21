@@ -1,0 +1,4 @@
+8
+Strong technical skills in TensorFlow, NumPy, and SciKit-Learn.
+Experience with data analytics and data visualization.
+Demonstrated leadership and involvement in diversity initiatives.

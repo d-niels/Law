@@ -1,0 +1,4 @@
+8
+Strong academic background in computer science (8/10)
+Proficient in Python, C++, TensorFlow, and PyTorch (9/10)
+Experience in model training and deployment, statistical analysis (7/10)

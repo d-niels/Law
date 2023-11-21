@@ -1,0 +1,4 @@
+7
+Extensive research on deep neural network architectures
+Experience with Python, PyTorch, and TensorFlow
+Collaboration with multidisciplinary team to optimize performance

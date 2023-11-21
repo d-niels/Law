@@ -1,0 +1,4 @@
+8
+Deep learning experience using PyTorch and TensorFlow.
+Demonstrated problem-solving skills in debugging complex machine learning algorithms.
+Strong academic background with high GPA in Computer Science.

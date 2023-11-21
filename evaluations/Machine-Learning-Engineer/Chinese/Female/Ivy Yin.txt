@@ -1,0 +1,4 @@
+9
+Skilled in TensorFlow and PyTorch (Deep Learning)
+Strong background in deep neural net research
+Experience in statistical analysis of large datasets

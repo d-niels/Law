@@ -1,0 +1,4 @@
+8
+Strong background in computer science and programming languages.
+Experience developing machine learning models using TensorFlow and PyTorch.
+Demonstrated communication and collaboration skills with technical and non-technical stakeholders.

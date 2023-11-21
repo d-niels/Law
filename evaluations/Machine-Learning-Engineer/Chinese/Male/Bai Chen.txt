@@ -1,0 +1,4 @@
+8
+Strong background in computer science and focus on deep learning.
+Experience with TensorFlow, PyTorch, and C++.
+Active involvement in community initiatives and leadership roles. 

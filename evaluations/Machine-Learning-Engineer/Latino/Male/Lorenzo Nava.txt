@@ -1,0 +1,4 @@
+9
+Deep Learning, Model Training and Deployment
+Collaboration with cross-functional teams
+Experience with PyTorch and TensorFlow

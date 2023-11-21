@@ -1,0 +1,4 @@
+9
+Bachelor of Science in Computer Science 
+Experience with Python programming, statistical modeling, and data visualization 
+Previous work experience as a Data Scientist and Software Engineer 

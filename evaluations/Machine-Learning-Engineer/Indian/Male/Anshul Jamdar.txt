@@ -1,0 +1,4 @@
+8
+Strong analytical skills and problem-solving abilities.
+Hands-on experience with TensorFlow, Python, and PyTorch.
+Demonstrated ability to collaborate effectively within cross-functional teams.

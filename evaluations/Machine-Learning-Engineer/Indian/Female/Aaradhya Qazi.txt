@@ -1,0 +1,4 @@
+9
+Deep learning experience using TensorFlow, PyTorch, and Python.
+Strong problem-solving skills and statistical analysis on large datasets.
+Dedication to diversity and inclusion initiatives in the tech industry.

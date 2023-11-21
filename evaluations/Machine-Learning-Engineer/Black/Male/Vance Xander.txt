@@ -1,0 +1,4 @@
+9
+Bachelor of Science in Computer Science with a high GPA.
+Experience implementing machine learning algorithms using TensorFlow and C++.
+Involvement in advocacy for underrepresented communities in STEM fields.

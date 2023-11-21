@@ -1,0 +1,4 @@
+8
+Experience in model training/deployment using TensorFlow and PyTorch.
+Strong background in computer science with a high GPA.
+Demonstrated ability to collaborate and communicate effectively. 

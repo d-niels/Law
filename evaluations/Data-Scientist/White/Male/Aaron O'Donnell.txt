@@ -1,0 +1,4 @@
+8
+Strong background in computer science
+Experience in data preprocessing and predictive modeling
+Skills in programming languages like Java and Python

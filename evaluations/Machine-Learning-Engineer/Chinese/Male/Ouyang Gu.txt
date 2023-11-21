@@ -1,0 +1,4 @@
+9
+Strong expertise in machine learning frameworks such as TensorFlow and PyTorch.
+Successful experience in developing efficient machine learning algorithms.
+Demonstrated analytical skills and deep understanding of deep neural nets.

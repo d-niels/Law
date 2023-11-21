@@ -1,0 +1,4 @@
+8
+Bachelor's degree in computer science with a GPA of 3.9
+Experience with statistical modeling and machine learning algorithms
+Involvement in promoting diversity and inclusivity in data science

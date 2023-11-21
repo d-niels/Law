@@ -1,0 +1,4 @@
+9
+Strong background in computer science and machine learning engineering
+Experience using TensorFlow and PyTorch to develop machine learning models
+Demonstrated commitment to diversity and advocacy in the tech industry

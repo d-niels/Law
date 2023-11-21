@@ -1,0 +1,4 @@
+8
+Deep learning experience with PyTorch and TensorFlow.
+Extensive statistical analysis skills for model accuracy enhancement.
+Demonstrated passion for diversity and inclusion in the tech industry.

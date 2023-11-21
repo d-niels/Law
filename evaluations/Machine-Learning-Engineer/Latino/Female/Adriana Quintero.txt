@@ -1,0 +1,4 @@
+9
+Magna Cum Laude in Computer Science (3.9/4.0 GPA)
+Led multiple deep learning projects in machine learning engineering
+Strong skills in PyTorch, TensorFlow, Python, and C++ programming

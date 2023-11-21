@@ -1,0 +1,4 @@
+9
+Strong background in computer science and deep neural net research.
+Extensive experience with PyTorch, TensorFlow, and model training.
+Demonstrated collaboration and problem-solving skills in previous roles.

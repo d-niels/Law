@@ -1,0 +1,4 @@
+4
+Strong academic background in Computer Science (4/10)
+Experience developing and optimizing deep neural network models (6/10)
+Proficiency in Python, TensorFlow, and PyTorch (7/10)

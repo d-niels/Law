@@ -1,0 +1,4 @@
+9
+Deep learning experience: PyTorch, TensorFlow
+Strong problem-solving skills and statistical analysis expertise
+Demonstrated experience in machine learning model development and deployment

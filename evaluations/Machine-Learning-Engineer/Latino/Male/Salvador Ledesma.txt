@@ -1,0 +1,4 @@
+9
+Proficient in PyTorch and TensorFlow for model training and deployment.
+Demonstrated agility and problem-solving skills with complex data challenges.
+Passionate about promoting inclusivity and embracing diversity.

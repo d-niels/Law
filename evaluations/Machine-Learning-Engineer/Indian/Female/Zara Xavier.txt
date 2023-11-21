@@ -1,0 +1,4 @@
+9
+Strong background in deep learning and statistical analysis
+Experienced in implementing machine learning pipelines using PyTorch and Python
+Demonstrated collaboration skills in interdisciplinary teams

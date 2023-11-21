@@ -1,0 +1,4 @@
+8
+Deep learning experience using TensorFlow and PyTorch.
+Strong problem-solving skills and agility.
+Experience with data handling, processing, and statistical analysis.

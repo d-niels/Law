@@ -1,0 +1,4 @@
+8
+Implemented TensorFlow and R to create machine learning models.
+Utilized SQL and SciKit-Learn to clean and preprocess complex datasets.
+Developed predictive models using PyTorch and Java.

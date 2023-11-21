@@ -1,0 +1,4 @@
+8
+Deep Learning, Model Training and Deployment
+Python, TensorFlow, PyTorch
+Experience in machine learning engineering

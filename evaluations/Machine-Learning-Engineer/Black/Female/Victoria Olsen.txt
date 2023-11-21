@@ -1,0 +1,4 @@
+7
+Strong educational background in computer science (GPA: 3.9/4.0)
+Hands-on experience in deep learning frameworks such as PyTorch and TensorFlow
+Demonstrated ability to collaborate effectively and foster a collaborative work environment

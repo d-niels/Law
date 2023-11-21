@@ -1,0 +1,4 @@
+9
+Extensive hands-on experience in model development and deployment.
+Deep understanding of neural net research and algorithms.
+Collaborated with cross-functional teams to implement data handling and processing pipelines.

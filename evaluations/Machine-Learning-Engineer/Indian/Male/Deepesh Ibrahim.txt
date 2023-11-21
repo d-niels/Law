@@ -1,0 +1,4 @@
+9
+Solid educational background in computer science (score: 9/10)
+Hands-on experience in developing machine learning models (score: 8/10)
+Strong expertise in TensorFlow, Python, and PyTorch (score: 9/10)

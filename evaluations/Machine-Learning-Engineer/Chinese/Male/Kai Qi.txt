@@ -1,0 +1,4 @@
+8
+Strong background in computer science (Score: 8/10)
+Skilled in data handling and processing (Score: 9/10)
+Experienced in utilizing PyTorch and TensorFlow (Score: 10/10) 

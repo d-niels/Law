@@ -1,0 +1,4 @@
+7
+Relevant coursework: Machine Learning, Artificial Intelligence, Data Structures, Algorithms
+Utilized Python for extensive data handling and processing
+Demonstrated agility and problem-solving skills by troubleshooting and resolving issues in model training and deployment processes

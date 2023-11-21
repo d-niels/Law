@@ -1,0 +1,4 @@
+8
+Strong educational background in computer science (Bachelor of Science in Computer Science)
+Relevant work experience in machine learning engineering
+Skills in programming languages (Python, C++, TensorFlow, PyTorch) 

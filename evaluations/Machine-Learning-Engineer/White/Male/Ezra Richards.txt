@@ -1,0 +1,4 @@
+8
+Deep learning expertise with TensorFlow and PyTorch
+Strong technical skills in Python, C++, and statistical analysis
+Active involvement in initiatives promoting diversity and inclusion

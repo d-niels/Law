@@ -1,0 +1,4 @@
+8
+Strong programming skills in Java, Python, and C# 
+Experience with both SQL and NoSQL databases
+Volunteer experience promoting diversity and inclusivity in tech 

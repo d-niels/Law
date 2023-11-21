@@ -1,0 +1,4 @@
+8
+Deep learning techniques implementation, 20% accuracy improvement
+Led training and deployment of ML models, 30% efficiency increase
+Cross-functional collaboration and adaptability in changing project requirements

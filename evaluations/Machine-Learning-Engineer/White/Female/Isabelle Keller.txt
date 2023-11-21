@@ -1,0 +1,4 @@
+8
+Strong academic background in computer science.
+Experience developing and implementing deep learning models.
+Proficient in Python, PyTorch, TensorFlow, and C++.

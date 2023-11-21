@@ -1,0 +1,4 @@
+7
+Relevant experience as a Machine Learning Engineer Intern.
+Expertise in deep learning, statistical analysis, and model training.
+Strong programming skills in Python, C++, and TensorFlow. 

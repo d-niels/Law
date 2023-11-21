@@ -1,0 +1,4 @@
+8
+Deep learning research experience
+Experience with TensorFlow and PyTorch
+Strong educational background in computer science

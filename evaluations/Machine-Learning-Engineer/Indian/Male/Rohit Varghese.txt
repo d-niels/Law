@@ -1,0 +1,4 @@
+8
+Experience in deep learning frameworks (PyTorch, TensorFlow)
+Strong background in computer science (B.S. in Computer Science)
+Collaborative and effective communication skills (Communication and Collaboration)

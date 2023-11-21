@@ -1,0 +1,4 @@
+9
+Proficient in Python, C++, and SQL.
+Experience developing machine learning models using TensorFlow and PyTorch.
+Strong analytical and problem-solving abilities. 

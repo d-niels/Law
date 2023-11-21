@@ -1,0 +1,4 @@
+5
+Deep learning model development using TensorFlow and PyTorch
+Track record of successfully delivering projects and collaborating with teams
+Strong foundation in computer science with a high GPA

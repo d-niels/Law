@@ -1,0 +1,4 @@
+8
+GPA: 3.9/4.0
+Experience with PyTorch and TensorFlow
+Proven ability to collaborate with cross-functional teams

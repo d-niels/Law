@@ -1,0 +1,4 @@
+8
+Strong machine learning expertise in various frameworks (PyTorch, TensorFlow)
+Experience in developing and deploying machine learning models
+Demonstrated problem-solving and agility in adapting to new challenges

@@ -1,0 +1,4 @@
+8
+Deep learning expertise through statistical analysis and model deployment.
+Experience with Python, PyTorch, TensorFlow, and C++ for software development.
+Active involvement in promoting diversity and inclusion in technology.

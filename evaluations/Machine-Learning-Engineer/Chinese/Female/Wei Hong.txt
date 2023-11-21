@@ -1,0 +1,4 @@
+5
+Strong background in computer science and machine learning
+Demonstrated proficiency in understanding and implementing deep neural net research
+Experience in developing and implementing machine learning models using Python and C++ 

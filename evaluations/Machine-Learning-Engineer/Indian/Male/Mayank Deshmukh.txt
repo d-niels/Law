@@ -1,0 +1,4 @@
+9
+Strong background in computer science
+Demonstrated expertise in handling and processing large-scale datasets
+Utilized C++ and Python to develop and deploy machine learning models

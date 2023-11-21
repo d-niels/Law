@@ -1,0 +1,4 @@
+8
+Solid education in computer science with high GPA.
+Relevant work experience as a Machine Learning Engineer.
+Strong programming skills in Python and C++.

@@ -1,0 +1,4 @@
+5
+Strong experience in machine learning model development (TensorFlow, PyTorch)
+Demonstrated problem-solving skills and analytical mindset
+Previous internships in machine learning and data analysis roles

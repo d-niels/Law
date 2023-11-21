@@ -1,0 +1,4 @@
+9
+Relevant work experience in machine learning using TensorFlow and PyTorch
+Strong academic background in computer science with high GPA
+Demonstrated teamwork and leadership skills through volunteer and leadership roles

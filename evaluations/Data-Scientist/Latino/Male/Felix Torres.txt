@@ -1,0 +1,4 @@
+7
+Education: Bachelor's degree in computer science with a high GPA.
+Work Experience: Previous experience as a data scientist and data analyst.
+Skills: Strong programming skills, knowledge of database technologies and source control. 

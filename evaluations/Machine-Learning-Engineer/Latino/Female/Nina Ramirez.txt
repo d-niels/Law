@@ -1,0 +1,4 @@
+8
+Deep learning and statistical analysis skills.
+Experience with PyTorch and TensorFlow frameworks.
+Strong background in computer science with a high GPA.

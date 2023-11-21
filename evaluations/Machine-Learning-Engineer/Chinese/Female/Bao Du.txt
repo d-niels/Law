@@ -1,0 +1,4 @@
+9
+Developed Python-based deep learning models for image recognition and NLP.
+Collaborated seamlessly with cross-functional teams, fostering effective communication.
+Demonstrated a dedicated commitment to understanding state-of-the-art deep neural net research.

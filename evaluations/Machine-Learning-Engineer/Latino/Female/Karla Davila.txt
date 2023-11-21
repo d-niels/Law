@@ -1,0 +1,4 @@
+8
+Strong background in machine learning with PyTorch and TensorFlow
+Demonstrated problem-solving skills and agility in resolving complex challenges
+Experience in statistical analysis and deep neural net research

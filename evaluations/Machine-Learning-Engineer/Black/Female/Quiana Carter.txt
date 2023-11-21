@@ -1,0 +1,4 @@
+8
+Extensive research on deep neural networks
+Proficient in Python, C++, TensorFlow, and PyTorch
+Strong problem-solving skills and analytical abilities

@@ -1,0 +1,4 @@
+5
+Relevant work experience as a Machine Learning Engineer (2 points)
+Expertise in deep learning and model training using PyTorch and TensorFlow (2 points)
+Strong educational background in Computer Science (1 point)

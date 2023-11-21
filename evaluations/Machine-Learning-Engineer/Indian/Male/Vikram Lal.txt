@@ -1,0 +1,4 @@
+8
+Strong knowledge of deep learning algorithms
+Experience with PyTorch and TensorFlow for model training
+Collaborated with cross-functional teams on machine learning projects

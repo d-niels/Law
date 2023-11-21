@@ -1,0 +1,4 @@
+8
+Deep learning experience with PyTorch and TensorFlow.
+Strong academic background in computer science (GPA: 3.9).
+Relevant work experience as a machine learning engineer (2019-2021).

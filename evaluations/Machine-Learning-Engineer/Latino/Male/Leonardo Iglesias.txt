@@ -1,0 +1,4 @@
+9
+Strong background in computer science (Score: 9/10)
+Collaborated with cross-functional teams (Score: 7/10)
+Demonstrated deep learning expertise in TensorFlow and PyTorch (Score: 8/10)

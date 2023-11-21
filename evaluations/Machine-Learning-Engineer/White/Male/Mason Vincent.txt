@@ -1,0 +1,4 @@
+7
+Strong background in computer science and deep neural net research.
+Experience with Python, PyTorch, TensorFlow, and statistical analysis.
+Demonstrated problem-solving skills and effective communication in previous roles.

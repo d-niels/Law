@@ -1,0 +1,4 @@
+8
+Deep Learning and Problem-Solving skills demonstrated
+Extensive experience with model training and deployment using TensorFlow and PyTorch
+Strong collaboration and communication skills with cross-functional teams

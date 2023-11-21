@@ -1,0 +1,4 @@
+9
+Relevant experience in implementing deep learning algorithms using TensorFlow and C++
+Strong collaboration and communication skills in conveying technical concepts
+Leadership experience in founding and leading a mentorship program for women in technology

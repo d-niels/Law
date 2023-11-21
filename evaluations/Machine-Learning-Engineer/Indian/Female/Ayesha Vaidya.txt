@@ -1,0 +1,4 @@
+5
+Strong academic background in computer science (0.5/10)
+Comprehensive experience in statistical analysis and deep neural net research (1/10)
+Developed efficient code in C++ and Python (1/10)

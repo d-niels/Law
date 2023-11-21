@@ -1,0 +1,4 @@
+7
+Strong academic background in computer science. 
+Experience in developing deep learning models using TensorFlow. 
+Demonstrated problem-solving skills and troubleshooting abilities in Python.

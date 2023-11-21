@@ -1,0 +1,4 @@
+9
+Solid educational foundation in computer science (GPA: 3.9)
+Hands-on experience in diverse programming languages and database technologies
+Experience developing machine learning models using TensorFlow and Python

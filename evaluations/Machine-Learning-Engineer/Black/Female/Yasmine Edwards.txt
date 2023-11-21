@@ -1,0 +1,4 @@
+8
+Strong problem-solving skills and experience with deep learning models
+Proficiency in PyTorch and TensorFlow frameworks
+Effectiveness in communication and collaboration with stakeholders

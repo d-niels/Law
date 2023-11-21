@@ -1,0 +1,4 @@
+9
+Strong academic record from Sycamore University (3.9/4.0 GPA)
+Experience with TensorFlow and PyTorch for machine learning models
+Co-founder of local chapter Latinx in AI (promotes diversity and inclusion)

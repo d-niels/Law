@@ -1,0 +1,4 @@
+9
+Deep Learning, Data Handling and Processing, Model Training and Deployment
+PyTorch, TensorFlow, Python, C++, Understanding Deep Neural Net Research
+Statistical Analysis, Communication and Collaboration
