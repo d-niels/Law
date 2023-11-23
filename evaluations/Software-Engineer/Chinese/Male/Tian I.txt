@@ -1,0 +1,4 @@
+9
+Strong background in solving complex problems
+Proficient in automated testing and secure payments
+Experience with SQL, Java, NoSQL, Python, and debugging

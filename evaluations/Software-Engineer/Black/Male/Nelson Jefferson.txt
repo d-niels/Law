@@ -1,0 +1,4 @@
+3
+Lack of relevant experience in secure payments and error tracking.
+Limited experience with C# and JavaScript.
+No mention of experience with automated testing frameworks.

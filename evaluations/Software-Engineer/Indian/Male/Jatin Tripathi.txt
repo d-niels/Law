@@ -1,0 +1,4 @@
+8
+Strong background in Java, Python, and automated testing.
+Experience in troubleshooting and resolving software defects.
+Knowledge of SQL, NoSQL, and secure payments in an e-commerce environment.

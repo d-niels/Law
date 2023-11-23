@@ -1,0 +1,4 @@
+8
+Bachelor of Science in Computer Science (GPA: 3.9/4.0)
+Experience in developing e-commerce platforms using Python
+Knowledge and experience in automated testing and debugging techniques

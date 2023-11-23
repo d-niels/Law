@@ -1,0 +1,4 @@
+8
+Strong background in computer science (score: 8/10)
+Experience developing and maintaining an ecommerce platform (score: 9/10)
+Proficiency in Java, SQL, Python, and automated testing (score: 7/10)

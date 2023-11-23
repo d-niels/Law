@@ -1,0 +1,4 @@
+8
+Relevant coursework in data structures, algorithms, and web development.
+Experience in developing a robust error tracking system.
+Demonstrated experience in Java, SQL, and automated testing.

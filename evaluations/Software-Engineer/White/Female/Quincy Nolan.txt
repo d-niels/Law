@@ -1,0 +1,4 @@
+9
+Relevant work experience in implementing SQL-based systems for error tracking and secure payments.
+Solid programming skills in Java and Python.
+Strong academic background in computer science with a high GPA.

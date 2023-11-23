@@ -1,0 +1,4 @@
+8
+Relevant coursework in data structures, algorithms, and database management systems.
+Experience developing secure payment systems using SQL and error tracking.
+Involvement in diversity and inclusion advocacy in the tech industry.

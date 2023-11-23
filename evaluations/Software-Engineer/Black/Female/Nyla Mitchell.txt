@@ -1,0 +1,4 @@
+8
+Proficiency in Java and SQL
+Experience with automated testing and debugging
+Relevant educational background: Bachelor of Science in Computer Science

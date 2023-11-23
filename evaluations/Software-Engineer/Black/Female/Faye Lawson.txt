@@ -1,0 +1,4 @@
+8
+Strong educational background in computer science (Bachelor of Science)
+Extensive experience in developing and maintaining database solutions (SQL, NoSQL)
+Experience in automated testing and debugging software applications

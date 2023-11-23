@@ -1,0 +1,4 @@
+8
+Strong technical background in Java, SQL, Python, and NoSQL.
+Experience in debugging, error tracking, and automated testing.
+Background in eCommerce and secure payments. 

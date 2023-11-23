@@ -1,0 +1,4 @@
+8
+Strong educational background in computer science (Bachelor's degree)
+Experience with Java, SQL, Python, and NoSQL databases
+Prior experience in software development and debugging

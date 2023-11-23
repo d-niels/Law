@@ -1,0 +1,4 @@
+8
+Relevant coursework in data structures and software engineering.
+Experience in error tracking and debugging using various programming languages.
+Strong technical skills in Java, SQL, Python, and NoSQL databases.

@@ -1,0 +1,4 @@
+2
+Insufficient experience with automated testing and secure payments.
+Limited exposure to NoSQL database technologies.
+Lacks specific experience in error tracking and debugging.

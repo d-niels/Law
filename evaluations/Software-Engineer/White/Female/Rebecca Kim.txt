@@ -1,0 +1,4 @@
+8
+Strong academic background: Bachelor of Science in Computer Science, GPA: 3.9/4.0
+Practical experience in developing Python-based applications for error tracking
+Experience in implementing secure payment gateways for ecommerce applications

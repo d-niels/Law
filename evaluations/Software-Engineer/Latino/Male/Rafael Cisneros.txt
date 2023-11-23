@@ -1,0 +1,4 @@
+9
+Strong background in programming and problem-solving
+Experience in automated testing and debugging
+Relevant skills in Java, SQL, and NoSQL databases

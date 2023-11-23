@@ -1,0 +1,4 @@
+9
+Strong background in computer science (Bachelor of Science in Computer Science)
+Experience with Java, SQL, Python, and NoSQL databases
+Knowledge of automated testing and debugging techniques

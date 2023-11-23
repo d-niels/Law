@@ -1,0 +1,4 @@
+8
+GPA: 3.9
+Automated testing, error tracking, debugging experience
+Volunteering as Latina Women in Technology Mentor

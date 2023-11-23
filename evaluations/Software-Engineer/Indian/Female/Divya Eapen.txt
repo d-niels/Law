@@ -1,0 +1,4 @@
+8
+Solid background in computer science with a high GPA (3.9)
+Strong expertise in Java, SQL, and Python programming languages
+Experience in automated testing and debugging to ensure software quality

@@ -1,0 +1,4 @@
+6
+Solid academic foundation in computer science (score: 6/10)
+Experience in developing and maintaining e-commerce applications (score: 8/10)
+Proficiency in Java, SQL, and automated testing (score: 9/10)

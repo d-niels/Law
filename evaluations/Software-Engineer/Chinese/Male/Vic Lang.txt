@@ -1,0 +1,4 @@
+9
+Implemented automated testing processes (relevant to the job)
+Developed ecommerce solutions with increased sales (relevant to the job)
+Worked with SQL and NoSQL databases, optimizing query performance (relevant to the job)

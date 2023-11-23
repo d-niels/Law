@@ -1,0 +1,4 @@
+8
+Strong foundation in programming languages & database technologies.
+Experience in developing SQL databases for e-commerce platforms.
+Proven skills in automated testing, error tracking, and debugging.

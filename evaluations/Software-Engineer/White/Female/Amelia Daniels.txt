@@ -1,0 +1,4 @@
+9
+Proficient in Java, SQL, automated testing.
+Experience with secure payments and NoSQL databases.
+Strong advocate for diversity and inclusion in the tech industry.

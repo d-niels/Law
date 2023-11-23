@@ -1,0 +1,4 @@
+8
+Strong educational foundation in computer science (relevant qualification)
+Experience in developing secure payment systems for e-commerce platforms
+Collaborated with a team to implement error tracking and automated testing systems

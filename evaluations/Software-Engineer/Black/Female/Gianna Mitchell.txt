@@ -1,0 +1,4 @@
+7
+Bachelor's degree in computer science
+Experience in developing automated testing scripts
+Strong knowledge of Java and SQL

@@ -1,0 +1,4 @@
+7
+Relevant coursework in computer science
+Experience in developing an ecommerce platform
+Strong debugging skills and experience with NoSQL databases

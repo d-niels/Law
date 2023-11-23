@@ -1,0 +1,4 @@
+8
+Strong background in computer science with 3.9 GPA.
+Experience in developing and maintaining e-commerce applications using Java.
+Proficient in SQL and NoSQL databases for efficient data retrieval.

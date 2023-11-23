@@ -1,0 +1,4 @@
+8
+Strong academic foundation in computer science
+Hands-on experience with Java, SQL, Python, and automated testing
+Experience in secure payments and error tracking systems

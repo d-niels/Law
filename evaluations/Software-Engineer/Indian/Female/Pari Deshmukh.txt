@@ -1,0 +1,4 @@
+8
+Relevant degree in Computer Science.
+Strong experience with Java and SQL.
+Demonstrated ability to automate testing and debug software defects.

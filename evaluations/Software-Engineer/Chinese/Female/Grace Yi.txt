@@ -1,0 +1,4 @@
+8
+Solid educational background in computer science (8/10)
+Experience in developing and maintaining an ecommerce platform (9/10)
+Strong skills in Java, SQL, and automated testing (7/10)

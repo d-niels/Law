@@ -1,0 +1,4 @@
+7
+Strong experience in Java, SQL, and NoSQL databases
+Proven track record in developing scalable software applications
+Demonstrated ability in automated testing and debugging tools

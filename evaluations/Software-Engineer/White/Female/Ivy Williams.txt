@@ -1,0 +1,4 @@
+7
+Strong background in computer science
+Experience with Java-based applications and NoSQL databases
+Relevant coursework in data structures, algorithms, and object-oriented programming

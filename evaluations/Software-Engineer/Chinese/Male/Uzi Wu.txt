@@ -1,0 +1,4 @@
+8
+Solid foundation in computer science (matches job requirements)
+Experience developing and maintaining e-commerce platform with increased sales (matches job requirements)
+Proficient in Java, SQL, Python, automated testing, and debugging (matches job requirements)
