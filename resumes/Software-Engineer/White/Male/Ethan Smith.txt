@@ -1,0 +1,40 @@
+Ethan Smith
+
+Personal Statement:
+Results-oriented and highly motivated software engineer with a strong passion for creating innovative solutions. Dedicated to continuous learning and staying up-to-date with the latest technologies and programming languages. Known for my strong problem-solving and analytical skills. Committed to collaborating with teams to deliver high-quality software projects.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+Phoenix Technical University, Phoenix, Arizona
+
+Work Experience:
+Software Engineer - PhoenixSoft Tech, Phoenix, AZ
+- Implemented robust ecommerce solutions with a focus on user experience, resulting in a 20% increase in online sales revenue.
+- Developed and maintained automated testing frameworks, reducing testing time by 30%.
+- Utilized Java and SQL to design and optimize backend systems for improved performance and database management.
+
+Software Developer - Cybersafe Solutions, Phoenix, AZ
+- Ensured secure payments through the integration of advanced payment gateways.
+- Utilized NoSQL databases for scalable and efficient data storage and retrieval.
+- Investigated and resolved complex issues through detailed debugging and Python scripting.
+- Implemented error tracking tools, reducing critical errors by 15%.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusivity within the tech community as a member of the Diversity and Inclusion Committee at Phoenix Technical University.
+- Served as captain of the university's basketball team, leading the team to two consecutive championship wins.
+
+Hobbies:
+- Playing the guitar and piano: Passionate about music and proficient in playing multiple musical instruments.
+- Exploring different cultures: Engaged in activities that promote cross-cultural understanding and appreciation.
+- Outdoor activities: Enjoying hiking, camping, and playing sports such as basketball and soccer.
+
+Languages:
+English (fluent)
+Spanish (intermediate)

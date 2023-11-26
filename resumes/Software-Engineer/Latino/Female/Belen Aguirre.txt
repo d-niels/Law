@@ -1,0 +1,41 @@
+Belen Aguirre
+
+Personal Statement:
+A highly motivated and detail-oriented software engineer with a passion for designing and developing innovative solutions. Leveraging strong analytical skills and problem-solving abilities, I am dedicated to delivering superior software products. As a proud Latina female in the tech industry, I am committed to promoting diversity, inclusion, and social progression.
+
+Education:
+Bachelor of Science in Computer Science,
+Phoenix University, Phoenix, Arizona
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechVantage Innovations, Phoenix, AZ
+- Developed secure payment solutions for e-commerce websites using SQL and NoSQL databases
+- Conducted debugging and troubleshooting to rectify code issues and optimize performance
+- Implemented automated testing techniques to ensure the reliability of software products
+
+Software Developer, ByteKnight Solutions, Phoenix, AZ
+- Collaborated in the development of an e-commerce platform using Java and Python
+- Conducted automated testing to identify and fix software bugs, ensuring a seamless user experience
+- Utilized error tracking tools to monitor system performance and enhance overall reliability
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinx in Tech Association, Member
+- Actively contributed to promoting diversity and inclusion in the tech industry
+- Organized workshops and mentored fellow students and professionals aspiring to pursue careers in technology
+
+Basketball Team Captain, Southwest Phoenix Community Center, Phoenix, AZ
+- Led a successful youth basketball team, promoting teamwork, discipline, and personal growth
+
+Hobbies:
+Playing the guitar, exploring Latin American art and culture, advocating for gender equality in STEM fields
+
+Languages:
+Fluent in English and Spanish

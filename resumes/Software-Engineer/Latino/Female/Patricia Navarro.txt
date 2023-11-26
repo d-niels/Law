@@ -1,0 +1,40 @@
+Patricia Navarro
+
+Personal Statement:
+Dedicated software engineer with a strong passion for creating innovative solutions. My goal is to leverage my technical expertise to contribute to the development of cutting-edge software applications. As a passionate Latina woman, I am committed to promoting diversity and inclusion in the tech industry. I am motivated to continuously challenge myself and always strive for excellence in my work.
+
+Education:
+Bachelor of Science in Computer Science
+Phoenix Technical University, Phoenix, Arizona
+GPA: 3.9
+
+Work Experience:
+1. Software Engineer - StellarSoft Technologies, Phoenix, Arizona
+- Utilized Python and NoSQL to develop scalable and efficient software solutions.
+- Implemented error tracking systems to identify and resolve issues, ensuring smooth functionality of applications.
+- Collaborated with cross-functional teams to develop and maintain Java-based software projects for automation.
+
+2. Software Engineer - NovaTech Solutions, Phoenix, Arizona
+- Conducted debugging and automated testing to identify and resolve software defects, ensuring high-quality deliverables.
+- Worked on secure payment systems for an e-commerce platform, ensuring customer data protection.
+- Built and maintained SQL databases, enhancing the efficiency and performance of the company's e-commerce solutions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry, organizing events and workshops that support underrepresented communities.
+- Served as a leader in a local soccer team, fostering teamwork, discipline, and leadership skills among diverse individuals.
+
+Hobbies:
+- Playing the guitar and composing music as a way to express creativity and unwind.
+- Celebrating and promoting Latino heritage through cultural events, such as dance performances and art exhibitions.
+- Engaging in activities that empower women in STEM fields, participating in mentoring programs and organizations that promote gender equality.
+- Cooking traditional dishes from Latin American countries, as a way to connect with their heritage.
+
+Languages:
+- Fluent in English and Spanish.

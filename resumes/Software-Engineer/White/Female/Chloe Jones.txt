@@ -1,0 +1,43 @@
+Chloe Jones
+
+Personal Statement:
+Passionate software engineer seeking to leverage strong technical skills and problem-solving abilities in a challenging role. Dedicated to delivering high-quality solutions, with a focus on efficient and scalable software development. Committed to promoting diversity and inclusion within the tech industry, excelling as a leader in both professional and extracurricular pursuits.
+
+Education:
+Bachelor of Science in Computer Science - Stanford University, Stanford, California
+- GPA: 3.9
+
+Work Experience:
+Software Engineer - Quantum Systems, San Francisco, CA (2018-2020)
+- Developed and maintained complex SQL queries for data analysis and reporting, contributing to the company's innovative quantum computing technology.
+- Utilized advanced debugging techniques to identify and resolve software issues, improving overall system stability.
+- Utilized NoSQL databases for efficient and scalable data storage, ensuring optimal performance in a highly demanding environment.
+- Implemented Python scripts for automated data processing and manipulation, streamlining internal data workflows.
+
+Software Engineer Intern - Aurora Software Solutions, San Francisco, CA (Summer 2017)
+- Contributed to the development of an eCommerce platform, focusing on secure payments and error tracking, enhancing the customer experience.
+- Utilized Java for efficient and scalable programming, ensuring high-performance levels even during peak usage.
+- Developed automated testing scripts to ensure the stability and reliability of the software, reducing potential bugs and errors.
+- Collaborated with cross-functional teams to refine requirements and improve the user experience, contributing to the successful deployment of the platform.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Treasurer - Women in Tech Association, Stanford University
+- Basketball Team Captain - Stanford University Basketball Team
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures and traditions
+- Participating in community outreach programs focused on promoting diversity and equity in technology
+
+Languages:
+- English (fluent)
+- Spanish (proficient)
+
+References available upon request.

@@ -1,0 +1,44 @@
+Ava Hart
+
+Personal Statement
+A driven and innovative software engineer with a passion for problem-solving and achieving outstanding results. Committed to delivering high-quality and efficient code while collaborating with diverse teams to drive technological advancements. Seeking an exciting opportunity as a software engineer to contribute to cutting-edge projects and make a positive impact in the tech industry.
+
+Education
+Bachelor of Science in Computer Science, Madison University, Madison, Wisconsin
+- Graduated Summa Cum Laude with a 3.9 GPA
+
+Work Experience
+
+Software Engineer, Stellar Solutions, Madison, Wisconsin
+- Developed and maintained a robust e-commerce platform for a leading fashion brand, optimizing user experience and driving revenue growth.
+- Utilized NoSQL databases to efficiently handle large volumes of data, ensuring seamless execution and rapid retrieval.
+- Employed advanced debugging techniques and tools to identify and resolve complex software issues, minimizing downtime and enhancing performance.
+- Collaborated closely with a diverse team of developers, designers, and stakeholders to deliver high-impact Java-based solutions.
+
+Software Engineer, Nova Tech Group, Madison, Wisconsin
+- Spearheaded the development of Python-based automated testing scripts, significantly reducing testing time and increasing software stability.
+- Utilized error tracking systems to identify, track, and rectify software defects, ensuring optimal product quality.
+- Implemented secure payment systems for an online financial services provider, enhancing transaction security and user trust.
+- Leveraged SQL databases to efficiently manage and analyze complex data sets, driving data-driven insights for business decision-making.
+
+Skills
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership
+- Actively championed diversity and inclusion initiatives in the tech industry, advocating for gender and ethnic representation through speaking engagements, mentoring programs, and community workshops.
+- Led an accomplished soccer team, fostering a collaborative and supportive environment while guiding teammates towards success on and off the field.
+
+Hobbies
+- Playing the piano and composing music
+- Exploring multicultural cuisines and traveling to experience different cultures
+- Engaging in volunteer activities focused on educational empowerment
+
+Languages
+- English (Fluent)
+- Spanish (Intermediate)
+
+References available upon request.

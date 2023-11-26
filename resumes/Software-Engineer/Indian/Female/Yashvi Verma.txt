@@ -1,0 +1,39 @@
+Personal Statement:
+As an Indian female software engineer from Chicago, Illinois, I possess a deep love for technology and a relentless drive to create groundbreaking software solutions. I am a detail-oriented problem-solver with a strong commitment to learning and growing in the fast-paced world of software engineering.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, Chicago, Illinois
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Stellar Innovations, Inc., Chicago, Illinois
+- Debugging: Expertly utilized cutting-edge debugging tools to identify and resolve complex software issues, ensuring optimal performance.
+- Automated Testing: Developed and implemented automated testing frameworks to facilitate efficient and thorough quality assurance processes.
+- Secure Payments: Designed and integrated highly secure payment systems, guaranteeing smooth and protected transactions.
+- Error Tracking: Implemented robust error tracking mechanisms that significantly enhanced software reliability and stability.
+
+Software Developer, Nexus Technologies, Chicago, Illinois
+- NoSQL: Leveraged the power of NoSQL databases to create scalable and efficient data storage solutions.
+- Python: Developed robust Python-based applications to streamline business processes and enhance productivity.
+- Ecommerce: Engineered high-performance e-commerce platforms with seamless user experience and advanced customization.
+- SQL: Designed and optimized SQL databases to efficiently handle large datasets and complex queries.
+- Java: Expertly utilized Java to develop software solutions that met stringent performance requirements.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Ethnicity & Gender Representation: Passionately involved in advocating for increased representation of Indian females in technology, actively participating in mentoring programs and organizing events to empower underrepresented communities.
+- Sports Leadership: Demonstrate exemplary leadership skills as the captain of a local soccer league team, fostering teamwork, resilience, and a winning spirit.
+
+Hobbies:
+- Playing the Piano: Harnessing creativity and finding solace in the mesmerizing melodies produced by the piano keys.
+- Exploring Cultural Heritage: Actively participating in events and festivals celebrating Indian culture and heritage, such as traditional dance performances, art exhibitions, and community-based projects.
+
+Languages:
+- English: Native Proficiency
+- Hindi: Fluent

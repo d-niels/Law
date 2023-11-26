@@ -1,0 +1,47 @@
+Yandel Delgado
+Los Angeles, California | (123) 456-7890 | yandel.delgado@email.com
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a passion for secure coding and problem-solving. Dedicated to creating efficient and reliable software solutions, I thrive in collaborative and fast-paced environments. Fluent in English and Spanish, I bring a diverse perspective enhancing problem-solving capabilities. As a proud Latino male, I am committed to promoting diversity and inclusion in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science
+California State University, Los Angeles, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern, PixelCorp Inc., Los Angeles, CA
+May 2020 - August 2020
+- Developed secure payment systems using Java and NoSQL databases, ensuring smooth and efficient financial transactions.
+- Collaborated with cross-functional teams to implement scalable software solutions for the company's e-commerce platform.
+- Utilized Python for data analysis to identify and resolve potential vulnerabilities.
+
+Software Developer, TechGenius Co., Los Angeles, CA
+June 2018 - April 2020
+- Demonstrated expertise in debugging and maintaining SQL databases, optimizing system performance.
+- Employed error tracking techniques to identify and resolve software defects, maintaining high-quality standards.
+- Contributed to the development of an automated testing framework for the company's e-commerce application.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinos in Technology Organization, Member
+- Actively contribute to promoting diversity and inclusion in the tech industry, organizing networking events for Latino professionals.
+- Encourage and support aspiring Latino software engineers through mentorship and guidance.
+
+Soccer Leadership Role, Team Captain
+- Lead and motivate the soccer team to achieve extraordinary levels of performance, both on and off the field.
+- Mentor youth, fostering teamwork, discipline, and leadership skills through the sport.
+
+Hobbies:
+- Playing the guitar
+- Exploring multicultural literature and art
+- Participating in local soccer leagues
+
+Languages:
+Fluent in English and Spanish

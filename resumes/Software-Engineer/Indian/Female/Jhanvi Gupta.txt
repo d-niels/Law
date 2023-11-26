@@ -1,0 +1,45 @@
+Jhanvi Gupta
+123 Main Street, Washington, DC 12345
+Phone: (555) 555-5555 | Email: jhanvigupta@email.com
+
+Personal Statement:
+Dedicated and skilled software engineer with a passion for leveraging technology to develop innovative solutions. Committed to delivering high-quality software applications, I am seeking a challenging role where I can utilize my technical expertise and problem-solving skills to contribute to the success of an organization.
+
+Education:
+Bachelor of Science in Computer Science, Atlantic University, Washington, DC (GPA: 3.9/4.0) - May 20XX
+
+Work Experience:
+Software Engineer, TechSol Corp, Washington, DC - Jun 20XX to Present
+- Developed and maintained scalable and reliable software applications for an industry-leading eCommerce platform.
+- Utilized NoSQL databases and Java programming skills to optimize database performance and enhance overall system efficiency.
+- Conducted thorough debugging processes to identify and rectify technical issues, ensuring smooth operation of the platform.
+- Collaborated with cross-functional teams to implement new features and improve user experience.
+
+Software Developer Intern, InnovateTech, Washington, DC - Jan 20XX to May 20XX
+- Assisted in the development of secure payment systems for a cutting-edge financial technology product.
+- Leveraged SQL and Python to write efficient database queries and automate data processing tasks.
+- Actively participated in error tracking and troubleshooting activities to identify and fix software defects promptly.
+- Contributed to the implementation of automated testing processes, resulting in reduced error rates.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer, XYZ Cultural Association: Actively involved in promoting Indian culture and heritage within the Washington, DC community. Organized cultural events and participated in fundraising activities.
+- Sports Leadership: Led a local women's soccer team, fostering teamwork, discipline, and physical fitness among team members.
+
+Hobbies:
+- Playing the veena (traditional Indian musical instrument)
+- Engaging in hiking and photography, exploring the scenic beauty of national parks
+- Exploring multicultural literature to foster cross-cultural understanding
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+
+References:
+Available upon request

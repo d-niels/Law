@@ -1,0 +1,49 @@
+Ting Qin
+
+Personal Statement:
+Dedicated software engineer with a passion for developing innovative solutions to complex problems. Committed to leveraging strong analytical skills and extensive technical knowledge to deliver high-quality software products. Detail-oriented and self-motivated, with a proven ability to work efficiently in a collaborative team environment. Seeking a software engineer position to contribute to cutting-edge projects and drive technological advancements.
+
+Education:
+Bachelor of Science in Computer Science
+California Institute of Technology, Los Angeles, California
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | Tech Innovators
+Los Angeles, California | August 2018 - Present
+- Developed an error tracking system using Python, effectively reducing bug resolution time by 30%
+- Collaborated with cross-functional teams to implement ecommerce platform features using Java
+- Conducted code reviews and identified areas for optimization, leading to improved system performance
+
+Software Developer | Quantum Systems
+Los Angeles, California | May 2017 - August 2018
+- Utilized SQL for data management and debugging, ensuring accurate data retrieval
+- Implemented automated testing procedures, resulting in a 25% reduction in software bugs
+- Developed secure payment systems using NoSQL database technologies
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer | Society for Asian American Engineers (SAAE)
+- Strong advocate for diversity and inclusion within the engineering community
+- Mentored and supported aspiring Chinese female engineers
+- Facilitated workshops to enhance technical skills and encourage young girls to pursue STEM fields
+
+Sports Leadership:
+Captain | Los Angeles Chinese Women's Basketball Team
+- Led and inspired a team of skilled athletes to victory in regional tournaments
+- Promoted teamwork, discipline, and perseverance within a diverse group
+
+Hobbies:
+- Playing the piano and composing music
+- Exploring various art forms that celebrate Chinese heritage and culture
+- Practicing Chinese calligraphy and sharing its beauty with others
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

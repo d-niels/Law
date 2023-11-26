@@ -1,0 +1,38 @@
+Personal Statement:
+Highly skilled and motivated software engineer with a passion for problem-solving and a strong background in computer science. Aiming to utilize my technical expertise and programming skills to contribute to innovative software solutions. Dedicated to continuous learning and staying updated with the latest technologies.
+
+Education:
+Bachelor of Science in Computer Science, San Diego Institute of Technology, San Diego, California, May 20XX
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, InnovTech Solutions, San Diego, California, June 20XX - Present
+- Utilized my strong debugging skills to identify and resolve software issues, enhancing product functionality and improving user experience.
+- Tracked and analyzed errors using advanced error tracking tools, implementing necessary fixes.
+- Developed Python scripts for an eCommerce platform, significantly enhancing the website's capabilities and performance.
+- Collaborated with cross-functional teams to deliver high-quality software solutions that exceeded client expectations.
+
+Software Engineer Intern, TechEdge Systems, San Diego, California, June 20XX - August 20XX
+- Developed secure payment systems, ensuring smooth and reliable transactions for the company's clients.
+- Utilized SQL and NoSQL databases for efficient and optimized data management.
+- Developed Java applications and automated testing scripts to improve software quality and stability.
+- Assisted in the design and development of new software features, following industry best practices.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in cultural exchange programs, promoting awareness and understanding of Chinese traditions and heritage.
+- Served as the team captain in a local soccer league, leading the team to multiple victories and fostering camaraderie.
+
+Hobbies:
+- Playing traditional Chinese musical instrument, erhu.
+- Participating in playing and organizing soccer matches within the community.
+- Exploring world history and cultures through reading and documentaries.
+
+Languages:
+- Fluent in English and Mandarin Chinese.

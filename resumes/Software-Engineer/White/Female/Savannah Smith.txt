@@ -1,0 +1,36 @@
+Personal Statement:
+As a passionate and dedicated software engineer, I am excited to leverage my strong technical skills and problem-solving abilities to contribute to a dynamic and innovative team. With a solid foundation in computer science and a drive for continuous learning, I am eager to tackle challenges and develop cutting-edge solutions. My leadership experience, diverse background, and commitment to excellence make me a valuable asset for any organization.
+
+Education:
+Bachelor of Science in Computer Science, Austin State University, Austin, Texas
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, StellarSoft, Austin, Texas
+- Debugged and resolved complex issues in secure payment systems, ensuring smooth financial transactions
+- Utilized Java and SQL to develop and maintain scalable software applications
+- Collaborated with cross-functional teams to optimize software performance and enhance user experience
+
+Software Engineer, NexusCorp, Austin, Texas
+- Tracked and resolved errors in ecommerce platforms, enhancing overall performance and stability
+- Developed NoSQL databases and implemented Python scripts for data manipulation and analysis
+- Automated testing procedures, resulting in improved efficiency and reliability of systems
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively mentor underrepresented students in computer science, promoting diversity and inclusivity in STEM fields
+- Sports Leadership: Led a women's basketball team, organizing practices, coordinating tournaments, and fostering teamwork and discipline
+
+Hobbies:
+- Playing the saxophone and piano
+- Exploring different cultures through travel and adopting a global perspective
+- Engaging in outdoor activities such as hiking and exploring nature reserves
+
+Languages:
+- Fluent in English and Spanish

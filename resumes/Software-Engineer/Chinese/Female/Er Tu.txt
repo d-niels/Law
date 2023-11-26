@@ -1,0 +1,48 @@
+Er Tu
+Software Engineer
+
+Personal Statement:
+A highly motivated and dedicated software engineer with a deep passion for creating innovative solutions. With a solid educational background in computer science and hands-on experience in various programming languages, I thrive in fast-paced environments where I can leverage my analytical skills and problem-solving abilities to deliver high-quality software solutions. As a Chinese female, I am proud to bring diverse perspectives and contribute to creating inclusive and collaborative workspaces.
+
+Education:
+Bachelor of Science in Computer Science
+ABC University, Philadelphia, Pennsylvania
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer
+Zenith Technologies, Philadelphia, Pennsylvania
+August 20XX - Present
+- Collaborated with cross-functional teams to develop automated testing procedures, resulting in a 30% reduction in testing time.
+- Implemented error tracking mechanisms to identify and resolve software issues promptly.
+- Utilized Java programming language to develop e-commerce solutions, improving user experience and increasing website conversion rates.
+
+Software Developer
+SecurePay Corporation, Philadelphia, Pennsylvania
+May 20XX - July 20XX
+- Debugged and resolved software issues in Python-based systems, ensuring stable and secure payment processing.
+- Utilized SQL and NoSQL databases to manage and analyze large datasets efficiently.
+- Worked closely with the development team to implement robust security measures for payment processing systems.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Member, Association of Chinese American Engineers - Philadelphia Chapter
+- Actively contribute to community outreach programs, aiming to foster diversity and inspire young individuals, especially girls, to pursue careers in engineering.
+- Organize and lead sports activities, focusing on promoting leadership skills among Chinese youths. Particularly, I serve as a sports leader for basketball, encouraging teamwork and gender inclusivity.
+
+Hobbies:
+- Playing the guzheng, a traditional Chinese plucked-string instrument, helping me connect with my culture and express my creativity.
+- Exploring diverse cultures through travel and photography, fostering a broader perspective on the world.
+- Engaging in physical activities such as basketball and swimming, promoting a healthy lifestyle and personal well-being.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References available upon request.

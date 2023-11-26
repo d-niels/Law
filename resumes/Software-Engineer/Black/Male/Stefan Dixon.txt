@@ -1,0 +1,43 @@
+Stefan Dixon
+
+Personal Statement:
+Driven and innovative software engineer with a keen eye for detail and a passion for delivering exceptional software solutions. I bring a strong technical background, combined with excellent problem-solving skills and a commitment to staying up-to-date with the latest industry trends. Dedicated to collaborating with cross-functional teams to create cutting-edge software products that drive business success.
+
+Education:
+Bachelor of Science in Computer Science, Memphis State University (Memphis, Tennessee)
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechGenius Solutions, Inc., Memphis, Tennessee (January 2018 - Present)
+- Developed and maintained robust databases using SQL and NoSQL technologies to optimize data management and efficiency.
+- Implemented secure payment systems to ensure seamless, safe, and reliable financial transactions.
+- Utilized advanced debugging techniques to identify and resolve software issues to enhance product functionality.
+- Collaborated with a diverse team of developers, designers, and testers to successfully deliver high-quality software products.
+
+Software Developer Intern, InnovateTech, Memphis, Tennessee (May 2017 - August 2017)
+- Leveraged Java, Python, and automated testing tools to design and develop innovative software solutions, improving overall system performance and user experience.
+- Implemented sophisticated error tracking systems, enhancing error debugging and resolution processes.
+- Contributed to the development and enhancement of an ecommerce platform, optimizing online shopping experiences.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in community outreach programs in Memphis, Tennessee, focused on empowering underprivileged students through technology and education.
+- Mentor and role model for aspiring software engineers from diverse backgrounds, providing guidance, support, and resources.
+- Led as a team captain in the sport of basketball, promoting team cohesion, leadership, and sportsmanship.
+
+Hobbies:
+- Playing the guitar
+- Engaging in community service initiatives that promote racial and gender equality
+- Exploring different art forms and attending live performances
+
+Languages:
+- English (Native)
+- Spanish (Proficient)
+
+References available upon request.

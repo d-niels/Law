@@ -1,0 +1,47 @@
+SANTOS AGUILAR
+El Paso, Texas | (555) 123-4567 | santos.aguilar@email.com
+
+PERSONAL STATEMENT
+Results-driven software engineer with a strong foundation in computer science and a passion for problem-solving. Committed to developing innovative solutions and delivering high-quality software products. A self-motivated individual dedicated to continuous learning and leveraging technical expertise to drive success. Proud Latino male from El Paso, Texas, bringing a unique perspective to the software engineering field.
+
+EDUCATION
+Bachelor of Science in Computer Science, Riverfront University, El Paso, Texas
+GPA: 3.9/4.0
+
+WORK EXPERIENCE
+Software Engineer, StellarTech Solutions, El Paso, TX
+- Developed an advanced error tracking system for web applications utilizing NoSQL databases
+- Collaborated with cross-functional teams to enhance ecommerce functionality and user experience
+- Conducted comprehensive debugging to identify and resolve complex software defects 
+- Utilized expertise in NoSQL to optimize data structures and improve application performance
+
+Software Developer, SwiftCode Solutions, El Paso, TX
+- Successfully implemented sophisticated automated testing procedures to ensure software reliability and efficiency
+- Created and maintained secure payment systems using SQL, Java, and Python
+- Collaborated with a team of talented developers to deliver high-quality software products
+- Utilized agile methodologies to meet tight deadlines and deliver scalable solutions
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Latino Leadership Program, Riverfront University, El Paso, TX
+- Mentored and supported fellow Latino students pursuing careers in technology, providing guidance and resources
+- Coordinated and organized events aimed at promoting diversity and inclusion in the tech industry
+- Served as a role model and offered guidance in navigating the unique challenges faced by minorities in the field
+- Led a soccer team as the captain, fostering teamwork and sportsmanship in the Latino community
+
+HOBBIES
+- Playing the guitar and composing music, showcasing my creative side
+- Participating in community events celebrating Latino culture and heritage
+- Engaging in outdoor activities such as hiking and exploring nature trails
+
+LANGUAGES
+- Bilingual: English and Spanish
+
+REFERENCES
+Available upon request.

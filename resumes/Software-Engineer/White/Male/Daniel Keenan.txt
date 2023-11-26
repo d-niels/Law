@@ -1,0 +1,40 @@
+Personal Statement:
+Dedicated and adaptable software engineer with a passion for creative problem-solving and a strong background in computer science. Committed to delivering high-quality code and continuously expanding knowledge in emerging technologies. Seeking a challenging position as a software engineer to contribute to cutting-edge projects and drive innovation in the field.
+
+Education:
+Bachelor of Science in Computer Science, Liberty University, Houston, Texas
+- GPA: 3.9
+- Relevant coursework: Data Structures, Algorithms, Object-Oriented Programming, Software Engineering
+
+Work Experience:
+Software Engineer, Innovate Technologies, Houston, Texas
+- Developed and maintained Java-based applications, improving overall system efficiency
+- Implemented error tracking systems to quickly identify and resolve bugs
+- Utilized NoSQL databases for efficient data storage and retrieval
+- Collaborated with cross-functional teams to deliver high-performing solutions
+- Employed Python for scripting and automation of routine tasks
+
+Software Engineer, TechSolutions Inc., Houston, Texas
+- Developed and enhanced ecommerce platforms, ensuring secure payment transactions
+- Conducted automated testing to validate application functionality and performance
+- Utilized SQL for database management and data analysis
+- Employed debugging techniques to identify and resolve issues promptly
+- Collaborated with product and quality assurance teams to deliver high-quality software products
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white male from Houston, Texas, I am committed to promoting diversity and equality in technology. I actively participate in various community initiatives aimed at bridging the gender and ethnic divide in the tech industry. Additionally, as a leader in the local soccer community, I strive to foster teamwork and camaraderie among players from diverse backgrounds.
+
+Hobbies:
+- Playing the guitar
+- Leading a local soccer team in the Houston Amateur League
+- Engaging in cultural exchange programs and language learning
+
+Languages:
+Fluent in English and conversational in Spanish.

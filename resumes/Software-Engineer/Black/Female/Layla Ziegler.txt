@@ -1,0 +1,40 @@
+LAYLA ZIEGLER
+Software Engineer
+
+Personal Statement:
+Passionate and determined software engineer with a strong desire to create cutting-edge solutions. I thrive in challenging environments and constantly seek to expand my knowledge and skills in computer science. With expertise in multiple programming languages and database technologies, I am committed to delivering high-quality software applications while embracing diversity and inclusivity.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Innovate University, Detroit, Michigan
+
+Work Experience:
+Software Engineer | TechNova Solutions, Detroit, MI | July 2018 - Present
+- Developed complex SQL database systems, optimizing data storage and retrieval for streamlined operations.
+- Utilized Python for data analysis and processing, resulting in improved system performance and accuracy.
+- Applied error tracking tools and debugging techniques to identify and resolve software issues promptly.
+
+Software Developer | CyberOptic Technologies, Detroit, MI | January 2017 - June 2018
+- Contributed to the development of a robust e-commerce platform, integrating secure payment gateways for seamless transactions.
+- Utilized NoSQL databases to enhance data retrieval efficiency for large-scale applications.
+- Actively engaged in Java-based automated testing to ensure software quality and reduce manual efforts.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Member, Women in Tech Society | Innovate University: Actively involved in promoting gender and ethnic diversity in the technology industry, advocating for women and underrepresented groups in pursuing successful careers in tech.
+
+Sports Leadership Role: As a passionate leader and player of basketball, I have served as team captain, fostering teamwork, motivation, and effective communication to achieve shared goals.
+
+Hobbies:
+- Playing the guitar: An instrument that allows me to express my creativity and immerse myself in the world of music.
+- Exploring diverse cultures: Actively participating in events and engaging with communities to learn and celebrate different cultural traditions, drawing inspiration from African-American history and heritage.
+
+Languages:
+- English (Fluent)
+- French (Proficient)

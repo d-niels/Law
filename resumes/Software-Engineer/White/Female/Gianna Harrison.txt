@@ -1,0 +1,37 @@
+Personal Statement:
+Motivated and detail-oriented software engineer with a strong passion for developing innovative solutions. Eager to apply my skills and expertise to contribute to a dynamic software development team. Committed to delivering high-quality software and embracing new challenges to continuously improve my programming abilities.
+
+Education:
+Bachelor of Science in Computer Science, San Antonio State University, San Antonio, Texas
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Innovix Technologies, San Antonio, Texas
+- Developed scalable ecommerce websites using NoSQL databases, SQL, and Java.
+- Collaborated with cross-functional teams to deliver efficient solutions for client needs.
+- Optimized code for improved performance and seamless user experience.
+
+Software Engineer Intern, Quantum Solutions, San Antonio, Texas
+- Contributed to the development of secure payment systems using Python and automated testing.
+- Utilized debugging tools to identify and resolve issues promptly.
+- Assisted in error tracking and resolving customer-reported bugs.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer at InspireTech, a non-profit organization focused on empowering underrepresented minority students in pursuing careers in technology.
+- Sports Leadership: Captain of the San Antonio State University women's volleyball team, promoting teamwork, discipline, and diversity.
+
+Hobbies:
+- Playing the violin
+- Exploring diverse cultural events and festivals
+- Learning about various ethnic traditions and customs
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)

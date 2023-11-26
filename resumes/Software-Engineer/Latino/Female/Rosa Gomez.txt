@@ -1,0 +1,29 @@
+Personal Statement:
+I am a highly motivated and detail-oriented software engineer with a passion for utilizing innovative technologies to develop robust and secure software solutions. As a proud Latina female from El Paso, Texas, I bring a unique perspective to the field, combining my diverse background with technical expertise to drive meaningful change. With a solid foundation in computer science and extensive experience in programming languages and database technologies, I am well-equipped to thrive in a challenging and dynamic software engineering role.
+
+Education:
+Bachelor of Science in Computer Science, Stellar University, El Paso, Texas (GPA: 3.9)
+
+Work Experience:
+Software Engineer, NovaTech Solutions, El Paso, Texas
+- Utilized advanced error tracking systems and debugging techniques to identify and resolve complex software issues
+- Developed secure payment processing systems using Python, ensuring data integrity and privacy
+- Conducted comprehensive automated testing to guarantee the functionality and efficiency of software applications
+
+Software Developer, Quantum Software Solutions, El Paso, Texas
+- Worked with NoSQL and SQL databases to design and optimize data storage solutions for a cutting-edge ecommerce platform
+- Collaborated with cross-functional teams to debug and enhance performance of Java-based applications
+- Developed and maintained efficient SQL queries and scripts for seamless data retrieval and manipulation
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a passionate advocate for promoting diversity and inclusivity in the tech industry, I actively volunteer my time in organizations that empower underrepresented communities. I have taken on a leadership role in a local youth soccer league, where I mentor and coach young Latina girls in their pursuit of athletic excellence. This allows me to inspire future generations of Latinos and females in breaking barriers and achieving their goals both in technology and sports.
+
+Hobbies:
+In my free time, I enjoy playing the guitar, an instrument that allows me to express my creativity and cultural heritage through music. I also love exploring different cultures through literature, music, and art, broadening my understanding of the world and fostering a deeper appreciation for diversity. As an advocate for inclusivity, I actively engage in initiatives that celebrate and promote the rich cultural heritage of diverse communities. Finally, I am fluent in both English and Spanish, enabling me to effectively communicate and connect with individuals from various backgrounds.

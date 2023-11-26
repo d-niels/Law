@@ -1,0 +1,42 @@
+Personal Statement:
+A motivated and passionate software engineer, dedicated to leveraging my strong technical skills and problem-solving abilities to create innovative solutions. With a diverse background and a genuine enthusiasm for technology, I am seeking a challenging software engineering role where I can contribute to the development of cutting-edge software applications.
+
+Education:
+Bachelor of Science in Computer Science
+University of Florida, Gainesville, Florida
+GPA: 3.9
+Relevant Courses: Data Structures, Algorithms, Object-Oriented Programming, Software Engineering
+
+Work Experience:
+Software Engineer | StellarTech Solutions, Jacksonville, Florida
+- Developed and maintained an advanced ecommerce platform, ensuring seamless and secure functionality for online transactions.
+- Utilized comprehensive debugging techniques to identify and resolve complex software issues, enhancing user experience.
+- Leveraged NoSQL databases to optimize data storage and retrieval processes, improving scalability and performance.
+- Employed Python to automate routine tasks, increasing productivity and efficiency within the development team.
+
+Software Developer | TechSolutions Inc., Jacksonville, Florida
+- Collaborated closely with a proficient team to develop and maintain highly secure payment systems for large-scale online platforms.
+- Implemented Java programming language to enhance the functionality and performance of web applications.
+- Conducted rigorous automated testing to ensure exceptional quality assurance and identify any potential errors.
+- Utilized SQL for efficient data management and retrieval from relational databases, enhancing data processing speed.
+- Employed error tracking techniques to troubleshoot and resolve software issues promptly.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Coordinated and led a girls' coding club, promoting diversity and inclusion in STEM fields and inspiring young girls to pursue careers in technology.
+- Served as the captain of a women's basketball team, fostering team collaboration, sportsmanship, and strategic thinking on and off the court.
+- Actively involved in organizations supporting women in technology, advocating for equal opportunities and empowerment in the industry.
+
+Hobbies:
+- Playing the piano and composing music
+- Participating in local art exhibitions, showcasing the beauty of diverse cultures and expressing creativity through visual arts.
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)

@@ -1,0 +1,50 @@
+# Quintin Delgado
+
+123 Main Street, Los Angeles, CA 12345 | (555) 123-4567 | quintindelgado@email.com
+
+## Personal Statement
+
+Highly motivated and detail-oriented software engineer with a passion for developing innovative solutions. A Latino male from Los Angeles, California, I am committed to leveraging my skills to contribute to the advancement of the tech industry. With a strong educational background in computer science, I am adept at programming languages like Java, Python, and C#, and possess excellent problem-solving and analytical skills. I thrive in fast-paced environments and am eager to join a dynamic team as a software engineer.
+
+## Education
+
+Bachelor of Science in Computer Science, Sunshine State University, Los Angeles, CA | May 20XX
+- GPA: 3.9/4.0
+
+## Work Experience
+
+Software Engineer, Stellar Solutions, Los Angeles, CA | June 20XX - Present
+- Utilized SQL and Python to develop and maintain a robust ecommerce platform.
+- Conducted automated testing to ensure optimal functionality and performance of software.
+- Collaborated with cross-functional teams to identify and resolve technical issues.
+- Actively participated in code reviews and provided constructive feedback.
+
+Software Developer, TechnoLogic Solutions, Los Angeles, CA | August 20XX - May 20XX
+- Developed secure payment systems using Java to ensure smooth and reliable transactions.
+- Implemented error tracking systems to identify and resolve software bugs efficiently.
+- Utilized NoSQL databases to manage and store large amounts of data.
+- Collaborated with teams to improve software performance and optimize user experience.
+
+## Skills
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+## Volunteer & Leadership
+
+- Participant, Latino Tech Leaders initiative, an organization promoting diversity and representation in the tech industry.
+- Sports Leadership Role: Captain of the university basketball team, leading the team to numerous victories and fostering teamwork and leadership skills.
+
+## Hobbies
+
+- Playing the guitar and composing music
+- Exploring Latin American art and culture
+- Engaging in community outreach programs
+
+## Languages
+
+- English (Fluent)
+- Spanish (Native)

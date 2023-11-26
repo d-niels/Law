@@ -1,0 +1,45 @@
+Zenon Garcia
+Software Engineer
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a strong passion for creating innovative solutions. Skilled in error tracking, ecommerce, automated testing, and secure payments. Committed to delivering high-quality software products while constantly seeking new challenges and growth opportunities. A proactive team player with excellent problem-solving and debugging skills. Eager to contribute expertise in software development to drive impactful change.
+
+Education:
+Bachelor of Science in Computer Science, Atrium University, Austin, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Techware Solutions, Austin, Texas
+- Developed error tracking systems and implemented improvements to enhance product stability.
+- Collaborated with cross-functional teams to integrate ecommerce capabilities into the software platform.
+- Utilized Python and SQL to create efficient and scalable data manipulation algorithms.
+
+Software Developer, Innovex Solutions, Austin, Texas
+- Spearheaded automated testing initiatives to ensure the reliability and performance of software.
+- Designed and implemented secure payment systems, protecting customer data and increasing user trust.
+- Utilized NoSQL databases and Java programming to optimize data processing.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinx Tech Alliance – Member
+- Actively contribute to promoting diversity and inclusion within the technology industry.
+- Drive initiatives focused on empowering Latinx individuals pursuing careers in technology.
+- Mentor and provide guidance to underrepresented individuals in the tech field.
+
+Sports Leadership Role – Team Captain, Atrium University Soccer Team
+- Led a diverse group of teammates in a highly competitive intercollegiate soccer league, fostering teamwork, discipline, and perseverance.
+- Promoted inclusivity and unity, leveraging the power of sports to bridge cultural differences and build strong relationships.
+
+Hobbies:
+Playing the guitar and piano, capturing candid moments through photography, exploring various art forms that reflect the rich Latinx heritage.
+
+Languages:
+English (fluent), Spanish (native)
+
+References available upon request.

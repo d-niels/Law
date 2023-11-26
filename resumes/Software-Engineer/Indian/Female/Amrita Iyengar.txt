@@ -1,0 +1,35 @@
+Personal Statement:
+I am a driven and dedicated software engineer, fueled by a passion for innovation and creating impactful solutions. With a strong academic background in computer science and valuable industry experience, my goal is to utilize my skills in automated testing, debugging, and problem-solving to drive the development of cutting-edge software applications.
+
+Education:
+Bachelor of Science in Computer Science, Stellar University, Los Angeles, California
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Aurora Technologies, Los Angeles, California
+- Spearheaded automated testing strategies for the company's flagship e-commerce platform, ensuring the delivery of high-quality software releases
+- Leveraged NoSQL databases to optimize data storage and retrieval, enhancing system performance
+- Implemented advanced security measures for secure and seamless payment processing
+
+Software Engineer, Quantum Software Solutions, Los Angeles, California
+- Utilized advanced debugging techniques and SQL expertise to identify and resolve complex issues in software applications
+- Utilized programming languages such as Java and Python to design and develop innovative software solutions
+- Collaborated effectively with cross-functional teams to successfully deliver projects on time and within budget
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As an Indian female software engineer hailing from Los Angeles, I actively champion diversity and inclusion in the technology industry. Within various organizations, I have held leadership positions, advocating for the empowerment of underrepresented communities. Additionally, I lead a team in the sport of basketball, promoting teamwork and fostering a sense of camaraderie.
+
+Hobbies:
+In my leisure time, I find solace in playing the piano, an instrument which has been a constant source of joy and self-expression. I further celebrate my Indian heritage by participating in cultural events and engaging in activities that promote gender equality and diversity in the tech sector.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Tamil (Proficient)

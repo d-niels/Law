@@ -1,0 +1,35 @@
+Quinn Yates
+
+Personal Statement:
+Passionate and driven software engineer with a strong commitment to innovative problem-solving. As an African-American woman in the technology industry, I am dedicated to promoting diversity and inclusion. With a solid background in computer science, I strive to create cutting-edge solutions that make a positive impact.
+
+Education:
+Bachelor of Science in Computer Science, Cityscape University, Washington, District of Columbia
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechnoDynamix Inc., Washington, DC
+- Utilized NoSQL databases, automated testing, and error tracking to develop robust and scalable software solutions
+- Demonstrated expertise in debugging complex code issues, enhancing software performance, and ensuring top-quality deliverables
+
+Software Engineer Intern, ByteSmith Technologies, Washington, DC
+- Developed secure payment systems and implemented e-commerce functionalities using SQL, Python, and Java
+- Collaborated with cross-functional teams to deliver innovative software solutions that met client requirements
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteered at Innovate Minds Foundation, organizing coding workshops for underrepresented youth, with a special focus on empowering young African-American girls
+- Served as a team captain for XYZ Youth Basketball League, inspiring young girls of color to excel in basketball and develop leadership skills
+
+Hobbies:
+- Playing the drums
+- Embracing diverse cultures through international cuisine and exploring different art forms
+
+Languages:
+- Fluent in English and Spanish, allowing effective communication in multicultural environments

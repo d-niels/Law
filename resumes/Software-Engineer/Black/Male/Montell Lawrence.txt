@@ -1,0 +1,39 @@
+Personal Statement:
+Driven software engineer with a passion for creating innovative solutions and a proven track record of success in debugging and programming. Committed to leveraging technical skills, critical thinking, and teamwork to optimize processes and develop high-performing software applications. As a black male from Memphis, Tennessee, I bring a unique perspective to the table, allowing for creatively diverse problem-solving approaches.
+
+Education:
+Bachelor of Science in Computer Science
+University of Tennessee, Knoxville, Tennessee
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern, Stellar Solutions, Memphis, Tennessee
+- Debugged software applications, resolving complex coding issues efficiently.
+- Utilized Java, Python, and SQL to develop and enhance web-based systems.
+- Collaborated with team members to conduct thorough quality assurance and ensure the seamless functioning of software products.
+
+Software Developer, TechStream Solutions, Nashville, Tennessee
+- Tracked errors and enhanced software functionality through NoSQL database technologies.
+- Implemented secure payment systems and optimized ecommerce processes.
+- Conducted automated testing to improve software reliability and performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate
+- Actively promoted diversity and inclusion in the workplace, advocating for underrepresented groups.
+- Encouraged and inspired young black males to pursue careers in technology through mentorship and support.
+- Served as a basketball team captain, fostering teamwork and instilling discipline among young athletes.
+
+Hobbies:
+- Playing the piano, showcasing my love for music and creativity.
+- Exploring different cultures and traditions, broadening my understanding of the world.
+- Engaging in community activities and events that promote social justice and equality.
+
+Languages:
+- Fluent in English and Spanish, enabling effective communication in diverse environments.

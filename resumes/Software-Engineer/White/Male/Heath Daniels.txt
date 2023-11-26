@@ -1,0 +1,47 @@
+HEATH DANIELS
+San Antonio, Texas | (123) 456-7890 | heathdaniels@email.com
+
+PERSONAL STATEMENT
+Highly motivated and dedicated software engineer with a passion for problem-solving and creating efficient and secure software solutions. Possesses a strong background in programming, debugging, and testing, with a focus on continuous improvement and customer satisfaction. Committed to staying updated with the latest technologies and industry trends. 
+
+EDUCATION
+Bachelor of Science in Computer Science, Magna Cum Laude
+San Antonio State University, San Antonio, Texas | May 20XX
+- GPA: 3.9/4.0
+
+WORK EXPERIENCE
+Software Engineer | PrismTech Solutions, San Antonio, Texas | May 20XX - Present
+- Developed and maintained software applications for a cutting-edge payment processing platform.
+- Utilized Java for application development and NoSQL databases for efficient data storage and retrieval.
+- Collaborated with cross-functional teams to identify and resolve bugs and performance issues.
+- Conducted thorough automated testing to ensure software quality and reliability.
+
+Software Developer | ByteWave Technologies, San Antonio, Texas | Aug 20XX - Apr 20XX
+- Worked on an advanced ecommerce platform, responsible for error tracking and resolution.
+- Employed Python for software development and automated testing, ensuring seamless integration.
+- Utilized SQL for efficient database management to enhance platform efficiency and performance.
+- Collaborated with a diverse team of developers to deliver high-quality software solutions.
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Volunteer Basketball Coach | San Antonio Youth Sports Association
+- Mentored and coached a diverse group of youth in basketball techniques and sportsmanship.
+- Led weekly training sessions and organized practice drills to enhance player skills and teamwork.
+- Fostered a positive and inclusive environment, promoting gender and ethnic diversity within the sport.
+
+HOBBIES
+- Playing the guitar
+- Exploring art and photography, drawing inspiration from diverse cultural influences
+
+LANGUAGES
+- English (Native)
+- Spanish (Proficient)
+- German (Conversational)
+
+References available upon request.

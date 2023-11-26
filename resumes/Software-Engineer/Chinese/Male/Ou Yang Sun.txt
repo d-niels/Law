@@ -1,0 +1,38 @@
+Personal Statement:
+As a software engineer, I am driven by my passion for creating innovative solutions and optimizing user experiences. With a diverse background as a Chinese male raised in New York City, I bring a unique perspective to the tech industry. My strong educational foundation in computer science and my experience in various software engineering roles have equipped me with the skills to excel in this field. I am dedicated to continuous learning and embrace challenges with an analytical and problem-solving mindset.
+
+Education:
+Bachelor of Science in Computer Science - XYZ Institute of Technology, New York, NY
+GPA: 3.9
+
+Work Experience:
+Software Engineer - InnovateTech Solutions, New York, NY
+- Developed and implemented an error tracking system, facilitating real-time identification and resolution of issues, resulting in a 30% reduction in application downtime.
+- Designed and implemented a secure payment infrastructure using encryption algorithms, ensuring the safety of customer transactions.
+- Utilized NoSQL databases to optimize data retrieval, improving system performance by 20%.
+- Collaborated with cross-functional teams to implement robust ecommerce features, resulting in a 15% increase in online sales.
+
+Software Development Intern - TechSolutions Inc., New York, NY
+- Automated testing procedures using Python and SQL, significantly reducing testing time by 40% and increasing test coverage by 25%.
+- Enhanced debugging process by utilizing Java debugging tools, resulting in a 50% reduction in bug resolution time.
+- Assisted in the development of new features and modules, employing agile methodologies and collaborating with a team of developers.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active participant in XYZ University's Chinese Student Association, promoting cultural diversity and organizing events to celebrate Chinese traditions and customs.
+- Served as a basketball team captain, leading the team to victory in regional tournaments and fostering teamwork and coordination skills.
+
+Hobbies:
+- Playing the traditional Chinese instrument, Erhu.
+- Participating in basketball leagues and tournaments.
+- Exploring various art forms, including calligraphy and brush painting.
+
+Languages:
+- English (proficient)
+- Mandarin Chinese (fluent)

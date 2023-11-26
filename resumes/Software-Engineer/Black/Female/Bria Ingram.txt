@@ -1,0 +1,42 @@
+Bria Ingram
+
+Personal Statement:
+Motivated software engineer with a strong passion for problem-solving and creating innovative solutions. Dedicated to continuous learning and staying updated with the latest technologies and industry trends. Committed to diversity and inclusion, leveraging my unique perspective as a black female from Baltimore, Maryland to drive positive change within the tech community. I am an avid [Sport] player and leader, using my skills to inspire and empower others both on and off the field.
+
+Education:
+Bachelor of Science in Computer Science, Chesapeake University (Baltimore, Maryland)
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Aurora Tech Innovations (Baltimore, Maryland)
+- Debugged and resolved code errors, improving overall software efficiency and functionality.
+- Utilized Python for development, automation, and data processing purposes.
+- Tracked errors and implemented fixes, enhancing the stability of software applications.
+- Conducted automated testing to ensure the quality and reliability of products.
+
+Software Engineer, Stellar Software Solutions (Baltimore, Maryland)
+- Developed and maintained SQL databases for secure payment processing in ecommerce environments.
+- Collaborated with cross-functional teams to implement NoSQL databases for efficient data storage and retrieval.
+- Leveraged Java for software development, integrating complex ecommerce functionalities into applications.
+- Ensured adherence to industry best practices for secure payment handling and compliance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+1) Tech Diversity Advocate: Actively involved in promoting diversity and inclusion within the tech industry. Engage in community outreach and mentoring programs to support underrepresented groups, leveraging my own experiences as a black female software engineer.
+2) [Sport] Team Captain: Demonstrated strong leadership skills as the captain of a [Sport] team, guiding and motivating team members to achieve their full potential.
+
+Hobbies:
+- Playing the piano: Passionate about music and skilled in playing various melodies on the piano.
+- Photography: Capturing moments through the lens and exploring different perspectives.
+- Character Design: Expressing creativity through the art of character design and illustration.
+
+Languages:
+Fluent in English and proficient in Spanish.
+
+References available upon request.

@@ -1,0 +1,38 @@
+Personal Statement:
+I am a highly motivated and results-driven software engineer with a passion for creating innovative solutions. With a bachelor's degree in Computer Science and a strong background in programming languages, database technologies, and problem-solving, I am confident in my ability to contribute to the advancement of software engineering. As an Indian female from Washington, DC, I bring a unique perspective to the table, valuing diversity and inclusivity in every aspect of my work.
+
+Education:
+Bachelor's Degree in Computer Science
+Gupta University, Washington, DC
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - TechnoByte Solutions, Washington, DC
+- Developed Python-based secure payment systems for e-commerce platforms, ensuring seamless transactions and data protection.
+- Conducted extensive debugging to identify and resolve issues, enhancing overall system performance.
+- Collaborated with cross-functional teams to implement new features, resulting in increased user satisfaction.
+
+Software Engineer Intern - CyberTek Corporation, Washington, DC
+- Utilized SQL for efficient and accurate data retrieval and manipulation, contributing to smooth data management processes.
+- Performed automated testing and implemented error tracking mechanisms, ensuring robustness of system functionality.
+- Gained experience with NoSQL and Java, optimizing database performance and contributing to project success.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Indian Cultural Association at Gupta University, organizing cultural events and promoting cross-cultural understanding.
+- Served as a leader in a local basketball team, providing guidance and motivation to improve team performance and promote sportsmanship.
+- Advocate for advancing diversity and promoting gender inclusivity in the tech industry through participation in workshops and conferences.
+
+Hobbies:
+- Playing the piano, specializing in jazz and classical music.
+- Reading literature from various cultures, expanding my understanding of diverse perspectives.
+- Engaging in outdoor activities such as hiking and capturing nature's beauty through photography.
+
+Languages:
+- Fluent in English and Hindi

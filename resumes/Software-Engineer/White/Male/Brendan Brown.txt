@@ -1,0 +1,48 @@
+Personal Statement:
+
+As a software engineer, I am dedicated to combining my love for problem-solving and technology to create innovative solutions. With a strong background in computer science and a passion for learning new programming languages and technologies, I am confident in my ability to contribute to any software engineering team. I am a motivated individual who thrives in a collaborative environment and values the opportunity to work on challenging projects.
+
+Education:
+
+Bachelor of Science in Computer Science
+Sunshine State University, Jacksonville, Florida
+GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer - FutureTech Innovations, Jacksonville, FL
+- Debugged and resolved issues in a cutting-edge ecommerce platform, ensuring smooth operation and exceptional user experience.
+- Utilized NoSQL and SQL databases to manage and process vast amounts of data efficiently.
+- Collaborated with cross-functional teams to design, develop, and deploy features, enhancing the overall functionality of the platform.
+
+Software Developer - Stellar Solutions, Jacksonville, FL
+- Developed secure payment processing modules, adhering to industry standards and regulations, for a financial technology company.
+- Implemented error tracking mechanisms, significantly reducing the time taken to identify and resolve system issues.
+- Used Java and Python to create automated testing frameworks, enabling efficient and reliable testing of software components.
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+- Assistant Coach, Jacksonville Youth Soccer League
+  - Mentored and coached a diverse group of young athletes, fostering a collaborative and inclusive team environment.
+  - Encouraged teamwork, sportsmanship, and personal growth among players.
+
+Hobbies:
+
+- Playing the guitar
+- Participating in local cultural festivals, celebrating diversity and multiculturalism
+- Exploring different cultures through literature and travel
+
+Languages:
+
+- English (fluent)
+- Spanish (conversational)
+
+References available upon request.

@@ -1,0 +1,40 @@
+Skylar Fleming
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a passion for creating innovative solutions. Committed to leveraging my technical expertise to develop efficient software applications. As a black female in the technology industry, I strive to be a role model by promoting diversity and equity within the field.
+
+Education:
+Bachelor of Science in Computer Science, Washington Technical University, Washington, District of Columbia
+- Graduated with a GPA of 3.9
+- Relevant coursework: Data Structures, Algorithms, Software Engineering, Web Development
+
+Work Experience:
+Software Engineer, TechLinx Innovations, Washington, District of Columbia
+- Collaborated with a cross-functional team to enhance error tracking and debugging processes, resulting in a 30% reduction in software defects.
+- Implemented and maintained automated testing frameworks to ensure software quality and streamline product development.
+- Utilized SQL to design and optimize database schemas, improving data retrieval efficiency by 25%.
+
+Software Developer Intern, NovaTech Solutions, Washington, District of Columbia
+- Developed Java and Python applications for a secure payment and e-commerce platform, ensuring seamless transaction flows and data handling.
+- Utilized NoSQL databases to optimize data storage and retrieval.
+- Collaborated closely with team members to incorporate customer feedback and enhance user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+● Served as a mentor for underrepresented minority students pursuing STEM education, promoting diversity and encouraging inclusivity within the field of technology.
+● Held a leadership role as the captain of the women's basketball team, guiding and inspiring team members to achieve collective goals.
+
+Hobbies:
+● Playing the piano: As a way to express my creativity, I enjoy playing classical and contemporary pieces on the piano.
+● Painting: Engaging in various forms of art allows me to explore my cultural heritage, resulting in unique and vibrant artwork.
+● Hiking and photography: Exploring nature not only keeps me physically active but also enables me to capture the beauty of diverse landscapes through my lens.
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)

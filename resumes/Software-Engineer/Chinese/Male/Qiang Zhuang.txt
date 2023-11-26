@@ -1,0 +1,51 @@
+Qiang Zhuang
+123 Main Street, Philadelphia, Pennsylvania 12345
+Phone: (123) 456-7890 | Email: qzhuang@email.com | LinkedIn: www.linkedin.com/in/qzhuang
+
+Personal Statement:
+Driven and detail-oriented Software Engineer with a passion for developing innovative solutions. Proficient in multiple programming languages and database technologies, with a strong focus on error tracking, automated testing, and problem-solving. Committed to collaborating with cross-functional teams to deliver high-quality software products.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+Eastern Tech University, Philadelphia, Pennsylvania, United States
+
+Work Experience:
+Software Engineer Intern
+Pinnacle Systems, Philadelphia, Pennsylvania
+June 2019 - August 2019
+- Collaborated with the development team to track errors and implement fixes in the company's cutting-edge e-commerce platform.
+- Utilized Java and SQL to ensure the smooth functioning of critical components.
+- Worked on database optimization for enhanced performance and efficiency.
+
+Software Engineer
+Tech Solutions Unlimited, Philadelphia, Pennsylvania
+September 2019 - Present
+- Developed automated testing frameworks using Python and NoSQL databases to improve software quality and reduce manual efforts.
+- Implemented secure payment systems and contributed to the debugging process, ensuring smooth end-to-end transactions.
+- Collaborated with cross-functional teams to identify and resolve complex technical issues.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Ambassador
+Eastern Tech University, Philadelphia, Pennsylvania
+January 2018 - May 2019
+- Promoted diversity and inclusion initiatives on campus, fostering an inclusive environment for students of various backgrounds.
+- Organized events and workshops to address issues related to ethnicity and gender equality.
+- Served as a team captain for the university basketball team, leading with integrity and inspiring team members to achieve excellence.
+
+Hobbies:
+- Playing the piano
+- Photography, capturing moments that exemplify diversity and culture
+- Reading books on technology advancements and philosophy
+
+Languages:
+Fluent in English and Mandarin Chinese
+
+References:
+Available upon request

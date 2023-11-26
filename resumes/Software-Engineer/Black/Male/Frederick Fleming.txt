@@ -1,0 +1,41 @@
+Frederick Fleming
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a strong passion for coding and problem-solving. Committed to developing innovative software solutions to meet user needs. Excels in both individual and team environments, leveraging exceptional technical skills and excellent communication to collaborate effectively. Seeking a software engineer role to contribute to cutting-edge projects and make a positive impact on society.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, Chicago, Illinois (GPA: 3.9)
+- Relevant Coursework: Data Structures, Algorithms, Object-Oriented Programming, Web Development, Database Systems.
+
+Work Experience:
+Software Engineer | Lumos Technologies, Chicago, Illinois
+- Developed and maintained highly scalable and secure payment systems utilizing NoSQL databases, Java, and automated testing techniques.
+- Collaborated with cross-functional teams to ensure seamless integration of payment systems with existing infrastructure.
+
+Software Developer | Novotech Solutions, Chicago, Illinois
+- Implemented error tracking and debugging techniques to enhance the performance of an e-commerce platform.
+- Utilized SQL and Python to optimize database queries and improve application responsiveness.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+African American Student Union | ABC University
+- Served as the Vice President, leading efforts to promote inclusivity, cultural awareness, and academic success among African American students.
+- Mentored and supported underprivileged youths in local communities to encourage pursuing careers in technology.
+
+Sports Leadership:
+Basketball Team Captain | ABC University
+- Led a diverse team of players, fostering collaboration and effective communication to achieve common goals.
+- Organized community basketball tournaments to promote unity and raise funds for local charities.
+
+Hobbies:
+Playing the drums, participating in local basketball leagues, exploring African American history and heritage, staying updated on emerging technologies and software development trends.
+
+Languages: English (Fluent), Spanish (Conversational)
+
+References available upon request.

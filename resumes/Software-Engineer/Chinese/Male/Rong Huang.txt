@@ -1,0 +1,37 @@
+Personal Statement:
+I am a driven and innovative software engineer with a strong commitment to creating efficient and reliable solutions. With a diverse background in computer science and a deep understanding of multiple programming languages, I excel in collaborative and dynamic environments. As a Chinese male from the bustling city of New York, I bring a unique perspective and a strong work ethic to any team I join.
+
+Education:
+Bachelor of Science in Computer Science, XYZ University, New York, NY
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, InnovateTech Solutions, New York, NY
+- Developed and maintained an integrated ecommerce platform using SQL, Python, and advanced error tracking tools.
+- Implemented secure payment systems, collaborating with top-tier payment gateways.
+- Worked closely with cross-functional teams to ensure seamless execution and deliver optimized user experiences.
+
+Software Developer, ApexSoft, New York, NY
+- Utilized Java for developing and debugging complex applications.
+- Conducted automated testing to identify and resolve software defects efficiently.
+- Designed and implemented scalable NoSQL databases to improve data management and retrieval.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Sports Team Captain, China Youth Association Basketball League, New York
+- Led a competitive basketball team, fostering team spirit and promoting sportsmanship within the Chinese community.
+
+Hobbies:
+- Playing the piano, channeling my creative energy through music.
+- Exploring different cultures through travel, broadening my perspective and seeking inspiration.
+- Engaging in outdoor activities such as trail running, combining my love for fitness and nature.
+
+Languages:
+- English: Fluent
+- Mandarin Chinese: Native speaker

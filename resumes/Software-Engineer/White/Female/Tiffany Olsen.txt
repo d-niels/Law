@@ -1,0 +1,35 @@
+Personal Statement:
+Highly motivated software engineer with a passion for developing innovative solutions and a strong background in computer science. Committed to delivering high-quality software products and contributing to the advancement of technology. Known for excellent problem-solving skills, attention to detail, and ability to work effectively in diverse teams.
+
+Education:
+Bachelor of Science in Computer Science, San Antonio Institute of Technology, San Antonio, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Odyssey Technologies, San Antonio, Texas
+- Developed Python scripts for debugging and enhancing secure payments in an e-commerce platform, resulting in a 20% reduction in payment processing errors
+- Collaborated with a team to ensure the smooth functioning of the secure payments system, leading to an improved user experience
+
+Software Engineer Intern, Stellar Solutions, San Antonio, Texas
+- Implemented error tracking mechanisms and automated testing procedures using Java and SQL, resulting in a 30% reduction in software bugs
+- Gained proficiency in NoSQL databases for efficient data management, enhancing data retrieval speed by 40%
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer at the San Antonio Technology Academy, mentoring and encouraging young female students to pursue careers in technology, promoting diversity and inclusiveness in the tech industry
+- Sports Leadership Role: Captain of the university's women's soccer team, leading the team to win the state championship and fostering a strong sense of camaraderie and teamwork
+
+Hobbies:
+- Playing the piano, participating in local recitals and charity events
+- Exploring different cultures through travel and language learning, aiming to broaden perspectives and foster cultural understanding
+- Engaging in diverse literature and promoting female authors, advocating for female representation in the literary world
+
+Languages:
+- English (native)
+- Spanish (proficient)

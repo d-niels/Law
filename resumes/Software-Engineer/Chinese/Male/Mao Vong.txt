@@ -1,0 +1,37 @@
+Personal Statement:
+Dedicated and highly skilled software engineer with a strong passion for creating innovative and efficient solutions. Committed to delivering high-quality code and building robust applications, I confidently tackle complex challenges to exceed client and user expectations. With a solid foundation in computer science and a diverse skill set, I strive to contribute to the development of cutting-edge software.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Jose, CA
+- Graduated with a 3.9 GPA
+- Relevant coursework: Algorithms, Database Management Systems, Software Engineering
+
+Work Experience:
+Software Engineer, TechnoSoft Solutions, San Francisco, CA                     January 2019 - Present
+- Designed and implemented a secure payment system for a cutting-edge e-commerce platform, ensuring seamless and safe transactions.
+- Utilized NoSQL databases to handle large volumes of data efficiently and enhance system performance.
+- Conducted extensive debugging and error tracking to identify and resolve software issues promptly.
+
+Software Developer Intern, CodeCrafters Inc., Palo Alto, CA                    May 2018 - August 2018
+- Developed feature-rich Java applications for an enterprise-level e-commerce platform, contributing to an enhanced user experience.
+- Utilized SQL databases for efficient data management and retrieval in the back-end systems.
+- Implemented automated testing to streamline the quality assurance process and detect potential software defects.
+- Leveraged Python for data analysis and integration with various APIs.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in the Chinese Student Association, organizing cultural events and promoting cultural diversity within the university community.
+- Led the badminton team as a captain, coordinating practices, tournaments, and fostering teamwork and sportsmanship.
+
+Hobbies:
+- Playing the erhu, a traditional Chinese musical instrument, to connect with my cultural heritage and express my creativity.
+- Exploring diverse cultures by participating in international film festivals and volunteering at community events that celebrate diversity and equality.
+
+Languages:
+- Fluent in English and Mandarin Chinese

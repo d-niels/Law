@@ -1,0 +1,43 @@
+Willow Cooper
+
+Personal Statement:
+Passionate and innovative software engineer, dedicated to creating cutting-edge solutions in the ever-evolving tech industry. With a strong background in computer science, I excel in error tracking, programming languages, database technologies, and problem-solving techniques. Committed to fostering diversity and inclusivity, I strive to make a lasting impact on the industry. 
+
+Education:
+Bachelor of Science in Computer Science (Honors)
+Lindenwood University, Indianapolis, Indiana
+GPA: 3.9
+
+Work Experience:
+Software Engineer - ZenTech Innovations, Indianapolis, IN
+- Implemented an advanced error tracking system for a high-traffic e-commerce platform using Python and NoSQL databases
+- Collaborated with cross-functional teams to optimize website performance and enhance the user experience
+- Automated testing processes using Python to improve efficiency and reduce errors
+- Developed secure payment systems to ensure data integrity and protect user information
+
+Software Developer - Solstice Technologies, Indianapolis, IN
+- Conducted comprehensive testing and debugging activities to maintain exceptional product quality and reliability
+- Implemented efficient SQL queries and optimized database performance for a web application
+- Enhanced security protocols for secure and seamless payment processing
+- Developed user-friendly features using Java programming language to enhance the overall user experience
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Advocate for diversity and inclusion in the tech industry, actively working to create equal opportunities for underrepresented groups
+- Sports Leadership Role: Captain of the basketball team, leading by example and fostering teamwork among a diverse group of athletes
+- Organized coding workshops for aspiring programmers from marginalized communities, encouraging their pursuit of a career in technology
+- Mentored young women of color interested in technology, providing guidance and support to help them achieve their career goals
+
+Hobbies:
+- Playing the saxophone and exploring diverse music genres
+- Volunteer work at local community centers, supporting underprivileged youth in their educational pursuits
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate level)

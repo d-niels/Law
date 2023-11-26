@@ -1,0 +1,41 @@
+Kexin Sun
+
+Personal Statement:
+Highly motivated and dedicated software engineer with a passion for creating innovative and efficient solutions. With a strong background in computer science and experience in various programming languages and technologies, I strive to constantly improve my skills and contribute to the development of cutting-edge software applications. My goal is to utilize my technical knowledge and problem-solving abilities to drive success as a software engineer.
+
+Education:
+Bachelor of Science in Computer Science, Golden Gate University, San Francisco, CA
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Blaze Technologies, San Francisco, CA
+- Developed and maintained e-commerce web applications, ensuring smooth functionality and bug-free user experience.
+- Utilized Python for back-end development and implemented error tracking systems to enhance application stability.
+- Conducted thorough debugging to identify and resolve software issues, resulting in improved performance.
+
+Software Developer, Quantum Solutions, San Francisco, CA
+- Collaborated on the development of secure payment processing systems using NoSQL and SQL databases.
+- Utilized Java programming language to enhance the functionalities of existing software products.
+- Implemented automated testing procedures to ensure the reliability and security of payment transactions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member and volunteer at the Chinese American Association, promoting cultural exchange and community engagement.
+- Served as a team captain and leader for the women's basketball team, fostering teamwork and leadership among Chinese female athletes.
+
+Hobbies:
+- Playing the erhu (traditional Chinese musical instrument)
+- Exploring cultural festivals and art exhibitions
+- Engaging in outdoor activities such as hiking and biking
+
+Languages:
+- English (fluent)
+- Mandarin Chinese (native)
+
+References available upon request.

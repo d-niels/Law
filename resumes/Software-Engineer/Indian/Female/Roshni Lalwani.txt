@@ -1,0 +1,38 @@
+Resume
+
+Personal Statement:
+I am a highly motivated and skilled software engineer with a passion for developing innovative solutions. With a strong background in computer science, I have honed my abilities in programming and problem-solving. As an Indian female, I am dedicated to promoting diversity and inclusion in the tech industry. I am excited to leverage my skills and experience to contribute to the field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, Washington, DC
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, TechnoLogic Solutions, Washington, DC
+- Developed and maintained secure payment systems using SQL and Python
+- Implemented error tracking mechanisms to monitor and resolve issues efficiently
+
+Software Engineer, MegaTech Industries, Washington, DC
+- Utilized NoSQL and Java to design and optimize database systems for an ecommerce platform
+- Conducted automated testing and debugging to ensure software quality and functionality
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Championed diversity and inclusion initiatives as an active member of various organizations
+- Served as a team captain and leader in basketball, promoting teamwork and cooperation
+
+Hobbies:
+- Playing the guitar
+- Participating in cultural events and celebrating diversity
+- Exploring different literature, art, and music from around the world
+
+Languages:
+- Fluent in English and Hindi
+
+References available upon request.

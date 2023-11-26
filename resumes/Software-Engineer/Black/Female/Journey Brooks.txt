@@ -1,0 +1,43 @@
+Journey Brooks
+Baltimore, Maryland | (123) 456-7890 | journeybrooks@email.com
+ 
+Personal Statement:
+Creative and driven software engineer with a passion for creating innovative and user-friendly applications. With a strong background in computer science and a dedication to excellence, I am eager to apply my skills to solve complex problems and contribute to cutting-edge projects.
+
+Education:
+Bachelor of Science in Computer Science, Baltimore City University, Baltimore, Maryland
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern, NovaTek Solutions, Baltimore, Maryland (May 2019 - August 2019)
+- Collaborated with a dynamic team to develop and execute automated test cases, ensuring the reliability and functionality of software products.
+- Conducted comprehensive debugging to identify and resolve issues efficiently, improving the overall quality and stability of the software.
+- Worked on developing secure payment systems, implementing robust measures to safeguard user data and prevent fraudulent activities.
+- Utilized SQL for efficient database management and optimization.
+
+Junior Software Engineer, Quantum Systems, Baltimore, Maryland (September 2019 - Present)
+- Developed and maintained high-performance applications using NoSQL, Java, and Python, enhancing user experience and system efficiency.
+- Implemented advanced error tracking mechanisms to swiftly identify and address software issues, improving the stability and reliability of products.
+- Actively contributed to the development of cutting-edge e-commerce platforms, ensuring seamless online transactions and exceeding user satisfaction.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Member, Black in Tech Association (BTA), Baltimore City University Chapter (2018 - Present)
+- Actively involved in advancing diversity and inclusion in the technology field, specifically addressing the unique challenges faced by black professionals.
+- Led a sports leadership initiative within BTA, fostering a supportive environment for black athletes in the technology industry.
+- Founded and served as the captain of a local basketball team, guiding and mentoring young female athletes.
+
+Hobbies:
+- Playing the saxophone and composing music
+- Participating in coding competitions, local hackathons, and community tech events
+- Exploring diverse cultural experiences and documenting them through photography
+
+Languages:
+- English (Fluent)
+- Conversational Spanish

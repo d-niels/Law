@@ -1,0 +1,41 @@
+Personal Statement:
+As a black female software engineer from Philadelphia, Pennsylvania, my passion lies in leveraging technology to create innovative solutions. With a strong educational background in computer science and a diverse set of technical skills, I am eager to contribute to a dynamic software engineering role. I am driven by my desire to empower underrepresented communities in the tech industry and create meaningful change through technology.
+
+Education:
+Bachelor of Science in Computer Science, Liberty University, Philadelphia, Pennsylvania
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern, TechRevolution Inc., Philadelphia, Pennsylvania
+- Debugged and resolved software issues, improving overall system stability, and optimizing user experience.
+- Utilized SQL for efficient database management and retrieval, maintaining data integrity.
+- Implemented automated testing protocols, reducing testing time by 30% and increasing the accuracy of test results.
+- Collaborated with cross-functional teams to develop and enhance NoSQL database solutions, ensuring effective data storage and retrieval.
+
+Software Engineer, InnovateTech Solutions, Philadelphia, Pennsylvania
+- Developed scalable applications using Java and Python, ensuring seamless user experience across multiple platforms.
+- Utilized error tracking tools to identify and resolve software issues promptly, enhancing overall product quality.
+- Prioritized security measures and implemented secure payment and e-commerce functionalities, ensuring safe and reliable transactions.
+- Collaborated closely with clients to understand project requirements and deliver customized solutions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Advocate for diversity and inclusion in the tech industry, leveraging personal experiences as a black female software engineer, and actively working to create a more inclusive environment.
+- Served as a team captain for the Philadelphia Ladybugs, a community-driven basketball team, fostering teamwork and leadership skills within a diverse group of athletes.
+- Organized and participated in local community events promoting cultural diversity and awareness in collaboration with the Philadelphia Diversity and Inclusion Council.
+
+Hobbies:
+- Playing the saxophone and exploring various musical genres, expressing creativity and emotion through music.
+- Engaging in photography, capturing diverse cultures, environments, and people to share unique stories.
+- Participating in outdoor activities such as hiking, promoting an active and healthy lifestyle.
+
+Languages:
+- Fluent in English and Spanish
+
+References available upon request.

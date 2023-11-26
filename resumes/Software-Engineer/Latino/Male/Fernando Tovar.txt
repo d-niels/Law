@@ -1,0 +1,36 @@
+FERNANDO TOVAR
+
+Personal Statement:
+Driven and detail-oriented software engineer with a passion for developing innovative solutions. Motivated to contribute to the field of technology through creative problem-solving and strategic thinking. Committed to continuous learning and staying up-to-date with the latest industry trends. Seeking a challenging position as a software engineer to leverage my skills and knowledge in developing efficient and reliable software solutions.
+
+Education:
+Bachelor of Science in Computer Science, Phoenix Technical University, Phoenix, Arizona
+- GPA: 3.9
+
+Work Experience:
+1. Software Engineer Intern, StellarTech, Phoenix, Arizona (June 20XX - August 20XX)
+- Utilized ecommerce technologies to enhance online shopping platforms, resulting in a 20% increase in sales.
+- Conducted thorough debugging and error tracking to ensure optimal performance and functionality.
+- Implemented secure payment systems, guaranteeing safe transactions for customers.
+
+2. Junior Software Engineer, NovaSoft Solutions, Phoenix, Arizona (September 20XX - Present)
+- Developed and maintained scalable NoSQL databases, improving data storage efficiency by 30%.
+- Proficient in Java, automated testing, and SQL, contributing to the successful implementation of software solutions.
+- Utilized Python to streamline processes and enhance overall system performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a proud Latino male, I have always been dedicated to promoting diversity and inclusion in the technology field. I actively participate in various community programs that aim to empower individuals from underrepresented backgrounds in STEM. Additionally, I have served as a sports leader in a local youth organization, coaching and mentoring young athletes in the sport of basketball.
+
+Hobbies:
+In my free time, I enjoy playing the guitar, embracing the vibrant music of my Latinx culture. I am also an avid reader, exploring literature that celebrates diversity and raises awareness of social issues. As a proud advocate for equality, I immerse myself in discussing topics related to representation and inclusivity.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)

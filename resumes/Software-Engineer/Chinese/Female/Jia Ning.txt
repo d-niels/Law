@@ -1,0 +1,41 @@
+Personal Statement:
+As a Chinese female hailing from San Diego, California, I am an enthusiastic and dedicated software engineer searching for new challenges and opportunities. With a strong educational background in computer science and a passion for problem-solving, I am committed to contributing my skills for the advancement of technology. I possess an exemplary work ethic, attention to detail, and the ability to thrive in a fast-paced environment. I am eager to utilize my knowledge and experience to make a significant impact in the field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science
+University of San Diego
+GPA: 3.9
+
+Work Experience:
+Software Engineer - Innovix Technologies
+- Collaborated with a team of developers in debugging and error tracking to ensure smooth functioning of software applications.
+- Demonstrated proficiency in troubleshooting and resolving issues using Python and Java.
+- Conducted thorough testing and debugging using a variety of tools and techniques.
+- Successfully improved software performance and user experience.
+
+Software Engineer - TechWise Solutions
+- Developed secure payment systems for an e-commerce platform, ensuring user data protection.
+- Utilized automated testing techniques to optimize software quality and minimize manual errors.
+- Demonstrated proficiency in SQL and NoSQL databases to manage and retrieve data effectively.
+- Created innovative solutions to enhance the overall e-commerce experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer at Chinese American Association
+- Actively participated in community events and provided assistance in bridging the gap between the Chinese and American cultures.
+- Organized and led sports activities, particularly in badminton, fostering teamwork and leadership within the community.
+- Promoted cultural diversity and inclusivity through organizing cultural festivals and language exchange programs.
+
+Hobbies:
+- Playing the piano
+- Exploring different cultures through music, art, and literature
+- Engaging in outdoor activities such as hiking and cycling
+
+Languages:
+- Fluent in English and Chinese

@@ -1,0 +1,45 @@
+Harrison Yoder
+
+Personal Statement:
+Driven software engineer with a creative mindset and a passion for developing innovative solutions. I thrive in dynamic environments and excel at collaborating with teams to deliver high-quality software solutions. With a strong academic background in computer science and practical industry experience, I am committed to continuously improving my skills to stay at the forefront of the ever-evolving tech industry.
+
+Education:
+Bachelor of Science in Computer Science
+XYZ Tech Institute, Washington, District of Columbia
+GPA: 3.9/4.0
+
+Work Experience:
+Software Development Engineer Intern, StellarTech Solutions, Washington, District of Columbia
+- Collaborated with a diverse team of software engineers to develop Python-based ecommerce solutions, enhancing user experience and increasing customer engagement.
+- Implemented error tracking systems, reducing downtime by 20% and improving overall system stability.
+- Designed and developed secure payment gateways, ensuring seamless and safe transactions for users.
+
+Software Developer, Cascade Technologies, Washington, District of Columbia
+- Utilized NoSQL and SQL databases to develop efficient and scalable database management systems, improving data retrieval and storage processes.
+- Conducted thorough debugging and troubleshooting to identify and resolve complex software issues, resulting in a more stable and reliable software product.
+- Developed Java-based applications and implemented automated testing scenarios, reducing testing time by 30% and improving overall product quality.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Board Member, EmpowerTech - Empowering Youth in Tech
+- Actively involved in mentoring and guiding young underrepresented individuals, particularly black males, in pursuing careers in the tech industry.
+- Organize events, workshops, and coding boot camps to provide practical learning experiences and empower aspiring software engineers.
+
+Sports Leadership Role, Basketball Team Captain
+- Demonstrated strong leadership skills as the captain of a highly competitive basketball team, leading by example and fostering a culture of teamwork and discipline.
+
+Hobbies:
+- Playing the piano: I find solace in tickling the ivories and enjoy improvising melodies to unwind.
+- Exploring different cultures: Fascinated by the rich diversity of the world, I love immersing myself in different cultures through travel, cuisine, and art.
+- Language learning: Fluent in English and Spanish, and currently exploring the depths of Japanese culture while learning the language.
+
+Languages:
+- English: Native
+- Spanish: Fluent
+- Japanese: Intermediate

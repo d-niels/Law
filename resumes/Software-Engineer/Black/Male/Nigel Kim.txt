@@ -1,0 +1,39 @@
+Personal Statement:
+I am a driven and innovative software engineer passionate about creating cutting-edge solutions. With a unique perspective as a black male from Memphis, Tennessee, I am dedicated to fostering diversity and inclusion within the tech industry. Through my exceptional technical skills and problem-solving abilities, I am committed to driving the growth and success of a dynamic organization.
+
+Education:
+Bachelor of Science in Computer Science, Memphis Tech University, Memphis, Tennessee
+GPA: 3.9
+
+Work Experience:
+Software Engineer, TechHaven Solutions, Memphis, Tennessee
+- Spearheaded the development of secure payment systems, leveraging NoSQL and SQL databases to ensure seamless and secure transactions for millions of users.
+- Implemented advanced error tracking mechanisms, proactively identifying and resolving issues, resulting in a significant reduction in system downtime.
+
+Software Engineer, TechGenius Labs, Memphis, Tennessee
+- Collaborated with cross-functional teams to build and maintain an advanced ecommerce platform, utilizing Java and Python to enhance its efficiency and functionality.
+- Conducted comprehensive automated testing, guaranteeing the high quality and reliability of the software throughout its development lifecycle.
+- Utilized exceptional debugging skills to troubleshoot and resolve complex issues, improving overall system performance and enhancing user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively champion diversity and inclusivity in the tech industry, organizing workshops and events to encourage underrepresented groups to pursue careers in technology.
+- Served as a mentor for a basketball leadership program, fostering teamwork, discipline, and personal growth among young black males.
+- Committed to giving back to the community through volunteer work with local nonprofit organizations dedicated to empowering marginalized communities.
+
+Hobbies:
+- Showcasing my musical talent and creativity through playing the saxophone, mastering various genres and styles.
+- Engaging in impactful conversations on ethnic and gender equality, actively participating in online forums and local community meetings, striving for awareness and positive change.
+- Keeping up with the latest technological advancements through participation in hackathons and attending tech conferences, expanding my knowledge and establishing a strong professional network.
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate)
+
+References available upon request.

@@ -1,0 +1,40 @@
+Xyla Oberoi
+
+Personal Statement:
+I am a dedicated and detail-oriented software engineer with a passion for problem-solving and creating innovative solutions. With a strong background in computer science and expertise in various programming languages, database technologies, and testing/debugging tools, I strive to contribute my skills to develop efficient and reliable software. As an Indian female from a diverse background, I am committed to promoting diversity and inclusivity in the tech industry, actively participating in volunteer initiatives and leadership activities. I believe in harnessing the power of technology to positively impact society and drive meaningful change.
+
+Education:
+Bachelor of Science in Computer Science
+East Coast University, New York, New York
+GPA: 3.9
+
+Work Experience:
+Software Engineer, TechnoByte Technologies, New York, NY (Dates)
+- Utilized SQL and automated testing techniques to optimize performance and functionality of an innovative e-commerce platform.
+- Developed and maintained Java-based software solutions, contributing to the enhancement and scalability of the company's flagship products.
+
+Software Engineer, CyberByte Solutions, New York, NY (Dates)
+- Specialized in secure payments, debugging, error tracking, and NoSQL database technologies to ensure the reliability and integrity of software systems.
+- Collaborated with cross-functional teams to identify and resolve software issues, improving overall system efficiency.
+- Utilized Python to develop robust solutions for complex problems, enhancing the security measures of the company's software offerings.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and gender equality initiatives within the tech industry, organizing workshops and participating in panel discussions.
+- Served as a sports leader and captain of an all-women's basketball team, fostering teamwork and promoting wellness through sports.
+
+Hobbies:
+- Playing the sitar, harmonizing traditional Indian melodies with contemporary tunes
+- Participating in dance performances that celebrate diversity and cultural heritage, expressing emotions through the art of movement
+
+Languages:
+Fluent in English and Hindi
+
+References:
+Available upon request

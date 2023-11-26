@@ -1,0 +1,41 @@
+Kexin Ou
+
+Personal Statement:
+Driven software engineer with a strong passion for coding, problem-solving, and delivering high-quality solutions. With a keen eye for detail and a natural inclination towards innovation, I am dedicated to pushing boundaries and finding efficient solutions to complex technical challenges. Embracing my Chinese heritage and being a female in the field, I actively work towards promoting diversity and inclusivity within the tech industry. Seeking a software engineer role where I can leverage my technical expertise to contribute to cutting-edge software applications.
+
+Education:
+Bachelor of Science in Computer Science
+PhillyTech University, Philadelphia, Pennsylvania
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | Illuminate Technologies, Philadelphia, Pennsylvania
+- Developed and maintained Java-based ecommerce platforms, ensuring seamless user experiences, and efficient order processing.
+- Utilized SQL and NoSQL databases to manage and optimize data storage for high-performance applications.
+- Collaborated with cross-functional teams to implement new features, debugging and troubleshooting, and conducting root cause analyses.
+
+Software Engineer | NovaCore Innovations, Philadelphia, Pennsylvania
+- Utilized Python to develop secure payment systems, ensuring transactions complied with industry standards and regulations.
+- Implemented automated testing frameworks to improve software reliability and streamline the development process.
+- Collaborated with developers and support teams to track errors, debug issues, and ensure smooth software operation.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively engaged in promoting gender diversity and equal opportunities for women in tech by organizing workshops and seminars.
+- Served as the captain of a competitive basketball team, fostering teamwork and leadership among players.
+
+Hobbies:
+- Playing the violin (Grade 8 level)
+- Engaging in outdoor activities such as hiking and camping
+
+Languages:
+- English (Fluent)
+- Chinese (Mandarin) (Native)
+
+Note: The fictional details have been modified to provide additional uniqueness to Kexin Ou's character. The company names and university have been changed to obscure the actual entities while maintaining the overall structure and content of the resume.

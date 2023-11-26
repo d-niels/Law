@@ -1,0 +1,44 @@
+Brielle Peterson
+
+Personal Statement:
+Passionate and dedicated software engineer committed to pushing boundaries and driving innovation. With a tenacity for problem-solving and a love for technology, I thrive in dynamic environments and constantly seek to expand my skills. As a vocal advocate for diversity and gender equality in the tech industry, I am motivated to make a positive impact and create a more inclusive future.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Innovation University, Detroit, Michigan
+
+Work Experience:
+Software Engineer, StellarSoft Solutions, Detroit, MI (2018-2020)
+- Collaborated with a talented team to track errors and resolve issues, resulting in enhanced application stability and improved user experience.
+- Developed robust and secure payment systems, ensuring smooth and protected financial transactions for a wide range of clients.
+- Implemented automated testing frameworks, significantly reducing manual testing efforts and maximizing efficiency.
+- Contributed to the development of a cutting-edge e-commerce platform, designing and implementing scalable solutions.
+
+Junior Software Developer, Blueprint Software Solutions, Detroit, MI (2017-2018)
+- Leveraged my expertise in NoSQL, Python, Java, and SQL to develop and maintain database-driven applications for a diverse client base.
+- Employed comprehensive debugging techniques to identify and resolve software defects, optimizing software performance and reliability.
+- Collaborated with cross-functional teams to analyze client requirements and deliver tailor-made software solutions.
+- Assisted in the creation of software documentation and conducted informative end-user training sessions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Code Queens Detroit, Detroit, MI (2019-present)
+- Mentor and support young women pursuing tech careers, encouraging diversity and equality in the industry.
+- Organize workshops and tech events to promote STEM fields and foster an environment of inclusivity and empowerment.
+
+Sports Leadership:
+Captain, Detroit Tech Women's Basketball League, Detroit, MI (2018-present)
+- Lead a team of talented female engineers, fostering teamwork, sportsmanship, and personal growth.
+- Organize training sessions, strategize game plans, and create a positive environment for athletic and professional development.
+
+Hobbies:
+Playing the piano, participating in community theater, exploring different cultures through travel, staying active through basketball, and practicing yoga.
+
+Languages:
+English (Native), Spanish (Conversational)

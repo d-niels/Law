@@ -1,0 +1,45 @@
+Urmila Kulkarni
+
+Personal Statement:
+A highly motivated and dedicated software engineer with a passion for designing and developing innovative solutions. I strive to apply my strong analytical skills and problem-solving abilities to deliver efficient and reliable software. As an Indian female engineer, I am committed to promoting diversity and inclusivity in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science
+Innovative University, San Francisco, CA
+GPA: 3.9
+
+Work Experience:
+Software Engineer
+Spectrum Technologies, San Jose, CA
+- Collaborated with a team of developers to track and resolve errors in the software system
+- Utilized SQL queries to retrieve and manipulate data for e-commerce applications
+- Developed automated testing scripts to ensure the quality and functionality of the software
+
+Software Engineer Intern
+ByteCraft Solutions, Mountain View, CA
+- Utilized Java programming language for debugging and enhancing software functionalities
+- Worked with NoSQL databases to store and manage large datasets
+- Implemented secure payment methods to ensure the safety and privacy of user transactions
+- Developed Python scripts for data analysis and reporting purposes
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Member, Women in Tech Association
+- Actively involved in promoting gender diversity and leadership opportunities for women in the tech industry
+- Organized workshops and events to provide resources and support to female engineers
+- Held a leadership role as the captain of the association's basketball team, fostering teamwork and sportsmanship
+
+Hobbies:
+- Playing the flute, a traditional Indian musical instrument
+- Participating in cultural events that celebrate Indian heritage and traditions
+
+Languages:
+Fluent in English and Hindi
+
+References available upon request.

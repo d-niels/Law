@@ -1,0 +1,40 @@
+Personal Statement:
+I am a highly motivated and experienced software engineer with a strong passion for creating innovative solutions. As a Chinese male from Chicago, I bring a unique perspective, diverse cultural understanding, and excellent problem-solving skills. With a bachelor's degree in Computer Science and a GPA of 3.9, I am excited to contribute my skills, knowledge, and leadership to help drive technological advancements in the gaming industry.
+
+Education:
+Bachelor of Science in Computer Science – Stellar University, Chicago, Illinois
+GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer – NeoGaming Corp, Chicago, IL
+- Developed secure payment systems using Python and NoSQL databases to ensure smooth and reliable transactions for millions of users.
+- Leveraged SQL databases to optimize data management and retrieval, resulting in a 30% increase in overall system performance.
+- Collaborated with cross-functional teams to seamlessly integrate code and enhance the overall gaming experience.
+- Utilized Python for automated testing, reducing software bugs by 25% and improving overall software quality.
+
+Software Engineer – QuantumTech Solutions, Chicago, IL
+- Developed cutting-edge eCommerce solutions using Java, integrating various software components and enhancing user experience.
+- Conducted comprehensive debugging to identify and resolve complex software issues, ensuring high-quality and error-free products.
+- Designed and implemented an efficient error tracking system to improve software reliability, reducing downtime by 20%.
+- Collaborated closely with team members to develop and maintain detailed software documentation for future reference and troubleshooting.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member and advocate for diversity in the gaming industry, organizing events and workshops in partnership with the Gaming Diversity Alliance.
+- Served as a team leader for the Stellar University basketball team, fostering teamwork, leadership, and promoting the inclusion of underrepresented communities in sports.
+
+Hobbies:
+- Playing the erhu, a traditional Chinese musical instrument, showcasing my appreciation for cultural heritage and music.
+- Participating in various coding competitions and hackathons, continuously expanding my skills and learning about the latest advancements in technology.
+- Exploring various outdoor activities such as hiking, cycling, and photography, embracing the beauty of nature and capturing moments.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

@@ -1,0 +1,48 @@
+Sebastian Page
+
+Personal Statement:
+Innovative and results-driven software engineer with a passion for developing cutting-edge solutions. Detail-oriented problem solver with strong analytical skills and a drive for excellence. Adept at collaborating with cross-functional teams to deliver high-quality software applications. Committed to continuous learning and dedicated to staying up-to-date with emerging technologies.
+
+Education:
+Bachelor of Science in Computer Science, Magna Cum Laude
+Silicon Valley University, San Jose, California
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - Stellar Innovation Labs, San Francisco, California
+May 2018 - Present
+- Developed and maintained scalable and efficient software systems using NoSQL and SQL databases for an e-commerce platform, contributing to a 20% increase in site performance.
+- Collaborated with cross-functional teams, including designers and business analysts, to implement new features and enhancements, leading to a 15% increase in user engagement.
+- Utilized advanced debugging tools and techniques to identify and resolve complex technical issues, optimizing software stability and decreasing bug resolution time by 30%.
+- Worked on the integration of secure payment modules, focusing on implementing and testing cutting-edge secure payment processing algorithms.
+
+Software Developer - Quantum Byte Tech, Palo Alto, California
+August 2016 - April 2018
+- Designed and implemented Java-based applications for error tracking and debugging in large-scale systems, resulting in a 25% reduction in software defects.
+- Developed automated testing frameworks using Python to improve software testing efficiency, leading to a 40% reduction in testing time.
+- Collaborated with the Payments team to integrate secure payment gateways into applications, ensuring seamless and secure transactions for users.
+- Conducted thorough code reviews and enforced adherence to coding standards and best practices, ensuring high-quality code base.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Board Member - Society for Advancement of Women in Technology (SAWIT)
+- Led efforts to promote gender diversity in the field of technology through various initiatives and events.
+- Organized and hosted coding workshops to encourage young women to pursue careers in software engineering.
+- Spearheaded mentoring programs to empower female students and professionals in the tech industry.
+
+Sports Leadership Role - San Francisco State University Men's Basketball Team
+- Served as team captain, demonstrating strong leadership skills and fostering team unity.
+- Organized and coordinated team practices, ensuring effective training methodologies.
+- Developed tactical strategies and made crucial decisions during competitive matches.
+
+Hobbies:
+Playing guitar, exploring hiking trails, and reading works of classical literature.
+
+Languages:
+Fluent in English and Spanish.

@@ -1,0 +1,39 @@
+Olivia Zavala
+
+Personal Statement:
+A highly driven and dedicated software engineer with a passion for creating innovative solutions. As a proud Latina female hailing from Dallas, Texas, I bring a strong cultural background and a determination to succeed in the tech industry. With a solid foundation in computer science and proficiency in multiple programming languages, I am eager to join a dynamic team and leverage technology to make a positive impact on society.
+
+Education:
+Bachelor of Science in Computer Science, Texas Tech University, Lubbock, Texas
+- Graduated with a GPA of 3.9
+- Relevant coursework: Data Structures, Algorithms, Software Engineering, Database Management
+
+Work Experience:
+Software Engineer, StellarTech Solutions, Dallas, Texas
+- Developed and maintained secure payment gateways for leading e-commerce platforms using NoSQL databases and SQL queries
+- Collaborated with cross-functional teams to implement and enhance payment processing systems, ensuring data integrity and security
+- Improved performance and scalability of e-commerce platforms, resulting in increased customer satisfaction and conversion rates
+
+Software Engineer, TechnoPro Systems, Houston, Texas
+- Leveraged Python and Java to create robust error tracking and debugging tools for a large-scale software system
+- Conducted automated testing and implemented debugging techniques to identify and resolve software issues promptly
+- Collaborated closely with a team of developers to implement new functionalities based on client requirements, enhancing overall system reliability
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in empowering and mentoring underrepresented groups, particularly the Latino community, by participating in workshops and events focused on diversity and inclusion in the tech industry
+- Served as a leader and coach for a local girls' volleyball team, fostering teamwork, sportsmanship, and leadership skills
+
+Hobbies:
+- Playing the guitar and exploring various genres of music
+- Promoting diversity and cultural exchange by attending multicultural festivals and events
+- Active involvement in community theater and acting
+
+Languages:
+- Fluent in English and Spanish, facilitating effective communication with diverse teams and users.

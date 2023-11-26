@@ -1,0 +1,39 @@
+Valentina Peralta
+
+Personal Statement:
+Driven and ambitious software engineer with a deep passion for problem-solving and innovation. Committed to delivering cutting-edge software solutions, I possess a diverse skill set within various programming languages and database technologies. With a strong desire to continuously learn and grow, I am dedicated to making a significant impact in the field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Nevada State University, Las Vegas
+
+Work Experience:
+Software Engineer - TechnoLink Dynamics, Las Vegas, NV
+- Collaborated with a talented team of developers to design and develop secure payment software solutions utilizing Java, SQL, and encryption protocols.
+- Demonstrated exceptional debugging skills to identify and troubleshoot issues, ensuring seamless functionality and user experience.
+- Played an instrumental role in designing and implementing robust secure payment systems, ensuring data integrity and protection.
+- Leveraged strong Java expertise to consistently deliver high-quality and efficient software solutions.
+
+Software Engineering Intern - Innovix Technologies, Las Vegas, NV
+- Assisted in the development and implementation of automated testing methodologies and error tracking systems using Python.
+- Utilized NoSQL databases to optimize data storage and retrieval for an e-commerce platform, enhancing overall performance.
+- Collaborated with multidisciplinary teams to identify and resolve software issues, ensuring robust and reliable product delivery.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active volunteer for the Latino Cultural Association, promoting and celebrating the rich diversity of Latino culture within the community.
+- Sports Leadership Role: Served as the team captain and leader of a competitive indoor soccer team, fostering camaraderie, teamwork, and sportsmanship among players.
+
+Hobbies:
+- Playing the piano, expressing creativity and emotion through the melodies of classical and contemporary music.
+- Exploring different cultures and traditions through immersive travel experiences, broadening horizons.
+- Participating in local coding competitions and hackathons, continuously expanding technical knowledge while forging connections with fellow enthusiasts.
+
+Languages:
+- Fluent in English and Spanish.

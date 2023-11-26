@@ -1,0 +1,29 @@
+Personal Statement:
+Highly skilled and motivated software engineer with a passion for developing innovative solutions. Committed to delivering efficient and robust software applications to meet user needs. Excels in problem-solving and possesses a strong attention to detail. Dedicated to continuous learning and staying up-to-date with emerging technologies.
+
+Education:
+Bachelor of Science in Computer Science, Golden Gate University, San Francisco, California (GPA: 3.9/4.0)
+
+Work Experience:
+Software Engineer, Stellar Technologies, San Francisco, California
+- Developed and maintained the cutting-edge ecommerce platform using Python and NoSQL databases
+- Conducted extensive debugging and troubleshooting to enhance system performance and resolve complex issues
+- Collaborated with cross-functional teams to deliver high-quality software solutions meeting strict deadlines
+
+Software Engineer, Quantum Solutions, San Francisco, California
+- Implemented automated testing procedures using industry-standard tools for comprehensive software testing
+- Utilized SQL for efficient error tracking, analysis, and prompt resolution of issues
+- Led the integration of secure payment systems, enhancing user confidence and overall system security
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Embracing my white female identity, I have been actively involved in volunteer initiatives supporting women and minorities in the tech community. I have organized workshops and mentoring programs to foster diversity and inclusivity. Additionally, I have taken on a leadership role in the local community, serving as the captain of the San Francisco women's soccer team, promoting teamwork and empowerment.
+
+Hobbies:
+Embracing my cultural heritage, I enjoy playing the traditional instrument of the pipa. Engaging with others from diverse backgrounds, I actively participate in cultural exchange events, sharing my love for music and celebration. As a lifelong learner, I am currently studying Mandarin Chinese and Spanish, expanding my language skills and embracing different cultures.

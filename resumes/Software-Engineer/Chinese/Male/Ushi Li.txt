@@ -1,0 +1,40 @@
+Personal Statement:
+I am a highly motivated software engineer with a strong passion for problem-solving and creating innovative solutions. With a solid foundation in computer science and extensive experience in various programming languages, I am committed to delivering high-quality software products. As a Chinese male from San Diego, California, I bring a diverse perspective to my work, embracing different cultures and fostering inclusion in the tech industry. My name is Ushi Li, and I am ready to make a positive impact with my skills and experiences.
+
+Education:
+Bachelor of Science in Computer Science
+Golden State University, San Diego, California
+GPA: 3.9
+
+Work Experience:
+Software Engineer - Cybertech Innovations, San Diego, CA
+- Debugged and resolved technical issues in software applications using advanced debugging tools.
+- Utilized NoSQL and SQL databases to optimize data storage and retrieval.
+- Developed and maintained Java-based software solutions.
+- Collaborated with cross-functional teams to ensure seamless integration of software components.
+
+Software Engineer - TechSolutions, San Diego, CA
+- Leveraged Python programming language for the implementation of error tracking systems.
+- Designed and implemented secure payment systems for e-commerce platforms.
+- Developed and executed automated tests to ensure software quality and performance.
+- Collaborated with the development team to identify and troubleshoot software defects.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion within the tech industry, leveraging my Chinese heritage and male perspective.
+- Held a leadership role as the captain of a basketball team, fostering teamwork and collaboration within a diverse group of athletes.
+
+Hobbies:
+- Playing the guitar and piano, exploring different genres of music.
+- Engaging in various outdoor activities, such as hiking and cycling, to stay physically active and enjoy the beauty of nature.
+- Celebrating diversity and embracing different cultures through traveling, language learning, and participating in cultural events.
+
+Languages:
+- English (Fluent)
+- Chinese (Mandarin) (Native)

@@ -1,0 +1,48 @@
+Uzi Pan
+Honolulu, Hawaii | (123) 456-7890 | uzipan@email.com
+
+Personal Statement:
+Motivated and detail-oriented Software Engineer with a strong background in programming and problem-solving. Passionate about creating efficient and effective software solutions. Dedicated to continuous learning and staying up-to-date with the latest industry trends and technologies. Committed to leveraging my skills to contribute to innovative projects and deliver exceptional results.
+
+Education:
+Bachelor of Science in Computer Science, Pacifica University, Honolulu, Hawaii
+GPA: 3.9/4.0
+Relevant Coursework: Data Structures and Algorithms, Software Engineering, Web Development, Database Systems
+
+Work Experience:
+Software Engineer, Sapphire Software Solutions, Honolulu, Hawaii
+May 2019 - Present
+- Developed and maintained Python-based ecommerce platforms, ensuring smooth transactions and optimal user experience.
+- Conducted comprehensive debugging to identify and resolve issues in the software.
+- Implemented error tracking systems to monitor software performance and make necessary improvements.
+- Collaborated with cross-functional teams to deliver high-quality software solutions.
+
+Software Engineer Intern, Luminary Tech, Honolulu, Hawaii
+June 2018 - August 2018
+- Designed and implemented a secure payment system for an online application using NoSQL and SQL databases.
+- Utilized Java to develop automated testing tools, improving software testing efficiency by 30%.
+- Collaborated with the development team to identify and resolve software defects and performance bottlenecks.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Chinese Student Association, Pacifica University, Honolulu, Hawaii
+- Acted as a mentor and provided support to incoming Chinese students, aiding in their integration into the university community.
+- Organized cultural events and fundraisers to celebrate Chinese traditions and promote cultural awareness.
+- Served as a basketball team captain, fostering teamwork and strengthening team dynamics.
+
+Hobbies:
+- Playing the piano
+- Exploring hiking trails and outdoor photography
+- Learning about different cultures and languages
+
+Languages:
+- English (Fluent)
+- Chinese (Mandarin and Cantonese)
+
+References available upon request.

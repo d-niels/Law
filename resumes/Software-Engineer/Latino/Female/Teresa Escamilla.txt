@@ -1,0 +1,49 @@
+Teresa Escamilla
+El Paso, Texas | (123) 456-7890 | teresa.escamilla@email.com
+
+Personal Statement:
+Passionate and driven software engineer with expertise in secure payments and ecommerce. Dedicated to finding innovative solutions to complex problems and leveraging analytical skills to optimize software performance. Strong teamwork and communication skills paired with a commitment to diversity and inclusion in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, El Paso University, El Paso, TX
+- GPA: 3.9/4.0
+- Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering
+
+Work Experience:
+Software Engineer Intern, TechGenius Solutions, El Paso, TX
+May 2020 - August 2020
+- Developed secure payment systems using Java for multiple ecommerce clients.
+- Conducted extensive debugging to identify and rectify software errors, ensuring system stability and reliability.
+- Collaborated with cross-functional teams to integrate secure payment modules into existing platforms.
+- Worked closely with stakeholders to gather requirements and provide technical support.
+
+Software Developer, CodeCraft Software, El Paso, TX
+September 2020 - Present
+- Implemented automated testing techniques to streamline software development processes.
+- Utilized error tracking systems and conducted root cause analysis to address and resolve issues efficiently.
+- Leveraged SQL and NoSQL databases to design and optimize data structures.
+- Developed software functionalities using Python and ensured compatibility with various platforms.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinos in Tech Mentorship Program, El Paso, TX
+- Promoted diversity and inclusion by serving as a mentor to aspiring Latino software engineers, providing guidance and support.
+- Organized workshops and networking events to create a strong sense of community within the tech industry.
+
+Sports Leadership:
+Captain, University Women's Volleyball Team, El Paso University
+- Demonstrated strong leadership skills by leading the team to victory in the regional championships.
+
+Hobbies:
+Playing the piano and composing music, embracing different cultures through melodies.
+Exploring different dance styles, celebrating diversity in movement.
+Learning new languages to connect with diverse communities.
+
+Languages:
+Fluent in English and Spanish.

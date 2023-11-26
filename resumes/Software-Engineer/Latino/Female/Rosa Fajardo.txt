@@ -1,0 +1,51 @@
+Rosa Fajardo
+123 Main Street, Dallas, Texas 12345
+Phone: (555) 555-5555
+Email: rosa.fajardo@email.com
+
+Personal Statement:
+Dedicated and ambitious Software Engineer with a strong background in secure payments and e-commerce. Passionate about developing efficient and user-friendly software solutions. Committed to continuously learning and staying updated with emerging technologies. A confident team player with excellent problem-solving and communication skills.
+
+Education:
+Bachelor of Science in Computer Science, Dallas Metropolitan University, Dallas, Texas
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Stellar Software Solutions, Dallas, Texas
+August 2018 - Present
+- Developed secure payment systems for large-scale e-commerce platforms using Java and integrated error tracking mechanisms to ensure reliability and accuracy
+- Designed and optimized SQL database solutions for efficient data management
+- Collaborated with cross-functional teams to troubleshoot and resolve software issues
+- Participated in code reviews, ensuring adherence to industry best practices
+
+Software Developer, Tech Patterns Inc., Dallas, Texas
+May 2016 - July 2018
+- Utilized NoSQL databases to store and retrieve extensive e-commerce data for various clients
+- Conducted automated testing to verify software functionality and identify bugs
+- Utilized Python and other debugging tools to resolve issues efficiently
+- Collaborated with clients to gather requirements and successfully delivered high-quality software solutions
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Hispanic Cultural Association, Dallas Metropolitan University, Dallas, Texas
+- Active member, organizing events to celebrate and promote Latino culture and heritage on campus
+- Conducted workshops to encourage underrepresented students, particularly women, to pursue careers in technology
+- Leadership role as the captain of a local women's soccer team, fostering teamwork and mentorship
+
+Hobbies:
+- Playing the guitar
+- Participating in local community events
+- Practicing photography
+
+Languages:
+- English (Fluent)
+- Spanish (Native Speaker)
+
+References:
+Available upon request.

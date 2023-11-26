@@ -1,0 +1,37 @@
+Personal Statement:
+I am a dedicated software engineer with a strong passion for creating innovative and efficient solutions. With a bachelor's degree in computer science from Pacifica University and a solid foundation in various programming languages and database technologies, I am well-equipped to tackle complex challenges in the field. My drive for continuous learning, combined with exceptional problem-solving and analytical skills, allows me to excel in delivering exceptional software solutions. As a Chinese male from San Diego, California, I leverage my diverse background to bring a unique perspective to every project I undertake.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Pacifica University
+
+Work Experience:
+Software Engineer - Stellar Solutions, San Diego, CA
+- Collaborated in developing an advanced ecommerce platform utilizing NoSQL database technologies
+- Planned and executed automated testing procedures to ensure the reliability and quality of software components
+- Utilized Java programming language to implement complex back-end functionalities
+
+Software Developer - Vertex Technologies, San Diego, CA
+- Expertly debugged and resolved issues in software applications using a wide range of debugging techniques
+- Utilized SQL and advanced secure payment technologies to develop a robust and secure payment gateway
+- Developed innovative software components using Python and seamlessly integrated error tracking mechanisms
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively contribute to promoting diversity and inclusion initiatives within the tech community, leveraging my background as a Chinese male from San Diego, California
+- Served as a leader for a local basketball team, organizing and coordinating activities for the team's success
+
+Hobbies:
+- Playing the piano, showcasing my appreciation for the arts
+- Engaging in outdoor activities such as hiking and biking to maintain an active lifestyle
+- Exploring various cultures and learning about their traditions to foster cross-cultural understanding
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

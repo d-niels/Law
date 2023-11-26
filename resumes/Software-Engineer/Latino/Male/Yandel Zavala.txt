@@ -1,0 +1,46 @@
+Yandel Zavala
+
+Personal Statement:
+Driven and highly motivated software engineer with a passion for problem-solving and delivering innovative solutions. With a Bachelor's degree in Computer Science from the esteemed TechWave University, I am equipped with strong technical skills and a solid foundation in software development. As a Latino male from Dallas, Texas, I am committed to promoting diversity and inclusivity in the tech industry. With a proven track record of success in my previous roles, I am eager to contribute my expertise and collaborate with talented teams to create cutting-edge software products.
+
+Education:
+Bachelor of Science in Computer Science
+TechWave University, Dallas, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Voltix Software Solutions
+Dallas, Texas | March 2018 - Present
+- Developed Python-based ecommerce applications that enhanced user experience and drove substantial sales growth.
+- Utilized automated testing frameworks to streamline quality assurance processes and ensure reliable software functionality.
+- Collaborated with cross-functional teams, including designers and project managers, to ensure seamless integration of software components.
+- Demonstrated proficiency in Java to optimize performance and enhance application functionalities, resulting in faster and more efficient workflows.
+
+Software Developer, CipherTech Solutions
+Dallas, Texas | June 2016 - February 2018
+- Implemented secure payment solutions using NoSQL databases, ensuring the protection of sensitive customer information.
+- Utilized SQL to effectively manage and optimize databases, resulting in improved system performance.
+- Integrated error tracking and debugging tools, significantly reducing troubleshooting time and enhancing software reliability.
+- Collaborated with stakeholders to define and implement software functionalities that met business requirements and user needs.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Latino Association at TechWave University, organizing cultural events and promoting diversity within the campus community.
+- Served as a team captain and leader in the sport of basketball, fostering teamwork, discipline, and sportsmanship among teammates.
+- Instrumentalist, playing the guitar to entertain and inspire audiences during cultural events and fundraisers.
+
+Hobbies:
+- Exploring different genres of music and playing the guitar.
+- Engaging in basketball, honing leadership skills and promoting physical fitness and teamwork.
+- Participating in community events that celebrate and showcase Latino culture.
+
+Languages:
+- Bilingual: English and Spanish
+
+References available upon request.

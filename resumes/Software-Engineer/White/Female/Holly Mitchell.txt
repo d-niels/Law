@@ -1,0 +1,35 @@
+Personal Statement:
+I am a driven and dedicated software engineer with a strong passion for leveraging technology to create innovative solutions. With a solid foundation in computer science and extensive experience in various programming languages, I am confident in my ability to excel in the role of a software engineer. As a white female from Houston, Texas, I bring a unique perspective and diverse background that allows me to approach problems from different angles, fostering collaboration and creativity within a team.
+
+Education:
+Bachelor of Science in Computer Science, Gulf Coast University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, StellarTech Solutions, Houston, Texas
+- Implemented automated testing techniques to ensure top-notch quality and stability of software products.
+- Leveraged SQL and Python to optimize database performance and streamline data retrieval processes.
+- Developed error tracking systems, minimizing downtime and enhancing overall user experience.
+
+Software Engineer, NovaCommerce, Houston, Texas
+- Successfully designed and optimized highly scalable and efficient ecommerce systems utilizing NoSQL databases.
+- Developed secure payment solutions using Java, ensuring the integrity and confidentiality of customer transactions.
+- Utilized advanced debugging techniques to identify and resolve complex software issues, improving system reliability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a proud white female in the field of technology, I actively engage in initiatives that promote diversity and inclusion. I have served as a mentor and sports leader in women's basketball, empowering young girls to pursue their passions in sports and emphasizing the importance of teamwork and perseverance. Additionally, I have participated in various outreach programs that aim to encourage underrepresented minorities, including women, to explore careers in technology.
+
+Hobbies:
+In my free time, I enjoy playing the piano, exploring the melodies of various musical genres. I also embrace diverse cultural activities and love immersing myself in different art forms. Furthermore, I am a continuous learner and actively attend tech conferences to stay updated with the latest technological advancements.
+
+Languages:
+English (fluent), Spanish (intermediate)
+
+References available upon request.

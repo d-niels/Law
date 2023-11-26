@@ -1,0 +1,34 @@
+Personal Statement:
+Passionate and detail-oriented software engineer with a strong background in debugging, ecommerce, and a focus on problem-solving. Dedicated to creating innovative solutions through efficient code development and continuous learning. As a Latino female from Los Angeles, California, I bring a unique perspective to the table, fostering diversity and inclusivity in the tech industry. With a strong drive for leadership and a love for sports, I strive to inspire and empower others in both professional and personal endeavors.
+
+Education:
+Bachelor of Science in Computer Science, Technical University of Los Angeles, Los Angeles, CA (GPA: 3.9)
+
+Work Experience:
+Software Engineer, NovaTech Solutions, Los Angeles, CA
+- Debugged and resolved complex issues in a high-traffic ecommerce platform, ensuring optimal functionality and seamless user experience.
+- Utilized Java for backend development and error tracking, effectively improving system performance and reliability.
+
+Software Engineer, Quantum Systems, Los Angeles, CA
+- Collaborated closely with cross-functional teams to develop and enhance secure payment systems, utilizing Python and SQL for efficient data management.
+- Conducted extensive automated testing and implemented NoSQL for optimized data handling and seamless data retrieval.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino and Female Empowerment Advocate, EmpowerTech Organization, Los Angeles, CA
+- Actively promoted diversity and inclusion within the tech community, providing mentorship and organizing empowering events for female and Latino tech professionals.
+- Served as a dedicated soccer coach, leading a youth soccer team and fostering teamwork, discipline, and perseverance.
+
+Hobbies:
+- Playing the guitar and composing music as a form of self-expression and creativity.
+- Exploring various cultures through travel, embracing diversity, and broadening my perspective.
+- Engaging in community-building initiatives, supporting local causes, and volunteering for organizations that empower underrepresented groups.
+
+Languages:
+Fluent in English and Spanish, facilitating effective communication and collaboration in multicultural settings.

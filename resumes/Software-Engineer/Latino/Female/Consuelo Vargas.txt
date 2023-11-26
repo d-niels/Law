@@ -1,0 +1,48 @@
+Consuelo Vargas
+123 Main Street, Albuquerque, New Mexico 87101
+Phone: (555) 123-4567 | Email: consuelovargas@email.com
+
+Personal Statement:
+An ambitious and driven Latina software engineer with a passion for creating innovative solutions. Thrives in a fast-paced environment and excels at problem-solving. Strong background in programming languages, database technologies, and testing. Committed to leveraging technology to improve efficiency and user experience. Dedicated to promoting diversity and inclusion in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Southwest University, Albuquerque, New Mexico
+GPA: 3.9/4.0 | Year of Graduation: 20XX
+
+Work Experience:
+Senior Software Engineer, TechnoGenius Solutions, Albuquerque, New Mexico
+June 20XX - Present
+- Utilize Python, SQL, and secure payment protocols to develop cutting-edge payment systems for clients in the financial industry.
+- Collaborate with cross-functional teams to analyze requirements, design software architecture, and implement solutions.
+- Debug and resolve complex issues in existing software applications, ensuring optimal performance and customer satisfaction.
+- Lead team in adopting best practices for automated testing and continuous integration, streamlining software development processes.
+
+Software Developer, CyberSolutions, Albuquerque, New Mexico
+September 20XX - May 20XX
+- Developed Java-based ecommerce applications, integrating with various third-party APIs and implementing secure transaction processes.
+- Conducted automated testing to detect software errors and ensure the reliability and stability of applications.
+- Utilized NoSQL databases to optimize data storage and retrieval in high-load systems.
+- Employed error tracking tools to identify and resolve issues, minimizing downtime and enhancing user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry by mentoring underrepresented groups, including Latinx individuals and women.
+- Served as a sports team leader, coaching and mentoring young girls in basketball, fostering teamwork, confidence, and leadership skills.
+
+Hobbies:
+- Playing the guitar
+- Exploring diverse cultures through literature and travel
+- Promoting diversity and representation in media through content creation and blogging.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References:
+Available upon request.

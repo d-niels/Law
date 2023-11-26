@@ -1,0 +1,42 @@
+Hudson Underhill
+
+Personal Statement:
+Highly skilled and diligent software engineer with a passion for developing innovative solutions. Committed to delivering high-quality code and creating seamless user experiences. Eager to leverage my theoretical and practical knowledge to contribute to a dynamic software development team.
+
+Education:
+Bachelor of Science in Computer Science, Phoenix State University, Phoenix, Arizona
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer - Phoenix Technologies, Phoenix, Arizona
+- Developed and maintained Java-based applications for error tracking and secure payment processing.
+- Utilized SQL database technologies to optimize data storage and retrieval.
+- Collaborated with cross-functional teams to ensure product reliability and security.
+
+Software Developer - TechX E-commerce Solutions, Phoenix, Arizona
+- Developed robust e-commerce platforms using NoSQL databases, ensuring scalability and efficiency.
+- Implemented automated testing frameworks to improve code stability and reliability.
+- Conducted thorough debugging and troubleshooting processes to identify and resolve software defects.
+- Utilized Python to enhance system performance and streamline business operations.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively promoted diversity and inclusivity as a member of the Diversity in Tech Club at Phoenix State University.
+- Acted as a team captain and coach for a competitive basketball team, inspiring and mentoring players.
+- Conducted workshops on coding basics for underrepresented groups in collaboration with local community centers.
+
+Hobbies:
+- Playing the guitar to explore various genres and musical styles.
+- Participating in multicultural events and festivals, embracing diverse cultures and traditions.
+
+Languages:
+- Fluent in English and Spanish; strong communication skills in both languages.
+
+References:
+Available upon request.

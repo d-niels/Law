@@ -1,0 +1,41 @@
+Delfino Zavala
+
+Personal Statement:
+Motivated software engineer with a strong passion for developing innovative and user-friendly software solutions. Dedicated to leveraging extensive technical knowledge and problem-solving abilities to drive success in software development initiatives. Committed to continuous learning and staying abreast of emerging technologies to deliver cutting-edge results. As a Latino male from El Paso, Texas, I bring a unique perspective and valuable insights into software engineering, contributing to diverse and inclusive teams. I am also an avid soccer player, demonstrating leadership both on and off the field.
+
+Education:
+Bachelor of Science in Computer Science, Rio Grande University, El Paso, Texas (GPA: 3.9/4.0)
+
+Work Experience:
+Software Engineer, StellarTech Solutions, El Paso, Texas
+- Developed automated testing procedures to ensure the quality of e-commerce applications, streamlining testing processes and reducing time and effort required.
+- Utilized NoSQL databases to optimize data storage and retrieval for improved application performance.
+- Collaborated with cross-functional teams to enhance e-commerce platforms, resulting in increased revenue and customer satisfaction.
+- Leveraged Python to develop scalable backend solutions and integrate various services within the e-commerce ecosystem.
+
+Software Developer, TechWave Innovations, El Paso, Texas
+- Implemented efficient SQL queries to extract and manipulate data, contributing to effective data analysis and reporting processes.
+- Conducted rigorous debugging and error tracking to identify and rectify software defects, ensuring optimal software performance.
+- Developed secure payment gateways, adhering to industry standards to protect user data during transactions.
+- Utilized Java to create robust and user-friendly software solutions for clients across industries.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusivity in the tech community through mentorship programs, encouraging underrepresented individuals to pursue careers in software engineering.
+- Served as the captain and leader of a competitive soccer team, fostering teamwork, discipline, and leadership skills in players of diverse backgrounds.
+
+Hobbies:
+- Playing the guitar, allowing me to express creativity and unwind after a challenging day.
+- Participating in community cultural events, celebrating and showcasing diverse traditions and art forms without specific food or cuisine.
+- Engaging in various sports activities, particularly soccer, promoting physical well-being and teamwork.
+
+Languages:
+- Fluent: English, Spanish
+
+References available upon request.

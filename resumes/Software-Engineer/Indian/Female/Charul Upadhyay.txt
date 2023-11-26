@@ -1,0 +1,44 @@
+CHARUL UPADHYAY
+
+Personal Statement:
+Highly motivated and detail-oriented Software Engineer with a passion for problem-solving. Committed to delivering top-quality software solutions through strong skills in programming, testing, and debugging. Eager to contribute to a dynamic organization where technical expertise and creativity are valued.
+
+Education:
+Bachelor of Science in Computer Science, University of Southern California, Los Angeles, California
+- Graduated with a GPA of 3.9
+- Relevant coursework: Algorithms and Data Structures, Object-Oriented Programming, Database Systems
+
+Work Experience:
+
+Software Engineer - Innovision Tech Solutions, Los Angeles, CA
+- Developed scalable e-commerce applications using Python programming language
+- Implemented NoSQL and SQL database technologies to improve data retrieval and storage
+- Collaborated with cross-functional teams to analyze user requirements and develop innovative solutions
+- Ensured code quality by conducting automated testing and debugging activities
+
+Software Developer - TechNet Laboratories, Los Angeles, CA
+- Worked on Java-based applications for error tracking and secure payments
+- Utilized automated testing techniques to validate product functionality
+- Participated in debugging and troubleshooting efforts to identify and resolve software defects
+- Assisted in implementing source control practices using Git, leading to a more efficient development workflow
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusivity as an Indian female software engineer, advocating for equal opportunities for underrepresented communities in the tech industry
+- Served as a soccer coach and leader, mentoring and guiding a youth soccer team to success in regional tournaments, promoting teamwork and discipline
+- Engaged in various women-in-tech initiatives, empowering and supporting fellow female professionals in navigating the tech industry
+
+Hobbies:
+- Playing classical guitar and composing music, expressing creativity and cultural diversity through melodies
+- Participating in multicultural events, embracing and sharing different ethnic traditions and customs
+
+Languages:
+- Fluent in English and Hindi, with a basic understanding of Spanish
+
+References available upon request.

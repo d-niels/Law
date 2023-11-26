@@ -1,0 +1,43 @@
+Tiffany Matthews
+
+Personal Statement:
+A highly motivated and detail-oriented software engineer with a passion for problem-solving and creating efficient and scalable solutions. Dedicated to enhancing user experiences through innovative software development. Committed to diversity and inclusion in the tech industry, leveraging unique perspectives as a black female to bring valuable contributions to the table. Seeking a challenging role as a software engineer to utilize my technical skills, expertise, and leadership abilities.
+
+Education:
+Bachelor of Science in Computer Science, Detroit City University, Detroit, Michigan
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern, Luminary Tech Solutions, Detroit, Michigan (May 2019 - Aug 2019)
+- Utilized programming languages, such as Python and Java, to develop and maintain software applications.
+- Conducted automated testing to identify and resolve software defects, ensuring high-quality deliverables.
+- Utilized SQL to design and implement efficient database structures, improving data retrieval and manipulation processes.
+
+Software Engineer, Archon Software Innovations, Detroit, Michigan (Sept 2019 - Present)
+- Proficiently tracked and resolved errors in software systems, enhancing overall reliability and user satisfaction.
+- Implemented NoSQL databases to optimize data storage and retrieval for an e-commerce platform.
+- Collaborated with cross-functional teams to debug and resolve issues and ensure secure payment transactions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Women in Tech Advocate, Detroit Tech Diversity Initiative, Detroit, Michigan (2017 - Present)
+- Act as a mentor and role model for aspiring black females pursuing careers in the tech industry.
+- Organize events and workshops focused on diversity and inclusion to inspire and empower underrepresented individuals.
+
+Sports Leadership - Basketball, Detroit Youth Athletics Association, Detroit, Michigan (2018 - 2020)
+- Coached and mentored a basketball team, promoting teamwork, discipline, and leadership skills.
+
+Hobbies:
+Playing the saxophone, hiking, photography, exploring different cultures, and promoting diversity in the arts.
+
+Languages:
+Fluent in English and French.
+
+References:
+Available upon request.

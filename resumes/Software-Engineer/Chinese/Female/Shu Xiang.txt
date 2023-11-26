@@ -1,0 +1,36 @@
+Personal Statement:
+As a highly motivated and detail-oriented software engineer, I am dedicated to delivering innovative software solutions. With a strong background in computer science and a passion for problem-solving, I am excited to contribute my skills to a dynamic team. My commitment to excellence, combined with my multicultural background, adds a unique perspective to my work. With a strong focus on diversity and inclusion, I strive to create a more inclusive tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Francisco, CA
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Stellar Technologies, San Jose, CA
+- Developed automated testing scripts using industry-standard tools
+- Proficient in Java programming language for in-depth software debugging
+- Utilized NoSQL databases to enhance application performance and scalability
+
+Software Developer, Nova Solutions, San Francisco, CA
+- Designed and implemented secure payment systems for e-commerce platforms
+- Developed error tracking mechanisms to improve software reliability
+- Proficient in Python programming language for efficient coding and problem-solving
+- Utilized SQL databases and e-commerce technologies to facilitate smooth transactions
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion within the tech industry, advocating for women's representation and supporting underrepresented minorities
+- Served as a leader in a local basketball team, promoting teamwork and leveraging individual strengths to achieve common goals
+
+Hobbies:
+- Playing the Guzheng, a traditional Chinese musical instrument
+- Exploring multicultural literature to broaden cultural understanding
+- Engaging in cultural exchange programs to foster global connections
+
+Languages: English (fluent), Mandarin Chinese (native)

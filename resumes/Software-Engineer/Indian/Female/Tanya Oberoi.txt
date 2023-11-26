@@ -1,0 +1,40 @@
+Tanya Oberoi
+
+Personal Statement:
+Highly motivated and innovative software engineer with a strong passion for problem-solving and creating efficient solutions. Dedicated to utilizing my skills in automated testing, secure payments, NoSQL, and ecommerce to develop cutting-edge software applications. Committed to continuous learning and self-improvement in order to stay up-to-date with the latest industry trends. 
+
+Education:
+Bachelor of Science in Computer Science, University of Southern California, Los Angeles, California (GPA: 3.9)
+
+Work Experience:
+Software Engineer, InnovateTech Solutions, Los Angeles, California (2019-2021)
+- Developed automated testing procedures to ensure the quality and efficiency of software products
+- Implemented secure payment systems for seamless and protected transactions
+- Utilized NoSQL databases to optimize data storage and retrieval for high-performance applications
+- Contributed to the development of an ecommerce platform, enhancing user experience and increasing sales
+
+Software Developer, QuantumSoft, Los Angeles, California (2017-2019)
+- Worked with SQL databases to design and optimize data storage and retrieval procedures
+- Performed error tracking and debugging to identify and fix software issues
+- Utilized Python and Java to develop software applications meeting client requirements
+- Employed various debugging techniques to identify and resolve system malfunctions
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively supported initiatives promoting diversity in the tech industry as an Indian female software engineer
+- Served as the team captain for the Los Angeles Eagles, a professional Ultimate Frisbee team, fostering teamwork and strategic play
+
+Hobbies:
+- Playing the piano
+- Actively participating in cultural events and promoting diversity and inclusion both personally and professionally
+
+Languages:
+- Fluent in English and Hindi
+
+Note: This resume includes fictional information and should be used for illustrative purposes only.

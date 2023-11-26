@@ -1,0 +1,43 @@
+Personal Statement:
+
+As a dedicated and accomplished software engineer, I thrive on challenging myself and pushing the boundaries of technology. With a solid educational foundation in computer science and unwavering determination, I am well-equipped to make a valuable impact in the field of software engineering. I am driven by the opportunity to create innovative solutions and contribute to the advancement of technology. My commitment to diversity and inclusion, as well as my leadership experience, adds depth to my ability to collaborate effectively within diverse teams.
+
+Education:
+
+Bachelor of Science in Computer Science, Stellar University, San Francisco, CA
+- GPA: 3.9
+
+Work Experience:
+
+Software Engineer - QuantumByte Technologies, San Diego, CA
+- Developed and maintained scalable NoSQL databases, utilizing advanced error tracking systems to optimize software performance and efficiency.
+- Utilized SQL queries to analyze and enhance ecommerce platforms, resulting in substantial revenue growth.
+- Collaborated with cross-functional teams to ensure seamless integration of software components and exceptional user experiences.
+- Implemented secure payment systems, ensuring data protection and privacy for customers.
+
+Software Developer - TechnoLogic Innovations, San Diego, CA
+- Proficiently programmed in Python, Java, and played a key role in debugging and analyzing complex software systems.
+- Contributed to the development of state-of-the-art secure payment gateways, safeguarding transaction data and customer information.
+- Conducted thorough automated testing, guaranteeing high-quality software products and minimizing potential risks.
+- Collaborated closely with diverse teams to optimize software functionality and elevate user satisfaction.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+- Active member and organizer of the Women in Computer Science community, advocating for diversity and inclusivity in the technology industry.
+- Served as a team leader in a local basketball league, fostering sports participation among underrepresented groups and promoting leadership skills.
+
+Hobbies:
+
+- Playing the piano, finding solace in creating beautiful melodies.
+- Exploring diverse cultures through travel, immersing in unique traditions and broadening perspectives.
+- Pursuing photography, capturing breathtaking landscapes and urban panoramas.
+
+Languages:
+- Fluent in English and Spanish.

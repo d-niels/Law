@@ -1,0 +1,46 @@
+Personal Statement:
+As a black female from Jacksonville, Florida, Destiny Carter brings an unwavering dedication and passion to the field of software engineering. With a relentless pursuit of knowledge and a commitment to excellence, she is determined to make a significant impact in the tech industry. Destiny is driven by her desire to create innovative solutions while advocating for diversity and inclusion.
+
+Education:
+Bachelor of Science in Computer Science
+Sunshine State University, Miami, Florida
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | TechnoGen Inc., Jacksonville, Florida
+- Utilized SQL and NoSQL databases for efficient data management and retrieval.
+- Employed error tracking and debugging techniques to identify and resolve software issues promptly.
+- Collaborated with cross-functional teams to develop and maintain scalable software applications.
+- Contributed to the integration of software solutions across various platforms.
+
+Software Development Intern | NexTech Solutions, Tampa, Florida
+- Developed a secure payment system for an ecommerce platform, ensuring protected transactions.
+- Employed automated testing methodologies to optimize software quality assurance.
+- Utilized Java and Python to develop and maintain software applications.
+- Participated in code reviews and assisted with identifying and rectifying software defects.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+The Essence of Empowerment – Founder and President
+- Founded and presided over a non-profit organization dedicated to empowering minority women in the tech industry.
+- Conducted mentorship programs and workshops to promote diversity, inclusion, and leadership development.
+- Provided scholarships and financial support to underrepresented students pursuing computer science degrees.
+- Mentored young minority female athletes, fostering leadership and teamwork in their chosen sport, basketball.
+
+Hobbies:
+- Playing the violin, showcasing her artistic side and passion for music.
+- Exploring diverse cultural traditions through dance and performance.
+- Engaging in community art projects that celebrate multiculturalism.
+- Passionate about promoting diversity and advocating for gender and racial equality in the tech industry.
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)
+
+References available upon request.

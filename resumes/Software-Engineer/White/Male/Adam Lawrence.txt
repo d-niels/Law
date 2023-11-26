@@ -1,0 +1,43 @@
+Personal Statement:
+Highly skilled software engineer with a passion for developing innovative solutions. Committed to solving complex technical challenges and delivering quality results. Strong analytical thinking and problem-solving abilities combined with effective communication skills to collaborate with cross-functional teams. Continuously updating knowledge in the ever-evolving field of software engineering. Dedicated to contributing to the advancement of the industry.
+
+Education:
+Bachelor of Science in Computer Science - University of Miami, Miami, FL
+GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer - TechGenius Inc., Jacksonville, FL (2018-2020)
+- Developed and maintained Java-based applications, ensuring adherence to coding standards.
+- Utilized SQL to design and optimize database schemas and queries, improving overall performance.
+- Implemented automated testing procedures, resulting in significant time and cost savings.
+- Utilized error-tracking tools to identify and resolve software issues proactively.
+
+Junior Software Engineer - Innov8 Solutions, Jacksonville, FL (2017-2018)
+- Conducted rigorous debugging activities to identify and resolve software defects efficiently.
+- Worked extensively with NoSQL databases for data storage and retrieval.
+- Collaborated with cross-functional teams to create an e-commerce platform, delivering secure payment solutions.
+- Developed and maintained Python-based applications, meeting stringent project deadlines.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Volunteer Youth Mentor - Jacksonville Youth Center, Jacksonville, FL (2016-2018)
+- Mentored and supported at-risk youth, fostering a positive and inclusive environment.
+- Assisted with academic activities, providing guidance on computer science projects.
+- Organized basketball leadership programs, promoting teamwork, discipline, and leadership skills among participants.
+
+Hobbies:
+- Playing the guitar
+- Exploring diverse cultures through travel and music
+- Supporting local community organizations focused on diversity and inclusion efforts
+
+Languages:
+- Fluent in English
+- Proficient in Spanish

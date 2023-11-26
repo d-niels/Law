@@ -1,0 +1,39 @@
+Aaliyah Brooks
+
+Personal Statement:
+Motivated software engineer with a passion for developing innovative solutions to complex problems. Dedicated to utilizing my technical skills, strong work ethic, and natural problem-solving abilities to contribute effectively to software development projects. As a black female from Memphis, Tennessee, I am committed to promoting diversity and inclusion in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Memphis Technical University, Memphis, Tennessee
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, Innovations Unlimited, Memphis, TN
+- Developed and maintained software applications using Python, debugging, SQL, and Java.
+- Collaborated with cross-functional teams to identify and resolve software defects, ensuring high-quality deliverables.
+- Utilized efficient SQL queries to optimize database performance.
+
+Software Developer, TechSolutions Inc., Memphis, TN
+- Specialized in error tracking, eCommerce solutions, automated testing, NoSQL, and secure payments.
+- Conducted comprehensive testing to ensure software reliability and user satisfaction.
+- Developed customized solutions by closely working with clients to understand their requirements.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry by mentoring young black women interested in pursuing a career in technology.
+- Sports Leadership Role: Captain of the Memphis Technical University Women's Volleyball Team, leading the team to multiple championships and fostering an inclusive and empowering environment.
+
+Hobbies:
+- Playing the piano and guitar to relax and express creativity
+- Engaging in community activities focused on promoting cultural diversity and empowerment
+
+Languages:
+- Fluent in English and Spanish
+
+References available upon request.

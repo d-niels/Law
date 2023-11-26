@@ -1,0 +1,42 @@
+Personal Statement:
+
+As a dedicated and ambitious software engineer, I, Peyton Osborne, am passionate about leveraging my technical skills to drive innovation and create impactful solutions. Hailing from the vibrant city of Memphis, Tennessee, as a black female in the field, I am committed to breaking barriers and being a trailblazer for underrepresented communities. With a Bachelor of Science in Computer Science and a strong academic background, I am ready to contribute my expertise to the role of software engineer and make a meaningful impact.
+
+Education:
+
+Bachelor of Science in Computer Science
+University of Michigan, Ann Arbor, Michigan
+
+- GPA: 3.9
+
+Work Experience:
+
+Software Engineer, InnovateTech Solutions, Memphis, TN 
+
+- Developed and executed automated tests to ensure software quality, streamline processes, and reduce errors.
+- Utilized proficient debugging techniques and tools to identify and resolve issues promptly.
+- Leveraged error tracking systems to effectively monitor and track errors, contributing to improved software performance.
+- Proficient in Java programming language for efficient application development.
+
+Software Engineering Intern, E-Verse Systems, Memphis, TN 
+
+- Collaborated with a dynamic team to design and implement secure payment solutions for an innovative e-commerce platform.
+- Utilized Python to develop scalable and robust code for the seamless processing of transactions.
+- Worked with SQL and NoSQL databases to optimize data storage and retrieval, ensuring excellent system performance.
+- Contributed to the enhancement of various features for the e-commerce platform.
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Driven by my commitment to diversity and empowerment, I actively engage in mentoring young black female engineers, encouraging them to pursue their passions in the tech industry. As a leader on the basketball court, I have honed my skills not only in the game but also in fostering resilience, teamwork, and discipline.
+
+Hobbies:
+
+In my spare time, I find solace and creative expression in playing the piano. Additionally, I am an advocate for equality and social justice, actively participating in community initiatives that promote inclusivity and empower marginalized groups.

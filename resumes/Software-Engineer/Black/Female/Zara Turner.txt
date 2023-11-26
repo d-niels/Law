@@ -1,0 +1,51 @@
+Zara Turner
+
+Software Engineer | Memphis, Tennessee | zaraturner@email.com | (123) 456-7890
+
+Personal Statement:
+Motivated and detail-oriented software engineer with a background in computer science, seeking a challenging role to utilize my skills in software development and problem-solving. Passionate about creating efficient and secure solutions, I strive to bridge the gap between technology and users through innovative software applications. Committed to collaboration and continuous learning, I am excited to contribute to a dynamic and diverse team.
+
+Education:
+Bachelor of Science in Computer Science, May 2021
+Magnolia State University, Jackson, Mississippi
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, StellarTech Solutions, Memphis, TN
+June 2021 - Present
+- Developed and executed automated testing procedures to ensure quality and efficiency.
+- Utilized NoSQL databases to optimize data storage and retrieval processes.
+- Effectively debugged and resolved software issues to maintain product integrity.
+- Utilized Java programming language for software development and enhancement.
+
+Software Development Intern, QuantumTech Innovations, Memphis, TN
+May 2020 - August 2020
+- Utilized SQL to design and implement database solutions for an e-commerce platform.
+- Collaborated with cross-functional teams to develop, test, and deploy software products.
+- Employed Python to build and integrate error tracking and secure payment systems into existing applications.
+- Conducted thorough testing and debugging to ensure software functionality and efficiency.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Black Women in Tech, Member
+- Actively engage in promoting diversity and inclusion in the tech industry while mentoring black women pursuing careers in software engineering.
+
+Sports Leadership, Team Captain, Women's Volleyball League
+- Demonstrated strong leadership skills as the team captain for a competitive women's volleyball league, fostering collaboration and maintaining team motivation to achieve common goals.
+
+Hobbies:
+Playing the piano – Trained pianist, playing classical and contemporary compositions.
+Exploring different cultures – Engaged in learning about diverse ethnic traditions, history, and art forms.
+Advocating for gender equality – Actively involved in supporting initiatives that promote gender equality in various spheres of life.
+
+Languages:
+Fluent in English and Spanish.
+
+References:
+Available upon request.

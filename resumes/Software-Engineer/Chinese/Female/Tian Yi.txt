@@ -1,0 +1,37 @@
+Personal Statement:
+I am an ambitious and dedicated software engineer with a drive to create innovative solutions that impact the world. As a Chinese female raised in the diverse and dynamic city of New York, I bring a unique perspective and a strong adaptability to any team. Leveraging my exceptional education and work experience, I am committed to pushing boundaries and advancing the field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science - New York City Tech University, New York, New York
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - Innovex Solutions, New York, New York
+- Developed and maintained highly efficient SQL and NoSQL databases, optimizing data storage and retrieval processes.
+- Utilized advanced debugging and error tracking tools to identify and resolve software issues, ensuring optimal performance.
+- Collaborated closely with cross-functional teams to enhance product functionality and elevate user experience.
+
+Software Engineer - Spectrum Systems, New York, New York
+- Specialized in secure payments integration and e-commerce solutions, ensuring seamless and secure payment transactions.
+- Utilized Python and Java to architect and maintain cutting-edge software applications.
+- Developed and implemented automated testing frameworks, enabling efficient quality assurance and ensuring software reliability.
+- Collaborated closely with the development team to debug and resolve issues in a timely manner.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Dedicated leader within the university's Asian Cultural Association, organizing events and initiatives to celebrate and promote cultural diversity.
+- Sports leadership role as captain of the university's badminton team, consistently leading the team to victory in regional tournaments and fostering a strong sense of camaraderie.
+
+Hobbies:
+- Playing the traditional Chinese instrument, Guzheng, and captivating audiences with soul-stirring performances.
+- Exploring the eclectic neighborhoods of New York City, immersing myself in its vibrant arts and cultural scene.
+- Engaging in outdoor activities such as hiking and swimming to maintain an active and balanced lifestyle.
+
+Languages:
+- Fluent in English and Mandarin Chinese, facilitating seamless communication and fostering collaboration within diverse teams.

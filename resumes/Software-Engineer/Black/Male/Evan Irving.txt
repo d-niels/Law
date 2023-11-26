@@ -1,0 +1,41 @@
+Evan Irving
+
+Personal Statement:
+Dedicated and results-driven software engineer with a passion for solving complex problems. Adept at developing innovative software solutions, optimizing performance, and ensuring secure transactions. Committed to continuous learning and staying at the forefront of evolving technologies. As a black male hailing from Detroit, Michigan, I am proud to bring diversity and inclusivity to the tech industry, contributing my unique perspective and experiences to foster a more equitable environment.
+
+Education:
+Bachelor of Science in Computer Science, Motor City University, Detroit, Michigan (GPA: 3.9)
+Relevant coursework: Data Structures and Algorithms, Object-Oriented Programming, Software Engineering, Database Systems, Web Development.
+
+Work Experience:
+Software Engineer | Stellar Technologies, Detroit, Michigan | May 2019 - Present
+- Developed and maintained SQL and NoSQL databases for a cutting-edge ecommerce platform, ensuring efficient and secure payment handling.
+- Collaborated with cross-functional teams to enhance system reliability, identify and fix errors, and implement automated testing tools.
+- Contributed to the design and implementation of various modules, optimizing performance and user experience.
+
+Software Developer | TechWorks LLC, Detroit, Michigan | June 2017 - April 2019
+- Utilized advanced error tracking and debugging techniques to uncover and resolve software issues in Python-based applications.
+- Conducted extensive automated testing using Python and Java to ensure the functionality and stability of software products.
+- Collaborated with a team of skilled developers to deliver high-quality software solutions within project timelines.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer at Tech Diversity Initiative: Mentored aspiring black software engineers, providing guidance and support to foster diversity and inclusion in the tech industry.
+- Leadership Role in Basketball: Served as a coach and mentor for a youth basketball league, promoting teamwork, discipline, and healthy competition within Detroit's black community.
+
+Hobbies:
+- Playing the saxophone, embracing the soulful sounds in Motown classics and jazz compositions.
+- Exploring diverse cultures through travel, connecting with people from various backgrounds to foster understanding and appreciation.
+- Engaging in community service initiatives focused on empowering underrepresented communities.
+
+Languages:
+- English (Native)
+- French (Proficient)
+
+References available upon request.

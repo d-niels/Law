@@ -1,0 +1,38 @@
+Personal Statement:
+I am a highly motivated software engineer with a strong background in computer science and a passion for solving complex problems. As a Chinese female from Los Angeles, I bring a unique perspective to the field, combining my diverse cultural experiences with my technical expertise. With excellent programming skills and a commitment to delivering high-quality software solutions, I strive to contribute to the advancement of technology and make a positive impact in the industry.
+
+Education:
+Bachelor of Science in Computer Science
+Pacific City University, Los Angeles, California
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechStix Solutions, Los Angeles, CA
+- Developed and maintained scalable software solutions using NoSQL databases, Java, and secure payment technologies.
+- Utilized advanced debugging techniques to identify and resolve complex software issues promptly.
+- Collaborated with cross-functional teams to ensure seamless integration of payment solutions into existing systems.
+
+Software Engineer Intern, E-Marketplace Solutions, Los Angeles, CA
+- Implemented error tracking mechanisms to identify and fix critical software issues, improving overall reliability and user experience.
+- Utilized Python to automate testing processes, reducing testing time by 50%.
+- Worked closely with the development team to enhance ecommerce functionalities using SQL queries.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Chinese American Cultural Association, Pacific City University
+- Served as the Sports Leadership Coordinator, organizing and leading basketball events for Chinese students to foster community and promote physical fitness.
+- Volunteered as a mentor for female computer science students, providing guidance and support to empower their careers in technology.
+
+Hobbies:
+- Playing the guzheng, a traditional Chinese string instrument
+- Exploring diverse cultures through travel and learning new languages
+
+Languages:
+- English (Fluent)
+- Chinese (Mandarin and Cantonese)

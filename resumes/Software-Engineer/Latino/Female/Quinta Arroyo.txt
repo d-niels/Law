@@ -1,0 +1,39 @@
+Quinta Arroyo
+
+Personal Statement:
+A highly motivated software engineer with a passion for developing robust and innovative solutions. With a strong foundation in computer science and proficiency in various programming languages, I am equipped to tackle complex challenges and create efficient software systems. As a Latina female from Houston, Texas, I am dedicated to promoting diversity, inclusivity, and representation in the tech industry. I firmly believe that diverse voices and perspectives drive innovation and lead to the creation of more inclusive technology.
+
+Education:
+Bachelor of Science in Computer Science, Houston Tech University, Houston, Texas
+- GPA: 3.9
+
+Work Experience:
+Software Engineer - Innovix Solutions, Houston, Texas
+- Developed and maintained Java and Python applications for a cutting-edge e-commerce platform.
+- Ensured secure payment processing and implemented robust encryption protocols.
+- Collaborated with cross-functional teams to deliver high-quality software solutions, focusing on seamless user experience and optimal performance.
+
+Software Engineer Intern - Nexen Systems, Houston, Texas
+- Utilized automated testing tools to improve software quality and reduce bugs.
+- Worked extensively with SQL and NoSQL databases to optimize data storage and retrieval.
+- Assisted senior engineers in debugging and error tracking to resolve issues promptly, ensuring smooth system operations.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry, specifically advocating for the advancement of Latinx and female professionals.
+- Served as a team leader in a local soccer league, inspiring young Latina girls to excel in the sport and fostering a sense of camaraderie and empowerment.
+
+Hobbies:
+- Playing the piano and embracing the expressive nature of music.
+- Attending cultural festivals and events, immersing myself in diverse art forms and traditions.
+
+Languages:
+- Bilingual: English and Spanish
+
+References available upon request.

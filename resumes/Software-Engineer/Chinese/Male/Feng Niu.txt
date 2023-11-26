@@ -1,0 +1,34 @@
+Personal Statement:
+Dedicated and highly motivated Chinese male software engineer with a strong passion for technology and innovation. Experienced in diverse programming languages and proficient in database technologies. Committed to delivering high-quality software solutions while leveraging analytical skills and debugging techniques to solve complex problems.
+
+Education:
+Bachelor of Science in Computer Science
+University of Washington, Seattle, Washington
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern, Innovatrix Systems, Seattle, WA
+- Developed automated testing scripts using Python and SQL to ensure software quality
+- Utilized error tracking tools to identify and resolve issues efficiently
+
+Senior Software Engineer, TechnoLogic Solutions, Seattle, WA
+- Implemented secure payment mechanisms and ecommerce functionalities
+- Debugged software applications utilizing Java and NoSQL databases
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion within the tech community, highlighting the contributions of individuals from all backgrounds, including my Chinese heritage
+- Served as a team captain for the local soccer team, leading multicultural groups and fostering teamwork
+
+Hobbies:
+- Playing the erhu, a traditional Chinese musical instrument, to preserve and celebrate cultural heritage
+- Engaging in cross-cultural exchanges and exploring diverse art forms to promote understanding and appreciation
+
+Languages:
+Fluent in English and Mandarin Chinese. Also proficient in Cantonese.

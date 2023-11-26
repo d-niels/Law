@@ -1,0 +1,60 @@
+**CONNER OSBORNE**
+*Software Engineer*
+
+*Address:* San Antonio, Texas | *Phone:* (555) 123-4567 | *Email:* connor.osborne@email.com
+
+---
+
+**Personal Statement**
+An enthusiastic and dedicated software engineer with a passion for creating innovative solutions. With a strong foundation in computer science, I strive to leverage my technical skills and problem-solving abilities to develop efficient and robust software applications. I am committed to promoting diversity, equity, and inclusivity within the tech industry.
+
+---
+
+**Education**
+- Bachelor of Science in Computer Science | Lone Star University, San Antonio, Texas | May 2022
+   - GPA: 3.9/4.0
+
+---
+
+**Work Experience**
+
+**Software Engineer Intern** | Synergetix Innovations, Austin, TX | June 2021 - December 2021
+- Developed and maintained Java-based web applications, implementing SQL queries for data retrieval and manipulation.
+- Utilized Python for error tracking and debugging, ensuring smooth operation of software systems.
+
+**Software Engineer Intern** | Phoenix Technologies, Seattle, WA | May 2020 - August 2020
+- Contributed to the development of an eCommerce platform, focusing on secure payments and automated testing.
+- Employed NoSQL databases and debugging techniques to improve system efficiency and address user-reported issues.
+
+---
+
+**Skills**
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+---
+
+**Volunteer & Leadership**
+- **Diversity and Inclusion Advocate** | Lone Star University, San Antonio, TX | September 2019 - May 2022
+   - Actively participated in promoting diversity, equity, and inclusivity within the campus community, advocating for underrepresented groups.
+   - Organized and led initiatives to increase awareness and understanding of different cultures, races, and genders.
+
+- **Basketball Team Captain** | San Antonio Community League | June 2018 - August 2019
+   - Demonstrated strong leadership skills as the captain of a competitive basketball team.
+   - Mentored and motivated team members, fostered team cohesion, and led the team to several victories.
+
+---
+
+**Hobbies**
+In my free time, I enjoy playing the saxophone, which allows me to explore my creative side through music. Additionally, I am an avid traveler, always eager to experience and learn about new cultures. I appreciate exploring different perspectives and embracing diversity.
+
+---
+
+**Languages**
+- English (Fluent)
+- Spanish (Intermediate)
+
+---

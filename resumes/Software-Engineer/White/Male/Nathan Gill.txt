@@ -1,0 +1,38 @@
+Personal Statement:
+I am a diligent and innovative software engineer with a deep passion for creating efficient and cutting-edge solutions. Through my comprehensive education and experience, I have developed a strong proficiency in various programming languages and database technologies. With my keen problem-solving and analytical skills, I am eager to contribute to a dynamic team in a software engineering role.
+
+Education:
+Bachelor of Science in Computer Science, Phoenix State University, Phoenix, Arizona | GPA: 3.9
+
+Work Experience:
+Software Engineer - TechnoLogic Corporation, Phoenix, Arizona
+- Leveraged Python to develop and enhance software functionalities
+- Conducted thorough debugging and troubleshooting to address any issues
+- Implemented robust automated testing methods for efficient code validation
+- Utilized advanced error-tracking techniques to optimize software performance
+
+Software Developer - CyberTech Solutions, Phoenix, Arizona
+- Developed and maintained secure and scalable ecommerce platforms using Java and SQL
+- Implemented secure payment systems, ensuring the integrity of financial transactions
+- Utilized NoSQL databases to optimize data storage and retrieval processes
+- Collaborated with cross-functional teams to deliver high-quality software solutions
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role - Phoenix State University Soccer Team
+- Led and mentored a diverse group of athletes, fostering inclusivity and teamwork
+- Organized and conducted team training sessions and game strategies, ensuring optimal performance
+
+Hobbies:
+- Passionate guitarist, regularly playing and composing music
+- Immersing myself in various cultures through traveling and exploring local music scenes
+- Engaging in competitive soccer matches and basketball games to maintain an active lifestyle
+
+Languages:
+- Fluent in English and Spanish

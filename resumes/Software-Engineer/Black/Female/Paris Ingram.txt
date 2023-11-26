@@ -1,0 +1,40 @@
+Paris Ingram
+
+Personal Statement:
+Driven by my passion for technology and commitment to diversity, I am an innovative software engineer determined to make a meaningful impact in the industry. With a bachelor's degree in computer science and a track record of success in previous roles, I am eager to leverage my skills and contribute to the development of cutting-edge software solutions.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Harriet Tubman University, Baltimore, Maryland
+
+Work Experience:
+Software Engineer Intern
+TechDynamics Inc., Baltimore, Maryland (May 2019 - August 2019)
+- Utilized SQL to design and implement a secure payments system, facilitating seamless transactions and enhancing user experience.
+- Contributed to debugging and error tracking efforts, ensuring high software stability and functionality.
+
+Junior Software Engineer
+InnovationTech Solutions, Baltimore, Maryland (September 2019 - Present)
+- Developed robust ecommerce systems using Python and NoSQL, optimizing sales processes and improving customer satisfaction.
+- Collaborated with a cross-functional team to integrate Java-based modules, expanding software capabilities and efficiency.
+- Conducted automated testing to identify and rectify software defects, ensuring top-notch quality and reliability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Advocate for diversity and inclusion within the tech industry, particularly focusing on uplifting and empowering underrepresented communities, such as black females in STEM fields.
+- Sports Leadership: As a prominent leader and athlete in track and field, I contribute to fostering teamwork, discipline, and determination within my team.
+
+Hobbies:
+- Playing the saxophone to celebrate and express the artistic contributions of the black community through music.
+- Engaging in multicultural dance activities to appreciate and showcase the diversity of different ethnic backgrounds.
+
+Languages:
+- Fluent in English and French.
+
+References available upon request.

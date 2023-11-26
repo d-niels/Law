@@ -1,0 +1,33 @@
+Personal Statement:
+I am an ambitious and driven software engineer with a passion for creating innovative and effective software solutions. With a strong academic background in computer science and hands-on experience in implementing cutting-edge technologies, I am seeking a challenging role where I can contribute my technical expertise and problem-solving skills to drive software development initiatives.
+
+Education:
+Bachelor of Science in Computer Science, Liberty University, New York, NY
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Stellar Technologies, New York, NY
+- Developed secure payment systems and integrated them into an advanced e-commerce platform
+- Debugged and resolved complex software issues effectively
+- Utilized SQL to optimize and manage database operations efficiently
+
+Software Developer, Innovate Solutions, New York, NY
+- Implemented error tracking systems to monitor and resolve software issues proactively
+- Developed software applications using Java, Python, and various programming languages
+- Conducted automated testing and utilized NoSQL databases for seamless data management
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a proud Chinese male contributing to the software engineering field, I have actively advocated for diversity and inclusivity within the technology community. In addition, I have demonstrated leadership qualities as the captain of a competitive basketball team, where I successfully managed and inspired a diverse group of individuals toward achieving common goals.
+
+Hobbies:
+In my leisure time, I find immense joy in playing the erhu, a traditional Chinese musical instrument. I also have a deep appreciation for diverse cultures, literature, and enjoy staying physically active through my passion for basketball.
+
+Languages:
+Fluent in English and Mandarin Chinese.

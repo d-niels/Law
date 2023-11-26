@@ -1,0 +1,46 @@
+Om Uppal
+Houston, Texas • (123) 456-7890 • omuppal@email.com
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a passion for creating innovative solutions. Dedicated to delivering quality products while adhering to industry best practices and standards. Committed to continuous learning and staying up-to-date with emerging technologies. Strives to promote cultural diversity and inclusion in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, University of Texas at Houston
+GPA: 3.9/4.0, Date of Graduation: May 20XX
+
+Work Experience:
+Software Engineer, TechGenius Solutions, Houston, Texas
+January 20XX - Present
+- Developed automated testing processes, reducing manual effort by 80% and ensuring software reliability.
+- Implemented secure payment systems and enhanced e-commerce functionality, resulting in improved customer experiences.
+- Utilized error tracking tools to identify and resolve software defects, ensuring seamless user experiences.
+
+Junior Software Developer, VirtuTech Systems, Houston, Texas
+June 20XX - December 20XX
+- Collaborated with cross-functional teams to design and develop Java and Python-based applications.
+- Utilized NoSQL and SQL databases for efficient data management and retrieval.
+- Debugged and resolved complex issues to improve software performance and stability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate, University of Texas at Houston
+- Mentored students from diverse backgrounds, providing support and guidance in navigating academic and personal challenges.
+- Organized cultural events to celebrate and promote diversity within the campus community.
+
+Team Captain, Houston City Baseball League
+- Led a team of skilled baseball players in weekly practices and competitive matches.
+- Coordinated league events, handling scheduling, logistics, and communication with league officials.
+
+Hobbies:
+Playing the tabla (Indian percussion instrument), Cricket, Exploring diverse cultures and languages
+
+Languages:
+English, Hindi
+
+References available upon request.

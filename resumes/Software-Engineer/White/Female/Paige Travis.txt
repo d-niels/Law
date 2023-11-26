@@ -1,0 +1,45 @@
+Paige Travis
+Jacksonville, Florida • (123) 456-7890 • paigetravis@email.com
+
+Personal Statement:
+Enthusiastic and versatile software engineer with a strong background in computer science. Skilled in multiple programming languages, database technologies, source control, testing and debugging, and problem-solving. Committed to utilizing technical expertise to develop innovative solutions and enhance user experiences. Eager to contribute to a dynamic team and make a positive impact in the software engineering field.
+
+Education:
+Bachelor of Science in Computer Science, Coastal University, Jacksonville, Florida
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, NovaTech Solutions, Jacksonville, Florida
+June 2018 – Present
+- Developed and maintained Java-based applications for a cutting-edge e-commerce platform
+- Implemented an advanced error tracking system to identify and resolve software discrepancies swiftly
+- Collaborated with cross-functional teams to seamlessly integrate e-commerce functionalities and ensure optimal performance
+- Utilized SQL for efficient database management and optimized query performance
+
+Software Developer, StellarSoft Technologies, Jacksonville, Florida
+December 2016 – May 2018
+- Designed and implemented highly secure payment systems using Python for a leading financial technology solution
+- Led the implementation of automated testing practices, resulting in a significant reduction in software defects
+- Conducted thorough debugging and troubleshooting activities to identify and resolve software issues promptly
+- Utilized NoSQL databases to efficiently manage and retrieve large volumes of data
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the technology industry, advocating for equal opportunities for underrepresented groups
+- Volunteered as a mentor for aspiring software engineers from diverse backgrounds, providing guidance and support for their career development
+- Held a leadership role as a basketball coach, fostering teamwork, discipline, and sportsmanship among players
+
+Hobbies:
+- Playing the piano, finding solace and creativity through music
+- Engaging in outdoor activities such as hiking and kayaking, embracing the beauty of nature and staying active
+
+Languages:
+- Fluent in English and Spanish
+
+References available upon request.

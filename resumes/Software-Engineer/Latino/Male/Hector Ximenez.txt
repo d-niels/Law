@@ -1,0 +1,36 @@
+Hector Ximenez
+
+Personal Statement:
+A dedicated and results-driven software engineer with a passion for developing innovative solutions. With a solid educational foundation in computer science and experience in various programming languages, I am eager to contribute my skills to a dynamic organization. As a Latino male from Phoenix, Arizona, I am committed to promoting diversity in the technology industry and actively seek opportunities to volunteer and lead initiatives that empower underrepresented communities.
+
+Education:
+Bachelor of Science in Computer Science, Phoenix University, Phoenix, Arizona
+- GPA: 3.9
+
+Work Experience:
+
+Software Engineer, InnovateTech Solutions, Phoenix, Arizona
+- Collaborated with a team of developers to design, implement, and maintain a Python-based ecommerce platform with a focus on secure payments
+- Utilized Java to enhance the platform's functionality and optimize its performance
+
+Software Engineer, TechTrack Systems, Phoenix, Arizona
+- Managed error tracking and automated testing processes to ensure the reliability and stability of a software product
+- Employed debugging techniques and worked with SQL and NoSQL to resolve issues efficiently
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Proactively involved in promoting diversity and inclusion for underrepresented communities in the technology industry
+- Served as a leader and mentor in the local Hispanic youth basketball league, instilling the values of teamwork, determination, and leadership
+
+Hobbies:
+- Playing the guitar to explore various genres and express creativity
+- Participating in local community events that celebrate Latino heritage and empower individuals through music and arts
+
+Languages:
+- Bilingual in English and Spanish, fluent in both spoken and written communication

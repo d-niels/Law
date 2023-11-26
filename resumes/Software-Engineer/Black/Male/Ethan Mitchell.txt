@@ -1,0 +1,45 @@
+Ethan Mitchell
+
+Personal Statement:
+Motivated and dedicated software engineer with a passion for creating efficient and innovative solutions. Committed to contributing to the development of cutting-edge software applications. Complemented by strong problem-solving skills and a drive to exceed expectations. Excited to utilize my expertise in programming, debugging, and testing to add value to your organization.
+
+Education:
+Bachelor of Science in Computer Science, Washington Tech University, Washington, District of Columbia
+- Graduated with a GPA of 3.9
+- Relevant coursework: Algorithms, Software Engineering, Data Structures, Web Development
+
+Work Experience:
+Software Engineer, Quantum Technologies, Washington, D.C. (Dates)
+- Developed and maintained SQL databases for a highly complex and scalable application
+- Utilized Python for data extraction, transformation, and loading processes
+- Implemented NoSQL databases for efficient data storage and retrieval
+- Automated testing procedures using industry-leading tools to ensure software quality and efficiency
+
+Software Developer, Stellar Solutions, Washington, D.C. (Dates)
+- Debugged and resolved software issues using various tools and techniques
+- Developed secure payment systems for a prominent e-commerce platform
+- Utilized Java to implement features and functionality for seamless user experiences
+- Conducted meticulous error tracking to enhance software reliability and performance
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member and volunteer in the National Society of Black Engineers, organizing workshops and mentorship programs that empower and inspire underrepresented minority students to pursue careers in engineering.
+- Led a sports leadership role as the captain of the university's basketball team, fostering teamwork, discipline, and perseverance.
+- Advocate for diversity and inclusion in technology, participating in panels and workshops to address challenges faced by underrepresented groups.
+
+Hobbies:
+- Playing the piano, leveraging musical skills to cultivate creativity and relaxation
+- Engaging in community organizations that promote cultural exchange and understanding, fostering unity and mutual respect
+- Participating in competitive basketball tournaments and maintaining an active lifestyle through regular fitness activities
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)
+
+References available upon request.

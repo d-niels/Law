@@ -1,0 +1,45 @@
+Personal Statement:
+I am a dedicated and passionate software engineer with a strong background in computer science. Born and raised in the vibrant city of Chicago, Illinois, I am a proud black female committed to championing diversity and inclusion in the tech industry. With a bachelor's degree in computer science from Windlake University, I have acquired a solid foundation of knowledge and skills that enable me to excel in developing innovative software solutions. I am thrilled to leverage my expertise to contribute to groundbreaking projects and make a positive impact on the world.
+
+Education:
+Bachelor of Science in Computer Science, Windlake University, Chicago, Illinois
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, ByteWave Solutions, Chicago, IL
+- Developed high-quality software solutions using Python, specializing in debugging and error tracking.
+- Utilized NoSQL databases to efficiently manage and manipulate data.
+- Collaborated with cross-functional teams to design and implement effective solutions.
+
+Software Engineering Intern, Quantum Innovations, Chicago, IL
+- Worked on an e-commerce platform, focusing on secure payment integrations and SQL database management.
+- Utilized Java programming language for development and automated testing.
+- Worked closely with the team to identify and resolve bugs to ensure seamless functionality.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, TechDiversity Chicago, Chicago, IL
+- Actively involved in promoting diversity and inclusion in the technology industry.
+- Organized workshops and events to inspire underrepresented groups to pursue careers in tech.
+- Mentored and provided guidance to aspiring software engineers.
+
+Sports Leadership Role, Women in Sports Empowerment Organization, Chicago, IL
+- Served as a team captain for the women's basketball team, fostering teamwork and female empowerment.
+- Organized sports camps and workshops to encourage participation and skill development.
+- Led by example, promoting discipline, resilience, and determination.
+
+Hobbies:
+- Playing the piano and composing music
+- Exploring diverse cultures through travel and learning about different traditions
+- Volunteering at local community organizations, focused on promoting education and empowerment
+- Engaging in outdoor activities such as hiking and biking
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)

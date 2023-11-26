@@ -1,0 +1,38 @@
+Personal Statement:
+As a passionate software engineer, I am dedicated to leveraging my skills and knowledge to develop innovative solutions and drive technological advancements. With a solid educational background in computer science, along with relevant work experience, I am equipped to thrive in the role of a software engineer. Being a proud Latino male from El Paso, Texas, I am committed to fostering inclusivity and diversity in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science
+Texas State University, El Paso, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechXcel Solutions, El Paso, Texas
+- Utilized NoSQL databases and Python programming to optimize data management and improve overall efficiency.
+- Implemented error tracking systems to identify and rectify software bugs, ensuring smooth operation of applications.
+- Collaborated with cross-functional teams to develop and execute automated testing procedures, resulting in enhanced quality assurance.
+
+Software Developer, InnovateTech Inc., El Paso, Texas
+- Conducted thorough debugging using Java and SQL to identify and resolve software issues, ensuring seamless functionality.
+- Played a key role in the development of robust ecommerce platforms, ensuring secure payments for customers.
+- Collaborated with a diverse team of developers to write clean and efficient code, facilitating smooth project delivery.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Embracing my rich Latino heritage, I actively promote diversity and inclusivity within the tech community, advocating for underrepresented groups.
+- Served as a sports leader for the local soccer team, organizing training sessions, and fostering teamwork and leadership skills.
+- Engaged in community organizations celebrating the contributions of Latino professionals in the tech industry, providing mentorship opportunities and networking resources.
+
+Hobbies:
+- Passionate about playing the guitar and finding solace through music as a creative outlet.
+- Pursuing artistic expression through painting, drawing, and other forms of visual arts.
+- Actively participating in cultural events and festivals that celebrate Latino heritage and promote unity in the community.
+
+Languages:
+- Fluent in English and Spanish, facilitating effective communication in diverse environments.

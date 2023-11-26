@@ -1,0 +1,43 @@
+JIAN MENG
+Software Engineer
+
+Personal Statement:
+Highly motivated Software Engineer with a strong passion for coding and resolving complex issues. Dedicated problem-solver with expertise in ecommerce development and extensive experience with Java and Python. Committed to delivering high-quality solutions through efficient debugging and testing techniques. Seeking a challenging role to utilize technical skills and contribute to software development efforts.
+
+Education:
+Bachelor of Science in Computer Science
+California State University, Los Angeles | Los Angeles, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern | Seraph Technologies | Los Angeles, CA | May 20XX - Aug 20XX
+- Developed and maintained ecommerce software using Java and Python, ensuring smooth and secure transactions for clients.
+- Conducted extensive debugging to identify and resolve software issues, improving overall system stability.
+- Collaborated with cross-functional teams to implement new features and enhance user experience.
+
+Software Developer | Stellar Innovations | Los Angeles, CA | Sept 20XX - Present
+- Implemented error tracking tools to monitor software performance and identify potential issues.
+- Designed and executed automated testing procedures, reducing testing time by 30% and enhancing software quality.
+- Ensured secure payment processes for clients, minimizing vulnerabilities and fraud risks.
+- Utilized NoSQL and SQL databases to optimize data management and retrieval.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Chinese American Student Association | California State University, Los Angeles
+- Actively participated in fostering a supportive community for Chinese American students on campus.
+- Organized cultural events and workshops to celebrate and promote Chinese heritage.
+- Served as Sports Leadership Coordinator, organizing basketball tournaments and promoting gender equality within sports.
+
+Hobbies:
+- Playing the erhu (traditional Chinese instrument)
+- Exploring diverse cultures through literature and music
+- Participating in hiking and outdoor activities, embracing the beauty of nature
+
+Languages:
+Fluent in English and Mandarin Chinese, proficient in Cantonese.

@@ -1,0 +1,47 @@
+Quiana Vasquez 
+Software Engineer
+
+Personal Statement:
+A highly motivated and innovative software engineer with a passion for solving complex problems through analytical thinking and debugging techniques. With a strong background in computer science and a Bachelor's degree from Sunshine State University, I am committed to continuously learning and developing new skills to stay at the forefront of the ever-evolving technology landscape. As a proud Latina from Albuquerque, New Mexico, I am dedicated to promoting diversity and inclusion in the tech industry while making a positive impact with my work.
+
+Education:
+Bachelor of Science in Computer Science
+Sunshine State University, Albuquerque, New Mexico
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, CoreTech Solutions, Albuquerque, New Mexico
+- Debugged, tested, and resolved issues related to secure payment systems in an e-commerce platform called SecurePay
+- Utilized NoSQL databases to effectively store and retrieve large volumes of data
+- Collaborated with cross-functional teams to develop and implement new features for SecurePay
+- Developed optimized e-commerce functionalities to enhance user experience
+
+Software Developer Intern, Innovations Inc., Albuquerque, New Mexico
+- Conducted comprehensive automated testing to ensure software reliability of a cloud-based application
+- Utilized error tracking tools to identify and promptly resolve issues 
+- Managed and optimized SQL databases for efficient data storage and retrieval
+- Developed software solutions using Python and Java to enhance the application's performance and functionality
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Tech Collective, Member
+- Actively contributed to the mission of increasing representation of Latinos in the technology industry
+- Organized and facilitated events to provide networking and mentorship opportunities for aspiring Latino software engineers and coders
+- Led the women's basketball team as a captain, fostering teamwork and discipline
+
+Hobbies:
+- Playing the guitar and saxophone
+- Volunteering at local community centers to empower underprivileged youth through technology education
+- Exploring diverse cuisines and experimenting with cooking different cultural dishes (ethnic indicator)
+ 
+Languages:
+- Bilingual in English and Spanish
+
+References:
+Available upon request

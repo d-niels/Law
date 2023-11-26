@@ -1,0 +1,40 @@
+Jabari Nash
+
+Personal Statement:
+Motivated and dedicated software engineer with a passion for leveraging technology to drive innovation and solve complex problems. As a black male from Memphis, Tennessee, I bring a unique perspective to my work and strive to create inclusive and equitable solutions. My goal is to contribute to the advancement of technology while promoting diversity and representation within the industry.
+
+Education:
+Bachelor of Science in Computer Science, Memphis State University, Memphis, Tennessee
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechnoLogic Solutions, Memphis, Tennessee
+- Debugged and resolved coding issues, ensuring seamless functionality and optimal performance.
+- Utilized SQL to design and optimize database structures for efficient data storage and retrieval.
+- Developed Java applications for secure payment processing, ensuring data privacy and encryption.
+
+Software Developer, InnovateX, Memphis, Tennessee
+- Implemented ecommerce solutions using Python, creating intuitive and user-friendly interfaces.
+- Performed error tracking and resolved issues using automated testing tools.
+- Utilized NoSQL databases to manage and analyze large data sets for improved system performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively engaged in promoting diversity and inclusion in the tech industry, actively participating in mentoring programs for underrepresented minorities in technology.
+- Basketball Leadership Role: Served as a mentor and coach for a local youth basketball team, fostering teamwork, discipline, and leadership skills.
+
+Hobbies:
+- Playing the saxophone to explore and appreciate various forms of music, including jazz, soul, and blues.
+- Engaging in community service activities, organizing events that celebrate and promote diversity.
+- Pursuing photography as a means to capture and document the beauty within different cultures and communities.
+
+Languages:
+- Fluent in English and Spanish.
+
+References available upon request.

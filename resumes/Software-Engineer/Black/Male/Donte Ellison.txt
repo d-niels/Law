@@ -1,0 +1,41 @@
+Donte Ellison
+
+Personal Statement:
+Motivated and dedicated software engineer with a strong passion for developing innovative solutions. Demonstrated excellence in programming and problem-solving, complemented by a deep understanding of database technologies. As a black male from Philadelphia, Pennsylvania, I am committed to promoting diversity and inclusivity in the tech industry. With a strong academic background in computer science, I bring both technical expertise and a desire to make a lasting impact. Seeking a challenging software engineering role to contribute my skills and expertise towards creating transformative software solutions.
+
+Education:
+Bachelor of Science in Computer Science, Liberty University, Philadelphia, Pennsylvania
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, TechLink Solutions, Philadelphia, Pennsylvania
+- Leveraged Java programming language to develop robust and efficient software applications.
+- Conducted thorough error tracking and resolved issues promptly to ensure optimal application performance.
+- Utilized SQL databases for seamless management and manipulation of complex data sets.
+- Implemented secure payment systems to enhance user experience and protect sensitive information.
+
+Software Developer, SwiftTech Solutions, Philadelphia, Pennsylvania
+- Performed comprehensive automated testing to identify and rectify software defects.
+- Utilized NoSQL databases for efficient storage, retrieval, and manipulation of large datasets.
+- Developed Python-based software solutions to optimize ecommerce operations.
+- Collaborated with cross-functional teams in debugging software issues and improving application performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Sports Leadership Role: Captained a basketball team comprised of diverse athletes, fostering an inclusive and supportive environment. Organized team practices and coordinated game strategies, promoting teamwork, discipline, and sportsmanship.
+
+Hobbies:
+- Playing the saxophone: Expressing creativity and passion for music through playing this instrument.
+- Cultural exploration: Engaging in activities that allow me to learn and appreciate diverse traditions and ethnicities.
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)
+
+References available upon request.

@@ -1,0 +1,39 @@
+Cole Kim
+
+Personal Statement:
+I am a dedicated and results-driven software engineer with a passion for problem-solving and creating efficient solutions. With a strong background in computer science and expertise in various programming languages, I am committed to delivering high-quality software products to meet business needs. I thrive in collaborative environments and continuously seek opportunities to expand my knowledge and skills.
+
+Education:
+Bachelor of Science in Computer Science, Sunstone University, Phoenix, Arizona
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, NovaSoft Solutions, Phoenix, Arizona
+- Utilized automated testing tools to streamline the testing process and improve software quality assurance.
+- Developed scalable Python applications to analyze and manipulate large datasets stored in NoSQL databases.
+- Implemented error tracking systems to identify and resolve software issues proactively.
+
+Software Engineer Intern, SparkTech Innovations, Phoenix, Arizona
+- Developed Java applications for an ecommerce platform, ensuring secure payment processing and efficient transaction management.
+- Utilized SQL to optimize database performance and design efficient data models to support business requirements.
+- Conducted debugging and troubleshooting activities to identify and address software defects.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- As a proud white male in the tech industry, I actively participate in initiatives promoting diversity and inclusion, advocating for equal opportunities for underrepresented individuals.
+- Held the position of team captain in the sport of basketball, where I nurtured teamwork, communication, and sportsmanship among the team members.
+
+Hobbies:
+- Playing guitar (instrument)
+- Exploring diverse cultures and traditions
+- Engaging in outdoor activities, such as hiking and mountain biking
+
+Languages:
+- English (fluent)
+- Spanish (intermediate fluency)

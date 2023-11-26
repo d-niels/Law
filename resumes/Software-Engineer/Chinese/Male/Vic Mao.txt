@@ -1,0 +1,51 @@
+[Your Name]
+[Your Address]
+[City, State, ZIP Code]
+[Phone Number]
+[Email Address]
+
+Objective:
+Highly motivated and detail-oriented Software Engineer with a strong educational background in Computer Science. Seeking a challenging role to leverage my skills in software development, problem-solving, and teamwork.
+
+Education:
+Bachelor of Science in Computer Science, San Francisco University, San Francisco, California
+• Graduated with a 3.9 GPA
+• Relevant coursework: Data Structures and Algorithms, Software Engineering, Database Systems
+
+Work Experience:
+Software Engineer, Phoenix Technologies, San Jose, California
+[Dates]
+
+• Developed and maintained an innovative ecommerce platform, ensuring its reliability and scalability
+• Collaborated with cross-functional teams to resolve issues and prioritize bug fixes
+• Utilized NoSQL databases to improve data fetching and storage efficiency
+• Conducted SQL queries and maintained relational databases for efficient data retrieval
+
+Software Developer, Stellar Software Solutions, San Francisco, California
+[Dates]
+
+• Successfully implemented comprehensive error tracking systems to identify and troubleshoot software issues effectively
+• Programmed in Java and Python to build efficient and secure payment processing systems
+• Conducted automated testing to ensure the reliability and robustness of software functionalities
+• Collaborated with the development team to enhance code quality and performance
+
+Skills:
+• Programming Languages: Java, Python, C#, JavaScript
+• Database Technologies: SQL, NoSQL
+• Source Control: Git
+• Testing and Debugging: Automated Testing, Debugging Tools
+• Problem Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+• Active member of the Chinese American Engineers Association, participating in various events to promote diversity and inclusion in the tech industry
+• Served as a Sports Leadership Mentor for the San Francisco Youth Basketball League, guiding young athletes in skill development, teamwork, and leadership
+
+Hobbies:
+• Playing the traditional Chinese musical instrument - Pipa
+• Engaging in cultural exchange programs to promote Chinese-American understanding and connections
+
+Languages:
+• Fluent in English and Mandarin Chinese
+
+References:
+Available upon request

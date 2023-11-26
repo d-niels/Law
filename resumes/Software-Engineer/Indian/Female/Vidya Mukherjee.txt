@@ -1,0 +1,42 @@
+Vidya Mukherjee
+New York, New York
+Phone: (123) 456-7890
+Email: vidya.mukherjee@email.com
+
+Personal Statement:
+Motivated and talented Software Engineer with a passion for creating innovative solutions. Possessing a solid foundation in computer science and a strong aptitude for problem-solving, I am dedicated to delivering high-quality software products. With a keen eye for detail and a drive to continuously learn and grow, I aim to contribute my technical skills to the development of cutting-edge software applications.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, New York, NY
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern, XYZ Technologies, New York, NY                                         
+- Collaborated with a team of developers to implement secure payment solutions for an e-commerce platform
+- Utilized NoSQL databases and Python to optimize data management and improve system performance
+- Developed robust and scalable e-commerce functionalities while ensuring a seamless user experience
+
+Software Engineer, AppTech Solutions, New York, NY
+- Designed and developed automated testing systems using Java to enhance software reliability
+- Utilized advanced debugging techniques and error tracking tools to identify and resolve issues
+- Managed databases and utilized SQL for efficient data management and manipulation
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As an Indian female in the software engineering field, I actively inspire and empower underrepresented individuals within the industry. I volunteer as a mentor for organizations focused on promoting diversity and provide guidance to aspiring engineers. Additionally, I have taken on a leadership role as the captain of my university's women's soccer team, fostering teamwork and sportsmanship among diverse individuals.
+
+Hobbies:
+In my spare time, I enjoy playing tennis, a sport that allows me to stay active and challenge myself mentally and physically. I also participate in various community events that promote cultural diversity and gender equality.
+
+Languages:
+- English (Fluent)
+- Hindi (Native proficiency)
+- Bengali (Conversational)
+
+References available upon request.

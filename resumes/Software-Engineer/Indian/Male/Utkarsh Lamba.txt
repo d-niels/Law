@@ -1,0 +1,56 @@
+Utkarsh Lamba
+
+Personal Statement:
+Motivated and detail-oriented software engineer with a passion for solving complex problems and creating innovative solutions. Strong proficiency in programming languages and database technologies, coupled with excellent analytical and debugging skills. Committed to delivering high-quality software products while continuously learning and staying abreast of industry trends. As an Indian male from Los Angeles, California, I am dedicated to breaking gender and ethnic barriers in the tech industry while leveraging my diverse background to bring unique perspectives to my work.
+
+Education:
+Bachelor of Science in Computer Science
+California State University, Los Angeles
+
+GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer Intern, Quantum Technologies Inc.
+Los Angeles, CA | August 2019 - December 2019
+
+- Developed and maintained database-driven applications and web services using SQL, Python, and Java.
+- Leveraged NoSQL databases to optimize data retrieval and storage processes.
+- Collaborated with cross-functional teams to analyze business requirements and implement effective software solutions.
+
+Software Developer, Innov8 Solutions
+Los Angeles, CA | January 2020 - Present
+
+- Utilized error tracking and debugging techniques to identify and resolve software defects, ensuring high-quality products.
+- Built and enhanced ecommerce systems, focusing on secure payments integration and providing seamless user experiences.
+- Implemented automated testing procedures, resulting in improved software reliability and accelerated release cycles.
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Volunteer, South Asian Youth Association
+Los Angeles, CA | 2017 - Present
+
+- Demonstrated strong leadership as a role model and mentor for South Asian students in the local community.
+- Organized fundraising events and cultural awareness programs to promote diversity and inclusion.
+- Led a cricket team in organizing tournaments, fostering team spirit and celebrating our cultural heritage.
+
+Hobbies:
+
+- Playing the Tabla (Indian percussion instrument)
+- Exploring different Indian classical dance forms
+- Engaging in community-driven cultural events
+- Contributing to open-source projects related to software development
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+
+References available upon request.

@@ -1,0 +1,41 @@
+I Ching Lei
+
+Personal Statement:
+As a Chinese male hailing from the vibrant city of Honolulu, Hawaii, I am a diligent and resourceful software engineer seeking an exciting role in the industry. With a solid educational background in computer science and a passion for solving complex problems, I am confident in my ability to contribute to the development of innovative software solutions. I value diversity and embrace it as a powerful catalyst for creativity and excellence in software engineering.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+University of Hawaii at Manoa
+
+Work Experience:
+Software Engineer | Zenith Technologies, Honolulu, HI
+- Spearheaded the development and maintenance of database systems using SQL and implemented robust error tracking mechanisms to ensure the smooth operation of software applications.
+- Conducted rigorous automated testing and utilized debugging tools to identify and resolve software-related issues promptly.
+- Collaborated seamlessly with cross-functional teams to optimize software performance and enhance the user experience.
+
+Software Developer | Stellar Solutions, Honolulu, HI
+- Created a cutting-edge e-commerce platform using Java for secure payment processing, ensuring a seamless and secure online shopping experience for customers.
+- Implemented Python and NoSQL for efficient data management and retrieval, streamlining operations and improving scalability.
+- Collaborated closely with a team of developers to design and build bespoke software solutions tailored to meet the unique business requirements of clients.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry, advocating for increased representation of Chinese and other underrepresented groups in software engineering through participation in organizations and initiatives.
+- Served as a team captain for a local basketball league, exemplifying strong leadership skills and promoting teamwork among diverse team members.
+
+Hobbies:
+- Playing the erhu, a traditional Chinese instrument, showcasing dedication to cultural preservation and a love for music.
+- Exploring different cultures by learning new languages, including Mandarin and Spanish, to foster cross-cultural understanding.
+
+Languages:
+- English (Fluent)
+- Mandarin (Proficient)
+- Spanish (Intermediate)
+
+References available upon request.

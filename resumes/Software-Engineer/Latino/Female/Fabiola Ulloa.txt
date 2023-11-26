@@ -1,0 +1,39 @@
+Personal Statement:
+As a dedicated and innovative software engineer, I strive to use my skills and knowledge to create cutting-edge solutions. With a strong foundation in computer science and a genuine passion for technology, I am determined to make a meaningful impact in the software industry. My diverse background and unwavering commitment to diversity and inclusion drive me to create an inclusive and equitable tech community.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, Los Angeles, California
+- Graduated with a GPA of 3.9
+
+Work Experience:
+Software Engineer, InnovateTech Solutions, Los Angeles, CA
+- Implemented automated testing processes to enhance software reliability and efficiency
+- Utilized Java programming language for application development and problem-solving
+- Conducted thorough debugging tasks to identify and resolve software issues
+- Worked with NoSQL databases to improve data management and scalability
+
+Software Engineer, TechPro Inc., Los Angeles, CA
+- Led a talented team in developing a robust e-commerce platform, focusing on seamless user experience and secure payment transactions
+- Tracked and resolved software errors using advanced error tracking tools to ensure optimal system functionality
+- Utilized SQL for efficient database management and executed complex queries
+- Developed software applications using Python programming language
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and gender equality within the tech industry, serving as a mentor to aspiring young Latinas interested in pursuing careers in technology.
+- Sports Leadership: Led a local girls' basketball team, fostering teamwork, discipline, and resilience among young Latina athletes.
+
+Hobbies:
+- Playing the piano and composing music
+- Participating in cultural events and festivals that celebrate diversity and promote understanding
+- Engaging in outdoor activities like hiking and exploring nature
+
+Languages:
+- English (Fluent)
+- Spanish (Native Proficiency)

@@ -1,0 +1,41 @@
+Fiza Haque
+
+Personal Statement:
+A highly motivated and innovative software engineer with a deep passion for solving complex problems and delivering high-quality software solutions. With a strong background in computer science and a Bachelor's degree from TechnoGenius University, I am eager to contribute my expertise in software development to drive technological advancements. As an Indian female from Washington, DC, I bring a unique and diverse perspective that enhances collaboration and fosters inclusive solutions.
+
+Education:
+Bachelor of Science in Computer Science
+TechnoGenius University, Washington, DC
+
+Work Experience:
+Software Engineer | InnovateTech Solutions
+- Utilized advanced debugging techniques, including log analysis and error tracking, to diagnose and resolve software issues efficiently.
+- Developed robust and scalable applications using Java, Python, and NoSQL databases.
+- Collaborated with cross-functional teams to implement cutting-edge software solutions aligned with project requirements.
+
+Software Engineer Intern | ByteWizards Inc.
+- Conducted comprehensive automated testing using Selenium and JUnit to ensure software functionality and reliability.
+- Utilized SQL queries to manipulate and retrieve data, ensuring data integrity and accuracy.
+- Contributed to the development of a secure payments module for e-commerce websites, focusing on encryption and fraud prevention.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- As an active member of the Indian community in Washington, DC, I support cultural events, volunteer at local temples, and participate in initiatives promoting diversity and inclusivity.
+- Led and mentored a youth soccer team, promoting teamwork, discipline, and physical fitness among young girls.
+
+Hobbies:
+- Sports Enthusiast: I am an avid player and enthusiastic leader in the sport of basketball, organizing team practices and coordinating tournaments to inspire and empower others through sports.
+- Sitar Player: I am proficient in playing the sitar, a traditional Indian musical instrument that allows me to express my creativity and find tranquility.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Bengali (Proficient)
+
+References available upon request.

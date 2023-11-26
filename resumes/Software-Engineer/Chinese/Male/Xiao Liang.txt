@@ -1,0 +1,45 @@
+Xiao Liang
+
+Personal Statement:
+Highly motivated and analytical software engineer with a passion for solving complex problems. Possessing a strong educational background in computer science and comprehensive hands-on experience in software development. Dedicated to consistently delivering high-quality work and exceeding expectations. As a Chinese male from Houston, Texas, I bring a diverse perspective to my work and believe in the power of diversity and inclusion to drive innovation. I am committed to using my skills and expertise to make a positive impact on the world.
+
+Education:
+Bachelor of Science in Computer Science, Texas Tech University, Lubbock, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, InnovateTech Solutions, Houston, Texas
+May 2018 - Present
+- Developed scalable and secure payment solutions using Python, ensuring secure transactions and data privacy.
+- Conducted automated testing to identify and resolve bugs, resulting in a 30% reduction in application errors.
+- Utilized NoSQL databases to optimize data storage and retrieval processes.
+
+Software Developer, TechPro Solutions, Houston, Texas
+June 2016 - April 2018
+- Collaborated with a team of developers to debug and resolve product issues using SQL and Java, optimizing performance and enhancing user experience.
+- Implemented error tracking systems, reducing application downtime by 20%.
+- Contributed to the development of an e-commerce platform, enabling seamless online transactions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Basketball Team Captain, Houston Sports Association
+- Led a team of passionate athletes in competitive basketball tournaments, fostering teamwork, discipline, and personal growth.
+
+As a Chinese male software engineer, I actively strive to promote diversity and inclusivity within the tech industry. I am dedicated to inspiring and mentoring underrepresented individuals pursuing careers in technology. Through my leadership in the Houston Sports Association, I aim to promote teamwork and a sense of community among diverse athletes.
+
+Hobbies:
+- Playing the piano
+- Exploring local art galleries, museums, and architecture
+- Participating in community events that celebrate diversity and multiculturalism
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+Note: This resume is purely fictional and created for demonstration purposes only.

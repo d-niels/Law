@@ -1,0 +1,48 @@
+Wei Mao
+1234 Oak Street • Oakland, California 56789 • (123) 456-7890 • weimao@email.com
+
+Personal Statement:
+Dedicated software engineer with a passion for leveraging technology to develop innovative solutions. Skilled in designing and implementing scalable software systems, I am committed to delivering high-quality code that meets customer needs. With a strong background in e-commerce and secure payments, I continuously strive for excellence in problem-solving and debugging. As a Chinese female, I am proud to bring diversity and leadership to the tech industry, representing an underrepresented group.
+
+Education:
+Bachelor of Science in Computer Science | Liberty University, Oakland, California
+GPA: 3.9/4.0
+Relevant Coursework: Algorithms and Data Structures, Software Engineering, Database Systems, Operating Systems, Web Development
+
+Work Experience:
+Software Engineer | TechFusion Solutions, San Francisco, California
+June 2017 - Present
+- Collaborated with a cross-functional team to develop and maintain cutting-edge e-commerce applications, resulting in an increase in online sales by 20%
+- Utilized NoSQL databases to optimize data storage and retrieval for highly scalable web applications
+- Implemented error tracking tools to detect and resolve issues promptly, ensuring a seamless user experience
+- Designed and executed automated tests, reducing manual testing efforts by 50%
+
+Software Developer | InnovateTech, Oakland, California
+May 2016 - June 2017
+- Developed secure and efficient payment systems for a leading financial services provider, ensuring transaction integrity and data privacy
+- Leveraged Java, SQL, and Python to implement new functionalities and enhance existing applications
+- Conducted extensive debugging to identify and resolve issues, resulting in improved system reliability
+- Collaborated with a skilled team to design and implement custom software solutions tailored to clients’ specific needs
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Chinese American Women in Tech (CAWT) Member: Advocate for diversity and equal opportunities for women in the technology field
+- Basketball Coach: Act as a leader and mentor to youth, promoting teamwork, discipline, and leadership skills through the sport of basketball
+
+Hobbies:
+- Playing the erhu (traditional Chinese instrument)
+- Exploring diverse cultures through travel and learning languages
+- Participating in leadership and networking events to support and empower women in the tech industry
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References:
+Available upon request

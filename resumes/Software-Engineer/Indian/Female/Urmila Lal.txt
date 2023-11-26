@@ -1,0 +1,37 @@
+Personal Statement:
+I am a highly motivated software engineer with a passion for problem-solving and a strong background in computer science. As an Indian female from Houston, Texas, I bring a unique perspective to the field, and I am committed to leveraging my skills to drive innovation in the tech industry. With a solid foundation in programming languages and database technologies, I am confident in my ability to develop scalable and secure software solutions.
+
+Education:
+Bachelor of Science in Computer Science, Stellar University, Houston, Texas
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Innovate Systems, Houston, Texas
+- Led the development of a secure payment processing system utilizing NoSQL databases and Python programming language
+- Conducted comprehensive debugging to ensure the system's flawless functionality
+- Collaborated with cross-functional teams to enhance overall system performance and security
+
+Software Engineer Intern, FuturX Solutions, Houston, Texas
+- Contributed to the development of a robust e-commerce platform using Java and SQL
+- Implemented error tracking mechanisms to identify and resolve issues promptly
+- Created and conducted automated tests to ensure optimal software quality and reliability
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Mentor, TechGirlz: Empowered young girls from diverse backgrounds to pursue careers in technology, specifically focusing on mentoring Indian female students
+- Sports Leadership Role: Led a basketball team, promoting inclusion and teamwork among female players in the Indian community
+
+Hobbies:
+- Playing the sitar, a traditional Indian musical instrument
+- Promoting diversity and equality in the tech community, particularly for female and underrepresented minorities
+- Exploring different cultures and traveling, with a deep appreciation for art and architecture
+
+Languages:
+- English (Fluent)
+- Hindi (Native)

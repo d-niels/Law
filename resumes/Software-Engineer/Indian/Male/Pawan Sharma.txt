@@ -1,0 +1,49 @@
+Pawan Sharma
+Philadelphia, Pennsylvania
+Phone: (xxx) xxx-xxxx
+Email: pawansharma@example.com
+
+Personal Statement:
+Passionate and dedicated software engineer with a strong background in computer science and expertise in multiple programming languages. Committed to delivering high-quality solutions and improving user experiences. Adept at problem-solving and collaborating in fast-paced environments. Aiming to leverage my skills and knowledge in a software engineer role.
+
+Education:
+Bachelor of Science in Computer Science, University of Pennsylvania
+- GPA: 3.9/4.0
+- Relevant coursework: Data Structures, Algorithms, Software Engineering, Database Systems, Web Development
+
+Work Experience:
+Senior Software Engineer - Innovius Tech, Philadelphia, Pennsylvania
+June 2018 - Present
+- Developed and maintained secure payment systems using Java and SQL, ensuring accurate and efficient processing.
+- Utilized various debugging techniques for identifying and resolving issues, resulting in improved product performance.
+- Collaborated with cross-functional teams to implement new features, contributing to the company's product roadmap.
+
+Software Developer - TechNext Solutions, Philadelphia, Pennsylvania
+September 2016 - May 2018
+- Built and maintained an ecommerce platform using Python and NoSQL databases, increasing website efficiency and customer satisfaction.
+- Implemented automated testing procedures to ensure application stability and reduce manual errors during the development process.
+- Utilized error tracking tools to identify and fix issues promptly, resulting in improved system reliability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Indian Student Association at the University of Pennsylvania, organizing cultural events and promoting diversity and inclusion on campus.
+- Sports Leadership Role: Captain of the university cricket team, responsible for managing team practices, coordinating matches, and fostering teamwork among players.
+
+Hobbies:
+- Playing the tabla (traditional Indian percussion instrument)
+- Exploring diverse cultures through music and dance
+- Participating in community art projects to promote creativity and self-expression
+
+Languages:
+- English (Fluent)
+- Hindi (Native speaker)
+- Punjabi (Conversational)
+
+References:
+Available upon request

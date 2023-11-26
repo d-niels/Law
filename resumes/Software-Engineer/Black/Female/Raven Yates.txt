@@ -1,0 +1,44 @@
+Raven Yates
+
+Personal Statement:
+Motivated and driven software engineer with a passion for problem-solving and creating innovative solutions. Dedicated to delivering high-quality code and achieving project objectives efficiently. As a black female in the tech industry, I am committed to promoting diversity and inclusion and empowering underrepresented groups within the field.
+
+Education:
+Bachelor of Science in Computer Science
+ABC University, Memphis, Tennessee
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | Innovix Digital Solutions | Memphis, Tennessee | 2019-2021
+- Developed and maintained software applications using SQL, Python, and automated testing techniques.
+- Implemented secure payment processing functionality for e-commerce platforms.
+- Collaborated with cross-functional teams to ensure robust and scalable software solutions.
+
+Software Developer | TechnoLogic Solutions | Memphis, Tennessee | 2018-2019
+- Resolved complex software issues by utilizing debugging techniques and working with error tracking systems.
+- Developed scalable e-commerce applications using NoSQL, Java, and other modern technologies.
+- Collaborated with the development team to plan and execute high-quality software releases.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Member, Women in Tech Society | ABC University
+- Organized workshops and mentoring programs to promote women's participation in tech-related fields.
+- Spearheaded initiatives to increase female representation in software engineering courses.
+
+Basketball Team Coach | Memphis Youth Basketball League
+- Coached a team of young girls, promoting leadership, teamwork, and sportsmanship.
+- Focused on creating an inclusive and supportive environment for players from diverse backgrounds.
+
+Hobbies:
+- Playing the saxophone: I have been playing the saxophone for over 10 years, finding joy in expressing myself through music.
+- Activism and social justice: Passionate about advocating for equality and creating change in my community.
+- Reading books by black female authors: Continuously exploring the works of black female writers to broaden my perspective.
+
+Languages:
+- Fluent in English and Spanish

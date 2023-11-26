@@ -1,0 +1,35 @@
+Personal Statement:
+A dedicated and driven software engineer, I am passionate about leveraging my technical skills to develop innovative solutions. With a strong educational background in computer science and hands-on experience in software development, I am confident in my ability to contribute to cutting-edge projects. As a white female, I am committed to promoting diversity in the field and utilizing my skills to empower underserved communities.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Jose, California (GPA: 3.9)
+
+Work Experience:
+Software Engineer, StellarTech Solutions, San Jose, California
+- Developed Python scripts for debugging and automated testing, ensuring the delivery of high-quality software
+- Collaborated with cross-functional teams to optimize ecommerce processes and enhance user experience
+
+Software Developer, Nova Systems, San Jose, California
+- Implemented secure payment procedures and integrated SQL and NoSQL databases for efficient data storage and retrieval
+- Utilized Java and NoSQL technologies to track errors and resolve issues promptly
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Co-founded Women in Tech organization promoting opportunities for women in the technology industry
+- Mentored aspiring software engineers from underrepresented backgrounds
+- Served as a soccer team captain, fostering teamwork and discipline within a diverse group
+
+Hobbies:
+- Playing the guitar to express creativity and embrace cultural diversity
+- Engaging in community outreach activities to support underprivileged youth
+- Traveling to explore different cultures and languages
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate)

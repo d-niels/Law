@@ -1,0 +1,44 @@
+STERLING LYNCH
+
+Personal Statement:
+Dedicated and driven software engineer with a passion for problem-solving and utilizing technology to create innovative solutions. As a black male from Columbus, Ohio, I believe in leveraging diversity and inclusion to enhance teamwork and drive excellence in the workplace. With a strong educational background in computer science and hands-on experience in various programming languages, databases, and technical tools, I am keen to contribute my skills and knowledge to a dynamic software engineering role.
+
+Education:
+Bachelor of Science in Computer Science
+Linden University, Columbus, Ohio
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - Xverse Technologies, Columbus, OH
+May 2019 - Present
+- Developed efficient software solutions using SQL, Error tracking, Java, and Python.
+- Collaborated with cross-functional teams to ensure the timely delivery of high-quality code.
+- Resolved technical issues by performing thorough debugging and troubleshooting.
+
+Assistant Software Engineer - Innovate Solutions Inc., Columbus, OH
+June 2018 - April 2019
+- Specialized in secure payments, ecommerce, debugging, and automated testing.
+- Implemented NoSQL databases to enhance performance and scalability.
+- Contributed to the development and maintenance of robust and secure software applications.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active participant in diversity and inclusion initiatives within the tech community, promoting equality and fostering a multicultural environment.
+- Served as a team leader in basketball, utilizing strong leadership skills and fostering collaboration among team members.
+
+Hobbies:
+- Playing the drums, expressing creativity through rhythm and music.
+- Exploring and celebrating cultural diversity through various art forms, particularly through painting and sculpture.
+- Engaging in basketball, leading a local team and promoting discipline, teamwork, and sportsmanship.
+
+Languages:
+English (Fluent), Spanish (Intermediate)
+
+References:
+Available upon request

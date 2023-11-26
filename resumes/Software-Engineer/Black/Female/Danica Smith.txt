@@ -1,0 +1,48 @@
+Danica Smith
+
+Software Engineer
+
+Personal Statement:
+Driven and versatile software engineer with a passion for developing innovative solutions. Leveraging a strong background in computer science and extensive industry experience, I am committed to delivering high-quality software solutions while continuously expanding my skill set. As a black female in the tech industry, I strive to contribute to diverse and inclusive work environments, fostering creativity and collaboration.
+
+Education:
+Bachelor of Science in Computer Science, 2016-2020
+Florida Atlantic University, Boca Raton, Florida
+- Majored in Computer Science with a focus on software development
+- Achieved a 3.9 GPA
+
+Work Experience:
+Software Engineer, TechNexus Innovations, Jacksonville, Florida, 2020-2022
+- Developed and maintained company databases using NoSQL and SQL
+- Implemented automated testing procedures to ensure software quality
+- Managed error tracking and resolution processes for improved performance
+
+Software Developer, InnovateWorks Inc., Jacksonville, Florida, 2018-2020
+- Utilized Python and Java to build e-commerce platforms with secure payment gateways
+- Conducted extensive debugging to identify and resolve software issues
+- Collaborated with cross-functional teams to improve overall system performance and user experience
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Mentorship Program, CODE Black Initiative, Florida Atlantic University, 2019-2020
+   - Guided and supported underrepresented students pursuing computer science degrees
+   - Focused on providing resources and mentorship specifically tailored to black females in tech
+- Sports Leadership Role, Women's Basketball Team, Florida Atlantic University, 2016-2020
+   - Captained the team, fostering teamwork and camaraderie among a diverse group of players
+   - Organized and coordinated community outreach programs to empower young girls through sports
+
+Hobbies:
+- Playing the saxophone: I find solace and express my creativity by playing jazz and blues compositions.
+- Participating in community theater: Actively involved in local productions, celebrating diversity and representation.
+- Reading and discussing relevant literature on diversity and inclusion: Engaging in book clubs and online forums to continue learning and advocating for change.
+
+Languages:
+- Fluent in English; Proficient in Spanish
+
+References available upon request.

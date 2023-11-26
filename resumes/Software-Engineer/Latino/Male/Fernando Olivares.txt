@@ -1,0 +1,39 @@
+Personal Statement:
+Passionate and dedicated software engineer with a drive for innovation and a commitment to inclusivity. As a Latino male from San Antonio, Texas, I bring a unique perspective to my work, constantly striving for excellence and embracing diversity. With a Bachelor of Science in Computer Science from San Antonio State University, I have cultivated my technical skills to deliver efficient and groundbreaking software solutions. I am seeking an engaging software engineering role where I can leverage my expertise to create transformative experiences.
+
+Education:
+Bachelor of Science in Computer Science
+Santos University, San Antonio, Texas
+GPA: 3.9
+
+Work Experience:
+Software Engineer - XenoTech Solutions, San Antonio, Texas
+- Developed and maintained a robust and secure payment system using SQL, Python, and automated testing techniques.
+- Collaborated with cross-functional teams to ensure seamless payment processing and customer satisfaction.
+- Implemented rigorous testing practices to guarantee accurate and safe financial transactions.
+
+Software Engineer - CyberLogic Innovations, San Antonio, Texas
+- Designed and optimized a cutting-edge e-commerce platform utilizing NoSQL databases, Java, and error tracking methodologies.
+- Resolved complex debugging issues to streamline system performance and enhance user experience.
+- Collaborated closely with product managers to implement new features and improve platform functionality.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Co-founded the Tech Unidos Association, supporting and mentoring aspiring Latino software engineers through networking events and educational programs.
+- Served as a youth soccer coach, providing leadership and fostering teamwork among diverse players to promote inclusivity and sportsmanship.
+
+Hobbies:
+- Playing the guitar, blending traditional Latino music with contemporary styles to create unique melodies.
+- Exploring diverse cultures, customs, and traditions to expand my global perspective and encourage cross-cultural understanding.
+- Engaging in community service initiatives, collaborating with organizations dedicated to empowering underrepresented groups.
+
+Languages:
+- Fluent in English and Spanish, enabling effective communication in multicultural environments.
+
+References available upon request.

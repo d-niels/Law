@@ -1,0 +1,42 @@
+Vijay Fang
+
+Personal Statement:
+Dedicated and detail-oriented Software Engineer with a passion for creating innovative solutions. Backed by a strong educational foundation in Computer Science, I possess expertise in various programming languages and database technologies. With proven experience in software development and a natural problem-solving ability, I am eager to contribute to a dynamic organization as a Software Engineer.
+
+Education:
+Bachelor of Science in Computer Science
+University of Hawaii, Manoa
+
+Work Experience:
+Software Engineer Intern, Stellar Innovations, Honolulu, HI
+- Developed and maintained Python and Java applications for an AI-driven marketing platform.
+- Collaborated with a cross-functional team to implement ecommerce functionalities for the platform's clients.
+- Utilized SQL to design and optimize databases, improving data retrieval speed by 30%.
+- Conducted extensive unit and integration testing, resulting in a 20% decrease in the number of bugs reported.
+
+Software Developer, Quantum Systems, Honolulu, HI
+- Spearheaded the implementation of secure payment processing features in the company's financial software.
+- Debugged and resolved errors using advanced error tracking techniques, resulting in a 15% decrease in software downtime.
+- Automated testing processes using industry-standard frameworks to ensure software stability.
+- Utilized NoSQL databases for efficient and scalable data storage and retrieval, handling large volumes of sensitive financial data.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnic Leadership Team Member, Chinese American Community Center, Honolulu, HI
+- Actively involved in promoting cultural events and fostering unity within the Chinese American community.
+- Organized and led basketball tournaments, promoting teamwork and leadership skills within the community.
+
+Hobbies:
+- Playing the Guzheng (Chinese zither), showcasing my passion for traditional Chinese music.
+- Engaging in ethnic dance classes to further explore and celebrate my heritage.
+
+Languages:
+English (Fluent), Mandarin Chinese (Fluent)
+
+References available upon request.

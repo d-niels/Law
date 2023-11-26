@@ -1,0 +1,39 @@
+EVA SHI
+
+Personal Statement:
+Highly motivated software engineer with a strong passion for developing innovative solutions. I am dedicated to leveraging my skills in programming languages and database technologies to create efficient and user-friendly software applications. With excellent problem-solving abilities and a commitment to delivering high-quality results, I strive to exceed expectations in the field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science, Sunshine State University, Honolulu, Hawaii
+- Graduated with a 3.9 GPA
+- Relevant coursework: Data Structures and Algorithms, Software Development, Database Management
+
+Work Experience:
+Software Engineer, StellarTech Solutions, Honolulu, Hawaii
+- Developed and maintained a cutting-edge e-commerce platform, utilizing NoSQL databases to enhance scalability and optimize customer experience.
+- Implemented SQL queries and Python scripts to analyze sales data and drive data-driven decision-making processes.
+
+Software Engineer Intern, Quantum Systems, Honolulu, Hawaii
+- Collaborated with a dynamic team of engineers to design and implement effective error tracking systems and debugging solutions, ensuring smooth operation and improved user experience.
+- Played a pivotal role in developing secure payment systems, employing Java and automated testing to ensure robustness and data protection.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Acted as a mentor to underrepresented students at Sunshine State University, providing guidance and support throughout their computer science journey.
+- Led the Women in Tech initiative, organizing events and creating a supportive community for women pursuing careers in technology.
+- Captained a local basketball team, fostering teamwork, discipline, and leadership skills among the players.
+
+Hobbies:
+- Playing the erhu, a traditional Chinese string instrument, showcasing my love for music and cultural heritage.
+- Engaging in outdoor activities such as hiking and swimming, promoting a healthy and active lifestyle.
+- Active advocate for promoting gender equality and diversity in the tech industry, participating in conferences and organizations dedicated to this cause.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

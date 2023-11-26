@@ -1,0 +1,39 @@
+Octavio Quezada
+Software Engineer
+
+Personal Statement:
+A highly skilled and motivated software engineer, dedicated to utilizing my technical expertise and problem-solving abilities to develop innovative and efficient solutions. With a strong passion for computer science and a drive to continuously expand my knowledge, I am committed to contributing to the advancement of technology. As a proud Latino male from El Paso, Texas, I am inspired to bring diversity and inclusivity to the field, aiming to bridge gaps and create opportunities for underrepresented communities.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+University of Texas at El Paso, El Paso, Texas
+
+Work Experience:
+Software Engineer, CyberShield Technologies, El Paso, Texas
+- Implemented secure payment systems, ensuring the confidentiality of sensitive user data
+- Conducted automated testing and debugging of software applications to identify and mitigate issues
+- Utilized SQL for efficient and seamless data management
+
+Software Developer, Innovix Solutions, El Paso, Texas
+- Developed Java-based applications for efficient data processing and manipulation
+- Managed NoSQL databases, optimizing data storage and retrieval processes
+- Utilized error tracking and debugging techniques to identify and resolve issues
+- Collaborated with cross-functional teams in the development of an e-commerce platform using Python
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a proud Latino male, I leverage my unique perspective to inspire and mentor aspiring engineers from underrepresented communities. Additionally, I hold a sports leadership role as captain of a local soccer team, fostering teamwork, discipline, and a competitive spirit.
+
+Hobbies:
+- Playing the guitar, highlighting my appreciation for music and cultural expressions
+- Participating in multicultural events, fostering diversity awareness and celebrating different traditions and backgrounds
+- Engaging in community service activities, giving back to the community and supporting marginalized groups
+
+Languages:
+Fluent in English and Spanish, allowing for effective communication and collaboration in multicultural environments.

@@ -1,0 +1,44 @@
+XIAOLI PAN
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a passion for developing efficient and secure applications. Skilled in various programming languages and possessing strong problem-solving abilities. Committed to collaborating with diverse teams to deliver innovative solutions while continuously expanding knowledge and skills.
+
+Education:
+Bachelor of Science in Computer Science, Bayshore University, Oakland, California
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern, TechSolutions Inc., Oakland, CA                            July 2020 - December 2020
+- Developed a secure payments system for an e-commerce platform using NoSQL and SQL databases.
+- Collaborated with cross-functional teams to integrate payment gateways and ensure smooth transactions.
+- Researched and implemented secure authentication and encryption methods.
+
+Software Engineer, ByteWave Technologies, Oakland, CA                                January 2019 - June 2020
+- Utilized Python and Java to develop error tracking and debugging tools, enhancing software reliability.
+- Conducted automated testing to identify and resolve coding issues, ensuring high-quality software releases.
+- Collaborated with fellow engineers to improve existing products and identify opportunities for optimization.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Championed diversity and inclusion initiatives within TechSolutions Inc., leading employee resource groups to foster an inclusive work environment.
+- Served as a mentor for underrepresented students, providing guidance on pursuing careers in technology.
+- Held a sports leadership role as a soccer team captain, demonstrating teamwork and effective communication.
+- Actively engaged in promoting diversity and women's empowerment in STEM fields.
+
+Hobbies:
+- Playing the piano, showcasing my passion for music
+- Exploring various art forms and experimenting with different painting techniques
+- Participating in photography clubs to capture diverse cultures and perspectives
+- Practicing martial arts as a personal fitness and self-defense discipline
+
+Languages:
+- English (fluent)
+- Chinese (native)
+
+References available upon request.

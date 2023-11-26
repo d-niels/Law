@@ -1,0 +1,33 @@
+Personal Statement:
+Olive Wells is a highly motivated and dedicated Software Engineer who is passionate about crafting innovative solutions. With a strong background in computer science and a commitment to promoting diversity and inclusivity, Olive strives to make a positive impact in the tech industry. Their diligent work ethic, exceptional problem-solving skills, and unwavering enthusiasm make them an asset to any team.
+
+Education:
+Bachelor of Science in Computer Science, Golden State University, San Francisco, California
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Nexus Technologies, San Francisco, California
+- Utilized SQL and NoSQL databases to optimize data retrieval and storage systems
+- Developed an ecommerce platform using Python to enhance user experiences and drive sales growth
+
+Software Engineer, Innovate Solutions, San Francisco, California
+- Implemented error tracking and automated testing tools to ensure robust and high-quality software releases
+- Designed and integrated secure payment processing systems, ensuring the confidentiality of financial transactions
+- Conducted thorough debugging and maintenance of Java-based applications, resolving issues efficiently
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white female in a male-dominated industry, Olive Wells actively supports initiatives that promote diversity and equality. They served as a team captain for the Golden State University Women's Soccer team, empowering teammates and fostering a strong sense of camaraderie and success on the field.
+
+Hobbies:
+Olive finds solace and expression through playing the violin, a melodic outlet that complements their keen attention to detail and vibrant imagination. They also enjoy attending cultural festivals, exploring art exhibits, and engaging in community programs that embrace diversity and celebrate different traditions.
+
+Languages:
+- English (Fluent)
+- French (Intermediate)

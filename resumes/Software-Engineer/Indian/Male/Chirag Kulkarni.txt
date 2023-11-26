@@ -1,0 +1,35 @@
+Chirag Kulkarni
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a strong passion for developing innovative solutions to complex problems. Skilled in error tracking, secure payments, and programming languages such as Java and Python. Committed to utilizing technology to enhance user experiences and drive business growth. A team player who thrives in collaborative environments, with a strong track record of delivering high-quality software projects on time.
+
+Education:
+Bachelor of Science in Computer Science, Washington Technology University, Washington, DC
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechTech Solutions, Washington, DC
+- Developed an advanced error tracking system to identify and resolve software issues, resulting in a 30% reduction in bug reports.
+- Enhanced the secure payments system, implementing additional layers of encryption to safeguard customer data.
+- Utilized Java and SQL to develop scalable and efficient backend systems.
+
+Software Engineer Intern, Innovative Solutions Inc., Washington, DC
+- Implemented automated testing procedures, resulting in a 20% decrease in software bugs in production.
+- Skillfully debugged complex software issues and provided effective solutions to ensure a seamless user experience.
+- Worked with NoSQL databases and developed ecommerce features for the company's web platform using Python.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As an Indian male from Washington, DC, I take pride in actively promoting diversity and inclusion within the technology community. I am involved in organizing events that celebrate the contributions of underrepresented groups in the field. Additionally, I hold a leadership role in a local soccer organization, serving as a coach and mentor for a youth soccer team.
+
+Hobbies:
+Passionate about playing the tabla, a traditional Indian percussion instrument, which allows me to connect with my cultural heritage. I also enjoy hiking, photography, and exploring different cultures to broaden my understanding of global perspectives.
+
+Languages:
+Fluent in English and Hindi. Embracing my multicultural background enables effective communication and collaboration in diverse settings.

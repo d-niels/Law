@@ -1,0 +1,42 @@
+Nolan Porter
+
+Personal Statement:
+Driven and innovative software engineer with a fervor for creating intelligent and user-centric applications. With a keen eye for detail and a strong problem-solving aptitude, I am dedicated to delivering cutting-edge solutions that exceed industry standards. Passionate about continuous learning and staying abreast of technological advancements, I am committed to pushing the boundaries of what's possible in software development.
+
+Education:
+Bachelor of Science in Computer Science, San Diego University (San Diego, California)
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechnoByte Solutions
+- Spearheaded the development of an error tracking system, effectively improving software performance and enabling quick identification of critical issues.
+- Utilized SQL to design and optimize databases, ensuring smooth data retrieval and storage processes.
+- Conducted meticulous debugging to identify and resolve software defects, guaranteeing a robust and stable application.
+- Leveraged Java to create and maintain various software applications.
+
+Software Engineer Intern, CyberEdge Solutions
+- Collaborated with cross-functional teams to build and maintain an innovative e-commerce platform, facilitating seamless online shopping experiences.
+- Employed NoSQL to design and manage databases, ensuring scalability and secure data storage.
+- Developed and implemented Python scripts to enhance secure payment processing, guaranteeing the integrity of user transactions.
+- Conducted comprehensive automated testing to ensure high-quality software and a seamless user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Diversity Advocate, San Diego Tech Community: Dedicated to promoting diversity and inclusivity in the tech industry, organizing impactful workshops and events that empower underrepresented individuals.
+- Team Captain, University Basketball Team: Led the team to consecutive championship victories, fostering camaraderie, teamwork, and dedication.
+
+Hobbies:
+- Playing the piano: Passionately exploring the world of music through the beautiful melodies of the piano.
+- Photography: Capturing extraordinary moments and exploring diverse perspectives through the lens.
+- Language Learning: Enthusiastically studying Japanese, immersing myself in the rich culture and expanding my global communication skills.
+
+Languages:
+- English (fluent)
+- French (intermediate)
+- Japanese (basic)

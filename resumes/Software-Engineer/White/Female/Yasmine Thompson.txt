@@ -1,0 +1,55 @@
+YASMIN THOMPSON
+1234 Main Street, Phoenix, Arizona 12345 | (123) 456-7890 | yasminthompson@email.com
+
+PERSONAL STATEMENT
+Enthusiastic, dedicated, and detail-oriented software engineer with a strong academic background in computer science and a genuine passion for coding. Proficient in various programming languages, database technologies, and source control systems. Committed to delivering high-quality software solutions that meet client needs and exceed expectations. Driven to continuously improve my skills and stay up-to-date with the latest industry trends and best practices.
+
+EDUCATION
+Bachelor of Science in Computer Science, Desert Vista University, Phoenix, Arizona
+GPA: 3.9/4.0
+Relevant Coursework: Algorithms and Data Structures, Object-Oriented Programming, Software Engineering, Database Management, Web Development
+
+WORK EXPERIENCE
+
+Software Engineer Intern, PhoenixTech Solutions, Phoenix, Arizona
+January 2020 - May 2020
+- Developed secure payment processing functionalities using Java for an e-commerce platform.
+- Collaborated with a cross-functional team to implement various software features and enhancements.
+- Utilized SQL to optimize database queries, improving performance and decreasing response time.
+- Conducted thorough testing to ensure compatibility and security of payment systems.
+
+Software Developer, Stellar Software Solutions, Phoenix, Arizona
+June 2020 - Present
+- Enhanced backend applications using Python for automated testing and error tracking.
+- Conducted debugging and troubleshooting activities to identify and resolve software issues promptly.
+- Implemented NoSQL databases to efficiently store and retrieve data for improved system reliability.
+- Collaborated with the team to streamline development processes and ensure adherence to coding standards.
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+
+Diversity Advocate, Women in Technology Association, Desert Vista University
+- Actively promoted diversity in the technology field, advocating for equal opportunities and representation.
+- Organized events and workshops to encourage more women to pursue careers in technology.
+- Mentored female students in computer science, providing guidance and support.
+
+Softball Team Captain, Desert Vista University Softball Team
+- Led the Desert Vista University Softball Team as captain, fostering team spirit, and cohesiveness.
+- Organized team practices and coordinated game strategies for successful performances.
+
+HOBBIES
+- Playing the piano: Avid piano player, regularly performing classical compositions.
+- Reading literature celebrating diverse cultures: Exploring literary works that embrace multicultural perspectives.
+
+LANGUAGES
+- English (Native)
+- Spanish (Conversational)
+
+REFERENCES
+Available upon request

@@ -1,0 +1,44 @@
+Personal Statement:
+As a proud Latino male from the vibrant city of El Paso, Texas, I am Bolivar Jurado—an ambitious and dedicated software engineer. With a passion for technology and a constant drive for improvement, I strive to innovate and create efficient solutions in every project I undertake. With a solid educational background in computer science, I am excited to leverage my expertise to drive technological advancements in a software engineering role.
+
+Education:
+Bachelor of Science in Computer Science
+Rio Grande University - McAllen, Texas
+GPA: 3.9
+
+Work Experience:
+Software Engineer
+Cobalt Solutions - El Paso, Texas
+June 2018 - Present
+- Developed robust software applications utilizing Python, NoSQL, and other cutting-edge technologies.
+- Implemented efficient error tracking systems to enhance software debugging processes, ensuring smooth operations.
+- Collaborated with cross-functional teams to deliver high-quality software solutions within tight deadlines.
+- Utilized Java to create scalable and efficient software products, optimizing performance and user experience.
+
+Software Developer
+InnovaPay - El Paso, Texas
+August 2016 - May 2018
+- Designed and enhanced secure payment systems for ecommerce platforms, instilling user confidence and trust.
+- Conducted meticulous debugging and testing of software applications, creating seamless user experiences.
+- Leveraged SQL to develop and optimize database schemas, enhancing data management and retrieval.
+- Implemented automated testing processes, reducing manual testing efforts and improving software quality.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively contributing to the Latinx In Tech organization, working towards increased representation and advancement of Latino individuals in the tech industry.
+- Serve as a passionate leader and mentor for an El Paso-based soccer team, inspiring young Latinx players to excel both on and off the field.
+
+Hobbies:
+In my leisure time, I indulge in playing the piano, finding solace and creativity through music. I also enjoy exploring different cultures by traveling extensively and immersing myself in the local customs and traditions.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+Thank you for considering Bolivar Jurado as a potential candidate. I look forward to the opportunity to discuss how my skills and experiences align with the software engineer role at your esteemed organization.

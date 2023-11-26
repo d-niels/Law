@@ -1,0 +1,41 @@
+Qiang Xu
+123 Main Street, Oakland, CA 94607
+(123) 456-7890 | qiangxu@email.com
+
+Personal Statement:
+Dedicated and innovative software engineer with a passion for optimizing performance and delivering high-quality solutions. As a Chinese male with a strong sense of cultural identity, I am committed to promoting diversity and inclusivity within the tech industry. I thrive in team collaborations, leveraging my strong foundation in programming languages and database technologies to create cutting-edge software products.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Oakland University, Oakland, CA
+
+Work Experience:
+Software Engineer, StellarTech Solutions, Oakland, CA
+- Developed and maintained a state-of-the-art e-commerce platform using Python, ensuring secure payment transactions and enhancing user experience.
+- Collaborated with cross-functional teams to implement Java applications for financial data analysis, significantly improving performance and reliability.
+
+Software Engineer, PhoenixSoft, Oakland, CA
+- Led the design and implementation of NoSQL databases, streamlining data storage and retrieval processes for large-scale applications.
+- Employed automated testing, debugging, and error tracking techniques using SQL to ensure software quality and stability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Basketball Team Captain, Oakland Community Center, Oakland, CA
+- Led and mentored a diverse group of athletes in basketball, fostering teamwork, discipline, and personal growth.
+
+Diversity and Inclusion Advocate, Oakland Tech Alliance, Oakland, CA
+- Organized workshops and events to raise awareness and promote inclusivity within the local tech community, emphasizing the importance of diversity in driving innovation.
+
+Hobbies:
+- Playing the guzheng (Chinese traditional instrument)
+- Practicing Tai Chi and Qigong, enhancing both physical and mental well-being
+
+Languages:
+- English: Fluent
+- Mandarin Chinese: Native Speaker

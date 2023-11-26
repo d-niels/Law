@@ -1,0 +1,38 @@
+EVA RAMIREZ
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a strong passion for problem-solving and developing efficient solutions. Leveraging a bachelor's degree in Computer Science and hands-on experience in error tracking, SQL, Java, ecommerce, NoSQL, secure payments, automated testing, and Python. Committed to continuous learning and implementing innovative technologies to enhance software development processes. Complemented by strong leadership, volunteer work, and fluency in both English and Spanish.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+University of Texas at Austin, Austin, Texas
+
+Work Experience:
+Software Engineer | ByteCode Solutions, Austin, Texas
+- Conducted comprehensive error tracking and debugging to identify and resolve software issues effectively.
+- Leveraged SQL and Java programming languages to develop and maintain robust software solutions.
+- Collaborated with cross-functional teams to ensure seamless integration and functionality of software systems.
+
+Software Engineer Intern | CyberCommerce Corp, Austin, Texas
+- Developed cutting-edge software solutions for secure e-commerce platforms, focusing on implementing secure payment systems.
+- Implemented NoSQL databases and automated testing for enhanced software performance and reliability.
+- Utilized Python programming language to streamline and optimize software processes.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively participate in the Latino Software Engineers Association, promoting diversity and inclusion in the tech industry.
+- Played a leadership role in organizing and coaching a local youth soccer team, fostering teamwork, discipline, and sportsmanship among Latinx youth in the community.
+
+Hobbies:
+- Playing the guitar and composing music, embracing the rich musical heritage of Latin America.
+- Exploring diverse cultural events and celebrating the traditions and history of the Latinx community.
+- Engaging in outdoor activities, including hiking and soccer, to maintain an active and balanced lifestyle.
+
+Languages:
+Fluent in English and Spanish, enabling effective communication and collaboration with diverse teams and stakeholders.

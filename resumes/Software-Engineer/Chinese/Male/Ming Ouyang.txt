@@ -1,0 +1,45 @@
+Ming Ouyang
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a strong ability to analyze problems and develop innovative solutions. Committed to delivering high-quality software products and consistently exceeding expectations. Proficient in multiple programming languages and has a passion for developing secure and efficient systems.
+
+Education:
+Bachelor of Science in Computer Science
+University of Houston, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern
+Innovative Solutions Inc., Houston, Texas
+- Collaborated with a team to track errors and debug software systems.
+- Developed and maintained Java applications for data storage and retrieval using NoSQL databases.
+- Implemented automated testing processes to ensure software reliability and functionality.
+
+Software Engineer
+TechGenius Technologies, Houston, Texas
+- Led the development of secure payment systems for e-commerce platforms.
+- Utilized SQL databases to manage and retrieve data efficiently.
+- Created automated testing procedures to improve software quality and reliability.
+- Developed and maintained web-based applications using Python and JavaScript.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Team Captain, Men's Basketball Team
+Demonstrated exceptional leadership skills by leading the team both on and off the court. Promoted team growth and unity while fostering an inclusive and supportive environment for all players.
+
+Ethnic and Gender Advocacy Volunteer
+Active participant in various ethnic and gender advocacy programs, advocating for equal opportunities and promoting a diverse and inclusive workplace.
+
+Hobbies:
+Playing the traditional Chinese musical instrument, Guzheng.
+Exploring various cultures through literature and art.
+Participating in recreational sports activities, such as basketball and soccer.
+
+Languages:
+Fluent in English and Mandarin Chinese.

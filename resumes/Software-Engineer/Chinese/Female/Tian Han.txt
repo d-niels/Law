@@ -1,0 +1,40 @@
+Tian Han
+
+Personal Statement:
+Dedicated and ambitious software engineer with a passion for pushing the boundaries of technology. Committed to developing innovative solutions and contributing to the field of software engineering. Excited to utilize my skills and knowledge to make a significant impact in the industry.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Jose, California
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, StellarSoft Solutions, San Jose, California (2018-2020)
+- Developed secure payment systems for e-commerce platforms using NoSQL and SQL databases
+- Implemented error tracking mechanisms to enhance application stability and performance
+
+Software Development Intern, TechnoCore Innovations, San Francisco, California (2017)
+- Conducted debugging and troubleshooting tasks to ensure the smooth functioning of Java-based e-commerce applications
+- Developed automated testing scripts using Python for efficient quality assurance processes
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Member, Chinese Association for Cultural Exchange (CACE) at Silicon Valley University
+- Fostered a diverse and inclusive community for Chinese students on campus
+- Organized cultural events and celebrations to promote Chinese heritage and traditions
+
+Basketball Team Captain, Silicon Valley University Basketball Team
+- Demonstrated leadership skills as the captain, coordinating team strategies and motivating teammates on and off the court
+
+Hobbies:
+Playing the guzheng (a traditional Chinese instrument)
+Exploring diverse cultures through travel
+Reading books on technology and innovation
+
+Languages:
+Fluent in English, Mandarin Chinese, and Cantonese

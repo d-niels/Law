@@ -1,0 +1,38 @@
+Personal Statement:
+As a dedicated and skilled software engineer, I am driven to create innovative solutions that improve efficiency and drive business growth. With a strong background in automated testing, Java development, and problem-solving, I am confident in my ability to make valuable contributions to your team. My passion for developing impactful software, combined with my analytical skills, makes me well-suited for any software engineering role.
+
+Education:
+Bachelor of Science in Computer Science, Riverdale University, San Antonio, Texas
+GPA: 3.9
+
+Work Experience:
+Software Engineer, CyberTech Systems, San Antonio, Texas
+- Developed and implemented automated testing procedures, resulting in a 30% reduction in testing time and improved software quality
+- Leveraged Java expertise to build robust and scalable applications adhering to industry standards
+- Effectively utilized error tracking tools to identify and resolve software issues promptly
+- Collaborated with cross-functional teams to design and optimize e-commerce platforms for enhanced user experiences
+
+Software Engineer Intern, InnovateX Solutions, San Antonio, Texas
+- Utilized Python to develop secure payment gateways, ensuring seamless and protected financial transactions
+- Conducted comprehensive debugging activities to identify and rectify software defects, ensuring optimal system performance
+- Demonstrated expertise in working with both NoSQL and SQL databases for efficient data management
+- Collaborated closely with team members to develop and implement custom software solutions based on client requirements
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the software engineering field, focusing on advocating for underrepresented individuals through mentoring and community outreach programs
+- Served as a team leader for a local basketball league, fostering teamwork, communication, and leadership skills among a diverse group of athletes
+
+Hobbies:
+- Playing the guitar and piano, exploring various genres of music
+- Embracing diverse cultures through travel and experiencing different art forms
+- Engaging in outdoor activities like hiking and kayaking to connect with nature
+
+Languages:
+- Fluent in English and Spanish, facilitating effective communication in multicultural environments

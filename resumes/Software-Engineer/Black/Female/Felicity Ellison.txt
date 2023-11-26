@@ -1,0 +1,43 @@
+Felicity Ellison
+
+Personal Statement:
+As a black female software engineer from Washington, District of Columbia, I am driven by a passion for creating innovative solutions and leveraging technology to make a positive impact in society. With a Bachelor's degree in Computer Science and a strong foundation in problem-solving, I am dedicated to excellence and eager to contribute my technical expertise to a dynamic software engineering role.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, Washington, District of Columbia
+GPA: 3.9/4.0
+Relevant Coursework: Data Structures, Algorithms, Object-Oriented Programming, Software Engineering
+
+Work Experience:
+Software Engineer, TechGenius Solutions, Washington, District of Columbia
+- Collaborated with a cross-functional team to debug and resolve issues in a robust e-commerce web application, ensuring seamless user experience and customer satisfaction
+- Designed and implemented efficient NoSQL databases to improve application scalability, performance, and data retrieval capabilities
+- Utilized advanced error tracking tools to identify software defects and implemented effective solutions, reducing application downtime and user disruptions
+
+Software Engineer Intern, Innovest Labs, Washington, District of Columbia
+- Developed SQL queries and designed secure database structures to support online payment processing systems, ensuring data integrity and resilience against potential threats
+- Contributed to the design and implementation of Java and Python modules for seamless integration with secure payment gateways, enhancing transaction security and reliability
+- Conducted rigorous automated testing to validate software functionality, identify potential vulnerabilities, and improve overall system robustness
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active advocate for diversity and inclusion in the tech industry, lending my voice and expertise as a member of the National Society of Black Engineers
+- Demonstrated sports leadership as the captain of the university's basketball team, fostering teamwork, discipline, and resilience among a diverse group of athletes
+- Engaged with local organizations that empower and support women and minorities in the technology sector, amplifying their voices and promoting equal opportunities
+
+Hobbies:
+- Playing the saxophone to express my creativity, explore different musical genres, and find tranquility in the rhythm
+- Exploring diverse cultures through travel, embracing the beauty of different traditions, languages, and perspectives
+- Contributing to various social justice initiatives, advocating for equality, representation, and inclusivity
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)
+
+References available upon request.

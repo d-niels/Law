@@ -1,0 +1,38 @@
+Personal Statement:
+I am Ira Gavaskar, an Indian female software engineer based in Washington, DC. With a deep affinity for coding and problem-solving, I am driven to apply my skills in developing cutting-edge software solutions. As an advocate for diversity and inclusion in the tech industry, I am committed to fostering an environment that embraces individuals from diverse backgrounds.
+
+Education:
+Bachelor of Science in Computer Science
+Techton University, Washington, DC
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern, StellarSoft, Washington, DC
+- Developed Java-based ecommerce applications, working with NoSQL databases to ensure efficient data retrieval and storage.
+- Conducted SQL queries to analyze critical business data and support decision-making processes.
+
+Software Engineer, CipherSolutions, Washington, DC
+- Implemented error tracking mechanisms and automated testing procedures to enhance product quality and reliability.
+- Utilized various debugging techniques to identify and resolve software issues, improving overall system stability.
+- Led the implementation of secure payment systems, prioritizing customer data protection.
+- Leveraged Python to create an internal tool that streamlined development processes within the team.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer and Leadership:
+As an Indian female software engineer, I actively contribute to initiatives promoting diversity and women empowerment in the tech industry. Additionally, I serve as a team leader in basketball, where I mentor and organize a diverse group of individuals passionate about the sport.
+
+Hobbies:
+In my free time, I enjoy playing the piano, immersing myself in the harmonious melodies it produces. I also engage in oil painting and hiking, appreciating the beauty of nature. Furthermore, I am fluent in English, Hindi, and Tamil, allowing me to connect with people from diverse linguistic backgrounds.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Tamil (Fluent)
+
+References available upon request.

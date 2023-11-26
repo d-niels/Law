@@ -1,0 +1,37 @@
+Personal Statement:
+I am a motivated and results-driven software engineer with a passion for developing innovative solutions. With a strong foundation in computer science and expertise in various programming languages and database technologies, I am confident in my abilities to contribute to any software development project. Being a Chinese male from San Francisco, I bring a diverse perspective to the table, enabling me to approach challenges from a unique angle. I am dedicated to continuous growth and always strive to exceed expectations in everything I do.
+
+Education:
+Bachelor of Science in Computer Science
+Golden Bay University, San Francisco, California
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer- CyberGen Innovations, San Francisco, CA
+- Developed and maintained Python and Java applications for advanced e-commerce platforms.
+- Implemented automated testing procedures, resulting in a 25% reduction in bug resolution time.
+- Collaborated with cross-functional teams to optimize performance and enhance user experience.
+
+Software Engineer Intern- TechXcel Solutions, San Francisco, CA
+- Created and managed secure payment systems using NoSQL and SQL databases.
+- Assisted in debugging complex issues and error tracking processes.
+- Developed efficient and reliable code to improve system stability and functionality.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteered at the Chinatown Community Center, organizing cultural events and promoting Chinese heritage.
+- Served as the captain of a basketball team, coordinating practices and fostering teamwork among diverse members.
+
+Hobbies:
+- Playing the erhu, a traditional Chinese musical instrument.
+- Engaging in outdoor activities such as hiking and exploring California's scenic landscapes.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native Speaker)

@@ -1,0 +1,41 @@
+Jairo Montoya
+
+Personal Statement:
+A highly motivated and detail-oriented software engineer with a passion for problem-solving and developing innovative solutions. With a solid background in computer science and experience in software engineering, I am determined to contribute my skills and knowledge to create cutting-edge applications and software systems. As a Latino male from San Antonio, Texas, I am driven by a strong sense of diversity and inclusion, with the ability to adapt and thrive in multicultural environments.
+
+Education:
+Bachelor of Science in Computer Science, San Antonio University, San Antonio, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, InnovateTech Solutions, San Antonio, Texas
+- Debugged and resolved technical issues, ensuring efficient software functionality.
+- Utilized SQL-based queries to optimize database performance and retrieve data accurately.
+- Implemented secure payment gateways and encryption protocols for enhanced user privacy.
+- Developed and maintained NoSQL databases for efficient data storage and retrieval.
+
+Software Developer, TechGenius Corporation, San Antonio, Texas
+- Utilized Java and Python to develop software solutions, enhancing overall system performance.
+- Conducted automated testing procedures to identify and rectify any software errors or bugs.
+- Developed ecommerce applications, integrating secure payment systems and enhancing user experience.
+- Employed error tracking tools to analyze and resolve issues, ensuring seamless software operation.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion as a leader in the Latino community of San Antonio.
+- Served as a team captain for the local soccer team, organizing and coordinating various events and activities within the sporting community.
+- Engaged in mentoring and volunteering for underprivileged youth, providing support and guidance for their educational and personal growth.
+
+Hobbies:
+- Playing the guitar, a creative outlet that allows me to express my emotions and cultural heritage.
+- Exploring diverse musical genres, from jazz to Latin rhythms, indulging in the rich tapestry of global music.
+- Learning and speaking multiple languages to foster cross-cultural communication and understanding.
+
+Languages:
+- Fluent in English and Spanish.

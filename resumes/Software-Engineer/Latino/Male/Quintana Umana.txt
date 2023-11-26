@@ -1,0 +1,48 @@
+Personal Statement:
+
+A highly motivated and passionate software engineer with a strong background in computer science. I am dedicated to creating innovative solutions that optimize efficiency, enhance user experiences, and drive customer satisfaction. With expertise in various programming languages and a focus on problem-solving, I am eager to contribute my skills and drive for success to a dynamic software engineering role.
+
+Education:
+
+Bachelor of Science in Computer Science,
+University of Houston, Houston, TX
+
+- Graduated with a GPA of 3.9 – Honors Program
+
+Work Experience:
+
+Software Engineer, Stellar Software Solutions, Houston, TX (2019 – Present)
+- Collaborated with a cross-functional team to develop, test, and deploy highly scalable software solutions for clients in the finance industry.
+- Utilized expertise in debugging and automated testing to identify and resolve complex issues, ensuring the stability and reliability of the systems.
+- Developed and optimized SQL queries to enhance database performance and data retrieval.
+- Implemented Python scripts for automating routine tasks, resulting in significant time and cost savings.
+
+Software Development Intern, Ignite Technologies, Houston, TX (2018)
+- Assisted in the development and enhancement of secure payment systems and ecommerce platforms for global clients.
+- Leveraged Java programming language to build robust and reliable software solutions, ensuring secure online transactions.
+- Implemented NoSQL databases for efficient big data management and retrieval, enhancing system performance.
+- Utilized advanced error tracking tools to identify and resolve critical issues, ensuring seamless user experiences.
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+- Active member and mentor at Unidos Techie, an organization focused on supporting and empowering underrepresented Latino individuals in the field of technology.
+- Led and coached a youth basketball team, nurturing leadership skills and promoting teamwork among young athletes.
+
+Hobbies:
+
+- Playing the guitar, exploring various genres and rhythms, and performing at local cultural festivals and events.
+- Participating in local basketball tournaments, leveraging my skills as a player and fostering community engagement.
+
+Languages:
+English (Fluent),
+Spanish (Native)
+
+References available upon request.

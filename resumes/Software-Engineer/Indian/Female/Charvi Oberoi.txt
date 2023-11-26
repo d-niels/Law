@@ -1,0 +1,39 @@
+Charvi Oberoi
+
+Personal Statement:
+A highly motivated and detail-oriented software engineer, passionate about creating innovative and efficient solutions. With a strong background in computer science and diverse technical skills, I strive to contribute to the advancement of software development. As an Indian female in the field, I am dedicated to promoting diversity and equality in technology. I thrive on challenges and enjoy collaborating with teams to achieve remarkable results.
+
+Education:
+Bachelor of Science in Computer Science, Stellar University, Los Angeles, CA | May 20XX
+
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Infinity Innovations, Los Angeles, CA | June 20XX - Present
+- Developed and maintained cutting-edge Java-based ecommerce applications, integrating with NoSQL databases to enhance performance.
+- Implemented automated testing procedures, ensuring the reliability and functionality of software products.
+- Collaborated with cross-functional teams to identify and resolve technical issues, optimizing the user experience.
+
+Software Developer, Quantum Software Solutions, Los Angeles, CA | May 20XX - May 20XX
+- Debugged and resolved software defects using SQL and advanced debugging tools, enhancing overall system performance.
+- Utilized Python for scripting tasks, error tracking, and developing efficient solutions.
+- Played a key role in the development of secure payment systems, ensuring data protection and safeguarding customer transactions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active advocate for promoting diversity and equality in technology, particularly as a representative of the Indian female community.
+- Volunteered as a sports leader, organizing and coaching a youth soccer team, fostering teamwork and leadership skills.
+
+Hobbies:
+- Playing the piano and guitar
+- Exploring diverse cultures through music and art
+- Participating in community events that celebrate diversity and inclusion
+
+Languages:
+- Fluent in English and Hindi

@@ -1,0 +1,42 @@
+Charvi Nair
+
+Personal Statement:
+Results-driven Indian female software engineer with a passion for designing and developing innovative software solutions. Diligent and detail-oriented, with a strong academic background in computer science and a proven track record of delivering high-quality work. Committed to leveraging my technical expertise and leadership skills to contribute to the success of a dynamic software engineering team.
+
+Education:
+Bachelor of Science in Computer Science, TechSmith University, Dallas, Texas (GPA: 3.9/4.0)
+
+Work Experience:
+Software Engineer, Innovate Technologies Inc., Dallas, Texas
+- Developed and maintained an e-commerce platform using Python, SQL, and advanced debugging techniques
+- Collaborated closely with cross-functional teams to ensure seamless integration of various software components
+- Gathered requirements from stakeholders and implemented secure payment solutions for the platform
+- Conducted extensive testing and debugging to ensure optimal performance and minimize errors
+
+Software Developer, Dynamic Solutions, Dallas, Texas
+- Designed and implemented automated testing procedures for a web-based application using Java and NoSQL
+- Integrated error tracking tools to enhance the application's stability and performance
+- Developed secure payment functionalities and implemented proper error handling mechanisms
+- Collaborated with colleagues to design and optimize database architecture using NoSQL technologies
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively promoted diversity and inclusion within the tech community as an Indian female software engineer
+- Served as a team captain in competitive basketball, showcasing strong leadership, communication, and teamwork skills
+- Engaged in mentorship programs to support and inspire underrepresented groups in the software engineering field
+
+Hobbies:
+- Playing the guitar to nurture creativity and focus
+- Exploring different cultures through travel and adopting new languages
+- Participating in community events that celebrate diversity and promote gender equality
+
+Languages:
+English (Fluent), Hindi (Fluent)
+
+References available upon request.

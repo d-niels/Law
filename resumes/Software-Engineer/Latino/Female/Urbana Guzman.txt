@@ -1,0 +1,48 @@
+Urbana Guzman
+123 Main Street, Phoenix, Arizona 12345
+Phone: (555) 123-4567 | Email: urbanaguzman@email.com
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a passion for creating innovative solutions. Dedicated to delivering high-quality code and troubleshooting complex problems. Committed to contributing to a diverse and inclusive tech community. With a love for soccer and a background in music, I bring creativity and teamwork to my work.
+
+Education:
+Bachelor of Science in Computer Science, Phoenix University, Phoenix, Arizona
+GPA: 3.9/4.0
+Relevant Coursework: Software Engineering, Data Structures, Algorithms, Object-Oriented Programming
+
+Work Experience:
+Software Engineer, Luminary Solutions, Phoenix, Arizona
+June 2018 - Present
+- Developed SQL queries and maintained databases for secure payment transactions in an e-commerce platform
+- Automated testing processes, resulting in a more efficient and reliable software development lifecycle
+- Collaborated with cross-functional teams to improve system performance and scalability
+
+Junior Software Engineer, Tech Innovators, Phoenix, Arizona
+January 2017 - May 2018
+- Debugged and tracked errors in code to ensure high-quality software
+- Utilized Python and NoSQL databases to enhance data retrieval and storage
+- Contributed to the development of Java-based applications
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Ambassador, Phoenix University
+- Promoted diversity and inclusion within the tech community through organizing workshops and events
+- Mentored underrepresented students to pursue careers in STEM fields
+- Served as a soccer team leader, motivating students to participate in sports and fostering teamwork
+
+Hobbies:
+- Playing guitar
+- Leading and participating in community soccer leagues
+- Attending cultural festivals and art exhibitions
+
+Languages:
+Fluent in English and Spanish, both written and spoken.
+
+References:
+Available upon request.

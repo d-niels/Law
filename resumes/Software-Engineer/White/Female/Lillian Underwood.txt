@@ -1,0 +1,38 @@
+Lillian Underwood
+
+Personal Statement:
+Motivated and dedicated software engineer with a passion for creating innovative and efficient solutions. Committed to utilizing my strong analytical and problem-solving skills to drive the development of cutting-edge software applications. Offering a proven track record in secure payments, automated testing, and error tracking. Eager to contribute to a dynamic team as a software engineer.
+
+Education:
+Bachelor of Science in Computer Science, Riverbend University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, InnovateTech Solutions, Houston, Texas
+- Developed secure payment systems using Python and SQL, ensuring data integrity and encryption.
+- Implemented an automated testing framework, resulting in a 30% reduction in testing time.
+- Collaborated with cross-functional teams to design and deploy scalable software applications.
+
+Software Developer, Zephyr Software Solutions, Houston, Texas
+- Performed error tracking and debugging activities to identify and resolve software defects.
+- Utilized NoSQL databases and Java programming language to optimize e-commerce platforms.
+- Spearheaded the enhancement of an online platform, resulting in a 20% increase in user engagement.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry, specifically advocating for increased representation of women and minorities.
+- Organized and led a leadership role in soccer, coaching and mentoring a girls' soccer team to foster teamwork, skill development, and sportsmanship.
+
+Hobbies:
+- Playing the piano and composing music
+- Traveling to explore different cultures and traditions
+- Engaging in creative writing and storytelling
+
+Languages:
+Fluent in English and Spanish

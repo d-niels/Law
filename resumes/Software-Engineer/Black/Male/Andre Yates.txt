@@ -1,0 +1,49 @@
+Personal Statement:
+
+Highly motivated and dedicated software engineer with a passion for problem-solving and a strong background in computer science. Eager to apply my skills and expertise to contribute to innovative software solutions. Committed to delivering high-quality results and continuously learning to stay at the forefront of the ever-evolving technology industry.
+
+Education:
+
+Bachelor of Science in Computer Science, Indiana State University, Indianapolis, IN
+- Graduated with a GPA of 3.9
+- Relevant coursework: Data Structures, Algorithms, Object-Oriented Programming, Software Engineering
+
+Work Experience:
+
+Software Engineer, TechWave Solutions, Indianapolis, IN
+- Implemented and maintained SQL database systems to support secure payments for a cutting-edge web application
+- Developed automated testing procedures to ensure the reliability and security of payment processing
+- Utilized error tracking tools to identify and fix software bugs effectively
+
+Software Engineer Intern, InnovateX, Indianapolis, IN
+- Analyzed and debugged complex software issues in a high-volume NoSQL database environment
+- Collaborated with cross-functional teams to develop and enhance an e-commerce platform for a leading retail brand
+- Utilized Python and Java to develop customized software solutions for various client requirements
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Volunteer, EmpowerTech, Indianapolis, IN
+- Mentored underrepresented black male students in computer science and technology-related subjects, encouraging diversity and inclusion in the tech industry
+- Organized coding workshops and career development sessions to inspire and educate young minds
+- Spearheaded initiatives to provide access to technology resources in underserved communities
+
+Sports Leadership Role, Indianapolis City Basketball League, Indianapolis, IN
+- Led a diverse team of athletes as captain in the city's premier basketball league
+- Promoted teamwork, discipline, and cooperation while fostering a supportive and inclusive environment
+- Organized community outreach programs to engage young aspiring athletes from underrepresented backgrounds
+
+Hobbies:
+
+Playing the saxophone, drawing, exploring cultural diversity through art, staying updated with the latest advancements in technology, and playing basketball
+
+Languages:
+
+Fluent in English and Spanish.

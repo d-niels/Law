@@ -1,0 +1,49 @@
+Cheng Han
+Philadelphia, Pennsylvania | (123) 456-7890 | chenghan@email.com
+
+Personal Statement:
+Motivated and results-driven software engineer with a passion for problem-solving and creating efficient and secure software solutions. Dedicated to keeping up with the latest industry trends and technologies. Excellent communication and teamwork skills honed through diverse work experiences. Committed to contributing positively to the development of innovative software applications.
+
+Education:
+Bachelor of Science in Computer Science, University of Pennsylvania, Philadelphia, Pennsylvania
+- Graduated with honors, GPA: 3.9
+- Relevant coursework: Algorithms and Data Structures, Software Engineering, Operating Systems
+
+Work Experience:
+Software Engineer Intern, Innovix Systems, Philadelphia, Pennsylvania
+June 20XX - August 20XX
+- Developed and enhanced e-commerce platforms, focusing on secure payment systems using NoSQL and SQL databases
+- Collaborated with cross-functional teams to analyze user requirements and implement robust and scalable solutions
+- Conducted testing and debugging of software modules to ensure quality and effectiveness
+- Utilized agile methodologies to deliver projects within tight deadlines
+
+Software Developer, Envision Tech Innovations, Philadelphia, Pennsylvania
+September 20XX - Present
+- Collaborate with a team of engineers to develop robust automated testing frameworks
+- Troubleshoot and resolve errors with precision using Python, Java, and debugging tools
+- Implement effective error tracking systems to identify and resolve software issues promptly
+- Contribute to the development and deployment of software products using Agile methodologies
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate, Inclusive Tech Solutions, Philadelphia, Pennsylvania
+- Empowered underrepresented communities, promoting diversity and inclusivity in the tech industry
+- Organized events and workshops to foster dialogue and offer support for marginalized groups
+- Sports Leadership: Team Captain, XYZ University Basketball Team
+  - Demonstrated leadership skills by motivating and guiding teammates towards success
+
+Hobbies:
+- Playing the guzheng (traditional Chinese instrument)
+- Participating in cultural exchange programs to promote understanding between different communities
+- Exploring Chinese calligraphy and brush painting techniques
+- Engaging in outdoor activities such as hiking and rock climbing
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

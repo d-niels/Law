@@ -1,0 +1,36 @@
+Personal Statement:
+Dedicated and passionate software engineer with a strong academic background in computer science and a focus on secure payments and ecommerce. Skilled in multiple programming languages and experienced in debugging and testing. Committed to delivering innovative solutions and driving technological advancements. An Indian female from New York, combining technical expertise with a unique perspective to bring diversity and excellence to the field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science, Liberty University, New York, NY | 3.9 GPA
+
+Work Experience:
+Software Engineer, Spectrum Innovations, New York, NY
+- Developed secure payment solutions using Python, ensuring seamless and safe transactions for a diverse client base.
+- Utilized debugging techniques and automated testing to identify and rectify software issues promptly.
+- Collaborated with cross-functional teams to deliver high-quality software products, meeting tight project deadlines.
+- Worked with database technologies including SQL and NoSQL to optimize data storage and retrieval for improved system performance.
+
+Software Developer, NovaTech Solutions, New York, NY
+- Implemented advanced error tracking systems to proactively identify and resolve software defects, reducing downtime.
+- Designed and developed scalable ecommerce applications using Java, providing exceptional user experiences for online shoppers.
+- Utilized SQL databases to efficiently store and manage large volumes of data for seamless retrieval and analysis.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Served as a team captain and leader in the sport of soccer, fostering teamwork, discipline, and skill development in players.
+- As a female software engineer of Indian descent, actively contributed to diversity and inclusion initiatives in the tech industry, advocating for equal opportunities for underrepresented groups.
+
+Hobbies:
+- Playing the violin, showcasing a passion for music and cultural appreciation.
+- Exploring various art forms, such as painting and sketching, promoting creativity and self-expression.
+- Engaging in outdoor activities like hiking and rock climbing, fostering a sense of adventure and physical well-being.
+
+Languages:
+- Fluent in English and Hindi, facilitating effective communication in multicultural environments.

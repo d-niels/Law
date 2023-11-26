@@ -1,0 +1,42 @@
+Aanya Iyer
+
+Personal Statement:
+Dedicated and passionate software engineer with a strong academic background in computer science. Experienced in developing and implementing software solutions across multiple languages and platforms. Committed to delivering high-quality code and ensuring optimal user experiences. Eager to leverage technical expertise and problem-solving skills to contribute to innovative software projects.
+
+Education:
+Bachelor of Science in Computer Science, XYZ Institute of Technology, Chicago, Illinois
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, Innovix Solutions, Chicago, Illinois
+- Developed and maintained Python-based ecommerce software for a leading fashion retailer, enhancing the platform's functionality and performance.
+- Utilized SQL to manage and optimize complex databases, ensuring seamless integration with the ecommerce system.
+- Conducted extensive debugging and troubleshooting activities to identify and resolve software issues efficiently.
+- Collaborated with cross-functional teams to implement new features and improve user experience.
+
+Software Developer, Phoenix Technologies, Chicago, Illinois
+- Utilized Java to develop secure payment solutions for a global banking institution, ensuring the integrity of financial transactions.
+- Implemented error tracking systems to identify and address software issues promptly, improving system stability.
+- Conducted automated testing to ensure the reliability and security of software applications.
+- Employed NoSQL databases for efficient storage and retrieval of data, enhancing system performance and scalability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the technology industry, mentoring and advocating for female Indian engineers in the Chicago community.
+- Served as a team captain for the city's competitive field hockey team, fostering teamwork, leadership, and sportsmanship among athletes.
+
+Hobbies:
+- Playing the sitar, a traditional Indian musical instrument, to connect with my cultural heritage and express creativity.
+- Participating in hackathons and coding competitions, continually pushing boundaries and expanding my technical skills.
+
+Languages:
+- English (fluent)
+- Hindi (fluent)
+
+References available upon request.

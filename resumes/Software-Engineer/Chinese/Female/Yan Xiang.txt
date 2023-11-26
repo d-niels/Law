@@ -1,0 +1,39 @@
+Personal Statement:
+As a highly motivated and detail-oriented software engineer, I am driven by my passion for problem-solving and my commitment to staying at the forefront of technological advancements. With a strong background in computer science and a dedication to continuous learning, I am eager to contribute my skills and expertise to push boundaries and drive innovation in the field of technology.
+
+Education:
+Bachelor of Science in Computer Science
+Philadelphia Technology Institute, Philadelphia, Pennsylvania
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | StellarTech Solutions, Philadelphia, Pennsylvania
+- Developed secure payment software solutions, leveraging NoSQL databases and implementing robust automated testing procedures.
+- Collaborated with cross-functional teams to successfully resolve complex technical issues using effective debugging techniques.
+- Ensured the delivery of high-quality software products by closely working with product managers.
+- Conducted comprehensive code reviews and implemented industry best practices to enhance the overall software development process.
+
+Software Engineer Intern | AlphaSoft, Philadelphia, Pennsylvania
+- Assisted in error tracking and troubleshooting for an e-commerce platform, utilizing Java, Python, and SQL to enhance overall functionality.
+- Conducted extensive testing and debugging to ensure smooth operation of critical software components.
+- Collaborated closely with the development team to design and implement innovative software solutions.
+- Played a vital role in optimizing the platform's performance, resulting in an improved user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Diverse Leadership Program: Actively participated in a leadership program aimed at empowering and promoting diversity in the technology industry, representing the Chinese female community in Philadelphia.
+- Basketball Team Captain: Showcased leadership skills as the captain of a local basketball team, fostering teamwork and inspiring team members to achieve their highest potential.
+
+Hobbies:
+- Playing the piano: Showcasing my passion for music and the dedication required to master this instrument.
+- Exploring various artistic forms: Embracing my cultural heritage through calligraphy and other artistic expressions.
+
+Languages:
+- English: Fluent
+- Mandarin Chinese: Native Speaker

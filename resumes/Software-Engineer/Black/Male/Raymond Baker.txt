@@ -1,0 +1,29 @@
+Personal Statement:
+I am a dedicated and goal-oriented software engineer with a passion for creating innovative solutions. Coming from Detroit, Michigan, as a black male, I am committed to promoting diversity and inclusivity in the tech industry. With a strong educational background and extensive work experience, I strive to contribute my skills and expertise to drive technological advancements and deliver high-quality software solutions.
+
+Education:
+Bachelor of Science in Computer Science, University of Michigan, Detroit, Michigan (GPA: 3.9)
+
+Work Experience:
+Software Engineer - TechWave Solutions, Detroit, Michigan
+- Developed secure payment systems and implemented cutting-edge ecommerce solutions to ensure seamless and secure transactions.
+- Conducted automated testing, utilizing state-of-the-art tools to ensure software quality and maintain high standards.
+- Utilized error-tracking systems to identify and resolve software bugs and discrepancies, ensuring smooth functionality.
+
+Software Engineer - ByteTech Corporation, Detroit, Michigan
+- Designed and optimized SQL and NoSQL databases, ensuring efficient and scalable software applications.
+- Demonstrated expertise in debugging and problem-solving, utilizing a range of tools and techniques to deliver robust software solutions.
+- Proficient in Python, Java, and other programming languages, collaborating with cross-functional teams to meet project goals and deadlines.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a black male software engineer, I actively engage in promoting diversity and inclusion in the tech industry. I have volunteered as a mentor for underrepresented students, offering guidance and support to help them pursue rewarding careers in technology. Additionally, I am a passionate leader in the community, coaching and mentoring young athletes in basketball, inspiring them to reach their full potential on and off the court.
+
+Hobbies:
+In my free time, I enjoy playing the saxophone, showcasing my passion for music and creativity. I also participate in cultural events and embrace diverse perspectives, expanding my knowledge and understanding of different ethnic traditions. These experiences inspire and fuel my creativity as a software engineer.

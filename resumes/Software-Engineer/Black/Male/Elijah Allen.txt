@@ -1,0 +1,39 @@
+Elijah Allen
+
+Personal Statement:
+Highly motivated and results-driven software engineer with a passion for coding and problem-solving. Committed to delivering high-quality solutions with attention to detail. Strong background in Java, Python, and SQL with a track record of successfully executing complex projects. Dedicated to continuous learning and keeping up with the latest industry trends. Seeking a challenging software engineer position to contribute to innovative software development.
+
+Education:
+Bachelor of Science in Computer Science, Memphis State University, Memphis, Tennessee
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern, NovaTech Solutions, Memphis, Tennessee
+- Developed efficient Java code for error tracking and debugging purposes.
+- Utilized SQL for database management and data manipulation.
+- Collaborated with a team to meet project deadlines and deliver high-quality software.
+
+Software Engineer, Stellar Software Solutions, Memphis, Tennessee
+- Implemented secure payment systems for e-commerce platforms using Python and NoSQL databases.
+- Conducted automated testing to ensure seamless functionality of software applications.
+- Collaborated with cross-functional teams to enhance performance and scalability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Co-Leader, Sports Leadership Program, Memphis State University:
+  Led and mentored a team of diverse student athletes, fostering collaboration and sportsmanship in basketball.
+
+Hobbies:
+- Playing the saxophone to express creativity and embrace music.
+- Engaging in various physical activities such as basketball and cycling to maintain a healthy lifestyle.
+- Exploring different cultures and traditions, celebrating diversity and promoting inclusivity in the community.
+
+Languages: English (fluent), Spanish (conversational)
+
+References available upon request.

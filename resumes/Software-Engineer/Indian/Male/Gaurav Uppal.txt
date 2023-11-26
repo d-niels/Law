@@ -1,0 +1,37 @@
+Personal Statement:
+I am a highly motivated and dedicated software engineer with a passion for creating innovative solutions. With my strong background in computer science and expertise in various programming languages, I am confident in my ability to excel in a software engineer role. I am committed to delivering high-quality results and constantly seeking opportunities to expand my skills and knowledge in the field.
+
+Education:
+Bachelor of Science in Computer Science, XYZ University, Los Angeles, California
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Innovative Tech Solutions, Los Angeles, California
+- Developed an advanced error tracking system to identify and resolve programming issues efficiently
+- Utilized Python and Java to enhance the functionality of the company's cutting-edge ecommerce platform
+- Collaborated with cross-functional teams to optimize software performance and user experience
+- Assisted in the deployment and maintenance of various software applications, contributing to seamless operations and customer satisfaction
+
+Software Developer, Digital Innovations Inc., Los Angeles, California
+- Managed and optimized database systems using SQL and NoSQL technologies
+- Implemented robust measures for secure payment transactions, ensuring data privacy and protection
+- Conducted thorough debugging and troubleshooting to maintain optimal software performance
+- Developed and executed extensive automated testing procedures, resulting in significant improvements in software quality and reliability
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As an Indian male software engineer, I actively contribute to fostering diversity and inclusivity within the tech industry. I have been involved in initiatives that aim to empower individuals from underrepresented groups to pursue careers in technology. Additionally, I have served as a leader in a local community soccer team, promoting teamwork, discipline, and sportsmanship within the realm of soccer.
+
+Hobbies:
+In my free time, I enjoy playing the sitar, a traditional Indian musical instrument that allows me to connect with my cultural heritage. I am also a passionate reader, exploring various genres of literature to expand my knowledge and perspective. Furthermore, I am fluent in English, Hindi, and Punjabi, enabling effective communication and engagement with diverse communities.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Punjabi (Fluent)

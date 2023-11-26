@@ -1,0 +1,41 @@
+YASIN COOPER
+
+PERSONAL STATEMENT
+Motivated and passionate software engineer with a strong background in computer science. Committed to creating innovative solutions through applying analytical skills, debugging techniques, and efficient programming languages. Dedicated to promoting diversity and inclusion in the tech industry. Demonstrated leadership and volunteer experience. Seeking a challenging software engineering role to contribute positively to a dynamic team and drive technological advancements.
+
+EDUCATION
+Bachelor of Science in Computer Science (GPA: 3.9)
+Metropolis University, Washington, District of Columbia
+
+WORK EXPERIENCE
+
+Software Engineer, TechSys Inc.
+- Developed and optimized database systems for error tracking and ecommerce platforms, utilizing SQL to enhance data management and performance.
+- Conducted automated testing processes to ensure software functionality and reliability.
+
+Software Engineer, Cybertech Solutions
+- Collaborated on developing Python and Java-based secure payment systems, ensuring data integrity and customer privacy.
+- Utilized NoSQL databases for efficient data storage and retrieval.
+- Implemented advanced debugging techniques to identify and resolve software issues.
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+- Actively promotes diversity and inclusion as a black male software engineer, advocating for equal opportunities and representation in the industry.
+- Sports Leadership: Leads and coaches a local basketball team, promoting teamwork, discipline, and sportsmanship among youth.
+- Empowers underrepresented communities through mentorship and organizing tech-related events to bridge the digital divide.
+
+HOBBIES
+- Playing the saxophone, contributing to various music ensembles and exploring different genres.
+- Traveling to explore diverse cultures, languages, and customs, promoting cross-cultural understanding and personal growth.
+
+LANGUAGES
+- English (Native)
+- [Additional languages, if applicable]
+
+References available upon request.

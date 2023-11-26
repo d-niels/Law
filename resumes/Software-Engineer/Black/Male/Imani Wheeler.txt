@@ -1,0 +1,47 @@
+IMANI WHEELER
+Indianapolis, Indiana | (123) 456-7890 | imaniwheeler@email.com
+
+PERSONAL STATEMENT
+Detail-oriented and driven software engineer with a passion for creating innovative solutions. Highly skilled in various programming languages and technologies, with a strong understanding of software development principles. Committed to delivering efficient, high-quality code to meet users' needs. Bringing a diverse perspective with a commitment to promoting diversity, inclusion, and representation in the tech industry.
+
+EDUCATION
+Bachelor of Science in Computer Science, Magna Cum Laude | Indiana Tech University, Indianapolis, IN | May 20XX
+- Relevant Coursework: Algorithms, Data Structures, Operating Systems, Software Engineering
+
+WORK EXPERIENCE
+Software Developer | PixelSoft Technology Solutions, Indianapolis, IN | May 20XX - Present
+- Developed and maintained ecommerce web applications, utilizing Java and JavaScript.
+- Debugged and resolved issues to optimize application performance, ensuring a smooth user experience.
+- Implemented automated testing strategies to minimize errors during the development process.
+- Collaborated with cross-functional teams to identify and address technical challenges.
+
+Software Engineer Intern | Quantum Software Innovations, Indianapolis, IN | May 20XX - Aug 20XX
+- Assisted in error tracking and troubleshooting software issues using Python and debugging tools.
+- Contributed to the development of secure payment systems, ensuring compliance with industry standards.
+- Managed SQL and NoSQL databases, optimizing data retrieval and storage for faster application response times.
+- Collaborated with a team of engineers to deliver high-quality software solutions.
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Diversity Advocate | Tech Inclusion Initiative, Indianapolis, IN | September 20XX - Present
+- Actively promote diversity and inclusion in the tech industry, organizing events and workshops to educate and engage underrepresented communities in STEM fields.
+- Serve as a mentor to aspiring minority software engineers, offering guidance and support throughout their educational and professional journey.
+- Sports Leadership Role: Volunteer Coach, Youth Soccer League | Indianapolis, IN | November 20XX - Present
+- Lead and mentor a diverse team of youth soccer players, focusing on developing their athletic skills, teamwork, and character.
+
+HOBBIES
+- Playing the guitar, exploring various music genres.
+- Collecting vinyl records from diverse artists, emphasizing diverse cultural influences.
+
+LANGUAGES
+- English (Native)
+- Spanish (Fluent)
+
+REFERENCES
+Available upon request.

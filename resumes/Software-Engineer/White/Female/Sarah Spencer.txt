@@ -1,0 +1,42 @@
+Sarah Spencer
+
+Personal Statement:
+A dedicated and passionate software engineer with a strong background in computer science. Committed to delivering high-quality code and leveraging innovative solutions to meet complex challenges. Skilled in Python, Java, SQL, and NoSQL, with a solid understanding of ecommerce and secure payments. Strong problem-solving and analytical skills, combined with effective communication and teamwork abilities.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+Madison University, Madison, Wisconsin
+
+Work Experience:
+Software Engineer
+InnovativeSoft Solutions, Madison, WI
+- Utilized Python to develop and maintain secure and user-friendly ecommerce platforms, ensuring seamless and secure online transactions.
+- Managed SQL databases, optimizing queries and maintaining data integrity.
+- Collaborated with cross-functional teams to develop and implement new application features, ensuring high-quality deliverables.
+- Worked closely with product managers to prioritize and deliver software releases with a strong focus on customer satisfaction.
+
+Software Engineer Intern
+TechGenius Consulting, Madison, WI
+- Implemented error tracking and automated testing strategies using Java, significantly reducing bugs and improving overall code quality.
+- Developed and maintained NoSQL databases, enhancing data access and system performance.
+- Conducted effective debugging investigations and resolved critical issues, enhancing the reliability of the software solution.
+- Actively participated in code reviews, providing valuable feedback and recommendations to team members.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteered as a mentor for underrepresented students in STEM fields, providing guidance, mentorship, and support to foster their interest and success in technology.
+- Served as a team leader in basketball, organizing practices and promoting teamwork and camaraderie among diverse team members.
+
+Hobbies:
+- Playing the piano
+- Exploring different cultures through music and art
+- Supporting women in technology initiatives
+
+Languages:
+Fluent in English and Spanish

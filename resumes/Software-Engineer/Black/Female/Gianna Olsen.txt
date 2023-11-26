@@ -1,0 +1,37 @@
+Personal Statement:
+As a driven and passionate software engineer, I am dedicated to utilizing my skills and knowledge to drive innovation in the technology industry. With a strong background in programming and a desire to make a meaningful impact, I am committed to equal representation and inclusion within the field. As a black female hailing from Washington, District of Columbia, I strive to promote diversity and contribute to the development of inclusive solutions that address a wide range of user needs.
+
+Education:
+Bachelor of Science in Computer Science (3.9 GPA)
+Techville University, Washington, District of Columbia
+
+Work Experience:
+Software Engineer | Innovage Technologies, Washington, DC
+- Developed robust software applications using Java, Python, and automated testing techniques.
+- Employed effective debugging tools and strategies to quickly identify and resolve complex code issues.
+- Collaborated closely with cross-functional teams to ensure optimal functionality and performance of applications.
+
+Software Developer | CyberShield Solutions, Washington, DC
+- Implemented secure payment systems and advanced error tracking mechanisms for an e-commerce platform.
+- Utilized SQL and NoSQL databases to design efficient and scalable data models.
+- Collaborated with team members to continuously enhance system performance and reliability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in organizations promoting diversity and inclusion in the technology industry, advocating for greater representation of women and minorities.
+- Served as a trusted leader in a local basketball team, fostering teamwork and mentorship while promoting gender and racial equality.
+
+Hobbies:
+- Playing the piano (advanced level)
+- Participating in cultural events and festivals that celebrate diversity and inclusivity
+- Exploring various musical genres to broaden my understanding of different cultures
+
+Languages:
+- Fluent in English
+- Conversational proficiency in French

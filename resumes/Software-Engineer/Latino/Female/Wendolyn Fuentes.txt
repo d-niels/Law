@@ -1,0 +1,44 @@
+Wendolyn Fuentes
+
+Personal Statement:
+Highly motivated and results-driven software engineer with a passion for creating innovative solutions. Dedicated to leveraging my technical expertise and strong problem-solving skills to develop efficient and scalable software applications. Committed to cultivating a diverse and inclusive tech industry. I strive to empower underrepresented groups, particularly Latinas, in the world of technology.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Jose, California
+- Graduated with a 3.9 GPA
+
+Work Experience:
+
+Software Engineer, Quantum Technologies, San Francisco, California
+- Developed and maintained a cutting-edge e-commerce platform using Java, NoSQL, and SQL
+- Collaborated with cross-functional teams in the design, development, and implementation of new features.
+- Implemented optimized algorithms to improve the platform's performance and scalability.
+
+Software Developer Intern, Stellar Software Solutions, Palo Alto, California
+- Assisted in error tracking, automated testing, and debugging of software applications.
+- Collaborated with the team to analyze and resolve software defects.
+- Contributed to the development of secure payment processing systems using Python.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latina Women in Technology, Silicon Valley University
+- Co-founded and led the Latina Women in Technology organization, dedicated to empowering and supporting Latina students pursuing careers in technology.
+- Organized networking events, workshops, and mentorship programs to foster professional growth and build a strong community.
+- Served as a mentor to underrepresented students, providing guidance and support.
+
+Sports Leadership Role, Silicon Valley University Women's Soccer Team
+- Led the university's Women's Soccer Team as team captain, promoting teamwork, discipline, and perseverance.
+- Orchestrated training sessions, developed game strategies, and organized team events.
+- Demonstrated exceptional leadership and communication skills both on and off the field.
+
+Hobbies:
+Playing the guitar, participating in local coding meetups, exploring various cultures through travel, and reading books by Latino authors.
+
+Languages:
+Fluent in English and Spanish.

@@ -1,0 +1,42 @@
+Ivan Ulloa
+
+Personal Statement:
+Enthusiastic and driven software engineer with a passion for developing innovative solutions. Dedicated to leveraging my skills and knowledge in programming languages and database technologies to create efficient and secure software systems. Committed to continuous improvement, I thrive in collaborative environments and seek opportunities to contribute my problem-solving abilities to exciting projects. As a proud Latino male from Los Angeles, California, I am passionate about bringing my unique perspective and diverse background to the tech industry, promoting diversity and inclusion for all.
+
+Education:
+Bachelor of Science in Computer Science
+XYZ University, Los Angeles, California
+GPA: 3.9
+
+Work Experience:
+Software Engineer | Stellar Technologies, Los Angeles, CA
+- Developed a highly scalable and optimized NoSQL database system, significantly improving data retrieval and storage efficiency for millions of users
+- Implemented robust error tracking and debugging tools, enabling quick identification and resolution of issues, resulting in a 30% reduction in downtime
+- Contributed to the development of a cutting-edge e-commerce platform, ensuring a seamless and user-friendly shopping experience for customers
+- Collaborated with cross-functional teams to design and implement secure payment solutions, enhancing user trust and data security
+
+Software Developer | Nova Solutions, Los Angeles, CA
+- Spearheaded the implementation of automated testing procedures, leading to a 50% decrease in development cycle time and improved product quality
+- Developed secure payment gateways, utilizing Python and SQL, to enhance transaction security and protect sensitive customer information
+- Leveraged Java to create high-performance software solutions, solving complex business requirements efficiently
+- Collaborated effectively with team members to deliver projects on time with superior quality
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Mentored aspiring software engineers at the XYZ University's Diversity in Tech Program, empowering underrepresented students and providing guidance in their career paths
+- Actively involved in promoting diversity and inclusion in the tech industry through various initiatives and organizations
+- Assumed a leadership role as a captain in a local basketball league, coordinating training sessions, promoting teamwork, and fostering a positive and respectful team environment
+
+Hobbies:
+- Playing the guitar and composing music
+- Exploring different cultures through music and art, celebrating diversity, and fostering unity
+- Promoting gender equality and diversity in STEM fields, advocating for equal opportunities for all
+- Supporting local community initiatives and organizations that champion education and empowerment
+
+Languages: English (Fluent), Spanish (Native)

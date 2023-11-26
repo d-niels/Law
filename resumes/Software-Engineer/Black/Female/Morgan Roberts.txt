@@ -1,0 +1,55 @@
+MORGAN ROBERTS
+
+Personal Statement:
+Highly motivated and innovative software engineer with a passion for problem-solving and creating efficient solutions. Committed to delivering high-quality software products and enhancing user experiences. Skilled in various programming languages, debugging techniques, and database technologies. Dedicated to promoting diversity and inclusivity in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science (Honors), ABC University, Charlotte, North Carolina
+- Graduated with a 3.9 GPA
+- Relevant coursework: Data Structures, Algorithms, Software Engineering, Object-Oriented Programming
+
+Work Experience:
+
+Software Engineer Intern, InnovateTech Inc., Charlotte, North Carolina
+August 2019 - May 2020
+- Collaborated with cross-functional teams to develop and maintain error tracking and debugging tools.
+- Utilized Python to automate the process for secure payment transactions, increasing efficiency by 30%.
+- Assisted in identifying and resolving software issues, significantly reducing debugging time.
+- Worked closely with senior engineers to enhance the overall system reliability and performance.
+
+Software Engineer, TechSolutions Corp, Charlotte, North Carolina
+June 2020 - Present
+- Developed robust e-commerce applications using Java, SQL, and NoSQL databases.
+- Employed automated testing techniques to identify and fix software defects, improving product quality.
+- Designed and implemented secure payment systems to ensure hassle-free transactions for clients.
+- Collaborated with clients to understand their requirements and deliver customized software solutions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Volunteer STEM Instructor, DiversityTech Program, Charlotte, North Carolina
+September 2018 - May 2019
+- Mentored and guided underrepresented students in computer science, fostering inclusivity and diversity.
+- Conducted coding workshops and encouraged young minds to pursue careers in technology.
+
+Sports Leadership:
+Captain, ABC University Women's Soccer Team, Charlotte, North Carolina
+August 2016 - May 2019
+- Led a team of diverse athletes, fostering teamwork and discipline.
+- Organized community service events to promote physical fitness and gender equality in sports.
+
+Hobbies:
+- Playing the saxophone
+- Painting
+- Reading literature from diverse authors
+- Learning new languages (English, French)
+
+Languages:
+- English (Fluent)
+- French (Intermediate)

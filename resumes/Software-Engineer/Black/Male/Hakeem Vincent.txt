@@ -1,0 +1,42 @@
+**Hakeem Vincent**
+Philadelphia, Pennsylvania
+Email: hvincent@email.com
+Phone: (123) 456-7890
+
+**Personal Statement:**
+A highly motivated and talented software engineer with a strong background in computer science and a passion for problem-solving. As a black male from Philadelphia, Pennsylvania, I am committed to promoting diversity and inclusion in the tech industry. I strive to leverage my skills and experiences to create innovative software solutions that enhance user experiences. I am seeking a challenging software engineering role where I can contribute my proficiency in various programming languages and database technologies.
+
+**Education:**
+Bachelor of Science in Computer Science, Pennsylvania State University, Philadelphia, Pennsylvania
+- GPA: 3.9/4.0
+
+**Work Experience:**
+1. Software Engineer Intern, StellarTech Solutions
+- Developed Python-based e-commerce solutions for secure payments, resulting in a 20% increase in online revenue
+- Debugged and resolved issues related to payment gateways and transaction security
+- Collaborated with cross-functional teams to ensure smooth integration and improved user experience
+
+2. Junior Software Developer, Semaphore Systems
+- Implemented automated testing procedures resulting in a 30% reduction in application bugs
+- Utilized NoSQL databases for effective data management and storage
+- Conducted thorough error tracking and utilized debugging techniques to resolve issues promptly
+- Developed software applications using Java and SQL to meet client requirements
+
+**Skills:**
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+**Volunteer & Leadership:**
+- Actively involved in promoting diversity and inclusion in the tech industry as a black male software engineer
+- Served as a basketball team captain, providing guidance and mentoring to a team of young athletes
+
+**Hobbies:**
+- Playing the piano to relax and unwind
+- Engaging in various outdoor activities such as hiking and cycling, fostering a healthy lifestyle
+- Involved in community service activities to help underprivileged youth
+
+**Languages:**
+- Fluent in English and Spanish

@@ -1,0 +1,35 @@
+Personal Statement:
+As a driven and creative software engineer, I am passionate about leveraging technology to solve complex problems. With a solid foundation in computer science, I continuously strive to expand my programming skills and contribute to cutting-edge innovations. I thrive in collaborative environments and believe in the power of diversity and inclusion to drive meaningful change.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Jose, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Innovexa Technologies, Santa Clara, CA
+- Developed scalable software solutions using Python and Java, optimizing performance and efficiency
+- Utilized NoSQL and SQL databases to manage and analyze extensive datasets
+- Collaborated with cross-functional teams to ensure seamless integration and troubleshooting of software components
+
+Associate Software Engineer, Cybernaut Systems, Mountain View, CA
+- Spearheaded automated testing strategies for software reliability, ensuring high-quality products
+- Designed and implemented e-commerce systems, enabling secure payment transactions
+- Implemented advanced error tracking and debugging techniques to improve troubleshooting efficiency
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively engaged in cultural festivals and events, celebrating Indian heritage and promoting diversity
+- Served as a captain and leader of a competitive cricket team, fostering teamwork, discipline, and sportsmanship
+
+Hobbies:
+- Playing the tabla, a traditional Indian percussion instrument, to express creativity and explore cultural traditions
+- Immersing myself in photography, capturing moments that reflect diverse cultures and perspectives
+
+Languages:
+- Fluent in English and Hindi, enabling effective communication in multicultural settings.

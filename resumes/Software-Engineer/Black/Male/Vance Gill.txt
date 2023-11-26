@@ -1,0 +1,40 @@
+Vance Gill
+
+Personal Statement:
+Driven and highly skilled software engineer with a passion for creating innovative solutions. With a strong background in computer science, I am dedicated to developing efficient and secure software applications. My diverse work experience has equipped me with a solid foundation in automated testing, debugging, and database technologies. I am committed to continuous learning and staying up-to-date with the latest trends and advancements in the industry. As a black male from Memphis, Tennessee, I am proud of my heritage and embrace the opportunity to contribute to the diversity and inclusivity in the field of technology.
+
+Education:
+Bachelor of Science in Computer Science, Delta University, Memphis, Tennessee
+- Graduated with Honors
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, CypherTech Solutions, Memphis, Tennessee
+- Developed automated testing scripts using Python to ensure the functionality and security of software applications
+- Collaborated with cross-functional teams to implement secure payment systems for e-commerce platforms
+- Participated in code reviews and utilized best practices for maintaining high-quality code
+
+Software Developer, Quantum Software Development, Memphis, Tennessee
+- Utilized SQL and NoSQL databases to manage and manipulate data for various software projects
+- Developed Java applications, focusing on error tracking and debugging to identify and resolve software issues efficiently
+- Collaborated with team members to implement effective solutions for client requirements
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Mentor, Memphis Black Coders Association: Provide guidance and support to aspiring black software engineers, fostering an inclusive and supportive environment.
+- Team Captain, Memphis Youth Basketball League: Led a basketball team, promoting teamwork, discipline, and sportsmanship.
+
+Hobbies:
+- Playing the saxophone: Jazz and blues music have always been a big part of my life, and I enjoy playing the saxophone in my spare time.
+- Traveling: Exploring new cultures and experiencing diverse perspectives plays a significant role in broadening my understanding of the world.
+- Photography: Capturing moments and telling stories through my lens allows me to express my creativity and appreciation for visual arts.
+
+Languages:
+- English (Native proficiency)
+- Spanish (Conversational proficiency)

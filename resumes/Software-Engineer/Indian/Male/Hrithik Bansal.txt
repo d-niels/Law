@@ -1,0 +1,41 @@
+Hrithik Bansal
+Address: Chicago, Illinois | Phone: (XXX) XXX-XXXX | Email: hrithik.bansal@email.com
+LinkedIn: linkedin.com/in/hrithikbansal
+
+Personal Statement:
+Results-oriented and highly motivated software engineer with a passion for solving complex technical challenges. Committed to delivering efficient and scalable software solutions. Strong analytical skills and attention to detail, combined with excellent problem-solving abilities. Dedicated team player with a proven ability to adapt quickly to new technologies and thrive in fast-paced environments.
+
+Education:
+Bachelor of Science in Computer Science | Northwestern University, Evanston, Illinois
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer | TechGenius Solutions, Chicago, Illinois | May 2018 - Present
+- Collaborated with a cross-functional team to debug and resolve software issues using SQL, Python, and error tracking tools.
+- Implemented and optimized SQL queries for faster data retrieval and performance.
+- Developed Python modules for data manipulation and analysis.
+- Actively participated in code reviews to ensure a high-quality codebase.
+
+Software Developer Intern | AlphaTech Corporation, Chicago, Illinois | June 2017 - August 2017
+- Utilized NoSQL databases to design, develop, and maintain an e-commerce platform with a focus on secure payments.
+- Developed Java-based backend systems to handle transaction processing for online sales.
+- Contributed to the implementation of automated testing frameworks to validate software functionality and identify defects.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As an active member and advocate for the Indian cultural community in Chicago, I have organized festivals and cultural events to promote diversity and inclusivity. Additionally, I have served as a Sports Leadership Coordinator, leading a soccer team and fostering teamwork and camaraderie.
+
+Hobbies:
+Playing the tabla, a traditional Indian percussion instrument, exploring diverse cultures through travel, and staying active through recreational soccer.
+
+Languages:
+Fluent in English and Hindi.
+
+References:
+Available upon request.

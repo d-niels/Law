@@ -1,0 +1,40 @@
+Personal Statement:
+As a passionate software engineer, I am committed to leveraging technology to solve complex problems and drive meaningful change. With a strong background in computer science and expertise in various programming languages and database technologies, I thrive in dynamic and challenging environments. I am seeking a software engineer position where I can contribute my skills, creativity, and problem-solving abilities to make a positive impact.
+
+Education:
+Bachelor of Science in Computer Science, San Antonio State University, San Antonio, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechHaven Solutions, San Antonio, Texas
+- Developed and maintained a robust ecommerce platform using Python and Java, resulting in a 25% increase in customer satisfaction.
+- Implemented automated testing procedures, resulting in a 40% reduction in software bugs and enhanced overall system reliability.
+- Collaborated with cross-functional teams to successfully integrate new features and enhancements.
+
+Software Engineer, SecureTech Systems, San Antonio, Texas
+- Led the implementation of secure payment systems and error tracking functionalities, ensuring a secure and seamless payments process.
+- Utilized SQL and NoSQL databases to manage and optimize data storage and retrieval, improving system performance by 30%.
+- Applied advanced debugging techniques to identify and resolve complex software issues, resulting in enhanced system stability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Member, Latinas in Tech Organization, San Antonio, Texas
+- Actively contribute to initiatives supporting Latinas in the tech industry and promoting diversity and inclusion.
+- Mentor aspiring Latina software engineers and provide guidance on career development and personal growth.
+- Organize and lead a leadership program in soccer for Latina girls, emphasizing teamwork, resilience, and self-confidence.
+
+Hobbies:
+- Playing the guitar and composing music
+- Participating in local Latin dance groups, celebrating diverse cultural traditions
+- Exploring multicultural cuisines through cooking and food festivals
+
+Languages:
+English (Fluent), Spanish (Native Speaker)
+
+References available upon request.

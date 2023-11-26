@@ -1,0 +1,38 @@
+Luis Jara
+
+Personal Statement:
+Dedicated and passionate software engineer with a strong background in programming and problem-solving. Committed to developing innovative and efficient software solutions, while consistently staying up-to-date with emerging technologies. As a Latino male, I am driven by the desire to contribute to the diversity and inclusiveness of the tech industry. My leadership skills and volunteer experience reflect my commitment to fostering an inclusive environment for all. With a love for sports and music, I bring a well-rounded perspective to my work.
+
+Education:
+Bachelor of Science in Computer Science (Honors)
+XYZ University, Phoenix, Arizona
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | AlphaTech Solutions, Phoenix, AZ
+- Developed and maintained Java-based e-commerce applications, ensuring efficient and secure payment processing for international clients.
+- Utilized SQL to manage databases efficiently, guaranteeing seamless data retrieval and storage.
+- Collaborated with cross-functional teams to optimize system performance and improve user experience for high-traffic websites.
+
+Software Engineer | BetaSoft Innovations, Phoenix, AZ
+- Debugged and resolved issues within NoSQL databases, enhancing system stability and performance for a cloud-based SaaS product.
+- Utilized Python for scripting and automation, streamlining error tracking process and reducing customer incident response time.
+- Implemented automated testing practices to ensure high-quality software deliverables in an Agile development environment.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Ethnic Minority Inclusion Advocate, XYZ University: Actively promoted diversity and inclusion initiatives, providing support for underrepresented students within the computer science department.
+- Basketball Team Captain, XYZ University: Led the university's basketball team with strong leadership skills, mentoring and motivating fellow athletes to excel both on and off the court.
+
+Hobbies:
+- Playing the guitar and composing music, showcasing my love for music and fostering creativity.
+- Exploring diverse cultures through travel, deepening my understanding and appreciation for global communities and their unique perspectives.
+
+Languages:
+- Fluent in English and Spanish, enabling effective communication and collaboration in diverse settings.

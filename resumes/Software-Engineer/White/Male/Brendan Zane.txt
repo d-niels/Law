@@ -1,0 +1,35 @@
+Brendan Zane
+
+Personal Statement:
+A dedicated and results-driven software engineer with a passion for problem-solving and creating efficient solutions. Detail-oriented and collaborative, I strive to deliver high-quality software applications to meet the needs of users. With a strong foundation in computer science and extensive hands-on experience, I am eager to contribute my skills to a dynamic team as a software engineer.
+
+Education:
+Bachelor of Science in Computer Science, Golden State University, San Francisco, California
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, StellarSoft Technologies, San Francisco, California
+- Implemented error tracking and automated testing functionalities for a large-scale e-commerce platform, improving product reliability.
+- Utilized SQL to optimize database performance and streamline system operations, resulting in enhanced efficiency.
+
+Software Engineer Intern, TechVantage Solutions, San Francisco, California
+- Developed secure payment modules using Python and Java for a web application, ensuring seamless and protected transactions.
+- Conducted thorough debugging and performance tuning utilizing NoSQL databases, leading to improved application stability.
+- Collaborated with the team to implement effective debugging techniques, enhancing the development process.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white male in the tech industry, I am committed to fostering diversity and inclusivity. I actively engage in promoting these values by volunteering with organizations that support underrepresented communities in technology. Additionally, I lead a local basketball team, promoting teamwork, communication, and sportsmanship within a diverse group of individuals.
+
+Hobbies:
+In my free time, I enjoy playing the piano, which allows me to express my creativity and find solace. I also actively participate in various cultural festivals and gender equality initiatives, celebrating diversity and advocating for equal opportunities.
+
+Languages:
+- English (Fluent)
+- [Include additional languages if applicable]

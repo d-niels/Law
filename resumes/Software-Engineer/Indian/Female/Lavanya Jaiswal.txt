@@ -1,0 +1,49 @@
+LAVANYA JAISWAL
+
+Philadelphia, Pennsylvania | (123) 456-7890 | lavanyajaiswal@email.com
+
+PERSONAL STATEMENT
+Motivated Indian female software engineer with a passion for developing innovative solutions. Committed to delivering secure and efficient software systems. Excels in problem-solving and thrives in collaborative environments. Seeking a software engineer position to utilize my skills and contribute to cutting-edge projects.
+
+EDUCATION
+Bachelor of Science in Computer Science (GPA: 3.9)
+Eastwood University, Philadelphia, Pennsylvania
+Expected Graduation: May 2022
+
+WORK EXPERIENCE
+Software Engineer Intern, NovaTech Industries
+June 2021 - September 2021
+- Developed secure payment systems for an e-commerce platform, ensuring smooth and reliable transactions.
+- Utilized NoSQL and SQL databases to optimize data storage and retrieval processes.
+- Collaborated with cross-functional teams to design and implement effective e-commerce solutions.
+- Assisted in troubleshooting and resolving technical issues to enhance customer experience.
+
+Junior Software Engineer, QuantumSoft Technologies
+September 2020 - May 2021
+- Proficiently coded in Python and Java, and conducted automated testing to ensure software quality.
+- Participated in debugging sessions and utilized error tracking tools to identify and resolve issues promptly.
+- Collaborated with team members to develop efficient software solutions for clients.
+- Assisted in conducting code reviews and implementing best practices for software development.
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Volunteer, Indian Association of Philadelphia
+- Actively involved in promoting Indian culture and organizing community events.
+- Provided guidance and support to new Indian immigrants, fostering a sense of unity and belonging.
+- Served as a basketball team leader, organizing practices and coaching during community tournaments.
+
+HOBBIES
+- Playing the flute
+- Exploring diverse cultures through literature and music
+
+LANGUAGES
+Fluent in English and Hindi
+
+REFERENCES
+Available upon request

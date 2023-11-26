@@ -1,0 +1,37 @@
+Personal Statement:
+Motivated and detail-oriented software engineer with a deep passion for creating innovative applications and solutions. I am dedicated to continuous learning and professional growth, and thrive in collaborative environments where I can contribute my unique perspectives and experiences as a black male from Columbus, Ohio. Through my technical expertise, strong problem-solving skills, and commitment to excellence, I am confident in my ability to deliver exceptional results as a software engineer.
+
+Education:
+Bachelor's Degree in Computer Science, Columbus State University, Columbus, Ohio
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Stellar Technologies, Columbus, Ohio
+- Utilized NoSQL and SQL databases to design and optimize data storage systems
+- Conducted automated testing to ensure high-quality code and system performance
+- Developed applications using Java programming language
+
+Software Engineer, Quantum Labs, Columbus, Ohio
+- Implemented secure payment systems for ecommerce platforms using Python programming language
+- Debugged errors and tracked system issues to ensure seamless operation
+- Collaborated with cross-functional teams to deliver efficient and scalable solutions
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Empowerment Through STEM, Columbus, Ohio
+- Mentored young black males in computer science to promote diversity and inclusion in the field
+- Organized and led sports leadership programs for underrepresented youth in basketball, serving as a team captain and motivator
+
+Hobbies:
+- Playing the saxophone
+- Engaging in community activism and advocating for social justice
+- Exploring new places and cultures through travel and photography
+
+Languages:
+Fluent in English and proficient in Spanish.

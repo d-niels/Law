@@ -1,0 +1,33 @@
+Personal Statement:
+I am a driven and innovative software engineer, dedicated to creating efficient and seamless solutions for complex problems. With a diverse skill set and a strong educational background in computer science, I am eager to contribute my expertise to a dynamic software engineering role. My unwavering commitment to excellence, collaborative mindset, and meticulous attention to detail make me a valuable asset to any team.
+
+Education:
+Bachelor of Science in Computer Science, Oakwood University, Houston, Texas
+GPA: 3.9
+
+Work Experience:
+Software Engineer, StellarTech Solutions, Houston, Texas
+- Developed robust Python scripts to optimize data retrieval and manipulation, using SQL and NoSQL databases, ensuring seamless integration and enhanced system performance.
+- Implemented efficient error tracking systems, effectively identifying and resolving software bugs, resulting in improved overall software quality.
+
+Junior Software Developer, NovaSoft Innovations, Houston, Texas
+- Utilized Java expertise and advanced debugging techniques to troubleshoot and resolve issues within the company's cutting-edge e-commerce platform.
+- Collaborated with multidisciplinary teams to design and implement automated testing procedures, ensuring secure and reliable payment processing.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in fostering diversity and inclusion within the tech community, advocating for equitable opportunities for underrepresented groups.
+- Served as a leadership mentor in basketball, guiding and empowering individuals to excel on and off the court, promoting discipline, teamwork, and perseverance.
+
+Hobbies:
+- Playing the guitar, using music as an outlet for relaxation and creative expression.
+- Exploring various cultures through music, art, and literature, embracing the rich tapestry of our global society.
+
+Languages:
+Fluent in English and Spanish.

@@ -1,0 +1,47 @@
+Peyton Archer
+
+Personal Statement:
+Passionate and driven software engineer with a strong background in secure payments and automated testing. Committed to developing innovative solutions that enhance user experiences and meet client objectives. Leveraging programming skills and problem-solving abilities to drive efficiency and deliver exceptional results.
+
+Education:
+Bachelor of Science in Computer Science, Columbus State University, Columbus, Ohio
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, NexTech Innovations, Columbus, Ohio
+- Developed secure payment systems using Java and SQL, ensuring the confidentiality and integrity of sensitive customer information
+- Implemented and maintained automated testing processes using industry-leading tools and techniques
+- Collaborated with cross-functional teams to evaluate system requirements and design scalable software solutions
+
+Software Developer, VirtuTech Solutions, Columbus, Ohio
+- Utilized Python to debug and optimize codebase, resulting in increased software performance and reliability
+- Implemented NoSQL databases and error tracking systems, facilitating seamless data management and improved user experience
+- Contributed to the development of an ecommerce platform, driving sales growth and enhancing customer satisfaction
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate, Columbus State University, Columbus, Ohio
+- Spearheaded initiatives promoting equity and inclusivity within the computer science department
+- Organized workshops and events celebrating the contributions of underrepresented minorities in the field
+- Mentored and guided female students, empowering them to succeed in their computer science studies
+
+Sports Leadership Role, Girls Empowerment through Sports (GETS), Columbus, Ohio
+- Led a volleyball team and mentored young girls, fostering a sense of empowerment, teamwork, and self-confidence
+- Organized and facilitated sports and leadership programs, promoting inclusivity and challenging gender stereotypes
+
+Hobbies:
+- Playing the piano: Expressing creativity and emotion through music, refining discipline and focus
+- Traveling and exploring diverse cultures: Embracing new experiences, fostering intercultural understanding, and broadening horizons
+- Learning new languages: Nurturing a passion for different cultures and facilitating global communication and connections
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate level)
+
+References available upon request.

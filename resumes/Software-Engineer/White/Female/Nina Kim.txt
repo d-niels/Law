@@ -1,0 +1,47 @@
+NINA KIM
+Dallas, Texas | (123) 456-7890 | ninakim@email.com
+
+PERSONAL STATEMENT
+Innovative and dedicated software engineer with a passion for creating efficient and cutting-edge solutions. As a white female software engineer, I am committed to contributing to diverse teams and fostering an inclusive work environment. With a strong foundation in computer science and expertise in programming languages and database technologies, I am driven to leverage my skills and experience to drive impactful outcomes.
+
+EDUCATION
+Bachelor of Science in Computer Science, Texas Tech University, Lubbock, Texas
+- Graduated with High Honors, May 20XX
+- GPA: 3.9/4.0
+
+WORK EXPERIENCE
+Software Engineer, Stellar Solutions, Dallas, Texas
+June 20XX - Present
+- Developed and maintained SQL databases, ensuring efficient and reliable data storage
+- Utilized Java for backend development, implementing scalable and secure software solutions
+- Conducted rigorous debugging processes to identify and resolve software defects
+- Managed NoSQL databases, optimizing data retrieval efficiency for client applications
+
+Software Engineer Intern, Quantum Tech Solutions, Dallas, Texas
+May 20XX - August 20XX
+- Assisted in developing secure payment systems for an e-commerce platform
+- Conducted automated testing to ensure the quality and reliability of software applications
+- Collaborated with cross-functional teams to track and resolve errors promptly
+- Implemented Python scripts to automate manual tasks, enhancing workflow efficiency
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Volunteer, Local Tech Diversity Initiative, Dallas, Texas
+- Mentored underrepresented students exploring tech careers, providing guidance and support
+- Actively promoted diversity and inclusion within the organization, advocating for equal opportunities for all members
+
+Sports Leadership Role, Dallas Women's Tech Soccer League
+- Led and captained a team of female software engineers in soccer tournaments, promoting gender diversity
+- Organized soccer events and training sessions, fostering teamwork and camaraderie among female professionals
+
+HOBBIES
+Playing the guitar, oil painting, exploring diverse cultures through travel and attending music festivals
+
+LANGUAGES
+Fluent in English and Spanish

@@ -1,0 +1,41 @@
+Ananya Vaidya
+Software Engineer
+
+Personal Statement:
+Dynamic and forward-thinking software engineer with a passion for innovation and problem-solving. Committed to leveraging technical expertise and collaborative skills to develop cutting-edge software applications. Adaptable and driven, always seeking new challenges and opportunities for growth.
+
+Education:
+Bachelor of Science in Computer Science
+Phoenix University, Philadelphia, Pennsylvania
+GPA: 3.9
+
+Work Experience:
+Software Engineer Intern, StellarTech Solutions, Philadelphia, PA
+- Worked collaboratively with a team of engineers to develop and maintain Python-based software applications
+- Utilized SQL for efficient data retrieval, manipulation, and management
+- Assisted in debugging complex technical issues and implementing effective solutions
+- Implemented and executed automated testing processes for enhanced software quality assurance
+
+Software Engineer, NovaSys Technologies, Philadelphia, PA
+- Contributed to the development of cutting-edge ecommerce software solutions using NoSQL and Java technologies
+- Implemented error tracking systems to identify and resolve software defects promptly
+- Designed and integrated secure payment processing systems to ensure secure online transactions
+- Collaborated with cross-functional teams to meet project deadlines and deliver high-quality software products
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Demonstrated exceptional leadership as the captain of the university's women's basketball team, fostering teamwork and mentorship
+- Actively participated in community volunteer programs focused on promoting technology education in underrepresented communities
+
+Hobbies:
+- Playing the violin, showcasing a dedication to artistic expression and cultural enrichment
+- Engaging in outdoor activities such as hiking and exploring national parks, fostering a love for nature and promoting a healthy lifestyle
+
+Languages:
+- Fluent in English and Hindi, facilitating effective communication in multicultural settings.

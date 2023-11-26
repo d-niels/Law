@@ -1,0 +1,30 @@
+Personal Statement:
+I am a dedicated and results-driven software engineer with a passion for creating innovative solutions to complex problems. With a strong background in computer science and extensive experience in various programming languages, I am confident in my ability to contribute to any software development project. My commitment to excellence and effective problem-solving skills enable me to deliver high-quality solutions on time. I thrive in collaborative environments and excel at both independent and team-oriented work.
+
+Education:
+Bachelor of Science in Computer Science, Phoenix University, Phoenix, Arizona
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Phoenix Innovations, Phoenix, Arizona
+- Developed and implemented a highly secure payment processing system using Python and integrated it into the company's robust e-commerce platform
+- Utilized comprehensive error tracking tools to identify and resolve issues promptly, ensuring a smooth operation of the payment system
+- Collaborated with cross-functional teams to enhance the overall security and functionality of the e-commerce platform
+
+Software Engineer Intern, Stellar Software Solutions, Phoenix, Arizona
+- Utilized Java and advanced debugging techniques to troubleshoot and resolve issues in large-scale software applications
+- Developed and maintained automated test scripts to ensure the quality and reliability of software products
+- Worked with NoSQL and SQL databases to optimize data retrieval and storage
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Dedicated to promoting diversity and inclusion, I have actively participated in various volunteer and leadership activities. As a white male, I recognize the importance of creating opportunities for underrepresented groups in the tech industry. As a sports team leader in competitive basketball, I mentor and empower young women and minority athletes, encouraging their growth and leadership development.
+
+Hobbies:
+In my free time, I enjoy playing the guitar and exploring various genres of music. My interests also include traveling, immersing myself in different cultures, and mastering new languages. As a polyglot, I am fluent in English, Spanish, and French, allowing me to effectively communicate and collaborate with diverse teams and clients.

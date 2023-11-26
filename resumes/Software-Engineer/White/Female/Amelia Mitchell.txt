@@ -1,0 +1,36 @@
+Amelia Mitchell
+
+Personal Statement:
+A highly motivated and detail-oriented software engineer with a strong passion for creating innovative solutions. With a Bachelor's degree in Computer Science from Phoenix State University, I possess a solid foundation in programming and database technologies. My experience in error tracking, automated testing, and debugging enhances my ability to develop robust and secure software solutions. I am committed to staying updated with the latest technologies and contributing to creating a more inclusive and diverse tech community.
+
+Education:
+Bachelor of Science in Computer Science
+Phoenix State University, Phoenix, Arizona
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | Stellar Systems, Phoenix, Arizona
+June 2019 - Present
+- Developed an error tracking system using Java, ensuring efficient identification and resolution of software defects.
+- Built and optimized SQL queries to enhance the performance and scalability of the company's ecommerce platform.
+- Collaborated with cross-functional teams to develop and implement new features, improving the user experience of the application.
+
+Software Developer Intern | NovaTech Solutions, Phoenix, Arizona
+May 2018 - August 2018
+- Utilized Python to create automated testing scripts, reducing manual effort and improving testing efficiency.
+- Worked with NoSQL databases to optimize data storage and retrieval for a high-traffic web application.
+- Conducted debugging and troubleshooting activities to identify and resolve software issues in a timely manner.
+- Ensured secure payment processing by implementing industry best practices and adhering to security standards.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white female, I believe in fostering diversity and inclusivity within the tech industry. In addition to my professional experience, I have actively contributed to organizations promoting gender and racial equity, representing the unique challenges faced by women and underrepresented groups in technology. I have also served as a team captain in basketball, organizing and motivating a diverse group of athletes towards achieving collective goals.
+
+Hobbies:
+In my free time, I enjoy playing the violin, an instrument that allows me to express my creativity and emotional depth. I also love exploring different cultures and languages, which has led me to learn Spanish and Chinese.

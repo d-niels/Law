@@ -1,0 +1,43 @@
+Sanika Tripathi
+Software Engineer
+
+Personal Statement:
+Dedicated and driven software engineer with a strong passion for problem-solving and creating innovative solutions. Adept at collaborating with cross-functional teams to deliver high-quality software products. Committed to promoting diversity and inclusion in the tech industry and leveraging my unique perspective as an Indian female to drive positive change.
+
+Education:
+Bachelor of Science in Computer Science
+Georgia Technology Institute, Atlanta, Georgia
+Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer | BlueChip Systems
+Atlanta, Georgia | January 2019 - Present
+- Developed and maintained an error tracking system that improved bug resolution time by 20%
+- Implemented an automated testing framework, reducing manual effort by 30%
+- Utilized Python programming language to enhance system capabilities and ensure smooth processing of secure payments
+
+Software Developer | TechGenius Solutions
+Atlanta, Georgia | June 2017 - December 2018
+- Designed and optimized SQL queries to improve database performance by 25%
+- Developed Java-based web applications for an e-commerce platform with a focus on user experience
+- Conducted thorough debug sessions to identify and resolve code issues, enhancing overall system stability
+- Worked with NoSQL databases for efficient data storage and retrieval in an e-commerce environment
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity in the tech industry by participating in panel discussions and mentorship programs
+- Sports Leadership Role: Served as the captain of the university's soccer team, fostering teamwork, leadership, and camaraderie in competitive sports
+
+Hobbies:
+- Playing the flute, exploring different musical genres
+- Participating in community events that celebrate Indian culture and heritage
+- Engaging in social initiatives that empower women in the tech field
+
+Languages:
+- Fluent in English and Hindi

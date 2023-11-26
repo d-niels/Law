@@ -1,0 +1,51 @@
+Personal Statement:
+
+Experienced software engineer with a passion for developing innovative solutions to complex problems. Motivated and dedicated to optimizing software performance and user experience. Strong analytical and problem-solving skills, combined with a deep understanding of programming languages and database technologies. Committed to continuous learning and staying updated on the latest industry trends. Excited to contribute as a software engineer at Innovix Solutions.
+
+Education:
+
+Bachelor of Science in Computer Science
+Madison State University, Madison, WI
+GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer | StellarTech, Madison, WI
+- Developed and maintained Java-based ecommerce applications, ensuring high performance and efficient database operations.
+- Collaborated with cross-functional teams to identify and resolve software bugs using SQL-based debugging techniques.
+- Implemented secure payment gateways to ensure safe and reliable online transactions.
+- Utilized NoSQL databases for efficient data storage and retrieval.
+- Actively participated in code reviews and utilized automated testing tools to ensure optimal software quality.
+
+Software Developer | QuantumSoft, Madison, WI
+- Assisted in error tracking and resolution, resulting in a significant decrease in unresolved issues.
+- Conducted extensive automated testing to enhance software reliability and user experience.
+- Developed secure payment systems by implementing encryption protocols and fraud detection measures.
+- Leveraged Python programming to optimize software performance and data analysis.
+- Utilized NoSQL databases for efficient data management and retrieval.
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Volunteer Mentor | Computer Science Outreach Program, Madison State University
+- Mentored underrepresented students in computer science to foster diversity and inclusivity in the field.
+- Conducted workshops and lectures to engage and inspire young minds to pursue careers in technology.
+
+Sports Leadership Role | Madison City Soccer Club, Madison, WI
+- Led a diverse soccer team in practicing and competing in local and regional tournaments.
+- Promoted teamwork, dedication, and personal growth while emphasizing the importance of diversity and inclusion in sports.
+
+Hobbies:
+- Playing the guitar
+- Running marathons
+- Exploring different cultures through travel and language learning (Spanish and French)
+
+Languages:
+- Fluent in English, Spanish, and French

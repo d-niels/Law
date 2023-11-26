@@ -1,0 +1,38 @@
+Personal Statement:
+As a driven and passionate software engineer, I am committed to leveraging my expertise to create innovative solutions. With a strong educational background in computer science combined with diverse work experience, I am confident in my ability to excel in this role. Coming from Charlotte, North Carolina, I am dedicated to promoting diversity and inclusivity in the tech industry, using my platform to inspire underrepresented communities to pursue careers in engineering.
+
+Education:
+Bachelor of Science in Computer Science, Lakeview University, Charlotte, North Carolina
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern, iResolve Tech Solutions, Charlotte, North Carolina
+- Utilized NoSQL database systems and secure payment technologies to develop efficient and scalable product solutions.
+- Implemented automated testing processes to optimize software reliability and streamline development.
+- Collaborated with cross-functional teams to design and develop Java-based applications.
+
+Junior Software Engineer, Innov8 Software Inc., Raleigh, North Carolina
+- Proficiently utilized SQL database technologies and Python programming language to enhance ecommerce platforms.
+- Conducted thorough debugging and error tracking to identify and resolve software issues.
+- Collaborated with development teams to ensure high-quality product delivery.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Served as captain of a community basketball team, fostering teamwork, discipline, and sportsmanship.
+- Advocated for diversity and inclusion in technology through initiatives such as organizing workshops and mentorship programs to encourage underrepresented communities to pursue careers in engineering.
+
+Hobbies:
+- Playing the guitar, embracing creativity and finding expression in music.
+- Engaging in cultural events and celebrations, promoting diversity and highlighting the importance of inclusion.
+- Actively participating in local community organizations that promote bridging the gender and racial gap in technology.
+
+Languages:
+- Fluent in English
+
+Providing a resume for Umar Davis, a fictitious character, this resume highlights his strong educational background in computer science, his work experience in software engineering roles, and his skills in programming languages and database technologies. The volunteer and leadership section emphasizes his role as a basketball team captain and his commitment to promoting diversity and inclusion in technology. The hobbies section showcases Umar's interest in music and his active involvement in cultural events and community organizations that support underrepresented communities in technology.

@@ -1,0 +1,43 @@
+Personal Statement:
+
+I am an ambitious and highly motivated software engineer, driven by a deep passion for developing innovative solutions that drive technological advancements. With a strong educational background in computer science and a commitment to continuous learning, I am equipped with the skills and knowledge essential for success in the field. I thrive in collaborative environments and excel in problem-solving scenarios, consistently delivering high-quality, efficient, and secure software solutions.
+
+Education:
+
+Bachelor of Science in Computer Science, Madison Technical University, Madison, Wisconsin
+- GPA: 3.9
+
+Work Experience:
+
+Software Engineer | StellarTech Solutions, Madison, WI
+- Automated Testing
+- Secure Payments
+- SQL
+- NoSQL
+
+Software Engineer | QuantumSoft, Madison, WI
+- Error Tracking
+- Java
+- Ecommerce
+- Debugging
+- Python
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+As a white man, I understand the importance of promoting diversity and inclusivity within the tech industry. I actively engage in initiatives that aim to bridge the gender and ethnicity gaps in the field. I have volunteered as a mentor for underrepresented minority students in STEM, providing guidance and support to help them pursue careers in technology. Additionally, I am a sports leader in basketball, coaching and empowering young athletes to excel both on and off the court.
+
+Hobbies:
+
+In my free time, I enjoy playing the guitar, where I find solace and express my creativity. I am also an avid hiker and outdoor enthusiast, often exploring the scenic trails in the region. Additionally, I am fluent in English and proficient in Spanish, facilitating effective communication with multicultural teams.
+
+Languages:
+- English (fluent)
+- Spanish (proficient)

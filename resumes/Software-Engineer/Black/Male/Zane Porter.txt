@@ -1,0 +1,42 @@
+Personal Statement:
+Driven and creative software engineer with a passion for solving complex problems through innovative technology solutions. With a strong background in computer science and a commitment to continuous learning, I am determined to contribute my skills to a dynamic organization, leveraging my diverse experiences to enhance software development processes and deliver outstanding results.
+
+Education:
+Bachelor of Science in Computer Science, CityTech University, Chicago, Illinois
+GPA: 3.9
+
+Work Experience:
+Software Engineer, AdvancedTech Solutions, Chicago, Illinois
+- Utilized error tracking and debugging techniques to analyze and resolve critical software issues.
+- Developed and implemented NoSQL database solutions to improve data retrieval and storage capabilities.
+- Collaborated with cross-functional teams to design and implement Java-based applications.
+- Assisted in maintaining and optimizing existing software systems for enhanced performance.
+
+Software Developer, QuantumSoft Technologies, Chicago, Illinois
+- Developed Python-based software solutions for automated testing in an ecommerce environment.
+- Utilized SQL for database management and integration of secure payment systems.
+- Collaborated with team members to deliver efficient and scalable software applications.
+- Assisted in identifying and troubleshooting software defects to ensure smooth operations.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnic Diversity Coordinator, CityTech University
+- Led initiatives to promote and celebrate diversity within the university community.
+- Organized events and programs to create an inclusive environment for all students.
+
+Basketball Team Captain, Chicago Community Sports Club
+- Served as the team captain for a competitive basketball team, leading practices, coordinating games, and fostering player development.
+
+Hobbies:
+Playing the saxophone, participating in community outreach programs, and attending art exhibitions and music concerts.
+
+Languages:
+English (Fluent), Spanish (Conversational)
+
+References available upon request.

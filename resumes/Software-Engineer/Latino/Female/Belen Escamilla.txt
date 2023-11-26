@@ -1,0 +1,43 @@
+Belen Escamilla
+Austin, Texas | (123) 456-7890 | belenescamilla@email.com
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a passion for creating efficient and secure solutions. Strong problem-solving skills combined with excellent knowledge of programming languages such as Java, Python, and C#. Committed to delivering exceptional results, I am seeking a challenging position as a software engineer where I can utilize my technical expertise and contribute to innovative projects.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+Techward University, Austin, Texas, May 20XX
+
+Work Experience:
+Software Engineer Intern, Cybertech Solutions, Austin, Texas
+May 20XX - August 20XX
+- Developed an e-commerce platform using NoSQL databases and Python, resulting in a 20% increase in website performance
+- Implemented secure payment gateways and encrypted customer data to enhance the platform's security
+- Collaborated with the development team to resolve technical issues and optimize website speed and performance
+
+Junior Software Engineer, Quantum Solutions, Austin, Texas
+September 20XX - Present
+- Utilized SQL and Java to design and optimize database schema, resulting in a 15% reduction in query response time
+- Conducted automated testing and utilized error tracking tools to identify and resolve software bugs, ensuring high-quality deliverables
+- Collaborated with a cross-functional team to provide debugging assistance, resulting in a streamlined development process
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in the Latino Women in Technology organization, promoting diversity and inclusivity within the tech industry and providing mentorship to aspiring Latina engineers.
+- Served as a team captain for the local women's soccer team, leading and motivating the team to success both on and off the field.
+- A skilled guitarist, frequently performing at cultural events and sharing the rich and vibrant Latin American music.
+
+Languages:
+- Bilingual: Fluent in English and Spanish
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultural events and festivals
+- Engaging in outdoor activities, such as hiking and biking
+- Volunteering for organizations that support underprivileged youth and promote educational opportunities.

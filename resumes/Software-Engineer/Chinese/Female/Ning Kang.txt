@@ -1,0 +1,40 @@
+Ning Kang
+
+Personal Statement:
+A dedicated and ambitious software engineer with a strong passion for creating innovative solutions. Possessing exceptional programming skills and a keen attention to detail, I thrive in challenging environments that allow me to apply my problem-solving abilities. As a Chinese female, I am committed to promoting diversity and inclusion in the tech industry while continuously expanding my knowledge and skills. With a strong background in computer science and a proactive approach to learning, I am ready to tackle any software engineering challenge that comes my way.
+
+Education:
+Bachelor of Science in Computer Science, Falcone University, New York, NY
+- Graduated with honors
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, StellarSoft Solutions, New York, NY
+- Developed and maintained highly efficient SQL scripts for database management and performed complex queries to retrieve relevant information.
+- Utilized Python to automate testing processes, resulting in a significant reduction in testing time and improved overall efficiency.
+- Implemented error tracking tools to identify and resolve software issues promptly.
+- Collaborated closely with cross-functional teams to ensure seamless integration and continuous delivery of high-quality software solutions.
+
+Software Engineer, Phoenix Technologies, New York, NY
+- Designed and developed secure payment systems for ecommerce websites using Java, ensuring smooth and safe transactions for end-users.
+- Integrated and optimized NoSQL databases for improved data handling and storage efficiency.
+- Conducted rigorous debugging of complex systems to diagnose and rectify software defects, ensuring optimal product performance.
+- Played a pivotal role in maintaining product quality and stability through rigorous testing and bug fixing.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively engage in promoting diversity and inclusion within the tech community as a female software engineer of Chinese origin. Advocating for equal opportunities and mentorship for underrepresented groups.
+- Served as a leader and mentor in a local youth basketball team, fostering teamwork and leadership skills among a diverse group of athletes.
+
+Hobbies:
+- Playing the guzheng, a traditional Chinese string instrument
+- Exploring diverse cultures through travel and immersing myself in their customs and traditions
+
+Languages:
+Fluent in English and Mandarin Chinese

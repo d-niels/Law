@@ -1,0 +1,41 @@
+Jack O'Connor
+
+Personal Statement:
+Highly motivated software engineer with a strong passion for developing innovative solutions. Skilled in multiple programming languages with a focus on problem-solving and debugging techniques. Committed to delivering high-quality code and collaborating effectively within a team. Seeking a software engineer position to apply my expertise and contribute to the growth of an organization.
+
+Education:
+Bachelor of Science in Computer Science
+Georgetown University, San Diego, California
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | StellarTech Solutions, San Diego, CA | 2018-2020
+- Developed and maintained software applications utilizing Python, SQL, and NoSQL databases.
+- Conducted thorough debugging and troubleshooting of software issues to ensure stable performance.
+- Collaborated with cross-functional teams to implement new features and improve existing interfaces.
+
+Software Developer | BrightCommerce Systems, San Diego, CA | 2017-2018
+- Worked on secure payment systems and ecommerce platforms utilizing Java and NoSQL databases.
+- Conducted automated testing and implemented error tracking solutions to enhance system stability.
+- Collaborated closely with the development team to ensure efficient integration of new functionalities.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- As a white male from San Diego, I am committed to supporting diversity and inclusivity in the tech industry.
+- Acted as a team captain and leader in the local basketball league, fostering teamwork, sportsmanship, and personal growth among players.
+- Engaged in mentoring programs and community initiatives aimed at empowering underrepresented groups in technology.
+
+Hobbies:
+- Playing the piano
+- Participating in competitive basketball leagues
+- Exploring different cultures through travel and literature
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)

@@ -1,0 +1,50 @@
+Qi Ji
+
+Personal Statement:
+Detail-oriented and dedicated software engineer with a passion for creating innovative solutions. Experienced in secure payments, error tracking, SQL, automated testing, Python, NoSQL, debugging, and Java. Demonstrated leadership and volunteer experience, actively contributing to promoting diversity and gender equality in the tech industry. Fluent in English and Mandarin Chinese.
+
+Education:
+Bachelor of Science in Computer Science
+Golden State University
+San Francisco, California
+GPA: 3.9
+Graduation Year: 20XX
+
+Work Experience:
+Software Engineer
+Tech Innovators Inc., San Francisco, California
+June 20XX - Present
+- Developed highly secure payment systems, ensuring the privacy and integrity of user transactions, and achieving PCI-DSS compliance.
+- Implemented advanced error tracking mechanisms, reducing system downtime by 30% and improving overall reliability and customer satisfaction.
+- Utilized SQL for efficient and secure data management, optimizing database queries and improving system performance.
+- Conducted extensive automated testing to ensure software functionality, efficiency, and reliability.
+
+Software Developer Intern
+eCommerce Solutions Corp., San Francisco, California
+May 20XX - August 20XX
+- Collaborated with a team of developers to design and implement Python-based solutions in an ecommerce environment, contributing to a 20% increase in sales.
+- Utilized NoSQL databases for efficient and scalable data storage, streamlining data retrieval and improving application performance.
+- Conducted rigorous debugging to identify and resolve software issues, ensuring stability and user satisfaction.
+- Assisted in the development of Java applications to enhance the ecommerce platform, implementing new features and improving user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Asian-American Software Engineers Organization, San Francisco Chapter
+Sports Leadership Role (Basketball Team Captain)
+- Actively promoting diversity and inclusion in the tech industry, organizing events and workshops focused on empowering underrepresented groups, including Chinese-Americans.
+- Encouraging and mentoring young talent from diverse backgrounds to pursue careers in technology.
+- Participating as the team captain of a competitive basketball team, promoting teamwork and sportsmanship.
+
+Hobbies:
+Playing the guzheng (a traditional Chinese string instrument)
+Exploring photography and travel
+Engaging in outdoor activities like hiking and biking
+
+Languages:
+Fluent in English and Mandarin Chinese

@@ -1,0 +1,45 @@
+-------------------------------------------
+Quique Esparza
+Phoenix, Arizona | (555) 123-4567 | quiqeesparza@email.com
+-------------------------------------------
+
+Personal Statement:
+Passionate and dedicated software engineer with a strong background in computer science and a commitment to delivering high-quality results. Highly skilled in multiple programming languages and database technologies, with a proven ability to debug and test complex systems. A creative problem-solver with excellent analytical skills, I am committed to leveraging my diverse background and technical expertise to drive innovation in the field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science
+Southwest Technical Institute, Phoenix, AZ
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - TechGenix Solutions, Phoenix, AZ
+- Developed robust software solutions, leveraging NoSQL databases and error tracking systems.
+- Utilized Java programming language for system development, debugging, and error resolution.
+- Collaborated with cross-functional teams to provide effective technical support and troubleshooting.
+
+Software Engineer Intern - CodeMaster Solutions, Phoenix, AZ
+- Developed secure payment systems and implemented e-commerce functionalities using Python.
+- Conducted automated testing to ensure system reliability and performance.
+- Utilized SQL databases to manage and analyze large datasets.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Active member of the Hispanic Engineering and Computer Science Organization (HECSO) at Southwest Technical Institute, promoting diversity and inclusion within the tech industry.
+- Held a leadership role within HECSO, organizing and leading soccer tournaments to foster teamwork and community engagement.
+
+Hobbies:
+- Playing the guitar
+- Participating in cultural dance events
+- Exploring photography, capturing moments that reflect the beauty of diversity
+
+Languages:
+- English (fluent)
+- Spanish (native)
+
+References available upon request.

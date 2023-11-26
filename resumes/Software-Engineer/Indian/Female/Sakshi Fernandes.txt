@@ -1,0 +1,40 @@
+Sakshi Fernandes
+Philadelphia, Pennsylvania | (555) 123-4567 | sakshifernandes@email.com
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a passion for developing innovative solutions. With a solid foundation in computer science and a strong skill set in programming languages and database technologies, I am eager to contribute my expertise to drive software development projects to success. As an Indian female in the field, I am committed to promoting diversity and inclusion while leveraging my technical abilities to deliver exceptional results. My goal is to make a positive impact by creating software that simplifies people's lives while embracing multicultural influences.
+
+Education:
+Bachelor of Science in Computer Science, Liberty University, Philadelphia, Pennsylvania
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Xeon Solutions, Philadelphia, Pennsylvania
+- Played a key role in developing an eCommerce platform using NoSQL database, enabling seamless and efficient data management.
+- Designed and implemented automated testing procedures, significantly reducing system errors and improving overall quality.
+- Utilized error tracking tools to identify and resolve software issues promptly.
+
+Software Engineer Intern, Zenith Technologies, Philadelphia, Pennsylvania
+- Ensured secure payments by implementing robust payment systems and protocols.
+- Leveraged Python programming to enhance debugging efficiency, resulting in quicker issue resolution.
+- Collaborated with cross-functional teams to develop Java-based applications while ensuring optimal functionality.
+- Managed and maintained SQL databases to store and retrieve critical system information.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role, Women in Technology Outreach Program, Liberty University
+- Mentored and motivated female students to pursue careers in technology, promoting gender diversity in the field.
+- Organized workshops and events to empower young women through various technological endeavors, with a particular focus on soccer – a sport I'm passionate about.
+
+Hobbies:
+- Playing the guitar, sitar, and tabla – instruments that reflect my rich Indian heritage and love for music.
+- Exploring various cultural festivals and events, fostering diversity and inclusivity through immersion.
+
+Languages:
+Fluent in English and Hindi

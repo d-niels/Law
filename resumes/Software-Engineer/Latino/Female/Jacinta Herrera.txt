@@ -1,0 +1,35 @@
+Personal Statement:
+I am a dedicated and passionate software engineer with a strong background in computer science. As a Latino female from Austin, Texas, I bring a unique perspective and a diverse skill set to the field. With a bachelor's degree in computer science and a GPA of 3.9, I am eager to contribute my knowledge and expertise to a dynamic software engineering role. I am a problem-solver at heart and thrive in collaborative environments, constantly seeking opportunities to learn and grow in this ever-evolving industry.
+
+Education:
+Bachelor of Science in Computer Science
+Lone Star University, Austin, Texas
+
+Work Experience:
+Software Engineer - TechGems, Austin, Texas
+- Developed and maintained an innovative e-commerce platform, ensuring seamless and secure payments through extensive debugging and testing.
+- Utilized SQL to design and optimize database structures for improved performance and efficient data retrieval.
+
+Software Engineer Intern - CodeMasters, Austin, Texas
+- Spearheaded automated testing efforts, creating robust test suites in Java to ensure software quality and reliability.
+- Employed error tracking and NoSQL databases to identify and resolve issues, improving overall system stability.
+- Utilized Python to automate repetitive tasks, resulting in increased productivity and reduced time-to-market.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Mentor, TechGirls Austin: As a Latina software engineer, I am passionate about promoting diversity in the tech industry. I mentor young girls from underrepresented communities, guiding them towards opportunities in STEM fields.
+- Soccer League Captain: I actively participate in and lead a local soccer league, fostering teamwork and promoting physical fitness among young Latinas in our community.
+
+Hobbies:
+- Playing the guitar: I have been playing the guitar for over 10 years, finding joy and solace in creating music.
+- Reading Latinx literature: I enjoy immersing myself in literature that reflects my Latinx heritage, providing me with a deeper understanding of my roots and the diverse experiences of others.
+
+Languages:
+- English: Native proficiency
+- Spanish: Fluent in reading, writing, and speaking.

@@ -1,0 +1,41 @@
+Iliana Zarate
+
+Personal Statement:
+Dedicated and passionate software engineer with a strong background in programming and problem-solving. Committed to developing innovative solutions to challenges and delivering high-quality software. A self-motivated individual who thrives in a collaborative environment, I am excited to contribute my skills and experience to a diverse software engineering team.
+
+Education:
+Bachelor of Science in Computer Science
+EagleTech University - Dallas, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Senior Software Engineer - Stellar Solutions
+Dallas, Texas
+- Developed and maintained an eCommerce platform using NoSQL database technology, Java, and error tracking tools.
+- Collaborated with cross-functional teams to optimize system performance and resolve technical issues.
+- Played a pivotal role in the successful deployment of an error tracking system, resulting in a 20% decrease in application downtime.
+
+Software Developer - InnovateSoft Solutions
+Dallas, Texas
+- Created automated testing scripts using Python to ensure the functionality and security of secure payment systems.
+- Utilized SQL for database management and debugging.
+- Collaborated with the development team to implement new features and resolve technical issues.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member and mentor at the Society for Latino Engineers, promoting diversity and inclusivity in the tech industry.
+- Served as a soccer team captain and coach, inspiring and empowering young Latina athletes to excel in sports and leadership.
+
+Hobbies:
+- Playing guitar and incorporating musical melodies into software development projects.
+- Exploring diverse cultures through travel and experiencing their unique traditions and customs.
+- Participating in salsa dance workshops and performances to celebrate my Latina heritage.
+
+Languages:
+Bilingual - English and Spanish

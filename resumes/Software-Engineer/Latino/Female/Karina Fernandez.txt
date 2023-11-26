@@ -1,0 +1,44 @@
+Karina Fernandez 
+El Paso, Texas 
+Phone: (123) 456-7890 
+Email: karinafernandez@email.com 
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a passion for creating efficient and impactful solutions. With a strong foundation in computer science and a continuous thirst for knowledge, I am seeking a software engineer position to leverage my technical skills and contribute to innovative software applications. As a proud Latina female, I am dedicated to fostering diversity and inclusion in the tech industry, bringing a unique perspective to every project I undertake. 
+
+Education:
+Bachelor of Science in Computer Science, El Paso Technical University, El Paso, Texas 
+GPA: 3.9/4.0 
+
+Work Experience:
+Software Engineer, InnovateTech Solutions, El Paso, Texas 
+- Developed secure payment systems using Java and NoSQL databases
+- Implemented error tracking and analysis tools for efficient bug resolution
+- Collaborated with cross-functional teams to deliver successful software releases, ensuring seamless integration
+
+Software Developer, TechEmpire Inc., El Paso, Texas 
+- Implemented automated testing strategies to enhance quality control for e-commerce applications
+- Utilized Python and SQL to troubleshoot and debug software programs
+- Gathered requirements and worked closely with stakeholders to develop and enhance functionality
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript 
+- Database Technologies: SQL, NoSQL 
+- Source Control: Git 
+- Testing and Debugging: Automated Testing, Debugging Tools 
+- Problem-Solving: Analytical Skills, Debugging Techniques 
+
+Volunteer & Leadership:
+- Volunteer at El Paso Hispanic Chamber of Commerce, actively involved in promoting and supporting Latino-owned businesses, fostering a thriving entrepreneurial environment
+- Sports Leadership Role: Team Captain of the XYZ University Women's Basketball Team, leading the team to victory in regional championships while promoting teamwork, discipline, and perseverance
+
+Hobbies:
+- Playing piano: A passionate pianist, proficient in playing classical and contemporary music, finding solace and expression through melodies
+- Exploring diverse cultural traditions: Embracing and celebrating various cultures, attending festivals, art exhibitions, and cultural events to enrich understanding and appreciation
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References:
+Available upon request

@@ -1,0 +1,48 @@
+Personal Statement:
+
+I am a driven and innovative software engineer with a passion for revolutionizing technology solutions. With a solid educational foundation in computer science combined with hands-on experience in full-stack development, I am well-prepared to contribute to cutting-edge software engineering projects. My expertise spans multiple programming languages and database technologies, while my analytical mindset and problem-solving abilities ensure efficient and effective solutions. As a strong advocate for diversity and a natural leader, I am committed to driving positive change in the tech industry.
+
+Education:
+
+Bachelor of Science in Computer Science - Stellar University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer - NovaTech AI, Houston, Texas
+- Developed and maintained scalable software solutions utilizing NoSQL databases, contributing to the advancement of AI-driven technologies.
+- Leveraged Python and Java to create robust backend systems for secure and efficient payment processing.
+- Collaborated closely with cross-functional teams to ensure seamless integration of software components.
+
+Software Engineer Intern - QuantumSoft, Houston, Texas
+- Conducted automated testing and debugging, enabling the delivery of high-quality software products.
+- Utilized error tracking techniques and produced comprehensive reports for efficient issue resolution.
+- Supported and enhanced an e-commerce platform using SQL-based data management systems.
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Women in STEM Empowerment Program - Stellar University, Houston, Texas
+- Guided and mentored aspiring female engineers, providing valuable support and advice for navigating the challenges of the STEM field.
+- Organized events and workshops to foster gender equality and diversity awareness in the industry.
+
+Basketball Team Captain - Stellar University, Houston, Texas
+- Led and motivated the university's basketball team, fostering teamwork, coordination, and discipline.
+- Organized practice sessions, strategized game plans, and promoted a positive team culture.
+
+Hobbies:
+
+Playing the piano, exploring various forms of art, and engaging in outdoor activities like hiking and rock climbing.
+
+Languages:
+
+English (Fluent), Spanish (Intermediate)
+
+Note: The name of the university and specific hobbies in the resume may vary based on personal preference and actual experiences. The provided example is a generic representation.

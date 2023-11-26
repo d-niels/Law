@@ -1,0 +1,38 @@
+Personal Statement:
+I am a dynamic and innovative software engineer, driven by a passion for creating efficient and secure solutions. As a proud Latina female hailing from Albuquerque, New Mexico, I am determined to make a positive impact on the tech industry. With a strong educational background and diverse work experience, I am adept at collaborating with teams, solving complex problems, and delivering high-quality software.
+
+Education:
+Bachelor of Science in Computer Science, Rio Grande University (Albuquerque, New Mexico)
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, InnovateTech Inc. (Albuquerque, New Mexico) 
+- Utilized Java and automated testing techniques to develop and optimize a cutting-edge ecommerce platform.
+- Implemented secure payment systems and ensured compliance with industry standards.
+- Collaborated with a cross-functional team of designers and developers to create new features and tackle technical challenges.
+
+Software Developer, DataTech Solutions (Albuquerque, New Mexico) 
+- Developed efficient SQL and NoSQL queries to extract, process, and visualize large datasets for data analytics.
+- Utilized Python for scripting and automation tasks, streamlining data analysis processes.
+- Applied debugging techniques and error tracking to identify and resolve software issues, ensuring smooth functionality.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry as a Latina female software engineer.
+- Served as a team leader in the sport of soccer, demonstrating leadership and teamwork on and off the field.
+
+Hobbies:
+- Playing the guitar, blending the rhythms of my heritage with modern tunes.
+- Participating in community events that celebrate diversity and multiculturalism.
+- Exploring literature from Latin American authors, immersing myself in their stories and experiences.
+- Engaging in outdoor activities such as hiking and exploring the scenic landscapes of New Mexico.
+
+Languages:
+- English (fluent)
+- Spanish (native)

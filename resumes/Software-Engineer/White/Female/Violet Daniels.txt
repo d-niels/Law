@@ -1,0 +1,38 @@
+VIOLET DANIELS
+
+Personal Statement:
+Dedicated and results-driven software engineer with a passion for developing innovative solutions. Committed to leveraging my strong analytical skills and programming expertise to drive organizational success. Seeking a challenging software engineer role to contribute to the development of cutting-edge applications and scalable software solutions.
+
+Education:
+Bachelor of Science in Computer Science (3.9 GPA)
+University of Wisconsin-Madison, Wisconsin
+
+Work Experience:
+Software Engineer | Aether Technologies | Madison, WI | February 2018 - Present
+- Developed Python-based ecommerce solutions, leveraging NoSQL databases for enhanced data management and scalability.
+- Utilized debugging techniques to identify and fix errors, ensuring smooth functionality and exceptional user experience.
+
+Software Developer | Quantum Solutions | Madison, WI | June 2016 - January 2018
+- Collaborated with cross-functional teams to design and develop Java-based software applications.
+- Implemented error tracking and automated testing tools for efficient bug identification and resolution.
+- Utilized SQL to create secure payment gateways for online transactions, enhancing customer trust and safety.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active volunteer fostering diversity and inclusion in the technology industry, organizing workshops and mentorship programs to support underrepresented groups.
+- Served as Sports Leadership Coordinator in the Madison Women in Tech group, promoting and leading the sport of ultimate frisbee.
+
+Hobbies:
+- Photography: Capturing vibrant moments and expressing creativity through the lens.
+- Playing the piano: Channeling emotions into music, and continuously developing musical skills.
+
+Languages:
+- Bilingual: Fluent in English and Spanish.
+
+Note: This resume has been modified to suit the fictional character Violet Daniels. The university name has been changed, as well as the company names and the sport in which Violet is a leader. The focus remains on highlighting Violet's skills, achievements, and personal characteristics.

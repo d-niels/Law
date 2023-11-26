@@ -1,0 +1,43 @@
+Tyler Kennedy
+
+Personal Statement:
+Goal-driven and innovative software engineer with a strong commitment to delivering exceptional results. Constantly seeking new challenges and embracing cutting-edge technologies in order to create efficient and user-friendly software solutions. Highly adaptable and motivated team player, aiming to make a positive impact in the software development field.
+
+Education:
+Bachelor of Science in Computer Science
+Houston Tech University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Innovative Technologies Inc., Houston, Texas
+- Developed and maintained software applications, specializing in debugging, utilizing Java and Python languages.
+- Employed advanced error tracking techniques to swiftly identify and resolve issues.
+- Collaborated seamlessly with cross-functional teams to facilitate smooth integration and deployment of software solutions.
+
+Software Developer, NexGen Systems, Houston, Texas
+- Designed and implemented a secure payments platform for an e-commerce application, utilizing SQL and NoSQL databases.
+- Conducted rigorous automated testing procedures to ensure the highest level of code quality and functionality.
+- Worked collaboratively with the development team to enhance platform performance and scalability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteered with Make IT Happen, an organization dedicated to promoting diversity in the tech industry and providing support to underrepresented groups.
+- Sports Leadership Role: Team Captain for the Houston Tech Coed Soccer League, displaying exceptional leadership and strategic planning skills to lead the team to victories and foster a positive team dynamic.
+
+Hobbies:
+- Playing the guitar and composing music
+- Exploring diverse cultural experiences and arts, including plays, exhibitions, and concerts
+- Engaging in local community initiatives, such as volunteering at food drives and fundraisers
+- Actively participating in technology conferences and workshops to stay up-to-date with the latest industry trends.
+
+Languages:
+- English (Native)
+- Spanish (Proficient)
+
+Note: The company names and university in the resume are fictitious and for storytelling purposes only.

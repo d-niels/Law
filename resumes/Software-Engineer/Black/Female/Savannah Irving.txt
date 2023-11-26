@@ -1,0 +1,46 @@
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a strong academic background in computer science. Passionate about coding and problem-solving, I thrive in dynamic environments where I can utilize my technical skills to develop innovative software solutions. Through my diverse experiences and commitment to excellence, I aim to contribute to the advancement of technology and make a positive impact in the world.
+
+Education:
+Bachelor of Science in Computer Science
+Detroit Technological University, Detroit, Michigan
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Innovative Solutions Inc., Detroit, Michigan
+- Utilized automated testing methodologies to ensure efficient and reliable software performance.
+- Developed and maintained NoSQL databases for improved data management and retrieval.
+- Utilized SQL to perform complex queries and database operations.
+- Worked with Java to design and implement software solutions for various projects.
+
+Software Developer, TechnoGenuity Corporation, Detroit, Michigan
+- Integrated Python-based systems to enhance error tracking and streamline debugging processes.
+- Contributed to the development of an ecommerce platform for secure and efficient online transactions.
+- Collaborated with cross-functional teams to analyze and resolve software issues effectively.
+- Implemented secure payment mechanisms for reliable financial transactions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Detroit Tech Outreach Program
+- Mentored and provided technical support to underrepresented youth interested in pursuing careers in technology.
+- Organized workshops and coding sessions to empower young individuals from diverse backgrounds.
+- Promoted diversity and inclusion within the tech industry through outreach and educational initiatives.
+
+Women's Soccer Team Captain, Detroit Revolutionaries Soccer Club
+- Led and managed a women's soccer team, fostering teamwork, discipline, and camaraderie.
+- Organized regular practices, coordinated game strategies, and ensured team adherence to league regulations.
+
+Hobbies:
+- Playing the guitar
+- Participating in cultural events and celebrations embracing African American heritage
+- Exploring new art mediums, such as painting and sketches, to express creativity
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)

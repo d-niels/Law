@@ -1,0 +1,36 @@
+Ai Zou
+
+Personal Statement:
+Dedicated and enthusiastic software engineer with a strong passion for solving complex problems and developing innovative solutions. With a solid educational background in computer science and hands-on experience in various programming languages, I am eager to leverage my skills and expertise to contribute to the field of software engineering. A highly organized and detail-oriented professional, I strive to continuously learn and grow, while collaborating effectively with teams to achieve project objectives.
+
+Education:
+Bachelor of Science in Computer Science, University of Southern California, Los Angeles, California
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Zenith Technologies, Los Angeles, California
+- Developed and maintained Java-based applications for error tracking and resolution in an ecommerce platform
+- Utilized Python to enhance system performance and streamline workflow processes
+
+Software Engineer, Cybertech Solutions, Los Angeles, California
+- Contributed to the development of secure payment systems, implementing automated testing and debugging techniques
+- Utilized SQL and NoSQL databases to optimize data storage and retrieval processes
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer Chinese Tutor, Community Outreach Program, Los Angeles, California: Assisted community members in learning and improving their Chinese language skills, taking pride in preserving and promoting Chinese culture.
+- Sports Leadership Role, Basketball Team, University of Southern California: Organized and led basketball training sessions, fostering teamwork and camaraderie among team members.
+
+Hobbies:
+- Playing the guzheng, a traditional Chinese instrument, showcasing my appreciation for music and cultural heritage
+- Exploring various art forms, including calligraphy and watercolor painting, as a way to express creativity and embrace Chinese artistic traditions
+
+Languages:
+- English: Fluent
+- Chinese (Mandarin): Native language

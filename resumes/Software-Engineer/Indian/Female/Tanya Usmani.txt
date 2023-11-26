@@ -1,0 +1,53 @@
+TANYA USMANI
+1234 Oak Street, San Jose, CA 56789 | (555) 123-4567 | tanyausmani@email.com
+
+PERSONAL STATEMENT
+Results-driven and detail-oriented software engineer with a strong passion for problem-solving and creating innovative solutions. Committed to leveraging technical expertise and analytical skills to develop efficient software applications. Dedicated to continuous learning and staying abreast of industry advancements. Seeking a challenging role as a Software Engineer to contribute to the development of cutting-edge software solutions.
+
+EDUCATION
+Bachelor of Science in Computer Science, Major in Software Engineering
+ABC University, San Francisco, CA | May 20XX
+GPA: 3.9
+
+WORK EXPERIENCE
+
+Software Engineer Intern | XYZ Tech Solutions, San Francisco, CA | June 20XX-December 20XX
+- Developed scalable software applications using Java, NoSQL, SQL, and Python.
+- Collaborated with cross-functional teams to design and implement new features.
+- Assisted in the debugging, testing, and deployment of software applications.
+- Conducted code reviews and provided feedback to ensure code quality.
+
+Software Engineer | PQR Innovations, Palo Alto, CA | January 20XX-May 20XX
+- Contributed to the development and maintenance of an e-commerce platform.
+- Implemented secure payment systems and error tracking mechanisms.
+- Collaborated with Quality Assurance teams to conduct automated testing and ensure software reliability.
+- Participated in code debugging, optimization, and performance enhancement.
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+
+Diversity in Tech Organization, ABC University
+- Served as Co-President, organizing events and workshops to promote gender and cultural diversity in the tech industry.
+- Mentored underrepresented students pursuing careers in computer science.
+
+Sports Leadership Role, ABC University - Basketball Team Captain
+- Led a diverse team of players with effective communication and collaboration.
+- Managed team operations and facilitated effective training sessions.
+- Engaged in community outreach programs to promote sports and leadership skills.
+
+HOBBIES
+- Ethnic and Gender Indicators: Participating in cultural exchange events, supporting local diversity initiatives.
+- Musical Instrument: Proficient in playing the guitar, exploring various genres.
+- Language: Fluent in English and Hindi.
+
+LANGUAGES
+- English (Fluent)
+- Hindi (Native)
+
+[References available upon request]

@@ -1,0 +1,38 @@
+Personal Statement:
+I am a highly motivated and detail-oriented software engineer with a burning passion for crafting efficient and secure solutions. Leveraging my strong analytical skills and extensive programming knowledge, I thrive in challenging environments, contributing to the development of innovative software applications. As a Chinese female from Houston, Texas, I take pride in my diverse background and bring a unique perspective to my work. I am committed to continuous learning and staying up-to-date with the latest industry trends to deliver exceptional results.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Houston Metropolitan University, Houston, Texas
+
+Work Experience:
+Software Engineer | Cyberscape Solutions, Houston, Texas
+- Developed and maintained Python-based software solutions for automated testing.
+- Utilized SQL to ensure secure payment processing.
+- Collaborated with cross-functional teams on various projects, ensuring seamless integration and implementation.
+
+Software Engineer | QuantumBytes, Houston, Texas
+- Conducted extensive debugging and error tracking in Java-based applications.
+- Demonstrated proficiency in NoSQL database technologies for efficient data management.
+- Played a pivotal role in the development and maintenance of a cutting-edge ecommerce platform.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Chinese American Association of Houston: Volunteer Coordinator and Event Planner, promoting cultural diversity and inclusion.
+- Women in Tech: Member and Advocate for Gender Equality in the Tech Industry.
+- Sports Leadership: Team Captain for the Houston Women's Soccer Association, fostering teamwork and sportsmanship.
+
+Hobbies:
+- Playing the violin, expressing creativity and musicality.
+- Exploring diverse cultures through travel and language immersion, broadening my global perspective.
+- Promoting gender and ethnic diversity in the tech industry through public speaking and advocacy.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

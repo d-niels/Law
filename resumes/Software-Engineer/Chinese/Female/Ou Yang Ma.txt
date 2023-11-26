@@ -1,0 +1,50 @@
+Personal Statement:
+
+Highly motivated and detail-oriented software engineer with a strong background in computer science and a passion for problem-solving. A dedicated team player with excellent communication skills, I am eager to leverage my technical expertise to contribute to innovative software solutions. Committed to continuous learning and staying up-to-date with the latest industry trends, my goal is to make a meaningful impact through my work.
+
+Education:
+
+Bachelor of Science in Computer Science, Chicago City University, Chicago, Illinois
+GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer, VisionTech Solutions, Chicago, Illinois
+- Debugged and resolved software issues using efficient debugging techniques.
+- Tracked errors and implemented effective solutions to ensure seamless functionality.
+- Conducted automated testing to verify software performance and quality.
+- Utilized NoSQL databases to improve data management efficiency.
+
+Software Engineer Intern, CyberEx Solutions, Chicago, Illinois
+- Developed SQL queries to optimize database performance for an e-commerce platform.
+- Implemented secure payment systems for seamless and safe transactions.
+- Utilized Python and Java to enhance the functionality of software applications.
+- Collaborated with cross-functional teams to deliver high-quality software solutions.
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Volunteer, Chinese American Association, Chicago, Illinois
+- Demonstrated leadership skills by organizing and coordinating various cultural events.
+- Actively contributed to promoting Chinese culture and fostering community engagement.
+- Served as a basketball team captain, facilitating teamwork and providing guidance.
+
+Hobbies:
+
+- Playing the traditional Chinese musical instrument, guzheng.
+- Learning and practicing martial arts (specifically Tai Chi) to cultivate discipline and physical fitness.
+- Exploring diverse art forms and incorporating elements of Chinese calligraphy in my work.
+
+Languages:
+
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+Note: The company names, VisionTech Solutions and CyberEx Solutions, and the University, Chicago City University, are fictional and created for illustration purposes only.

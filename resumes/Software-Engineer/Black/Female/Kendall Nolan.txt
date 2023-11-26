@@ -1,0 +1,37 @@
+Personal Statement:
+As a black female software engineer from Philadelphia, Pennsylvania, I am driven by my passion to explore the limitless possibilities of technology. With a strong educational background in computer science and a keen eye for problem-solving, I am committed to leveraging my skills as a software engineer to make a meaningful impact in the industry.
+
+Education:
+Bachelor of Science in Computer Science, Liberty University, Philadelphia, Pennsylvania
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, Quantum Solutions Inc., Philadelphia, Pennsylvania
+- Utilized Python and various debugging tools to successfully identify and resolve software issues
+- Developed secure payment platforms, ensuring the privacy and protection of user data
+- Implemented error tracking systems that led to a significant reduction in software bugs and improved user experience
+
+Software Engineer Intern, Stellar Commerce Solutions, Philadelphia, Pennsylvania
+- Conducted automated testing to verify the stability and functionality of e-commerce applications
+- Leveraged both SQL and NoSQL databases to optimize data storage and retrieval processes
+- Gained proficient programming skills in Java, contributing to the development of complex software systems
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active advocate for diversity and inclusion in the technology industry, striving to create equal opportunities for underrepresented individuals, particularly black females
+- Engaged as a leader in a local basketball league, fostering teamwork and mentorship among young athletes from diverse backgrounds
+
+Hobbies:
+- Expressing creativity through playing the guitar, creating soulful melodies that captivate the soul
+- Exploring various artistic expressions influenced by diverse cultures, celebrating the rich heritage of the black community
+
+Languages:
+- Fluent in English, proficient in Spanish
+
+By incorporating Kendall Nolan's involvement in promoting diversity and her leadership role in a basketball league, it adds depth to her character and underscores her commitment to inclusivity and community development. The modifications made to the university name and company names provide a more distinct and unique portrayal of Kendall's experiences.

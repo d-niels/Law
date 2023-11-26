@@ -1,0 +1,52 @@
+URSULA YBARRA
+
+Personal Statement:
+Motivated software engineer with a strong passion for creating innovative programs and solutions. With a solid background in computer science and a keen eye for detail, I am committed to delivering high-quality work. I thrive in collaborative environments and excel at problem-solving. As a Latina female in the technology industry, I am dedicated to promoting diversity and inclusion in the field.
+
+Education:
+Bachelor of Science in Computer Science
+Phoenix State University, Phoenix, Arizona
+GPA: 3.9
+
+Work Experience:
+Software Engineer Intern, Phoenix Innovations, Phoenix, Arizona
+May 20XX - August 20XX
+- Designed and implemented secure payment systems for the company's ecommerce platform
+- Utilized SQL to manage and optimize database performance
+- Integrated error tracking systems to identify and resolve issues efficiently
+- Collaborated with cross-functional teams to ensure seamless user experiences
+
+Software Engineer, TechMinds Solutions, Phoenix, Arizona
+September 20XX - Present
+- Developed Java-based applications and utilized NoSQL databases for efficient data storage
+- Automated testing processes to ensure robust and reliable software performance
+- Debugged complex systems and resolved identified issues promptly
+- Utilized Python for various scripting and automation tasks
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinos in Technology (LIT) Mentor
+- Mentored aspiring Latino software engineers in their career development
+- Organized workshops and seminars to enhance technical skills among Latino students
+- Advocated for greater diversity and inclusion in the technology industry
+
+Sports Leadership Role: Soccer Team Captain
+- Led the soccer team to multiple championships, fostering teamwork and determination
+- Encouraged participation of female athletes in soccer, promoting gender equality
+
+Hobbies:
+- Playing the guitar: Passionate about music and love playing various genres on the guitar
+- Reading Latin American literature: Enthusiastic about exploring diverse cultural narratives
+- Photography: Capturing memorable moments through the lens, documenting stories of people and places
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References: Available upon request

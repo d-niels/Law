@@ -1,0 +1,36 @@
+Personal Statement:
+Motivated software engineer with a passion for developing innovative solutions. Dedicated to creating efficient and secure software applications. Excels in collaborating with cross-functional teams, analyzing complex problems, and delivering high-quality outcomes. Committed to leveraging my skills to contribute to the growth and success of an organization.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, Baltimore, Maryland (GPA: 3.9/4.0)
+
+Work Experience:
+Software Engineer, TechnoGenix Solutions, Baltimore, Maryland
+- Developed and maintained automated testing solutions for web and mobile applications, ensuring high software quality and minimizing downtime.
+- Utilized NoSQL databases to optimize data storage and retrieval for improved performance and scalability.
+- Leveraged Java programming language to implement secure payment systems, ensuring protection of user data and preventing unauthorized access.
+
+Software Engineer Intern, ByteCrafters, Baltimore, Maryland
+- Collaborated with the development team to enhance Python-based e-commerce platform functionalities, resulting in improved user experience and increased sales.
+- Conducted thorough debugging and error tracking to identify and resolve issues in the software system, ensuring optimal performance and customer satisfaction.
+- Utilized SQL to optimize database queries and improve data retrieval for faster application response time.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Dedicated member and mentor of the African American Engineers Association, promoting diversity, representation, and mentorship in the tech industry.
+- Captain of the university's basketball team, leading the team to multiple victories and promoting teamwork and sportsmanship.
+- Actively involved in promoting gender diversity in the tech field through mentorship programs and speaking engagements.
+
+Hobbies:
+- Playing the saxophone, enjoying jazz and soul music.
+- Exploring and studying diverse cultural traditions and histories.
+- Engaging in community service initiatives that promote social justice and equality.
+
+Languages:
+- Fluent in English and French.

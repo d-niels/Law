@@ -1,0 +1,42 @@
+Jalen Quinlan
+
+Personal Statement:
+Passionate and dedicated Software Engineer with a strong knack for problem-solving and a drive to develop innovative solutions. I thrive in collaborative team environments and strive to create secure and reliable software applications that meet the needs of users. Constantly learning and keeping up with the latest industry trends to enhance my skills and knowledge. Aiming to leverage my expertise as a Software Engineer in a challenging role to contribute to the growth and success of a dynamic organization.
+
+Education:
+Bachelor of Science in Computer Science, Columbus State University, Columbus, Ohio
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechWave Solutions, Columbus, Ohio
+- Developed secure payment systems and implemented error tracking functionalities using Java programming language and NoSQL databases
+- Collaborated closely with cross-functional teams to ensure seamless integration with existing systems
+- Implemented automated testing processes, leading to a significant reduction in software defects
+- Utilized advanced debugging techniques to identify and resolve issues promptly
+
+Software Developer, TurboTech Innovations, Columbus, Ohio
+- Participated in debugging and troubleshooting activities to optimize overall software performance
+- Developed and maintained ecommerce applications using Python and SQL database technologies
+- Worked closely with clients to gather requirements and provided tailored software solutions
+- Collaborated with the QA team to conduct comprehensive testing, ensuring high-quality software delivery
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry, advocating for underrepresented communities
+- Served as a captain of a competitive basketball team, leading the squad to several championship victories
+
+Hobbies:
+- Playing the saxophone, showcasing creativity and discipline through music
+- Participating in cultural events to celebrate and preserve ethnic heritage
+- Engaging in community service activities, contributing to various philanthropic endeavors
+
+Languages:
+- Fluent in English and Spanish
+
+References available upon request.

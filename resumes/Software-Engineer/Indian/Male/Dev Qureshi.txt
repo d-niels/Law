@@ -1,0 +1,37 @@
+Personal Statement:
+As a diligent and motivated software engineer, I am driven to create innovative solutions and contribute to the advancement of technology. With a strong educational background in computer science and valuable industry experience, I am equipped with the skills to thrive in a software engineering role. My commitment to diversity, leadership, and my South Asian heritage further enhances my ability to collaborate effectively in a multicultural environment.
+
+Education:
+Bachelor of Science in Computer Science, Texas Tech University, Dallas, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Innovsoft Solutions, Dallas, Texas
+- Developed Python-based error tracking systems to enhance software reliability
+- Utilized NoSQL databases for optimized data storage and retrieval
+- Contributed to Java-based software development projects, ensuring seamless integration and functionality
+- Collaborated closely with cross-functional teams to deliver high-quality software products
+
+Software Engineering Intern, Techwave Solutions, Dallas, Texas
+- Gained expertise in debugging and troubleshooting software issues
+- Utilized SQL to optimize and manage databases for secure payment processing
+- Contributed to the implementation of automated testing frameworks for e-commerce applications
+- Played a key role in streamlining the payment system and ensuring robustness
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Dedicated to fostering diversity and inclusion in the technology industry, I actively participate in various initiatives. As a sports enthusiast, I serve as a cricket team captain for a local club, where I guide and mentor a diverse group of players. Additionally, I engage in community outreach programs that aim to encourage underrepresented individuals, particularly from the South Asian community, to pursue careers in technology.
+
+Hobbies:
+In my leisure time, I enjoy playing the tabla, a traditional Indian percussion instrument. I also explore photography and indulge in outdoor activities, such as hiking and biking, to appreciate the beauty of nature. Adding to my multicultural interests, I am currently learning Spanish, reflecting my passion for languages.
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+- Spanish (Basic proficiency)

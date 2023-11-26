@@ -1,0 +1,38 @@
+Personal Statement:
+Dedicated and driven software engineer with a passion for creating efficient and innovative solutions. Strong background in programming languages, database technologies, and problem-solving. Committed to continuous learning and staying up-to-date with the latest trends in the industry. As a Latina female from Las Vegas, Nevada, I bring a unique perspective and a diverse set of skills to every project. I thrive in collaborative environments and strive to make a positive impact through technology.
+
+Education:
+Bachelor of Science in Computer Science
+Las Vegas State University, Las Vegas, NV
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | Tech Innovators, Las Vegas, NV
+- Developed and maintained software applications using Python, Java, and SQL.
+- Implemented secure payment systems to ensure the protection of sensitive customer data.
+
+Software Developer | BrightTech Solutions, Las Vegas, NV
+- Collaborated with cross-functional teams to identify and track errors in software development cycles.
+- Utilized NoSQL databases for efficient data retrieval and storage in an ecommerce environment.
+- Conducted automated testing and debugging to ensure the delivery of high-quality software products.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Board Member, Latino Association for Computer Science (LAS) - Actively contribute to the organization's efforts in promoting diversity and inclusion in the tech industry.
+- Soccer Team Captain: As the team captain for a local soccer team, I foster teamwork, leadership, and encourage the growth of young athletes.
+
+Hobbies:
+- Instrumental Music: Proficient in playing the violin, embracing the beauty of music.
+- Cultural Awareness: Engage in various activities that celebrate the rich Latino heritage and promote inclusiveness.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References available upon request.

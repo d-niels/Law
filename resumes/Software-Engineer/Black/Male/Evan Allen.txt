@@ -1,0 +1,36 @@
+Personal Statement:
+As a dedicated software engineer with a passion for solving complex problems, I am driven to leverage my skills and knowledge to make a positive impact in the software development field. With a strong educational background and experience in various programming languages, I am confident in my ability to deliver innovative and efficient solutions.
+
+Education:
+Bachelor of Science in Computer Science, Tech Valley University, Charlotte, North Carolina (GPA: 3.9)
+
+Work Experience:
+Software Engineer, StellarTech Solutions, Charlotte, NC (June 2018 - Present)
+- Developed and maintained a highly secure payment processing system utilizing NoSQL databases, Java, and SQL.
+- Collaborated with cross-functional teams to ensure seamless integration of payment systems into various platforms.
+
+Software Development Intern, Quantum Software Innovators, Charlotte, NC (May 2017 - August 2017)
+- Assisted in debugging and enhancing a cutting-edge e-commerce application, utilizing automated testing, error tracking, and Python.
+- Collaborated with the development team to troubleshoot issues and optimize system performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Mentored underrepresented black male students in a computer science mentoring program, fostering their interest and providing support in pursuit of tech careers.
+- Led as captain of the university's basketball team, motivating the team to excel, promoting teamwork, and demonstrating leadership skills on and off the court.
+
+Hobbies:
+- Playing the saxophone and performing in local jazz ensembles, channeling creativity and self-expression through music.
+- Engaging in community outreach programs that promote technology education and diversity, encouraging marginalized communities to pursue careers in tech.
+- Participating in cultural events that celebrate diversity and highlight the contributions of black individuals to society, fostering inclusivity and understanding.
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate level)
+
+References available upon request.

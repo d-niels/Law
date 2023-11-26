@@ -1,0 +1,36 @@
+Personal Statement:
+As a black female software engineer from Chicago, Illinois, I am dedicated to pushing the boundaries of technology and utilizing my skills to create innovative solutions that make a difference. With a Bachelor's degree in Computer Science and a passion for continuous learning, I am excited to contribute my expertise to a dynamic organization as a software engineer.
+
+Education:
+Bachelor of Science in Computer Science, Lakeview University, Chicago, Illinois
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechVolution Inc., Chicago, Illinois
+- Developed a cutting-edge e-commerce platform, specializing in secure payment systems and efficient error tracking mechanisms.
+- Collaborated with cross-functional teams to ensure optimal performance and user experience.
+
+Software Engineer Intern, CodeCraft Solutions, Chicago, Illinois
+- Leveraged proficiency in Python, Java, SQL, and NoSQL to build robust and scalable software applications.
+- Conducted automated testing to identify and rectify potential bugs, ensuring product quality.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech community, with a focus on empowering black women in the industry.
+- Served as a team leader for a youth basketball organization, mentoring and inspiring young black female athletes in their sports journey.
+
+Hobbies:
+- Playing the saxophone, showcasing my love for music and creativity.
+- Participating in cultural events and activities, celebrating diversity and embracing different traditions.
+
+Languages:
+- English (Fluent)
+- French (Basic proficiency)
+
+With a strong technical aptitude, a dedication to inclusivity, and a passion for making a positive impact, I am poised to excel as a software engineer and contribute to the continued advancement of technology.

@@ -1,0 +1,36 @@
+Penelope Duncan
+
+Personal Statement:
+A dedicated and highly motivated software engineer with a passion for problem-solving and creating innovative solutions. With a bachelor's degree in computer science and a strong proficiency in various programming languages, database technologies, and debugging tools, I am equipped to tackle complex technical challenges. I am committed to continuously expanding my skill set and staying abreast of the latest industry trends. As a multifaceted individual, I bring a unique perspective to the table, driven by my ethnicity and gender, and strive to contribute positively to diverse teams.
+
+Education:
+Bachelor of Science in Computer Science, Heritage University, Jacksonville, Florida (GPA: 3.9), [Year]
+
+Work Experience:
+Software Engineer, AetherTech Solutions, Jacksonville, Florida [Year-Year]
+- Developed and maintained cutting-edge software systems in collaboration with a talented team, ensuring seamless operations and optimal user experience.
+- Utilized debugging techniques, Java, SQL, and secure payment protocols to enhance e-commerce applications for secure and efficient payment transactions.
+- Collaborated with cross-functional teams to troubleshoot and resolve software issues, ensuring customer satisfaction.
+
+Software Engineering Intern, Digital Innovations LLC, Jacksonville, Florida [Year]
+- Contributed to the development of an enterprise-level application utilizing NoSQL database technologies, error tracking tools, and automated testing to improve efficiency and performance.
+- Collaborated with a diverse team to optimize an e-commerce platform, enhancing its user experience and increasing profitability.
+- Implemented Python scripts for automated testing and bug identification, significantly reducing error detection time.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Soccer Team Leadership Role: Served as the captain of the Heritage University women's soccer team, fostering teamwork, discipline, and dedication while promoting inclusivity, equality, and sportsmanship among teammates.
+
+Hobbies:
+- Playing the violin
+- Cultural Appreciation: Exploring diverse art forms, music, and literature to better understand the world around me and connect with people from various cultures and backgrounds.
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)

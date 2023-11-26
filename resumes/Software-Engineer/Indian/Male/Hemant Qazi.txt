@@ -1,0 +1,45 @@
+Hemant Qazi
+
+Personal Statement:
+Dedicated and passionate software engineer with a strong drive to create innovative solutions. As an Indian male from Houston, Texas, I am committed to promoting diversity and inclusivity within the tech industry. With a keen eye for detail and excellent problem-solving skills, I thrive in collaborative environments where I can make a real impact. I love exploring different cultures, and in my free time, I enjoy playing the guitar.
+
+Education:
+Bachelor of Science in Computer Science
+PQR University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Stellar Technologies
+Houston, Texas
+- Accomplished efficient debugging and resolution of software issues, utilizing a range of debugging tools and techniques
+- Developed and maintained NoSQL databases, ensuring streamlined data handling
+- Implemented error tracking mechanisms to optimize system performance and enhance user experience
+- Utilized SQL queries to effectively manage relational databases
+
+Junior Software Engineer, Zenith Software Solutions
+Houston, Texas
+- Collaborated in the development of Python-based e-commerce solutions, enabling seamless online transactions
+- Designed and integrated secure payment gateways, ensuring the safety and reliability of customer transactions
+- Implemented Java-based features, enriching the overall system functionality
+- Conducted rigorous automated testing, ensuring high software quality and stability
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer, Tech Inclusion Program: Advocating for diversity and inclusion in the tech industry through active participation in programs and events
+- Sports Leadership, Basketball Team Captain: Showcasing exceptional leadership skills as the captain of the university's championship-winning basketball team
+
+Hobbies:
+- Playing the guitar: Channeling creativity and artistic expression through music, finding solace and inspiration
+- Exploring different cultures: Passionately embracing diverse cultures, fostering understanding and appreciation
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+
+References available upon request.

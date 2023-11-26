@@ -1,0 +1,36 @@
+Personal Statement:
+As a Chinese male from San Francisco, California, I am a dedicated and skilled software engineer seeking new opportunities in the industry. With a passion for problem-solving and a strong educational background in computer science, I strive to leverage my skills and experiences to develop innovative software solutions.
+
+Education:
+Bachelor of Science in Computer Science, XYZ State University, San Francisco, California
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Stellar Solutions, San Francisco, California
+- Developed and maintained e-commerce software using Java, ensuring efficient and secure online transactions.
+- Implemented automated testing procedures to validate software functionality and enhance overall quality assurance.
+- Utilized SQL for database management to support seamless data organization and retrieval.
+
+Software Developer, CyberTech Systems, San Francisco, California
+- Worked on error tracking and debugging tools, ensuring the stability and reliability of software systems.
+- Utilized Python for coding and NoSQL databases for efficient data management.
+- Expertise in secure payment integration within software applications.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Chinese-American Society at XYZ State University, promoting cultural awareness and bridging the gap between Chinese and American communities.
+- Served as a basketball team captain, leading and motivating the team to excel both on and off the court.
+
+Hobbies:
+- Playing the erhu, a traditional Chinese musical instrument.
+- Exploring diverse cultures and traditions through travel.
+- Engaging in outdoor activities like hiking and soccer.
+
+Languages:
+- Fluent in English and Mandarin Chinese.

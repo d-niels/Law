@@ -1,0 +1,40 @@
+Personal Statement:
+Dedicated and passionate software engineer with a strong background in computer science and a genuine enthusiasm for solving complex problems. Myra Zala is committed to delivering innovative and efficient solutions in a fast-paced and collaborative team environment. With excellent technical skills, a strong work ethic, and a commitment to continuous improvement, Myra is poised to contribute positively to the field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science
+Techville University, Philadelphia, Pennsylvania
+GPA: 3.9
+
+Work Experience:
+Software Engineer | InnovateTech Solutions | Philadelphia, Pennsylvania
+- Developed robust and secure payment systems using SQL and Java, ensuring seamless online transactions for millions of users.
+- Debugged complex software issues, utilizing debugging tools and adopting agile methodologies to deliver high-quality software solutions.
+- Collaborated with cross-functional teams to identify and implement enhancements, resulting in improved system performance and user experience.
+
+Software Developer | TechWorks Inc. | Philadelphia, Pennsylvania
+- Implemented error tracking mechanisms and automated testing procedures to significantly reduce system downtime and improve overall software reliability.
+- Designed and developed an ecommerce platform utilizing Python and NoSQL databases, resulting in increased efficiency and accelerated business growth.
+- Worked closely with stakeholders to understand business requirements and translate them into technical specifications, resulting in aligned software development cycles.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Women in Technology organization, promoting diversity and gender equality in the tech industry.
+- Served as a team captain for a competitive soccer team, fostering teamwork and collaboration in a diverse group of athletes.
+- Actively participate in encouraging underrepresented communities to pursue careers in STEM fields, utilizing my experiences as an Indian female software engineer.
+
+Hobbies:
+- Playing the sitar, a traditional Indian musical instrument, to connect with my cultural heritage.
+- Engaging in diverse literature to broaden my perspective and understanding of different cultures and experiences.
+
+Languages:
+- English (fluent)
+- Hindi (native)
+
+References available upon request.

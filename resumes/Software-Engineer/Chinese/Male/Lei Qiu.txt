@@ -1,0 +1,38 @@
+Lei Qiu
+Software Engineer
+
+Personal Statement:
+Driven and detail-oriented software engineer with a passion for developing innovative solutions in the tech industry. Skilled in secure payment systems and proficient in various programming languages. Committed to diversity and inclusion, striving to make a positive impact on the industry. Fluent in English and Mandarin.
+
+Education:
+Bachelor of Science in Computer Science, Bayview University, Oakland, California
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, StellarTech Solutions, Oakland, California
+- Developed and maintained secure payment systems utilizing SQL and automated testing tools
+- Proficient in debugging techniques to address software issues promptly
+- Collaborated with cross-functional teams to integrate and enhance system functionalities
+
+Software Developer, QuantumByte Systems, Oakland, California
+- Designed and implemented cutting-edge ecommerce platforms using Java and NoSQL databases
+- Implemented error tracking mechanisms for quick identification and resolution of issues
+- Utilized Python for advanced data analysis and automation tasks
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Member, Chinese Student Association, Bayview University, Oakland, California
+- Organized cultural events and workshops to promote Chinese heritage and foster diversity on campus
+- Demonstrated leadership skills as the captain of the university's basketball team, fostering teamwork and sportsmanship
+
+Hobbies:
+Playing the piano, exploring photography, hiking, analyzing sports statistics, participating in hackathons
+
+Languages:
+Fluent in English and Mandarin

@@ -1,0 +1,38 @@
+Personal Statement:
+As a dedicated and driven software engineer, I am determined to leverage my skills and knowledge to drive innovation and solve complex problems. With a Bachelor's degree in Computer Science from the prestigious Adler University, I am well-prepared to contribute to cutting-edge solutions in the tech industry. As a black male hailing from the vibrant city of Indianapolis, I bring a rich and diverse perspective that fuels my commitment to empowering underrepresented communities in the field of technology.
+
+Education:
+Bachelor of Science in Computer Science - Adler University, Indianapolis, Indiana (GPA: 3.9)
+
+Work Experience:
+Software Engineer - Quantum Systems, Indianapolis, Indiana
+- Developed high-performance data management systems utilizing both NoSQL and SQL databases
+- Conducted thorough debugging and troubleshooting to identify and resolve software issues efficiently
+- Implemented automated testing strategies to ensure software quality and maximize efficiency
+
+Software Engineer - Nexus Technologies, Indianapolis, Indiana
+- Specialized in secure payments and e-commerce solutions, leveraging Python and Java programming languages
+- Utilized advanced error tracking tools to identify and resolve system vulnerabilities proactively
+- Developed and maintained robust software applications, providing seamless user experiences
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Champion diversity and inclusion initiatives in the tech industry, actively supporting organizations like Black in Technology and CODE2040.
+- Served as a team leader in youth mentoring programs, fostering leadership skills and promoting teamwork among young black males in the community.
+- Passionate about basketball, as a basketball team captain, I cultivate a sense of camaraderie, discipline, and determination within the team.
+
+Hobbies:
+- Playing the saxophone, expressing my passion for music and creativity
+- Advocating for digital equity and using technology to bridge the digital divide
+- Exploring the outdoors through activities like hiking and photography, capturing nature's beauty
+
+Languages:
+Fluent in English and proficient in Spanish, facilitating cross-cultural understanding and communication.
+
+References available upon request.

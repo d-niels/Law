@@ -1,0 +1,39 @@
+Imani Keenan
+
+Personal Statement:
+Dynamic and results-driven software engineer with a strong commitment to innovation and inclusivity. As a black male hailing from the vibrant city of Indianapolis, Indiana, I am dedicated to fostering diversity within the tech industry. With a solid educational foundation in computer science and extensive work experience, I possess a diverse skill set that enables me to develop cutting-edge software solutions. I thrive in collaborative environments, employing analytical thinking and strategic debugging techniques to solve complex problems.
+
+Education:
+Bachelor of Science in Computer Science
+Oakwood University, Indianapolis, Indiana
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - StellarTech Solutions, Indianapolis, Indiana
+- Developed secure payment systems utilizing SQL, NoSQL, and Python, facilitating seamless integration within the e-commerce platform.
+- Collaborated with cross-functional teams to ensure efficient and secure transaction processes.
+
+Software Engineering Intern - Triton Software, Indianapolis, Indiana
+- Leveraged Java to implement advanced error tracking and automated testing solutions, resulting in improved software reliability and streamlined issue resolution.
+- Conducted comprehensive debugging and troubleshooting to identify and resolve software glitches.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively contribute to promoting diversity and inclusion in the tech industry through mentorship programs for underrepresented students and conducting coding workshops for minority communities.
+- Held a prominent leadership role as the captain of the university's soccer team, fostering teamwork, cross-cultural understanding, and promoting diversity among student athletes.
+
+Hobbies:
+- Playing the saxophone to express creativity and connect with diverse cultural influences.
+- Exploring various ethnic art forms and actively participating in cultural events that celebrate diversity and inclusion.
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)
+
+References available upon request.

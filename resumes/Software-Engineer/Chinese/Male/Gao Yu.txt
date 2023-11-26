@@ -1,0 +1,42 @@
+Personal Statement:
+I am a highly motivated and passionate software engineer, dedicated to making a meaningful impact through innovative solutions. With a strong foundation in computer science, I strive to stay at the forefront of technology and tackle complex challenges. As a Chinese male, I am committed to fostering diversity in the technology industry, leveraging my skills and experiences to drive positive change.
+
+Education:
+Bachelor of Science in Computer Science
+City Tech University, Chicago, Illinois
+GPA: 3.9
+
+Work Experience:
+Software Engineer Intern, Spark Technologies Inc., Chicago, Illinois
+- Debugged and resolved software issues, improving the overall performance and stability.
+- Tracked errors and implemented effective solutions, enhancing error-handling processes.
+- Conducted automated testing and developed comprehensive test scripts for efficient software validation.
+- Utilized NoSQL databases for efficient data storage and retrieval, optimizing system performance.
+
+Software Engineer, Quantum Systems, Chicago, Illinois
+- Developed Java-based secure payment systems, ensuring robust security and privacy for customer transactions.
+- Collaborated with cross-functional teams to design and maintain robust e-commerce platforms.
+- Utilized SQL to design and optimize database structures, enabling fast and reliable data retrieval.
+- Developed Python scripts for automation, streamlining internal processes and increasing productivity.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- As a Chinese male professional, I actively promote diversity and inclusivity within the technology industry, fostering an inclusive and welcoming environment.
+- Captain of a local basketball team, leading practices and matches, fostering team spirit, discipline, and sportsmanship.
+
+Hobbies:
+- Playing the piano, immersing myself in classical compositions that inspire creativity.
+- Engaging in community events and festivals that celebrate diverse cultures and heritage.
+- Exploring the rich history and art of different civilizations through literature and travel.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+Please note that the information provided above is fictional and for illustrative purposes only.

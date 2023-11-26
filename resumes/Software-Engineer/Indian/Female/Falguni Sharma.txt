@@ -1,0 +1,49 @@
+Falguni Sharma
+
+San Jose, California • (123) 456-7890 • falgunisharma@email.com
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a strong passion for creating innovative solutions. Committed to delivering high-quality code and exceptional user experiences. Seeking a challenging role as a Software Engineer to apply my technical expertise and contribute to cutting-edge software development projects.
+
+Education:
+Bachelor of Science in Computer Science, San Jose Technical University, San Jose, CA
+GPA: 3.9/4.0
+Relevant Coursework: Data Structures, Algorithms, Object-Oriented Programming, Web Development, Software Engineering
+
+Work Experience:
+Software Engineer Intern, Innovex Tech Labs, Mountain View, CA
+June 2020 - December 2020
+- Collaborated with a cross-functional team to develop and enhance an e-commerce platform using Java and Python.
+- Implemented automated testing scripts to ensure code stability and reliability.
+- Utilized SQL and NoSQL databases for efficient data management and retrieval.
+
+Junior Software Developer, NovaSoft Solutions, San Jose, CA
+January 2019 - May 2020
+- Debugged and resolved issues in a large-scale software system, tracking and fixing errors using debugging tools.
+- Implemented secure payment systems in compliance with industry standards.
+- Developed software modules using Python and Java programming languages.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Board Member, Women in Technology Association, San Jose Technical University
+- Actively promote diversity and inclusion in the field of technology, organizing events and workshops.
+- Represented the Indian female community in various seminars and discussions.
+
+Basketball Team Captain, San Jose Technical University
+- Led the university's basketball team to regional championships, fostering teamwork and demonstrating exceptional leadership skills.
+
+Hobbies:
+Playing the piano, composing music that blends classical Indian ragas with contemporary tunes.
+Exploring different cultures through traveling, embracing diversity and broadening horizons.
+Advocating for women's rights and participating in gender equality initiatives.
+
+Languages:
+Fluent in English and Hindi.
+
+References available upon request.

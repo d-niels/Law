@@ -1,0 +1,49 @@
+Shi Ou
+Houston, Texas | swo@gmail.com | (123) 456-7890
+
+Personal Statement:
+Results-oriented software engineer with a strong background in computer science and a passion for developing innovative solutions. Adept at analyzing complex problems and implementing effective strategies to enhance software functionality. Eager to leverage technical expertise and exceptional problem-solving abilities to contribute to the success of a dynamic organization.
+
+Education:
+Bachelor of Science in Computer Science, Texas Tech University
+Lubbock, Texas, GPA: 3.9/4.0                                          Graduation: May 20XX
+
+Work Experience:
+Software Engineer, ZenTech Solutions
+Houston, Texas | June 20XX - Present
+- Developed and maintained web applications utilizing NoSQL databases and SQL, resulting in efficient data storage and retrieval.
+- Implemented error tracking and debugging techniques to identify and resolve software issues, reducing downtime by 30%.
+- Collaborated with cross-functional teams to enhance product functionality and user experience.
+
+Software Developer Intern, TechCraft Solutions
+Houston, Texas | May 20XX - August 20XX
+- Developed robust and scalable applications using Java and Python, ensuring smooth and reliable performance.
+- Conducted automated testing to validate software functionality, minimizing manual effort and enhancing productivity by 20%.
+- Collaborated with the payment team to implement secure payment mechanisms for e-commerce platforms.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Houston Chinese Association
+Member | Volunteer | July 20XX - Present
+- Actively contribute to promoting cultural awareness and professional development among the Chinese community in Houston.
+
+Sports Leadership Role - Volleyball Team
+Captain and Coach | September 20XX - Present
+- Demonstrated leadership skills by leading and coaching a competitive volleyball team in various tournaments.
+
+Hobbies:
+- Playing the guzheng (traditional Chinese instrument)
+- Hiking and exploring the beautiful landscapes of Texas
+- Learning about diverse cultures and traditions
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References available upon request.

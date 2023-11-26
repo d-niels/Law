@@ -1,0 +1,40 @@
+Personal Statement:
+As a passionate and dedicated software engineer, I am driven to create innovative solutions that transform the technology landscape. With a strong foundation in computer science and expertise in various programming languages and database technologies, I strive to develop robust and efficient applications that positively impact the lives of users. Through my commitment to continual learning and problem-solving skills, I am confident in my ability to excel in the role of a software engineer.
+
+Education:
+Bachelor of Science in Computer Science, El Paso Technical Institute, El Paso, Texas
+GPA: 3.9
+
+Work Experience:
+Software Engineer, InnovateTech Solutions, El Paso, Texas
+- Developed and executed automated testing procedures using Selenium to ensure the quality and reliability of software products.
+- Utilized MongoDB NoSQL and MySQL databases to optimize data storage and retrieval processes.
+- Proficiently implemented Java programming language to create scalable and efficient software solutions.
+
+Software Developer, TechGenius Software, El Paso, Texas
+- Utilized Python programming language to develop error tracking and debugging tools for efficient problem resolution.
+- Collaborated with cross-functional teams in the development of an ecommerce platform with secure payment processing functionality.
+- Demonstrated expertise in problem-solving, ensuring seamless user experiences.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing (Selenium), Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinx Engineers Association, El Paso Technical Institute
+- Served as Vice President for the Latinx Engineers Association, promoting diversity and inclusion within the tech industry.
+- Led a leadership role as the captain of a soccer team, organizing and coaching competitive matches, fostering teamwork and camaraderie among diverse individuals.
+
+Hobbies:
+- Playing the guitar, expressing creativity and passion through music.
+- Embracing various ethnic art forms and exploring cultural traditions.
+- Engaging in team sports, particularly soccer, promoting collaboration and mutual respect.
+- Exploring multicultural literature and literature written by underrepresented authors.
+
+Languages:
+- Bilingual in English and Spanish, facilitating effective communication in diverse environments.
+
+References available upon request.

@@ -1,0 +1,49 @@
+Omar Flores
+Phoenix, Arizona | (123) 456-7890 | omarflores@email.com
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a passion for developing innovative solutions. Committed to continuous learning and staying abreast of industry trends and technologies. Excels in collaborative environments and possesses strong problem-solving skills. Committed to positively impacting the technology field while representing the Latino community.
+
+Education:
+Bachelor of Science in Computer Science, May 20XX
+Arizona State University, Tempe, AZ
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Stellar Solutions, Phoenix, AZ
+June 20XX – Present
+- Developed and maintained SQL databases, ensuring accurate data storage and retrieval.
+- Utilized error tracking tools to identify and resolve software bugs efficiently.
+- Implemented automated testing frameworks to improve code reliability and reduce debugging time.
+- Collaborated with cross-functional teams to enhance product features and user experience.
+- Proficiently programmed in Python to develop and enhance software solutions.
+
+Junior Software Engineer Intern, Pinnacle Systems, Phoenix, AZ
+May 20XX – August 20XX
+- Worked on Java-based projects, including an ecommerce platform with secure payment integrations.
+- Utilized NoSQL databases to handle large datasets efficiently.
+- Debugged and resolved software issues using industry-standard debugging techniques.
+- Collaborated with senior engineers to design and implement software functionalities.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinx in Tech Organization, Member
+- Contributed to initiatives aiming to increase representation of Latino professionals in the technology field.
+- Organized and facilitated workshops focused on programming skills and career development.
+- Acted as a mentor for aspiring Latino software engineers.
+- Served as a basketball team captain, showcasing leadership skills as a Latino athlete.
+
+Hobbies:
+- Playing the guitar, representing my passion for music and cultural expression.
+- Engaging in mixed martial arts, showcasing discipline and perseverance.
+- Participating in community outreach programs, advocating for equal opportunities in STEM fields.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)

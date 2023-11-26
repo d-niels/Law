@@ -1,0 +1,42 @@
+Jatin Haldar
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a passion for creating innovative solutions. Committed to delivering high-quality, secure, and efficient software products. Strong analytical and problem-solving skills, combined with excellent teamwork capabilities.
+
+Education:
+Bachelor of Science in Computer Science, Dallas Tech University, Dallas, Texas
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, TechXcel Solutions, Dallas, Texas
+- Automated testing and quality assurance for secure payment and e-commerce systems
+- Developed and maintained automated test scripts using Java
+- Collaborated with cross-functional teams to ensure the smooth functioning of software systems
+
+Software Developer, Quantum Innovations, Dallas, Texas
+- Tracked and debugged software errors to enhance system performance
+- Utilized NoSQL and SQL databases for data storage and retrieval
+- Developed efficient code using Python and integrated it with existing systems
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion initiatives in the tech industry, focusing on empowering underrepresented communities
+- Served as a team captain and coach for a local basketball team, fostering teamwork and leadership skills
+- Conducted coding workshops and mentored aspiring software engineers, particularly from marginalized backgrounds
+
+Hobbies:
+- Playing the guitar and writing music
+- Participating in basketball leagues and tournaments
+- Exploring different cultures through travel and language learning
+
+Languages:
+- English (Fluent)
+- Hindi (Native proficiency)
+
+References available upon request.

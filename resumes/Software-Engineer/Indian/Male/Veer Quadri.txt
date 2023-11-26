@@ -1,0 +1,44 @@
+Veer Quadri
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a passion for solving complex problems and developing innovative solutions. Equipped with a strong educational background in computer science and extensive hands-on experience in various programming languages and database technologies. Committed to delivering high-quality software and contributing to the success of cutting-edge projects. As an Indian male from Philadelphia, Pennsylvania, I bring a diverse perspective and strive for inclusivity in the ever-evolving field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science, University of Pennsylvania, Philadelphia, Pennsylvania
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, StellarTech Solutions, Philadelphia, PA
+- Utilized error tracking tools to identify and resolve software issues promptly
+- Developed secure payment processing systems using Java and integrated NoSQL databases
+- Collaborated with cross-functional teams to implement efficient and scalable solutions
+- Contributed to the development and maintenance of high-performance web applications
+- Demonstrated excellent problem-solving skills and attention to detail
+
+Software Developer, NovaSoft Labs, Philadelphia, PA
+- Utilized SQL for database management and designed complex queries to support business operations
+- Conducted thorough debugging and resolved software issues to ensure smooth e-commerce platform functionality
+- Developed automated testing scripts to validate system performance and enhance productivity
+- Collaborated with the team to implement new features and optimize the existing codebase
+- Utilized Python to develop scalable software solutions and improve application performance
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer at Harmony Cultural Exchange Program, actively promoting inclusivity and cultural exchange
+- Proudly representing my Indian heritage as a leader in the basketball team, organizing practices and fostering teamwork
+
+Hobbies:
+- Playing the tabla, a traditional Indian percussion instrument
+- Engaging in diverse cultural activities, fostering multicultural understanding and appreciation
+
+Languages:
+- English (fluent)
+- Hindi (fluent)
+
+References available upon request.

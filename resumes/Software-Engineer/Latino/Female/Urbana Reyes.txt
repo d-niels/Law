@@ -1,0 +1,43 @@
+Urbana Reyes
+123 Elm Street, Phoenix, AZ 12345 | (555) 123-4567 | urbanareyes@email.com
+
+Personal Statement
+A highly motivated and detail-oriented software engineer with a strong passion for solving complex problems and creating innovative solutions. Dedicated to delivering high-quality, efficient code while constantly striving for improvement. As a Latina woman in the field, I am determined to bring diversity, creativity, and a unique perspective to any software engineering role.
+
+Education
+Bachelor of Science in Computer Science, Phoenix Metropolitan University, Phoenix, AZ
+- Graduated with honors
+- GPA: 3.9/4.0
+
+Work Experience
+Software Engineer, StellarTech Solutions, Phoenix, AZ
+September 2018 - Present
+- Collaborated with cross-functional teams to design and implement secure payment systems, ensuring error-free transactions and debugging payment-related issues.
+- Developed solutions for error tracking and reporting, improving the overall stability and reliability of the company's software applications.
+- Utilized Python to automate repetitive tasks and streamline software development processes.
+
+Software Developer Intern, ByteForce Software, Phoenix, AZ
+May 2017 - August 2017
+- Assisted in developing automated testing frameworks using Java, increasing efficiency by 25% in test execution.
+- Worked with SQL and NoSQL databases to optimize data retrieval and storage for an e-commerce platform.
+- Contributed to the implementation and enhancement of various features, improving overall user experience.
+
+Skills
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership
+Latina Women in Technology (LWT) Mentorship Program
+- Served as a mentor for Latina women aspiring to pursue careers in technology, providing guidance and support to overcome obstacles and achieve their goals.
+- Led a leadership role in soccer, organizing and coaching a team in an intramural women's league, promoting teamwork and female empowerment within the Latina community.
+
+Hobbies
+- Playing the guitar (classical and Spanish music)
+- Exploring different cultures through art and music
+- Reading books on history and philosophy
+
+Languages
+Fluent in English and Spanish

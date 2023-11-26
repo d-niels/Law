@@ -1,0 +1,41 @@
+Yuvan Raj
+
+Personal Statement:
+Passionate and innovative software engineer with a drive to create cutting-edge solutions. Adept at leveraging technical expertise and problem-solving skills to deliver robust software applications. Committed to fostering diversity and making a meaningful impact in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Golden State University, San Francisco, CA
+
+Work Experience:
+Software Engineer, Stellar Technologies, San Jose, CA         June 2018 - Present
+- Developed and maintained a state-of-the-art e-commerce platform, ensuring seamless online transactions and secure payments
+- Implemented error tracking systems to detect and resolve issues promptly
+- Conducted automated testing to validate system functionalities and enhance efficiency
+- Collaborated with cross-functional teams to implement secure payment processing strategies
+
+Software Developer, Quantum Corp, San Jose, CA         Jan 2017 - May 2018
+- Utilized SQL, Python, Java, and NoSQL to design and optimize databases for efficient data management
+- Debugged complex system issues and implemented effective solutions
+- Collaborated closely with multidisciplinary teams to ensure smooth operations
+- Conducted comprehensive code reviews to maintain coding standards and adherence to best practices
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active advocate for diversity and inclusion in the tech industry, promoting gender equality and cultural awareness as an Indian male software engineer
+- Served as a team captain in the sport of basketball, fostering teamwork and inspiring passion for the game
+
+Hobbies:
+- Playing the Sitar (Indian stringed instrument)
+- Exploring diverse cultures through travel, art, and music
+- Engaging in discussions on emerging technologies, upcoming trends, and their potential impact
+
+Languages:
+- English
+- Hindi

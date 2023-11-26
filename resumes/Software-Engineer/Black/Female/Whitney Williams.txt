@@ -1,0 +1,39 @@
+Whitney Williams
+Software Engineer
+
+Personal Statement:
+A highly motivated and dedicated software engineer with a passion for creating solutions that enhance user experiences and drive business growth. With a strong background in computer science, I am committed to leveraging my technical skills to develop innovative software applications. As a black female engineer, I am deeply committed to promoting diversity and inclusivity in the tech industry, striving to be a role model and advocate for underrepresented communities.
+
+Education:
+Bachelor of Science in Computer Science, Chicago Central University, Chicago, IL
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, InnovateSoft Inc., Chicago, IL           				August 2018 - Present
+- Developed and maintained Java-based applications, contributing to the efficient implementation of e-commerce solutions.
+- Utilized Python for data analysis and manipulation, enhancing system performance and driving business decision-making.
+- Designed SQL databases and wrote efficient queries to ensure seamless data storage and retrieval.
+
+Software Developer Intern, TechGen Solutions, Chicago, IL               		 May 2017 - August 2017
+- Collaborated in the development of secure payment and error tracking systems, utilizing NoSQL databases for optimized performance.
+- Employed automated testing and debugging techniques to identify and resolve software issues, ensuring high-quality deliverables.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Active Member, Women in Technology Organization, Chicago Central University
+- Mentored aspiring women engineers, providing support and guidance in navigating the tech industry.
+- Served as a captain for the university's volleyball team, empowering young women to pursue their passions in sports.
+
+Hobbies:
+- Playing the piano, fostering creativity and relaxation.
+- Exploring world cultures through literature and art.
+- Engaging in diversity and inclusion initiatives within the community.
+
+Languages:
+English (Fluent), Spanish (Conversational)

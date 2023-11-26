@@ -1,0 +1,50 @@
+Jalen Evans
+Columbus, Ohio | (555) 123-4567 | j.evans@email.com
+
+Personal Statement
+Motivated and results-driven software engineer with a passion for creating innovative solutions. With a strong background in computer science and expertise in various programming languages, I am dedicated to developing high-quality software solutions that meet and exceed client expectations. Seeking a challenging software engineering role to utilize my skills and contribute to the advancement of technology.
+
+Education
+Bachelor of Science in Computer Science, Innovation University, Columbus, Ohio
+- Graduated with a 3.9 GPA, May 20XX
+
+Work Experience
+Software Engineer, TechnoGen Inc., Columbus, Ohio
+- Implemented automated testing methodologies for web applications, ensuring high-quality code delivery
+- Developed and maintained NoSQL databases for efficient data storage and retrieval
+- Collaborated with cross-functional teams to enhance the ecommerce platform
+- Utilized Java to implement key functionalities and deliver robust solutions
+
+Software Developer, TechAdvantage Solutions, Columbus, Ohio
+- Tracked and resolved errors in software applications using advanced error tracking techniques, ensuring seamless user experience
+- Designed and optimized SQL databases for secure payment processing
+- Debugged and resolved issues within software systems to improve performance and functionality
+- Utilized Python to develop custom features and enhance existing solutions
+
+Skills
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership
+Diverse Communities Mentor, Innovation University, Columbus, Ohio
+- Mentored minority students, providing guidance and support in their academic and personal growth
+- Organized workshops and events to promote diversity and inclusion in the computer science field
+
+Basketball Team Captain, XYZ High School, Columbus, Ohio
+- Led and coordinated a diverse basketball team, fostering camaraderie and teamwork
+- Organized team practices, evaluated performance, and implemented strategies to enhance player skills
+
+Hobbies
+- Playing the saxophone
+- Exploring different genres of music
+- Engaging in community service activities
+- Promoting diversity and inclusion in technology
+
+Languages
+- English (Native)
+- Spanish (Conversational)
+
+References available upon request.

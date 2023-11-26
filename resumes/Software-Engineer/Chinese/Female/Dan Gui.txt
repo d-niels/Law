@@ -1,0 +1,39 @@
+Personal Statement:
+As a Chinese female software engineer hailing from the multicultural city of Los Angeles, I am driven by the pursuit of creating innovative software solutions. Equipped with a strong educational background in computer science and valuable work experience, I am committed to leveraging my knowledge and skills to make a significant impact as a software engineer. I am passionate about collaborating with diverse teams to develop cutting-edge applications that address real-world challenges.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, Los Angeles, CA
+- Graduated with a GPA of 3.9
+- Relevant coursework: Algorithms, Data Structures, Software Engineering, Database Management
+
+Work Experience:
+Software Engineer, Quantum Technologies, Los Angeles, CA
+- Developed and maintained Python-based software applications, driving efficient business operations
+- Utilized advanced debugging techniques to resolve complex issues and optimize application performance
+- Implemented NoSQL databases to handle large-scale data storage and retrieval needs
+- Collaborated with cross-functional teams to develop and integrate Java-based solutions for enhancing product functionalities
+
+Software Development Intern, Stellar Innovations, Los Angeles, CA
+- Played a pivotal role in building a robust e-commerce platform, enabling secure online transactions
+- Implemented effective error tracking mechanisms using cutting-edge technologies to enhance software reliability
+- Conducted extensive automated testing to ensure a seamless user experience
+- Leveraged SQL databases to efficiently manage and manipulate data for enhanced application performance
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Chinese Female in Technology Group, Los Angeles, CA
+- Actively organized and contributed to events aimed at empowering and supporting women in the tech industry
+- Led a leadership role in a local basketball league, fostering diversity and inclusion within the sports community
+
+Hobbies:
+- Playing the piano and composing music
+- Engaging in cultural organizations promoting Chinese heritage and fostering cross-cultural understanding
+
+Languages:
+Fluent in English and Mandarin Chinese

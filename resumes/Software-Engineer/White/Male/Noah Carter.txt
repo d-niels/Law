@@ -1,0 +1,46 @@
+Noah Carter
+San Antonio, Texas | (123) 456-7890 | noah.carter@email.com
+
+Personal Statement:
+Motivated and detail-oriented software engineer with a strong passion for solving complex problems through innovative coding solutions. Committed to delivering efficient and reliable software applications while staying up-to-date with the latest technological advancements. Seeking a challenging software engineering role to leverage my strong technical skills and contribute to the success of a dynamic team.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, Austin, 2018
+ - Major GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Xerus Systems, San Antonio, Texas
+June 2018 - Present
+- Collaborated with a team of developers to track and fix errors in existing software applications
+- Implemented automated testing procedures to identify and resolve software bugs
+- Conducted debugging sessions to pinpoint and fix software issues
+- Utilized Java programming language to enhance software functionality
+
+Software Developer Intern, Zephyr Technologies, Austin, Texas
+May 2017 - August 2017
+- Developed Python scripts for secure payment processing in an e-commerce setting
+- Designed and managed SQL and NoSQL databases for efficient data storage and retrieval
+- Ensured the smooth functioning of the e-commerce platform by identifying and addressing any technical issues
+- Collaborated with cross-functional teams to integrate new features into the existing software
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion within the tech industry as a member of the Diversity in Tech organization.
+- Served as a leader in a soccer program aimed at empowering young athletes from diverse backgrounds and providing equal opportunities.
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures through music and art
+- Participating in local coding hackathons to network with other professionals
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)
+
+References available upon request

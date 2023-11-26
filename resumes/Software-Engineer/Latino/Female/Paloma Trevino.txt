@@ -1,0 +1,42 @@
+Personal Statement:
+Highly motivated and dedicated software engineer with a passion for problem-solving and creating efficient and innovative software solutions. Committed to leveraging technical expertise and strong analytical skills to contribute to the development of cutting-edge applications. Possesses excellent communication and collaboration abilities, able to work effectively in both solo and team environments. Eager to apply knowledge and skills to contribute to your organization's success.
+
+Education:
+Bachelor of Science in Computer Science
+University of New Mexico, Albuquerque, New Mexico
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - TechnoCraft Solutions, Albuquerque, NM
+- Developed and maintained robust and scalable web applications utilizing SQL, secure payment systems, Java, and NoSQL databases.
+- Collaborated with cross-functional teams to ensure seamless integration and implementation of various features.
+- Conducted thorough testing and debugging to identify and resolve software issues.
+
+Software Developer - SilverLabs Corporation, Albuquerque, NM
+- Utilized error tracking tools, automated testing frameworks, and debugging techniques to enhance software quality and efficiency.
+- Collaborated with developers and stakeholders to identify and address software defects and issues.
+- Developed and maintained ecommerce platforms using Python and ensured seamless integration of new features.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Leadership Mentor - Unidos Org, Albuquerque, NM
+- Mentored and guided Latino students interested in pursuing careers in technology.
+- Provided support and resources to help students overcome challenges and achieve their academic and career goals.
+
+Sports Leadership:
+Team Captain - Women's Basketball Team, University of New Mexico, Albuquerque, NM
+- Demonstrated strong teamwork, communication, and leadership skills as the captain of the women's basketball team.
+
+Hobbies:
+- Playing the piano
+- Photography
+- Engaging in community service activities to promote diversity and inclusivity
+
+Languages:
+Fluent in English and Spanish.

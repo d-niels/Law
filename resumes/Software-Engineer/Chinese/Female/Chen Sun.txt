@@ -1,0 +1,40 @@
+Chen Sun
+
+Personal Statement:
+Highly dedicated and detail-oriented software engineer with a passion for problem-solving and creating innovative solutions. Equipped with a solid educational background in computer science and hands-on experience in software development. Committed to continuously improving skills and staying up-to-date with the latest technologies. Thrives in collaborative environments and strives to contribute to the success of diverse teams.
+
+Education:
+Bachelor of Science in Computer Science, Sunshine University, Chicago, Illinois
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern, Brilliant Technologies, Chicago, Illinois
+- Developed an error tracking system to identify and resolve software issues effectively.
+- Utilized NoSQL database to optimize data storage and retrieval.
+- Collaborated with cross-functional teams to enhance ecommerce platform functionality.
+- Implemented automated testing procedures to ensure software quality and reduce manual effort.
+
+Senior Software Engineer, TechnoSolutions Inc., Chicago, Illinois
+- Proficiently coded in Java, Python, and SQL to develop robust software applications.
+- Conducted detailed debugging to identify and resolve complex software issues.
+- Designed and managed secure payment systems as per industry standards.
+- Utilized Python for data analysis and reporting to improve system efficiency.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively led a soccer team as a captain, promoting teamwork and unity among members.
+- Engaged in volunteering activities aimed at empowering underrepresented communities, specifically focusing on Chinese and female empowerment initiatives.
+
+Hobbies:
+- Playing the violin
+- Exploring diverse cultures through travel
+- Engaging in outdoor activities such as hiking and cycling
+
+Languages:
+- Fluent in English and Mandarin Chinese

@@ -1,0 +1,36 @@
+Personal Statement:
+As a software engineer, I am dedicated to utilizing my diverse background and technical expertise to create innovative solutions. Combining my passion for problem-solving with my strong coding skills, I strive to contribute to the development of cutting-edge technologies. Being a black female from Philadelphia, Pennsylvania, I bring a unique perspective and a drive to promote diversity and inclusion in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Liberty University, Philadelphia, Pennsylvania
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer – StellarTech Solutions, Philadelphia, Pennsylvania
+- Developed and maintained an e-commerce platform, focusing on debugging and ensuring a seamless customer experience.
+- Created automated tests to improve the efficiency of the QA process, resulting in a 40% reduction in bug reports.
+- Integrated secure payment technologies to safeguard sensitive customer information.
+
+Junior Software Developer – NovaSoft, Philadelphia, Pennsylvania
+- Utilized SQL, Python, and NoSQL databases to design and optimize backend systems.
+- Collaborated with a team to develop applications using Java and ensured quality by tracking and resolving errors promptly.
+- Employed error tracking techniques to improve system stability and enhance user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech community, organizing workshops and events aimed to attract underrepresented individuals.
+- Served as a team captain and mentor in a local basketball league, inspiring and empowering young black girls to excel in sports.
+
+Hobbies:
+- Playing the piano and composing music, showcasing creativity and versatility.
+- Engaging in various forms of dance, celebrating cultural diversity through movement and self-expression.
+- Exploring African and Afro-Caribbean history, highlighting the importance of cultural heritage. 
+
+Languages:
+Fluent in English and proficient in Spanish.

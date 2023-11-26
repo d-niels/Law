@@ -1,0 +1,51 @@
+Mayank Kapoor
+Houston, Texas  |  mayankkapoor@email.com  |  (123) 456-7890
+
+Personal Statement:
+Highly motivated and dedicated software engineer with a strong academic background and a passion for developing innovative solutions. Committed to delivering high-quality results while collaborating efficiently with cross-functional teams. Seeking an opportunity to leverage my skills in software engineering to contribute towards building cutting-edge applications and solutions.
+
+Education:
+Bachelor of Science in Computer Science, Houston Technical University, Houston, Texas
+GPA: 3.9/4.0
+Courses: Data Structures and Algorithms, Object-Oriented Programming, Web Development, Software Engineering, Database Management
+
+Work Experience:
+Software Engineer, CyberTech Innovations, Houston, Texas
+November 2018 - Present
+- Designed and implemented secure payment functionalities for an e-commerce platform using Java, ensuring transaction confidentiality and data integrity.
+- Collaborated with cross-functional teams to improve website performance and optimize code to enhance the user experience.
+- Performed thorough testing and debugging to identify and fix software defects, ensuring a smooth customer experience.
+
+Software Developer, ByteGuard Systems, Houston, Texas
+June 2017 - October 2018
+- Developed and maintained a scalable NoSQL-based database system for tracking errors and generating detailed reports using Python.
+- Conducted automated testing to identify and rectify software flaws, reducing system downtime by 20% and improving overall reliability.
+- Utilized SQL queries to retrieve and manipulate data, ensuring accurate and efficient information retrieval.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Co-Leader, Indian Student Association, Houston Technical University, Houston, Texas
+September 2015 - May 2017
+- Coordinated cultural events and promoted diversity and inclusion, fostering a sense of community among Indian students on campus.
+- Organized fundraising drives for causes related to education and healthcare in India, raising over $10,000.
+
+Sports Leadership Role, Houston Technical University Cricket Club, Houston, Texas
+September 2015 - May 2017
+- Led team practices, strategized game plans, and provided guidance to team members, resulting in multiple victories in intercollegiate cricket tournaments.
+
+Hobbies:
+- Playing the Tabla (Indian percussion instrument)
+- Exploring diverse cultures and traditions through travel and research
+- Reading and keeping up-to-date with the latest advancements in technology and software engineering
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+
+References available upon request.

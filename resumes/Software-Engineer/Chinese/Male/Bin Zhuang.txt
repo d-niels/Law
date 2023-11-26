@@ -1,0 +1,39 @@
+Personal Statement:
+Highly motivated and skilled software engineer with a strong background in database technologies and secure payments. Dedicated to delivering efficient and innovative solutions. Thrives in a collaborative environment, leveraging analytical and problem-solving skills to overcome challenges. Committed to continuous learning and growth in the ever-evolving field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science, San Francisco State University, San Francisco, CA
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, TechnoSoft Solutions, San Jose, CA
+- Developed and maintained an ecommerce platform using Python, SQL, and NoSQL databases.
+- Implemented secure payments systems and integrated with various APIs.
+- Collaborated with cross-functional teams to ensure smooth operations and bug fixes.
+- Conducted code reviews, testing, and debugging to identify and resolve issues.
+
+Software Engineer Intern, InnovElite, San Francisco, CA
+- Assisted in the development of an error tracking and debugging system for Java-based applications.
+- Participated in automated testing to ensure software quality.
+- Collaborated with internal teams to identify and resolve technical issues.
+- Worked closely with senior engineers to gain valuable industry experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion initiatives within the software engineering community, representing the Chinese community as a male engineer.
+- Served as a team captain for a competitive basketball team, providing leadership and coordination for successful games and practices.
+
+Hobbies:
+- Playing the guzheng, a traditional Chinese musical instrument.
+- Participating in community events that celebrate Chinese culture and traditions.
+- Exploring diverse cultures and their influence on technology and innovation.
+
+Languages:
+- Mandarin Chinese (native proficiency)
+- English (fluent)

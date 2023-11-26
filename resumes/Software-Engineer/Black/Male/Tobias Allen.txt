@@ -1,0 +1,38 @@
+Tobias Allen
+
+Personal Statement:
+Motivated and dedicated software engineer with a passion for problem-solving and creating innovative solutions. With a strong educational background in computer science, I possess a deep understanding of programming languages and database technologies. I am seeking a challenging software engineer position to leverage my skills and contribute to a dynamic and forward-thinking organization.
+
+Education:
+Bachelor of Science in Computer Science, Sunshine State University, Jacksonville, Florida
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, Stellar Systems, Jacksonville, FL
+- Developed and maintained an ecommerce platform, ensuring smooth operations and user-friendly experience
+- Collaborated with a cross-functional team to debug and resolve issues efficiently
+- Utilized Java and NoSQL databases to design and implement scalable software solutions
+
+Software Engineer, Quantum Technologies, Jacksonville, FL
+- Conducted automated testing and error tracking to improve software quality and performance
+- Utilized SQL and Python to develop secure payment systems
+- Collaborated with a diverse team to implement efficient solutions and meet project deadlines
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Co-led the Black Men in Technology club at Sunshine State University, promoting diversity in the field and providing mentorship to underrepresented students.
+- Sports Leadership Role: Captain of the university's basketball team, fostering teamwork, discipline, and dedication.
+
+Hobbies:
+- Playing the saxophone
+- Exploring diverse cultures and traditions
+- Participating in community service activities
+
+Languages:
+- Fluent in English and Spanish

@@ -1,0 +1,41 @@
+Quincy Nolan
+
+Personal Statement:
+Motivated and passionate software engineer with a strong background in computer science. Committed to delivering high-quality, innovative solutions to complex problems. Equipped with exceptional problem-solving skills and a keen eye for detail. Eager to contribute my expertise in software engineering to drive business success and enhance user experiences.
+
+Education:
+Bachelor of Science in Computer Science - ABC University, San Antonio, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - TechGenius Solutions, San Antonio, Texas
+- Utilized Python to develop software modules for error tracking and automated testing, improving overall efficiency by 30%.
+- Proficient in NoSQL databases and successfully implemented database solutions for data storage and retrieval.
+- Collaboratively worked with cross-functional teams to diagnose and resolve issues, ensuring seamless software operations.
+
+Software Developer - ByteSecure, San Antonio, Texas
+- Developed secure payment and e-commerce solutions using Java, ensuring the confidentiality and integrity of customer data.
+- Proficient in SQL databases, efficiently managing and optimizing large-scale data sets.
+- Conducted thorough debugging to identify and resolve software issues, enhancing system stability and user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in the ABC University Cultural Society, promoting inclusivity and celebrating the diverse backgrounds of students.
+- Served as a team captain and leader in the university's basketball team, guiding and motivating team members towards victory.
+- Led coding workshops for underprivileged high school students, sharing my passion for technology and encouraging them to pursue careers in software engineering.
+
+Hobbies:
+- Playing the piano, weaving melodic compositions that reflect my emotions and experiences.
+- Exploring national parks and capturing the beauty of nature through photography.
+- Engaging in international cinema, appreciating the storytelling and cultural perspectives.
+
+Languages:
+- Fluent in English and Spanish, enabling effective communication in both languages.
+
+References available upon request.

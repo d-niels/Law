@@ -1,0 +1,42 @@
+Personal Statement:
+Aisha Zaveri is a passionate and dedicated software engineer with a strong background in computer science. Her relentless pursuit of technical excellence and her commitment to diversity and inclusion make her a valuable asset to any software engineering team. Aisha thrives on challenges and continuously seeks opportunities for growth and skill development.
+
+Education:
+Bachelor's Degree in Computer Science (GPA: 3.9)
+Houston Technology University, Houston, Texas
+
+Work Experience:
+Software Engineer (Innovtech Solutions)
+- Implemented error tracking and debugging techniques to optimize software performance.
+- Developed, tested, and maintained Java-based ecommerce applications.
+- Collaborated with cross-functional teams to ensure seamless integration of software components.
+
+Software Engineer (Techvault Systems)
+- Conducted automated testing procedures to validate software functionality.
+- Utilized SQL and NoSQL databases to enhance secure payment systems.
+- Developed and maintained features using Python programming language.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnic Diversity and Gender Empowerment Advocate
+- Actively involved in promoting ethnic diversity and gender equality within the tech industry.
+- Organized workshops and events to create awareness and foster inclusivity.
+- Served as a mentor for young aspiring women engineers.
+
+Hobbies:
+Sports Leadership Role (Basketball)
+- Led a women's basketball team, organizing practices, managing games, and fostering team spirit.
+- Promoted a safe and inclusive environment for female athletes.
+
+Other ethnic and gender indicators:
+- Active member of the Society of Indian Engineers
+- Enjoys playing the guitar, showcasing her interest in music.
+
+Languages:
+- Fluent in English and Hindi

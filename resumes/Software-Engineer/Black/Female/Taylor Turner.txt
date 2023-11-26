@@ -1,0 +1,37 @@
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a passion for developing innovative solutions. With a strong educational background in computer science and hands-on experience in the industry, I possess a proven ability to tackle complex challenges and deliver high-quality software solutions. Committed to continuous learning and staying updated with the latest technological advancements, I am dedicated to creating impactful software that drives change and improves lives.
+
+Education:
+Bachelor of Science in Computer Science, Georgia Technical University, Atlanta, GA
+- GPA: 3.9
+
+Work Experience:
+Software Engineer - Innovix Technologies, Jacksonville, FL
+- Developed a cutting-edge secure payment processing system using Java and NoSQL databases.
+- Implemented automated testing to ensure reliability and accuracy of the software.
+- Collaborated with cross-functional teams to optimize system performance and enhance user experience.
+
+Software Engineer Intern - Synapse Solutions, Jacksonville, FL
+- Debugged and resolved technical issues in an e-commerce platform using Python and SQL.
+- Utilized error tracking tools to identify and fix system errors promptly.
+- Assisted in the development and maintenance of the company's robust database.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech community as a member of the Black Women in Technology Association, advocating for representation and equal opportunities.
+- Served as a sports leadership ambassador in basketball, mentoring female athletes and promoting gender equality in the sports industry.
+
+Hobbies:
+- Playing the piano, composing original music, and exploring various musical genres.
+- Participating in local cultural events and celebrating the rich history and heritage of African Americans.
+- Promoting gender and racial equality through advocacy and community engagement.
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)

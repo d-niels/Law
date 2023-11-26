@@ -1,0 +1,54 @@
+Willow Fleming
+Philadelphia, Pennsylvania | (555) 123-4567 | willowfleming@email.com
+
+Personal Statement:
+Motivated and detail-oriented software engineer with a strong passion for developing innovative solutions to complex problems. Dedicated to continuous learning and staying up-to-date with the latest advancements in technology. Committed to diversity and inclusivity within the tech industry, leveraging my black female identity to inspire and empower others.
+
+Education:
+Bachelor of Science in Computer Science, Magna Cum Laude
+Philadelphia Technical University, Philadelphia, Pennsylvania
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern, Techno Innovations, Philadelphia, PA
+June 2020 - August 2020
+- Collaborated with a team of software engineers to develop Java code for an e-commerce platform
+- Utilized NoSQL databases to optimize data storage and retrieval
+- Conducted extensive debugging and troubleshooting to identify and resolve software issues
+- Contributed to the development of secure and efficient payment processing systems
+
+Junior Software Engineer, Quantum Solutions, Philadelphia, PA
+September 2020 - Present
+- Implemented secure payment systems, ensuring adherence to industry standards
+- Utilized Python and SQL to develop and maintain error tracking and reporting systems
+- Employed automated testing techniques to enhance software quality and streamline development processes
+- Collaborated with cross-functional teams to define requirements and deliver solutions
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Leader, Women in Tech Organization
+Philadelphia Technical University, Philadelphia, PA
+- Organized seminars and workshops to promote diversity and inclusion in technology-related fields
+- Mentored and supported female students pursuing tech careers, fostering their personal and professional growth
+
+Sports Leadership Role, Track and Field Team
+Philadelphia Technical University, Philadelphia, PA
+- Demonstrated strong leadership skills as team captain of the Track and Field team, motivating and inspiring teammates
+- Organized team events and provided guidance to enhance individual performance and team cohesion
+
+Hobbies:
+- Playing the saxophone
+- Photography
+- Supporting and promoting black women's representation in STEM fields
+
+Languages:
+- English (Fluent)
+- French (Intermediate)
+
+References available upon request.

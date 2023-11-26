@@ -1,0 +1,47 @@
+Brooklyn Fleming
+
+Personal Statement:
+Motivated and detail-oriented software engineer with a passion for developing innovative solutions. Dedicated to solving complex problems and enhancing user experiences through proficient coding and analytical skills. Strong commitment to continuous learning and staying updated with the latest technological advancements. Proven ability to adapt and thrive in fast-paced environments, collaborating effectively with diverse teams.
+
+Education:
+Bachelor of Science in Computer Science
+Houston Technical University, Houston, TX
+GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer, StellarSoft Solutions, Houston, TX
+May 2019 - Present
+- Collaborated with a cross-functional team to develop automated testing scripts using Java, resulting in 30% more efficient testing cycles.
+- Utilized error tracking tools to identify and resolve software defects, ensuring high-quality deliverables.
+- Worked closely with the e-commerce team to enhance user experience and maximize customer satisfaction.
+- Conducted code reviews and provided constructive feedback to improve code quality and maintainability.
+
+Software Engineer Intern, Bytecode Technologies, Houston, TX
+Summer 2018
+- Assisted in the development of a secure payments module, implementing robust encryption algorithms and ensuring compliance with industry security standards.
+- Utilized debugging tools extensively to identify and resolve software issues, resulting in a 20% reduction in bug count.
+- Collaborated with the database team to design and optimize NoSQL and SQL database architectures.
+- Developed Python scripts to automate data extraction and manipulation processes, increasing team efficiency by 25%.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Women in Technology organization, supporting and mentoring young women pursuing careers in the tech industry.
+- As a sports leader, led a softball team to two consecutive championships, fostering teamwork and resilience in a diverse group of athletes in the local community.
+
+Hobbies:
+- Playing the piano
+- Exploring multicultural literature and cinema
+- Engaging in photography to capture the beauty of different cultures
+
+Languages:
+- English (fluent)
+- Spanish (intermediate)
+
+References available upon request.

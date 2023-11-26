@@ -1,0 +1,44 @@
+Jin Cheng
+
+Personal Statement:
+Driven and innovative software engineer with a strong passion for creating efficient and reliable software solutions. Dedicated to delivering exceptional results through my exceptional problem-solving and analytical skills. Proficient in multiple programming languages, with a strong understanding of database technologies and testing methodologies. Always seeking new challenges to further advance my technical expertise while maintaining a balanced and fulfilling lifestyle.
+
+Education:
+Bachelor of Science in Computer Science, SunLake University, San Francisco, CA
+GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer, StellarSoft Inc., San Diego, CA (2018-2020)
+- Developed an advanced error tracking system for a high-traffic e-commerce platform, resulting in a significant reduction in system downtime.
+- Collaborated with cross-functional teams to implement secure payment features and enhanced user experience, resulting in increased customer satisfaction.
+- Utilized debugging techniques to identify and fix critical issues, ensuring the stability and reliability of the software.
+
+Software Engineer Intern, NovaDev Solutions, San Diego, CA (2017)
+- Assisted in developing automated testing procedures utilizing Python, resulting in increased efficiency and reduced testing time.
+- Implemented and optimized SQL and NoSQL databases for efficient data retrieval and storage, enhancing application performance.
+- Strengthened development skills in Python and Java through active participation in coding and debugging activities.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in the Chinese-American Association, organizing cultural events and promoting diversity within the community.
+- Served as a basketball team captain, mentoring and coaching players in strategic play and teamwork.
+
+Hobbies:
+- Playing the guzheng, a traditional Chinese instrument, to appreciate and preserve Chinese cultural heritage.
+- Participating in outdoor activities, such as hiking and cycling, to maintain an active and healthy lifestyle.
+
+Languages:
+- Fluent in English and Mandarin Chinese.
+
+Jin Cheng is a Chinese male from San Diego, California, who has achieved a Bachelor's degree in Computer Science from SunLake University. With a strong background in software engineering and a stellar academic record, Jin has gained valuable experience while working as a Software Engineer at StellarSoft Inc., where he developed an advanced error tracking system for an e-commerce platform, and as a Software Engineer Intern at NovaDev Solutions, honing his skills in automated testing, SQL, NoSQL, Python, and Java.
+
+Jin's dedication to diversity and community involvement is evident through his active participation in the Chinese-American Association, organizing cultural events and promoting inclusivity. Additionally, Jin is a basketball team captain, leading his teammates in strategic play and fostering a strong sense of teamwork.
+
+Outside of work, Jin finds solace in playing the guzheng, a traditional Chinese instrument, and enjoys engaging in outdoor activities such as hiking and cycling. With his fluency in both English and Mandarin Chinese, Jin is able to effectively communicate and collaborate in diverse environments.

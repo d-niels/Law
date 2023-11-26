@@ -1,0 +1,39 @@
+Raymond Smith
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a passion for problem-solving and a strong focus on creating efficient and user-friendly applications. Dedicated to continuously enhancing my skills and knowledge in programming languages and database technologies. Committed to promoting diversity and contributing to the advancement of underrepresented communities, particularly in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science
+Eaglecrest University, Baltimore, Maryland
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - QuantumSoft, Baltimore, Maryland
+- Designed and developed a robust e-commerce platform, utilizing SQL for efficient data management and error tracking.
+- Implemented NoSQL database technologies to enhance data retrieval and storage processes.
+- Collaborated with cross-functional teams to ensure secure payment transactions by developing secure payment systems.
+- Conducted automated testing and debugging using Python and Java for seamless application performance.
+
+Junior Software Engineer - SilverByte Solutions, Baltimore, Maryland
+- Contributed to the development of secure payment functionality using Python, Java, and automated testing techniques, ensuring data integrity and protection.
+- Collaborated with a team of developers to design and develop software solutions using Java and other programming languages.
+- Utilized debugging tools to identify and resolve software issues, resulting in enhanced system performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved with the National Society of Black Engineers (NSBE), advocating for diversity and inclusion within the tech industry.
+- Served as a basketball team leader for a local youth program, mentoring and coaching underprivileged children in the sport.
+
+Hobbies:
+- Playing the saxophone, using music as a creative outlet.
+- Participating in community events that promote cultural diversity and gender equality.
+
+Languages:
+- Fluent in English and Spanish

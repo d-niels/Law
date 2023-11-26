@@ -1,0 +1,36 @@
+Sterling Yoder
+
+Personal Statement:
+Passionate and dedicated software engineer with a strong commitment to creating innovative solutions. I am driven to challenge the status quo and strive for excellence in my field. As an African American male from Memphis, Tennessee, I am determined to make a positive impact in the tech industry by championing diversity and inclusion.
+
+Education:
+Bachelor of Science in Computer Science, Delta Tech University, Memphis, Tennessee (GPA: 3.9)
+
+Work Experience:
+Software Engineer, InnovateTech Solutions, Memphis, Tennessee
+- Developed and implemented high-performance NoSQL and SQL databases using Java and Python, enabling efficient data organization and retrieval.
+- Collaborated with cross-functional teams to design and integrate software solutions, resulting in seamless functionality and enhanced user experiences.
+
+Software Developer, CyberSecure Solutions, Memphis, Tennessee
+- Specialized in automated testing, secure payments, error tracking, and debugging within the thriving e-commerce landscape.
+- Successfully implemented sophisticated software systems, leading to a 30% reduction in errors and bolstered platform security.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Effective Debugging Techniques
+
+Volunteer & Leadership:
+- Committed to promoting diversity and inclusion within the tech industry, I organize workshops, seminars, and speaking engagements to inspire underrepresented individuals to pursue careers in technology.
+- As a leader in the sport of basketball, I captained a team, fostering teamwork, dedication, and resilience on and off the court.
+- Volunteered my time to mentor aspiring minority students and actively participated in coding boot camps, nurturing their passion for coding and providing them with guidance.
+
+Hobbies:
+- Mastering the piano to express emotions and creativity
+- Capturing diverse cultures and individual stories through the lens of my camera
+- Exploring various forms of art that reflect my unique experiences and identity
+
+Languages:
+Fluent in English and conversational proficiency in Spanish.

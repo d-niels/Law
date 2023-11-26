@@ -1,0 +1,41 @@
+AMIT DAS
+
+Personal Statement:
+Driven and innovative software engineer with a passion for creating cutting-edge solutions. Committed to delivering exceptional code and user experiences. Seeking a challenging software engineer role that allows me to leverage my technical expertise and problem-solving skills.
+
+Education:
+Bachelor of Science in Computer Science, Georgia Institute of Technology, Atlanta, Georgia (GPA: 3.9)
+
+Work Experience:
+Software Engineer, Stellar Software Solutions, Atlanta, Georgia
+- Developed robust Python applications with SQL database integration, contributing to efficient data management.
+- Utilized advanced debugging techniques to ensure optimal performance and reliability.
+- Implemented secure payment systems, adhering to industry standards and ensuring secure transactions.
+
+Software Engineer Intern, Infinity Technologies, Atlanta, Georgia
+- Designed and implemented automated testing strategies, improving the testing efficiency of an ecommerce platform.
+- Utilized NoSQL databases for optimized data storage and retrieval.
+- Actively participated in error tracking and resolution to enhance system stability.
+- Collaborated with a team to develop Java-based modules, enhancing the platform's ecommerce functionalities.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively championed cultural exchange and community building as a prominent member of the Indian Student Association at Georgia Institute of Technology.
+- Served as a dedicated sports leader, organizing and leading the university's cricket team in local tournaments, fostering teamwork and a love for the sport.
+
+Hobbies:
+- Playing the Tabla (Traditional Indian Percussion Instrument)
+- Exploring diverse genres of traditional Indian music and dance
+- Engaging in cross-cultural discussions to promote understanding and appreciation for different ethnicities
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+
+References available upon request.

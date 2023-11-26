@@ -1,0 +1,42 @@
+Raquel Barrera
+
+Personal Statement:
+As a passionate and results-driven software engineer, I am dedicated to crafting exceptional software solutions that positively impact businesses and users alike. With a strong background in computer science and a genuine curiosity for emerging technologies, I am eager to contribute my skills and expertise to drive innovation in the field. I am a proud Latina from Phoenix, Arizona, and as a woman in tech, I am committed to promoting diversity and inclusivity within the industry.
+
+Education:
+Bachelor of Science in Computer Science, May 2021
+Phoenix Tech University, Phoenix, Arizona
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Innovatech Solutions, Phoenix, Arizona
+January 2021 - Present
+- Developed and maintained a Python-based automated testing framework for an e-commerce platform, ensuring code integrity and reducing manual testing efforts.
+- Utilized NoSQL databases to optimize data storage and retrieval for efficient customer shopping experiences.
+- Collaborated with cross-functional teams to enhance the platform's performance and scalability, resulting in a 20% increase in revenue.
+
+Junior Software Developer, Nexxus Technologies, Phoenix, Arizona
+May 2020 - December 2020
+- Debugged and resolved software issues using debugging tools, resulting in a 30% reduction in system errors and improving overall stability.
+- Utilized SQL queries to optimize database performance and facilitate secure payment transactions for a leading financial application.
+- Assisted in error tracking and resolution to maintain a smooth and error-free user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively promote diversity and inclusion as a proud Latina in the tech industry.
+- Volunteer at local schools and organizations to inspire underrepresented students, particularly girls, to pursue careers in STEM.
+- Sports Leadership: Served as team captain for a local basketball team, fostering teamwork and leadership skills.
+
+Hobbies:
+- Playing the guitar to express my creativity and find solace in music.
+- Embracing diversity through travel experiences and exploring different cultures.
+- Participating in discussions and promoting awareness of diversity and representation in various online forums.
+
+Languages:
+- Fluent in English and Spanish, allowing for effective communication and collaboration in multicultural environments.

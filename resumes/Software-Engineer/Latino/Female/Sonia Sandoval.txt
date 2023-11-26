@@ -1,0 +1,37 @@
+Personal Statement:
+Dedicated and detail-oriented software engineer with a passion for creating efficient and innovative solutions. Skilled in various programming languages and database technologies, I thrive in fast-paced environments, always striving to deliver the highest quality of work. As a Latina woman, I bring a unique perspective to the industry and aim to promote diversity and inclusivity in the tech field.
+
+Education:
+Bachelor of Science in Computer Science, Tech Innovators University, Las Vegas, Nevada
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, Phoenix Technologies, Las Vegas, Nevada
+- Utilized NoSQL databases and implemented ecommerce solutions on multiple projects
+- Conducted extensive debugging and resolved issues quickly and efficiently
+- Worked with SQL databases, designing and optimizing complex queries
+
+Software Engineer, Stellar Software Solutions, Las Vegas, Nevada
+- Developed software using Python and Java programming languages
+- Implemented secure payment systems and ensured sensitive customer information protection
+- Conducted automated testing to detect and fix errors
+- Utilized error tracking tools to improve software performance and reliability
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Coordinated and facilitated workshops for underrepresented minority students interested in pursuing careers in technology
+- Served as a soccer team captain, providing guidance and support to young girls interested in sports
+- Actively involved in promoting diversity and inclusion in the tech community through mentoring and volunteering
+
+Hobbies:
+- Playing the piano, providing a creative outlet for expression
+- Participating in cultural events and celebrations that highlight the rich heritage of Latino communities
+ 
+Languages:
+- Bilingual in English and Spanish, facilitating effective communication in diverse environments.

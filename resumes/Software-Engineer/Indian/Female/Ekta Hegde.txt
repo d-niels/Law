@@ -1,0 +1,43 @@
+Ekta Hegde
+Houston, Texas  |  Indian Female |  (123) 456-7890  |  ektahegde@email.com
+
+Personal Statement:
+Motivated and dedicated Software Engineer with a passion for developing innovative and efficient solutions. Committed to delivering high-quality software products, I possess strong technical skills combined with excellent problem-solving abilities. With a bachelor's degree in Computer Science and valuable work experience, I am eager to contribute to the success of a dynamic software engineering team.
+
+Education:
+Bachelor of Science in Computer Science, Texas Techno University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Stellar Systems, Houston, Texas
+- Collaborated with a cross-functional team to develop an advanced e-commerce platform utilizing NoSQL databases.
+- Implemented effective automated testing procedures, significantly improving software quality and reducing development time.
+- Utilized SQL for efficient database management and retrieval of critical information.
+- Contributed to code reviews, ensuring compliance with software architecture and coding standards.
+
+Software Developer, Quantum Tech Solutions, Houston, Texas
+- Expertly debugged and resolved complex issues in a large-scale software system, drastically improving its performance.
+- Implemented robust error tracking mechanisms and provided quick solutions, minimizing application downtime.
+- Developed highly secure payment modules using Python and Java, ensuring seamless and safe transactions.
+- Collaborated with team members to ensure seamless integration and functionality of software components.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer Tutor, Community Youth Center, Houston, Texas
+- Mentored and provided academic guidance to underprivileged children, fostering their enthusiasm for education.
+- Conducted interactive programming workshops, inspiring interest and passion in Software Engineering.
+- Successfully led a basketball leadership program, coaching and motivating young athletes to excel both on and off the court.
+
+Hobbies:
+Playing the piano, Painting, Exploring diverse cultures and traditions
+
+Languages:
+English (Fluent), Hindi (Fluent), Spanish (Basic)
+
+References available upon request.

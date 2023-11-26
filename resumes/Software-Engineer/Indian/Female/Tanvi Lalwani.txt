@@ -1,0 +1,44 @@
+Tanvi Lalwani
+
+Personal Statement:
+A dedicated and highly motivated software engineer with a strong academic background and a passion for problem-solving and creating innovative solutions. With a bachelor's degree in computer science and solid work experience in the field, I am confident in my ability to contribute to the growth and success of any software engineering team. As an Indian female from Dallas, Texas, I bring cultural diversity and a unique perspective to the table, constantly striving for excellence and embracing new challenges.
+
+Education:
+Bachelor of Science in Computer Science
+Texas Technology University, Dallas, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - SoluTech Solutions, Dallas, Texas
+June 2018 - Present
+- Collaborated with cross-functional teams to develop and maintain a cutting-edge e-commerce platform, ensuring seamless user experiences and enhancing customer satisfaction.
+- Implemented error tracking and debugging techniques to identify and resolve software issues, resulting in improved system stability.
+- Utilized Python programming language to develop and enhance features, meeting project deadlines and delivering within budget constraints.
+
+Software Engineer Intern - Innovate Systems, Dallas, Texas
+May 2017 - August 2017
+- Assisted in designing and implementing secure payment systems, ensuring the confidentiality and integrity of user data.
+- Conducted automated testing to verify the accuracy and reliability of software components.
+- Developed and maintained database systems using Java, SQL, and NoSQL technologies, improving data management efficiency.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Served as a team captain and mentor in the local women's soccer league, promoting teamwork, leadership, and gender equality in sports.
+- Actively involved in cultural events held by the Indian Student Association, organizing and participating in various activities that promote cultural diversity and awareness.
+
+Hobbies:
+- Playing the flute, showcasing my appreciation for music and creativity.
+- Exploring different cultures through travel, fostering a greater understanding and respect for diversity.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Gujarati (Conversational)
+
+Reference available upon request.

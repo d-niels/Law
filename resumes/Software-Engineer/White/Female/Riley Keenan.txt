@@ -1,0 +1,42 @@
+Riley Keenan
+
+Personal Statement:
+Driven and innovative software engineer with a strong foundation in computer science. Dedicated to utilizing technical expertise and problem-solving skills to develop cutting-edge software solutions. Committed to making a lasting impact and contributing to a dynamic team in the field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science, Tech Innovators University, Jacksonville, FL
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, InnovateTech Solutions, Jacksonville, FL (2018-2020)
+- Developed and executed automated testing scripts, ensuring the flawless functionality of the company's proprietary e-commerce platform.
+- Implemented error tracking mechanisms to identify and address software bugs, resulting in a significant reduction in system failures.
+- Utilized Python to optimize backend processes, improving system performance and elevating the overall user experience.
+
+Software Developer, QuantumTech Solutions, Jacksonville, FL (2017-2018)
+- Collaborated with cross-functional teams to design and implement highly secure payment solutions using Java, guaranteeing transaction integrity and protecting sensitive customer data.
+- Conducted extensive debugging and troubleshooting of software systems, resolving critical issues and ensuring smooth operations.
+- Designed and maintained SQL and NoSQL databases, improving data storage efficiency and optimizing system performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Women in Technology (WIT) Organization, Jacksonville, FL (2019-Present)
+- Actively involved in promoting gender equality and diversity in the technology industry, organizing workshops and events to inspire and empower young women pursuing careers in STEM fields.
+
+Sports Leadership Role, Captain of the Women's Basketball Team, Tech Innovators University, Jacksonville, FL (2015-2017)
+- Provided guidance and mentorship to the team, fostering teamwork, leadership skills, and promoting gender equality in sports.
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures through photography and traveling
+- Supporting local community theater productions
+
+Languages:
+- English (fluent)
+- [Optional] Spanish (intermediate)

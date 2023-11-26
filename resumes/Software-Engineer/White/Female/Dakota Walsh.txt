@@ -1,0 +1,49 @@
+Dakota Walsh
+123 Main Street 
+Austin, Texas 12345 
+(555) 555-5555 
+dakotawalsh@email.com
+
+Personal Statement:
+Driven and detail-oriented software engineer with a passion for developing innovative solutions to complex problems. With a strong educational background in computer science and practical experience in software development, I am confident in my ability to contribute effectively to any team. As a white female in the field, I am committed to promoting diversity and inclusion in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Magna Cum Laude
+Austin University, Austin, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, ByteTech Innovations, Austin, Texas
+June 2018 - Present
+- Developed an error tracking system that reduced debugging time by 30%
+- Implemented automated testing strategies, resulting in a 20% reduction in software bugs
+- Utilized SQL to optimize database queries and improve system performance
+- Developed Python scripts to automate repetitive tasks and improve productivity
+
+Software Developer Intern, CodeBlitz Solutions, Austin, Texas
+May 2017 - August 2017
+- Worked on secure payments for an e-commerce platform, ensuring the confidentiality and integrity of user data
+- Utilized NoSQL databases to store and retrieve large amounts of customer data efficiently
+- Collaborated with a team to identify and resolve software bugs through debugging techniques
+- Developed features and enhanced the overall functionality of the platform using Java
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Basketball Team Captain, Austin Sports Club
+- Demonstrated strong leadership skills as team captain of a competitive basketball team
+- Mentored young girls interested in basketball to encourage their participation and development
+
+Hobbies:
+- Playing the violin
+- Watching and analyzing basketball games
+- Exploring different cultures through travel and language learning, particularly interested in learning about Asian cultures
+
+Languages:
+- English (native)
+- Conversational Spanish

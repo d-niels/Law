@@ -1,0 +1,43 @@
+Zara Rai
+
+Personal Statement:
+Highly motivated software engineer with a strong background in computer science and a passion for problem-solving. Dedicated to creating efficient and secure software solutions. Thrives in collaborative environments and possesses excellent communication skills. Committed to continuously learning and staying up-to-date with the latest technological advancements.
+
+Education:
+Bachelor of Science in Computer Science, XYZ Technical Institute, New York, NY
+- Graduated with a GPA of 3.9
+- Relevant coursework: Data Structures, Algorithms, Software Engineering, Database Management Systems
+
+Work Experience:
+Software Engineer, Stellar Solutions, New York, NY
+- Developed and maintained a secure and efficient payment processing system using SQL, Python, and error tracking tools
+- Collaborated with cross-functional teams to identify and resolve performance issues, ensuring smooth and reliable transactions
+- Conducted thorough testing and implemented solutions for software bugs to maintain high-quality standards
+
+Software Engineer Intern, TechGenius Labs, New York, NY
+- Assisted in the development and enhancement of an innovative ecommerce platform using Java and NoSQL technology
+- Implemented automated testing scripts to streamline the testing process and increase software efficiency
+- Collaborated with developers and QA team to identify and debug software issues, ensuring a smooth user experience
+- Contributed to code reviews and proposed optimizations for enhanced software performance
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Diversity and Inclusion Committee, driving initiatives to promote inclusivity and equality in the workplace and beyond
+- Sports Leadership Role: Captain of the university's basketball team, organizing practices, coordinating tournaments, and fostering team spirit
+
+Hobbies:
+- Playing the sitar, a traditional Indian string instrument
+- Exploring different cultures through travel and participating in cultural events
+- Engaging in community initiatives that celebrate diversity and support underprivileged groups
+
+Languages:
+- English (fluent)
+- Hindi (fluent)
+
+References available upon request.

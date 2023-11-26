@@ -1,0 +1,51 @@
+Zahara Adams
+Columbus, Ohio | (555) 123-4567 | zahara.adams@email.com
+
+Personal Statement:
+Motivated and talented software engineer with a passion for creating innovative solutions. Committed to delivering high-quality, efficient, and user-friendly software applications. Adept at problem-solving and optimizing code to enhance performance. Seeking a challenging role as a software engineer to utilize my diverse skill set and contribute to the development of cutting-edge software solutions.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+Columbus Technical University, Columbus, Ohio
+
+Work Experience:
+Software Developer | Innovix Corporation, Columbus, Ohio | May 2018 - Present
+- Collaborated with a cross-functional team to develop and maintain a cutting-edge e-commerce platform.
+- Utilized Java and SQL to implement new features to enhance the platform's functionality.
+- Conducted thorough testing, employing automated tests and debugging tools, to identify and resolve bugs and issues, ensuring a seamless user experience.
+- Assisted in the deployment, maintenance, and technical support of the software application.
+
+Software Engineer | Quantic Technologies, Columbus, Ohio | January 2017 - May 2018
+- Developed and executed automated tests to ensure the quality and reliability of software products.
+- Implemented error tracking systems to identify and address issues promptly.
+- Utilized Python and NoSQL databases to design and optimize secure payment gateways.
+- Contributed to the development of features and functionalities within an Agile team environment.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer at EmpowerTech Girls Organization, Columbus, Ohio | June 2016 - Present
+- Mentor young girls interested in pursuing careers in technology, providing guidance and support.
+- Organize and lead workshops promoting diversity and inclusion in the tech industry.
+- Actively contribute to fostering an inclusive environment for underrepresented groups in the field.
+
+Sports Leadership Role | Team Captain, Track and Field | Columbus Technical University, Columbus, Ohio | September 2014 - May 2018
+- Led and motivated the team to achieve exceptional performance through effective communication and teamwork.
+- Collaborated with coaches and organized training sessions to enhance skills and strategy.
+- Acted as a role model and mentor for younger players, promoting values of discipline and perseverance.
+
+Hobbies:
+- Playing the saxophone
+- Writing poetry
+- Exploring different cultures through music and dance
+- Engaging in community activism promoting diversity and equal representation
+
+Languages:
+Fluent in English and Spanish
+
+References available upon request.

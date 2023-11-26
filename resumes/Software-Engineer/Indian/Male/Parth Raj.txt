@@ -1,0 +1,39 @@
+Personal Statement:
+Dedicated software engineer with a strong passion for creating innovative and efficient solutions. With a Bachelor's degree in Computer Science and extensive experience in the field, I am adept at developing and implementing software applications. I strive for excellence in every project I undertake and possess strong analytical and problem-solving skills.
+
+Education:
+Bachelor of Science in Computer Science - Georgia Tech University, Atlanta, Georgia
+- GPA: 3.9
+
+Work Experience:
+Software Engineer - TechnoSolutions, Atlanta, Georgia
+- Led the automation testing efforts, ensuring the quality and reliability of software products
+- Developed secure payment solutions incorporating cutting-edge encryption algorithms
+- Utilized NoSQL databases for efficient and scalable data storage and retrieval
+- Proficient in Java programming language
+
+Software Engineer Intern - Innovix Technologies, Atlanta, Georgia
+- Worked closely with the development team to debug and resolve issues in software applications
+- Developed Python scripts for automation and data analysis purposes, optimizing workflow efficiency
+- Utilized SQL databases for efficient data management in client projects
+- Implemented ecommerce functionalities, streamlining online sales processes
+- Implemented error tracking and monitoring systems to minimize downtime and improve application performance
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry, advocating for increased representation of Indian males from underrepresented backgrounds.
+- Sports Leadership: Served as the captain of a competitive cricket team, leading practices and coordinating strategic gameplay.
+
+Hobbies:
+- Playing the tabla, a traditional Indian instrument that requires rhythmic skill and coordination
+- Exploring different cultures through music and art
+- Engaged in various outdoor activities, including hiking and soccer.
+
+Languages:
+- Fluent in English and Hindi

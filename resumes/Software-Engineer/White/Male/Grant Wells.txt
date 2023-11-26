@@ -1,0 +1,48 @@
+Grant Wells
+
+123 Main Street, Phoenix, Arizona 12345 | (123) 456-7890 | grant.wells@email.com
+
+Personal Statement:
+Ambitious and dedicated software engineer with a strong passion for creating innovative and efficient solutions. Possesses a solid understanding of programming languages and database technologies, combined with exceptional problem-solving and analytical skills. Committed to continuously expanding knowledge and staying up-to-date with industry advancements. Seeking a challenging software engineer position to utilize expertise in developing cutting-edge software applications.
+
+Education:
+Bachelor of Science in Computer Science, Valley University, Phoenix, Arizona        
+- Overall GPA: 3.9/4.0
+- Relevant Coursework: Programming Concepts, Data Structures, Algorithms, Databases, Software Engineering
+
+Work Experience:
+
+Software Engineer, Visionary Systems, Phoenix, Arizona                 		                					2020 - Present
+- Developed and maintained e-commerce applications, ensuring seamless user experience and efficient transactions.
+- Utilized SQL to analyze data and optimize database performance.
+- Conducted automated testing to ensure the reliability and integrity of software components.
+- Identified and resolved complex issues through efficient debugging techniques.
+
+Junior Software Engineer, TechGen Corporation, Phoenix, Arizona         		                				2018 - 2020
+- Implemented NoSQL databases into software systems for improved scalability and performance.
+- Developed Python scripts for error tracking and analysis, leading to proactive issue resolution.
+- Collaborated with cross-functional teams to integrate secure payment systems into software applications.
+- Utilized Java to enhance and optimize existing software components.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Basketball Team Captain, Valley University                         											2017 - 2018
+- Led a diverse team of basketball players, fostering teamwork, mutual respect, and dedication.
+- Organized and facilitated training sessions and team-building activities.
+- Coordinated game strategies and motivated team members to achieve success on and off the court.
+
+Hobbies:
+- Playing the guitar
+- Participating in community outreach programs
+- Exploring different cultures and traditions
+
+Languages:
+- English (fluent)
+- Spanish (proficient)

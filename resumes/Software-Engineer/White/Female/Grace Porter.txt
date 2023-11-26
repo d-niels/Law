@@ -1,0 +1,46 @@
+Grace Porter
+
+Personal Statement:
+Motivated and creative software engineer with a passion for problem-solving and a strong background in computer science. Dedicated to developing innovative and efficient software solutions that drive organizational success. Eager to leverage my skills and knowledge to contribute to a dynamic and collaborative team.
+
+Education:
+Bachelor of Science in Computer Science, Oceanview University, Jacksonville, FL
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Cybertech Solutions, Jacksonville, FL
+- Utilized advanced error tracking and debugging techniques to identify and resolve software defects
+- Developed Python-based applications to enhance ecommerce platforms and improve user experience
+- Collaborated closely with cross-functional teams to ensure seamless integration of software components
+
+Software Engineer Intern, TechRise Systems, Jacksonville, FL
+- Conducted extensive automated testing to verify software functionality and performance
+- Implemented secure payment features using Java and integrated them with NoSQL and SQL databases
+- Actively participated in code reviews and provided valuable feedback to improve code quality
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Women in Tech Society - Oceanview University, Jacksonville, FL
+- Organized and facilitated workshops and mentorship programs to encourage more women to pursue careers in technology
+- Mentored female students in computer science programs, offering guidance, support, and sharing industry insights
+
+Sports Leadership Role, Oceanview University Women's Tennis Team
+- Served as team captain, demonstrating strong leadership, teamwork, and communication skills
+- Fostered a positive and inclusive team environment, promoting sportsmanship and individual growth
+
+Hobbies:
+- Playing the guitar and composing music
+- Participating in outdoor activities such as hiking and kayaking
+- Engaging in community service initiatives focused on promoting diversity and inclusivity
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)
+
+References available upon request.

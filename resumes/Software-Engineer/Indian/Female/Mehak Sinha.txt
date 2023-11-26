@@ -1,0 +1,43 @@
+Mehak Sinha
+
+Personal Statement:
+Driven and innovative software engineer with a relentless pursuit of excellence and a passion for problem-solving. Skilled in multiple programming languages and experienced in designing and implementing efficient software solutions. Committed to delivering high-quality results while collaborating with cross-functional teams to achieve project success.
+
+Education:
+Bachelor of Science in Computer Science
+Sunrise University, Dallas, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern
+Nebula Software Systems, Dallas, Texas
+- Debugged and resolved software issues, ensuring seamless functionality of critical programs.
+- Leveraged Python and error tracking tools to identify and rectify software errors promptly.
+- Developed and implemented automated testing scripts to streamline software testing procedures.
+
+Software Engineer
+Quantum Tech Solutions, Dallas, Texas
+- Engineered Java-based software applications for an e-commerce platform, integrating secure payment systems.
+- Designed and implemented SQL and NoSQL databases to optimize data storage and retrieval.
+- Collaborated with cross-functional teams to implement software enhancements and troubleshoot technical issues.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Promoted gender diversity and cultural inclusivity in the tech industry, advocating for women in technology and Indian representation.
+- Served as a team captain in a basketball league, fostering teamwork, communication, and sportsmanship among diverse team members.
+
+Hobbies:
+- Playing the tabla, showcasing my passion for Indian classical music and preserving cultural heritage.
+- Active member of local cultural organizations, organizing and participating in various Indian traditional events.
+- Engaging in community service activities, contributing to worthwhile causes and making a positive impact.
+
+Languages:
+- Fluent in English and Hindi, enabling effective communication in multicultural environments.
+
+Note: This resume is a fictional representation for a character and does not refer to any real person or entity.

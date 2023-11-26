@@ -1,0 +1,43 @@
+Tiana Allen
+
+Personal Statement:
+As a black female software engineer hailing from the vibrant and diverse city of Detroit, Michigan, I am passionate about harnessing the power of technology to revolutionize industries and champion social progress. With a strong foundation in programming languages, database technologies, and problem-solving skills, I am driven to excel in the field of software engineering. Seeking a challenging and dynamic role, I am committed to making a positive impact while embracing continual growth and learning.
+
+Education:
+Bachelor of Science in Computer Science, Motor City University, Detroit, Michigan
+- GPA: 3.9
+
+Work Experience:
+
+Software Engineer, OmniTech Solutions, Detroit, Michigan
+- Developed and maintained robust software applications using Python, Java, and SQL.
+- Leveraged debugging tools and techniques to identify and resolve software issues promptly and efficiently.
+- Collaborated closely with cross-functional teams to design and implement innovative solutions, resulting in enhanced system performance.
+- Executed comprehensive database optimization strategies, boosting query speed by 30%.
+
+Software Engineer Intern, InnovateTech, Detroit, Michigan
+- Played a pivotal role in designing and implementing NoSQL database systems and ensuring the security of payment modules for an e-commerce platform.
+- Conducted rigorous automated testing to validate software integrity, compatibility, and security.
+- Leveraged error tracking techniques to identify and swiftly address software bugs during the development lifecycle.
+- Collaborated with diverse teams to enhance the platform's efficiency, reliability, and user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+- Volunteer at CodeBuilders organization, providing coding workshops and mentorship to underrepresented communities in Detroit, with a particular focus on empowering young black girls.
+- Acted as Team Captain for a competitive basketball league, promoting diversity and inclusion in sports leadership while inspiring team members to excel both on and off the court.
+
+Hobbies:
+- Devoting time to playing the saxophone, an instrument that allows me to express my creativity and connect with others through music.
+- Actively engaging in community advocacy by attending and organizing events that celebrate diversity, promote equality, and foster social change.
+
+Languages:
+- Fluent in English and Spanish
+
+References Available Upon Request

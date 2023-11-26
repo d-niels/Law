@@ -1,0 +1,45 @@
+Pedro Urquiza
+123 Main Street, San Antonio, TX 78210 | (555) 123-4567 | pedro.urquiza@email.com
+
+Personal Statement:
+Motivated and dedicated software engineer with a passion for creating efficient and impactful solutions. Leveraging a strong educational foundation in Computer Science, I am equipped with advanced programming skills and a keen eye for detail. Committed to delivering high-quality results, I thrive in collaborative environments that foster innovation and growth.
+
+Education:
+Bachelor of Science in Computer Science, Alamo State University, San Antonio, TX
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Tech Innovators Inc., San Antonio, TX
+December 2018 - Present
+- Developed and maintained ecommerce platforms, utilizing Python and Java for backend development.
+- Utilized NoSQL databases to efficiently manage and manipulate data, delivering seamless user experiences.
+- Collaborated with cross-functional teams to implement and optimize secure payment systems.
+- Assisted in the design and implementation of error tracking systems to enhance software reliability.
+
+Software Developer, NextGen Technologies, San Antonio, TX
+May 2017 - November 2018
+- Conducted automated testing to identify and resolve software issues, ensuring high product quality.
+- Utilized SQL databases for data storage, retrieval, and manipulation, optimizing performance.
+- Demonstrated expertise in identifying and debugging software errors to maintain application stability.
+- Collaborated with cross-functional teams to implement secure payment systems.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinx Software Engineers Association, Member
+- Engaged in outreach programs to encourage Latinx students to pursue careers in technology.
+- Organized workshops and mentorship programs to provide support for underrepresented communities.
+
+Soccer Team Captain, San Antonio Youth Soccer League
+- Led a diverse team of talented athletes, promoting teamwork, discipline, and sportsmanship.
+- Successfully organized practices, strategies, and team events to enhance the players' development.
+
+Hobbies:
+Playing the guitar, Latin dance, and reading diverse literature.
+Languages:
+Fluent in English and Spanish.

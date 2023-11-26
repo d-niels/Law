@@ -1,0 +1,42 @@
+Personal Statement:
+Motivated and passionate software engineer with a strong foundation in computer science, seeking to leverage my skills and knowledge to contribute to innovative software solutions. With a strong emphasis on problem-solving and attention to detail, I am dedicated to delivering efficient and reliable software solutions. As a black male from Washington, District of Columbia, I am committed to diversity and inclusivity in the tech industry, aiming to break barriers and inspire others.
+
+Education:
+Bachelor of Science in Computer Science
+University: Owens College, Washington, DC
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - TechnaWare Solutions, Washington, DC
+June 2018 - Present
+
+- Developed automated testing procedures, significantly reducing testing time by 50%
+- Collaborated with cross-functional teams to implement robust ecommerce solutions
+- Utilized Python for efficient error tracking and issue resolution in software systems
+
+Software Developer - ByteCore Technologies, Washington, DC
+January 2017 - May 2018
+
+- Implemented secure payment gateways using Java, ensuring data privacy and integrity
+- Debugged and resolved issues within complex SQL and NoSQL databases
+- Collaborated with backend development teams to enhance system performance
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteered as a mentor in coding camps, promoting diversity and inclusion in the tech industry
+- Led a basketball leadership role, organizing local tournaments and coaching young players to foster teamwork and community engagement
+
+Hobbies:
+- Playing the saxophone, expressing creativity through music
+- Representing my ethnic heritage through traditional African drumming and dance
+- Active participant in local basketball leagues, keeping physically and mentally active
+
+Languages:
+- English (Fluent)
+- French (Intermediate)

@@ -1,0 +1,52 @@
+Mehak Dey
+123 Main Street, San Jose, California, 98765
+Phone: (123) 456-7890
+Email: mehakdey@email.com
+
+Personal Statement:
+Dedicated and highly-motivated software engineer with a diverse skill set and a passion for problem-solving. Eager to contribute to innovative software development projects and solutions. Committed to leveraging technical expertise and leadership skills to drive positive change in the software engineering field.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley Tech University, San Francisco, California
+- Graduated with a 3.9 GPA
+- Relevant Coursework: Data Structures, Algorithms, Software Engineering, Database Systems
+
+Work Experience:
+Software Engineer, StellarSoft Solutions, San Jose, California
+March 2018 - Present
+- Utilized error tracking tools to identify and resolve software issues
+- Implemented NoSQL databases to optimize data storage and retrieval
+- Contributed to the development of an e-commerce platform, ensuring smooth user experience and secure transactions
+- Conducted automated testing to validate software quality and minimize errors
+
+Software Development Intern, InnovateTech Corporation, San Francisco, California
+May 2017 - August 2017
+- Utilized Python and SQL to develop and optimize database management systems
+- Analyzed and debugged complex software issues to ensure smooth operation
+- Assisted in the development of secure payment systems using Java
+- Collaborated with cross-functional teams to implement and test software features
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Women in Tech Organization, San Jose, California
+- Actively participate in events promoting diversity and inclusivity in the tech industry, especially focusing on empowering female software engineers of Indian descent
+- Mentor aspiring software engineers and provide guidance in various technical areas
+- Sports Leadership: Captain of Silicon Valley Tech University's Women's Tennis Team, fostering teamwork and maintaining a supportive and inclusive environment
+
+Hobbies:
+- Playing the sitar (Indian string instrument)
+- Exploring different cultures through travel and language learning
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+- Punjabi (Basic conversational)
+
+References:
+Available upon request

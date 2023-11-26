@@ -1,0 +1,49 @@
+Francisco Ybarra
+123 Main Street, Los Angeles, CA 12345
+Phone: (555) 555-5555
+Email: francisco.ybarra@email.com
+
+Personal Statement:
+Dedicated and driven Software Engineer with a strong passion for problem-solving and creating efficient and secure solutions. Committed to leveraging my technical expertise to contribute to innovative software development projects. A proactive team player with excellent communication skills and a proven ability to adapt to fast-paced environments.
+
+Education:
+Bachelor of Science in Computer Science
+San Ignacio University, Los Angeles, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Omega FinTech, Los Angeles, CA
+May 20XX - Present
+- Developed secure payment systems using Python, ensuring the integrity and confidentiality of user data.
+- Conducted thorough debugging and troubleshooting using various tools and techniques to identify and resolve software issues promptly.
+- Utilized NoSQL databases to optimize data storage and retrieval processes for enhanced performance.
+
+Software Engineer Intern, Nova E-commerce Solutions, Los Angeles, CA
+Jan 20XX - Apr 20XX
+- Contributed to automated testing of e-commerce platforms, ensuring adequate software quality for seamless user experience.
+- Implemented effective error tracking mechanisms to identify and address potential issues proactively.
+- Collaborated with the development team to optimize SQL queries for efficient data manipulation.
+- Demonstrated proficient knowledge of Java to support various software development tasks.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- President, Unidos Latino Student Association: Led a student organization to promote and celebrate Latino culture, empowering and supporting Latino students at San Ignacio University.
+- Team Captain, Soccer Club: Mentored and guided a soccer team, fostering teamwork and leadership skills, leading the team to multiple championships.
+
+Hobbies:
+- Playing the guitar
+- Photography, capturing the beauty of diverse cultures and landscapes
+- Exploring multicultural literature, embracing various perspectives and stories
+
+Languages:
+- English (fluent)
+- Spanish (native)
+
+References:
+Available upon request

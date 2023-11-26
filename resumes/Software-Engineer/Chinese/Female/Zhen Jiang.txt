@@ -1,0 +1,42 @@
+ZHEN JIANG
+Los Angeles, California | (123) 456-7890 | zhen.jiang@email.com
+
+Personal Statement:
+Passionate software engineer with a strong background in computer science and extensive experience in error tracking, secure payments, SQL, and debugging. Highly skilled in NoSQL, Java, ecommerce, automated testing, and Python. Committed to leveraging technology to develop innovative solutions and drive business success. Excited to contribute to a dynamic and collaborative team as a software engineer.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Alpha Omega University, Los Angeles, California
+
+Work Experience:
+Software Engineer | CyberNetix Systems, Los Angeles, CA
+- Utilized error tracking and debugging techniques to develop robust and efficient software systems
+- Implemented secure payment solutions to ensure the confidentiality and integrity of financial transactions
+- Leveraged SQL to design and optimize databases for data storage and retrieval
+
+Software Developer | Innovix Solutions, Los Angeles, CA
+- Developed and maintained NoSQL databases for seamless data management
+- Utilized Java to design and implement efficient and scalable software solutions for ecommerce platforms
+- Conducted automated testing to identify and resolve bugs and issues
+- Employed Python to develop innovative features and improve system performance
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer at the Los Angeles Chinese American Association, organizing events and providing support to the Chinese community
+- Sports Leadership Role: Captain of the university's basketball team, organizing practices and leading the team to competitions
+
+Hobbies:
+- Playing traditional Chinese instrument, the guzheng
+- Exploring multicultural literature and promoting diversity
+- Practicing martial arts and participating in tournaments
+
+Languages:
+- Fluent in English, Mandarin, and Cantonese
+
+References available upon request.

@@ -1,0 +1,39 @@
+Cheng Yao
+San Francisco, California | (555) 123-4567 | chengyao@email.com
+
+Personal Statement:
+Innovative and detail-oriented software engineer with a passion for creating efficient and scalable solutions. Adept at utilizing multiple programming languages and leveraging database technologies to deliver high-quality code. Committed to continuous learning and staying up-to-date with the latest industry trends. Seeking a challenging software engineering role to contribute my skills and expertise.
+
+Education:
+Bachelor of Science in Computer Science, Golden State University, San Francisco, California
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, TechnoGenius Inc., San Francisco, California
+- Developed secure online payment platforms using SQL and Python, ensuring optimal transaction security
+- Implemented automated testing strategies to reduce bug regression rates by 30%
+- Collaborated with cross-functional teams to seamlessly integrate payment solutions into existing systems
+
+Software Development Engineer, ByteVault Solutions, San Francisco, California
+- Designed and developed highly efficient ecommerce systems using Java and NoSQL databases
+- Leveraged error tracking and debugging techniques to identify and resolve issues promptly
+- Collaborated with the team to enhance system performance and scalability
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Ethnicity & Gender Empowerment Advocate: Actively contribute to initiatives promoting diversity and inclusion within the tech industry, with a focus on empowering Chinese males, like myself, to excel and thrive.
+- Sports Leadership: Serve as a team captain for a competitive basketball league, providing guidance and fostering teamwork among culturally diverse players.
+
+Hobbies:
+- Playing the guzheng, a traditional Chinese instrument
+- Exploring diverse cultures through art, music, and literature
+- Competitive basketball player, both on local and regional levels
+
+Languages:
+Fluent in English and Mandarin Chinese

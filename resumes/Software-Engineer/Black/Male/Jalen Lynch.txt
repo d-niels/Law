@@ -1,0 +1,43 @@
+Jalen Lynch
+
+Personal Statement:
+Driven and innovative software engineer with a strong passion for utilizing technology to create efficient and user-friendly solutions. With a solid foundation in computer science and a diverse skill set, I am eager to contribute my expertise to deliver exceptional results. As a black male hailing from Detroit, I am committed to promoting diversity and inclusion in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Techton University, Detroit, Michigan
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechnoVista Inc., Detroit, Michigan
+- Utilized SQL to design and optimize databases for an e-commerce platform
+- Developed and implemented automated testing scripts to ensure accuracy and reliability of software systems
+- Employed Python to enhance system performance and user experience
+
+Backend Developer, XenoTech Solutions, Detroit, Michigan
+- Debugged and resolved software issues, ensuring a seamless customer experience
+- Implemented secure payment systems to protect user data and prevent fraud
+- Utilized Java and NoSQL to develop robust and scalable software applications
+- Employed error tracking techniques to identify and resolve issues promptly
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively engaged in promoting diversity and inclusion in the tech industry as a black male software engineer
+- Served as a team captain in basketball, coaching and inspiring young athletes
+- Led initiatives to increase representation of underrepresented individuals in STEM fields
+
+Hobbies:
+- Playing the saxophone, showcasing my passion for music
+- Actively involved in community organizations supporting minority entrepreneurs
+- Participating in various cultural events and festivals to celebrate diversity and unity
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)
+
+References available upon request

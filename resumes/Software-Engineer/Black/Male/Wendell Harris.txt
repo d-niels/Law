@@ -1,0 +1,41 @@
+Wendell Harris
+Philadelphia, Pennsylvania | (123) 456-7890 | wendell.harris@email.com
+
+Personal Statement:
+Dedicated and results-driven software engineer with a passion for developing innovative solutions. I am a black male from Philadelphia, Pennsylvania, with a bachelor's degree in Computer Science. Eager to apply my strong technical skills and problem-solving abilities to contribute to the development of cutting-edge software solutions.
+
+Education:
+Bachelor of Science in Computer Science
+Philadelphia University, Philadelphia, Pennsylvania (GPA: 3.9)
+
+Work Experience:
+Software Engineer, Innovia Solutions, Philadelphia, Pennsylvania
+- Developed Python-based ecommerce platform for secure online payments using SQL databases.
+- Collaborated with cross-functional teams to analyze requirements and deliver innovative solutions.
+- Ensured adherence to coding standards and conducted regular code reviews.
+
+Software Engineer, Stellar Technologies, Philadelphia, Pennsylvania
+- Implemented automated testing procedures and error tracking mechanisms to enhance software quality.
+- Conducted thorough debugging and troubleshooting processes to identify and resolve issues.
+- Utilized NoSQL databases and Java programming for efficient data management and retrieval.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Member, Black Male Engineer Network (BMEN), Philadelphia, Pennsylvania
+- Actively involved in promoting diversity and inclusion in the field of engineering.
+- Mentored and supported aspiring software engineers of diverse backgrounds.
+- Held a leadership role in organizing basketball tournaments within the BMEN community.
+
+Hobbies:
+- Playing the saxophone
+- Exploring photography and capturing vibrant moments that reflect cultural diversity
+- Participating in community-led events to showcase African-American arts and culture
+
+Languages:
+Fluent in English and Spanish

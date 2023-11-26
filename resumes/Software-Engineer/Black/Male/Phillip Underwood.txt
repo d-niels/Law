@@ -1,0 +1,32 @@
+Personal Statement:
+I am a dedicated and passionate software engineer with a strong background in computer science. As a Black male from Memphis, Tennessee, I understand the importance of diversity and am committed to breaking barriers in the tech industry. With a bachelor's degree in Computer Science and a GPA of 3.9, obtained from Jackson University, I have the technical expertise and problem-solving skills required to excel in the role of a software engineer. My experience in various programming languages and database technologies, combined with my commitment to continuous learning, make me a valuable asset to any team.
+
+Education:
+Bachelor of Science in Computer Science - Jackson University, Memphis, Tennessee (GPA: 3.9)
+
+Work Experience:
+Software Engineer - InnovateSoft, Memphis, Tennessee
+- Developed and implemented secure payment systems using NoSQL databases to ensure efficient and secure transactions.
+- Conducted automated testing and debugging to guarantee high-quality software delivery and minimize errors.
+
+Software Engineer Intern - ProTech Solutions, Memphis, Tennessee
+- Utilized Python and Java to build and maintain an innovative ecommerce platform, enhancing user experience and driving sales.
+- Performed error tracking and implemented SQL databases for efficient data management and seamless integration.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Sports Leadership Role: As the captain of a community basketball team, I organized and led practices, games, and tournaments, fostering teamwork, discipline, and camaraderie among a diverse group of players.
+
+Hobbies:
+- Playing the saxophone: I find solace and joy in playing the saxophone, allowing me to express my creativity and embrace my passion for music.
+- Exploring different cultures: From reading literature to attending cultural events, I enjoy learning about diverse cultures and gaining a broader perspective on the world.
+
+Languages: English (fluent), Spanish (proficient)
+
+(Note: The specific company names "InnovateSoft" and "ProTech Solutions" are unique and fictional to add authenticity to the resume)

@@ -1,0 +1,49 @@
+Liliana Quintero
+1234 Main Street, El Paso, Texas 12345
+Phone: (555) 123-4567 | Email: lquintero@email.com
+
+Personal Statement:
+Motivated software engineer and problem solver with a passion for creating innovative solutions. I am a dedicated team player seeking to leverage my strong technical skills and education to contribute to the field of software engineering. As a Latina female from El Paso, Texas, I bring a unique perspective to the tech industry and am committed to promoting diversity and inclusion within the field.
+
+Education:
+Bachelor of Science in Computer Science, May 20XX
+University of Texas at El Paso, El Paso, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern, InnovateTech Solutions, El Paso, Texas
+May 20XX - August 20XX
+- Developed and maintained software applications using Java, Python, and SQL.
+- Collaborated with a team to debug and troubleshoot issues, ensuring smooth functionality.
+- Assisted in database management and optimization, enhancing performance and efficiency.
+
+Software Engineer, TechnoLogic Systems, El Paso, Texas
+September 20XX - Present
+- Implemented NoSQL database solutions for scalable and efficient data storage.
+- Conducted automated testing and error tracking to identify and resolve issues promptly.
+- Ensured secure payment processing and enhanced e-commerce functionality for various clients.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Member, Society of Hispanic Professional Engineers, University of Texas at El Paso
+- Actively involved in promoting STEM education and fostering diversity within the engineering field.
+- Mentored and provided support for underrepresented students pursuing careers in technology.
+
+Sports Leadership:
+Captain, Women's Soccer Team, University of Texas at El Paso
+- Demonstrated strong leadership skills by leading the soccer team to consecutive regional championships.
+- Fostered teamwork, discipline, and perseverance among team members.
+
+Hobbies:
+- Playing the piano
+- Participating in salsa dancing workshops
+- Exploring different cultures through travel
+
+Languages:
+- Fluent in English and Spanish

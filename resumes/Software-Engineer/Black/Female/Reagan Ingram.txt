@@ -1,0 +1,44 @@
+Reagan Ingram
+
+Personal Statement:
+Passionate and dedicated software engineer with a strong background in computer science, fueled by a genuine enthusiasm for problem-solving. As a black female from Columbus, Ohio, I bring a unique perspective to my work, fostering creativity and innovation. I am committed to empowering underrepresented groups and driving positive change through technology. With expertise in automated testing, debugging, and ecommerce, I strive to develop high-quality solutions that make a lasting impact.
+
+Education:
+Bachelor of Science in Computer Science
+Columbus Tech University, Columbus, Ohio
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern, Spectrum Dynamics, Columbus, Ohio
+- Collaborated with cross-functional teams to develop automated testing strategies for e-commerce applications, ensuring seamless user experiences.
+- Utilized NoSQL databases to optimize data storage and retrieval, enhancing system performance.
+- Implemented cutting-edge Java solutions to develop robust and scalable software solutions.
+- Actively participated in agile development methodologies, contributing to efficient project management.
+
+Software Developer, InnovixTech Solutions, Columbus, Ohio
+- Debugged and resolved software issues, optimizing SQL queries for enhanced system performance.
+- Specialized in integrating secure payment systems, ensuring compliance with rigorous industry standards.
+- Implemented error tracking systems, proactively identifying and resolving bugs to improve user satisfaction.
+- Developed Python applications with a focus on code readability, maintainability, and performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively engaged in community outreach programs aimed at promoting diversity and inclusivity in the technology field.
+- Served as a basketball team leader, coaching and empowering young black girls in their athletic pursuits.
+- Participated in mentoring programs, guiding aspiring black women in pursuing successful careers in software engineering.
+
+Hobbies:
+- Playing the saxophone, creating soulful melodies that resonate with the heart.
+- Exploring a diverse range of literature, embracing unique voices and perspectives.
+- Engaging in outdoor activities such as hiking and camping, appreciating the wonders of nature.
+
+Languages:
+- Fluent in English
+
+References available upon request.

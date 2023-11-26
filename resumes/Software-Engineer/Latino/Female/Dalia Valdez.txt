@@ -1,0 +1,47 @@
+Dalia Valdez
+
+Personal Statement:
+Motivated and highly skilled software engineer with a passion for developing cutting-edge solutions. As a Latina from San Antonio, Texas, I bring a diverse perspective to the table, enhancing my ability to solve complex problems and contribute to a team's success. My goal is to utilize my technical expertise in software engineering to create innovative and efficient solutions that address real-world challenges.
+
+Education:
+Bachelor of Science in Computer Science
+San Antonio University, San Antonio, TX
+Graduation: May 2020
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - InnovateTech Solutions
+San Antonio, TX | May 2020 - Present
+- Collaborated with cross-functional teams to develop and maintain secure payment systems for an online marketplace.
+- Implemented and executed automated testing methods to ensure system integrity, utilizing tools such as JUnit and Selenium.
+- Debugged and resolved issues using advanced debugging techniques and error tracking tools.
+- Utilized NoSQL databases to design and optimize data storage for high-traffic payment processing applications.
+
+Software Developer - MaverickTech
+San Antonio, TX | Jan 2019 - May 2020
+- Developed and maintained Java-based e-commerce platforms, including building secure and scalable payment gateways.
+- Utilized Python for server-side scripting and integrated third-party API services for seamless customer experience.
+- Worked with SQL databases to optimize data retrieval and storage, ensuring smooth e-commerce transactions.
+- Collaborated with team members to identify and resolve software defects, improving overall system performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Soccer Team Captain: Led a team of young girls in soccer training, fostering teamwork and promoting physical fitness. Emphasized cultural diversity and encouraged inclusivity within the team.
+- Active member of the Latinx in Tech community, participating in events and initiatives aimed at empowering and promoting underrepresented groups in the tech industry.
+
+Hobbies:
+- Playing the guitar, incorporating various Latin music styles such as flamenco and bossa nova to showcase my cultural heritage.
+- Participating in salsa dance performances, expressing cultural diversity through movement and rhythm.
+
+Languages:
+- English (Fluent)
+- Spanish (Native proficiency)
+
+References:
+Available upon request

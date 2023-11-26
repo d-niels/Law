@@ -1,0 +1,42 @@
+Jocelyn Kane
+
+Personal Statement:
+Innovative and detail-oriented software engineer with a strong passion for crafting efficient solutions. Through my diverse skill set in programming and problem-solving, I am dedicated to pushing the boundaries of technology. As a proud Latina female, I am committed to fostering inclusivity and diversity within the tech industry, striving to uplift underrepresented voices.
+
+Education:
+Bachelor of Science in Computer Science
+Southern Tech University, San Antonio, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Quantum Technologies, Dallas, TX
+- Developed and maintained robust software applications in Python, effectively tracking and rectifying errors to ensure seamless functionality.
+- Leveraged SQL for efficient database management, optimizing query performance for smooth data manipulation.
+- Implemented automated testing methodologies to enhance software reliability and reduce time-to-market.
+
+Software Engineer Intern, Stellar Innovations, Austin, TX
+- Collaborated with the development team to enhance an e-commerce platform, pioneering secure payment processing and improving the overall user experience.
+- Utilized NoSQL databases to manage vast amounts of data while ensuring scalability and data integrity.
+- Assisted in debugging software issues, employing various debugging techniques to swiftly resolve technical challenges.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively promoting diversity and inclusion within the tech community, with a focus on empowering Latina women in STEM fields. Volunteer and mentor at organizations like LatinaTech, providing guidance and support to young girls pursuing software engineering careers.
+- Passionate sports leader and coach in women's basketball, empowering young athletes to excel on and off the court. Promoting diversity and gender equality in sports through mentorship and leadership development.
+
+Hobbies:
+- Playing the piano, embracing the beauty of music and expressing my creativity.
+- Engaging in community initiatives focused on leadership development and bridging cultural divides.
+- Exploring new locations and immersing myself in different cultures through travel.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References available upon request.

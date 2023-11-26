@@ -1,0 +1,38 @@
+Personal Statement:
+As a black female software engineer from Baltimore, Maryland, I am dedicated to breaking barriers and excelling in the field of technology. With expertise in secure payments, debugging, Java, automated testing, ecommerce, Python, SQL, Error tracking, and NoSQL, I am motivated to contribute innovative solutions that positively impact users' lives. Through my education, work experience, volunteer and leadership involvement, and diverse interests, I continuously strive for excellence while promoting inclusivity and diversity in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science
+Techville University, Baltimore, Maryland
+GPA: 3.9
+
+Work Experience:
+Software Engineer Intern | Codelink Technologies | Baltimore, Maryland | Dates
+- Developed and implemented secure payment features, ensuring the safety of financial transactions
+- Utilized Java for coding, debugging, and automated testing, enhancing software quality and reliability
+- Collaborated with cross-functional teams to integrate payment gateways, resulting in seamless and secure transactions
+
+Software Engineer | Quantum Solutions | Baltimore, Maryland | Dates
+- Contributed to the development and maintenance of a robust ecommerce platform
+- Leveraged Python, SQL, and NoSQL to optimize data handling and manipulation processes
+- Utilized advanced error tracking techniques to identify and resolve software issues promptly
+- Employed problem-solving skills to optimize system performance and elevate user experience
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Advocate for diversity and inclusivity in the tech community, actively involved in supporting and empowering underrepresented minorities in the field
+- Served as a basketball team leader, organizing and coaching a girls' team, fostering leadership skills and promoting physical fitness among girls of color
+
+Hobbies:
+- Playing the saxophone, expressing creativity and emotion through music
+- Exploring diverse cultures through art, literature, and travel, expanding understanding and appreciation for global perspectives
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)

@@ -1,0 +1,41 @@
+XAVIER XANDER
+Software Engineer
+
+Personal Statement:
+Passionate and innovative software engineer dedicated to creating solutions that drive impactful change. With a solid educational background in computer science and a commitment to promoting diversity and inclusion, I am motivated to use my technical skills to contribute to the tech industry. As a black male hailing from Washington, District of Columbia, I aim to break barriers and inspire future generations. Seeking new challenges in a dynamic team where I can utilize my problem-solving abilities to drive technological advancements.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Metropolis University, Washington, District of Columbia
+
+Work Experience:
+Software Engineer | Novatech Solutions, Washington, District of Columbia
+- Developed secure payment processing systems using Python and Java, ensuring seamless transactions for millions of users.
+- Utilized SQL to efficiently manage and analyze large datasets, optimizing system performance.
+- Collaborated with cross-functional teams to integrate software components and improve user experience.
+
+Software Developer | QuantumTech Solutions, Washington, District of Columbia
+- Conducted debugging and error tracking to identify and resolve software issues, reducing system downtime by 20%.
+- Implemented automated testing procedures, reducing bugs and improving software reliability.
+- Leveraged NoSQL databases in an ecommerce environment, handling high-volume transactions with precision.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Member, National Society of Black Engineers | Washington, District of Columbia
+- Advocated for the representation and advancement of black engineers, fostering diversity in the tech industry.
+- Mentored minority students pursuing careers in technology, providing guidance and support.
+- Held a leadership role in organizing and coordinating basketball leagues within the society, promoting teamwork and sportsmanship.
+
+Hobbies:
+- Playing the saxophone
+- Exploring diverse cultural experiences, particularly through music and art
+- Engaging in community initiatives that promote equality and representation
+
+Languages:
+Fluent in English and Spanish

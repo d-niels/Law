@@ -1,0 +1,35 @@
+Personal Statement:
+As a passionate and driven software engineer, I am determined to leverage my diverse skill set and educational background in computer science to create innovative solutions. Coming from a Chinese-American heritage, I am committed to breaking barriers and embracing diversity in the tech industry. My strong problem-solving skills, combined with my experience in software development and testing, make me a valuable addition to any organization.
+
+Education:
+Bachelor of Science in Computer Science, TechX University (Chicago, Illinois) - GPA: 3.9
+
+Work Experience:
+Software Engineer, Innovate Tech Solutions (Chicago, Illinois)
+- Developed and maintained secure payment systems using Java, SQL, and automated testing techniques.
+- Collaborated with cross-functional teams to identify and resolve issues related to payment processing.
+- Ensured compliance with industry standards by implementing security measures and conducting vulnerability assessments.
+
+Software Developer, ByteCommerce (Chicago, Illinois)
+- Implemented NoSQL databases for effective data management and optimized performance of ecommerce platforms.
+- Utilized Python for error tracking and debugging in order to enhance application functionality.
+- Collaborated with a team of developers to deliver high-quality code within project deadlines.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Founding member of Tech Diversity Support Group, advocating for increased representation and inclusivity of underrepresented groups in the tech industry.
+- Led a leadership role in organizing and coaching a women's volleyball team, promoting teamwork and fostering a supportive environment.
+
+Hobbies:
+- Playing the violin, nurturing my passion for music and melodic expression.
+- Exploring different cultures through travel and experiencing diverse perspectives.
+- Participating in local cultural festivals, celebrating and appreciating the art and traditions of various ethnic communities.
+
+Languages:
+- Fluent in English and Mandarin, facilitating effective communication across diverse teams.

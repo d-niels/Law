@@ -1,0 +1,39 @@
+Cruz Perez
+
+Personal Statement:
+Dedicated and highly motivated software engineer with a passion for creating innovative solutions and driving technological advancements. With a solid background in computer science, I am committed to delivering high-quality software applications while continuously enhancing my skills and knowledge in the field. As a Latino male from San Jose, California, I am proud to bring a diverse perspective and extensive problem-solving abilities to the software engineering industry.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Jose, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechBoost Innovations, San Jose, CA
+- Debugged and resolved complex issues in software applications, ensuring optimal performance and user experience.
+- Tracked and analyzed errors and implemented effective solutions to improve software functionality.
+- Developed secure payment systems to safeguard customer information and ensure secure online transactions.
+- Utilized SQL to design and optimize databases, enabling efficient data storage and retrieval.
+
+Software Engineer Intern, DigitalTech Solutions, San Francisco, CA
+- Developed and maintained Java and Python-based ecommerce applications, contributing to the success of multiple projects.
+- Worked with NoSQL databases to manage and store large amounts of data, allowing for improved system scalability.
+- Conducted automated testing to identify and resolve software defects, ensuring high-quality deliverables.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Tech Society, San Jose, CA
+- Actively contribute to the organization's mission of promoting diversity and inclusion in the technology sector.
+- Serve as a mentor for aspiring Latino software engineers, providing guidance and support throughout their career journeys.
+- Held a leadership role within the organization's soccer team, organizing practices and managing team dynamics.
+
+Hobbies:
+Playing the guitar, embracing diverse cultures through music and language exploration, and championing social equality and inclusion in the tech community.
+
+Languages:
+Fluent in English and Spanish. Conversational proficiency in Portuguese.

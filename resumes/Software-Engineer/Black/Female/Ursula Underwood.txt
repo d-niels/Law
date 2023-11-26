@@ -1,0 +1,38 @@
+Ursula Underwood
+
+Personal Statement:
+As a passionate and dedicated software engineer, I am driven by my desire to create innovative solutions that make a positive impact on society. With a strong background in computer science and a keen eye for detail, I thrive in challenging environments where collaboration and critical thinking are valued. My diverse experiences as a black female from Memphis, Tennessee have shaped my perspective, fueling my commitment to diversity and inclusion in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Tennessee State University, Memphis, Tennessee
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, InnovTech Solutions, Memphis, Tennessee
+- Developed error tracking system and implemented NoSQL database solutions, improving system reliability and performance.
+- Played a key role in developing a secure payments feature using Java, ensuring the integrity and safety of financial transactions.
+
+Software Developer, PrecisionSoft, Memphis, Tennessee
+- Utilized SQL and Python to create and maintain efficient database systems for an e-commerce platform, ensuring seamless operations.
+- Conducted thorough debugging and implemented automated testing, resulting in reduced software issues and enhanced user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+National Society of Black Engineers (NSBE), Memphis Chapter
+- Actively promoted diversity and inclusion in engineering by organizing outreach programs, conferences, and mentorship initiatives.
+- Served as a Sports Leadership Chair, leading a successful basketball league for underprivileged youth, promoting teamwork and personal development.
+
+Hobbies:
+Playing the saxophone, engaging in community service projects, exploring Afrocentric art and culture, and participating in track and field sports.
+
+Languages:
+English (fluent), Spanish (conversational)
+
+References:
+Available upon request

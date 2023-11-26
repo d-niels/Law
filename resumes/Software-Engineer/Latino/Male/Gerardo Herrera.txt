@@ -1,0 +1,36 @@
+Personal Statement:
+Highly motivated and dedicated software engineer with a passion for solving complex problems and creating innovative solutions. Committed to delivering high-quality software products, utilizing industry best practices and cutting-edge technologies. An effective team player with excellent communication skills, eager to contribute to a dynamic and diverse team.
+
+Education:
+Bachelor of Science in Computer Science
+University of California, Los Angeles (UCLA), Los Angeles, CA
+GPA: 3.9
+
+Work Experience:
+Software Engineer - TechGenius Solutions, Los Angeles, CA
+- Developed and maintained SQL and NoSQL databases for an e-commerce platform, ensuring efficient data storage and retrieval.
+- Implemented error tracking systems to identify and resolve software issues, enhancing overall system stability.
+- Collaborated with cross-functional teams to optimize performance and scalability of the application.
+
+Software Engineer Intern - CyberTech Innovations, Los Angeles, CA
+- Conducted automated testing of secure payment systems, ensuring compliance with industry standards and protocols.
+- Utilized Java and Python to develop software modules for debugging and troubleshooting purposes.
+- Worked closely with the development team to identify and resolve software defects, improving the overall product quality.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Student Association (LSA) - University of California, Los Angeles (UCLA), Los Angeles, CA
+- Acted as a mentor and provided support for incoming Latino students, promoting a sense of community and belonging.
+- Served as a soccer team captain within LSA, organizing and leading various recreational activities for members.
+
+Hobbies:
+Playing the guitar, playing and coaching soccer, exploring diverse cultures and histories.
+
+Languages:
+English (Fluent), Spanish (Native)

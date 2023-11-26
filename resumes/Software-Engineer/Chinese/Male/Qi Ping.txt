@@ -1,0 +1,42 @@
+Personal Statement:
+As a Chinese male from Oakland, California, I am a driven and creative software engineer with a strong commitment to delivering excellence in every project. With a bachelor's degree in computer science and a 3.9 GPA, which I attained from the prestigious Silicon Valley University, I possess the technical skills and problem-solving abilities necessary to excel in the role of a software engineer. I am dedicated to continuous learning and staying updated with the latest technology trends, allowing me to contribute effectively to any team.
+
+Education:
+Bachelor of Science in Computer Science
+University: Silicon Valley University
+GPA: 3.9
+
+Work Experience:
+Software Engineer - AlphaTech Solutions (Automated Testing, Ecommerce, NoSQL, Python)
+- Streamlined the automated testing process for an e-commerce platform, resulting in a 30% reduction in testing time.
+- Implemented efficient NoSQL database solutions to optimize data storage and retrieval, enhancing application performance.
+- Collaborated closely with cross-functional teams to develop and implement new features based on customer requirements.
+- Utilized Python programming for automating repetitive tasks, significantly improving productivity and efficiency.
+
+Software Engineer - Nova Systems (Java, SQL, Error Tracking, Secure Payments, Debugging)
+- Developed and maintained robust backend systems using Java and SQL for a secure payments platform.
+- Implemented advanced error tracking mechanisms, leading to a 20% decrease in application bugs and enhanced user experience.
+- Collaborated with product managers and stakeholders to ensure secure and accurate financial transactions.
+- Utilized effective debugging techniques and tools to swiftly identify and resolve software issues.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Chinese American Community Center: Organized and coordinated various cultural events to promote understanding and appreciation of Chinese heritage, fostering diversity in the community.
+- Basketball Team Captain: Demonstrated leadership skills as the captain of a local basketball team, mentoring teammates and fostering an environment of teamwork and sportsmanship.
+
+Hobbies:
+- Playing the erhu (a traditional Chinese musical instrument), blending my love for music and cultural expression.
+- Volunteering as a tutor for underprivileged students, empowering them through education.
+- Exploring the outdoors through hiking and capturing the beauty of nature with my camera.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References available upon request.

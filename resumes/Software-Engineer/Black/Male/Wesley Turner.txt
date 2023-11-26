@@ -1,0 +1,37 @@
+Personal Statement:
+As a black male software engineer hailing from Detroit, Michigan, I am deeply passionate about leveraging technology to drive societal change and bridge the digital divide. With a proven track record of excellence, problem-solving skills, and a dedication to advancing diversity in the tech industry, I am committed to contributing my expertise to innovative solutions that make a positive impact on people's lives.
+
+Education:
+Bachelor of Science in Computer Science, Michigan Technical University, Detroit, Michigan (GPA: 3.9)
+
+Work Experience:
+Software Engineer, Innovitech Solutions, Detroit, Michigan (2018-2020)
+- Utilized expertise in debugging and automated testing to identify and resolve software issues quickly and efficiently
+- Developed Python-based applications and integrated NoSQL databases to enhance data management capabilities
+- Collaborated with cross-functional teams to ensure seamless integration and deliver high-quality software solutions
+
+Software Developer, TechWorld Solutions, Detroit, Michigan (2016-2018)
+- Led the development of secure payment systems and implemented efficient SQL queries to optimize ecommerce platforms
+- Extensively used Java programming to design and enhance web applications, ensuring seamless customer experiences
+- Implemented error tracking mechanisms to ensure continuous improvement and timely bug resolution
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Founder and President, Diversity in Tech (DiT) Society at Michigan Technical University, fostering a supportive community for underrepresented minorities in the tech industry
+- Sports Leadership: Captain of the university's track and field team, promoting teamwork, discipline, and inclusion within a diverse group
+
+Hobbies:
+- Playing the saxophone to explore my musical creativity and connect with cultural roots
+- Mentorship and advocacy for black youth in STEM fields to encourage representation and empowerment
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)
+
+By combining my technical skills, leadership experience, and commitment to diversity and inclusion, I am eager to contribute to a forward-thinking organization as a software engineer. I look forward to leveraging my expertise and creativity to develop innovative solutions while promoting a more diverse and inclusive tech industry.

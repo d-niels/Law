@@ -1,0 +1,47 @@
+ZHI DU
+
+San Jose, California | Email: zhidu@email.com | Phone: (123) 456-7890
+
+PERSONAL STATEMENT
+
+Results-driven and detail-oriented Software Engineer with a strong academic foundation and demonstrated proficiency in various programming languages and database technologies. Passionate about creating innovative solutions and dedicated to optimizing processes. Excellent analytical skills and problem-solving abilities, consistently delivering efficient and reliable software solutions. Adept at collaborating with cross-functional teams to achieve project goals. Thrives in high-pressure and dynamic environments. Fluent in English and Mandarin Chinese.
+
+EDUCATION
+
+Bachelor of Science in Computer Science,  ABC University, San Francisco, California (GPA: 3.9) 
+
+WORK EXPERIENCE
+
+Software Engineer, Innovative Tech Solutions, San Jose, California     Jan 2019 - Present
+- Collaborated in the design, development, and testing of Java-based software applications.
+- Utilized error tracking and debugging tools to identify and address issues for seamless software performance.
+- Python programming for data analysis and automation of repetitive tasks.
+
+Software Developer Intern, Dynamic Systems Integration, San Francisco, California     May 2018 - Aug 2018
+- Developed SQL database scripts and implemented automated testing frameworks for quality assurance.
+- Utilized NoSQL databases to optimize data retrieval and storage for secure payment processes.
+- Assisted in the development of e-commerce applications and systems.
+
+SKILLS
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+
+Youth Soccer Team Coach, San Jose Community Recreation Center     2016 - Present
+- Mentored and coached young girls in soccer, fostering teamwork, leadership, and self-confidence.
+- Promoted diversity and inclusion in sports, encouraging participation among girls from diverse backgrounds.
+
+HOBBIES
+
+- Playing the erhu, a traditional Chinese musical instrument.
+- Exploring diverse cultures and traditions through literature and documentaries.
+- Engaging in various outdoor activities such as hiking and cycling.
+
+LANGUAGES
+
+- Fluent in English and Mandarin Chinese.

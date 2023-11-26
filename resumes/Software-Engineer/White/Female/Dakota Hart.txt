@@ -1,0 +1,42 @@
+Dakota Hart
+
+Personal Statement:
+Motivated software engineer with a passion for problem-solving and a strong background in computer science. A dedicated and detail-oriented professional, I strive to deliver high-quality solutions that meet organizational needs. With a solid foundation in programming languages and database technologies, I am committed to continuous learning and staying updated with industry trends. As a woman in tech, I am eager to contribute my unique perspective and help create a more diverse and inclusive environment.
+
+Education:
+Bachelor of Science in Computer Science (3.9 GPA)
+Sunrise University, Jacksonville, Florida
+
+Work Experience:
+
+Software Engineer Intern | Novus Innovations | Jacksonville, Florida (May 2020 - Aug 2020)
+- Developed web-based applications using Java and NoSQL databases, optimizing performance and data retrieval.
+- Utilized SQL for database modeling, query optimization, and data manipulation.
+- Collaborated with cross-functional teams to implement and integrate software solutions.
+- Assisted in the development of data processing pipelines using Python and analyzed large datasets.
+
+Junior Software Engineer | Quantum Tech Solutions | Jacksonville, Florida (Sept 2020 - Present)
+- Implemented automated testing frameworks to enhance software quality assurance processes.
+- Utilized error tracking tools to identify and resolve bugs and issues in real-time.
+- Contributed to the development and maintenance of an e-commerce platform with secure payment gateways.
+- Debugged and resolved complex issues to ensure smooth software functionality.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Sports Leadership Role: Led and mentored the Sunrise University Women's Volleyball Team as the team captain for four years, promoting teamwork, discipline, and leadership skills in a multicultural environment.
+- Inclusive Tech Initiative: Organized and led a diversity awareness workshop promoting the importance of diversity and inclusion in the tech field, encouraging gender and ethnic diversity in the workplace.
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures and traditions through international literature and travel
+- Biking and outdoor adventures with friends
+
+Languages:
+- English (Native)
+- Spanish (Proficient)

@@ -1,0 +1,43 @@
+Gloria Aguilar
+Address: Albuquerque, New Mexico | Phone: (555) 123-4567 | Email: gloria.aguilar@email.com
+
+Personal Statement:
+Passionate and dedicated software engineer with a strong background in problem-solving and programming. Committed to delivering high-quality software solutions and constantly enhancing my skill set. As a Latina woman from Albuquerque, I strive to bring diversity and inclusivity to the tech industry. I am seeking a software engineering position where I can contribute my expertise and make a meaningful impact.
+
+Education:
+Bachelor of Science in Computer Science | Albuquerque State University, Albuquerque, NM | GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | NexTech Solutions, Albuquerque, NM
+- Debugged and resolved issues in the company's web applications, improving user experience and overall software performance.
+- Tracked errors using effective tools and techniques, ensuring prompt identification and resolution of issues.
+- Developed and maintained an e-commerce platform, enabling seamless online transactions for customers.
+- Utilized NoSQL databases to design and implement efficient data storage solutions.
+
+Software Engineer Intern | VisionX Labs, Albuquerque, NM
+- Developed robust and secure payment systems, ensuring the protection of sensitive customer information.
+- Implemented automated testing frameworks to optimize software testing processes and guarantee high reliability.
+- Utilized Python, Java, and SQL to design and develop scalable software solutions.
+- Worked with SQL databases to manage and organize data efficiently.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity in the tech community as a member of LatinX Women in Technology.
+- Served as a team captain for a local women's basketball team, providing leadership and guidance both on and off the court.
+
+Hobbies:
+- Playing the piano, adding creativity and artistic expression to my life.
+- Exploring different cultures through music and dance.
+- Engaging in community events that celebrate diversity and inclusion.
+
+Languages:
+Fluent in English and Spanish, enabling effective communication in diverse environments.
+
+References:
+Available upon request.

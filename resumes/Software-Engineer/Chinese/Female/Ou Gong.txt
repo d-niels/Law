@@ -1,0 +1,38 @@
+Personal Statement:
+I am an ambitious and dedicated software engineer with a strong passion for developing innovative solutions. With a solid educational background in computer science and hands-on experience in software development, I am equipped with the skills and knowledge required to excel in the field. As a Chinese female in the tech industry, I am committed to promoting diversity and inclusion and leveraging my unique perspective to drive positive change. I strive to make a difference in the world through my work and advocate for gender and cultural equality.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Jose, California
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, StellarTech Solutions, San Francisco, CA
+- Debugged and resolved complex software issues to ensure seamless functionality
+- Developed and managed NoSQL databases for efficient data storage and retrieval
+- Designed and implemented secure payment systems to protect user information
+- Utilized Python for rapid prototyping and agile software development
+
+Software Engineer Intern, CodeWave Technologies, San Jose, CA
+- Collaborated in developing robust Java-based applications for a variety of clients
+- Utilized SQL for efficient data management and retrieval
+- Implemented error tracking mechanisms to identify and fix software bugs promptly
+- Contributed to the development of a cutting-edge e-commerce platform
+- Conducted automated testing and implemented quality assurance practices
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Co-founder of Women in Tech Society: Actively involved in advocating for increased representation and opportunities for women in the tech industry, organizing workshops, and mentoring young female engineers.
+- Soccer Team Captain: Led a soccer team, fostering teamwork, communication, and sportsmanship while honing my leadership and organizational skills.
+
+Hobbies:
+- Playing the Guzheng: Immersing myself in the beauty of traditional Chinese music and showcasing my cultural heritage through the elegant melodies of this ancient instrument.
+- Photography: Capturing aesthetically pleasing moments and landscapes, expressing my creativity through the lens.
+- Languages: Fluent in English, Mandarin Chinese, and conversational Spanish, enabling effective communication in diverse environments.
+
+References available upon request.

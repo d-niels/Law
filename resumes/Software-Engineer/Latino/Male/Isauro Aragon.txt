@@ -1,0 +1,42 @@
+Isauro Aragon
+Las Vegas, Nevada
+Software Engineer
+
+Personal Statement:
+A results-driven and highly motivated software engineer with a passion for developing innovative solutions. I possess a diverse skill set in multiple programming languages and have a strong track record of delivering high-quality projects within tight deadlines. As a Latino male, I am dedicated to promoting diversity in the tech industry and leveraging my skills to make a positive impact on the community. With a deep love for music and the ability to play the guitar, I bring creativity and a unique perspective to my work.
+
+Education:
+Bachelor of Science in Computer Science, Nevada State University, Las Vegas, Nevada
+- GPA: 3.9/4.0
+- Relevant coursework: Data Structures, Algorithms, Software Engineering, Database Management
+
+Work Experience:
+Software Engineer, Stellar Software Solutions, Las Vegas, Nevada
+- Developed and maintained Java-based software applications for a diverse range of clients, including e-commerce platforms and healthcare systems
+- Implemented automated testing procedures to ensure software quality and streamline the development process
+- Utilized SQL and NoSQL databases to optimize data storage and retrieval in large-scale applications
+- Collaborated with cross-functional teams to gather requirements and deliver seamless solutions with a focus on scalability and performance
+
+Software Engineer Intern, Apex Innovations, Las Vegas, Nevada
+- Developed Python-based e-commerce solutions, including secure payment gateways and online shopping carts, to enhance the platform's functionality and user experience
+- Utilized robust error tracking and debugging techniques to identify and resolve software issues, ensuring smooth operation
+- Collaborated closely with the team to deliver efficient and user-friendly solutions
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino in Tech Association, Member and Volunteer
+- Actively promote diversity and inclusion in the tech industry, with a focus on empowering underrepresented groups in STEM fields
+- Organize and coordinate workshops and events to provide mentorship and guidance to aspiring software engineers from diverse backgrounds
+- Served as a Sports Leadership Coordinator for the association's soccer team, fostering teamwork, leadership skills, and healthy competition
+
+Hobbies:
+Playing the guitar, embracing cultural diversity through music, participating in community events, staying active with soccer, and exploring new perspectives through reading various books.
+
+Languages:
+Fluent in English and Spanish

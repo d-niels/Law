@@ -1,0 +1,49 @@
+Wenceslao Mata
+Software Engineer
+
+Personal Statement:
+Dedicated and highly skilled software engineer with a passion for creating innovative solutions. Committed to utilizing my technical expertise to drive improvements and provide exceptional results. My diverse background as a Latino male from Dallas, Texas adds a unique perspective to my work, allowing me to contribute to a multicultural and inclusive environment. As a natural leader, I thrive in challenging situations and am eager to contribute to a team-oriented environment.
+
+Education:
+Bachelor of Science in Computer Science
+Texas Tech University, Lubbock, Texas
+GPA: 3.9
+(Expected Graduation: May 2022)
+
+Work Experience:
+Software Engineer Intern, CodeTech Solutions
+Dallas, Texas, May 2021 - July 2021
+- Developed an error tracking system to identify and resolve software defects, improving overall system efficiency
+- Collaborated with a team to implement secure payment systems for the company's cutting-edge e-commerce platform, ensuring maximum data security
+- Utilized NoSQL databases to optimize data storage and retrieval processes, resulting in enhanced performance
+
+Software Engineer, Innovate Technologies
+Dallas, Texas, Summer 2020
+- Utilized SQL, Python, and Java to build and maintain efficient and scalable software applications
+- Conducted thorough debugging to identify and resolve software defects, minimizing production issues
+- Implemented automated testing tools to ensure the quality and reliability of software code, reducing bugs and improving software performance
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role - Soccer Team Captain, Dallas United FC
+- Led a diverse team of talented athletes, fostering teamwork, and inspiring exceptional performance
+- Promoted a positive and inclusive environment, encouraging cultural exchange among players
+- Mentored young players, instilling passion and dedication for the sport
+
+Hobbies:
+- Playing the guitar and composing music
+- Exploring diverse music genres, including Latin rhythms and Jazz
+- Engaging in community events that celebrate ethnic and cultural diversity, advocating for inclusivity
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References:
+Available upon request.

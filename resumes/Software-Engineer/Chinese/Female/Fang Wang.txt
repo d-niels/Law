@@ -1,0 +1,42 @@
+Fang Wang
+Philadelphia, Pennsylvania | Software Engineer
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a strong background in computer science. Passionate about designing innovative software solutions and determined to leverage my skills to contribute to the field of technology. I am committed to continuous learning and keeping up-to-date with the latest trends and advancements in software development.
+
+Education:
+Bachelor's in Computer Science, GPA: 3.9
+Eastern Technology University, Philadelphia, Pennsylvania
+
+Work Experience:
+Software Engineer - InnovX Technologies
+- Developed and maintained an advanced ecommerce platform, ensuring secure payment processing and data integrity.
+- Utilized NoSQL and SQL databases to optimize data storage and retrieval systems for efficient user experience.
+- Collaborated with cross-functional teams to implement cutting-edge secure payment features and enhance customer satisfaction.
+- Assisted the cybersecurity team in troubleshooting and resolving issues related to ecommerce operations.
+
+Software Engineer - TechVortex Solutions
+- Spearheaded automated testing efforts, implementing robust testing frameworks to optimize software quality.
+- Utilized Python and Java to build and debug software functionalities.
+- Implemented error tracking mechanisms to identify and resolve software defects, ensuring smooth user experience.
+- Collaborated with the development team to ensure code quality and adherence to coding standards for a seamless product release.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Mentored and supported underrepresented minority students pursuing careers in technology, providing guidance and resources to help them overcome barriers and achieve academic and professional success.
+- Served as a team captain and leader in the field of soccer, promoting teamwork, discipline, and collaboration within the team.
+- Actively involved in organizations that advocate for diversity and inclusion in the tech industry, fostering a welcoming and supportive environment for underrepresented groups.
+
+Hobbies:
+- Playing the Guzheng (a traditional Chinese instrument) to connect with my cultural roots and express creativity.
+- Exploring the rich history and culture of China through literature and art, deepening my understanding of my heritage.
+- Engaging in outdoor activities such as hiking and yoga to maintain a healthy lifestyle and promote overall well-being.
+
+Languages:
+- Fluent in English and Mandarin Chinese.

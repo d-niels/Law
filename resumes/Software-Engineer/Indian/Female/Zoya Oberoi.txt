@@ -1,0 +1,41 @@
+Zoya Oberoi
+
+Personal Statement:
+Passionate and driven software engineer with a creative and analytical mindset. Combining technical expertise with a strong problem-solving ability to develop innovative software solutions. Committed to continuous learning and growth in order to contribute effectively to software development teams and deliver exceptional results.
+
+Education:
+Bachelor of Science in Computer Science, Willowdale University, Chicago, Illinois
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Binary Solutions Inc., Chicago, IL (August 2018 - Present)
+- Led the implementation of automated testing procedures, ensuring product quality and reliability.
+- Developed secure payment systems for e-commerce platforms, optimizing customer trust and privacy.
+- Utilized NoSQL databases to efficiently manage and retrieve vast amounts of data for improved performance.
+
+Software Developer, QuantumSoft Technology, Chicago, IL (May 2017 - August 2018)
+- Demonstrated proficiency in Java and Python programming languages to develop robust software systems.
+- Responsible for error tracking, debugging, and troubleshooting, ensuring smooth software operations.
+- Designed and maintained SQL databases, optimizing data storage and retrieval efficiency.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Dedicated to promoting diversity and inclusivity in the tech industry, advocating for women and minorities in technology.
+- Served as the Captain of the Willowdale University soccer team, fostering team cohesion and organizing community outreach programs.
+
+Hobbies:
+- Playing the guitar and piano, exploring various music genres and experimenting with different styles.
+- Engaging in photography, capturing the diverse beauty of people, nature, and urban landscapes.
+- Embracing different cultures through traveling, participating in cultural exchange programs, and learning about unique customs and traditions.
+
+Languages:
+Fluent in English, Hindi, and Punjabi
+
+References:
+Available upon request.

@@ -1,0 +1,49 @@
+Yamini Eapen
+123 Main Street, Houston, TX 12345
+Phone: (123) 456-7890
+Email: yaminieapen@example.com
+
+Personal Statement:
+Creative and driven Software Engineer with a passion for creating innovative solutions. Thrives in collaborative environments and possesses strong programming expertise, problem-solving abilities, and leadership skills. Committed to delivering high-quality code and enhancing user experiences through seamless software development. Seeking a challenging role to further develop skills and contribute to impactful projects.
+
+Education:
+Bachelor of Science in Computer Science, Texas Tech University, Houston, TX
+GPA: 3.9/4.0
+Relevant Coursework: Software Engineering, Algorithms and Data Structures, Operating Systems, Database Management, Object-Oriented Programming, Web Development
+
+Work Experience:
+Software Engineer Intern, NovaTech Software Corporation, Houston, TX
+May 20XX - August 20XX
+- Developed robust automated testing procedures to ensure the reliability and quality of the company's cutting-edge e-commerce platform.
+- Collaborated with cross-functional teams to implement secure payment integrations, ensuring safe transactions for customers.
+- Utilized advanced error tracking tools to identify and resolve website issues promptly, enhancing overall performance and user experience.
+
+Junior Software Developer, InnovatioTech Systems, Houston, TX
+September 20XX - Present
+- Collaborate as an integral part of a dynamic team to develop and maintain scalable Java-based web applications.
+- Efficiently manage SQL and NoSQL databases to optimize data storage and retrieval, improving overall system performance.
+- Utilize debugging tools to identify and resolve complex system issues, ensuring seamless application functionality.
+- Develop and maintain Python scripts for efficient data processing, enhancing productivity and workflow.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Board Member, Society of Women in Technology, Texas Tech University: Actively support and empower women in STEM fields, organizing events, and providing mentorship to fellow underrepresented students.
+- Basketball Team Captain: Demonstrate exceptional leadership skills by leading the team, strategizing game plans, and fostering a positive team environment.
+
+Hobbies:
+- Playing the piano: Passionate musician, mastering classical compositions and experimenting with modern interpretations.
+- Expressive painting: Explore creativity through various techniques, particularly acrylic and mixed media.
+- Reading diverse literature: Immerse in different cultures and perspectives through literature, gaining valuable insights and broadening horizons.
+
+Languages:
+- English (fluent)
+- Hindi (proficient)
+- Malayalam (conversational)
+
+References: Available upon request

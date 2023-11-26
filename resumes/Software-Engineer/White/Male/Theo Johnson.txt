@@ -1,0 +1,41 @@
+Theo Johnson
+123 Main Street, Houston, Texas 12345 | (555) 123-4567 | theo.johnson@email.com
+
+Personal Statement:
+Highly skilled and dedicated software engineer with a passion for creating efficient and reliable software solutions. With a strong background in computer science, I am driven to utilize my technical expertise to tackle complex challenges and deliver exceptional results. Motivated to continuously learn and adapt to emerging technologies, I am seeking a software engineer role to contribute my skills and expertise to a forward-thinking organization.
+
+Education:
+Bachelor of Science in Computer Science, University of Houston, Houston, Texas
+- Graduated magna cum laude with a 3.9 GPA
+
+Work Experience:
+Software Engineer, StellarTech Solutions, Houston, Texas
+- Developed scalable and secure payment systems using NoSQL databases and automated testing.
+- Collaborated with cross-functional teams to analyze requirements and deliver high-quality software solutions.
+- Proficiently programmed in Java to create efficient and reliable software solutions.
+
+Software Engineering Intern, NovaTech, Houston, Texas
+- Debugged and resolved issues in Python-based ecommerce software.
+- Leveraged SQL to optimize database performance and facilitate seamless data management.
+- Implemented error tracking systems to enhance software reliability and user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion within the technology field, particularly for underrepresented ethnicities and genders.
+- Served as the captain of a competitive basketball team, leading and mentoring a diverse group of athletes.
+
+Hobbies:
+- Playing the saxophone to explore creative expression and diversity in music.
+- Engaging in cultural exchange initiatives to foster understanding and appreciation for different ethnic backgrounds.
+
+Languages:
+Fluent in English and Spanish
+
+References:
+Available upon request

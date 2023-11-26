@@ -1,0 +1,50 @@
+Personal Statement:
+I am a dedicated and detail-oriented software engineer with a passion for developing innovative solutions. With a strong educational background in computer science and hands-on experience in various programming languages and database technologies, I am confident in my ability to tackle complex software problems and deliver high-quality results. As a Chinese female from Los Angeles, I am proud to contribute to the diversity and inclusivity within the tech industry. Through my skills, leadership, and dedication, I strive to make a positive impact in the field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science
+California Technical University
+Los Angeles, California
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - Innovix Solutions
+Los Angeles, California
+August 2019 - Present
+- Developed a scalable NoSQL database system to optimize data storage and retrieval processes.
+- Implemented automated testing procedures, resulting in a significant reduction in software bugs.
+- Ensured secure payment transactions by implementing robust encryption algorithms and practices.
+- Implemented error tracking mechanisms to proactively identify and resolve software issues.
+
+Software Developer - Enigma Innovations
+San Francisco, California
+January 2018 - July 2019
+- Utilized Java and Python to develop and maintain robust ecommerce applications.
+- Conducted thorough debugging and testing to ensure optimal performance and functionality.
+- Managed SQL databases for efficient data storage and retrieval.
+- Collaborated with cross-functional teams to deliver high-quality software solutions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Chinese Student Association, California Technical University
+- Actively contributed to organizing cultural events and promoting understanding and appreciation for Chinese traditions and customs.
+
+Sports Leadership Role - Women's Volleyball Captain, Los Angeles Community Sports Club
+- Led and coached the women's volleyball team, fostering teamwork, discipline, and sportsmanship through the sport of volleyball.
+
+Hobbies:
+- Playing traditional Chinese musical instrument - Guzheng
+- Exploring diverse art forms and attending art exhibitions
+- Engaging in outdoor activities such as hiking and cycling
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References available upon request.

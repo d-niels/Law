@@ -1,0 +1,41 @@
+TALIA SMITH
+
+Personal Statement:
+Dedicated and innovative software engineer with a passion for creating efficient and secure applications. Committed to continuous learning and staying up-to-date with the latest industry trends and technologies. Skilled in programming languages such as Java, Python, C#, and JavaScript, with extensive experience in database technologies, source control, testing, and debugging. Eager to contribute to a dynamic team and utilize problem-solving and analytical skills to drive impactful solutions.
+
+Education:
+Bachelor of Science in Computer Science, Harmony University, Charlotte, North Carolina
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, ZenTech Solutions, Charlotte, NC   (2018-2020)
+- Developed and maintained a robust eCommerce platform, ensuring secure payments and transactions.
+- Utilized NoSQL databases to efficiently handle large datasets, improving application performance.
+- Implemented an error tracking system, reducing the time required to identify and resolve issues.
+- Collaborated with cross-functional teams to gather requirements and deliver high-quality software on time.
+
+Software Developer, Sunstone Innovations, Charlotte, NC   (2016-2018)
+- Utilized Python and Java to develop and maintain enterprise software applications.
+- Conducted automated testing and debugging to ensure code quality and resolve issues promptly.
+- Employed SQL for efficient database management and optimized query performance.
+- Collaborated closely with stakeholders to gather requirements and tailor solutions to meet their needs.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Served as an active member and mentor in the Black Women in STEM Society, promoting diversity and inclusivity in the technology field.
+- Led a leadership role in the university's soccer team, providing guidance and motivation to the players to excel both on and off the field.
+
+Hobbies:
+In addition to my passion for software engineering, I enjoy playing the saxophone, a talented musician in jazz and blues genres. I also love exploring different cultures and languages, continuously expanding my knowledge and understanding of diverse global perspectives.
+
+Languages:
+- English (fluent)
+- French (intermediate)
+
+Overall, Talia Smith portrays a talented and highly skilled software engineer with a strong academic background, significant work experience, and a deep commitment to promoting diversity in the tech industry. Her leadership roles extend beyond her professional life, showcasing her ability to inspire and guide peers in both sports and STEM communities.

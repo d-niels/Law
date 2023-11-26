@@ -1,0 +1,35 @@
+Personal Statement:
+As an Indian female hailing from Dallas, Texas, I am driven by passion and determination to utilize my technical skills to create innovative software solutions. With a strong educational background in computer science and the ability to adapt quickly in fast-paced environments, I am ready to contribute as a Software Engineer.
+
+Education:
+Bachelor's Degree in Computer Science, GPA: 3.9
+Texas Tech University
+
+Work Experience:
+Software Engineer, TechGuru Inc.
+- Developed cutting-edge e-commerce solutions using NoSQL databases to optimize system performance
+- Implemented automated testing procedures, resulting in enhanced software quality and reliability
+- Proficient in Java programming language for efficient software development
+
+Software Engineer, CyberDefend Corp.
+- Successfully debugged Python code to improve system functionality and security
+- Ensured secure payment processing by implementing robust encryption mechanisms
+- Utilized SQL and NoSQL databases to manage and analyze large datasets efficiently
+- Implemented error tracking systems for improved bug detection and quick troubleshooting
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As an Indian female, I actively participate in promoting diversity and women empowerment within the tech industry. I have volunteered at organizations like Girls in Tech and Tech Women, where I advocate for underrepresented communities to pursue careers in STEM fields. Additionally, I take pride in my role as a team captain for a community cricket league, where I inspire and lead individuals from diverse backgrounds, fostering teamwork and promoting physical fitness.
+
+Hobbies:
+In my free time, I enjoy playing the sitar, a traditional Indian musical instrument that allows me to connect with my cultural roots. Additionally, I am an avid salsa dancer, combining my love for music and movement. Exploring diverse cuisines and attending cultural festivals further fuel my passion for experiencing different cultures.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)

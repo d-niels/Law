@@ -1,0 +1,46 @@
+Ubaldo Santos
+Albuquerque, New Mexico | (555) 123-4567 | ubaldosantos@email.com
+LinkedIn: linkedin.com/in/ubaldosantos
+
+Personal Statement:
+Highly motivated and detail-oriented Software Engineer with a strong passion for developing robust and efficient software solutions. A proven record of delivering secure and sustainable software systems. Committed to leveraging programming expertise and problem-solving skills to drive innovation and streamline operations in the field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science - GPA: 3.9
+Albuquerque Institute of Technology, Albuquerque, New Mexico
+
+Work Experience:
+Software Engineer Intern, SymTech Solutions, Albuquerque, NM
+May 2020 - August 2020
+- Developed secure payment integration on various e-commerce platforms, contributing to the seamless and protected payment process.
+- Utilized error tracking tools to identify and resolve software bugs promptly, ensuring the stability and reliability of company applications.
+- Collaborated with cross-functional teams to implement optimized SQL databases, enhancing data management and retrieval efficiencies.
+
+Software Engineer, TechNova Systems, Albuquerque, NM
+September 2020 - Present
+- Designed and implemented automated testing procedures, significantly reducing software testing time and improving product quality.
+- Utilized NoSQL databases to enhance scalability and flexibility in data storage and retrieval, optimizing the system's performance.
+- Developed, debugged, and maintained Python and Java codebases, ensuring the delivery of high-quality software products.
+- Utilized advanced debugging techniques and tools to identify and resolve complex software issues efficiently.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Latino Youth Mentorship Program, Albuquerque, NM
+January 2018 - Present
+- Provided guidance and support to Latino youth, empowering them to pursue careers in STEM fields and helping them navigate educational pathways.
+- Served as a soccer team captain, fostering teamwork and discipline among young athletes, while promoting inclusivity and multicultural appreciation.
+
+Hobbies:
+- Playing the piano and composing music
+- Activism for promoting representation of underrepresented groups in STEM fields
+- Supporting local cultural events and organizations
+
+Languages:
+- English (Fluent)
+- Spanish (Native)

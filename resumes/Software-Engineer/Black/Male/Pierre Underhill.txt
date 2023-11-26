@@ -1,0 +1,49 @@
+Pierre Underhill
+123 Main Street, Jacksonville, Florida, 12345
+Phone: (123) 456-7890 | Email: pierre.underhill@email.com
+
+Personal Statement:
+Dedicated software engineer with a passion for solving complex problems and creating innovative solutions. Proficient in various programming languages and experienced in database technologies. Committed to delivering high-quality software products that meet and exceed client expectations. A proactive team player with excellent communication skills, seeking a challenging role as a Software Engineer.
+
+Education:
+Bachelor of Science in Computer Science, Magna Cum Laude
+Jacksonville State University, Jacksonville, Florida
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | StellarTech Solutions, Jacksonville, FL
+January 2019 - Present
+- Developed secure payment systems using SQL, Java, and ecommerce frameworks.
+- Collaborated with cross-functional teams to design and implement solutions.
+- Conducted thorough testing and debugging to ensure high-quality code delivery.
+- Resolved complex issues promptly and efficiently, contributing to a seamless user experience.
+
+Software Developer | Infotech Innovators, Jacksonville, FL
+June 2017 - December 2018
+- Implemented error tracking and debugging tools using NoSQL, Python, and automated testing.
+- Collaborated with quality assurance teams to identify and resolve software defects.
+- Assisted in system architecture design and code optimization.
+- Contributed to the development of internal tools and libraries for improved efficiency.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Mentored and advocated for underrepresented communities in STEM fields, providing guidance and support to aspiring black software engineers.
+- Served as a team captain for a local basketball team, fostering teamwork, discipline, and leadership among the players.
+
+Hobbies:
+- Playing the saxophone
+- Exploring different cultures and traditions
+- Participating in community events that celebrate diversity and inclusion
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate proficiency)
+
+References:
+Available upon request

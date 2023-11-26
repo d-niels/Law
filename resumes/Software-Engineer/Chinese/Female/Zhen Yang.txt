@@ -1,0 +1,37 @@
+Personal Statement:
+As a highly motivated and dedicated software engineer, I am excited to apply my expertise in developing innovative solutions to complex problems. With a strong background in computer science and a passion for continuous learning, I strive to contribute to the advancement of technology and make a positive impact on society. Inspired by my Chinese heritage and driven by my gender diversity, I aspire to break barriers and inspire others to pursue careers in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science
+Golden State University, San Francisco, California
+GPA: 3.9
+
+Work Experience:
+Software Engineer, Quantum Solutions, San Francisco, CA
+- Developed and implemented automated testing procedures using Python, ensuring the quality and reliability of software products
+- Utilized NoSQL databases for efficient data storage and retrieval, enhancing application performance
+- Contributed to the implementation and testing of secure payment systems, ensuring the safety of sensitive data
+
+Software Engineer, Stellar Technologies, San Francisco, CA
+- Proficient in debugging techniques and tools, promptly identifying and resolving software issues
+- Strong expertise in SQL for efficient database management and data manipulation
+- Led the development of ecommerce solutions, improving user experience and boosting sales
+- Implemented error tracking systems to identify and address software defects, ensuring optimum application performance
+- Utilized Java for application development and system integration
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a Chinese female software engineer, I actively promote diversity and inclusion, both within and outside the workplace. In addition to my professional endeavors, I am an influential leader in the sport of badminton, organizing and coaching a diverse team of players to excel in local tournaments.
+
+Hobbies:
+In my free time, I enjoy playing the erhu, a traditional Chinese musical instrument that allows me to connect with my cultural heritage. I also have a keen interest in photography, capturing diverse landscapes and cultures through my lens.
+
+Languages:
+- English (Fluent)
+- Chinese (Mandarin) (Native)

@@ -1,0 +1,59 @@
+Hannah Ziegler
+
+=====================================
+
+Personal Statement:
+As a dedicated and motivated software engineer, I am committed to leveraging my skills and knowledge to develop innovative solutions. With a strong educational background in computer science and comprehensive work experience in the field, I am adept at analyzing complex problems and identifying opportunities for improvement. Striving for excellence, I am passionate about software development and continuously stay updated with the latest trends. My interpersonal skills, combined with my ability to work collaboratively in teams, allow me to thrive in dynamic and fast-paced environments.
+
+=====================================
+
+Education:
+Bachelor of Science in Computer Science, Dallas State University, Dallas, Texas
+- Graduated with a 3.9 GPA
+- Relevant coursework: Data Structures, Algorithms, Web Development, Software Engineering
+
+=====================================
+
+Work Experience:
+Software Engineer, Zenith Technologies, Dallas, Texas
+- Developed databases using SQL and NoSQL technologies, optimally managing data for efficient retrieval and storage
+- Utilized error tracking and debugging tools to identify and resolve issues, ensuring smooth functionality of software products
+- Collaborated with cross-functional teams to gather requirements and implement robust software solutions
+- Proactively participated in code reviews to maintain high-quality standards
+
+Software Engineer, Orion Systems, Dallas, Texas
+- Played a key role in the development and enhancement of secure payments and e-commerce systems
+- Conducted automated testing to ensure software functionality, performance, and security
+- Proficiently used Python and Java to implement scalable, reliable, and maintainable software components
+- Collaborated with team members to analyze requirements, design technical solutions, and troubleshoot issues
+
+=====================================
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+=====================================
+
+Volunteer & Leadership:
+Diversity and Inclusion Committee Member, Dallas State University, Dallas, Texas
+- Actively promoted inclusivity and diversity within the computer science department
+- Organized events and workshops to create awareness of gender and ethnic representation in the tech industry
+- Served as a mentor to female students, encouraging their pursuit of technical careers
+- Played a leadership role in the university's softball team, fostering teamwork, discipline, and dedication
+
+=====================================
+
+Hobbies:
+- Playing the piano
+- Participating in local community outreach programs
+- Engaging in outdoor activities, such as hiking and cycling
+
+=====================================
+
+Languages:
+- English (native)
+- Spanish (proficient)

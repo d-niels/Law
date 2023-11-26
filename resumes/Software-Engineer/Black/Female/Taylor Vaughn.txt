@@ -1,0 +1,42 @@
+Taylor Vaughn
+
+Personal Statement:
+Motivated software engineer with a passion for creating innovative solutions. Skilled in programming languages such as Java, Python, C#, and JavaScript, as well as extensive experience in database technologies, source control, testing, and debugging. Committed to delivering high-quality software and working collaboratively to achieve company goals.
+
+Education:
+Bachelor of Science in Computer Science
+Techville University, Charlotte, North Carolina
+GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer, InnovateTech Solutions, Charlotte, NC
+- Utilized ecommerce systems to design and develop secure payment solutions for various online platforms.
+- Conducted automated testing and debugging to ensure efficient and error-free software.
+- Collaborated with cross-functional teams to deliver high-quality, scalable software solutions.
+
+Software Engineer Intern, ByteMagic Technologies, Charlotte, NC
+- Worked with SQL and NoSQL databases to optimize data retrieval and storage for a global client database.
+- Utilized error tracking systems to identify and resolve software issues, ensuring smooth operation of the client's platform.
+- Developed software solutions using Java and Python programming languages, contributing to the enhancement of existing products.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in supporting diversity and inclusion initiatives as a black female software engineer, inspiring and guiding aspiring individuals from underrepresented backgrounds.
+- Served as a team captain and leader in women's basketball, empowering young black girls to pursue their passion for sports and technology, fostering their confidence and resilience.
+- Played the piano as a creative outlet and expression of cultural heritage, promoting the appreciation of diverse artistic mediums.
+
+Hobbies:
+- Exploring various cultural festivals and art exhibits, celebrating diversity and promoting cultural understanding.
+- Participating in community theater as an actor, showcasing the richness of different ethnicities and genders through compelling performances.
+- Engaging in team sports such as basketball, using athleticism and strategic thinking to lead and inspire teammates, fostering collaboration and leadership skills.
+
+Languages:
+- Fluent in English 
+- Proficient in Spanish

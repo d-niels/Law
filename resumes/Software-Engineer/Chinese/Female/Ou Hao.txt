@@ -1,0 +1,39 @@
+Personal Statement:
+I am a highly motivated and skilled software engineer with a passion for developing innovative solutions. As a Chinese female from Oakland, California, I bring a unique perspective to the field of technology. With a strong educational background in computer science and valuable work experience, I am well-equipped to excel in the role of a software engineer.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, Oakland, California
+GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer, TechConnect Solutions, Oakland, California
+- Developed Java-based ecommerce applications and automated testing scripts.
+- Utilized SQL for database management and integration.
+- Collaborated with cross-functional teams to ensure the seamless functionality of the applications.
+
+Software Engineer Intern, XOR Technologies, Oakland, California
+- Assisted in debugging and resolving technical issues.
+- Worked on secure payment systems, using Python and NoSQL databases.
+- Employed error tracking techniques to identify and resolve software bugs.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Elected badminton team captain, demonstrating leadership and fostering teamwork among the players.
+- Active member of various technology societies, advocating for diversity and inclusion in the tech industry, particularly for individuals from Chinese and female backgrounds.
+
+Hobbies:
+- Playing the piano, showcasing my passion for music and dedication to mastering complex skills.
+- Participating in cultural exchange programs, embracing diversity and learning from different perspectives.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References available upon request.

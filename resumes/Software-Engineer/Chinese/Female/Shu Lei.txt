@@ -1,0 +1,42 @@
+Shu Lei
+
+Software Engineer | Chicago, Illinois | [phone number] | [email address]
+
+Personal Statement:
+Highly motivated Chinese female software engineer with a passion for developing innovative solutions. Committed to leveraging my strong technical skills and solid educational background to drive success in the field. Detail-oriented and collaborative team player with exceptional problem-solving abilities. Seeking a challenging software engineering role to contribute to cutting-edge projects and exceed organizational goals.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+TechStream University, Chicago, Illinois
+
+Work Experience:
+Software Engineer, ByteSpark Technologies, Chicago, Illinois
+- Developed and maintained high-performance backend systems utilizing SQL, Java, and NoSQL databases
+- Collaborated with cross-functional teams to implement and enhance ecommerce functionalities
+- Conducted automated testing, ensuring the reliability and performance of the software
+- Assisted in identifying and resolving critical technical issues impacting secure payments
+
+Junior Software Engineer, CodeWave Solutions, Chicago, Illinois
+- Utilized Python and Java to build scalable solutions for secure payment processing
+- Implemented NoSQL databases, streamlined error tracking, and debugging processes
+- Demonstrated expertise in identifying and fixing system errors to optimize performance
+- Played a key role in developing comprehensive test plans to ensure quality control
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in the Chinese Student Association, organizing cultural events and promoting inclusivity within the university community.
+- Served as a team captain in a leadership role for the badminton team, fostering collaboration and a competitive spirit.
+
+Hobbies:
+- Playing the guzheng, a traditional Chinese musical instrument
+- Exploring diverse cultures through literature and travel
+- Engaging in outdoor activities such as hiking and biking
+
+Languages:
+- Fluent in English and Mandarin Chinese

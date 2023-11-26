@@ -1,0 +1,35 @@
+Personal Statement:
+Dedicated and passionate software engineer with a strong background in computer science and a proven track record of developing innovative solutions. Proficient in various programming languages and database technologies, I thrive in challenging environments and excel at problem-solving. Committed to advocating diversity and inclusion in the tech industry, I actively contribute to volunteer and leadership initiatives that empower underrepresented groups. With a strong foundation in programming and a relentless drive for excellence, I am eager to take on new opportunities as a software engineer.
+
+Education:
+Bachelor's Degree in Computer Science, Sunshine State University, Jacksonville, Florida
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Bytebound Technologies, Jacksonville, FL
+- Developed robust and scalable software solutions using Java, ensuring efficient error tracking and secure payment processing.
+- Managed NoSQL databases, optimizing data storage and retrieval for seamless integration with software applications.
+
+Software Engineer Intern, ByteBusters Inc., Jacksonville, FL
+- Utilized Python programming to debug and enhance ecommerce software, streamlining various processes for improved efficiency.
+- Utilized SQL for database management and implemented automated testing procedures to ensure software quality.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate, Tech for All Initiative, Jacksonville, FL
+- Active participant in initiatives aimed at promoting diversity and inclusion in the tech industry, including mentoring and organizing workshops for underrepresented groups.
+- Served as a sports team leader in soccer, fostering a supportive environment for diverse members and facilitating skill development in the sport.
+
+Hobbies:
+- Playing the piano, expressing creativity through music
+- Actively participating in cultural events that celebrate diversity and promote cultural exchange
+
+Languages:
+- English (Native)
+- Spanish (Fluent)

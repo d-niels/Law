@@ -1,0 +1,45 @@
+Dhruv Tiwari
+Dallas, Texas | (123) 456-7890 | dhruv.tiwari@email.com
+
+Personal Statement:
+Highly skilled and detail-oriented software engineer with a passion for developing innovative solutions. Committed to delivering top-quality software products by utilizing strong problem-solving skills and a deep understanding of programming languages and database technologies. Dedicated to continuous learning, I thrive in a fast-paced and collaborative environment, working effectively both individually and as part of a team.
+
+Education:
+Bachelor of Science in Computer Science
+ABC University, Dallas, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | StellarSoft Technologies | Dallas, Texas | May 2018 - Present
+- Collaborated with a cross-functional team to design, develop, and implement automated testing frameworks, improving testing efficiency by 40%.
+- Utilized NoSQL databases for data modeling, retrieval, and management, optimizing database performance.
+- Employed strong debugging skills to identify and resolve software defects, ensuring high-quality deliverables.
+- Contributed to the development of an ecommerce platform, resulting in a seamless and user-friendly online shopping experience.
+
+Software Developer | FusionTech Solutions | Dallas, Texas | January 2017 - April 2018
+- Developed Java applications for error tracking and monitoring, significantly reducing system downtime.
+- Constructed SQL queries and performed database optimization to enhance system performance.
+- Utilized Python for data analysis and processing, improving the accuracy of secure payment transactions.
+- Assisted in the development of secure payment gateways, ensuring compliance with industry standards.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Co-founded and led the ABC University Indian Student Association, fostering cultural exchange and providing support for Indian students.
+- Served as a team captain and leader for the university's intramural soccer team, promoting teamwork, discipline, and sportsmanship within the diverse community.
+
+Hobbies:
+- Playing the Tabla, a traditional Indian percussion instrument.
+- Exploring different cultures through travel and connecting with diverse communities.
+- Engaging in outdoor activities like hiking and cycling.
+
+Languages:
+Fluent in English and Hindi.
+
+References:
+Available upon request.

@@ -1,0 +1,43 @@
+Personal Statement:
+
+Driven and creative software engineer dedicated to developing innovative solutions. I am passionate about utilizing my diverse background, strong technical skills, and natural problem-solving abilities to contribute to cutting-edge software applications. With expertise in programming languages and database technologies, I am excited to excel as a software engineer.
+
+Education:
+
+Bachelor of Science in Computer Science, ZYX University, Baltimore, Maryland (GPA: 3.9/4.0)
+
+Work Experience:
+
+Software Engineer, InnovateTech Solutions, Baltimore, Maryland
+- Developed and implemented an ecommerce platform using Java and Python, ensuring secure payments and error tracking
+- Conducted thorough debugging to identify and resolve software issues efficiently
+- Collaborated with multidisciplinary teams to optimize performance and enhance user experience
+
+Software Developer, AdvancedData Systems, Baltimore, Maryland
+- Utilized SQL and NoSQL databases to design and deploy customized solutions, enhancing data management and system efficiency
+- Developed automated testing scripts in Java to ensure software quality and reliability
+- Actively contributed to debugging and troubleshooting software issues
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+- Active member of Tech Diversity Alliance, advocating for diversity and inclusion in the tech industry
+- Served as a mentor for underrepresented minority students pursuing careers in software engineering
+- Led as the team captain for the city's basketball league, fostering teamwork and discipline
+
+Hobbies:
+
+- Playing the piano and composing music
+- Exploring diverse cultures through travel and art
+- Engaging in community service initiatives focused on empowering marginalized communities
+
+Languages:
+
+- Proficient in English and French

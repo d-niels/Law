@@ -1,0 +1,36 @@
+Xyla Nolan
+
+Personal Statement:
+Driven software engineer with a passion for creating efficient and innovative solutions. Committed to delivering quality code and continuously improving software systems. Dedicated to promoting diversity and leadership within the tech industry, with a keen interest in sports and music.
+
+Education:
+Bachelor of Science in Computer Science - Silicon Valley University, San Jose, CA
+
+Work Experience:
+Software Engineer - ByteTech Solutions, Mountain View, CA
+- Debugged and resolved issues related to secure payments and error tracking, ensuring smooth transaction processes.
+- Implemented Python scripts to automate daily tasks, improving operational efficiency by 30%.
+
+Software Developer - Aurora Labs, Palo Alto, CA
+- Utilized NoSQL databases and Java programming to develop an ecommerce platform, facilitating seamless online transactions.
+- Conducted automated testing and performed rigorous code reviews, resulting in a 25% reduction in application bugs.
+- Collaborated with cross-functional teams to optimize SQL queries, improving database performance by 20%.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion within the tech industry, organizing panel discussions and workshops on gender and racial equality.
+- Served as a team captain in basketball, leading the team to regional championships and mentoring younger players.
+
+Hobbies:
+- Playing the guitar and piano
+- Exploring different cultures through art and music
+- Engaging in community projects that empower underrepresented individuals
+
+Languages:
+- Fluent in English and Spanish

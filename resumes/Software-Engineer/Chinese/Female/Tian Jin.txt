@@ -1,0 +1,39 @@
+Personal Statement:
+I am a passionate and driven software engineer with a strong background in computer science. As a Chinese female raised in San Diego, California, I bring a unique perspective to my work, combining technical expertise with diverse perspectives. I am constantly seeking new challenges and opportunities to contribute to the field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science, San Francisco Tech University, San Francisco, CA
+GPA: 3.9
+
+Work Experience:
+Software Engineer - Zenith Software Solutions, San Diego, CA
+- Developed automated testing scripts, ensuring product stability and quality
+- Utilized NoSQL databases for efficient data storage and retrieval
+- Programmed in Python to build efficient and scalable systems
+- Employed debugging techniques to identify and resolve software issues
+
+Software Engineer Intern - NovaTech Solutions, Los Angeles, CA
+- Utilized SQL to design and implement efficient and secure databases
+- Tracked and resolved errors in software systems, ensuring smooth operations
+- Gained experience in e-commerce platforms and secure payment gateways
+- Developed software solutions using Java and maintained high code quality standards
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership - San Diego Chinese Women's Association Basketball Team
+- Led a team of basketball athletes, promoting teamwork and discipline
+- Organized sports events and tournaments to foster a sense of community
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures through travel and language learning
+- Participating in local community events that highlight diversity and inclusion
+
+Languages:
+Fluent in English and Mandarin Chinese

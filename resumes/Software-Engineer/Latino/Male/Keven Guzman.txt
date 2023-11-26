@@ -1,0 +1,47 @@
+Keven Guzman
+
+Los Angeles, California | kevenguzman@email.com | (555) 123-4567
+
+Personal Statement:
+Ambitious and forward-thinking software engineer with a relentless drive to create cutting-edge solutions. Leveraging a strong academic background in computer science, I am dedicated to developing impactful software applications. As a Latino male, I bring a unique perspective and strive to promote diversity and representation in the tech industry. I am seeking a software engineer role where I can apply my skills, contribute to innovation, and foster an inclusive work environment.
+
+Education:
+Bachelor of Science in Computer Science – California State University, Los Angeles
+Los Angeles, California | GPA: 3.9 | Graduation Date: May 20XX
+
+Work Experience:
+Software Engineer - NovaTech Solutions
+Los Angeles, California | May 20XX - Present
+- Successfully implemented a highly scalable NoSQL database system for an advanced e-commerce platform, ensuring secure payments and streamlined data querying.
+- Collaborated with cross-functional teams to diagnose and debug software anomalies, ensuring uninterrupted functionality and optimal user experience.
+
+Software Developer - StellarSoft Innovations
+Los Angeles, California | August 20XX - April 20XX
+- Led error tracking and resolution efforts, utilizing state-of-the-art tools and agile methodologies to identify and rectify software bugs promptly.
+- Developed software modules using Java, Python, and SQL to enhance system performance and functionality.
+- Conducted comprehensive automated testing, ensuring the reliability and accuracy of software modules.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Engineering Society (LES) - Member
+Los Angeles, California | 20XX - Present
+- Actively contribute to LES initiatives focused on promoting diversity and inclusion in engineering and computer science.
+- Organize workshops and mentorship programs to inspire underrepresented students to pursue careers in technology.
+
+Sports Leadership Role:
+Soccer Team Captain
+Los Angeles, California | 20XX - 20XX
+- Demonstrated exceptional leadership skills as the captain of the university's soccer team.
+- Led team practices, developed strategic game plans, and fostered a cohesive and supportive team culture.
+
+Hobbies:
+Playing the piano, participating in cultural events celebrating Latino heritage, exploring diverse literature, and keeping abreast of the latest technological advancements.
+
+Languages:
+Fluent in English and Spanish.

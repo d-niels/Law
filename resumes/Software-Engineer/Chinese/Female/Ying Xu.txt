@@ -1,0 +1,49 @@
+YING XU
+
+Software Engineer
+
+Personal Statement:
+Results-driven and highly motivated Software Engineer with a strong background in computer science. Passionate about leveraging technology to create innovative solutions and enhance user experiences. Committed to delivering high-quality code and working collaboratively in cross-functional teams. Thrives in fast-paced environments and excels at problem-solving. Looking to contribute expertise and drive success as a Software Engineer.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, Honolulu, HI
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern, Eureka Technologies, Honolulu, HI
+- Implemented Python scripts for automated testing, significantly reducing testing time.
+- Debugged and resolved software issues using various debugging tools.
+- Collaborated with a team of developers to enhance software performance.
+- Utilized Java for software development, ensuring high code quality.
+
+Software Engineer, Acme Payments, Honolulu, HI
+- Developed and maintained secure payment systems for e-commerce platforms.
+- Managed error tracking and resolution, ensuring smooth operation of payment services.
+- Utilized SQL and NoSQL databases for efficient data storage and retrieval.
+- Collaborated with cross-functional teams to design and implement solutions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Board Member, Chinese American Engineers Association (CAEA)
+- Actively involved in promoting diversity and inclusion in the engineering field.
+- Organized events and programs to encourage interest in STEM among underrepresented groups.
+- Served as a youth mentor, providing guidance and support to aspiring engineers.
+
+Sports Leadership – Team Captain, XYZ University Volleyball Team
+- Demonstrated leadership skills by captaining the university's volleyball team.
+- Organized team training sessions and facilitated effective teamwork.
+- Led the team to regional championships in two consecutive years.
+
+Hobbies:
+- Playing the traditional Chinese instrument, Pipa
+- Exploring cultures and history through travel
+- Participating in hackathons and coding competitions to enhance skills
+
+Languages:
+- Fluent in Mandarin Chinese and English

@@ -1,0 +1,36 @@
+Bryant Matthews
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a passion for problem-solving and creating efficient solutions. Seeking a challenging role where I can leverage my skills in programming, database technologies, and testing to contribute to the development of innovative software applications. As a dedicated professional, I am committed to delivering high-quality work while continuously expanding my knowledge in the field.
+
+Education:
+Bachelor of Science in Computer Science, XYZ Institute of Technology, Detroit, Michigan
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, RhythmSoft, Detroit, Michigan
+- Utilized Python to develop and maintain automated testing frameworks, ensuring the efficiency and accuracy of software products.
+- Successfully implemented SQL database systems for an e-commerce platform, optimizing data management processes and enhancing user experience.
+
+Software Engineer Intern, Infotech Innovations, Detroit, Michigan
+- Collaborated with a team of developers to track and troubleshoot errors, leveraging skills in error tracking and debugging to enhance software functionality.
+- Developed secure payment systems by utilizing NoSQL database technologies and implementing industry-standard encryption techniques.
+- Utilized Java to enhance and maintain existing software applications, ensuring optimal performance and scalability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Proud member of the National Society of Black Engineers, actively promoting diversity and inclusion within the tech industry.
+- Served as a mentor and leader in a soccer program for underprivileged youth in Detroit, inspiring them to excel both on and off the field.
+
+Hobbies:
+- Playing the saxophone, delighting in the smooth jazz tones and melodies.
+- Exploring different cultures and traditions, fostering a deep appreciation for the beauty of diversity and multiculturalism.
+
+Languages:
+- Fluent in English and Spanish

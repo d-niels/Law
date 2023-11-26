@@ -1,0 +1,42 @@
+Guang O
+
+Personal Statement:
+As a driven and dedicated software engineer, I am committed to leveraging my strong technical skills and problem-solving abilities to create innovative solutions in the field of software development. With a solid academic background, practical work experiences, and a passion for coding, I am confident in my ability to contribute effectively to any software engineering team.
+
+Education:
+Bachelor of Science in Computer Science, Pacific University, Honolulu, Hawaii (GPA: 3.9)
+
+Work Experience:
+Software Engineer - Innovex Technologies, Honolulu, Hawaii
+- Utilized SQL and NoSQL databases to design and implement scalable e-commerce solutions
+- Developed efficient and robust Python scripts to automate various business processes
+- Worked closely with cross-functional teams to ensure seamless integration of software components
+- Collaborated with clients to gather requirements and deliver customized software solutions
+
+Software Engineer - Quantum Solutions, Honolulu, Hawaii
+- Implemented secure payments system, utilizing Java and automated testing techniques
+- Conducted detailed debugging and error tracking to identify and resolve software issues
+- Collaborated with team members to develop and optimize code for improved performance
+- Assisted in the development of user-friendly software interfaces and integrated third-party APIs
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteered as a mentor for underprivileged youth, leveraging my Chinese background to provide cultural guidance and mentorship
+- Led a basketball team as a captain, fostering teamwork, discipline, and dedication within a diverse group of athletes
+- Organized and facilitated tech workshops promoting diversity and inclusion in the industry
+
+Hobbies:
+- Playing the erhu, a traditional Chinese instrument
+- Exploring different cultures through literature and music
+- Regularly participating in community basketball leagues
+
+Languages:
+Fluent in English and Mandarin Chinese
+
+I am confident that my proficiency in various programming languages, strong problem-solving skills, and dedication to promoting diversity will make me a valuable asset to any software engineering team. Thank you for considering my application.

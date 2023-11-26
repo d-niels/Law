@@ -1,0 +1,43 @@
+Whitney Baker
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a strong foundation in computer science. Dedicated to designing and developing innovative software solutions that meet both user and business needs. Committed to continuous learning and keeping up with the latest industry trends. Skilled at collaborating with cross-functional teams to deliver exceptional results.
+
+Education:
+Bachelor of Science in Computer Science, Indianapolis University, Indianapolis, IN
+- Graduated with a GPA of 3.9
+- Relevant coursework: Data Structures, Algorithms, Software Engineering, Operating Systems, Database Systems
+
+Work Experience:
+Software Engineer, TechnoByte Solutions, Indianapolis, IN
+- Conducted error tracking to identify and resolve software issues promptly
+- Developed secure payment gateway for an e-commerce platform, ensuring data privacy and transaction security
+- Utilized SQL to retrieve and manipulate data for reporting purposes, optimizing database performance
+- Collaborated with cross-functional teams to ensure successful project completion within timelines
+
+Software Developer, CodeFusion Labs, Indianapolis, IN
+- Worked with NoSQL databases to enhance data processing efficiency and scalability
+- Debugged complex software systems to ensure optimal performance and eliminate critical issues
+- Developed applications using Java and Python programming languages, leveraging their unique capabilities
+- Implemented automated testing to streamline software quality assurance processes, improving overall product quality
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer at Girls Who Code, empowering young women in technology and promoting diversity and inclusion in the field
+- Sports Leadership Role: Captain of the Indianapolis University soccer team, fostering teamwork, discipline, and leadership among a diverse roster
+
+Hobbies:
+- Playing the piano, a passionate way to express creativity and emotions
+- Participating in local art exhibitions, celebrating artistic expression and diverse cultures through various mediums
+- Exploring multicultural literature and traveling to immerse in different traditions, broadening cultural understanding and appreciation
+
+Languages:
+- Fluent in English and Spanish
+
+References available upon request.

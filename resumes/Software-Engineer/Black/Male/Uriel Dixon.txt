@@ -1,0 +1,51 @@
+Uriel Dixon
+
+Personal Statement:
+Dedicated and highly motivated software engineer with a strong passion for developing innovative solutions. Committed to leveraging programming skills and problem-solving abilities to tackle complex challenges in the field. Possesses a Bachelor's degree in Computer Science with a 3.9 GPA from the University of Miami. Excited to utilize expertise in software engineering to drive technological advancements and deliver high-quality products.
+
+Education:
+Bachelor of Science in Computer Science
+University of Miami, Miami, FL
+GPA: 3.9/4.0
+Relevant coursework: Data Structures, Algorithms, Software Engineering, Web Development, Artificial Intelligence
+
+Work Experience:
+Software Engineer Intern
+GenTech Solutions, Jacksonville, FL
+May 20XX - Aug 20XX
+- Collaborated with cross-functional teams to develop and maintain an innovative ecommerce platform.
+- Utilized error tracking and debugging tools to identify and resolve software issues, ensuring a seamless user experience.
+- Worked with SQL databases to implement efficient and optimized data storage and retrieval systems.
+
+Software Developer
+InnovatePay Systems, Jacksonville, FL
+Sept 20XX - Present
+- Developed secure payment applications using Java, ensuring the privacy and integrity of customer transactions.
+- Utilized NoSQL databases to enhance performance and scalability of data storage.
+- Implemented automated testing frameworks to streamline quality assurance processes and reduce software bugs.
+- Leveraged Python for scripting tasks and automation, improving overall development efficiency.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Basketball Leadership Role - Team Captain
+Jacksonville Youth Basketball League, Jacksonville, FL
+Jan 20XX - Present
+- Mentor and lead a diverse team of basketball players, fostering teamwork, discipline, and skill development.
+- Inspire and motivate fellow black students to excel in the sport, promoting diversity and representation in basketball.
+
+Hobbies:
+- Playing the saxophone
+- Exploring diverse cultural art forms and attending exhibitions
+- Engaging in community initiatives that promote diversity and inclusion
+
+Languages:
+English (Fluent)
+Spanish (Conversational)
+
+References available upon request.

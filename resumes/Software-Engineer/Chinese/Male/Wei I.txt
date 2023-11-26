@@ -1,0 +1,43 @@
+Personal Statement:
+I am Wei I, a highly motivated and dedicated software engineer with a passion for creating efficient and impactful solutions. With a strong background in computer science and a keen eye for detail, I strive to make a positive impact in the software development industry. Being a Chinese male from Honolulu, Hawaii, I bring a unique perspective to the table, combining diverse cultural influences with my technical expertise. I am committed to continuous learning and innovation, seeking new challenges to enhance my skills and contribute to the advancement of technology.
+
+Education:
+Bachelor of Science in Computer Science, Pacific University (Honolulu, Hawaii)
+- Graduated with a 3.9 GPA, [Year]
+
+Work Experience:
+Software Engineer, Quantum Innovations (Honolulu, Hawaii)
+[Dates]
+- Developed Python-based automated testing frameworks to ensure the quality and efficiency of e-commerce applications, resulting in a 20% reduction in software bugs.
+- Utilized SQL to analyze and optimize database queries, improving system performance by 25% and reducing response time.
+- Collaborated with cross-functional teams to design and implement secure payment solutions, ensuring transaction integrity and data encryption.
+
+Software Engineer Intern, StellarTech Solutions (Honolulu, Hawaii)
+[Dates]
+- Implemented NoSQL databases for error tracking systems, improving debugging efficiency by 30% and reducing downtime.
+- Utilized Java and debugging tools to diagnose and resolve software issues, enhancing overall software reliability.
+- Developed secure payment modules, incorporating advanced encryption techniques to protect sensitive customer information.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Cultural Ambassador, Chinese Cultural Society, Pacific University
+- Organized and led cultural events, promoting understanding and appreciation of Chinese traditions and heritage within the campus community.
+- Sports Leadership Role: Captain, Pacific University Tennis Team
+- Led a team of dedicated players, overseeing practices and strategizing game plans to achieve championship titles in the university sports league.
+
+Hobbies:
+- Playing the guzheng (traditional Chinese instrument) and experimenting with blending traditional melodies into contemporary compositions.
+- Exploring various cultures through reading, visiting art exhibitions, and traveling to experience different traditions firsthand.
+- Actively involved in promoting gender equality and diversity in the tech industry, leveraging mentorship and advocacy initiatives to drive positive change.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References available upon request.

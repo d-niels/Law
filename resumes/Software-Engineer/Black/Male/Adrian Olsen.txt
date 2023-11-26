@@ -1,0 +1,35 @@
+Personal Statement:
+Driven and dedicated software engineer with a passion for problem-solving and innovative solutions. I possess a solid foundation in computer science and a proven track record of developing high-quality software. Committed to continuous learning, I thrive in dynamic environments and enjoy collaborating with diverse teams to deliver exceptional results. I am now seeking a challenging software engineering role to apply my skills and contribute to the advancement of cutting-edge technologies.
+
+Education:
+Bachelor of Science in Computer Science
+ABC University, Charlotte, North Carolina
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Stellar Tech Innovations, Charlotte, NC
+- Developed secure payment applications using Python, ensuring seamless and trustworthy transactions for clients.
+- Performed rigorous debugging and implemented automated testing methods to identify and resolve software issues, leading to enhanced performance and reliability.
+- Collaborated with cross-functional teams to deliver scalable solutions and streamline the payment processing workflow.
+
+Software Engineering Intern, Quantum Surge Solutions, Charlotte, NC
+- Contributed to the development of Java-based e-commerce applications, enabling efficient online transactions.
+- Implemented error tracking systems and utilized NoSQL and SQL databases to optimize application functionality and data management.
+- Collaborated with senior engineers to design and develop new features, enhancing user experience and system stability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As an African American male, I am deeply committed to promoting diversity and inclusion within the tech industry. I actively volunteer as a mentor, supporting underrepresented minorities in pursuing careers in STEM. Additionally, I serve as a team leader for an intramural basketball team, fostering teamwork and encouraging sportsmanship among a diverse group of players.
+
+Hobbies:
+In my leisure time, I find solace in playing the piano, using its harmonies to create a world of melodies and emotions. Embracing my love for storytelling, I also engage in creative writing, exploring various genres and nurturing my imagination. Furthermore, I actively participate in organizations and events that celebrate diversity and social equality.
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)

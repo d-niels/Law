@@ -1,0 +1,37 @@
+Abigail Dixon
+
+Personal Statement:
+A highly motivated and skilled software engineer with a passion for problem-solving and creating innovative solutions. With a strong educational background in computer science and practical experience in both Python and Java, I am excited to contribute my technical expertise to a dynamic software engineering role. Committed to continuous learning and professional growth, I thrive in collaborative environments and am dedicated to delivering high-quality code efficiently.
+
+Education:
+Bachelor of Science in Computer Science, Phoenix University, Phoenix, Arizona
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, StellarTech Systems, Phoenix, Arizona
+- Developed and maintained Python-based applications for error tracking and resolution in e-commerce platforms
+- Utilized NoSQL databases to optimize data storage and retrieval processes
+- Collaborated with cross-functional teams to ensure seamless integration and implementation of software solutions
+
+Software Engineer, Quantum Solutions, Phoenix, Arizona
+- Contributed to the development of secure payment systems using SQL and Java
+- Implemented automated testing protocols to ensure robust code quality
+- Conducted rigorous debugging and troubleshooting activities, resulting in the identification and resolution of system issues
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white female software engineer, I actively engage in efforts to encourage diversity and promote inclusivity in the tech industry. I volunteer with local organizations, providing mentorship and guidance to aspiring female software engineers. Additionally, I serve as a team captain and leader in the sport of basketball, fostering teamwork, perseverance, and confidence in young female athletes.
+
+Hobbies:
+- Playing the guitar
+- Engaging in various outdoor activities, such as hiking and snowboarding
+- Exploring different cultures and traditions through travel, literature, and music
+
+Languages:
+- Fluent in English and Spanish

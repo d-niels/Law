@@ -1,0 +1,42 @@
+Natalie Iglesias
+
+Personal Statement:
+Driven by my passion for creative problem-solving and innovation, I am a highly skilled software engineer dedicated to designing and developing robust and scalable solutions. As a Latina woman hailing from the vibrant city of Albuquerque, New Mexico, I am committed to promoting diversity and empowering underrepresented individuals in the tech industry. With a strong background in computer science and a focus on software engineering, I am excited to contribute my skills and contribute to building inclusive and groundbreaking technologies.
+
+Education:
+Bachelor of Science in Computer Science, Southwest Technical University, Albuquerque, NM
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, StellarSoft Corporation, Albuquerque, NM
+- Developed cutting-edge, secure payment systems for e-commerce platforms utilizing Python and NoSQL databases.
+- Collaborated with cross-functional teams to integrate features and ensure seamless end-to-end solutions.
+- Implemented industry-leading security standards to safeguard sensitive customer data.
+
+Software Engineer, Zenith Technologies, Santa Fe, NM
+- Utilized Java and SQL to debug and track errors, improving the reliability and performance of software systems.
+- Designed and implemented automated testing frameworks to ensure software quality and stability.
+- Served as a technical liaison, working closely with clients to understand their requirements and deliver tailored solutions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Tech Diversity Initiative, Albuquerque, NM
+- Actively organized and facilitated workshops and events promoting diversity and inclusion in the tech industry.
+- Mentored and provided guidance to underrepresented students, inspiring them to pursue careers in software engineering.
+- Served as a role model and leader in the field of [pick a sport] to encourage young girls in combining their passion for sports and technology.
+
+Hobbies:
+- Energetically playing the drums, enabling me to unleash my creativity and rhythm.
+- Exploring local art exhibitions and museums, drawing inspiration from diverse cultures and artistic expressions.
+- Engaging in outdoor activities like hiking and rock climbing, staying active and embracing the beauty of nature.
+
+Languages:
+- Fluent in English and Spanish.
+
+References available upon request.

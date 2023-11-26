@@ -1,0 +1,45 @@
+Personal Statement:
+As a passionate and dedicated software engineer, I am thrilled to apply my skills and knowledge to contribute to the dynamic world of technology. With a strong background in computer science and a drive to make a difference, I am confident in my ability to excel in the role of a software engineer. As a Latina female from Las Vegas, Nevada, I understand the importance of diversity and inclusivity in the tech industry and am eager to bring my unique perspective to the table.
+
+Education:
+Bachelor of Science in Computer Science, University of Nevada, Las Vegas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - TruTech Solutions, Las Vegas, NV
+- Utilized SQL and Python to develop and maintain efficient and scalable ecommerce solutions.
+- Conducted error tracking and debugging to identify and resolve issues in the software.
+- Collaborated with cross-functional teams to ensure seamless integration of new features.
+- Assisted in the development of user-friendly interfaces for a smooth end-user experience.
+
+Lead Software Engineer - Innovage Technologies, Las Vegas, NV
+- Specialized in secure payment systems by leveraging Java and NoSQL databases.
+- Designed and implemented software solutions for processing secure payments.
+- Conducted rigorous debugging and automated testing to ensure high-quality code.
+- Mentored junior engineers in debugging techniques and best practices.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity in Tech - Volunteer
+- Co-founded and led a diversity in tech group at the University of Nevada, Las Vegas.
+- Organized workshops, panel discussions, and mentorship programs to empower and support individuals from underrepresented communities.
+- Advocated for diversity and inclusivity in the tech industry by participating in conferences and networking events.
+
+Sports Leadership - Soccer Team Captain
+- Demonstrated leadership skills as the captain of a local soccer team.
+- Organized team practices, fostered team spirit, and coordinated game strategies.
+- Led the team to several victories, emphasizing the importance of teamwork and perseverance.
+
+Hobbies:
+- Playing the piano: I find joy in expressing myself through music and continuously challenge myself to learn new pieces.
+- Exploring diverse cultures: Being a Latina, I have a deep appreciation for different cultures and enjoy immersing myself in their traditions and histories.
+
+Languages:
+- English (fluent)
+- Spanish (fluent)

@@ -1,0 +1,42 @@
+Rachel Mitchell
+
+Personal Statement:
+Highly motivated and dedicated software engineer with a passion for creating efficient and innovative software solutions. Committed to delivering high-quality code and continuously improving user experiences. Strong problem-solving skills and a proven track record of success in software development. Excited to contribute my skills and knowledge to a dynamic and challenging role as a software engineer.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Jose, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechGenius Solutions, Mountain View, CA
+- Developed and maintained SQL-based e-commerce platforms, enhancing overall system performance by 20%
+- Diagnosed and resolved complex issues, utilizing cutting-edge debugging tools
+- Collaborated with cross-functional teams to integrate Python-based solutions into existing systems
+
+Software Development Intern, InnovateTech, Palo Alto, CA
+- Utilized Java for automated testing, resulting in a 50% reduction in testing time
+- Implemented secure payment integrations, ensuring seamless and secure transactions
+- Utilized NoSQL databases to facilitate error tracking and resolution
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Silicon Valley Girls Who Code
+- Mentored young girls from diverse backgrounds in computer programming
+- Encouraged diversity and inclusivity in the tech industry
+
+Basketball Team Captain, Silicon Valley Women's Basketball Association
+- Led the team to multiple championship victories as the captain
+- Developed leadership, teamwork, and communication skills in a competitive sports environment
+
+Hobbies:
+Playing the piano, actively participating in cultural events, and traveling to explore new cultures and traditions. Fluent in English and Spanish.
+
+Languages:
+- English (Fluent)
+- Spanish (Fluent)

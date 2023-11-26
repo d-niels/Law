@@ -1,0 +1,39 @@
+Personal Statement:
+As a Latino male hailing from El Paso, Texas, I bring a unique perspective to the field of software engineering. With a passion for problem-solving and a strong background in computer science, I am eager to leverage my skills in Java, Python, and other languages to create innovative software solutions. I am highly motivated, detail-oriented, and thrive in fast-paced environments. My diverse background and strong technical foundation make me a valuable asset to any software engineering team.
+
+Education:
+Bachelor of Science in Computer Science
+Tech Solutions University, El Paso, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - NovaTech Solutions, El Paso, Texas
+- Utilized SQL and automated testing to improve the quality and reliability of software systems.
+- Developed and debugged Java applications, ensuring seamless functionality.
+- Collaborated with cross-functional teams to identify and resolve software issues.
+- Improved overall software efficiency by implementing advanced debugging techniques.
+
+Software Developer - CyberTech Innovations, El Paso, Texas
+- Developed and maintained NoSQL databases for efficient data storage and retrieval.
+- Utilized Python to create secure payment systems for ecommerce platforms.
+- Integrated advanced error tracking systems to quickly identify and resolve software issues.
+- Played a critical role in enhancing the functionality and customer experience of ecommerce platforms.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry, particularly within the Latino community.
+- Served as a Sports Leadership Committee member, leading initiatives to increase participation of Latino youth in basketball.
+
+Hobbies:
+- Playing the guitar and piano, infusing my Hispanic heritage into my musical compositions.
+- Celebrating and participating in cultural festivals that showcase our rich Latino traditions.
+- Staying active through basketball, using it as a platform to mentor and inspire young athletes.
+
+Languages:
+- Fluent in English and Spanish, facilitating effective communication within diverse teams.

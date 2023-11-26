@@ -1,0 +1,40 @@
+Personal Statement:
+I am an ambitious and motivated software engineer with a passion for creating innovative solutions. As a black female from Chicago, Illinois, I am committed to breaking barriers and promoting diversity in the tech industry. With a strong educational background in computer science, I possess a solid foundation in programming languages and database technologies. I excel in problem-solving and have a keen eye for debugging and testing. Through my volunteer and leadership experiences, I strive to empower underrepresented groups and promote inclusive environments. When I'm not coding, you can find me playing the piano and excelling as a team leader in basketball. I am excited to leverage my skills and experiences to contribute to the success of your team as a software engineer.
+
+Education:
+Bachelor of Science in Computer Science, Stellar University, Chicago, Illinois
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, InnovX Solutions, Chicago, Illinois
+- Utilized NoSQL and SQL databases to optimize ecommerce applications.
+- Conducted effective debugging and resolved technical issues to ensure smooth operations.
+- Actively participated in the development and implementation of secure payment systems.
+- Collaborated with cross-functional teams to deliver high-quality software solutions.
+
+Software Developer, Quantum Technologies, Chicago, Illinois
+- Implemented error tracking and automated testing techniques to ensure software reliability.
+- Contributed to the development of secure payment processing systems using Python and Java.
+- Collaborated with team members to improve code quality and efficiency.
+- Utilized Git for efficient source control management.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry as a black female software engineer.
+- Served as a team leader in basketball, fostering teamwork and resilience in the group.
+- Engaged in community initiatives to encourage underrepresented individuals to pursue careers in technology.
+
+Hobbies:
+- Playing the piano
+- Engaging in basketball leadership roles
+- Participating in cultural events celebrating diversity
+
+Languages:
+- English (Fluent)
+- [Add other languages if applicable]

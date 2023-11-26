@@ -1,0 +1,53 @@
+Resume
+
+Personal Statement:
+Passionate and dedicated software engineer with a strong background in computer science. I have a proven track record of delivering high-quality applications while being highly proficient in various programming languages and database technologies. As a black female in the tech industry, I am committed to driving diversity and inclusion, both in my work and through my volunteer and leadership roles.
+
+Education:
+Bachelor of Science in Computer Science
+Philadelphia University, Philadelphia, Pennsylvania
+GPA: 3.9
+
+Work Experience:
+Software Engineer Intern
+Innovatix Solutions, Philadelphia, Pennsylvania
+- Conducted error tracking and debugging to identify and resolve software issues
+- Developed solutions using Python programming language
+- Utilized SQL to manipulate and analyze data
+
+Software Engineer
+Arcadia Technologies, Philadelphia, Pennsylvania
+- Implemented and maintained an ecommerce platform, focusing on secure payments
+- Conducted automated testing and ensured system reliability
+- Utilized NoSQL databases for efficient data storage and retrieval
+- Developed applications using Java programming language
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate
+Tech for All, Philadelphia, Pennsylvania
+- Organized events promoting diversity in the tech industry
+- Mentored underrepresented individuals pursuing careers in technology
+- Spearheaded initiatives to increase awareness of gender and ethnic equality
+
+Sports Leadership
+Captain of the Women's Basketball Team
+Citywide Youth Sports League, Philadelphia, Pennsylvania
+- Led and inspired the team to excel on and off the court
+- Coached and mentored younger players
+- Played an instrumental role in winning the regional championship
+
+Hobbies:
+- Playing the violin
+- Exploring various cultures through travel
+- Reading literature on women's rights and civil rights movements
+
+Languages:
+- Fluent in English
+- Conversational in French

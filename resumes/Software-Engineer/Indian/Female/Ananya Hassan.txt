@@ -1,0 +1,39 @@
+Ananya Hassan
+Houston, Texas | +1-123-456-7890 | ananya.hassan@email.com
+
+Personal Statement:
+A results-driven and detail-oriented Software Engineer with a deep passion for solving complex problems and creating efficient software solutions. With a Bachelor's degree in Computer Science from [Elite University], I have cultivated a strong foundation in programming languages and database technologies. Committed to delivering high-quality code and continuously expanding my knowledge, I am now seeking a challenging software engineering role to contribute to the development of innovative solutions.
+
+Education:
+Bachelor of Science in Computer Science, [Elite University], Houston, Texas
+- Graduated with a GPA of 3.9/4.0
+
+Work Experience:
+Software Engineer, NovaTech Solutions, Houston, Texas
+- Developed and maintained secure payment systems using SQL and automated testing techniques.
+- Utilized NoSQL databases to optimize data storage and retrieval efficiency.
+- Implemented testing strategies to ensure software reliability and functionality.
+
+Software Developer, Quantum Software Innovations, Houston, Texas
+- Contributed to the development and enhancement of an e-commerce platform using Python and Java.
+- Debugged issues and performed error tracking to resolve software defects promptly.
+- Collaborated with cross-functional teams to achieve project goals and deliver high-quality code.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity awareness and cultural exchange as a board member of the Asian Student Association.
+- Served as a Team Captain for the university's basketball team, fostering teamwork and sportsmanship within a multicultural environment.
+
+Hobbies:
+- Playing the guitar
+- Exploring diverse ethnic art and music
+- Embracing South Asian fashion and accessories
+
+Languages:
+Fluent in English and Hindi

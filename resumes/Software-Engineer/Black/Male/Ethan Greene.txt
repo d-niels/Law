@@ -1,0 +1,40 @@
+Ethan Greene
+
+Personal Statement:
+Driven and innovative Software Engineer with a deep passion for solving complex problems and creating efficient software solutions. Possesses excellent communication skills to effectively collaborate with cross-functional teams and deliver exceptional results. Committed to continuous learning and staying at the forefront of technological advancements. Excited to contribute expertise and drive growth as a software engineer.
+
+Education:
+Bachelor of Science in Computer Science, Magna Cum Laude
+Washington Metropolitan University, Washington, DC
+GPA: 3.9
+
+Work Experience:
+Software Engineer, QuantumTech Solutions, Washington, DC
+- Implemented error tracking and debugging techniques to identify and resolve software issues for diverse projects.
+- Developed robust software using Python and SQL to optimize database operations and enhance system performance.
+
+Software Development Intern, AstralSoft, Washington, DC
+- Collaborated with a dynamic team to build an advanced e-commerce platform focusing on secure payment methods.
+- Utilized Java and automated testing to ensure the integrity and reliability of the payment system.
+- Implemented NoSQL database technologies for efficient storage and retrieval of data.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in empowering the Black community as a member of the Black Student Union at Washington Metropolitan University.
+- Served as the team captain and mentor for a community basketball team, promoting teamwork, discipline, and leadership.
+
+Hobbies:
+- Showcasing his musical talents by playing the trumpet, expressing creativity and passion through music.
+- Participating in community basketball leagues as a player and mentor, fostering teamwork and leadership on the court.
+
+Languages:
+- Fluent in English
+- Conversational in French
+
+References available upon request.

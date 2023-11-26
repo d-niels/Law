@@ -1,0 +1,41 @@
+Personal Statement:
+I am an ambitious and dedicated software engineer, passionate about creating innovative solutions and leveraging technology to solve complex problems. With a bachelor's degree in computer science and a strong academic background, I am seeking a challenging position where I can contribute my skills and knowledge to contribute to the growth and success of a dynamic organization.
+
+Education:
+Bachelor of Science in Computer Science, Chicago Technical University, Chicago, Illinois
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, ByteCode Solutions, Chicago, Illinois (April 20XX – Present)
+- Utilized automated testing techniques to ensure the quality and reliability of software products.
+- Developed and maintained test scripts using Python, enhancing the efficiency of the testing process by 30%.
+- Troubleshot and debugged software issues, employing Java for efficient problem-solving.
+- Collaborated with cross-functional teams to identify and resolve defects, ensuring smooth software integration.
+
+Software Developer, CyberCommerce Systems, Chicago, Illinois (June 20XX – March 20XX)
+- Contributed to the development of an e-commerce platform while adhering to industry best practices.
+- Implemented error tracking mechanisms, resulting in a 20% reduction in software glitches.
+- Ensured secure payment processing by integrating payment gateways and implementing encryption protocols.
+- Utilized NoSQL and SQL databases to optimize data management and storage for the platform.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Chinese American Association (CAA), Chicago, Illinois (20XX – Present)
+- Actively involved in promoting Chinese culture and heritage within the local community.
+- Organized and led basketball programs, fostering teamwork and leadership skills among Chinese youths.
+- Assisted in organizing cultural events, showcasing traditional Chinese music and regional customs.
+
+Hobbies:
+- Playing the guzheng, a traditional Chinese musical instrument.
+- Learning and exploring different cultures, traveling, and embracing diversity.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+- Spanish (Working Proficiency)

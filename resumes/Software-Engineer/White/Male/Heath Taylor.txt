@@ -1,0 +1,44 @@
+Heath Taylor
+San Jose, California  |  Software Engineer
+
+Personal Statement:
+A driven and innovative software engineer with a passion for developing efficient solutions to complex problems. With expertise in programming languages such as Java, Python, and C#, I am committed to delivering high-quality software solutions. I thrive in collaborative environments and embrace challenges that allow me to utilize my analytical skills and debugging techniques to create impactful software applications.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+Golden Gate University, San Francisco, California
+
+Work Experience:
+
+Software Engineer, Synthex Solutions, San Jose, California
+- Developed and maintained Python-based applications for error tracking and analysis in an e-commerce platform
+- Implemented secure payment systems using cutting-edge encryption algorithms for enhanced transaction security
+
+Software Development Intern, Spectrum Tech, San Francisco, California
+- Utilized debugging techniques to identify and rectify issues in both NoSQL and SQL database systems
+- Conducted rigorous automated testing to ensure the stability and reliability of software applications
+- Collaborated with a team to develop Java-based software solutions for efficient resource management
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Sports Leadership Role, San Jose Sports Association
+- Led and coached a youth soccer team, promoting teamwork, discipline, and sportsmanship
+- Organized and managed soccer tournaments, fostering inclusivity and diversity within the sport
+
+Hobbies:
+- Playing the guitar and composing music
+- Exploring different cultures through travel
+- Engaging in social activism for gender equality and promoting diversity within the tech industry
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate)
+
+References available upon request.

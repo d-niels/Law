@@ -1,0 +1,37 @@
+Personal Statement:
+Motivated and detail-oriented software engineer with a passion for solving complex problems and creating efficient solutions. I thrive in fast-paced environments and continuously strive for excellence. My strong technical background, exceptional analytical skills, and dedication to continuous learning enable me to contribute to the success of any software development team.
+
+Education:
+Bachelor of Science in Computer Science, San Jose University, San Jose, CA (GPA: 3.9)
+- Relevant Coursework: Data Structures and Algorithms, Software Engineering, Database Systems, Operating Systems, Web Development
+
+Work Experience:
+Software Engineer - Innovix Technologies, San Jose, CA
+- Developed and maintained Python-based modules for error tracking and debugging, significantly improving the efficiency of identifying and resolving software issues.
+- Implemented Java solutions to enhance the performance and stability of the company's cutting-edge software products.
+- Collaborated closely with cross-functional teams to ensure seamless integration of new features and bug fixes.
+
+Software Engineering Intern - Caliber Solutions, San Francisco, CA
+- Conducted automated testing for a secure payments and e-commerce platform, ensuring the reliability and accuracy of the payment process.
+- Utilized NoSQL and SQL databases to optimize data storage and retrieval operations, resulting in improved system performance.
+- Assisted the team in identifying and fixing software defects and issues, contributing to the overall quality of the product.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion initiatives within the tech industry, with a focus on empowering and supporting underrepresented communities.
+- Served as a team captain for professional basketball, inspiring and leading a diverse group of individuals to excel in a highly competitive and challenging sport.
+
+Hobbies:
+- Playing the guitar, expressing creativity and allowing myself to unwind through the power of music.
+- Exploring various cultures and their traditions, fostering appreciation for diversity and cross-cultural understanding.
+
+Languages:
+- Bilingual: English (native), Spanish (proficient)
+
+References available upon request.

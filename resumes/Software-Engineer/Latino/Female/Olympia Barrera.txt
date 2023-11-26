@@ -1,0 +1,38 @@
+Personal Statement:
+Motivated and dedicated software engineer with a passion for solving complex problems through innovation and collaboration. With a strong background in computer science, I am eager to contribute my skills and expertise to a dynamic organization. As a Latina woman, I bring a unique perspective to software engineering and strive to inspire underrepresented individuals in the field. With my natural leadership abilities and love for [sport], I thrive in team environments and embrace challenges with a positive mindset.
+
+Education:
+Bachelor of Science in Computer Science - XYZ State University, Dallas, Texas
+- Graduated with a 3.9 GPA.
+
+Work Experience:
+Software Engineer - AlphaTech Solutions, Dallas, Texas
+- Utilized NoSQL, SQL, Java, and automated testing techniques to develop robust and scalable software solutions.
+- Collaborated with cross-functional teams to ensure software quality and adherence to project timelines.
+- Designed and implemented efficient database schemas, optimizing data storage and retrieval for multiple clients.
+
+Software Developer - Beta Systems, Dallas, Texas
+- Developed secure payment applications using Python, integrating error tracking systems for rapid issue identification and resolution.
+- Leveraged knowledge of eCommerce and debugging to enhance system performance and stability.
+- Collaborated with the team to identify and implement software improvements, resulting in increased efficiency and user satisfaction.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Society for Latino Professionals in Technology & Engineering (SOLPTECH), organizing events and workshops to promote diversity and provide resources for underrepresented individuals in the tech industry.
+- Team Captain of a local basketball league, leading a diverse group of athletes to multiple tournament victories. Fostered teamwork, discipline, and sportsmanship among teammates.
+
+Hobbies:
+- Playing the guitar and composing music that reflects my cultural heritage and personal experiences.
+- Engaging in community service initiatives, particularly those focused on empowering youths and promoting education.
+- Participating in cultural events and festivals celebrating diversity and bridging communities.
+
+Languages:
+- Fluent in English and Spanish, enabling effective communication with a diverse range of individuals.
+
+References available upon request.

@@ -1,0 +1,38 @@
+Personal Statement:
+Passionate software engineer with a strong background in computer science and a drive to create innovative solutions. Adept at problem-solving and collaborating with team members to deliver high-quality software applications. Committed to continuous learning and staying up-to-date with the latest technologies in the field. Eager to contribute technical expertise in a challenging software engineering role.
+
+Education:
+Bachelor of Science in Computer Science, Philadelphia Institute of Technology, Philadelphia, Pennsylvania
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Stellar Software Solutions, Philadelphia, Pennsylvania
+- Developed and maintained Java-based applications for advanced error tracking and reporting, ensuring swift identification and resolution of technical issues.
+- Collaborated with cross-functional teams to successfully integrate secure payment systems into existing platforms, ensuring adherence to industry standards and data security.
+- Demonstrated proficiency in Python, leveraging automation techniques to streamline processes and enhance operational efficiency.
+- Conducted thorough code reviews, offering valuable feedback and guidance to junior developers to foster their professional growth.
+
+Software Developer, NovaTech Solutions, Philadelphia, Pennsylvania
+- Spearheaded the development of cutting-edge ecommerce platforms, leveraging SQL database design, backend programming, and front-end optimization to deliver exceptional user experiences.
+- Implemented robust automated testing strategies to ensure software reliability and minimize human errors, enhancing product quality and user satisfaction.
+- Utilized NoSQL databases to optimize data storage and retrieval, improving overall performance and scalability.
+- Dedication to debugging led to swift resolution of software defects, ensuring seamless functionality and user satisfaction.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Future Leaders of Tomorrow, Philadelphia, Pennsylvania
+- Mentored and provided guidance to underprivileged youth, inspiring their interest in computer science and technology.
+- Served as a basketball coach and team leader, organizing and coaching basketball tournaments for young athletes, instilling teamwork and discipline.
+
+Hobbies:
+- Playing the saxophone
+- Participating in local community events that promote diversity and inclusion
+
+Languages:
+Fluent in English and proficient in Spanish

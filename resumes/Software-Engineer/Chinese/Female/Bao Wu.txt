@@ -1,0 +1,32 @@
+Personal Statement:
+I am a highly motivated and skilled software engineer with a passion for developing innovative solutions. With a strong academic background in computer science and hands-on experience in software development, I am confident in my ability to contribute effectively to any challenging project. As a Chinese female living in New York City, I am dedicated to promoting diversity and inclusivity in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, City Tech University (New York, NY)
+- GPA: 3.9
+
+Work Experience:
+Software Engineer Intern, ByteTech Industries (New York, NY)
+- Developed and implemented automated testing procedures to improve software quality and efficiency
+- Utilized error tracking systems to identify and resolve software issues effectively
+- Worked with NoSQL databases to handle high volumes of data efficiently
+- Created secure payment gateways to enhance the security and reliability of financial transactions
+
+Software Engineer, TechGenius Solutions (New York, NY)
+- Collaborated with cross-functional teams to develop and maintain scalable e-commerce applications
+- Utilized Java, Python, and SQL to develop robust and efficient software solutions
+- Debugged complex software issues and implemented effective solutions
+- Conducted comprehensive testing to ensure software functionality and performance
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a leader in the local basketball association, I mentor young players, fostering leadership and teamwork skills through the sport of basketball. I am also actively involved in organizing events and initiatives to promote diversity and inclusivity in the tech industry, creating equal opportunities for underrepresented groups.
+
+Hobbies:
+Playing the flute, learning different languages, and exploring cultures through art and music. Additionally, I enjoy hiking and engaging in outdoor activities to stay active and maintain a healthy lifestyle.

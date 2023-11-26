@@ -1,0 +1,33 @@
+Personal Statement:
+Darius Vaughn is a highly driven and dedicated software engineer from Columbus, Ohio. With a passion for technology and a commitment to excellence, he strives to push the boundaries of innovation. Darius's strong educational background, professional experience, and leadership skills make him a valuable asset in any software development team. 
+
+Education:
+Bachelor of Science in Computer Science, Columbus State University, Columbus, Ohio - GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, OmniTech Solutions, Columbus, Ohio
+- Developed highly secure payment systems, ensuring flawless transactions for millions of users
+- Utilized debugging techniques and problem-solving skills to analyze and resolve complex software issues
+- Expertly worked with SQL and Python to optimize database performance and enhance data analysis capabilities
+
+Software Engineer, NovaByte Technologies, Columbus, Ohio
+- Spearheaded the implementation of automated testing processes, resulting in improved software quality and efficiency
+- Utilized cutting-edge error tracking tools to identify and proactively address software issues
+- Leveraged NoSQL databases to develop scalable and robust ecommerce solutions
+- Developed software applications using Java, ensuring seamless user experience and high performance
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Darius Vaughn is dedicated to promoting diversity and inclusive practices in the tech industry. As a proud black male, he actively supports initiatives that champion the representation of underrepresented groups in the field. Darius has volunteered as a mentor and advocate for aspiring software engineers from diverse backgrounds, empowering them to pursue successful careers in technology. Additionally, Darius serves as a respected leader and mentor for young athletes in basketball, motivating them to excel both on and off the court.
+
+Hobbies:
+Darius has a passion for music and expresses his creativity by playing the piano. In his free time, he enjoys composing his own music and exploring different genres. He also actively participates in basketball leagues, engaging in friendly competition and fostering a sense of camaraderie among fellow players.
+
+Languages:
+English (Fluent), Spanish (Conversational)

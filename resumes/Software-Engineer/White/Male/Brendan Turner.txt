@@ -1,0 +1,42 @@
+Brendan Turner
+
+Personal Statement:
+Highly motivated and results-driven software engineer with a passion for excellence and a keen eye for detail. Committed to developing innovative and efficient solutions, I am dedicated to delivering top-notch products. With expertise in secure payments and ecommerce, I possess strong problem-solving and debugging skills. As a proud advocate for diversity and inclusion, I strive to create an inclusive environment in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science
+Silicon Valley University, San Francisco, California
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Cybertech Technologies, San Francisco, CA
+- Developed and implemented secure payment solutions for a cutting-edge ecommerce platform
+- Utilized Java and SQL to optimize performance and enhance functionality
+- Collaborated with cross-functional teams to seamlessly integrate new features
+- Conducted comprehensive testing and utilized debugging tools to identify and resolve issues
+
+Software Developer, InnovateSoft, Palo Alto, CA
+- Managed error tracking and resolution for a complex software system
+- Utilized Python and NoSQL database technology to improve data management and retrieval efficiency
+- Implemented automated testing to ensure high-quality code and minimize errors
+- Collaborated closely with developers and QA teams to identify and rectify bugs
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion initiatives within the tech community
+- Served as a captain and leader in a local soccer team, organizing practices and matches, fostering team spirit and sportsmanship
+
+Hobbies:
+- Playing acoustic guitar and experimenting with different musical genres
+- Engaging in cultural exchange activities, embracing diverse traditions and perspectives
+- Exploring various art forms, including drawing and painting
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate)

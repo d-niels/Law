@@ -1,0 +1,41 @@
+Personal Statement:
+
+Driven and innovative software engineer with a strong determination to create cutting-edge solutions. Skilled in secure payments, ecommerce, Java, Python, and other programming languages. Excellent debugging and problem-solving abilities, coupled with analytical skills. Constantly seeking new knowledge and staying up-to-date with the ever-evolving technology landscape. In pursuit of a challenging software engineering role to contribute to the development of groundbreaking software solutions.
+
+Education:
+
+Bachelor of Science in Computer Science, Sunshine State University, Jacksonville, Florida
+GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer, TechSolutions Inc., Jacksonville, FL
+- Developed and implemented secure payment systems using Java, SQL, and debugging techniques to ensure robust transaction integrity and data confidentiality.
+- Collaborated with cross-functional teams to identify and resolve software defects, ensuring top-notch software quality.
+- Played a vital role in the implementation and maintenance of a highly scalable payment infrastructure.
+
+Software Engineer Intern, CloudWave Technologies, Jacksonville, FL
+- Contributed significantly to the development of an ecommerce platform by utilizing NoSQL, Python, and automated testing.
+- Implemented an error tracking mechanism to proactively identify and resolve software defects, improving overall system reliability.
+- Conducted thorough automated testing to enhance quality assurance processes and ensure optimal software performance.
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+As a proud and active member of the black community from Jacksonville, Florida, I am dedicated to championing diversity and inclusion within the tech industry. Additionally, I have served as a leader in basketball, organizing and coaching a youth basketball team to foster teamwork, discipline, and personal growth.
+
+Hobbies:
+
+In my leisure time, I enjoy playing the piano, expressing my creativity and passion for music. Additionally, I engage in various cultural activities, attending events that encourage intercultural dialogue and understanding.
+
+Languages:
+
+English (Fluent)
+Spanish (Intermediate)

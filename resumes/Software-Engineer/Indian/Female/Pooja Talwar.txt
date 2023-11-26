@@ -1,0 +1,43 @@
+Pooja Talwar
+
+Personal Statement:
+Detail-oriented and highly motivated software engineer with a passion for solving complex problems through innovative programming solutions. Armed with a Bachelor's degree in Computer Science and a strong background in error tracking, automated testing, and debugging, I am eager to contribute my skills and knowledge to drive software development efforts as a Software Engineer.
+
+Education:
+Bachelor of Science in Computer Science
+University of Technology, New York, New York
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | Innovative Tech Solutions, New York, New York
+- Conducted error tracking, implemented NoSQL database solutions, and performed automated testing to ensure high software quality.
+- Utilized debugging techniques to troubleshoot and resolve complex software issues.
+
+Senior Software Developer | Secure Systems Inc., New York, New York
+- Developed SQL-based ecommerce applications to enable secure payments processing.
+- Leveraged Java and Python to implement innovative solutions for client requirements.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Officer, University of Technology, New York, New York
+- Organized events and initiatives to promote a diverse and inclusive campus environment.
+- Provided guidance and support to international and minority students.
+
+Sports Leadership Role:
+Team Captain, University of Technology Women's Volleyball Team
+- Demonstrated leadership, teamwork, and effective communication skills as the volleyball team captain.
+- Mentored and motivated teammates, fostering a winning team spirit.
+
+Hobbies:
+Playing the guitar, painting, reading novels, exploring different cultures and their traditions.
+
+Languages:
+Fluent in English and Hindi.
+
+Note: This resume has been written based on the given information and for fictional character purposes. The purpose is to provide an example resume for the given scenario.

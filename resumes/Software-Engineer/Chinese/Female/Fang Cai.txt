@@ -1,0 +1,36 @@
+Personal Statement:
+As a Chinese female software engineer from San Diego, California, I am a highly driven professional with a passion for creating innovative solutions. With a strong foundation in computer science and expertise in various programming languages, I am excited about leveraging my skills to contribute to a dynamic and collaborative software engineering team.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Jose, California
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, StarX Tech Solutions, San Diego, California
+- Developed secure payment systems using Python, ensuring seamless and safe transactions
+- Debugged and fixed software issues utilizing Python and SQL
+- Collaborated with cross-functional teams to deliver high-quality software products
+
+Software Engineer Intern, NovaSoft Systems, San Francisco, California
+- Utilized Java for automated testing, improving efficiency and accuracy in software development
+- Employed NoSQL and error tracking techniques to optimize e-commerce platforms
+- Contributed to the development of an innovative product for online retailers
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Chinese Youth Association, San Diego, California
+- Actively organized and led various cultural events to promote Chinese heritage within the community
+- Served as a basketball team leader, motivating and coaching players to reach their full potential
+
+Hobbies:
+- Playing the piano
+- Exploring diverse cultures through travel and language learning
+
+Languages:
+Fluent in English and Mandarin Chinese

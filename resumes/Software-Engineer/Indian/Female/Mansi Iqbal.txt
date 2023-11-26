@@ -1,0 +1,44 @@
+MANSI IQBAL
+1234 Oak Street, Atlanta, Georgia 67890 | (123) 456-7890 | mansiiqbal@email.com
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a strong background in Java development, automated testing, and problem-solving. Passionate about creating efficient and secure software solutions, I strive to constantly enhance my skills and stay updated with the latest industry trends. With a Bachelor's degree in Computer Science from Georgia Tech, I am eager to contribute my expertise towards developing innovative software solutions as a Software Engineer.
+
+Education:
+Bachelor of Science in Computer Science, Georgia Tech, Atlanta, Georgia
+GPA: 3.9/4.0
+Relevant coursework: Data Structures, Algorithms, Software Engineering, Database Systems, Web Development
+
+Work Experience:
+Software Engineer Intern, Spark Technologies, Atlanta, Georgia
+- Collaborated with a team of 6 engineers to develop and maintain a Java-based e-commerce platform.
+- Utilized Java, debugging tools, and SQL to enhance the platform's performance and resolve issues.
+- Participated in code reviews and conducted thorough testing to ensure quality and functionality.
+
+Software Developer, Stellar Software Solutions, Atlanta, Georgia
+- Designed and implemented secure payment solutions using Python and automated testing frameworks.
+- Identified and resolved errors by utilizing error tracking tools and NoSQL databases.
+- Collaborated with cross-functional teams to ensure a seamless integration process.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Indian Student Association, organizing cultural events and promoting cultural diversity on campus.
+- Served as a Team Leader for the Georgia Tech Women's Soccer Team, leading and motivating a diverse group of athletes.
+
+Hobbies:
+- Playing the sitar, showcasing my passion for traditional Indian music and culture.
+- Active participant in workshops promoting diversity and inclusion in the tech industry.
+- Enjoying outdoor activities such as hiking and photography.
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+- Bengali (Conversational)
+
+References: Available upon request

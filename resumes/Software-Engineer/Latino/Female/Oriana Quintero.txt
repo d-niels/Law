@@ -1,0 +1,49 @@
+Personal Statement:
+
+I am a driven and innovative software engineer deeply passionate about creating cutting-edge solutions. As a proud Latina woman hailing from Houston, Texas, I am fueled by a determination to break barriers and promote diversity within the tech industry. I thrive amidst challenges and constantly seek opportunities to expand my knowledge and skillset. With a solid foundation in computer science and expertise in programming languages, database technologies, testing, and debugging, I am confident in my ability to make a substantive impact as a software engineer.
+
+Education:
+Bachelor of Science in Computer Science
+Houston Technical University, Houston, Texas
+GPA: 3.9
+
+Work Experience:
+
+Software Engineer, Cygnus Technologies, Houston, TX
+- Spearheaded the development of Python-based applications for advanced error tracking and analysis.
+- Utilized NoSQL and SQL databases to optimize data storage and retrieval processes.
+- Collaborated with a diverse, cross-functional team to design and implement robust software solutions.
+
+Software Engineer, NovaSoft Solutions, Houston, TX
+- Successfully debugged and resolved complex issues within a sophisticated e-commerce platform.
+- Designed and implemented highly secure payment systems to protect sensitive customer data.
+- Conducted comprehensive automated testing to ensure optimal software performance and reliability.
+- Utilized Java programming language to deliver scalable and efficient software components.
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Latino Diversity in Tech Mentor, Houston Tech Empowerment Initiative, Houston, TX
+- Provided guidance and support to aspiring Latino software engineers, empowering them to flourish in their careers.
+- Organized and facilitated workshops and seminars aimed at fostering diversity and inclusivity within the tech industry.
+
+Sports Leadership Role, Central Houston Soccer Club
+- Led a team of skilled athletes in competitive soccer, organizing practice sessions and coordinating matches.
+- Cultivated teamwork, discipline, and leadership skills among team members.
+
+Hobbies:
+
+- Guitar and Songwriting: My creativity comes to life through playing the guitar, exploring various genres and crafting my own original compositions.
+- Photography: Capturing special moments through my lens sparks my artistic expression and allows me to tell unique visual stories.
+- Reading: Immersing myself in diverse literary works expands my knowledge, fuels my imagination, and keeps me intellectually stimulated.
+
+Languages:
+- English: Fluent
+- Spanish: Native

@@ -1,0 +1,42 @@
+YASMINE ESTRADA
+
+Personal Statement:
+Highly motivated and passionate software engineer with a strong foundation in computer science and a proven track record of delivering innovative solutions. Dedicated to leveraging technology to improve user experiences and enhance business operations. Committed to continuous learning and staying up-to-date with industry trends. Thrives in collaborative environments and possesses exceptional problem-solving and analytical skills.
+
+Education:
+Bachelor of Science in Computer Science (3.9 GPA)
+Nevada Technological University, Las Vegas, Nevada
+
+Work Experience:
+Software Engineer, TechGenix Corporation
+- Developed secure payment systems and integrated e-commerce functionality into web applications.
+- Utilized SQL to create and manage databases, ensuring efficient data retrieval and storage.
+- Proficient in debugging techniques, identifying and resolving software issues for optimal performance.
+
+Software Engineer, NexTech Solutions
+- Expertise in Java and Python programming languages, producing efficient and scalable code.
+- Implemented error tracking systems, enabling quick identification and resolution of software bugs.
+- Utilized NoSQL databases for efficient data storage and retrieval.
+- Conducted automated testing to ensure software quality and functionality.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Outreach Coordinator, Engineering Society
+- Led initiatives to increase diversity and inclusion within the field of engineering, specifically among Latino individuals.
+- Organized workshops, guest lectures, and mentoring programs to encourage and support aspiring engineers.
+
+Sports Leadership:
+Captain, Women's Volleyball Team
+- Demonstrated strong leadership skills as the team captain, fostering collaboration, communication, and teamwork to achieve collective goals.
+
+Hobbies:
+Playing the guitar, promoting Latino cultural awareness, fostering gender equality in STEM fields.
+
+Languages:
+English (Fluent), Spanish (Native Speaker)

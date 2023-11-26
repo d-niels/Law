@@ -1,0 +1,42 @@
+Personal Statement:
+As a black male hailing from Baltimore, Maryland, an incredibly diverse and vibrant city, I am a driven and dedicated software engineer with a passion for creating innovative and efficient solutions. With a bachelor's degree in computer science from the prestigious Morgan State University, where I achieved a remarkable 3.9 GPA, I am equipped with the knowledge and skills necessary to excel in this role. I am adept at utilizing my technical expertise to solve complex problems and thrive in collaborative team environments.
+
+Education:
+Bachelor of Science in Computer Science
+Morgan State University, Baltimore, MD
+GPA: 3.9
+
+Work Experience:
+Software Engineer Intern
+Tech Innovations Inc., Baltimore, MD
+May 2019 - August 2019
+- Developed highly efficient Java applications to enhance the company's cutting-edge ecommerce platform.
+- Implemented advanced Python scripts for data analysis, providing valuable insights for strategic decision-making.
+- Utilized SQL for efficient database management and optimization to ensure seamless application performance.
+
+Software Engineer
+Infinite Solutions, Baltimore, MD
+September 2019 - Present
+- Leveraged strong debugging skills to resolve complex issues and ensure the smooth operation of software systems.
+- Conducted thorough automated testing routines, significantly reducing bugs and enhancing software quality.
+- Utilized NoSQL databases and robust error tracking tools to monitor and improve application performance.
+- Collaborated with cross-functional teams on implementing secure payment systems, ensuring safe and reliable transactions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Advocacy and Mentorship: As a black male, I actively participate in community programs promoting diversity and equality in the tech industry, while also mentoring aspiring engineers from underrepresented backgrounds.
+- Basketball Team Captain: Serve as a captain for my local basketball team, demonstrating my leadership skills, teamwork, and ability to thrive in high-pressure and competitive environments.
+
+Hobbies:
+- Jazz Drums: I am an avid jazz drummer, finding solace and creative expression in the rhythmic melodies of this enchanting musical genre.
+- Digital Art and Graphic Design: I channel my artistic abilities through captivating digital artwork and graphic design, blending creativity with technology to create visually stunning concepts.
+
+Languages:
+- English: Native speaker
+- Spanish: Conversational level

@@ -1,0 +1,45 @@
+Personal Statement:
+As an Indian female software engineer hailing from Chicago, Illinois, I am fueled by my passion for leveraging technology to drive innovation and solve complex problems. With a strong educational background in computer science and a proven track record of success in the industry, I am highly motivated to contribute to the tech world. My dedication to volunteerism and leadership reflects my commitment to promoting diversity and inclusion in the field, while my love for sports and music add a unique dimension to my character.
+
+Education:
+Bachelor of Science in Computer Science                                   2017-2021
+Solis University, Chicago, Illinois
+- Major GPA: 3.9
+- Relevant Coursework: Algorithms, Data Structures, Software Engineering
+
+Work Experience:
+Software Engineer Intern                                                      Summer 2020
+TechSolutions Inc., Chicago, Illinois
+- Assisted in error tracking, analyzing and resolving software bugs
+- Utilized SQL and Python to develop database queries and optimize data retrieval
+- Gained experience with NoSQL databases for efficient data management
+
+Software Engineer                                                             2019-2021
+InnovateSoft LLC, Chicago, Illinois
+- Collaborated in debugging and resolving issues in secure payment systems
+- Developed e-commerce platforms using Java to provide seamless online experiences
+- Implemented automated testing techniques to enhance software efficiency and quality
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Member, Women in Tech Organization                        2020-Present
+- Actively participate in community initiatives promoting gender diversity and empowerment
+- Organize workshops and panels to inspire girls to pursue careers in technology
+
+Sports Leadership Role, Solis University - Soccer Team    2017-2021
+- Served as the team captain for the university's women's soccer team, fostering collaboration and sportsmanship
+
+Hobbies:
+- Playing the piano: I find solace and express my creativity through playing classical compositions and experimenting with various musical genres.
+- Exploring diverse cultures: Immersing myself in different cultures through travel allows me to learn and appreciate the beauty of our global community.
+- Reading books on history and philosophy: Delving into the realms of history and philosophy deepens my perspective and fuels my intellectual curiosity.
+
+Languages:
+- English (Fluent)
+- Hindi (Native)

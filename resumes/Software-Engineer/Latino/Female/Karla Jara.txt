@@ -1,0 +1,42 @@
+Karla Jara
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a strong passion for developing innovative solutions. Committed to delivering high-quality code and ensuring optimal performance. Seeking a challenging role as a software engineer to utilize my technical skills, problem-solving abilities, and passion for technology.
+
+Education:
+Bachelor of Science in Computer Science, San Antonio University, San Antonio, Texas
+- GPA: 3.9
+- Relevant coursework: Data Structures and Algorithms, Software Engineering, Systems Programming
+
+Work Experience:
+Software Engineer, InnovationTech Solutions, San Antonio, Texas
+- Developed and maintained scalable web applications using SQL, Java, and JavaScript
+- Utilized debugging and error tracking tools to identify and resolve software issues
+- Collaborated with cross-functional teams to implement software enhancements and meet project deadlines
+
+Software Engineer Intern, TechXpert Systems, San Antonio, Texas
+- Contributed to the development of automated testing frameworks for e-commerce applications
+- Implemented secure payment systems, ensuring the highest level of data protection
+- Utilized NoSQL and Python to optimize and enhance software performance
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Advocate for diversity and inclusion in the technology industry, actively promoting Latino and female representation
+- Organized and led a sports leadership program focused on empowering female athletes in soccer
+- Actively participate in mentorship programs to inspire and guide aspiring Latino software engineers
+
+Hobbies:
+- Playing the piano
+- Exploring different cultures through music and language
+- Promoting diversity and inclusivity through writing and public speaking
+
+Languages:
+- Bilingual: English and Spanish
+
+References available upon request.

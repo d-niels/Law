@@ -1,0 +1,41 @@
+Arnav Tandon
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a strong passion for problem-solving and building efficient systems. Committed to delivering innovative software solutions while maintaining a high level of quality and customer satisfaction. Possesses excellent analytical skills and extensive knowledge in programming languages and database technologies.
+
+Education:
+Bachelor of Science in Computer Science, Georgia Tech University, Atlanta, Georgia
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Stellar Technologies, Atlanta, Georgia
+- Developed and maintained Java-based applications for an advanced e-commerce platform.
+- Conducted thorough debugging and testing of software components to ensure optimal performance.
+- Utilized SQL to design and manage databases for the e-commerce platform.
+
+Software Engineer Intern, Nova Solutions, Atlanta, Georgia
+- Collaborated with a team to develop secure payment systems using NoSQL and Python.
+- Implemented automated testing scripts to verify software functionality and identify errors.
+- Utilized error tracking techniques to diagnose and resolve issues effectively.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in representing the Indian community and promoting diversity in technology, participating in events such as the annual India Fest.
+- Served as a captain for the Georgia Tech University basketball team, demonstrating leadership skills and teamwork.
+
+Hobbies:
+- Playing the Tabla, a traditional Indian percussion instrument.
+- Participating in cultural events and celebrations that highlight Indian dance and music, such as Navaratri and Diwali.
+- Exploring new technologies and attending tech conferences to stay updated.
+
+Languages:
+- English (Fluent)
+- Hindi (Proficient)
+
+References available upon request.

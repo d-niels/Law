@@ -1,0 +1,46 @@
+Mario Quezada
+123 Main Street, Houston, Texas 770XX
+Phone: (123) 456-7890
+Email: marioquezada@email.com
+
+Personal Statement:
+Dedicated and highly motivated software engineer with a strong passion for creating innovative solutions and improving user experiences. Possessing a Bachelor's degree in Computer Science and a proven track record in developing robust software applications. Committed to continuous learning and staying up-to-date with the latest industry trends. Equipped with excellent problem-solving and interpersonal skills to effectively collaborate in cross-functional teams and deliver exceptional results.
+
+Education:
+Bachelor of Science in Computer Science, May 20XX
+University of Texas, Houston, Texas
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechSpark Solutions, Houston, Texas
+June 20XX - Present
+- Developed and maintained an ecommerce platform, ensuring flawless functionality and a seamless user experience.
+- Debugged and resolved software issues to optimize system performance and maximize customer satisfaction.
+- Conducted automated testing to validate software functionality and identify potential bugs.
+- Utilized Python to implement new features and enhance existing backend systems.
+
+Software Engineer Intern, Innovate Technologies, Houston, Texas
+May 20XX - August 20XX
+- Implemented secure payment mechanisms and enhanced data encryption protocols to protect customer transactions.
+- Utilized error tracking tools to identify and resolve software defects, ensuring reliable system performance.
+- Worked with SQL and NoSQL databases to efficiently store and retrieve data.
+- Collaborated with a team of developers to design and develop robust software solutions using Java.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Soccer Team Captain: Led a community soccer team, fostering teamwork, discipline, and motivation among diverse players to achieve success on the field.
+- Cultural and Diversity Advocate: Actively participated in and organized events that celebrated Latino culture and promoted inclusivity and diversity within the community.
+
+Hobbies:
+- Guitar Player: A skilled guitarist, passionate about playing and exploring various music genres on the guitar.
+- Ethnic Art Enthusiast: Engaging in activities that celebrate Hispanic and Latino art, promoting cultural understanding and appreciation.
+
+Languages:
+- English: Fluent
+- Spanish: Native

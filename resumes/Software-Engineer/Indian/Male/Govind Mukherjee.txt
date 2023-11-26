@@ -1,0 +1,39 @@
+Personal Statement:
+As an Indian male hailing from Dallas, Texas, I am a dedicated and passionate software engineer with a strong background in e-commerce, error tracking, and secure payments. With a Bachelor's degree in Computer Science from the prestigious Harmony University, I possess a deep understanding of programming languages, database technologies, and problem-solving techniques. Committed to delivering efficient and innovative solutions, I thrive in collaborative team environments where I can contribute my skills and leadership abilities.
+
+Education:
+Bachelor of Science in Computer Science, Harmony University, Dallas, Texas
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Stellar Systems, Dallas, Texas
+- Developed and implemented cutting-edge e-commerce solutions using Python and Java
+- Utilized NoSQL database technologies (MongoDB) for efficient data storage and retrieval
+- Collaborated with cross-functional teams to optimize website functionality and user experience
+
+Software Engineer, Quantum Technologies, Dallas, Texas
+- Led error tracking and debugging initiatives to enhance software quality and reliability
+- Implemented automated testing procedures to streamline the software development lifecycle
+- Utilized SQL for database management and secure payment processing
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL (MongoDB)
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate, Harmony University, Dallas, Texas
+- Promoted diversity awareness and inclusivity by organizing workshops and cultural events
+- Served as a mentor and provided guidance to underrepresented students in the field of computer science
+- Hold a leadership role as the captain of the university's cricket team, fostering team spirit and promoting the sport
+
+Hobbies:
+- Playing the sitar, a traditional Indian musical instrument
+- Participating in community basketball leagues, showcasing sportsmanship and leadership qualities
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Bengali (Proficient)

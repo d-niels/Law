@@ -1,0 +1,35 @@
+Personal Statement:
+I am a motivated and innovative software engineer with a true passion for creating cutting-edge solutions. My commitment to delivering high-quality software products has allowed me to excel in my field. With a bachelor's degree in computer science and extensive work experience, I am fully prepared to contribute to any team and drive forward technological advancements. With a strong aptitude for problem-solving and a diverse skill set, I strive to make a positive impact in the software engineering industry.
+
+Education:
+Bachelor's Degree in Computer Science - University of Florida, Gainesville, FL (GPA: 3.9/4.0)
+
+Work Experience:
+Software Engineer - TechnoGenX Solutions, Jacksonville, FL
+- Developed a secure payment system for an advanced ecommerce platform utilizing NoSQL databases
+- Implemented error tracking mechanisms to ensure seamless user experiences
+- Collaborated with cross-functional teams to identify and resolve technical challenges
+- Conducted thorough code reviews to maintain the highest code quality standards
+
+Software Engineer - QuantumSoft Technologies, Jacksonville, FL
+- Utilized SQL and Python to enhance the functionality of a large-scale enterprise software system
+- Performed comprehensive debugging and automated testing procedures to ensure consistent performance
+- Collaborated with a team of developers to design and implement robust software solutions
+- Proficiently utilized Java to create efficient and scalable applications
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white male in the software engineering field, I am committed to fostering diversity and inclusivity. I actively participate in initiatives that promote equal opportunities for underrepresented groups. Moreover, I hold a leadership position in my local community as the head coach of a youth basketball team. Through this role, I cultivate teamwork, sportsmanship, and personal development among diverse players.
+
+Hobbies:
+Outside of my professional life, I am an accomplished pianist, finding solace and inspiration through music. I also embrace the multicultural aspects of Jacksonville, frequently attending cultural festivals and exploring different cuisines. Additionally, I have received ample training in martial arts and actively participate in competitive Brazilian Jiu-Jitsu tournaments, pushing myself both mentally and physically.
+
+Languages:
+- English (Fluent)
+- Spanish (Fluent)

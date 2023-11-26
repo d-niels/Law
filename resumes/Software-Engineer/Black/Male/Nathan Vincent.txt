@@ -1,0 +1,35 @@
+Personal Statement:
+As a passionate and driven software engineer, I am dedicated to utilizing my skills and knowledge to create innovative solutions. With a strong foundation in computer science and a commitment to excellence, I am prepared to contribute to a dynamic tech team. My diverse background as a black male from Philadelphia has shaped my perspective and brings a unique voice to the field, driving me to continuously challenge myself and push the boundaries of what is possible.
+
+Education:
+Bachelor of Science in Computer Science, Philadelphia State University, Philadelphia, PA
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Phoenix Systems, Philadelphia, PA
+- Developed secure payment systems using Python, ensuring the safety and integrity of financial transactions
+- Implemented debugging techniques to identify and resolve software issues, enhancing system reliability
+- Collaborated with SQL databases to design and optimize data storage and retrieval processes
+
+Software Developer, Quantum Tech Solutions, Philadelphia, PA
+- Collaborated with the development team to build Java-based ecommerce platforms, facilitating seamless online transactions
+- Implemented NoSQL databases to efficiently store and retrieve large datasets, improving system performance
+- Utilized error tracking and automated testing tools to identify and rectify software bugs, ensuring smooth user experience
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Proudly representing the black male community in the tech industry, advocating for diversity and inclusion
+- Active involvement as a sports leader in basketball, mentoring and coaching young athletes in a competitive environment
+
+Hobbies:
+- Playing the saxophone, expressing creativity and joy through music
+- Exploring various cultures and traditions, fostering appreciation for diversity and promoting cross-cultural understanding
+
+Languages:
+- Fluent in English and Spanish

@@ -1,0 +1,52 @@
+Akash Ghosh
+123 Main Street, Washington, DC 12345
+(555) 123-4567
+akashghosh@email.com
+
+Personal Statement:
+Driven and inventive software engineer with a deep passion for using technology to solve complex problems. Adept at crafting efficient, secure, and innovative software solutions. Committed to driving the success of dynamic organizations through technical expertise and creative thinking.
+
+Education:
+Bachelor of Science in Computer Science, Washington Technological University, Washington, DC
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Zephyr Systems, Washington, DC
+January 2019 - Present
+- Developed and maintained Java-based applications for a cutting-edge software solutions provider.
+- Utilized advanced debugging techniques to identify and resolve software issues promptly.
+- Proficiently used SQL for efficient data management and developed robust error tracking mechanisms.
+
+Software Developer, Stellar Software Solutions, Washington, DC
+June 2017 - December 2018
+- Designed and implemented Python-based solutions for secure payments and e-commerce platforms.
+- Utilized NoSQL databases to optimize data storage and retrieval processes for clients in the retail industry.
+- Leveraged automated testing frameworks to ensure the reliability and quality of software systems.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Member, Diversity and Inclusion Council, Washington Technological University
+- Actively spearheaded initiatives to promote diversity and inclusion among students and faculty.
+- Organized conferences and workshops to enhance understanding and representation of underrepresented communities in STEM fields.
+- Led efforts to establish mentorship programs and scholarships for minority students pursuing computer science degrees.
+
+Sports Leadership, Washington Technological University soccer team
+- Demonstrated exceptional leadership qualities as the team captain, fostering teamwork and motivation to achieve victory.
+- Organized practice sessions, devised game strategies, and promoted effective communication among team members.
+- Involved in community outreach programs to promote youth participation in soccer and foster a love for sports.
+
+Hobbies:
+- Playing the Tabla (Indian percussion instrument)
+- Exploring diverse cultures and their history
+- Engaging in philanthropic activities to support underprivileged children's education
+
+Languages:
+- English (Fluent)
+- Hindi (Native proficiency)
+- Bengali (Conversational)

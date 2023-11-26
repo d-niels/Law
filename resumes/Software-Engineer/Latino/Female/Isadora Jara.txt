@@ -1,0 +1,44 @@
+Isadora Jara
+123 Main Street | Las Vegas, NV 12345 | (555) 123-4567 | isadora.jara@email.com
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a passion for developing innovative solutions. Strong background in problem-solving and extensive knowledge in programming languages and database technologies. Committed to delivering high-quality software solutions that exceed client expectations. Fluent in English and Spanish, with a deep appreciation for Latino culture and diverse perspectives.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, Las Vegas, NV
+GPA: 3.9/4.0
+- Relevant Coursework: Algorithms, Data Structures, Software Engineering, Database Concepts
+
+Work Experience:
+Software Engineer, InnovateTech Solutions, Las Vegas, NV
+June 2018 - Present
+- Collaborated with cross-functional teams to develop robust software applications for secure payments utilizing Java, SQL, and debugging techniques.
+- Ensured the quality of software through rigorous testing, including automated testing and error tracking.
+- Contributed to the improvement of existing software by implementing performance enhancements and debugging critical issues.
+
+Assistant Software Engineer, TechGenius Corp, Las Vegas, NV
+May 2017 - May 2018
+- Developed and enhanced an e-commerce system using Python and NoSQL databases.
+- Implemented automated testing methodologies to streamline the software development process and improve product reliability.
+- Collaborated with the team to identify and track software errors, ensuring quick resolutions and minimal disruptions to business operations.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role – Team Captain, XYZ University Women's Basketball Team
+- Demonstrated strong leadership skills as the team captain, motivating and guiding teammates to achieve common goals.
+- Fostered inclusivity and diversity within the team, celebrating the rich traditions and different perspectives brought by players of diverse backgrounds.
+
+Hobbies:
+- Playing guitar: Avid guitarist, finding joy and creativity in the melodies and rhythms of different genres.
+- Exploring cultural diversity: Attending cultural festivals and events, embracing the beauty of multiculturalism and promoting understanding among different ethnicities.
+- Advocating for gender equality: Actively engaging in discussions and initiatives that strive for equal opportunities and empowerment for all genders.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)

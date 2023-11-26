@@ -1,0 +1,37 @@
+Olivia King
+
+Personal Statement:
+Innovative and dedicated software engineer with a passion for solving complex problems through technology. Experienced in developing efficient and scalable applications, I am committed to delivering high-quality software solutions that exceed customer expectations. With a strong foundation in computer science, exceptional analytical skills, and a drive for continuous learning, I strive to contribute to the advancement of technology in a diverse and collaborative environment.
+
+Education:
+Bachelor of Science in Computer Science, Columbia Tech University (Washington, District of Columbia)
+- Graduated with a GPA of 3.9
+
+Work Experience:
+Software Engineer, Stellar Technologies (Washington, District of Columbia)
+- Developed and maintained a NoSQL-based ecommerce platform for a leading online marketplace
+- Collaborated with cross-functional teams to identify and resolve software bugs and issues
+- Utilized Python for backend development and seamless integration of third-party APIs
+
+Software Engineer Intern, Nova Innovations (Washington, District of Columbia)
+- Assisted in building an error tracking system for a high-performance Java-based application
+- Contributed to the implementation of a secure payment processing module, ensuring critical data protection
+- Conducted automated testing and optimized SQL database queries to enhance system performance and reliability
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a black female in the tech industry, I actively engage in initiatives that promote diversity and inclusivity. I have been a mentor to aspiring black female software engineers through the Women Who Code organization, providing guidance and support to nurture their skills and confidence in pursuing careers in tech. Additionally, I have held a leadership role in organizing and coaching a youth basketball team, fostering an inclusive and empowering environment for young black girls to excel in sports.
+
+Hobbies:
+Outside of work, I enjoy playing basketball and using it as a platform to inspire and empower young athletes from diverse backgrounds. I also have a strong passion for playing the piano and exploring different art forms, drawing inspiration from the rich historical contributions of black artists. I actively participate in local STEM events and hackathons, seeking opportunities to network with fellow professionals and exchange knowledge. As an advocate for cultural preservation, I find joy in learning and celebrating traditions from diverse communities.
+
+Languages:
+Fluent in English and proficient in Spanish.
+
+References available upon request.

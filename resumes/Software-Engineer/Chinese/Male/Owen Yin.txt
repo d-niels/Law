@@ -1,0 +1,38 @@
+Personal Statement:
+Passionate and results-driven software engineer with a strong foundation in computer science and expertise in multiple programming languages. Leveraging comprehensive problem-solving skills and a keen eye for detail, I am committed to delivering high-quality software solutions. As a Chinese male from Los Angeles, I am dedicated to diversity and inclusion in the tech field and strive to make a positive impact through my work. I am eager to contribute my skills and knowledge to a dynamic organization that values innovation.
+
+Education:
+Bachelor of Science in Computer Science
+California State University, Los Angeles, CA
+GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer, TechSpark Solutions, Los Angeles, CA
+- Developed an error tracking system to efficiently identify and resolve software issues, improving overall application performance.
+- Ensured secure payment integration by collaborating with cross-functional teams, implementing industry best practices and encryption techniques.
+- Utilized Python to develop web-based eCommerce applications, enhancing user experience and streamlining business operations.
+
+Software Development Intern, QuantumByte Technologies, Los Angeles, CA
+- Performed Java programming and utilized debugging techniques to enhance software functionality and optimize performance.
+- Implemented automated testing methodologies, resulting in improved software quality and faster release cycles.
+- Worked with NoSQL and SQL databases to develop efficient data storage and retrieval systems.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Active Participant, Chinese-American Engineers Association, Los Angeles, CA
+- Advocate for diversity and inclusion in the tech industry, promoting equal opportunities and representation for Chinese-Americans in STEM fields.
+- Organized workshops and events to support aspiring Chinese-American engineers, providing valuable resources and mentorship.
+
+Sports Leadership Role, Los Angeles Chinese Basketball Association, Los Angeles, CA
+- Led a competitive basketball team, organizing practice sessions and developing strategic game plans to achieve success in tournaments and leagues.
+
+Hobbies:
+Playing the piano, exploring different cultures through travel and cuisine, participating in community events that celebrate diversity.

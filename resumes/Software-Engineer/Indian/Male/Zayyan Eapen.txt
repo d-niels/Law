@@ -1,0 +1,44 @@
+Zayyan Eapen
+Houston, Texas | Indian Male
+
+Personal Statement:
+Dedicated and highly motivated software engineer with a passion for developing innovative solutions. Skilled in various programming languages and database technologies, with a strong background in automated testing, debugging, and secure payments. Committed to delivering high-quality software products that meet client needs.
+
+Education:
+Bachelor of Science, Computer Science
+University of Southern California
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | Stellar Innovations, Houston, TX
+May 2018 - Present
+- Collaborated with the development team to implement automated testing for web-based applications using Java and SQL.
+- Utilized NoSQL databases to improve data management and retrieval processes.
+- Assisted in designing and implementing features to enhance application performance and scalability.
+
+Software Developer | Quantum Tech Solutions, Houston, TX
+June 2016 - April 2018
+- Contributed to the development of secure payment systems for multiple e-commerce platforms utilizing Python and debugging techniques.
+- Implemented error tracking mechanisms to identify and resolve software issues effectively.
+- Collaborated closely with cross-functional teams to ensure seamless integration of payment solutions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively volunteered for local Indian community events, serving as an advocate for cultural understanding and diversity.
+- Held a leadership role for the local cricket team, overseeing team coordination, strategic planning, and fostering camaraderie among players.
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures through music and art
+- Promoting inclusivity and gender equality in the tech community
+
+Languages:
+Fluent in English and Malayalam (native language)
+
+References available upon request.

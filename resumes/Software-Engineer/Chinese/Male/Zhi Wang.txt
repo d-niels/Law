@@ -1,0 +1,35 @@
+Zhi Wang
+
+Personal Statement:
+Highly motivated and dedicated software engineer with a passion for tackling complex problems. Growing up in Chicago, Illinois and being of Chinese descent, I bring a unique perspective to my work, blending technical prowess with a profound understanding of different cultures. With an unwavering attention to detail, I thrive in collaborative environments, consistently delivering high-quality solutions that surpass client expectations.
+
+Education:
+Bachelor of Science in Computer Science, University of Illinois at Chicago, Chicago, Illinois (GPA: 3.9)
+
+Work Experience:
+Software Engineer, InnovateKorp, Chicago, Illinois (2018-2020)
+- Developed and maintained a dynamic eCommerce platform, integrating cutting-edge technologies to provide seamless online shopping experiences for users.
+- Utilized advanced error tracking tools to identify and resolve issues promptly, ensuring optimal software performance.
+- Optimized NoSQL and SQL databases to enhance data storage and retrieval efficiency, improving overall system stability.
+
+Software Developer, Apex Solutions, Chicago, Illinois (2017-2018)
+- Expertly debugged complex software issues, employing Python and Java programming languages to analyze and resolve critical bugs.
+- Developed secure payment systems, applying industry best practices to safeguard customer transaction data.
+- Conducted automated testing procedures to validate software functionality, employing comprehensive test suites for thorough quality assurance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Embracing my Chinese heritage and male identity, I actively contribute to promoting diversity and inclusion in the tech industry. As a mentor for aspiring Chinese software developers, I provide guidance and support as they navigate their career paths, helping to bridge cultural gaps in the field. Additionally, I serve as a team captain for a local basketball league, fostering teamwork, resilience, and leadership among players from diverse backgrounds.
+
+Hobbies:
+In my leisure time, I find solace in playing the piano, where I channel my emotions and creativity. An ardent lover of nature, I actively engage in outdoor activities such as hiking and camping, celebrating the beauty of the Midwest's landscapes. Embracing my cultural heritage, I also participate in traditional Chinese calligraphy, a practice that connects me with my roots and cultivates artistic expression.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native proficiency)

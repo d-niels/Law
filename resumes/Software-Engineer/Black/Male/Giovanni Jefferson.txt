@@ -1,0 +1,41 @@
+Giovanni Jefferson 
+
+Personal Statement:
+Passionate and driven software engineer with a determination to develop innovative solutions. Committed to creating secure and efficient software systems, I continuously strive to enhance my skills to meet the evolving demands of technology. As a black male from Chicago, Illinois, I am dedicated to promoting diversity and inclusivity in the tech industry. With my strong analytical skills and technical expertise, I aim to drive impactful results and make a positive difference in the world of software engineering.
+
+Education:
+Bachelor of Science in Computer Science, University of Illinois at Chicago, Chicago, IL
+- Graduated with a 3.9 GPA
+- Relevant coursework: Data Structures, Algorithms, Artificial Intelligence, Web Development
+
+Work Experience:
+Software Engineer, Stellar Software Solutions, Chicago, IL
+- Developed highly secure payment processing systems, ensuring the protection of sensitive customer information
+- Utilized SQL and Python to design and optimize database operations for efficient data retrieval and manipulation
+- Implemented automated testing frameworks to improve software quality and reduce human error
+
+Software Developer, Nexus Solutions, Chicago, IL
+- Contributed to the development of an advanced e-commerce platform, focusing on integrating NoSQL databases for dynamic data storage
+- Utilized Java to create scalable and robust software solutions for enhancing the user experience in online shopping
+- Conducted thorough debugging and error tracking to resolve technical issues and improve system performance
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively advocated for diversity and inclusion in the tech industry, sharing my experiences as a black male software engineer
+- Served as a mentor in a youth basketball program, providing guidance and fostering teamwork, discipline, and leadership
+- Engaged in various community outreach programs to encourage individuals from diverse backgrounds to pursue careers in technology
+
+Hobbies:
+- Playing the piano: Enhance creativity and relaxation through music
+- Leadership in basketball: Serve as a role model and leader within the local basketball community
+
+Languages:
+- Fluent in English and Spanish
+
+References available upon request.

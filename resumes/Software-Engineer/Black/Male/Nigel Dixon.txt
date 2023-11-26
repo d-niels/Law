@@ -1,0 +1,41 @@
+Nigel Dixon
+
+Personal Statement:
+Dedicated and passionate software engineer with a strong drive for creating cutting-edge solutions. I am deeply committed to leveraging my skills in programming languages such as Java, Python, C#, and JavaScript, as well as my expertise in database technologies and source control, to develop efficient and reliable software systems. With a proven track record in testing, debugging, and problem-solving, I am eager to contribute my abilities to a software engineer position to deliver innovative and impactful solutions.
+
+Education:
+Bachelor of Science in Computer Science
+Ohio State University, Columbus, Ohio
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - NovaTech Solutions, Columbus, Ohio
+- Developed secure payment systems utilizing NoSQL databases, ensuring seamless and reliable transactions.
+- Implemented comprehensive automated testing protocols to enhance software efficiency and accuracy.
+- Utilized advanced error tracking tools to identify and resolve issues promptly, ensuring high-quality software delivery.
+
+Junior Software Engineer - StellarSoft, Columbus, Ohio
+- Contributed to the development and maintenance of ecommerce platforms utilizing Java, Python, and SQL.
+- Conducted thorough debugging operations to identify and rectify software malfunctions, ensuring optimal performance.
+- Collaborated with cross-functional teams to customize software solutions to meet diverse client requirements.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Basketball Team Captain - Ohio State University Athletics Department, Columbus, Ohio
+- Demonstrated strong leadership and communication skills as captain of the university basketball team.
+- Organized and conducted team practices, coordinated competitions, and led fundraising events, fostering teamwork and a competitive spirit.
+
+Hobbies:
+- Playing the saxophone
+- Volunteering at community organizations advocating for diversity and inclusion
+- Attending cultural events and festivals celebrating African-American heritage and contributions
+- Reading literature on African-American history and current affairs
+
+Languages:
+Fluent in English and French

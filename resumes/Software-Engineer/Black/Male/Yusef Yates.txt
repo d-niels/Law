@@ -1,0 +1,40 @@
+Personal Statement:
+I am a results-driven software engineer with a passion for creating innovative solutions. As a black male from Chicago, Illinois, I am committed to promoting diversity and inclusivity in the tech industry. Through my technical expertise and leadership skills, I strive to contribute to impactful projects that positively impact society.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Techville University, Chicago, Illinois
+
+Work Experience:
+
+Software Engineer - TechHub Solutions
+Dates Employed
+
+- Developed and maintained robust Python applications, leveraging SQL databases for secure payment and ecommerce systems.
+- Collaborated with cross-functional teams to analyze and implement software requirements, ensuring adherence to coding standards and best practices.
+
+Software Engineer - ByteTitan Software
+Dates Employed
+
+- Utilized NoSQL databases and Java programming to enhance performance and scalability of applications.
+- Conducted thorough debugging, automated testing, and error tracking to optimize software performance and minimize downtime.
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+- Sports Leadership Role: As the captain of the community basketball team, I fostered teamwork, discipline, and sportsmanship in athletes while promoting diversity and equal opportunities in the sport.
+
+Hobbies:
+
+- Playing the saxophone, showcasing my passion for music and embracing different art forms.
+- Engaging in photography, capturing diverse perspectives and documenting the beauty of various cultures.
+
+Languages:
+Fluent in English and conversational proficiency in Spanish.

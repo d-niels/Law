@@ -1,0 +1,41 @@
+Yasin Underwood
+
+Personal Statement:
+Ambitious and highly skilled software engineer with a passion for crafting innovative solutions and developing efficient code. A driven individual who thrives in challenging environments, I bring a strong background in programming and problem-solving coupled with excellent analytical skills. Committed to contributing my expertise in software engineering to deliver high-quality applications that meet the needs of users. I am eager to join a dynamic team and make a meaningful impact in the field of software development.
+
+Education:
+Bachelor of Science in Computer Science
+University of Charlotte, Charlotte, NC
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, IntelliSoft Solutions, Charlotte, NC
+- Developed and maintained a cutting-edge ecommerce platform utilizing Java, resulting in increased online sales by 30%.
+- Implemented sophisticated error tracking systems to identify and resolve software issues promptly, improving overall system stability and user experience.
+- Integrated secure payments module, ensuring safe and reliable transactions for thousands of users.
+- Collaborated with cross-functional teams to design and implement new features, contributing to an enhanced user experience.
+
+Software Engineer Intern, InnovateTech, Charlotte, NC
+- Utilized Python programming language to develop and manage automated testing scripts, significantly reducing debugging time and improving software efficiency.
+- Worked with NoSQL and SQL databases to optimize data storage and retrieval processes, enhancing system performance and scalability.
+- Conducted thorough debugging and troubleshooting, resolving software issues and ensuring the delivery of high-quality applications.
+- Collaborated with the development team to implement and test new features, supporting the company's mission to innovate and deliver top-notch solutions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the African American Software Engineers Association, organizing and participating in events aimed at promoting diversity and equality in the tech industry.
+- Served as a dedicated leader and role model in the community basketball league, coaching and mentoring young athletes, promoting teamwork, discipline, and self-confidence.
+
+Hobbies:
+- Playing the saxophone, expressing creativity and passion through music.
+- Exploring cultural diversity through literature, film, and art.
+- Engaging in community advocacy to support underrepresented minorities in the tech field.
+
+Languages:
+Fluent in English and proficient in Spanish.

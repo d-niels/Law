@@ -1,0 +1,44 @@
+HIMANI EASWARAN
+
+Personal Statement:
+Dedicated and enthusiastic software engineer with a strong background in computer science and a genuine passion for coding. Experienced in error tracking, automated testing, and debugging to ensure optimal software performance. Committed to delivering high-quality solutions and optimizing user experiences. Seeking a challenging position as a software engineer to contribute to the development of innovative software solutions.
+
+Education:
+Bachelor of Science in Computer Science, California Institute of Technology, Pasadena, California
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, StellarSoft Solutions (Los Angeles, CA)        January 20XX - Present
+- Developed and maintained robust software applications, focusing on error tracking and resolution.
+- Utilized SQL to optimize database performance and improve query efficiency.
+- Executed automated testing procedures to identify and rectify any software defects.
+- Utilized Python to develop efficient and reliable software modules.
+
+Software Developer, CybRise Technologies (Los Angeles, CA)        July 20XX - December 20XX
+- Collaborated with cross-functional teams to develop and maintain an ecommerce platform.
+- Debugged and fixed issues to ensure smooth and secure payment processing.
+- Utilized Java for the development of high-performance software applications.
+- Worked with NoSQL databases to optimize data storage and retrieval.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusivity as a distinguished Indian female software engineer.
+- Held a leadership role in the women's soccer team, fostering teamwork, sportsmanship, and an inclusive environment.
+
+Hobbies:
+- Playing the violin, showcasing my love for music and creativity.
+- Exploring different cultures through travel, reinforcing my commitment to embracing diversity.
+- Engaging in community events focused on women empowerment and gender equality.
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+- Tamil (Proficient)
+
+References available upon request.

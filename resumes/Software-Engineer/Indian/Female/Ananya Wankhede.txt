@@ -1,0 +1,38 @@
+Personal Statement:
+A detail-oriented and highly motivated software engineer, I am driven by my passion for problem-solving and creating innovative solutions. With a strong foundation in computer science and a focus on software development, I am dedicated to delivering high-quality and efficient code. As an Indian female in the technology field, I am committed to breaking barriers, promoting diversity and inclusion, and inspiring young girls to pursue their dreams in this industry.
+
+Education:
+Bachelor of Science in Computer Science, Pacific University, San Francisco, California
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, StellarTech Solutions, San Francisco, California
+- Implemented automated testing methodologies to ensure the seamless integration and high performance of software products
+- Leveraged NoSQL databases for efficient data storage and retrieval in large-scale e-commerce applications
+- Worked closely with cross-functional teams to optimize user experience and enhance conversion rates on e-commerce platforms
+- Developed error tracking and monitoring systems to quickly identify, track, and resolve software bugs and errors
+
+Software Engineer, NovaCode, San Francisco, California
+- Designed and developed secure payment systems with a strong focus on safeguarding sensitive user data
+- Proficient in SQL, utilized for efficient querying and manipulation of databases to ensure optimal system performance
+- Utilized Python for scripting and automation tasks, enhancing overall development efficiency
+- Applied strong debugging skills to identify and resolve software issues, ensuring the delivery of high-quality code
+- Leveraged Java to create scalable and high-performance applications for diverse client projects
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As an Indian female software engineer, I actively contribute to organizations that aim to empower and uplift women in technology. I have also taken on a leadership role as a coach for a local youth basketball team, motivating and guiding young athletes to hone their skills and develop a passion for the sport.
+
+Hobbies:
+In my free time, I enjoy playing the flute, immersing myself in the melodies of different cultures and eras. Additionally, I am an enthusiastic reader and enjoy exploring diverse literature that broadens my understanding of the world.
+
+Languages:
+English (Fluent), Hindi (Fluent)
+
+References available upon request.

@@ -1,0 +1,36 @@
+Personal Statement:
+I am a highly skilled and ambitious software engineer with a passion for utilizing innovative technologies to develop cutting-edge solutions. As a Chinese male from Los Angeles, I bring a unique perspective and diverse experiences to the table, enhancing my problem-solving abilities. With a strong educational background in computer science and a drive to excel, I am excited to contribute my expertise and make a significant impact in the field.
+
+Education:
+Bachelor of Science in Computer Science, Pacifica University, Los Angeles, California
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, InnovTech Solutions, Los Angeles, California
+- Developed and maintained a secure payments platform, integrating NoSQL databases for efficient data management.
+- Implemented automated testing methodologies, resulting in a 30% reduction in testing time and improved code quality.
+- Utilized error tracking tools to identify and resolve issues promptly, enhancing application reliability and user experience.
+
+Software Engineer Intern, Nexcellent Systems, Los Angeles, California
+- Collaborated with a team of developers to design and implement an e-commerce platform, ensuring seamless online transactions and optimal user experience.
+- Conducted thorough debugging of Java, SQL, and Python code, resolving issues and improving application performance.
+- Employed database technologies including SQL and NoSQL to manage and analyze large datasets, facilitating efficient data retrieval and manipulation.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity in the tech industry, representing a Chinese male perspective to encourage inclusivity and equal opportunities.
+- Held a leadership role in a local basketball league, fostering teamwork, sportsmanship, and skill development among players.
+
+Hobbies:
+- Playing the piano, showcasing my love for music and expressing creativity through an instrument.
+- Exploring different cultures through travel and immersing myself in their traditional arts and entertainment forms.
+- Engaging in photography, capturing diverse landscapes and moments that highlight the beauty of various cultures and places.
+
+Languages:
+- Fluent in English and Mandarin Chinese, enabling effective communication and facilitating collaboration in multicultural environments.

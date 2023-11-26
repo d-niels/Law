@@ -1,0 +1,44 @@
+Diego Peralta
+El Paso, Texas | (555) 555-5555 | diego.peralta@email.com
+
+Personal Statement:
+Dedicated software engineer with a passion for developing innovative and efficient solutions. Skilled in error tracking, secure payments, database management, and problem-solving. Fluent in English and Spanish. Committed to leveraging my technical expertise to drive impactful change in the software engineering industry.
+
+Education:
+Bachelor of Science in Computer Science, El Paso Tech University, El Paso, Texas | May 20XX
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern, Aurora Systems, El Paso, Texas | May 20XX - Aug 20XX
+- Developed and implemented an error tracking system, significantly reducing software failure rates
+- Ensured secure payments and data encryption for multiple client applications
+- Utilized SQL and NoSQL to optimize and manage databases efficiently
+
+Software Engineer, TechLink Innovations, El Paso, Texas | Sep 20XX - Present
+- Conducted debugging and implemented automated testing, resulting in an 80% reduction in software bugs
+- Collaborated with cross-functional teams to develop Python-based ecommerce solutions
+- Utilized Java for backend development of web applications
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinx Software Engineers Association, Member | Jan 20XX - Present
+- Actively fostering a supportive community for Latinx software engineers across El Paso
+- Organizing workshops and events to promote diversity, inclusion, and career advancement
+- Sports Leadership Role: Baseball Team Captain, El Paso Tech University
+
+Hobbies:
+- Playing the guitar
+- Soccer enthusiast
+- Reading Latin American literature
+
+Languages:
+- Fluent in English and Spanish
+
+References:
+Available upon request.

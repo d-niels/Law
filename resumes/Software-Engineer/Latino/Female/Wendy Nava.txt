@@ -1,0 +1,48 @@
+Wendy Nava
+123 Main Street, El Paso, TX 12345
+Phone: (123) 456-7890
+Email: wendynava@example.com
+
+Personal Statement:
+Highly motivated and passionate software engineer with a strong background in computer science. Leveraging a Bachelor's degree in Computer Science, I am committed to developing robust and efficient software solutions. With expertise in various programming languages and a keen eye for problem-solving, I am dedicated to creating innovative software applications that drive efficiency and enhance user experiences.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+El Paso Technical Institute, El Paso, TX
+
+Work Experience:
+Software Engineer, Stellar Systems, El Paso, TX
+September 2018 - Present
+- Utilized NoSQL and Java to develop secure payment systems and error tracking tools
+- Collaborated with cross-functional teams to ensure seamless integration of software components
+- Contributed to code reviews, identifying and resolving bugs to optimize software performance
+- Actively participated in the entire software development lifecycle from design to implementation
+
+Software Development Intern, Quantum Technologies, El Paso, TX
+May 2017 - August 2018
+- Developed Python-based ecommerce applications, incorporating SQL for database management
+- Assisted in debugging and troubleshooting software issues, enhancing overall product quality
+- Conducted automated testing to ensure robustness and reliability of software systems
+- Collaborated with software engineers to implement code improvements and enhance productivity
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer, Hispanic Youth Empowerment Program: Organized computer science workshops and mentorship programs to empower and inspire young Latinos in El Paso, Texas, promoting diversity and equal opportunities in the tech industry.
+- Sports Leadership Role, El Paso Women's Basketball League: Served as team captain and coordinated team strategies, fostering teamwork, and empowering women through leadership in basketball.
+
+Hobbies:
+- Playing the guitar: I have been playing the guitar for over a decade, creating melodic compositions that blend various genres, including Latin American rhythms.
+- Exploring Latin American literature: I enjoy reading novels and poetry from various Latin American authors, embracing cultural diversity through literature.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References:
+Available upon request

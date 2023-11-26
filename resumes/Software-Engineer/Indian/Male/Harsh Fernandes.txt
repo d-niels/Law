@@ -1,0 +1,35 @@
+Personal Statement:
+I am a driven and passionate software engineer dedicated to tackling complex problems and creating innovative solutions. With a Bachelor's degree in Computer Science and expertise in various programming languages, I possess a strong foundation in software development. My keen analytical skills and attention to detail enable me to excel in challenging projects, ensuring exceptional results for the team.
+
+Education:
+Bachelor of Science in Computer Science
+Innovate University, San Jose, California | GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Stellar Innovations, San Jose, California
+- Developed Java-based applications, implementing debugging and automated testing techniques to ensure seamless functionality.
+- Utilized NoSQL databases for efficient data storage and retrieval, optimizing performance in real-time scenarios.
+- Collaborated with cross-functional teams to identify and resolve technical issues, resulting in an enhanced user experience.
+
+Software Engineer, CipherTech Solutions, San Jose, California
+- Championed error tracking and resolution for an advanced ecommerce platform, ensuring smooth user experience and minimal downtime.
+- Utilized SQL for secure payment processing and performed data analysis to identify areas of improvement.
+- Developed Python-based scripts for automation, boosting productivity and streamlining workflows.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As an Indian male in San Jose, I actively work towards promoting diversity and inclusivity in the tech industry. I have taken a leadership role in a local soccer organization, where I foster teamwork, discipline, and passion for the sport among young athletes. Additionally, I mentor and guide students from diverse backgrounds who are pursuing careers in technology, ensuring equal opportunities and support.
+
+Hobbies:
+In my leisure time, I find solace in playing the tabla, a traditional Indian percussion instrument. I also enjoy participating in cultural events that celebrate the vibrant heritage of India, showcasing dance forms and traditional music. Exploring different cultures, languages, and cuisines is another passion of mine, as it broadens my perspective and enriches my experiences.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Marathi (Proficient)

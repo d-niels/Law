@@ -1,0 +1,37 @@
+Zefirino Zarate
+
+Personal Statement:
+Driven and dedicated software engineer, Zefirino Zarate, brings a unique perspective and valuable skills to the industry. With a strong commitment to excellence and a passion for problem-solving, I am determined to make a positive impact through innovative software development. My goal is to contribute to cutting-edge projects, utilizing my expertise and adaptability to drive success.
+
+Education:
+Bachelor of Science in Computer Science, Magnolia University, Houston, TX (GPA: 3.9)
+
+Work Experience:
+Software Engineer, Quantum Innovations, Houston, TX
+- Developed and maintained robust software solutions using Python, Java, SQL, and NoSQL databases.
+- Implemented secure payment systems, ensuring seamless and safe transactions for an e-commerce platform.
+- Conducted thorough debugging and error tracking, enhancing overall product quality and user experience.
+
+Junior Software Engineer, TechnoLogic Solutions, Houston, TX
+- Collaborated with a multidisciplinary team to design and implement efficient automated testing protocols, ensuring software reliability.
+- Assisted in debugging and troubleshooting software issues, employing advanced techniques and tools to optimize performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Contributed actively to the Latino community through volunteer activities, providing mentorship and support to aspiring software engineers.
+- Served as a sports coach for a youth soccer team, fostering leadership skills, teamwork, and a passion for the game.
+
+Hobbies:
+- Playing the guitar, channeling creativity and showcasing a deep appreciation for music.
+- Exploring diverse cultural traditions and arts, celebrating the richness and vibrancy of Latino heritage.
+
+Languages:
+- Fluent in English and Spanish, facilitating effective communication and collaboration.
+
+References available upon request.

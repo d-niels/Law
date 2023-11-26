@@ -1,0 +1,38 @@
+Personal Statement:
+As a Chinese female software engineer from Houston, Texas, I am driven by my passion for coding and problem-solving. I am determined to contribute my skills and knowledge to the software engineering field and make a meaningful impact. With a strong academic background and extensive work experience, I am confident in my ability to excel as a software engineer and drive innovation in the industry.
+
+Education:
+Bachelor of Science in Computer Science, Houston Institute of Technology, Houston, Texas 
+GPA: 3.9
+
+Work Experience:
+
+Software Engineer, StellarTech Solutions, Houston, TX (May 2018 - Present)
+- Developed and maintained a robust and scalable e-commerce platform using Java, ensuring efficient online transactions and enhancing overall user experience.
+- Implemented automated test suites using industry-standard tools, reducing software defects by 40% and enhancing overall product quality.
+- Collaborated with cross-functional teams to design and implement Python-based data analysis solutions, providing valuable insights for business strategy.
+
+Software Engineering Intern, TechnoSolutions Inc., Houston, TX (Summer 2017)
+- Optimized database performance using SQL and implemented error tracking mechanisms, resulting in a 25% improvement in data retrieval and error detection.
+- Utilized NoSQL databases to enhance data storage and retrieval capabilities, ensuring smooth user experience and improved system performance.
+- Emphasized security measures during the implementation of secure payment systems and effectively debugged potential vulnerabilities.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in the Chinese-American Software Engineers Association, fostering a supportive community for Chinese talent in the tech industry.
+- Held a leadership role as a basketball coach, empowering young girls to develop their skills and self-confidence through sports.
+
+Hobbies:
+- Playing the Guzheng, a traditional Chinese instrument, to nurture cultural connections and express creativity.
+- Advocating for diversity and inclusion in the tech industry, promoting opportunities for women and underrepresented groups.
+- Engaging in language exchange programs to foster multicultural understanding and appreciation.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

@@ -1,0 +1,36 @@
+Bo Nan
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a passion for developing innovative solutions. Dedicated to achieving excellence in every project by leveraging strong problem-solving skills and a deep understanding of programming languages and database technologies. I am committed to embracing diversity and promoting cultural understanding through my volunteer work and leadership roles.
+
+Education:
+Bachelor of Science in Computer Science, Pacific Tech University, San Francisco, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Tech Innovators Inc., San Diego, CA
+- Debugged and resolved complex issues in software applications, ensuring smooth functionality and user satisfaction.
+- Developed secure payment systems using SQL and Java, guaranteeing the safety and integrity of financial transactions.
+
+Software Engineer Intern, Nova Systems, San Diego, CA
+- Implemented error tracking and automated testing solutions to improve software quality and efficiency.
+- Collaborated on an eCommerce platform, leveraging NoSQL and Python to enhance performance and scalability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Ethnic and Gender Advocacy: Actively involved in various community events as a prominent advocate for promoting cultural diversity and gender equality, fostering dialogue and understanding.
+- Sports Leadership: Captain of the university soccer team, leading the team to victory through strategic planning, motivation, and strong teamwork.
+
+Hobbies:
+- Playing the traditional Chinese instrument, the Guzheng, showcasing my appreciation for cultural arts and music.
+- Exploring diverse literature and cinema, from Eastern philosophies to Western classics, broadening my knowledge and nurturing creativity.
+
+Languages:
+- English: Fluent
+- Chinese (Mandarin): Native speaker

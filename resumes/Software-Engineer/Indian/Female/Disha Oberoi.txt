@@ -1,0 +1,40 @@
+Disha Oberoi
+
+Personal Statement:
+A highly motivated and skilled software engineer with a strong background in computer science. Leveraging a solid foundation in programming languages and database technologies, I am committed to developing innovative software solutions. My dedication to problem-solving and passion for technology drive me to continuously learn and stay up-to-date with industry trends. Seeking a challenging role as a software engineer to contribute to the growth and success of a dynamic organization.
+
+Education:
+Bachelor of Science in Computer Science, XYZ University, Dallas, Texas
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Stellar Tech Solutions, Dallas, Texas
+- Conducted automated testing to ensure the quality and reliability of software products.
+- Proficient in programming languages including Java, NoSQL, and secure payments integration.
+- Collaborated with cross-functional teams to develop and maintain robust software systems.
+
+Software Developer, Nova Solutions, Dallas, Texas
+- Developed e-commerce applications using Python and SQL, ensuring seamless functionality.
+- Experienced in error tracking and debugging, with a keen eye for detail and problem-solving abilities.
+- Contributed to the improvement of software systems through continuous monitoring and analysis.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively participated in initiatives to promote diversity and inclusion in the tech industry, advocating for equal opportunities for women and individuals from underrepresented communities.
+- Served as a captain for a women's basketball team, leading by example and fostering teamwork, discipline, and determination.
+
+Hobbies:
+- Playing the piano as a form of creative expression and relaxation.
+- Exploring world cultures through travel and immersing in diverse communities.
+- Engaging in photography to capture moments that evoke emotions and tell unique stories.
+
+Languages:
+Fluent in English and Hindi.
+
+References available upon request.

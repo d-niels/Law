@@ -1,0 +1,48 @@
+Personal Statement:
+
+As a passionate Software Engineer with a strong background in computer science, I am driven to leverage my skills and expertise to revolutionize the software development industry. Hailing from the vibrant city of El Paso, Texas, as a Latino male, I bring a unique perspective and unwavering commitment to drive innovation and foster diversity in the tech community.
+
+Education:
+
+Bachelor of Science in Computer Science, Rio Grande University (El Paso, Texas)
+- Graduated with a remarkable GPA of 3.9
+- Relevant coursework: Data Structures, Algorithms, Software Engineering, Web Development, Database Management
+
+Work Experience:
+
+Software Engineer - TechnoVerse Solutions, El Paso, Texas
+- Developed automated testing procedures using Python and Java, significantly improving software quality assurance processes and reducing time-to-market.
+- Employed NoSQL databases for streamlined data storage and retrieval, optimizing application performance.
+- Collaborated with cross-functional teams to analyze requirements and propose innovative solutions.
+- Conducted code reviews and provided valuable feedback to enhance team productivity and code quality.
+
+Junior Software Developer - Innovatix Inc., El Paso, Texas
+- Spearheaded the development of secure payment systems for e-commerce applications, implementing robust measures to protect against fraud and unauthorized transactions.
+- Implemented error tracking mechanisms and utilized powerful debugging techniques, reducing software downtime and ensuring smooth user experiences.
+- Managed SQL databases, optimizing performance and enhancing query efficiency.
+- Collaborated closely with teams to investigate and troubleshoot software issues, delivering effective solutions in a timely manner.
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+- Latino College Club: Mentored and provided support to Latino students pursuing computer science degrees, helping them overcome academic challenges and encouraging their success.
+- Software Engineering Leadership Program - Soccer Team Captain: Led a software engineering team in the development of an advanced intercollegiate soccer tournament management application, combining my passion for soccer and technology to deliver seamless event coordination.
+- Active advocate for diversity and inclusion in local communities, with a focus on promoting increased representation of Latinos in the tech industry.
+
+Hobbies:
+
+- Guitarist: As an accomplished guitarist, I find solace and creativity in playing diverse genres of music, channeling my emotions through the strings.
+- Cultural Enthusiast: I actively explore different cultures, histories, and traditions, cherishing the richness of diversity and promoting inclusivity in every aspect of life.
+- Language Learning: Fluent in English and Spanish, I continuously strive to expand my linguistic repertoire, embracing the power of effective communication across various cultures.
+
+Languages:
+
+- English (Fluent)
+- Spanish (Native)

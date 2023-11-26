@@ -1,0 +1,37 @@
+Personal Statement:
+As a dedicated and highly motivated software engineer, I am passionate about leveraging my skills and expertise to create innovative technological solutions. With a strong educational background in computer science and a drive to make a positive impact, I am excited to contribute to a dynamic organization that values diversity and inclusivity.
+
+Education:
+Bachelor of Science in Computer Science - University of Texas at Austin
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - InnovexSoft, Austin, Texas
+- Implemented and maintained automated testing frameworks to improve overall software quality.
+- Developed scalable NoSQL databases to optimize data storage and retrieval processes.
+- Utilized Java programming language to design and implement efficient software solutions.
+- Executed SQL queries to retrieve and manipulate data for various projects.
+
+Software Engineering Intern - VisionaryTech, Austin, Texas
+- Collaborated with team members to develop and enhance Python-based web applications.
+- Applied error tracking techniques to identify and resolve software defects.
+- Implemented secure payment functionalities for ecommerce platforms.
+- Conducted thorough debugging to ensure seamless user experiences.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Sports Leadership Role: Served as the team captain for a competitive soccer team, promoting a strong work ethic and fostering a supportive and inclusive team environment.
+- Active participation and leadership in organizations dedicated to empowering Latinx females in the technology industry, promoting diversity and inclusion.
+
+Hobbies:
+- Playing the guitar and composing music to express emotions and explore different genres.
+- Traveling to immerse in diverse cultures and embracing multicultural experiences.
+
+Languages:
+- Bilingual: English and Spanish

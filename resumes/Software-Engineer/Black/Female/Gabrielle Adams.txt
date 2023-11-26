@@ -1,0 +1,41 @@
+Personal Statement:
+As a black female software engineer from Memphis, Tennessee, my passion lies in harnessing technology to solve complex problems. With a strong educational background in computer science and diverse work experience, I am equipped with a solid foundation to excel in the role of a software engineer. I am committed to continuous learning, collaboration, and delivering innovative solutions to drive positive change.
+
+Education:
+Bachelor of Science in Computer Science, XYZ State University, Memphis, Tennessee
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Techwave Solutions, Memphis, Tennessee | June 2018 - Present
+- Developed and maintained NoSQL and SQL databases, ensuring data integrity and optimal performance.
+- Utilized Java for coding and implementation of software components.
+- Conducted thorough debugging to identify and resolve technical issues.
+- Collaborated with cross-functional teams to enhance software functionality and user experience.
+
+Junior Software Engineer, InnovateTech, Memphis, Tennessee | May 2017 - June 2018
+- Contributed to the development of an ecommerce platform, ensuring smooth and secure online transactions.
+- Implemented error tracking mechanisms to identify and resolve software glitches effectively.
+- Utilized Python for coding and automation of various processes.
+- Conducted rigorous testing to ensure software reliability and compatibility with secure payment systems.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry through mentoring black female students who aspire to pursue STEM careers.
+- Sports Leadership: As a dedicated soccer player and team captain, I lead my team to victory while promoting teamwork, discipline, and perseverance.
+
+Hobbies:
+- Playing the saxophone, exploring different music genres, and incorporating diverse influences into my compositions.
+- Engaging in various cultural and artistic activities to celebrate and promote diversity.
+- Exploring different languages and cultures, fostering cross-cultural understanding and appreciation.
+
+Languages:
+- English (fluent)
+- Spanish (intermediate level)
+
+References available upon request.

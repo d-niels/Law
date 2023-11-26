@@ -1,0 +1,40 @@
+QING YANG
+
+Personal Statement:
+Detail-oriented software engineer with a passion for creating innovative solutions. With a strong educational foundation in computer science and diverse work experience in the field, I am highly skilled in error tracking, programming languages, database technologies, and problem-solving. Committed to delivering high-quality software products, I seek to contribute my technical expertise to a forward-thinking organization as a Software Engineer.
+
+Education:
+Bachelor of Science in Computer Science
+Techville University, Chicago, Illinois
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechnoSoft Solutions, Chicago, Illinois
+January 2018 - Present
+- Developed an advanced error tracking system utilizing Python and SQL, significantly reducing debugging time by 30%
+- Collaborated with cross-functional teams to ensure secure payment integration for the company's flagship software
+- Conducted rigorous testing to identify and resolve software issues, resulting in a robust and reliable product platform
+
+Software Development Intern, InnovateTech, Chicago, Illinois
+June 2017 - December 2017
+- Assisted in the development of an e-commerce platform using NoSQL and Java, contributing to increased website performance and user engagement
+- Utilized automated testing techniques to streamline the debugging process and enhance software efficiency
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Co-Founder, Chinese-American Computer Science Association: Organized networking events and workshops to promote cultural exchange and provide resources to Chinese-American computer science students, fostering a supportive community.
+- Sports Leadership Role: Served as the captain of a local basketball team, leading the team in strategic planning, skill development, and fostering teamwork among players from diverse backgrounds.
+
+Hobbies:
+- Playing the erhu, a traditional Chinese instrument
+- Participating in local community events that celebrate diversity and inclusion
+- Exploring new technologies related to artificial intelligence and machine learning
+
+Languages:
+- Fluent in English and Mandarin Chinese

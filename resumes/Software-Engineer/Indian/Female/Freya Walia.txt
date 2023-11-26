@@ -1,0 +1,46 @@
+Freya Walia
+
+Personal Statement:
+Dedicated and result-driven software engineer with a passion for creating innovative solutions. Committed to excellence in a collaborative and fast-paced environment while utilizing strong analytical and problem-solving skills. Proactive and self-motivated, with a drive to deliver high-quality software products. Seeking a challenging software engineer role to contribute to cutting-edge technology solutions.
+
+Education:
+Bachelor of Science in Computer Science - Hightower University, Dallas, Texas
+- Graduated with a 3.9 GPA
+- Relevant coursework: Data Structures, Algorithms, Object-Oriented Programming, Software Engineering
+
+Work Experience:
+
+Software Engineer - Equinox Technologies, Dallas, Texas (2018-2020)
+- Collaborated with cross-functional teams to design and execute automated testing scripts for an e-commerce platform
+- Utilized Python to streamline testing processes, resulting in a 20% reduction in testing time
+- Implemented error tracking and resolution techniques, leading to a 30% decrease in critical errors
+- Worked closely with the development team to identify and resolve software defects and performance issues
+
+Software Developer - SwiftSecure Inc., Dallas, Texas (2017-2018)
+- Developed and maintained Java-based web applications for secure payment processing, adhering to industry standards
+- Utilized SQL and NoSQL databases to optimize data storage and retrieval
+- Employed debugging techniques to identify and resolve software defects, improving customer satisfaction by 15%
+- Collaborated with the development team to enhance application security and prevent unauthorized access
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry as an Indian female software engineer
+- Organized and led coding workshops for young girls, encouraging their interest in STEM fields
+- Served as a team captain in competitive soccer, demonstrating leadership, teamwork, and organizational skills
+
+Hobbies:
+- Playing the piano and painting
+- Exploring different cultures through art, music, and travel
+- Supporting gender equality and women's empowerment initiatives
+- Engaging in community services focused on diversity and inclusion
+
+Languages:
+Fluent in English and Hindi
+
+Note: The information provided in this resume is fictional and created for demonstrative purposes.

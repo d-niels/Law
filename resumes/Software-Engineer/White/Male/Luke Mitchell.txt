@@ -1,0 +1,43 @@
+Luke Mitchell
+Jacksonville, Florida | (555) 123-4567 | lukemitchell@email.com
+
+Personal Statement:
+Highly skilled and motivated software engineer with a passion for developing secure, efficient, and user-friendly software solutions. Committed to continuous learning and staying up-to-date with the latest industry trends. Strong problem-solving abilities and a collaborative mindset to drive project success.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+Florida State University, Tallahassee, FL
+
+Work Experience:
+Software Engineer, Tech Solutions Inc., Jacksonville, FL (August 2018 - Present)
+- Developed secure payment system features using Java, ensuring accurate error tracking and debugging for streamlined payment processing.
+- Collaborated with cross-functional teams to implement enhancements and resolve issues.
+- Utilized various debugging tools and techniques to identify critical software defects, resulting in improved performance and reduced downtime.
+
+Software Developer Intern, DataTech Corp., Jacksonville, FL (May 2017 - August 2017)
+- Assisted in the development of an ecommerce platform using SQL and NoSQL databases.
+- Wrote efficient Python code for automated testing, optimizing system performance and ensuring high-quality software deliverables.
+- Contributed to the design and implementation of innovative features, resulting in improved user experience and increased customer satisfaction.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Member, National Society of Black Engineers (NSBE), Florida State University Chapter
+- Active involvement in organizing events and workshops to promote diversity in STEM fields.
+- Mentored minority students, providing guidance and support in pursuing careers in technology.
+- Served as a basketball team captain, organizing practices and leading the team to several championships.
+
+Hobbies:
+- Playing the drums
+- Exploring diverse cultures through photography and travel
+
+Languages:
+Fluent in English and Spanish
+
+References:
+Available upon request

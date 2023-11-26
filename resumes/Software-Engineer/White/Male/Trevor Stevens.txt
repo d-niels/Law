@@ -1,0 +1,44 @@
+Trevor Stevens
+Jacksonville, Florida | (123) 456-7890 | trevor.stevens@email.com
+
+Personal Statement:
+Dedicated and results-driven software engineer with a passion for developing innovative solutions. Committed to delivering high-quality products through strong problem-solving abilities and attention to detail. Enthusiastic about staying up-to-date with the latest technologies and leveraging them to enhance user experiences.
+
+Education:
+Bachelor of Science in Computer Science, Jacksonville State University, Jacksonville, Florida
+- GPA: 3.9/4.0
+
+Work Experience:
+Senior Software Engineer, Zenith Technologies, Jacksonville, Florida
+September 2018 - Present
+- Developed secure payment solutions for a high-traffic e-commerce platform using Java and NoSQL databases.
+- Conducted effective debugging techniques and implemented fix solutions to ensure application stability and security.
+- Collaborated with cross-functional teams to optimize software performance and enhance user experience.
+
+Software Developer, Innovate Tech Solutions, Jacksonville, Florida
+June 2017 - August 2018
+- Designed and maintained SQL databases to support automated testing and validation processes.
+- Utilized Python to develop comprehensive error tracking systems, significantly reducing bug detection and resolution time.
+- Played a key role in the development and enhancement of an e-commerce platform, increasing online sales by 15%.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+National Society of Black Engineers, Member
+- Actively participate in community outreach to promote diversity in the engineering field.
+- Mentored students from underrepresented backgrounds, providing guidance and support.
+- Served as a basketball team leader, organizing and coaching local youth basketball leagues.
+
+Hobbies:
+Playing the piano, participating in competitive basketball tournaments, hiking, and discovering new places to explore.
+
+Languages:
+Fluent in English and Spanish.
+
+References:
+Available upon request.

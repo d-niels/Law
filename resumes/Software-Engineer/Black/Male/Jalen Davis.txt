@@ -1,0 +1,39 @@
+Personal Statement:
+I am a motivated and dedicated software engineer with a strong passion for developing innovative solutions through coding. As a black male from Washington, District of Columbia, I value diversity and have a deep commitment to making a positive impact in the tech industry. With a bachelor's degree in computer science and a solid background in programming languages and database technologies, I am well-equipped to contribute to the development of cutting-edge software applications.
+
+Education:
+Bachelor of Science in Computer Science, Washington Metropolitan University, Washington, DC
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, TechGenius Inc., Washington, DC
+- Successfully implemented automated testing tools to ensure software performance and reliability
+- Developed and maintained efficient SQL databases for data storage and retrieval
+- Utilized Java programming language to design and implement various software solutions
+- Implemented error tracking systems to identify and address software defects
+
+Software Engineer Intern, InnovateTech Solutions, Washington, DC
+- Collaborated with a team to build and enhance a robust ecommerce platform
+- Utilized Python for backend development and data manipulation to improve functionality
+- Worked extensively with NoSQL databases to optimize data storage and retrieval for scalability
+- Implemented secure payment systems to ensure safe and secure transactions
+- Conducted thorough debugging activities to identify and resolve software issues efficiently
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member and advocate for diversity in the tech industry as a mentor for the Blacks in Tech organization
+- Served as a mentor for underrepresented students pursuing computer science degrees at local high schools, promoting inclusivity and equal opportunities
+- Led a basketball team as the captain, fostering unity, teamwork, and discipline on and off the court
+
+Hobbies:
+- Playing the saxophone, creating and appreciating jazz music
+- Participating in local community events and organizations that promote diversity, inclusivity, and social change
+
+Languages:
+- Fluent in English and French

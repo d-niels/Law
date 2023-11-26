@@ -1,0 +1,40 @@
+Personal Statement:
+A highly motivated and diligent software engineer with a passion for problem-solving, I am eager to leverage my skills and experience to contribute to cutting-edge software development. With a strong educational background in computer science, I am dedicated to delivering high-quality solutions to meet the unique demands of diverse projects. As a Chinese male, I embrace diversity and thrive in multicultural environments, bringing a unique perspective to every team I work with.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Pacific Tech University, Philadelphia, Pennsylvania
+
+Work Experience:
+Software Engineer, Stellar Systems, Philadelphia, Pennsylvania
+- Utilized Python programming language to design and develop secure payment systems for e-commerce platforms.
+- Implemented automated testing processes, resulting in increased efficiency and improved accuracy.
+- Collaborated with cross-functional teams to ensure seamless integration of payment systems into e-commerce platforms.
+- Contributed to the development of an innovative e-commerce platform, leveraging my expertise in Python, secure payments, automated testing, and e-commerce.
+
+Software Engineer Intern, DynaPulse Solutions, Philadelphia, Pennsylvania
+- Developed Java applications for error tracking and debugging purposes.
+- Proficiently worked with NoSQL and SQL databases to implement efficient and scalable data retrieval mechanisms.
+- Collaborated with team members to identify and resolve software defects, ensuring reliable and optimized system performance.
+- Demonstrated strong problem-solving skills to address complex technical challenges.
+- Developed expertise in Java, Error tracking, NoSQL, debugging, and SQL.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively participate in community initiatives promoting diversity and inclusion, leveraging my background as a Chinese male software engineer to inspire and encourage underrepresented groups in the tech industry.
+- Sport Leadership Role: Served as captain of a competitive badminton team, promoting teamwork, discipline, and sportsmanship both on and off the court.
+
+Hobbies:
+- Playing the piano, showcasing appreciation for music and creativity.
+- Exploring various cultures through travel, broadening perspectives and embracing diversity.
+- Engaging in martial arts, channeling discipline, and maintaining physical fitness.
+
+Languages:
+- English: Fluent
+- Mandarin: Native Speaker

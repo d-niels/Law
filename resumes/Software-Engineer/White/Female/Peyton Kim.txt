@@ -1,0 +1,36 @@
+Personal Statement:
+I am a driven and dedicated software engineer with a deep passion for problem-solving and innovation. Armed with a Bachelor's degree in Computer Science from the prestigious Austin Tech University, I bring not only technical expertise but also a strong commitment to promoting diversity and inclusivity in the tech industry. As a white female hailing from Austin, Texas, I recognize the significance of representation and strive to inspire and empower others in the field.
+
+Education:
+Bachelor of Science in Computer Science, Austin Tech University, Austin, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+1. Software Engineer, TechNova Solutions, Austin, Texas
+- Collaborated with cross-functional teams to develop and implement automated testing procedures using Python, ensuring superior software quality and reliability.
+- Leveraged NoSQL databases to streamline e-commerce platforms, driving seamless integration and enhanced user experiences.
+- Designed and optimized applications with a focus on performance and scalability to meet stringent project requirements.
+
+2. Software Engineer Intern, QuantumSoft Technologies, Austin, Texas
+- Played a key role in debugging and error tracking processes, identifying and resolving software issues to ensure smooth operation.
+- Contributed to the development and enhancement of secure payment systems, implementing robust measures to safeguard user data.
+- Utilized Java and SQL to build efficient and robust software applications while adhering to coding best practices.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Acted as a role model and advocate for diversity in the tech community, organizing events and promoting equal opportunities for underrepresented minorities and women.
+- Served as a dedicated leader and mentor for a local soccer team, fostering teamwork, discipline, and personal growth among young athletes.
+
+Hobbies:
+- Showcasing my musical inclination by playing the violin, a melodious outlet that nurtures my creativity.
+- Engaging in cultural immersion activities to foster understanding and appreciation of diverse ethnicities, promoting inclusivity and harmony.
+- Participating in coding competitions, constantly challenging myself and staying ahead of the curve in the dynamic tech landscape.
+
+Languages:
+- Fluent in English and Spanish, facilitating effective communication and collaboration in multicultural environments.

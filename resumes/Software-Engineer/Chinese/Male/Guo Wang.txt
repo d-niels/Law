@@ -1,0 +1,37 @@
+Personal Statement:
+I am a highly motivated and skilled software engineer with a passion for creating innovative and efficient solutions. With a strong background in computer science and extensive experience in various programming languages and database technologies, I am confident in my ability to contribute to any software engineering team. I am dedicated to continuously expanding my knowledge and skills to stay at the forefront of the rapidly evolving tech industry.
+
+Education:
+Bachelor of Science in Computer Science, San Francisco Institute of Technology (San Francisco, CA)
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, TechCore Solutions (San Francisco, CA)
+- Developed and maintained secure payment systems for e-commerce platforms, ensuring seamless and safe financial transactions
+- Utilized debugging techniques to identify and resolve software issues, resulting in improved system performance
+- Implemented NoSQL databases to enhance data retrieval and storage efficiency, optimizing overall system operations
+- Collaborated with cross-functional teams to successfully launch cutting-edge products and features
+
+Software Developer, PixelWorks Innovations (San Francisco, CA)
+- Utilized Java and Python to develop and maintain advanced error tracking software, effectively capturing and resolving software bugs
+- Implemented automated testing frameworks to streamline the testing process and ensure software quality
+- Utilized SQL to optimize database performance and enhance query efficiency, resulting in improved overall system speed
+- Collaborated with a team of experienced developers to analyze and solve complex technical problems, fostering a collaborative work environment
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry, advocating for the representation of underrepresented communities, including Asian males like myself
+- Organized and led a community basketball team, providing coaching and mentorship to young athletes
+
+Hobbies:
+- Playing the traditional Chinese instrument, Guzheng, showcasing my cultural heritage through music
+- Exploring different cultures and languages to foster cross-cultural understanding and appreciation
+
+Languages:
+- Fluent in English and Mandarin Chinese

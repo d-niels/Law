@@ -1,0 +1,36 @@
+Personal Statement:
+Highly motivated and dedicated software engineer with a strong passion for problem-solving and developing innovative solutions. With a solid academic background and extensive work experience, I am confident in my ability to contribute effectively to the development of complex software systems. Seeking a challenging role as a software engineer to further enhance my skills and make a meaningful impact in the field.
+
+Education:
+Bachelor of Science in Computer Science
+University of Arizona, Tucson, AZ
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Stellar Systems, Phoenix, AZ
+- Developed and maintained an e-commerce platform using Python and Django, enabling seamless online transactions and enhancing the user experience.
+- Conducted automated testing and debugging, resulting in increased efficiency and reduced error rates.
+- Collaborated with cross-functional teams to ensure smooth functionality of the system.
+
+Software Engineer, NovaTech, Phoenix, AZ
+- Implemented secure payment systems, ensuring the protection of sensitive customer information.
+- Utilized advanced error tracking tools to identify and resolve issues promptly, optimizing system performance and user satisfaction.
+- Worked with both NoSQL and SQL databases to efficiently manage and retrieve large datasets.
+- Contributed to the development of software systems using Java, ensuring scalable and robust solutions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white female software engineer, I am committed to promoting diversity and empowerment within the industry. I actively volunteer in my local community, particularly focusing on underrepresented groups in technology. I have also served as a team captain for a girls' basketball league, leading with passion and instilling teamwork, resilience, and confidence in young women.
+
+Hobbies:
+Outside of work, I find solace and creativity in playing the violin, captivating others with the soulful melodies. I am also deeply involved in advocating for equal rights and social justice, continually educating myself through seminars and workshops. Embracing different cultures and exploring their rich heritage through art, music, and literature brings me immense joy and inspires my love for diversity.
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate)

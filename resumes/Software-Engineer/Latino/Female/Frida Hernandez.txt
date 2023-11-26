@@ -1,0 +1,39 @@
+Frida Hernandez
+
+Personal Statement:
+Motivated and dedicated software engineer with a passion for creating efficient and innovative solutions. Committed to continuous learning and professional development, with a strong ability to adapt to new technologies and programming languages. As a proud Latina female, I am an advocate for diversity and gender equality in the tech industry, always striving to contribute and promote inclusivity in every aspect of my work.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Valencia University, San Antonio, TX
+
+Work Experience:
+Software Engineer, InnovX Technologies, Dallas, TX
+- Developed and maintained software projects using Python, Java, SQL, and NoSQL.
+- Collaborated with cross-functional teams to design and implement scalable solutions.
+- Conducted thorough testing and debugging to ensure optimal performance and reliability.
+
+Software Developer, Quantum Systems, Dallas, TX
+- Implemented error tracking, secure payment, and ecommerce systems.
+- Utilized automated testing and debugging techniques to identify and resolve issues.
+- Worked closely with clients to understand requirements and deliver effective solutions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and gender equality in the tech community.
+- Served as a leader and mentor in women's soccer, empowering young athletes and fostering team spirit.
+- Participated in various tech conferences and events as a speaker, promoting inclusivity and sharing insights.
+
+Hobbies:
+- Playing the violin to express creativity and find solace in music.
+- Engaging in outdoor activities such as rock climbing and cycling, embracing nature’s challenges.
+- Participating in cultural festivals and events that celebrate diverse traditions and heritage.
+
+Languages: 
+- Fluent in English and Spanish.

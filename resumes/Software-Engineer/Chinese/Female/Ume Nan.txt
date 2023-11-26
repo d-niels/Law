@@ -1,0 +1,42 @@
+Personal Statement:
+Ume Nan is a highly motivated and dedicated software engineer with a passion for creating innovative solutions. With a solid foundation in computer science and a strong set of technical skills, Ume is committed to optimizing software performance and enhancing user experiences. Ume also brings a unique perspective as a Chinese female in the male-dominated tech industry. With a natural talent for problem-solving, Ume thrives in fast-paced environments and is always seeking new challenges to further develop her skills.
+
+Education:
+Bachelor of Science in Computer Science, Pacific Rim University, San Francisco, CA
+GPA: 3.9
+
+Work Experience:
+Software Engineer, Zenith Solutions, Oakland, CA
+- Implemented SQL queries for data retrieval and manipulation, optimizing system performance.
+- Conducted automated testing procedures, significantly reducing software bugs and errors.
+- Utilized error tracking tools to identify and resolve software issues promptly.
+- Collaborated with cross-functional teams to ensure seamless integration of software components.
+- Developed Java applications, enhancing overall system efficiency.
+
+Software Engineer Intern, Innovix Technologies, San Francisco, CA
+- Designed and implemented e-commerce systems, facilitating secure online transactions.
+- Utilized NoSQL databases to handle large amounts of data for improved system scalability.
+- Debugged and resolved complex software issues, ensuring system stability.
+- Developed secure payment gateways, ensuring sensitive user information protection.
+- Utilized Python to enhance software functionalities and performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Founder, Women in Tech Organization: Initiated a support group empowering women in the tech industry, organizing networking events and professional development workshops.
+- Soccer Team Leader: Served as a team captain for the university's soccer team, fostering teamwork and sportsmanship while leading the team to numerous victories.
+
+Hobbies:
+- Playing the Guzheng (Chinese zither): A traditional Chinese musical instrument, showcasing Ume's cultural appreciation and dedication to art.
+- Exploring diverse cultures and participating in cultural exchange events: Actively engaging with various cultures to promote inclusivity and understanding.
+- Reading books on tech advancements: Staying up-to-date with the latest trends in technology and software development.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+- Cantonese (Intermediate)

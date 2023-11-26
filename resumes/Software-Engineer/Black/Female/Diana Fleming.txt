@@ -1,0 +1,36 @@
+Personal Statement:
+Driven and dedicated software engineer with a strong passion for problem-solving and delivering innovative solutions. Adept at leveraging technical expertise and creativity to optimize software applications. Collaborative team player with excellent communication skills and a track record of delivering high-quality work. Committed to fostering diversity and inclusion in the tech industry.
+
+Education:
+Bachelor's Degree in Computer Science, Sunshine University, Jacksonville, Florida
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, Tech Innovators Inc., Jacksonville, Florida
+- Developed robust and scalable software applications using Java, applying advanced debugging techniques to identify and resolve issues quickly
+- Designed and implemented NoSQL and SQL databases for efficient data storage and retrieval, improving system performance
+- Collaborated with cross-functional teams to deliver high-quality software solutions, meeting project deadlines
+
+Software Engineer Intern, Visionary Software Solutions, Jacksonville, Florida
+- Contributed to the development of a Python-based secure payments platform, ensuring ecommerce functionality and data integrity
+- Implemented automated testing procedures to enhance software quality and reliability, reducing manual effort and improving efficiency
+- Utilized error tracking tools to identify, prioritize, and resolve issues promptly, ensuring a seamless user experience
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion initiatives within the tech industry, particularly for underrepresented groups
+- Served as a team captain in women's soccer, fostering teamwork, resilience, and leadership skills among the diverse group members
+
+Hobbies:
+- Playing the piano and exploring various music styles
+- Engaging in outdoor activities like hiking and kayaking to appreciate nature's beauty
+
+Languages:
+- Fluent in English 
+- Proficient in Spanish

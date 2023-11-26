@@ -1,0 +1,50 @@
+Yi Gao
+
+123 Main Street, New York, NY 10001 | (123) 456-7890 | yigao@email.com
+
+Personal Statement:
+Results-driven software engineer with a strong educational background in computer science. Passionate about utilizing cutting-edge technologies to develop innovative software solutions. Committed to continuous learning and growth in the ever-evolving field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science, Metropolitan University, New York, NY
+- Graduated Magna Cum Laude
+- GPA: 3.9
+- Relevant Coursework: Algorithms, Data Structures, Software Engineering, Database Management Systems, Operating Systems
+
+Work Experience:
+Software Development Engineer, InnovateTech Solutions, New York, NY
+June 2020 - Present
+- Collaborated with cross-functional teams to design and develop a high-performance e-commerce platform.
+- Integrated secure payment gateways and implemented robust payment processing systems.
+- Conducted automated testing to ensure system reliability and functionality.
+- Utilized SQL for efficient database management and optimized data retrieval.
+
+Software Engineer Intern, TechGenius Innovations, New York, NY
+May 2019 - August 2019
+- Assisted in developing and maintaining a NoSQL database system for a popular social media platform.
+- Utilized debugging techniques and error tracking tools to identify and resolve software issues.
+- Developed backend systems using Python and Java, improving system performance and functionality.
+- Collaborated with the QA team to implement effective testing strategies.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Chinese Student Association, Metropolitan University
+- Served as Vice President, organizing cultural events and fostering intercultural dialogue.
+- Led a basketball team within the association, coordinating tournaments and coaching fellow students.
+- Mentored incoming international students, providing guidance and support in their transition to a new environment.
+
+Hobbies:
+- Playing basketball and serving as a team captain in a local community league.
+- Playing the erhu, a traditional Chinese instrument, showcasing at local cultural events.
+- Photography, capturing moments that celebrate diversity and multiculturalism.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+- Cantonese (Proficient)

@@ -1,0 +1,37 @@
+Personal Statement:
+As a black female software engineer hailing from Jacksonville, Florida, I am driven by a strong desire to transform the world through technology. With a bachelor's degree in computer science and a stellar academic record from Sunshine State University, I have honed my skills in programming languages, database technologies, and problem-solving. My unwavering commitment to diversity and gender inclusivity fuels my ambition to make a lasting impact in the field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science, Sunshine State University, Florida (GPA: 3.9)
+
+Work Experience:
+Software Engineer, Pegasus Technologies, Jacksonville, FL
+- Collaborated with cross-functional teams to pinpoint and debug software issues
+- Leveraged Python and SQL to develop and optimize cutting-edge e-commerce platforms
+- Implemented robust solutions for enhancing user experience and advancing business objectives
+
+Software Engineer, Athena Solutions, Jacksonville, FL
+- Led the development of secure payment systems, ensuring data integrity and user trust
+- Developed automated testing protocols using Java and NoSQL technologies
+- Employed error tracking techniques to identify and resolve software performance issues
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Acted as captain for a thriving basketball team, fostering teamwork, resilience, and camaraderie
+- Engaged in mentoring initiatives and public speaking to advocate for diversity and inclusivity in the tech industry
+
+Hobbies:
+- Playing the saxophone to explore the harmony of music
+- Embarking on cultural expeditions to immerse myself in diverse traditions and perspectives
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)
+
+By blending my technical prowess, leadership acumen, and commitment to broadening diversity, I am poised to contribute as a software engineer while infusing novel and inclusive perspectives into every project. I am eager to join a company that shares my passion for innovation, teamwork, and fostering an environment where every voice is heard and valued.

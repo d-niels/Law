@@ -1,0 +1,46 @@
+Er Liang
+San Francisco, CA | (555) 123-4567 | erliang@email.com
+
+Personal Statement:
+Dedicated and results-driven software engineer with a strong passion for creating innovative solutions. Skilled in secure payments, NoSQL, automated testing, and ecommerce. Committed to delivering high-quality code and continuously improving software systems. Seeking a challenging software engineer role to contribute to the development of cutting-edge technologies.
+
+Education:
+Bachelor of Science in Computer Science, Golden State University, San Francisco, CA
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, Quantum Technologies, San Francisco, CA
+- Developed secure payment solutions for the company's cutting-edge e-commerce platform
+- Implemented NoSQL databases for efficient data storage and retrieval
+- Designed and executed automated testing strategies to ensure software quality
+- Collaborated with cross-functional teams to deliver high-performing software systems
+
+Software Engineering Intern, Aurora Labs, San Francisco, CA
+- Utilized SQL to analyze and manage databases for effective error tracking and resolution
+- Debugged and resolved issues in Java-based software applications
+- Leveraged Python scripting for automation of repetitive tasks
+- Contributed to enhancing software performance through debugging and optimization techniques
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Youth Mentor, Chinese American Youth Association, San Francisco, CA
+- Provided mentorship and guidance to underprivileged Chinese-American students, promoting academic success and personal growth
+- Organized and led basketball tournaments, nurturing leadership and teamwork skills among participants
+- Assisted in organizing community events that celebrated Chinese culture and fostered inclusivity
+
+Hobbies:
+- Playing the erhu (a traditional Chinese instrument)
+- Leading a basketball team and organizing practices to enhance skills and sportsmanship
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References:
+Available upon request

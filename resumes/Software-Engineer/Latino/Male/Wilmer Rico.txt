@@ -1,0 +1,46 @@
+Wilmer Rico
+Las Vegas, Nevada
+Phone: (123) 456-7890
+Email: wilmer.rico@email.com
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a passion for creating secure and robust software solutions. Committed to leveraging my technical expertise and problem-solving skills to develop innovative applications that meet the changing needs of users. Seeking a software engineer position to contribute to a dynamic team and deliver high-quality software products.
+
+Education:
+Bachelor of Science in Computer Science, Las Vegas Tech University, Las Vegas, Nevada
+- Relevant Coursework: Software Engineering, Algorithms and Data Structures, Operating Systems
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, AlphaTech Solutions, Las Vegas, Nevada
+January 2019 - Present
+- Developed and implemented secure payment processing systems utilizing Python, NoSQL databases, and SQL.
+- Collaborated with cross-functional teams in the design and development of software components.
+- Conducted thorough testing and debugging procedures to ensure optimal performance and functionality.
+
+Software Developer, BetaSoft Solutions, Las Vegas, Nevada
+June 2017 - December 2018
+- Spearheaded automated testing efforts, resulting in enhanced product quality and reduced time-to-market.
+- Utilized Java and eCommerce platforms to design and enhance web applications for a diverse client base.
+- Implemented error tracking systems to analyze and resolve technical issues promptly.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion within the tech community, specifically advocating for Latino representation and equitable opportunities.
+- Served as a soccer team captain, organizing and leading a diverse team of players and fostering an inclusive and supportive team environment.
+
+Hobbies:
+- Playing the guitar and composing music to express cultural influences and personal experiences.
+- Engaging in community events and organizations to celebrate and preserve diverse heritage and promote understanding.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References Available Upon Request

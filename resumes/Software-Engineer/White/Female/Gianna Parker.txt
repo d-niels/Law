@@ -1,0 +1,37 @@
+Personal Statement:
+I am a dedicated and passionate software engineer with a strong background in programming, problem-solving, and database technologies. With a bachelor's degree in computer science and a keen eye for detail, I am motivated to contribute my skills and knowledge to innovative projects. As a white female from Austin, Texas, I am committed to promoting diversity and inclusion in the tech industry. I am excited to leverage my expertise and leadership skills to drive meaningful change while pursuing my career as a software engineer.
+
+Education:
+Bachelor of Science in Computer Science, Austin University, Austin, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, StellarTech Solutions, Austin, Texas
+- Developed and maintained Java and SQL-based ecommerce platforms, facilitating secure payment processing for clients.
+- Collaborated with cross-functional teams to implement scalable software solutions, enhancing user experience and driving business growth.
+- Utilized analytical skills to identify and resolve performance issues, optimizing the overall efficiency of the platforms.
+
+Software Engineer, InnovateIT, Austin, Texas
+- Implemented error tracking and utilized automated testing tools to improve the quality and reliability of Python-based software solutions.
+- Conducted thorough debugging sessions, utilizing debugging techniques to identify and resolve software issues efficiently.
+- Worked extensively with NoSQL databases, ensuring efficient data management and retrieval.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusivity in the tech industry, advocating for equal opportunities for individuals of all genders and ethnicities.
+- Served as a sports leader, organizing and coaching a local youth basketball team, fostering teamwork, and nurturing young talents.
+
+Hobbies:
+- Playing the piano and violin, expressing creativity through music.
+- Engaging in hiking and outdoor activities, staying physically active and connected with nature.
+- Participating in community events that celebrate diversity and multiculturalism.
+
+Languages:
+- English (fluent)
+- Spanish (intermediate)

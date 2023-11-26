@@ -1,0 +1,39 @@
+Personal Statement:
+Motivated and dedicated software engineer with a passion for solving complex problems and creating efficient solutions. As a white male from San Diego, I am committed to promoting diversity and gender equality in the tech industry. With a strong academic background in computer science and hands-on experience in software development, I am eager to contribute my skills and knowledge to drive innovation and deliver high-quality software solutions.
+
+Education:
+Bachelor of Science in Computer Science - San Diego State University, San Diego, CA (GPA: 3.9)
+
+Work Experience:
+
+Software Engineer - Innovex Solutions, San Francisco, CA
+- Developed secure payment systems, ensuring the integrity and confidentiality of financial transactions.
+- Implemented automated testing procedures to enhance software reliability and efficiency.
+- Utilized NoSQL databases to optimize data management and retrieval.
+- Leveraged Java to develop scalable and robust software solutions.
+
+Software Developer - Nexus Technologies, San Diego, CA
+- Debugged and resolved software issues to improve overall system performance.
+- Utilized Python to develop and maintain software applications.
+- Implemented error tracking mechanisms to identify and address software bugs.
+- Collaborated with cross-functional teams to enhance e-commerce functionalities.
+- Utilized SQL database technologies to manage and manipulate large datasets.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and gender equality in the tech industry.
+- Served as a team captain in competitive basketball, driving teamwork and fostering inclusivity within a multicultural environment.
+
+Hobbies:
+- Playing the guitar, showcasing my creativity through music.
+- Engaging in basketball tournaments, refining leadership skills and fostering teamwork.
+- Enjoying photography and capturing moments that celebrate diversity and culture.
+
+Languages:
+- Fluent in English and Spanish.

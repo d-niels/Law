@@ -1,0 +1,44 @@
+Imani Brooks
+123 Main Street, Philadelphia, Pennsylvania | (555) 123-4567 | imanibrooks@email.com
+
+Personal Statement:
+Dedicated and highly motivated black female software engineer with a strong passion for developing innovative solutions. Skilled in multiple programming languages and experienced in developing secure payment systems and ecommerce platforms. Exceptional problem-solving abilities combined with analytical skills, allowing for efficient debugging and testing. Committed to creating impactful software solutions to meet the ever-evolving needs of users.
+
+Education:
+Bachelor of Science in Computer Science, Magna Cum Laude, Liberty University, Philadelphia, Pennsylvania
+- Relevant coursework: Data Structures, Algorithms, Software Engineering
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Techron Solutions, Philadelphia, Pennsylvania
+June 2018 - Present
+- Developed and maintained Java-based secure payment systems and ecommerce platforms for clients in the retail industry.
+- Implemented automated testing procedures to ensure the reliability and security of payment processing.
+- Collaborated with cross-functional teams to design and implement new features and enhancements.
+- Successfully integrated third-party APIs to improve platform functionality and user experience.
+
+Software Developer Intern, InnovateTech, Philadelphia, Pennsylvania
+May 2017 - August 2017
+- Participated in the development of Python applications, focusing on debugging and error tracking.
+- Utilized NoSQL and SQL databases for data storage and retrieval.
+- Collaborated with the development team to improve software efficiency and performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Girls Who Code Mentor, ABC Community Center, Philadelphia, Pennsylvania: Mentored and motivated young black girls to pursue careers in technology, fostering their interest in programming.
+- Basketball Team Captain, Liberty University: Demonstrated strong leadership, teamwork, and communication skills both on and off the court, leading the team to the university's first-ever regional championship.
+
+Hobbies:
+- Playing the piano: Proficient in playing classical and contemporary music.
+- Participating in diversity and inclusion panels: Actively engage in shaping conversations on diversity and inclusivity in the technology industry, with a focus on empowering underrepresented groups.
+
+Languages:
+- Fluent in English and Spanish
+
+References available upon request.

@@ -1,0 +1,40 @@
+Personal Statement:
+I am a dedicated, passionate, and results-driven software engineer with expertise in Java, SQL, Python, and ecommerce. As a black male from Chicago, Illinois, I am committed to leveraging my unique perspective and experiences to design innovative solutions that meet the needs of diverse communities. With a strong educational background and practical experience, I am well-equipped to contribute to cutting-edge software development projects.
+
+Education:
+Bachelor of Science in Computer Science, University of Chicago, Chicago, Illinois
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Spectrum Technologies, Chicago, Illinois
+- Developed Java-based applications, implementing SQL databases and error tracking systems.
+- Conducted automated testing to ensure the functionality and efficiency of software solutions.
+
+Software Engineer, Innovation Systems, Chicago, Illinois
+- Collaborated with a team to design and develop an ecommerce platform utilizing Python and NoSQL databases.
+- Implemented secure payment systems and performed rigorous debugging activities to ensure seamless user experiences.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Spokesperson, Black in Tech Alliance, Chicago, Illinois
+- Advocate for increasing representation of black individuals in the technology industry.
+- Organize and host events to empower and mentor aspiring black software engineers.
+- Facilitate workshops on coding and programming fundamentals for black youths.
+
+Sports Leadership: Basketball Captain, Unity All-Stars, Chicago, Illinois
+- Led a diverse team as the captain, fostering teamwork, discipline, and perseverance.
+- Organized practice sessions and strategized game plans, resulting in several championship victories.
+
+Hobbies:
+Playing the saxophone, reading books on African-American history, participating in local community service initiatives, supporting black-owned businesses.
+
+Languages:
+English (fluent), French (proficient)
+
+References available upon request.

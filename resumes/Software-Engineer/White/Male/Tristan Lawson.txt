@@ -1,0 +1,37 @@
+Tristan Lawson
+
+Personal Statement:
+A dedicated and experienced software engineer with a passion for creating innovative solutions. With a strong educational background in computer science and proficiency in multiple programming languages, I am committed to designing and developing high-quality software. I am a detail-oriented problem-solver, always searching for ways to optimize performance, enhance user experience, and meet project objectives.
+
+Education:
+Bachelor of Science in Computer Science, San Francisco State University, San Francisco, California
+GPA: 3.9/4.0
+
+Work Experience:
+Senior Software Engineer, QuantumSoft Technologies, San Francisco, California
+- Developed and implemented an error tracking system to identify and resolve software defects efficiently, contributing to a 20% reduction in bug reports
+- Utilized Java programming language for software development, enhancing the functionality of a leading e-commerce platform
+- Conducted thorough debugging and troubleshooting to ensure seamless functionality of various software components
+
+Software Developer, NexTech Innovations, San Francisco, California
+- Implemented advanced automated testing procedures that improved software quality by 30% and accelerated project delivery
+- Led the secure payments integration by adhering to strict industry standards, ensuring a safe transaction environment
+- Proficiently utilized SQL and NoSQL databases for efficient data storage and retrieval
+- Developed software using Python programming language, resulting in increased efficiency and reduced development time
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white male hailing from the diverse city of San Francisco, I firmly believe in promoting inclusivity and diversity within the tech industry. I actively engage in initiatives that encourage underrepresented groups to pursue careers in software engineering. Additionally, I have held a leadership role as the captain of a local basketball team, fostering teamwork and sportsmanship among a diverse group of athletes.
+
+Hobbies:
+In my free time, I enjoy playing the guitar and exploring various genres of music. I also have a strong interest in languages and speak both Spanish and English fluently.
+
+Languages:
+- English (fluent)
+- Spanish (fluent)

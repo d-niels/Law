@@ -1,0 +1,51 @@
+Isadora Ortiz
+123 Main Street, Austin, Texas 11111
+Phone: (555) 555-5555
+Email: isadora.ortiz@gmail.com
+
+Personal Statement:
+Results-driven software engineer with a passion for utilizing technology to solve complex problems. Eager to contribute strong programming skills, attention to detail, and dedication to the field of software development. Committed to delivering innovative solutions while fostering diversity and inclusion in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, 2019
+Austin State University, Austin, Texas
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, TechniCore Solutions, Austin, Texas
+June 2019 - Present
+- Utilized automated testing tools to improve software quality and efficiency
+- Implemented error tracking mechanisms to identify and resolve software issues proactively
+- Developed secure payment modules to enhance transaction security
+- Proficient in Java programming language for backend development
+
+Software Developer Intern, MindMerge Solutions, Austin, Texas
+May 2018 - August 2018
+- Worked with NoSQL databases to optimize data management and retrieval
+- Developed Python scripts for debugging and improving software performance
+- Demonstrated proficiency in SQL for efficient database querying
+- Contributed to the development of an ecommerce platform
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Board Member, Latinx in Tech Non-Profit Organization, 2018-present
+  - Actively promote diversity and inclusion within the tech industry
+  - Organize programs and events to empower Latino individuals pursuing careers in technology
+- Sports Leadership Role, Austin Women's Basketball League, 2017-2019
+  - Led a diverse team of female athletes, fostering teamwork and camaraderie
+  - Encouraged skill development and sportsmanship within the league
+
+Hobbies:
+- Playing the guitar
+- Exploring different genres of music
+- Reading literature and non-fiction
+- Participating in coding competitions to enhance problem-solving abilities
+
+Languages:
+- Bilingual: English and Spanish.

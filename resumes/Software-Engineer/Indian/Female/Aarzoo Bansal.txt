@@ -1,0 +1,45 @@
+Aarzoo Bansal
+San Jose, California | Indian Female
+
+Personal Statement:
+Dedicated software engineer with a passion for creating innovative solutions. Strong problem-solving skills and analytical mindset. Excels in collaborative environments and thrives under pressure. Committed to delivering high-quality code and solutions that meet customer needs.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, San Francisco, CA (2016-2020)
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Innoviz Technologies (June 2020 - Present)
+- Developed and maintained secure payment systems using Java, ensuring seamless e-commerce transactions
+- Utilized SQL to optimize database performance and ensure efficient data retrieval
+- Collaborated with cross-functional teams to design and implement cutting-edge software solutions
+
+Software Developer Intern, Emerging Tech Solutions (May 2019 - August 2019)
+- Leveraged Python to track errors and debug software applications, ensuring smooth functionality
+- Conducted automated testing to identify and resolve software defects
+- Worked with NoSQL databases to organize and retrieve data effectively
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Indian Student Association at ABC University (2017-2019)
+- Organized cultural events and celebrations to promote Indian heritage and foster inclusivity on campus
+- Facilitated communication and support for incoming Indian students, helping them integrate into the university community
+
+Badminton Team Captain, ABC University Badminton Club (2017-2019)
+- Led the badminton team, organizing practices and coordinating tournaments
+- Fostered teamwork and sportsmanship within the club while focusing on individual skill development
+
+Hobbies:
+Playing the Sitar (Indian String Instrument)
+Exploring different art forms and creating digital artwork
+Participating in community service initiatives focusing on empowering women in the tech industry
+
+Languages:
+English (Fluent)
+Hindi (Native)

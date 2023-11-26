@@ -1,0 +1,39 @@
+Winnie Navarro
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a passion for developing innovative solutions. Aiming to utilize my strong technical skills and problem-solving ability to contribute to the success of a leading tech company. Committed to enhancing user experiences through efficient and reliable software development.
+
+Education:
+Bachelor of Science in Computer Science, TechnoTech University, Albuquerque, New Mexico
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Xcelerate Tech, Albuquerque, New Mexico
+- Developed and maintained an e-commerce platform, ensuring seamless functionality and enhancing user experience
+- Implemented error tracking systems to identify and resolve issues proactively
+- Utilized Python and Java to create innovative software solutions
+
+Junior Software Engineer, Stellar Solutions, Albuquerque, New Mexico
+- Collaborated with a team to develop and maintain a secure payment gateway system
+- Conducted automated testing, ensuring the reliability and security of the payment process
+- Utilized SQL and NoSQL databases for efficient data management and retrieval
+- Assisted in debugging and resolving technical issues
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Latino Software Engineering Association, promoting diversity and inclusivity in the tech industry
+- Served as a team captain for a co-ed soccer team, leading and organizing practices and matches
+
+Hobbies:
+- Playing the guitar and piano, creating soulful melodies
+- Exploring different cultures and customs through literature and travel
+- Engaging in outdoor activities, such as hiking and camping, to connect with nature
+
+Languages:
+- Bilingual: English and Spanish

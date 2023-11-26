@@ -1,0 +1,41 @@
+Personal Statement:
+As a Chinese female from Oakland, California, I am a highly dedicated and motivated software engineer, driven by a passion for creating innovative solutions. With a strong educational background in computer science and a diverse range of technical skills, I am confident in my ability to contribute to any development team and deliver exceptional results.
+
+Education:
+Bachelor of Science in Computer Science
+Golden State University, USA (Oakland, California)
+GPA: 3.9
+
+Work Experience:
+Software Engineer, SparkTech Solutions, Oakland, CA
+- Debugged and resolved complex issues within a cutting-edge e-commerce platform, ensuring seamless functionality for users.
+- Leveraged NoSQL databases to optimize system performance and enhance scalability, leading to improved customer experience.
+- Developed Python scripts to automate various tasks, significantly improving overall team productivity.
+
+Software Engineer, Nexus Technologies, Oakland, CA
+- Led the implementation of secure payment systems, ensuring the protection of customer data and minimizing the risk of fraudulent transactions.
+- Utilized advanced error tracking techniques and tools to swiftly identify and resolve software issues, enhancing system stability.
+- Applied SQL database technologies to design and optimize database structures, enabling efficient data management.
+- Developed and maintained Java-based automated testing frameworks that increased the accuracy and speed of quality assurance processes.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity, inclusion, and equal opportunities for underrepresented groups in the tech industry. Volunteered at events and conferences dedicated to empowering women and minorities.
+- Served as a passionate leader and coach in youth basketball, fostering teamwork, discipline, and mentorship skills among aspiring athletes.
+
+Hobbies:
+- Playing the violin to express creativity and explore different musical cultures.
+- Engaging in thoughtful conversations and debates on gender and ethnic equality to contribute to positive social change.
+- Participating in hackathons and coding competitions to continuously refine technical skills and embrace challenges.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References available upon request.

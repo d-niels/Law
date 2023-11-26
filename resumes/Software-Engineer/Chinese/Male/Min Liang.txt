@@ -1,0 +1,61 @@
+Min Liang
+Honolulu, Hawaii
+Phone: (555) 123-4567
+Email: minliang@email.com
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a strong background in programming and problem-solving. Dedicated to delivering high-quality results and constantly seeking opportunities to further develop my skills in the field. Committed to making a positive impact through innovative software solutions.
+
+Education:
+Bachelor of Science in Computer Science, May 20XX
+Honolulu University, Honolulu, Hawaii
+
+- Relevant coursework: Data Structures and Algorithms, Software Engineering, Artificial Intelligence.
+- GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer Intern, Zenith Technologies, Honolulu, HI
+June 20XX - August 20XX
+
+- Developed an e-commerce platform using Python, ensuring smooth functionality and troubleshooting any issues that arose.
+- Implemented an error tracking system to identify and resolve bugs, resulting in a 20% reduction in user-reported issues.
+- Utilized NoSQL databases to efficiently manage and store large volumes of data.
+
+Software Engineer, Pacific Solutions, Honolulu, HI
+September 20XX - Present
+
+- Collaborate with the development team to design and implement secure payment systems using Java.
+- Conduct debugging and thorough testing to ensure smooth functionality and mitigate potential vulnerabilities.
+- Utilize SQL to manage and manipulate database systems, improving data accessibility and efficiency.
+- Automate testing processes, resulting in a 30% decrease in overall testing time.
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Volunteer, Chinese American Association of Honolulu, HI
+September 20XX - Present
+
+- Organize and lead cultural events to celebrate and promote Chinese traditions and heritage.
+- Facilitate mentorship programs to support Chinese youth in embracing their cultural identity.
+- Actively engage in community outreach programs to foster inclusivity and understanding.
+
+Sports Leadership, Honolulu Volleyball Club
+January 20XX - Present
+
+- Represent the club as a team captain, fostering teamwork, discipline, and sportsmanship.
+- Organize community volleyball clinics to introduce the sport to underprivileged children.
+
+Hobbies:
+Playing the Pipa (traditional Chinese stringed instrument), Calligraphy, hiking, and participating in Chinese cultural events.
+
+Languages:
+- English (Fluent)
+- Mandarin (Native)

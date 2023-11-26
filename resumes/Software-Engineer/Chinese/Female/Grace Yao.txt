@@ -1,0 +1,44 @@
+Grace Yao
+
+Personal Statement:
+A dedicated and passionate software engineer with a strong background in computer science. I am highly skilled in various programming languages and have hands-on experience in database technologies. I am driven to solve complex problems and consistently deliver high-quality code. With a focus on innovation, I am constantly seeking opportunities to enhance my skills and contribute to the development of cutting-edge software solutions.
+
+Education:
+Bachelor of Science in Computer Science
+University: Golden Gate University, San Francisco
+GPA: 3.9
+
+Work Experience:
+Software Engineer - InnovateTech Solutions, Oakland, CA
+- Collaborated with cross-functional teams to develop secure payment systems using SQL and NoSQL technologies.
+- Implemented error tracking mechanisms to identify and resolve software bugs efficiently.
+
+Software Engineer Intern - Spark Solutions, San Francisco, CA
+- Assisted in developing Java-based e-commerce applications, including debugging and automated testing.
+- Utilized Python to optimize software performance and enhance user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Chinese Female Role Model - Empower Youth Organization, Oakland, CA
+- Mentored young girls in the field of technology, sharing insights into the software engineering industry.
+- Organized workshops and seminars to encourage and empower girls to pursue STEM careers.
+
+Basketball Team Captain - Oakhill High School, Oakland, CA
+- Led a championship-winning basketball team, promoting discipline, teamwork, and sportsmanship.
+
+Hobbies:
+- Playing the piano
+- Reading diverse literature
+- Exploring different cultures through music and art
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+Note: The choice of the university, job titles, and organizations is fictional and for illustrative purposes only.

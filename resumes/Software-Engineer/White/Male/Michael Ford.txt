@@ -1,0 +1,36 @@
+Personal Statement:
+I am a dedicated and passionate software engineer with a strong background in computer science. With a bachelor's degree in computer science and a focus on mastering programming languages, database technologies, and debugging techniques, I am well-equipped to tackle complex software engineering projects. My commitment to excellence and attention to detail drive me to create efficient and reliable software solutions. I am seeking a challenging software engineering role where I can contribute my skills and expertise to drive innovation and deliver high-quality products.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Francisco, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, StellarSoft Solutions, San Jose, CA
+- Collaborated with a team of developers to design and implement secure payment systems using Java, ensuring reliable and error-free transactions
+- Developed and executed automated test scripts to conduct thorough and efficient testing, minimizing potential errors and enhancing software performance
+- Conducted error tracking and analysis to identify and resolve software issues, resulting in increased system stability and user satisfaction
+
+Software Programmer, NexTech Solutions, San Francisco, CA
+- Utilized Python and database technologies to create and maintain an eCommerce platform, facilitating seamless online transactions and enhancing the customer experience
+- Implemented SQL and NoSQL databases, ensuring efficient data storage and retrieval for large-scale web applications
+- Utilized debugging tools and techniques to identify and fix software bugs, ensuring optimal performance and minimizing user disruptions
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry, volunteering as a mentor for underrepresented minorities pursuing careers in software engineering
+- Served as a team captain in a community soccer league, organizing and leading practices and matches while fostering a supportive and inclusive environment for all team members
+
+Hobbies:
+- Playing the guitar
+- Engaging in photography
+- Exploring different cultures and languages
+
+Languages:
+- Fluent in English and Spanish

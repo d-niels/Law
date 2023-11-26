@@ -1,0 +1,46 @@
+Riya Eapen
+
+Los Angeles, California | (123) 456-7890 | riya.eapen@email.com
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a passion for creating efficient and secure software solutions. With a background in computer science and expertise in multiple programming languages, I am dedicated to delivering high-quality products. Leveraging my analytical skills and problem-solving abilities, I strive to excel in every project and contribute towards advancing technology.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, Los Angeles, California
+- Graduated with First Class Honors
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, TechGenius Inc., Los Angeles, California
+- Developed and maintained Python-based applications for a cutting-edge e-commerce platform
+- Implemented advanced error tracking systems to identify and resolve issues promptly
+- Secured payment systems using industry best practices to ensure safe and reliable transactions
+- Collaborated with cross-functional teams to deliver high-quality products and meet client requirements
+
+Software Engineer Intern, InnovateSoft Technologies, Los Angeles, California
+- Conducted comprehensive debugging and troubleshooting activities to enhance software reliability
+- Utilized SQL for efficient data management and retrieval in various projects
+- Developed and executed automated testing scripts to streamline quality assurance processes
+- Contributed to the development and maintenance of Java-based applications utilizing NoSQL databases
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Indian Student Association at ABC University, organizing cultural events to promote diversity and create a sense of community
+- Served as the captain of the university's basketball team, demonstrating leadership skills and fostering teamwork both on and off the court
+- Engaged in initiatives that encourage women and minorities to pursue careers in the technology industry, striving to bridge the gender and diversity gap
+
+Hobbies:
+- Playing the violin, expressing creativity through music
+- Exploring diverse cultures through travel and attending cultural festivals
+- Promoting diversity and equality through volunteer work and community engagements
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Malayalam (Native)

@@ -1,0 +1,52 @@
+Bianca Barrera
+Phoenix, Arizona | (555) 123-4567 | biancabarrera@email.com
+
+Personal Statement:
+Driven and ambitious software engineer with a relentless passion for creating cutting-edge solutions. With a strong educational background in computer science and hands-on experience in various software development roles, I am well-versed in multiple programming languages and database technologies. I thrive in fast-paced environments that challenge me to think outside the box and consistently deliver high-quality work. As a proud Latina female, I am committed to fostering inclusivity and diversity within the tech industry through volunteer work, leadership roles, and extracurricular activities.
+
+Education:
+Bachelor of Science in Computer Science, Phoenix Metropolitan University, Phoenix, Arizona
+- Graduated with Distinction, achieving a 3.9 GPA
+- Relevant coursework: Data Structures, Algorithms, Software Engineering, Operating Systems
+
+Work Experience:
+Software Engineer Intern, NovaTech Solutions
+Phoenix, Arizona | Summer 2019
+- Collaborated with cross-functional teams to develop robust e-commerce websites and applications
+- Leveraged SQL and NoSQL databases to efficiently organize and retrieve data
+- Contributed to debugging efforts, ensuring optimal system performance
+- Assisted in implementing secure payment methods and integrating payment gateways
+
+Junior Software Engineer, Stellar Software Innovations
+Phoenix, Arizona | 2019-2021
+- Collaborated closely with the development team to create and maintain feature-rich software applications
+- Implemented error tracking tools and strategies to identify and resolve system issues promptly
+- Developed secure payment systems and ensured adherence to industry standards
+- Utilized Java and Python programming languages to deliver high-quality code
+- Implemented automated testing frameworks to maintain code stability and ensure superior software quality
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Founder & President, Women in Tech Association, Phoenix Metropolitan University
+- Organized inclusive events and workshops to empower and support women pursuing careers in technology
+- Mentored and provided guidance to female students aspiring to enter the tech industry
+- Raised awareness about the importance of diversity and inclusion in the field
+
+Sports Leadership Volunteer, Local Youth Basketball League
+Phoenix, Arizona | 2015-2018
+- Led and coached a girls' basketball team, fostering teamwork, discipline, and skill development
+- Promoted the positive impact of sports participation within the Latino community
+
+Hobbies:
+- Playing the guitar and composing music
+- Exploring Latin American literature and poetry to connect with my cultural roots
+- Embracing cultural diversity through travel and capturing moments with my photography
+
+Languages:
+- Fluency in English and Spanish

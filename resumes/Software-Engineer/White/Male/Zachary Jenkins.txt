@@ -1,0 +1,40 @@
+Personal Statement:
+
+As a dedicated and driven software engineer, I am passionate about developing cutting-edge solutions and pushing the boundaries of technology. With a solid foundation in computer science and a commitment to excellence, I strive to create impactful software products that revolutionize user experiences. My goal is to leverage my skills and expertise to drive innovation in the software development industry.
+
+Education:
+
+Bachelor of Science in Computer Science, San Antonio University, San Antonio, Texas
+GPA: 3.9
+
+Work Experience:
+
+Software Engineer, Quantum Applications, San Antonio, Texas
+- Developed and maintained software solutions using Python, automated testing, Java, and SQL
+- Collaborated with cross-functional teams to ensure the delivery of high-quality and scalable applications
+- Implemented efficient automated testing processes, resulting in improved software reliability and efficiency
+
+Software Developer, Velocity Ecommerce Solutions, San Antonio, Texas
+- Responsible for debugging, ecommerce integration, error tracking, secure payments, and NoSQL database management
+- Worked closely with clients to identify and resolve technical issues, ensuring seamless user experiences
+- Conducted thorough code reviews and implemented best practices to optimize software performance and security
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Dedicated to promoting inclusivity and diversity within the technology industry, I actively contribute to organizations that focus on empowering underrepresented groups. As a white male, I understand the importance of fostering an inclusive environment. I have actively volunteered as a mentor and speaker at local organizations, helping individuals from diverse backgrounds explore opportunities in technology. Additionally, I leverage my leadership skills as a team captain in basketball, promoting teamwork, discipline, and sportsmanship.
+
+Hobbies:
+
+In my leisure time, I find solace and creative expression in playing the guitar. It allows me to unwind and explore my artistic side. I am also passionate about expanding my cultural horizons and have a keen interest in learning foreign languages. Currently, I am working on improving my proficiency in French, which enables me to connect with people from different parts of the world.
+
+Languages:
+- English (Fluent)
+- French (Intermediate)

@@ -1,0 +1,45 @@
+Dia Deshmukh
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a passion for developing innovative solutions. With a strong foundation in computer science and expertise in various programming languages, I am committed to driving excellence in software engineering. My experience in the field, coupled with my dedication to continuously expand my skill set, makes me a valuable asset to any software engineering team.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, New York, NY
+- Graduated with a GPA of 3.9
+- Relevant coursework: Data Structures, Algorithms, Operating Systems, Software Engineering
+
+Work Experience:
+Software Engineer, TechBoost Solutions, New York, NY
+- Developed and maintained the backend of e-commerce websites using Java and Python
+- Automated testing processes using testing frameworks to enhance efficiency and accuracy
+- Collaborated with cross-functional teams to ensure seamless integration of payments and order processing systems
+- Contributed to identifying and fixing bugs and performance issues
+
+Software Engineer Intern, InnovateIT Technologies, New York, NY
+- Analyzed and debugged enterprise-level software systems
+- Implemented and secured payment gateway integrations for multiple projects
+- Utilized NoSQL databases for data storage and retrieval
+- Conducted SQL queries and worked with error tracking tools for efficient issue resolution
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively participated in tech diversity initiatives to promote inclusion and representation in the industry, advocating for underrepresented ethnicities, including my Indian background, and gender diversity.
+- Served as a team captain in a community cricket league, promoting teamwork, discipline, and leadership skills within a diverse group of athletes.
+
+Hobbies:
+- Playing the flute, immersing myself in the beautiful melodies and rich history of Indian classical music.
+- Exploring different cultures through travel and experiencing a variety of cultural events and festivals.
+- Engaging in community service activities that empower and mentor young women aspiring to pursue careers in STEM fields.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Marathi (Conversational)
+
+References available upon request.

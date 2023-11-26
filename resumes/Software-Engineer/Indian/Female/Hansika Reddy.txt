@@ -1,0 +1,39 @@
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a passion for developing innovative solutions. With a strong foundation in computer science, I am driven to continuously learn and apply new technologies to create efficient and scalable software applications. As an Indian female from San Francisco, I value diversity and am committed to fostering inclusive environments. I have a proven track record of delivering high-quality products and collaborating effectively with cross-functional teams.
+
+Education:
+Bachelor of Science in Computer Science, Golden Gate University, San Francisco, California
+- Graduated with a GPA of 3.9
+- Relevant coursework: Data Structures, Algorithms, Object-Oriented Programming, Web Development
+
+Work Experience:
+Software Engineer Intern, Stellar Tech, San Francisco, CA
+- Developed an error tracking system for web applications using SQL to identify and resolve bugs promptly
+- Collaborated with the e-commerce team to improve the checkout process, resulting in a 15% increase in conversion rates
+- Assisted in debugging and fixing issues across multiple platforms
+
+Associate Software Engineer, Infinix Solutions, San Francisco, CA
+- Utilized Python and Java to develop secure payment systems for a financial software application
+- Implemented NoSQL databases for efficient data retrieval and storage
+- Conducted automated testing to ensure the reliability and performance of the software
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- As a leader in the local women's basketball league, I organized and coordinated practices and games to foster team spirit and drive success on the court. 
+- Mentored aspiring women in STEM fields, promoting gender equality and diversity in the tech industry.
+
+Hobbies:
+- Playing the violin, showcasing my musical skills and expressing my love for the arts
+- Participating in cultural events and exploring various Indian dance forms, celebrating and sharing my heritage
+- Engaging in outdoor activities such as hiking and exploring nature trails
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Telugu (Fluent)

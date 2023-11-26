@@ -1,0 +1,46 @@
+Luz Ulloa
+Austin, Texas | (555) 123-4567 | luzulloa@email.com
+
+Personal Statement
+Highly motivated and detail-oriented software engineer with a strong passion for problem-solving and delivering efficient solutions. Dedicated to continuous learning and keeping up with the latest industry trends. Committed to utilizing my skills to create innovative software applications that positively impact communities.
+
+Education
+Bachelor of Science in Computer Science, Austin Technical University, Austin, Texas (2017-2021)
+- GPA: 3.9/4.0
+- Relevant coursework: Data Structures, Operating Systems, Software Engineering, Algorithms
+
+Work Experience
+Software Engineer Intern, QuantumTech Solutions, Austin, Texas (Summer 2020)
+- Collaborated with a team of developers to debug and enhance an e-commerce platform using Python and NoSQL databases.
+- Implemented code fixes, improving the platform's stability and performance.
+- Assisted in the development and integration of secure payment systems.
+- Built automated testing framework to ensure the reliability and accuracy of core functionalities.
+
+Software Developer, InnovateSoft, Austin, Texas (2019-2020)
+- Developed Java-based applications with SQL databases, focusing on error tracking and payment security.
+- Implemented automated testing processes, reducing errors by 30% and enhancing system stability.
+- Collaborated with cross-functional teams to design and implement software improvements based on client needs.
+- Assisted in the creation of comprehensive technical documentation, improving knowledge-sharing among team members.
+
+Skills
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership
+Latino and Women in Tech Mentor, TechnoSupport, Austin, Texas (2018-Present)
+- Mentor and guide underrepresented individuals pursuing technology careers, providing support and advice.
+- Conduct workshops and webinars to inspire young Latinas to pursue careers in software engineering.
+- Sports Leadership Role: Team Captain of the Austin Technical University Women's Volleyball Team (2019-2021)
+  - Led the team with determination and commitment, fostering a supportive environment for all teammates.
+
+Hobbies
+- Playing the piano
+- Immersing myself in Latin American literature and art
+- Exploring ethnic and gender studies through research and academic pursuits
+
+Languages
+- English (Fluent)
+- Spanish (Native)

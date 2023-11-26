@@ -1,0 +1,35 @@
+Personal Statement:
+I am a dedicated and passionate software engineer with a strong foundation in computer science. As a black female hailing from Baltimore, Maryland, I bring a unique perspective to my work, fostering creativity and innovation. With a bachelor's degree in computer science from Ravenswood University, a renowned institution, I am equipped with technical skills and problem-solving abilities that will enable me to excel in a software engineering role.
+
+Education:
+Bachelor of Science in Computer Science, Ravenswood University, Baltimore, Maryland
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, TechnoGen Solutions, Baltimore, Maryland
+- Developed and maintained an ecommerce platform using Python and NoSQL databases
+- Implemented automated testing procedures to ensure functionality and reliability
+- Collaborated with cross-functional teams to troubleshoot and resolve issues
+
+Software Developer, Digital Wave Technologies, Baltimore, Maryland
+- Analyzed and debugged software applications written in Java and utilized SQL databases
+- Implemented error tracking mechanisms to enhance software performance and stability
+- Designed and implemented secure payment systems
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer at local non-profit organizations, providing mentorship and support to underprivileged youth, particularly focusing on inspiring young black girls to pursue careers in technology.
+- Sports Leadership: As the captain of a women's basketball team, I led the team to several victories, developed strong teamwork skills, and encouraged a positive and inclusive environment for all players.
+
+Hobbies:
+- Playing the piano, enhancing my creativity and focus.
+- Exploring diverse cultures and their histories, promoting understanding and appreciation of different ethnic backgrounds.
+
+Languages:
+- Fluent in English and Spanish, enabling effective communication across diverse communities.

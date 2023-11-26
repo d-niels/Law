@@ -1,0 +1,48 @@
+Nacho Herrera
+123 Main Street, Los Angeles, California | (555) 123-4567 | nacho.herrera@email.com
+
+PERSONAL STATEMENT
+Driven and detail-oriented software engineer with a unique perspective as a Hispanic male from Los Angeles. I am passionate about leveraging technology to create innovative solutions. With a strong educational background in computer science and proficiency in multiple programming languages, I strive to develop efficient and reliable software applications that exceed customer expectations.
+
+EDUCATION
+Bachelor of Science in Computer Science, May 20XX
+Los Angeles Tech University, Los Angeles, California
+GPA: 3.9/4.0
+
+WORK EXPERIENCE
+
+Software Engineer, Innovex Technologies, Los Angeles, California
+June 20XX - Present
+- Developed and implemented automated testing frameworks to significantly improve the efficiency and accuracy of testing ecommerce software applications.
+- Utilized Python programming language and NoSQL databases to design and implement scalable and robust software solutions.
+- Collaborated with cross-functional teams to identify and troubleshoot software defects, ensuring the delivery of high-quality applications.
+
+Software Developer, QuickTech Solutions, Los Angeles, California
+August 20XX - May 20XX
+- Implemented effective error tracking mechanisms to identify and resolve software performance issues, resulting in improved application stability.
+- Designed and developed secure payment processing systems using Java and SQL technologies, ensuring seamless and safe transactions.
+- Utilized debugging techniques to identify and resolve application errors, enhancing the overall user experience.
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+
+Sports Leadership Volunteer, Los Angeles Youth Athletics
+January 20XX - Present
+- Mentored young athletes in soccer, fostering teamwork, leadership, and discipline within a diverse group.
+- Organized events and tournaments that celebrate the cultural diversity of participants, promoting inclusivity and equality.
+
+HOBBIES
+- Playing classical guitar
+- Exploring different cultural traditions and customs
+- Participating in competitive soccer leagues that embrace diversity and inclusion
+
+LANGUAGES
+- Bilingual: English and Spanish
+
+References available upon request.

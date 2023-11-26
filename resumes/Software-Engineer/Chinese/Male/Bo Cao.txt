@@ -1,0 +1,40 @@
+Bo Cao
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a strong background in secure payments and e-commerce. Highly skilled in error tracking and database technologies. Passionate about problem-solving and utilizing analytical skills to create efficient and innovative solutions. Committed to delivering high-quality software products and exceeding client expectations.
+
+Education:
+Bachelor of Science in Computer Science, TechHub University, Chicago, Illinois
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, NexTech Solutions, Chicago, Illinois
+- Developed and maintained secure payment systems and e-commerce platforms
+- Implemented error tracking mechanisms to identify and resolve software issues effectively
+- Utilized NoSQL databases for efficient data storage and retrieval
+- Collaborated with cross-functional teams to ensure seamless integration of features
+
+Software Developer, AlphaSoft Solutions, Chicago, Illinois
+- Utilized SQL, Java, and Python to develop robust software applications
+- Conducted automated testing to ensure software functionality and reliability
+- Debugged and resolved complex software issues using debugging tools
+- Worked closely with clients to understand their requirements and deliver customized solutions
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Basketball Team Leader: Actively involved in leading and organizing a local basketball team, fostering teamwork and sportsmanship among athletes
+- Ethnicity and Gender Advocacy: Engaged in various community initiatives promoting diversity and inclusion, representing Chinese male professionals
+
+Hobbies:
+- Playing the traditional Chinese instrument, Guzheng
+- Participating in cultural exchange programs to promote understanding and appreciation of different cultures and traditions
+- Engaging in outdoor activities such as hiking and camping
+
+Languages:
+- Fluent in English and Mandarin Chinese

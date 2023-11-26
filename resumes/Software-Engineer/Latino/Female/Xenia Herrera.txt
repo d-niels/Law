@@ -1,0 +1,50 @@
+XENIA HERRERA
+============================================
+Personal Statement:
+Passionate and detail-oriented software engineer with a focus on creating innovative solutions to complex problems. Dedicated to leveraging my technical skills and strong work ethic to contribute to the advancement of software development. As a proud Latina female, I am committed to promoting diversity and inclusivity in the tech industry while continuously developing my own knowledge and expertise.
+
+Education:
+Bachelor of Science in Computer Science | University of Nevada, Las Vegas (UNLV)
+- Graduated with honors
+- GPA: 3.9
+- Relevant coursework: Data Structures, Algorithms, Software Engineering, Object-Oriented Programming
+
+Work Experience:
+Software Engineer | Quantum Solutions, Las Vegas, NV | January 2019 - Present
+- Developed and maintained an innovative e-commerce platform, ensuring seamless online transactions and secure payments
+- Implemented automated testing procedures using Python, resulting in improved software quality and reduced development time
+- Collaborated with cross-functional teams to address customer concerns and deliver software enhancements
+
+Software Developer | TechLink Technologies, Las Vegas, NV | August 2017 - December 2018
+- Utilized SQL and Java to design and optimize relational databases for error tracking and analysis
+- Implemented NoSQL databases for efficient data storage and retrieval
+- Conducted thorough debugging to identify and resolve software defects
+- Collaborated with developers to enhance application performance and optimize query execution
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinx in Tech Organization | Founder and President | 2016 - Present
+- Established and led an organization aimed at supporting and empowering Latino individuals in the tech industry
+- Organized networking events, panel discussions, and mentorship programs to foster professional growth
+- Promoted diversity through community outreach and collaboration with local schools and colleges
+
+Sports Leadership Experience:
+Soccer Team Captain | Las Vegas Women's Soccer League | 2014 - 2018
+- Demonstrated strong leadership skills while leading the team in practices and matches
+- Fostered a positive and inclusive team environment, promoting camaraderie and sportsmanship
+
+Hobbies:
+- Playing Guitar: Passionate about creating music and exploring various genres
+- Reading Latin American Literature: Enjoys gaining cultural insights through literature
+- Hiking: Appreciates the natural beauty of Nevada and actively participates in local hiking groups
+
+Languages:
+- Fluent in English and Spanish: Strong verbal and written communication skills in both languages, facilitating effective cross-cultural collaboration.
+
+References available upon request.

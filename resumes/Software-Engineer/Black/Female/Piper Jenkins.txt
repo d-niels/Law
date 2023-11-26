@@ -1,0 +1,44 @@
+Piper Jenkins
+
+Personal Statement:
+Dedicated and goal-oriented software engineer with a passion for problem-solving and creating innovative solutions. Eager to utilize my skills in software development and my strong analytical mindset to contribute to the field of technology. As a black female in the tech industry, I am committed to promoting diversity, inclusivity, and gender equality within the tech community. With a background in computer science and a drive for excellence, I am ready to make a meaningful impact on cutting-edge software engineering projects.
+
+Education:
+Bachelor of Science in Computer Science, Liberty University, Memphis, Tennessee
+- Graduated with a 3.9 GPA
+- Relevant coursework: Data Structures, Algorithms, Artificial Intelligence, Software Engineering
+- Honors and Awards: Dean's List (all semesters), Outstanding Computer Science Student Award
+
+Work Experience:
+Software Engineer, Innovix Solutions, Memphis, Tennessee
+- Developed secure payment systems using NoSQL databases and integrated error tracking mechanisms
+- Utilized SQL to analyze and optimize database performance
+- Collaborated with cross-functional teams to ensure seamless integration of payment systems
+- Implemented robust security measures to safeguard sensitive user data
+
+Software Developer, Quantum Tech Labs, Memphis, Tennessee
+- Developed and maintained e-commerce platforms using Python and Java
+- Conducted rigorous debugging techniques to identify and resolve software issues
+- Implemented automated testing procedures to ensure the reliability and quality of software products
+- Collaborated with QA teams to ensure comprehensive test coverage and bug-free software releases
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity in technology by participating in empowerment programs for underrepresented groups, such as Black Girls Code and Girls Who Code
+- Served as a Basketball Leadership Ambassador for the Memphis community, encouraging young girls to participate in sports and breaking gender barriers
+- Advocate for gender equality and diversity in the tech community, contributing to forums and discussions to raise awareness and bring about positive change within the industry
+
+Hobbies:
+- Playing the saxophone, a way to express creativity and explore music
+- Exploring various forms of dance, embracing cultural diversity and creating connections through movement
+
+Languages:
+Fluent in English and conversational in Spanish
+
+References available upon request

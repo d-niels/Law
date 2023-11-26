@@ -1,0 +1,40 @@
+Falguni Upadhyay
+
+Personal Statement:
+Highly motivated software engineer with a passion for problem-solving and creating efficient and secure solutions. Experienced in debugging, automated testing, and developing secure payment systems. Committed to continuous learning and staying updated with the latest industry trends. A dedicated team player with strong analytical skills and a proven ability to deliver high-quality software products.
+
+Education:
+Bachelor of Science in Computer Science, XYZ Institute of Technology, Dallas, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Stellar Software Solutions, Dallas, Texas
+- Collaborated with a cross-functional team to develop and debug software applications.
+- Conducted automated testing to identify and fix software issues.
+- Developed secure payment systems to ensure safe transactions.
+- Utilized NoSQL database technology to efficiently manage and retrieve data.
+
+Software Developer, TechGlobe Inc., Dallas, Texas
+- Worked on a leading e-commerce platform, developing and maintaining software applications.
+- Proficiently coded in Java, Python, and SQL to implement new features and optimize performance.
+- Utilized error tracking techniques to identify and fix software defects.
+- Developed efficient and scalable databases to optimize data management.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry, representing the Indian female community in various forums and mentorship programs.
+- Served as a team captain and leader in soccer, organizing team practices and fostering team spirit while inspiring the players to achieve their best.
+
+Hobbies:
+- Playing the sitar, a traditional Indian string instrument, to evoke emotions and create soulful melodies.
+- Exploring different cultures and traditions through travel and attending cultural festivals.
+- Supporting and advocating for women's empowerment initiatives in the community.
+
+Languages:
+Fluent in English and Hindi.

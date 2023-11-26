@@ -1,0 +1,39 @@
+Personal Statement:
+I am a highly motivated and detail-oriented software engineer with a strong passion for creating innovative solutions. With a solid foundation in computer science and extensive experience in various programming languages, I am confident in my ability to contribute to and excel in a software engineering role. My analytical skills and dedication to problem-solving make me a valuable asset to any team.
+
+Education:
+Bachelor of Science in Computer Science, Golden Gate University, San Francisco, California
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, StellarSoft Solutions, San Francisco, California
+- Developed scalable backend systems using Python and Java
+- Identified and resolved software bugs through extensive debugging techniques
+- Utilized NoSQL databases to optimize data storage and retrieval processes
+
+Software Engineer Intern, TechnoMinds Inc., San Francisco, California
+- Implemented secure payment systems for e-commerce platforms
+- Conducted thorough error tracking and resolved issues to improve overall system performance
+- Implemented automated testing procedures to streamline development and ensure software quality
+- Utilized SQL databases for efficient data management in e-commerce applications
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- As an active member of the local Indian Women in Tech organization, I am committed to promoting diversity and inclusion within the tech community, representing the Indian female community as a software engineer.
+- Sports Leadership: Captain of the university's basketball team, leading and mentoring a diverse group of athletes in their pursuit of excellence on and off the court.
+
+Hobbies:
+- Playing the sitar, a traditional Indian stringed instrument, to connect with my cultural roots and express my creativity.
+- Engaging in community service activities focused on empowering and uplifting underrepresented communities, particularly through educational initiatives.
+- Exploring various forms of art, such as painting and photography, as a way to celebrate diversity and express my unique perspective.
+
+Languages:
+- English (Fluent)
+- Hindi (Native proficiency)
+- Marathi (Conversational proficiency)

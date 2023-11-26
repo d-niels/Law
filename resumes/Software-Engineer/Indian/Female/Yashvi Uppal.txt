@@ -1,0 +1,39 @@
+Yashvi Uppal 
+
+New York, NY | (555) 123-4567 | yashviuppal@email.com 
+
+Personal Statement: 
+Highly motivated and dedicated software engineer with a passion for creating innovative solutions. Skilled in various programming languages and experienced in ecommerce and secure payments. Committed to enhancing user experiences and delivering high-quality software products. 
+
+Education: 
+Bachelor of Science in Computer Science, Silicon Valley University, New York, NY 
+- GPA: 3.9/4.0 
+
+Work Experience: 
+Software Engineer, TechLabs Inc., New York, NY 
+- Developed and maintained an advanced ecommerce platform using Java and automated testing techniques 
+- Integrated secure payment systems and ensured adherence to industry standards 
+- Collaborated with cross-functional teams to optimize efficiency and functionality of the platform 
+
+Software Developer, Stellar Solutions, New York, NY 
+- Implemented error tracking and debugging functionality in complex software applications 
+- Utilized SQL and NoSQL databases to efficiently manage and manipulate large datasets 
+- Developed Python scripts for automating tasks and improving development processes 
+
+Skills: 
+- Programming Languages: Java, Python, C#, JavaScript 
+- Database Technologies: SQL, NoSQL 
+- Source Control: Git 
+- Testing and Debugging: Automated Testing, Debugging Tools 
+- Problem-Solving: Analytical Skills, Debugging Techniques 
+
+Volunteer & Leadership: 
+- Actively involved in promoting diversity and inclusion initiatives in the tech industry 
+- Served as a team captain for a local community basketball team, promoting teamwork and sportsmanship 
+
+Hobbies: 
+- Playing the piano 
+- Participating in cultural events celebrating Indian dance and music 
+
+Languages: 
+Fluent in English and Hindi, with basic proficiency in Spanish

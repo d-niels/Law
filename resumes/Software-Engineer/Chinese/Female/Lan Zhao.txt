@@ -1,0 +1,34 @@
+Personal Statement:
+As a Chinese female raised in the vibrant melting pot of New York City, I am an ambitious and dedicated software engineer with a passion for creating innovative technological solutions. With a strong educational background in computer science and solid work experience, I am eager to contribute my skills to a dynamic team in the software engineering field.
+
+Education:
+Bachelor of Science in Computer Science, Magnolia University, New York, NY
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, StellarTech Solutions, New York, NY
+- Developed secure payment systems using SQL and NoSQL databases, ensuring efficient and safe transactions.
+- Leveraged Python to automate processes and enhance software functionality.
+
+Software Developer, TechnoGenius, New York, NY
+- Implemented automated testing techniques to detect errors and improve software reliability.
+- Collaborated on an e-commerce platform, employing Java and debugging skills to enhance user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion within the technology industry, particularly advocating for underrepresented ethnicities and genders.
+- Held a leadership role as the captain of a local basketball team, fostering teamwork and promoting inclusivity within the Chinese community.
+
+Hobbies:
+- Playing the piano and violin, finding inspiration in both classical and contemporary music genres.
+- Engaging in cultural exchange activities to broaden my understanding of diverse perspectives.
+- Exploring different art forms, including painting and calligraphy, to celebrate and express my Chinese heritage.
+
+Languages:
+Fluent in English and Mandarin Chinese.

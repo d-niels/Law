@@ -1,0 +1,37 @@
+Yale Walsh
+
+Personal Statement:
+Driven and innovative software engineer with a passion for creating cutting-edge solutions. Excel in problem-solving and possess a strong background in error tracking, programming languages, and database technologies. Committed to delivering high-performance software and ensuring secure payments for users. As a white male, Yale is dedicated to promoting diversity and inclusivity in the tech industry and has actively participated in various volunteer and leadership roles.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Phoenix University, Phoenix, Arizona
+
+Work Experience:
+Software Engineer, Stellar Systems, Phoenix, Arizona
+- Successfully implemented an advanced error tracking system, resulting in a significant decrease in software incidents and improved overall application performance.
+- Developed robust Java applications to support secure payment processing, enhancing user experience and ensuring data security.
+- Proficiently utilized NoSQL databases to optimize data storage and retrieval, resulting in faster application response times and improved scalability.
+
+Software Developer, TechnoLogic Solutions, Phoenix, Arizona
+- Built and maintained SQL databases for a prominent ecommerce platform, ensuring efficient data management and seamless user experiences for millions of users.
+- Developed Python scripts for automated testing and debugging, reducing production errors by 20% and improving overall software reliability.
+- Collaborated with cross-functional teams to enhance features and implement new functionalities to meet evolving market needs.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively fostered diversity and inclusivity as a volunteer member of Phoenix University's Tech for All organization.
+- Served as a basketball coach and mentor, developing leadership skills and promoting teamwork among a diverse group of individuals.
+
+Hobbies:
+- Playing the guitar and composing music
+- Exploring different cultures through travel and photography
+
+Languages:
+Fluent in English and Spanish

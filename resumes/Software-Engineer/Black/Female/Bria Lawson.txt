@@ -1,0 +1,48 @@
+BRIA LAWSON
+Software Engineer | Jacksonville, Florida | (123) 456-7890 | bria.lawson@email.com
+
+PERSONAL STATEMENT
+Results-driven and detail-oriented software engineer with a passion for creating efficient and user-friendly software solutions. Committed to delivering exceptional performance by leveraging strong analytical skills and expertise in various programming languages and database technologies. Dedicated to promoting diversity and equality in the tech industry.
+
+EDUCATION
+Bachelor of Science in Computer Science, Sunshine State University, Jacksonville, Florida
+- Graduated with Honors
+- GPA: 3.9/4.0
+
+WORK EXPERIENCE
+Software Engineer, Luminary Software Solutions, Jacksonville, Florida
+- Developed and executed automated testing frameworks to ensure the functionality and reliability of enterprise software products.
+- Utilized SQL and NoSQL databases to design and optimize data schemas for a variety of clients.
+- Implemented error tracking mechanisms to identify and resolve software issues promptly.
+- Collaborated with cross-functional teams, including developers and quality assurance, to drive the successful release of software projects.
+
+Software Engineer Intern, QuantumTech, Jacksonville, Florida
+- Contributed to developing secure payment systems for an e-commerce platform using Java and Python.
+- Conducted extensive debugging and troubleshooting to ensure seamless transaction processing and data security.
+- Designed and implemented robust algorithms and data structures to optimize software performance.
+- Assisted in the development of an e-commerce platform, facilitating smooth online transactions.
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+National Society of Black Engineers, Sunshine State University Chapter, Jacksonville, Florida
+- Served as the Vice President of the NSBE chapter, leading a team and organizing events to promote diversity and inclusion in STEM fields.
+- Mentored and tutored undergraduate students, fostering their interest in technology and providing guidance throughout their academic journey.
+
+Basketball Team Captain, Jacksonville Sports Club, Jacksonville, Florida
+- Led a basketball team to regional championships, emphasizing teamwork and strategic play.
+- Organized practices and mentored team members, fostering individual skill development and promoting sportsmanship.
+
+HOBBIES
+- Playing the saxophone
+- Exploring different cultures through travel and music
+- Promoting diversity and equality in tech through community outreach initiatives
+
+LANGUAGES
+- English (fluent)
+- Spanish (conversational)

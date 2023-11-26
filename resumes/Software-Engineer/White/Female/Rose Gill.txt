@@ -1,0 +1,51 @@
+Personal Statement:
+As a dedicated and passionate software engineer, I am eager to contribute my skills and knowledge to a dynamic and innovative team. With a keen eye for detail and a strong problem-solving mindset, I strive to create efficient and reliable software solutions. Excited to leverage my diverse experiences and strong educational background, I am committed to contributing to the advancement of cutting-edge technologies in the field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science - San Francisco State University, San Francisco, California
+- GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer - TechSpark Inc., San Francisco, California
+- Utilized automated testing techniques to ensure the reliability and functionality of software products
+- Collaborated with cross-functional teams to develop and optimize e-commerce platforms
+- Utilized SQL to analyze and manipulate data for various projects
+- Excelled at debugging and troubleshooting technical issues to enhance software performance
+
+Software Engineer - CodeWave Solutions, San Francisco, California
+- Developed software solutions using Python programming language
+- Utilized error tracking tools to identify and resolve system issues promptly
+- Assisted in building secure payment gateways for online transactions
+- Demonstrated proficiency in Java programming language for developing scalable applications
+- Utilized NoSQL databases for efficient data storage and retrieval
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Ethnic Diversity Advocate - San Francisco State University, San Francisco, California
+- Actively promoted diversity, inclusion, and cultural awareness within the university community
+- Organized events and discussions to foster understanding among diverse groups on campus
+- Mentored individuals from underrepresented backgrounds to help bridge the gap in technology field
+- Served as a role model and source of support for students seeking guidance in pursuing careers in software engineering
+
+Sports Leadership Role - Women's Volleyball Team, San Francisco State University, San Francisco, California
+- Demonstrated strong leadership skills as the team captain, leading by example on and off the court
+- Coordinated practices, strategies, and team-building activities to foster unity and competitiveness
+- Fostered an inclusive and empowering environment for female athletes
+
+Hobbies:
+- Playing the piano
+- Exploring diverse cultures through travel and immersion
+- Engaging in outdoor activities such as hiking and biking
+- Promoting gender equality and advocating for women in STEM fields
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate)

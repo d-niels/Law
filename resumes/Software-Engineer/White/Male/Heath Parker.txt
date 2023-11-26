@@ -1,0 +1,39 @@
+Heath Parker
+
+Personal Statement:
+Driven and highly skilled software engineer with a passion for developing innovative solutions. Excellent problem-solving abilities combined with strong programming skills in Java, Python, and C#. Detail-oriented and committed to producing high-quality code. A team player with excellent communication skills and a desire to contribute to the success of a leading technology company.
+
+Education:
+Bachelor of Science in Computer Science, Houston Technical University, Houston, Texas
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, AlphaTech Solutions, Houston, Texas
+- Developed and maintained an advanced ecommerce platform, ensuring smooth transactions and secure payments
+- Utilized NoSQL databases for efficient data storage and retrieval, optimizing scalability and performance
+- Collaborated closely with cross-functional teams to enhance system functionality and optimize user experience
+- Demonstrated expert knowledge in Java programming language
+
+Software Engineer Intern, BetaSoft Inc., Houston, Texas
+- Worked on a team responsible for managing and optimizing SQL databases
+- Wrote efficient Python scripts for automated testing and error tracking, improving software reliability
+- Debugged and resolved issues reported by end-users, ensuring smooth software operation
+- Acquired strong skills in SQL, Python, automated testing, and debugging techniques
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Basketball Team Leadership Role, Houston Technical University
+- Led and coached a competitive basketball team, fostering teamwork, discipline, and sportsmanship
+- Organized team practices, drills, and strategy sessions to enhance player skills and team performance
+
+Hobbies:
+Playing the guitar, engaging in outdoor activities, and exploring different cultures through travel and music
+
+Languages:
+Fluent in English and Spanish, with intermediate proficiency in French.

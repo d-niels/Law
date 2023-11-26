@@ -1,0 +1,37 @@
+Personal Statement:
+I am a highly motivated and dedicated software engineer with a passion for problem-solving and creating innovative solutions. With a strong background in computer science and valuable work experience, I am committed to developing high-quality software applications that improve user experiences. I am seeking a challenging role where I can utilize my technical skills and contribute to the success of a dynamic team.
+
+Education:
+Bachelor of Science in Computer Science
+University of Southern California, Los Angeles, California
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, InnovateTech Solutions, Los Angeles, California
+- Developed and maintained software applications using Java, SQL, and automated testing.
+- Collaborated with cross-functional teams to identify and debug software issues.
+- Implemented effective solutions, resulting in an overall reduction in application errors.
+
+Software Development Intern, TechNova Inc., Los Angeles, California
+- Contributed to the development of an e-commerce platform using Python and NoSQL databases.
+- Implemented error tracking and secure payment systems, ensuring the overall reliability and security of the platform.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Executive Board Member, Chinese American Engineers Society (CAES)
+  - Organized networking events and workshops to promote diversity and inclusion in the engineering community.
+- Soccer Team Captain, Los Angeles Chinese Sports Association
+  - Led a team of soccer players in competitive tournaments, fostering teamwork and camaraderie.
+
+Hobbies:
+- Playing the piano and composing music
+- Exploring different cultures through literature and music, particularly East Asian and Latin American influences
+
+Languages:
+- Fluent in English and Mandarin Chinese

@@ -1,0 +1,66 @@
+## Aisha Kim
+
+Software Engineer
+
+Detroit, Michigan | Email: aishakim@email.com | Phone: (XXX) XXX-XXXX
+
+---
+
+### Personal Statement
+
+Highly skilled and motivated software engineer with a passion for developing innovative solutions. With a strong background in computer science and expertise in various programming languages, database technologies, and problem-solving, I am adept at transforming complex technical issues into effective software solutions. My drive for excellence, coupled with my analytical mindset, enables me to deliver optimal results in fast-paced environments.
+
+### Education
+
+Bachelor of Science in Computer Science - Motor City University, Detroit, Michigan (GPA: 3.9/4.0), May 20XX
+
+### Work Experience
+
+**Software Engineer Intern**\
+TechX Solutions, Detroit, Michigan | June 20XX - August 20XX
+
+- Developed secure payment systems using Python and Java to enhance the company's e-commerce platform.
+- Collaborated with cross-functional teams to implement efficient and scalable solutions.
+- Assisted in the design and implementation of new features to improve the overall user experience.
+
+**Junior Software Engineer**\
+Innovate Software Solutions, Detroit, Michigan | September 20XX - Present
+
+- Implemented error tracking and automated testing tools using SQL and NoSQL databases, significantly improving product quality.
+- Utilized debugging techniques and tools to identify and resolve complex software issues.
+- Collaborated with development and QA teams to ensure the smooth operation of software systems.
+
+### Skills
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+### Volunteer & Leadership
+
+**Diversity in Tech Advocate**\
+Motor City Women in Tech, Detroit, Michigan | 20XX - Present
+
+- Lead discussions and organize events to promote diversity and inclusion in the tech industry.
+- Facilitate workshops to empower underrepresented minorities in pursuing careers in software engineering.
+- Collaborate with local schools to provide mentoring and resources to encourage young black students to pursue STEM fields.
+
+**Basketball Team Captain**\
+Motor City Lady Mustangs, Detroit, Michigan | 20XX - 20XX
+
+- Led the team through training sessions and competitions, fostering a positive and inclusive team environment.
+- Mentored and supported team members, both on and off the court, promoting personal growth and teamwork.
+- Developed strategic game plans and coordinated team strategies, contributing to multiple successful seasons and championships.
+
+### Hobbies
+
+Playing the piano, reading African-American literature, exploring local art exhibitions, and hiking.
+
+### Languages
+
+- English (Native)
+- Spanish (Conversational)
+
+---

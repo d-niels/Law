@@ -1,0 +1,39 @@
+Personal Statement:
+As a black female software engineer from Columbus, Ohio, I am driven to leverage my skills and expertise to make a meaningful impact in the tech industry. With a strong academic foundation in computer science and a proven track record in software engineering roles, I am excited to contribute to innovative solutions and drive positive change through technology.
+
+Education:
+Bachelor of Science in Computer Science, Columbus State University, Columbus, Ohio (GPA: 3.9)
+
+Work Experience:
+Software Engineer, Stellar Innovations, Columbus, Ohio
+- Developed and maintained secure payment processing systems using Python, ensuring seamless and error-free transactions.
+- Utilized advanced debugging techniques and tools to identify and resolve software issues promptly, significantly improving system performance.
+- Collaborated with cross-functional teams to seamlessly integrate payment systems into existing platforms.
+- Tracked and analyzed errors in real-time, proactively implementing measures to minimize future occurrences.
+
+Software Engineer, NovaTech Solutions, Columbus, Ohio
+- Contributed to the successful development of a robust e-commerce platform using Java and SQL, resulting in enhanced user experience and increased customer satisfaction.
+- Leveraged NoSQL databases to efficiently store and retrieve large volumes of customer data, optimizing system performance.
+- Implemented automated testing procedures to ensure the reliability, scalability, and security of the software.
+- Collaborated closely with product managers and designers to develop innovative solutions and improve overall functionality.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in organizations promoting diversity and inclusion in the tech industry, with a focus on empowering women and underrepresented communities in software engineering.
+- Served as a dedicated mentor and coach for a girls' basketball team, fostering personal and athletic growth.
+- Contributed to programs bridging the gender and ethnic gaps in the tech field, providing guidance and support to aspiring software engineers.
+
+Hobbies:
+- Playing the piano, composing music, and exploring different musical genres to foster creativity.
+- Volunteering at community events that celebrate and embrace the diversity of cultures, fostering inclusivity and understanding among different ethnicities.
+- Engaging in outdoor activities such as hiking, cycling, and basketball to maintain an active and healthy lifestyle.
+- Dedication to reading novels, with a particular interest in exploring the intersection of technology and society.
+
+Languages:
+- Fluent in English and Spanish.

@@ -1,0 +1,43 @@
+Ulan Yuan
+
+Personal Statement: 
+Driven and detail-oriented software engineer with a bachelor's degree in Computer Science and a fervent dedication to developing innovative software solutions. As an inquisitive problem-solver, I am committed to expanding my programming expertise and contributing to the advancement of cutting-edge technologies. Seeking a challenging software engineer role to leverage my skills and make a meaningful impact in the field.
+
+Education: 
+Bachelor of Science in Computer Science, Pacific Technical University, Honolulu, Hawaii
+GPA: 3.9/4.0
+
+Work Experience: 
+Software Engineer, StellarSoft Solutions, Honolulu, Hawaii
+- Leveraged SQL to design, develop, and maintain robust databases for efficient data storage and retrieval.
+- Implemented advanced error tracking systems, facilitating the identification and resolution of software issues.
+- Ensured secure payment transactions by integrating secure payment gateways and encryption techniques.
+- Conducted extensive debugging to identify and rectify software defects, enhancing application stability and performance.
+
+Software Developer Intern, NovaTech Innovations, Honolulu, Hawaii
+- Collaborated in the development of Java-based software applications to automate testing and improve quality assurance processes.
+- Utilized Python to create scalable and efficient solutions for e-commerce platforms, boosting productivity and user experience.
+- Implemented NoSQL databases for high-traffic applications, improving data storage and retrieval efficiency.
+- Assisted in the design and development of various software components and modules, adhering to best coding practices.
+
+Skills: 
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership: 
+Ethnicity and Gender Diversity Advocate, Pacific Cultural Alliance, Honolulu, Hawaii
+- Actively involved in promoting the inclusion and empowerment of individuals from diverse ethnic and gender backgrounds.
+- Organized and executed multi-cultural events and workshops to foster awareness and provide resources for underrepresented communities.
+- Served as a sports team leader for the local basketball team, fostering teamwork, discipline, and sportsmanship.
+
+Hobbies: 
+- Playing the guzheng, a traditional Chinese instrument, to embrace cultural heritage and express artistic creativity.
+- Embarking on outdoor adventures, such as hiking and snorkeling, to connect with nature and nurture a healthy lifestyle.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+- Cantonese Chinese (Intermediate)

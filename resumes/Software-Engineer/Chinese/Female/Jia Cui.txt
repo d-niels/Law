@@ -1,0 +1,50 @@
+Jia Cui
+
+Personal Statement:
+Dedicated and detail-oriented Software Engineer with a passion for creating innovative solutions. I am a Chinese female residing in San Diego, California. My goal is to leverage my technical expertise and strong problem-solving skills to contribute to the development of cutting-edge software applications.
+
+Education:
+Bachelor of Science in Computer Science
+University of San Francisco
+GPA: 3.9
+
+Work Experience:
+
+Software Engineer Intern
+InnovateTech Solutions, San Diego, CA
+May 2020 - August 2020
+
+- Developed and executed automated testing scripts, ensuring software functionality and stability.
+- Utilized NoSQL databases to efficiently manage and retrieve data for applications.
+- Implemented error tracking systems to identify and resolve issues at an early stage.
+- Collaborated with cross-functional teams to develop and enhance e-commerce websites.
+
+Software Developer
+TechSolutions Inc., San Diego, CA
+September 2018 - April 2020
+
+- Utilized Python to design and develop secure payment processing systems.
+- Implemented SQL databases and optimized query performance for seamless data management.
+- Collaborated with a diverse team to develop Java-based applications, meeting client requirements.
+- Conducted thorough debugging and troubleshooting to ensure software reliability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer Tutor at Chinese Community Center, San Diego, CA: Assisted Chinese-speaking students in various subjects, promoting academic success within the community.
+- Sports Leadership Role: Led and organized weekly basketball training sessions for young girls, encouraging gender equality and fostering athletic development.
+
+Hobbies:
+- Playing the Guzheng (a traditional Chinese stringed instrument)
+- Exploring diverse cultures and traditions through travel and music
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+Note: This is a fictional resume and any resemblance to real individuals or organizations is purely coincidental.

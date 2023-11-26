@@ -1,0 +1,44 @@
+Personal Statement:
+As a black male hailing from the vibrant city of Memphis, Tennessee, I am driven to break barriers and achieve excellence in the field of software engineering. With a strong educational background, dynamic work experience, and a passion for problem-solving, I am determined to make a significant impact in the industry. I am committed to embracing diversity and utilizing my skills to contribute to an inclusive and innovative tech community.
+
+Education:
+Bachelor of Science in Computer Science
+University of Memphis, Memphis, Tennessee
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Cortex Technologies
+Memphis, Tennessee | January 2019 - Present
+- Debugged complex software issues, ensuring seamless functionality and customer satisfaction.
+- Utilized Python programming language for efficient and scalable development.
+- Worked with NoSQL databases to handle large data sets and facilitate secure payments.
+
+Software Developer Intern, Innovix Corporation
+Memphis, Tennessee | June 2018 - August 2018
+- Utilized Java programming language to develop ecommerce applications.
+- Implemented SQL databases to manage and retrieve data efficiently.
+- Conducted error tracking and performed automated testing to ensure high-quality software.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+1. Sports Leadership Role: Captain, Memphis Thunder Basketball Team
+- Led the team in a competitive basketball league, fostering a sense of unity, discipline, and dedication.
+- Mentored teammates, striving to bring out the best in each player while promoting inclusivity and teamwork.
+
+2. Ethnic and Gender Empowerment: Speaker, TechConX Conference
+- Delivered keynote speeches at TechConX, emphasizing the importance of diversity and equality in tech and inspiring underrepresented individuals to pursue careers in software engineering.
+
+Hobbies:
+- Playing the saxophone to express my creativity and immerse myself in a different form of art.
+- Exploring diverse cultural events and art exhibits, celebrating and appreciating various ethnic backgrounds.
+- Participating in local basketball tournaments, nurturing a sense of camaraderie and passion for the sport.
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)

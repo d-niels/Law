@@ -1,0 +1,50 @@
+Uziel Gutierrez
+1234 Main Street, San Jose, CA 12345
+Phone: (555) 123-4567
+Email: uzielg@email.com
+
+Personal Statement:
+A dedicated and passionate software engineer, I am driven by my curiosity and love for solving complex problems. With a strong background in computer science, I possess a keen eye for detail and a diligent work ethic. As a proud Latino male, I am committed to promoting diversity and inclusivity in the tech industry. With a demonstrated track record of success, I am eager to contribute my skills and experience to create innovative software solutions as a software engineer.
+
+Education:
+Bachelor of Science in Computer Science
+Bayview University, San Francisco, CA
+Graduated May 2020
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - Stellar Solutions, San Jose, CA
+September 2020 - Present
+- Developed an advanced error tracking system to proactively identify and resolve software issues, resulting in a 30% increase in software efficiency.
+- Utilized SQL for database management, performance optimization, and data retrieval.
+- Conducted comprehensive debugging of software modules, implemented efficient bug fixes, and streamlined code, resulting in improved software stability.
+- Automated testing processes using modern techniques to enhance software reliability and reduce manual effort, resulting in a 25% reduction in testing time.
+
+Software Developer - Cybertech Innovations, San Francisco, CA
+May 2019 - August 2020
+- Worked extensively on NoSQL databases to create efficient and scalable data storage solutions.
+- Developed secure payment systems for an e-commerce platform, ensuring seamless and protected transactions.
+- Utilized Java and Python to design, build, and maintain robust software applications, contributing to the successful completion of several high-profile projects.
+- Collaborated with cross-functional teams to analyze requirements, troubleshoot issues, and deliver solutions within tight deadlines.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Unity Association, San Jose, CA
+Member and Sports Leadership Role (Soccer)
+- Mentored and coached a team of young Latino males in a community soccer program, promoting teamwork, leadership, and cultural diversity.
+
+Hobbies:
+Playing the guitar, painting, and photography
+Representing my Latino heritage through traditional dance performances
+
+Languages:
+English (Fluent), Spanish (Native)
+
+References:
+Available upon request.

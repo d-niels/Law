@@ -1,0 +1,40 @@
+Clarissa Arroyo
+
+Personal Statement:
+As a driven and passionate software engineer, I bring a strong technical background and a commitment to delivering high-quality solutions. With a Bachelor's degree in Computer Science from the prestigious Lawrenceville University, and a proven track record in problem-solving and software development, I am ready to take on the role of a software engineer. Being a proud Latina woman from El Paso, Texas, I am determined to contribute to the diversification of the tech industry by bringing my unique perspective, skills, and unwavering work ethic to the table.
+
+Education:
+Bachelor of Science in Computer Science
+Lawrenceville University, El Paso, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern, TechSolutions Inc., El Paso, Texas
+- Implemented error tracking and debugging techniques to resolve complex software issues efficiently
+- Worked extensively with NoSQL databases, optimizing data storage and retrieval for improved performance
+- Leveraged Python programming language to develop and maintain critical software components
+
+Software Developer, InnovateTech Systems, El Paso, Texas
+- Developed secure payments systems using SQL and Java, ensuring data privacy and integrity
+- Applied automated testing techniques to detect and resolve software bugs, improving overall system stability
+- Collaborated closely with cross-functional teams to deliver scalable and efficient e-commerce solutions
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteered at El Paso Hispanic Cultural Center, organizing events to celebrate Latino heritage and promote cultural understanding in the community
+- Served as a passionate and dedicated soccer team leader, inspiring teamwork and empowering young girls to pursue their athletic aspirations
+
+Hobbies:
+- Playing the violin, infusing classical music with Latin American influences to create a unique musical blend
+- Exploring various forms of Latin American art, from painting to sculpture, to further appreciate and embrace diverse cultural expressions
+
+Languages:
+- Fluent in English and Spanish
+
+I am thrilled about the opportunity to contribute my skills and technical expertise to a dynamic software engineering role. With a strong educational background, professional experience, and genuine passion for technology, I am confident in my ability to make a significant impact. Clarissa Arroyo, a determined and diverse software engineer, ready to make her mark in the industry.

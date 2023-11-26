@@ -1,0 +1,44 @@
+Personal Statement:
+I am Olive Zimmerman, a driven and detail-oriented software engineer with a penchant for innovation. As a black female hailing from Jacksonville, Florida, I am committed to promoting diversity and inclusivity within the tech industry. With a solid educational background in computer science and comprehensive hands-on experience, I am confident in my ability to thrive as a software engineer.
+
+Education:
+Bachelor of Science in Computer Science, Sunshine State University, Jacksonville, Florida
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Techno Innovators Inc., Jacksonville, Florida
+- Developed and maintained highly robust software solutions using SQL and NoSQL databases, ensuring seamless data management and retrieval.
+- Employed advanced error tracking and debugging techniques to swiftly address issues and enhance system performance.
+- Collaborated with cross-functional teams to successfully deliver high-quality software products within strict timelines.
+
+Software Engineer, TechSolutions Unlimited, Jacksonville, Florida
+- Engineered secure payment systems for e-commerce platforms using Java and Python, ensuring flawless transactional processes and customer satisfaction.
+- Conducted comprehensive automated testing to guarantee software reliability and compliance with industry standards.
+- Collaborated closely with a diverse team of engineers to design and optimize cutting-edge e-commerce solutions, elevating user experience to new heights.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Board Member, EmpowerTech Diversity Initiative, Jacksonville, Florida
+- Championed diversity and inclusivity within the tech industry, actively advocating for equal opportunities for underrepresented groups.
+- Organized impactful workshops and events to inspire and empower young women and individuals of color to pursue lucrative careers in technology.
+
+Basketball Team Captain, Jacksonville Youth Athletics Association, Jacksonville, Florida
+- Led a dedicated team of basketball players, fostering the values of teamwork, discipline, and personal growth.
+- Mentored and supported athletes from diverse backgrounds, emphasizing self-confidence and leadership development.
+
+Hobbies:
+- Playing the piano
+- Spearheading initiatives to empower people of color and women within the tech industry
+- Engaging in thought-provoking discussions on marginalized communities' empowerment and advancement
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)
+
+References available upon request.

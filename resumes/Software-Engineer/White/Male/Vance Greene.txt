@@ -1,0 +1,45 @@
+VANCE GREENE
+1234 Oak Street, Jacksonville, FL, 12345
+(123) 456-7890 | vancegreene@email.com
+
+PERSONAL STATEMENT:
+Reliable and dedicated software engineer with a passion for problem-solving and developing innovative solutions. Offering a strong foundation in programming languages, database technologies, and testing methodologies, combined with exceptional analytical skills. Committed to delivering high-quality software products that exceed client expectations. Eager to leverage my expertise to drive positive change in the software development industry.
+
+EDUCATION:
+Bachelor of Science in Computer Science, Magna Cum Laude
+Jacksonville Institute of Technology, Jacksonville, FL
+GPA: 3.9 / 4.0
+
+WORK EXPERIENCE:
+Software Engineer, Cyber Systems Solutions, Jacksonville, FL
+October 2018 - Present
+- Developed and maintained scalable and efficient software solutions for e-commerce platforms using Java, SQL, and debugging tools.
+- Collaborated with cross-functional teams to identify and resolve software defects and improve system performance.
+- Facilitated secure payment integrations and implemented effective error tracking mechanisms to ensure accurate and reliable transactions.
+
+Software Developer Intern, CodeCraft Innovations, Jacksonville, FL
+May 2017 - August 2018
+- Utilized Python to create automated testing scripts, significantly reducing testing time by 50% and improving overall product quality.
+- Worked closely with the development team to ensure the integration of secure payment gateways using NoSQL databases.
+- Conducted extensive debugging and troubleshooting to identify and rectify software defects, ensuring a seamless user experience.
+
+SKILLS:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP:
+Sports Leadership Program | Jacksonville Institute of Technology, Jacksonville, FL
+- Served as the team captain for the university's soccer team, fostering teamwork, discipline, and effective communication skills.
+- Mentored and supported teammates from diverse backgrounds, creating an inclusive and supportive environment for all athletes.
+
+HOBBIES:
+Soccer: Actively participate in local soccer leagues, promoting teamwork and a healthy, active lifestyle while building camaraderie within the community.
+Guitar: Enjoy playing the guitar to unwind and cultivate creativity.
+
+LANGUAGES:
+English (Fluent), Spanish (Conversational)
+
+Thank you for considering my application. I look forward to the opportunity to contribute my skills and dedication as a software engineer at your esteemed organization.

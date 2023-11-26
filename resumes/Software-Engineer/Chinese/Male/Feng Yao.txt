@@ -1,0 +1,39 @@
+Feng Yao
+
+Personal Statement: 
+Motivated software engineer with a strong passion for building innovative and robust applications. Committed to continuously learning and applying cutting-edge technologies to develop efficient solutions. Excels in collaborating with cross-functional teams to deliver high-quality software products.
+
+Education:
+Bachelor of Science in Computer Science, Golden State University, San Francisco, California
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, StellarTech Solutions, San Francisco, California
+- Developed secure payment systems using NoSQL and SQL databases to handle millions of transactions daily
+- Implemented automated testing mechanisms, resulting in a 20% reduction in software bugs
+- Collaborated with cross-functional teams to ensure adherence to data security regulations
+
+Software Developer, QuantumSoft Inc., San Francisco, California
+- Designed and developed backend services in Java, Python, and JavaScript for a high-traffic ecommerce platform
+- Utilized debugging tools and error tracking systems to identify and resolve software issues promptly
+- Contributed to the development of multiple ecommerce features, resulting in a 15% increase in customer satisfaction
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Youth Soccer Coach, San Francisco Youth Sports League, San Francisco, California
+- Coordinated and facilitated weekly practices and games for a diverse group of young soccer players
+- Fostered a supportive and inclusive environment, promoting teamwork and sportsmanship
+
+Hobbies:
+- Playing the piano
+- Exploring different cultures through travel and music
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

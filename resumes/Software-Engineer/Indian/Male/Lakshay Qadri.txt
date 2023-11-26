@@ -1,0 +1,57 @@
+Lakshay Qadri
+Los Angeles, California  |  Indian Male
+[Phone Number] | [Email Address]
+
+PERSONAL STATEMENT
+
+Dedicated and detail-oriented software engineer with a strong passion for developing innovative solutions. Leveraging a Bachelor's degree in Computer Science and a solid background in secure payments, automated testing, and database technologies, I am highly skilled in various programming languages and debugging techniques. Committed to excellence, I thrive in dynamic environments and excel at collaborating with diverse teams to drive successful software development projects. Seeking a challenging software engineer role to contribute to cutting-edge solutions in the technology industry.
+
+EDUCATION
+
+Bachelor of Science in Computer Science, ABC University, Los Angeles, California
+GPA: 3.9/4.0 (Major GPA: 4.0)
+[Year of Graduation]
+
+WORK EXPERIENCE
+
+Software Engineer, InnovateTech Solutions, Los Angeles, California
+[Start Date] - [End Date]
+- Developed secure payment processing systems utilizing advanced encryption algorithms to ensure the confidentiality and integrity of customer transactions.
+- Conducted extensive automated testing using industry-leading tools to identify and resolve software defects, increasing efficiency by 40%.
+- Utilized NoSQL and SQL databases to optimize data storage and retrieval, enabling high-performance and scalable applications.
+- Collaborated with cross-functional teams, including UX designers and backend developers, to gather requirements and design software solutions, resulting in a seamless user experience.
+
+Software Developer, NextGen Solutions, Los Angeles, California
+[Start Date] - [End Date]
+- Leveraged Java and Python programming languages to develop robust and user-friendly e-commerce platforms, resulting in a 20% increase in sales.
+- Implemented advanced error tracking and debugging techniques to quickly isolate and resolve software issues, reducing downtime by 30%.
+- Collaborated closely with product managers and stakeholders to analyze user needs and translate them into functional software requirements.
+- Developed and maintained code repositories using Git, ensuring effective version control and seamless collaboration within the development team.
+
+SKILLS
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+
+- Volunteer, Indian Association of Los Angeles: Actively participated in promoting Indian cultural events, fostering cultural exchange and diversity awareness in the community.
+- Sports Leadership Role, Basketball Team Captain: Led and mentored a highly competitive basketball team, fostering teamwork, discipline, and resilience both on and off the court.
+
+HOBBIES
+
+- Playing the Sitar (Indian Musical Instrument)
+- Exploring Photography with an emphasis on capturing cultural diversity and natural landscapes
+
+LANGUAGES
+
+- English (Fluent)
+- Hindi (Native)
+- Punjabi (Intermediate)
+
+REFERENCES
+
+Available upon request.

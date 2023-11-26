@@ -1,0 +1,36 @@
+Personal Statement:
+As a black female software engineer hailing from the vibrant city of Charlotte, North Carolina, I am deeply committed to harnessing the power of technology to revolutionize the industry. With a solid educational background in computer science and an unwavering passion for innovation, I am dedicated to delivering exceptional software solutions. Through my diverse experiences and leadership roles, I have strengthened my ability to adapt and excel in fast-paced environments. I am thrilled to bring my skills and perspective to a software engineer role, leading by example and driving meaningful change.
+
+Education:
+Bachelor of Science in Computer Science - Carolina Tech University, Charlotte, North Carolina (GPA: 3.9/4.0)
+
+Work Experience:
+Software Engineer - Stellar Technologies Inc., Charlotte, North Carolina
+- Developed scalable and efficient software systems using Java and NoSQL databases, facilitating seamless data management and retrieval
+- Conducted comprehensive automated testing and debugging to ensure the robustness and reliability of software performance
+- Collaborated closely with cross-functional teams to integrate software components seamlessly and optimize overall product functionality
+
+Software Engineer Intern - Innovate Corp., Charlotte, North Carolina
+- Spearheaded the implementation of secure payment functionalities and efficient error tracking mechanisms in an ecommerce platform
+- Leveraged SQL databases for effective data management and retrieval, ensuring optimal performance and accuracy
+- Contributed to the development of Python scripts, enabling automation and process optimization for enhanced productivity
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Mentor at Girls Who Code, inspiring and empowering young girls from diverse backgrounds to explore the world of technology and pursue fulfilling careers
+- Sports Leadership Role: Team Captain for the Carolina Tech University Soccer Team, fostering teamwork, discipline, and a competitive spirit
+
+Hobbies:
+- Playing the saxophone, providing an expressive outlet and bringing music to life
+- Immersing myself in diverse cultures by engaging in community events, attending festivals, and experiencing different ethnic traditions
+- Advocating for women's empowerment and inclusivity through active participation in community service initiatives
+
+Languages:
+- English (Fluent)
+- French (Proficient)

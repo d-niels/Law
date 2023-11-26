@@ -1,0 +1,37 @@
+Personal Statement:
+I am a highly motivated and dedicated software engineer with a passion for creating innovative and efficient solutions. With a strong academic background in computer science and practical expertise in various programming languages and database technologies, I am equipped with the skills to excel in the role of a software engineer. As a Chinese female in the tech industry, I bring a diverse perspective and value inclusion and diversity in my work and leadership roles. I am committed to constantly learning and growing in this ever-evolving field.
+
+Education:
+Bachelor of Science in Computer Science, East Coast University, New York, NY
+- Graduated with a GPA of 3.9
+- Relevant coursework: Data Structures, Algorithms, Software Engineering, Database Systems
+
+Work Experience:
+Software Engineer, NebulaTech, New York, NY (2019 - Present)
+- Collaborated in a cross-functional team to develop, debug, and maintain secure payment systems for high-profile clients.
+- Conducted automated testing and implemented an error tracking system to ensure the robustness and reliability of applications.
+- Leveraged debugging tools to identify and resolve software issues, improving overall stability and security.
+
+Software Developer Intern, Stellar Solutions, New York, NY (2018)
+- Developed Java-based modules for an e-commerce platform, focusing on database operations, secure transactions, and user experience optimization.
+- Utilized SQL and NoSQL databases for efficient data storage and retrieval.
+- Implemented Python scripts to streamline various business processes and contributed to enhancing system performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Sports Leadership: Served as captain of the East Coast University Women's Basketball Team, leading the team to consecutive conference championships and fostering a supportive and competitive team environment.
+- Ethnicity & Gender Advocacy: Actively participated in organizations promoting diversity and inclusion within the tech industry, organizing events and initiatives to raise awareness and empower underrepresented groups.
+
+Hobbies:
+- Playing the piano: I have been playing the piano for over ten years and find great joy in expressing my creativity through music.
+- Exploring diverse cultures: As a Chinese American, I value embracing different cultures and traditions. I enjoy learning about various ethnic customs and practicing mindfulness and meditation to connect with my multicultural roots.
+
+Languages:
+- English (fluent)
+- Mandarin Chinese (native proficiency)

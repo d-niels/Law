@@ -1,0 +1,44 @@
+Personal Statement:
+As a passionate and driven software engineer, I am dedicated to leveraging my technical skills to create innovative solutions in the ever-evolving world of technology. My commitment to excellence, combined with my strong problem-solving abilities, allows me to thrive in challenging environments. Coming from a culturally rich background as a Latina female from San Jose, California, I am inspired to bring diversity and inclusivity to the tech industry.
+
+Education:
+Bachelor of Science in Computer Science
+Tech Haven University, San Jose, California
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - Byte Solutions
+- Successfully implemented error tracking feature, ensuring smooth troubleshooting processes
+- Utilized SQL to develop and optimize databases for secure payment systems
+- Collaborated with a diverse team to design and develop Java-based applications
+
+Software Engineer - Tech Hub Inc.
+- Conducted extensive debugging and code analysis to ensure software integrity
+- Developed automated testing scripts and strategies for comprehensive quality assurance
+- Worked with NoSQL databases to improve e-commerce platform performance
+- Utilized Python to develop efficient and scalable solutions
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer at Latino Youth Mentorship Program
+- Mentored underprivileged Latino students and provided guidance for educational and career aspirations
+- Organized workshops on coding and technology to inspire young individuals from diverse backgrounds
+- Actively promoted the importance of diversity and inclusivity in the tech industry
+
+Sports Leadership Role: Captain of a Women's Soccer Team
+- Led a diverse team of female athletes, fostering teamwork and camaraderie
+- Organized practices and competitions, providing support and motivation to teammates
+
+Hobbies:
+Playing the guitar, an instrument that allows me to express my creativity and cultural heritage
+Exploring diverse cultures and traditions through music and literature
+Promoting diversity and inclusivity through various community initiatives
+
+Languages:
+Fluent in English and Spanish

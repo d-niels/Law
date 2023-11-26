@@ -1,0 +1,41 @@
+Personal Statement:
+Experienced and highly motivated Indian female software engineer with a passion for developing efficient and scalable software solutions. Armed with a Bachelor's degree in Computer Science from the renowned Houston Technical University, I possess a strong academic foundation and a diverse skill set, allowing me to thrive in complex technical projects. Through my work experience and volunteer leadership roles, I have honed my analytical skills and problem-solving abilities, while embracing diversity and promoting inclusion in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science
+Houston Technical University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - CodeGenius Technologies, Houston, Texas
+- Utilized Python and Java programming languages to develop automated testing frameworks.
+- Employed SQL for efficient data retrieval and management.
+- Collaborated with cross-functional teams to ensure seamless integration of new features.
+- Developed and executed test plans, resulting in a 20% reduction in software defects.
+
+Software Engineer - OctaTech Solutions, Houston, Texas
+- Debugged and resolved software issues to ensure smooth functioning of the ecommerce platform.
+- Implemented error tracking mechanisms to identify and fix critical bugs.
+- Ensured secure payment transactions through in-depth understanding of secure payment protocols.
+- Utilized NoSQL databases for efficient data storage and retrieval.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry, particularly championing opportunities for Indian females.
+- Served as a basketball team captain, fostering teamwork and discipline among young athletes and leading them to regional victories.
+- Organized and participated in workshops and networking events aimed at empowering and supporting women in tech.
+
+Hobbies:
+- Playing the flute to express creativity and unwind.
+- Embracing multiculturalism and promoting inclusivity through exploring different languages and traditions.
+- Engaging in outdoor activities such as hiking, which fosters personal growth and resilience.
+
+Languages:
+- English: Fluent
+- Hindi: Native speaker

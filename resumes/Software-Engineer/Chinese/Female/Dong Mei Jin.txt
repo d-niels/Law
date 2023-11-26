@@ -1,0 +1,41 @@
+Dong Mei Jin
+Houston, Texas | (xxx) xxx-xxxx | dongmeijin@email.com
+
+Personal Statement:
+Highly motivated software engineer with a passion for coding and problem-solving. Skilled in various programming languages and experienced in developing secure software solutions. Committed to delivering high-quality products that exceed customer expectations. Excited about utilizing my skills and knowledge to contribute to a dynamic software development team.
+
+Education:
+Bachelor of Science in Computer Science, XYZ University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Stellar Technologies, Houston, Texas
+- Developed and maintained a scalable NoSQL database system for efficient data storage and retrieval.
+- Implemented error tracking mechanisms to identify and resolve issues effectively.
+- Conducted automated testing to ensure the reliability and stability of software products.
+- Collaborated with cross-functional teams to integrate secure payment systems into various platforms.
+
+Software Developer, Quantum Solutions, Houston, Texas
+- Utilized Java and debugging tools to enhance the functionality of an ecommerce platform.
+- Implemented Python scripts for automating manual processes, improving efficiency.
+- Designed and maintained SQL databases, ensuring data integrity and efficient data manipulation.
+- Collaborated with a team of developers to deliver high-quality software products.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques 
+
+Volunteer & Leadership:
+Ethnic Diversity & Empowerment Group, XYZ University, Houston, Texas
+- Actively contributed to promoting diversity and inclusion within the university community.
+- Organized cultural events and initiatives to celebrate the cultural heritage of students of various ethnic backgrounds.
+- Led a leadership role in basketball, organizing and coaching a team of diverse students.
+
+Hobbies:
+Playing the guzheng, reading literature from different cultures, hiking, exploring new technologies and programming languages.
+
+Languages:
+Fluent in English, Mandarin, and Cantonese, enabling effective communication in multicultural settings.

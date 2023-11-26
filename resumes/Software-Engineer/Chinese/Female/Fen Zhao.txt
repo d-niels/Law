@@ -1,0 +1,47 @@
+Fen Zhao
+Philadelphia, Pennsylvania | +1 (555) 123-4567 | fen.zhao@email.com
+
+Personal Statement:
+Highly motivated Chinese female seeking a software engineer position to utilize my strong technical skills and passion for solving complex problems. With a solid foundation in computer science coupled with hands-on experience in software development, I am confident in my ability to contribute to the success of innovative technology projects. My diverse background and leadership experience further enhance my ability to bring unique perspectives to the team.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+Midtown University, Philadelphia, Pennsylvania
+Relevant Courses: Data Structures, Algorithms, Software Engineering, Database Management, Web Development
+
+Work Experience:
+Software Engineer Intern, Quantum Systems Inc., Philadelphia, PA
+June 20XX - August 20XX
+- Assisted in error tracking and resolving issues in a large-scale software system
+- Collaborated with cross-functional teams to develop and enhance secure payment solutions
+- Utilized Python and SQL to analyze and manipulate large datasets
+
+Software Developer, ByteMaster Software Solutions, Philadelphia, PA
+September 20XX - Present
+- Develop and maintain automated testing frameworks for an e-commerce platform
+- Collaborate with developers to identify and fix software defects using Java and advanced debugging techniques
+- Work with NoSQL databases to optimize data retrieval and storage for improved performance
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in community organizations promoting diversity in the tech industry, specifically supporting Chinese females in computer science
+- Sports Leadership Role: Team Captain and Coach of the university tennis team, fostering teamwork, discipline, and strategic thinking in a competitive environment
+
+Hobbies:
+- Playing the guzheng (traditional Chinese instrument)
+- Exploring cultural festivals and events that promote cross-cultural understanding
+- Participating in coding competitions to enhance technical skills
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+- Spanish (Basic proficiency)
+
+References:
+Available upon request.

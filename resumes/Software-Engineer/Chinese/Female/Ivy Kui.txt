@@ -1,0 +1,41 @@
+Personal Statement:
+I am an ambitious and driven software engineer with a passion for creating innovative solutions. As a Chinese female hailing from Houston, Texas, I bring a unique perspective and diverse experiences to the table. With a strong educational background in computer science and valuable work experience, I am confident in my ability to contribute to the success of any software engineering team.
+
+Education:
+Bachelor of Science in Computer Science
+Houston Technical University, Houston, Texas
+GPA: 3.9
+
+Work Experience:
+Software Engineer - InnovateTech Solutions
+Houston, Texas
+- Developed error tracking systems using Python to efficiently identify and resolve issues
+- Leveraged NoSQL databases to securely process and store payment data
+- Collaborated with cross-functional teams to integrate payment systems seamlessly
+
+Software Engineer - QuantumSoft
+Houston, Texas
+- Implemented SQL-based automated testing systems to ensure software quality
+- Developed and maintained an e-commerce platform using Java
+- Utilized debugging techniques to identify and resolve software issues, improving overall performance
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Sports Leadership Role (soccer): Acted as the captain of a competitive soccer team, overseeing training sessions and leading the team to multiple victories in citywide tournaments
+- Member of Tech Diversity Initiative: Participated in a women in tech organization, advocating for gender and cultural diversity in the technology field
+
+Hobbies:
+- Playing the violin, exploring different musical genres, and performing at local events
+- Learning Mandarin Chinese and immersing myself in the language and culture by attending cultural festivals and events
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References available upon request.

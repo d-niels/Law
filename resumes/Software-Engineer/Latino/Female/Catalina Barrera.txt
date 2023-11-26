@@ -1,0 +1,46 @@
+Catalina Barrera
+123 Main Street | Los Angeles, CA 98765 | (123) 456-7890 | catalinabarrera@email.com
+
+Personal Statement:
+Result-oriented software engineer with a passion for developing innovative solutions. Committed to leveraging technical expertise to drive business success. A Latina female from Los Angeles, California, dedicated to promoting diversity and inclusion in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, California State University, Los Angeles, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | Innov8 Technologies, Los Angeles, CA | June 2018 - Present
+- Developed and maintained e-commerce platforms using Python, SQL, and automated testing techniques.
+- Collaborated with cross-functional teams to optimize website performance, resulting in a 20% increase in sales.
+- Implemented secure payment systems and integrated third-party API for seamless transaction processing.
+
+Software Developer | CodeGurus, Los Angeles, CA | September 2016 - May 2018
+- Troubleshot and debugged software applications, utilizing error tracking tools and techniques.
+- Spearheaded the development of a Java-based NoSQL database system, increasing data retrieval speeds by 30%.
+- Collaborated with engineers to continually improve software quality and functionality.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Chair, Women in Technology Club | California State University, Los Angeles, CA | 2015-2016
+- Actively promoted diversity and gender equality in the tech industry through organizing events and workshops.
+- Mentored female students interested in pursuing careers in technology.
+- Organized a leadership conference that highlighted the accomplishments of female software engineers.
+
+Sports Leadership Role | California State University, Los Angeles, CA | 2014-2015
+- Led a team of diverse athletes in basketball competitions, fostering teamwork and camaraderie.
+- Organized practice sessions, managed team logistics, and facilitated communication between team members.
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures through music and art
+- Language Learning (Fluent in English and Spanish)
+
+Languages:
+- English (Fluent)
+- Spanish (Fluent)

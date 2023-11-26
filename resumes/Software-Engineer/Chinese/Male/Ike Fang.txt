@@ -1,0 +1,40 @@
+Ike Fang
+
+Personal Statement:
+Motivated and dedicated software engineer with a strong background in computer science. Committed to delivering efficient and innovative software solutions. Skilled in various programming languages and experienced in ecommerce and secure payments. Seeking a challenging role as a software engineer to contribute to the development of cutting-edge software applications.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Jose, California
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern, InnovateTech Solutions, San Jose, CA
+- Collaborated in the development of an advanced ecommerce platform, ensuring seamless end-to-end user experience
+- Implemented a robust error tracking system, enhancing the efficiency of identifying and resolving software issues
+- Utilized Java programming language to build reliable, scalable, and high-performance software components
+- Managed NoSQL databases to store and retrieve large volumes of data efficiently
+
+Junior Software Engineer, CyberShield Technologies, San Jose, CA
+- Developed a secure payment system, ensuring the safety of customers' financial transactions
+- Utilized SQL database technology to manage and query large datasets
+- Implemented Python scripts to automate testing procedures, significantly reducing manual effort and increasing efficiency
+- Conducted comprehensive testing and employed debugging techniques to track and resolve software issues
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusivity within the tech industry, representing the Chinese male perspective in professional communities
+- Engaged in a leadership role as captain of the basketball team, fostering teamwork and discipline through the sport
+
+Hobbies:
+- Playing the guzheng, a traditional Chinese musical instrument
+- Exploring various cultures and their distinct art forms
+- Participating in and leading basketball leagues to stay physically active and promote team spirit
+
+Languages:
+- Fluent in English and Mandarin Chinese

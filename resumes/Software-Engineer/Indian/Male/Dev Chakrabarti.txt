@@ -1,0 +1,37 @@
+Personal Statement:
+I am a highly motivated and skilled software engineer with a passion for developing innovative solutions. With a strong foundation in computer science and a keen eye for problem-solving, I am dedicated to delivering high-quality software that meets client's needs. I am seeking a challenging role as a software engineer where I can utilize my technical expertise and contribute to the success of an organization.
+
+Education:
+Bachelor of Science in Computer Science
+Techville University, Atlanta, Georgia
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Innovix Labs, Atlanta, Georgia
+- Utilized Java to develop secure payment processing software, ensuring compliance with industry standards.
+- Worked with SQL databases to store and retrieve payment information efficiently.
+- Conducted thorough debugging to identify and resolve software issues, ensuring smooth operations.
+- Collaborated with cross-functional teams to gather requirements and develop software solutions.
+
+Software Developer, CyberSolutions Inc., Atlanta, Georgia
+- Implemented automated testing strategies to enhance software quality and reduce time-to-market for ecommerce applications.
+- Utilized Python for error tracking and analysis, ensuring prompt identification and resolution of issues.
+- Worked with NoSQL databases to design and optimize data storage for high-performance systems.
+- Collaborated with developers and project managers to implement new features and optimize existing codebase.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As an Indian male from Atlanta, Georgia, I am deeply committed to promoting diversity and inclusivity in the tech industry. I actively volunteer with organizations such as Girls Who Code and Society of Black Engineers to encourage underrepresented individuals to pursue careers in technology. Additionally, I have taken on a leadership role as a coach for a youth basketball team, fostering teamwork and sportsmanship among the players.
+
+Hobbies:
+Outside of my professional pursuits, I am an avid basketball player and a leader in my local community. The sport not only captures my competitive spirit but also instills important qualities such as teamwork and discipline. I also have a strong interest in multicultural literature, particularly exploring Indian history and mythology. Being fluent in English and Hindi, I have developed a fascination for languages, enabling me to connect with diverse communities.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)

@@ -1,0 +1,40 @@
+Personal Statement:
+
+As a highly motivated and detail-oriented software engineer, I am dedicated to creating efficient and reliable software solutions. With a strong background in computer science and a passion for problem-solving, I am eager to contribute my skills and expertise to an innovative team. My diverse experiences as a Chinese female living in San Jose, California have further shaped my perspective and ability to thrive in diverse environments. With a love for basketball and a natural affinity for leadership, I bring a unique blend of technical talent and team-building skills to every project.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Jose, CA
+GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer, QuantumSoft Systems, San Jose, CA
+- Developed secure payment systems using Python and Java, ensuring seamless and protected transactions
+- Conducted extensive debugging to identify and resolve software issues, resulting in improved software performance and customer satisfaction
+
+Software Engineer Intern, StellarTech Solutions, Mountain View, CA
+- Collaborated with a cross-functional team to implement automated testing and error tracking systems for an e-commerce platform
+- Utilized SQL and NoSQL databases to optimize data management and improve system performance
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Chinese American Association, San Jose, CA
+- Organized cultural events and fundraisers to promote Chinese traditions and foster a sense of community
+- Enhanced visibility of women in technology through mentorship programs and workshops, empowering young girls to pursue careers in STEM fields
+
+Hobbies:
+- Playing the piano, demonstrating my passion for music and dedication to mastering a musical instrument
+- Basketball team captain, showcasing my ability to lead and collaborate in a team setting and effectively strategize during high-pressure situations
+
+Languages:
+- English (fluent)
+- Mandarin Chinese (native)
+
+I am confident that my strong technical skills, multicultural perspective, and leadership abilities make me an ideal candidate for the software engineer position. I look forward to the opportunity to contribute to a dynamic and innovative team.

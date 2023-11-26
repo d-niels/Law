@@ -1,0 +1,36 @@
+Personal Statement:
+I am a dedicated and results-oriented software engineer with a passion for creating efficient and secure software solutions. With a solid educational background in computer science and extensive experience in the field, I strive to continuously enhance my technical skills and contribute to the development of cutting-edge software. As a Chinese female engineer from Philadelphia, I am committed to advocating for diversity and inclusion in the tech industry while utilizing my unique perspectives to drive innovation.
+
+Education:
+Bachelor of Science in Computer Science, XYZ University, Philadelphia, Pennsylvania
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, Stellar Solutions, Philadelphia, Pennsylvania
+- Developed and maintained an advanced e-commerce platform using Python, ensuring seamless transactions and enhancing user experience.
+- Leveraged automated testing frameworks to streamline testing processes and improve software reliability.
+- Worked collaboratively with multidisciplinary teams to identify and resolve any software issues promptly.
+
+Software Developer, Nexus Systems, Philadelphia, Pennsylvania
+- Debugged and optimized Java-based software applications, significantly improving performance and user satisfaction.
+- Utilized NoSQL and SQL databases for efficient data management and retrieval.
+- Implemented robust error tracking systems to identify and resolve software glitches promptly.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in various tech-focused organizations to promote diversity and inclusion, especially advocating for the representation of gender and ethnic minorities.
+- Served as a team leader in a local soccer league, fostering teamwork, sportsmanship, and leadership skills among team members.
+
+Hobbies:
+- Playing the guzheng, a traditional Chinese musical instrument that showcases my cultural heritage.
+- Engaging in outdoor activities such as hiking and camping, appreciating the diverse landscapes of Pennsylvania.
+- Exploring and experimenting with emerging technologies to stay ahead in the ever-evolving software engineering field.
+
+Languages:
+- Fluent in both English and Mandarin Chinese, facilitating effective communication in multicultural environments.

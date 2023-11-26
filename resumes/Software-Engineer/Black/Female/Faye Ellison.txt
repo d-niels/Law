@@ -1,0 +1,37 @@
+Faye Ellison
+
+Personal Statement:
+Driven and dedicated software engineer with a passion for utilizing technology to develop innovative solutions. With a strong foundation in computer science combined with extensive experience in programming languages and database technologies, I am committed to delivering high-quality software products that effectively meet the needs of users. As a black female in the field, I believe in fostering diversity and inclusion, advocating for underrepresented communities to bring new perspectives and drive positive change.
+
+Education:
+Bachelor's in Computer Science, Washington Technology University, Washington, District of Columbia
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, InnovTech Solutions, Washington, District of Columbia
+- Developed Python-based ecommerce platforms, utilizing SQL database for efficient data management.
+- Implemented error tracking mechanisms to identify and resolve software issues effectively.
+
+Software Engineering Intern, Quantum Software Solutions, Washington, District of Columbia
+- Collaborated with team members to develop NoSQL-based applications using Java.
+- Conducted extensive debugging and utilized automated testing techniques to ensure software quality.
+- Contributed to the implementation of secure payment gateways, enhancing customer trust.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Advocate for Diversity in Tech - Mentored and supported aspiring black female software engineers, promoting diversity and empowering underrepresented groups in the technology sector.
+
+Basketball Team Captain - Led and inspired the XYZ University basketball team, fostering teamwork, discipline, and perseverance both on and off the court.
+
+Hobbies:
+Playing the guitar - Proficient guitarist, using music as an outlet for creativity and self-expression.
+Exploring cultural heritage - Actively involved in community events that celebrate diverse cultures and traditions, promoting understanding and inclusivity.
+Languages:
+English (Fluent)
+French (Basic proficiency)

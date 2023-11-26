@@ -1,0 +1,51 @@
+CHHAVI GUPTA
+
+Philadelphia, Pennsylvania  |  Phone: (XXX) XXX-XXXX  |  Email: chhavigupta@email.com
+
+PERSONAL STATEMENT
+
+Motivated software engineer with a strong passion for solving complex problems through innovative technology solutions. Eager to leverage my skills in software development, programming, and problem-solving to contribute to a dynamic and collaborative team. With a bachelor's degree in Computer Science and a solid academic foundation, I am confident in my ability to thrive in a fast-paced and challenging role.
+
+EDUCATION
+
+Bachelor of Science in Computer Science, Liberty University, Philadelphia, Pennsylvania (May 20XX)
+- Concentration in Software Engineering
+- GPA: 3.9/4.0
+
+WORK EXPERIENCE
+
+Software Engineer Intern, AlphaTech Solutions, Philadelphia, Pennsylvania (May 20XX - Aug 20XX)
+- Developed automated testing scripts using Java to enhance product quality and increase efficiency.
+- Utilized debugging tools to identify and resolve software issues.
+- Collaborated with a cross-functional team to design and implement SQL queries for data retrieval and manipulation.
+
+Software Developer, Beta Solutions Inc., Philadelphia, Pennsylvania (Sept 20XX - Present)
+- Actively participated in error tracking and bug fixing to ensure seamless and reliable software performance.
+- Contributed to the development of secure payment systems for ecommerce applications using Python.
+- Managed NoSQL databases and optimized queries for enhanced data retrieval speed.
+
+SKILLS
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+
+Philadelphia Cricket Club, Cricket Team Captain (Jan 20XX - Present)
+- Lead the cricket team, orchestrating strategic planning and organizing team practices for optimal performance.
+- Provide mentorship and guidance to teammates, fostering a supportive and collaborative environment.
+
+HOBBIES
+
+- Playing the tabla, a traditional Indian percussion instrument.
+- Exploring diverse cultures through traveling and learning languages.
+
+LANGUAGES
+
+- English (fluent)
+- Hindi (native)
+
+Note: Chhavi Gupta's leadership role in the Philadelphia Cricket Club reflects her passion for sports, specifically cricket. The unique company names and university name have been changed to AlphaTech Solutions, Beta Solutions Inc., and Liberty University respectively.

@@ -1,0 +1,45 @@
+Stefan Davis
+
+Personal Statement:
+As a highly motivated and experienced software engineer, I am dedicated to delivering innovative solutions and enhancing user experiences. With a strong background in computer science and a passion for problem-solving, I am committed to utilizing my skills to drive technological advancements. As an African American male hailing from Washington, District of Columbia, I am determined to contribute to the diversification of the technology industry and inspire the next generation of underrepresented individuals.
+
+Education:
+Bachelor of Science in Computer Science, Washington Tech University, Washington, D.C.
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, VirtuTech Solutions, Washington, D.C. (2018-2020)
+- Developed a highly secure and efficient payments system for an e-commerce platform, utilizing Java and automated testing to ensure smooth and error-free transactions.
+- Collaborated with cross-functional teams to implement new features and enhance system performance, leading to a 20% increase in customer satisfaction.
+- Utilized Java, ecommerce, and automated testing techniques to conduct thorough quality assurance tests for complex software applications.
+- Played a crucial role in designing and implementing the platform's automated testing framework, reducing debugging time by 30%.
+
+Junior Software Engineer, CyberEdge Technologies, Washington, D.C. (2017-2018)
+- Debugged and resolved critical issues in sophisticated software applications, leveraging Python and NoSQL databases to identify and fix errors efficiently.
+- Optimized database performance and data retrieval by implementing SQL and NoSQL technologies, leading to a 25% increase in overall system efficiency.
+- Implemented error tracking systems to identify and resolve software flaws, resulting in a 10% reduction in customer-reported errors.
+- Collaborated with a team of engineers to develop innovative solutions for enhancing software performance and user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+1. Mentor, TechForward Initiative, Washington, D.C.
+- Actively engage with young individuals from underrepresented backgrounds, providing mentorship and guidance in pursuing careers in technology.
+- Organize workshops and events to enhance community understanding of the tech industry and empower underrepresented individuals.
+
+2. Sports Leadership Role, Washington, D.C. Boys Basketball Association
+- Led a basketball team, teaching essential skills, fostering teamwork, discipline, and promoting sportsmanship.
+- Organized and coordinated team practices and competitions, nurturing a positive and inclusive environment.
+
+Hobbies:
+- Playing the saxophone
+- Exploring various art forms that celebrate African American culture and history, such as African diaspora literature and visual arts
+
+Languages:
+- English (fluent)
+- French (intermediate level)

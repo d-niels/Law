@@ -1,0 +1,41 @@
+Kendrick Barnes
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a passion for solving complex problems through innovative programming solutions. Possessing a Bachelor's degree in Computer Science from the prestigious Harrington University in Indianapolis, Indiana, with a 3.9 GPA. Demonstrated expertise in various programming languages, database technologies, source control, and testing methodologies. Committed to delivering high-quality software solutions through strong analytical and problem-solving skills. As a black male, I am dedicated to promoting diversity and inclusion in the tech industry. I have actively sought out leadership roles in sports organizations, aiming to inspire and empower individuals from diverse backgrounds.
+
+Education:
+Bachelor of Science in Computer Science, Harrington University, Indianapolis, Indiana
+- Graduated with 3.9 GPA
+
+Work Experience:
+
+Software Engineer, InnovateTech Solutions, Indianapolis, IN
+- Developed and maintained scalable applications using SQL, NoSQL, and Java.
+- Implemented automated testing frameworks to ensure software quality and reduce potential bugs.
+- Collaborated with cross-functional teams to deliver high-quality software products.
+
+Software Engineer, NextGen Commerce, Indianapolis, IN
+- Played a key role in the development and optimization of an e-commerce platform.
+- Utilized Python and debugging techniques to resolve issues and enhance system performance.
+- Collaborated with the development team to integrate secure payment gateways for seamless user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Sports Leadership Role - Basketball Team Captain
+- Served as the team captain for a competitive basketball team, fostering cooperation and teamwork.
+- Promoted inclusivity and cultural diversity, encouraging individual growth both on and off the court.
+
+Hobbies:
+- Playing the saxophone
+- Engaging in community outreach programs to promote diversity and inclusion in the tech industry
+- Exploring creative writing and poetry
+
+Languages:
+- Proficient in English and intermediate-level Spanish

@@ -1,0 +1,43 @@
+Francisco Pacheco
+
+Personal Statement:
+Driven and dedicated software engineer with a passion for problem-solving and creating innovative solutions. As a Latino male hailing from Houston, Texas, I bring a unique perspective and diverse skill set to the field. My goal is to leverage my strong technical background and leadership experience to contribute to projects that make a meaningful impact on society.
+
+Education:
+Bachelor of Science in Computer Science, Magna Cum Laude
+Houston University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - TechnoGenius Inc., Houston, Texas
+- Implemented an advanced error tracking system, significantly reducing debugging time and improving overall software quality.
+- Utilized NoSQL databases to enhance data processing efficiency and optimize application performance.
+- Developed and maintained Java applications, ensuring seamless functionality and an exceptional user experience.
+- Performed extensive debugging to identify and resolve software issues, effectively optimizing application performance.
+
+Software Engineer - CyberTech Solutions, Houston, Texas
+- Expertly utilized Python to design and implement automated testing scripts, resulting in a 40% reduction in testing time.
+- Proficiently managed SQL databases to ensure secure payments and facilitate seamless ecommerce transactions.
+- Developed robust and scalable applications to meet the increasing demands of the company's diverse client base.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Program Coordinator, Latino Tech Enthusiasts: Organized events and workshops to promote computer science education among Latino youth, encouraging career paths in technology. Coordinated mentorship programs to bridge the gap and empower young Latinos interested in the tech industry.
+- Sports Leadership Role, Soccer Team: Led a diverse team of athletes in competitive soccer matches, fostering teamwork, discipline, and dedication. Promoted cultural diversity and fostered unity within the team.
+
+Hobbies:
+- Playing the guitar and composing music
+- Reading literature from various Latin American authors to explore and appreciate different perspectives
+- Engaging in outdoor activities, such as hiking and camping, to reconnect with nature and find inspiration
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References available upon request.

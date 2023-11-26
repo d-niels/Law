@@ -1,0 +1,43 @@
+Personal Statement:
+As a Chinese male software engineer from Los Angeles, I am driven by a passion for leveraging my technical expertise to solve complex problems. With a bachelor's degree in computer science from the prestigious California Institute of Technology, I have built a strong foundation in programming and problem-solving skills. My ambition is to contribute to a dynamic software engineering team by developing innovative solutions and continuously improving my craft.
+
+Education:
+Bachelor of Science in Computer Science, California Institute of Technology
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Tech Innovations Corp.
+- Implemented advanced NoSQL database technology to optimize data retrieval and storage processes, improving system performance by 50%.
+- Developed secure payments platform, incorporating industry-leading encryption protocols to ensure the safety of customer transactions.
+- Conducted automated testing procedures using cutting-edge tools, increasing software reliability and reducing bug resolution time by 30%.
+- Utilized advanced error tracking techniques to quickly identify and resolve issues, resulting in a 20% decrease in critical system failures.
+
+Software Engineer Intern, Digital Commerce Solutions
+- Played a pivotal role in developing an innovative ecommerce platform, streamlining the online shopping experience for users and enhancing revenue by 15%.
+- Utilized debugging skills to identify and resolve complex software issues, resulting in a 40% reduction in system downtime.
+- Leveraged Python and SQL to optimize database queries and enhance system performance, reducing query response time by 25%.
+- Developed Java modules to extend the functionality and scalability of the platform, enabling seamless integration with third-party services.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Asian American Cultural Society, California Institute of Technology
+- Served as the Vice President, organizing cultural events, workshops, and seminars to foster inclusivity and celebrate Asian cultures.
+- Mentored and provided support to Chinese international students, helping them navigate campus life and academic challenges.
+
+Sports Leadership Role: Captain, Los Angeles Dragons Basketball Team
+- Led the basketball team in strategizing, training, and team building, resulting in a regional championship and recognition as a top player.
+- Organized community basketball clinics and initiatives to promote youth engagement and physical fitness.
+
+Hobbies:
+Playing the Guzheng, a traditional Chinese musical instrument
+Exploring different cultures through culinary experiences and international literature
+Contributing to community service projects focusing on youth empowerment and diversity
+
+Languages:
+Fluent in English and Mandarin Chinese

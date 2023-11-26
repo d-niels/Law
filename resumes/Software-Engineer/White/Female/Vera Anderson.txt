@@ -1,0 +1,35 @@
+Personal Statement:
+I am a driven and talented software engineer, passionate about utilizing my skills to create innovative solutions. With a Bachelor's degree in Computer Science and an exceptional GPA of 3.9, I possess a strong foundation in programming and problem-solving. My experience in secure payments, ecommerce, debugging, and testing has honed my expertise and prepared me to make impactful contributions to the software engineering field.
+
+Education:
+Bachelor of Science in Computer Science
+Techland University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - Cybertech Solutions, Houston, Texas
+- Developed robust and secure payment systems using Java and Python, ensuring transaction safety and reliability.
+- Collaborated seamlessly with cross-functional teams to implement and maintain ecommerce functionalities effectively.
+- Leveraged analytical and problem-solving skills to troubleshoot issues promptly and optimize software performance.
+
+Software Developer - Infotech Innovations, Houston, Texas
+- Conducted extensive debugging, error tracking, and automated testing to identify and rectify software issues effectively.
+- Utilized NoSQL and SQL databases to optimize data storage and retrieval, ensuring seamless performance.
+- Innovated creative software solutions to meet client requirements, utilizing exceptional technical skills and adaptability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a proud white female, I actively contribute to the advancement of diversity and inclusion in the tech industry. I have taken on a leadership position as the captain of a women's soccer team, fostering a supportive environment for female athletes to excel in both sports and leadership.
+
+Hobbies:
+Apart from my professional endeavors, I find solace and joy in playing the violin, allowing me to express myself through music. In addition, I immerse myself in various cultural experiences, attending art exhibitions and exploring different artistic expressions to broaden my perspective and stimulate my creativity.
+
+Languages:
+English (Fluent),
+Spanish (Conversational)

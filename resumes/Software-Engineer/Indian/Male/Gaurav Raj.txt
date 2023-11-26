@@ -1,0 +1,46 @@
+Gaurav Raj
+123 Washington Street, Washington, DC 12345
+Phone: (555) 123-4567 | Email: gauravraj@email.com
+
+Personal Statement:
+Highly skilled and motivated software engineer with a strong background in computer science. Passionate about developing innovative solutions and leveraging cutting-edge technologies to enhance user experiences. Committed to delivering high-quality software products and proud to contribute to the diversity and inclusion in the tech industry as an Indian male.
+
+Education:
+Bachelor of Science in Computer Science
+ABC University, Washington, DC
+GPA: 3.9, Graduation Date: May 20XX
+
+Work Experience:
+Software Engineer, DeltaTech Innovations, Washington, DC
+June 20XX - Present
+- Developed secure payment processing modules for a global e-commerce platform using Python and NoSQL databases.
+- Collaborated with cross-functional teams to integrate payment gateways and ensure smooth transaction flow across various countries.
+- Utilized Java to build scalable and robust web applications while adhering to best coding practices and industry standards.
+
+Software Developer, Gamma Software Solutions, Washington, DC
+May 20XX - June 20XX
+- Worked on an enterprise-grade e-commerce platform, implementing critical features and resolving bugs using SQL and automated testing.
+- Conducted in-depth debugging and error tracking to identify and address software issues promptly, ensuring optimal performance.
+- Participated in code reviews and provided constructive feedback to enhance overall code quality and maintain high standards.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the South Asian Student Association, promoting cultural diversity and organizing cultural events to celebrate the rich heritage of various South Asian countries.
+- Served as a team captain for the university's cricket team, leading team practices and fostering a collaborative and competitive spirit among the players.
+
+Hobbies:
+- Playing the sitar, a traditional Indian musical instrument, and exploring the fusion of classical Indian music with modern genres.
+- Exploring different cultures through literature and cinema, with a particular interest in traditional Indian dance forms like Kathak and Bharatanatyam.
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+
+References:
+Available upon request.

@@ -1,0 +1,39 @@
+Personal Statement:
+I am a driven and passionate software engineer, seeking to leverage my strong technical skills and educational background to contribute to innovative solutions in the field. As a black male hailing from Jacksonville, Florida, I am committed to promoting diversity and inclusion in the tech industry. With a solid foundation in computer science and extensive experience in programming languages, database technologies, and problem-solving, I am confident in my ability to excel in the role of a software engineer.
+
+Education:
+Bachelor of Science in Computer Science, Stellaris University, Jacksonville, Florida
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - NovaTech Solutions, Jacksonville, Florida
+- Developed and maintained an efficient NoSQL database for an advanced e-commerce platform, resulting in improved product catalog management and enhanced customer experience.
+- Utilized Python and Java to design and implement scalable backend functionalities, enabling seamless integration of new features.
+- Collaborated with cross-functional teams to ensure smooth communication and successful project delivery.
+
+Software Engineer Intern - Quantum Software Labs, Jacksonville, Florida
+- Played a pivotal role in ensuring secure payments for a high-transaction web application by conducting rigorous debugging and error tracking.
+- Automated testing procedures using industry-standard tools, resulting in increased efficiency and accuracy.
+- Utilized SQL to optimize database performance and enhance data retrieval, contributing to improved application responsiveness.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion within the tech industry, advocating for increased representation of black professionals in software engineering roles.
+- Served as a mentor and leader in the local basketball community, inspiring young individuals to excel on and off the court.
+
+Hobbies:
+- Playing the saxophone, exploring various music genres, and performing at local jazz venues.
+- Engaging in community outreach activities that empower underrepresented groups.
+- Participating in and supporting local initiatives that foster racial and gender equality.
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)
+
+References available upon request.

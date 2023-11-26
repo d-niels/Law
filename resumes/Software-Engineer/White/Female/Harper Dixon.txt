@@ -1,0 +1,43 @@
+Harper Dixon
+
+Personal Statement:
+Experienced software engineer with a strong background in developing secure and efficient software solutions. Committed to promoting diversity and inclusivity in the tech industry. Passionate about problem-solving and contributing to impactful projects. Proactive team player with a detail-oriented approach.
+
+Education:
+Bachelor of Science in Computer Science | 2016-2020
+Madison State University, Madison, Wisconsin
+- Major: Computer Science
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | SparkTech Innovations, Madison, Wisconsin | 2020-Present
+- Collaborated with cross-functional teams to develop secure payment solutions for e-commerce platforms using Java and NoSQL databases.
+- Ensured the seamless integration of payment gateways, optimizing transactions and enhancing user experience.
+- Conducted thorough code reviews, identified and resolved bugs, and implemented robust error tracking mechanisms for efficient debugging.
+
+Software Developer | Codelink Systems, Madison, Wisconsin | Summers 2018-2019
+- Developed automated testing scripts using Python to streamline software quality assurance processes.
+- Conducted comprehensive debugging and error tracking to identify and resolve software issues.
+- Collaborated with the team to implement SQL databases for efficient data storage and retrieval.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Mentor, Girls Code Initiative | Empowered young girls interested in computer science by providing mentorship and guidance.
+- Team Captain, Madison Women's Rugby Club | Led a diverse team of female rugby players, fostering teamwork, sportsmanship, and skill development.
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures through literature and music
+- Outdoor activities such as hiking and camping
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)
+
+References available upon request.

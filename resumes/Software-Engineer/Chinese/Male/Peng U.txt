@@ -1,0 +1,52 @@
+Peng U
+Honolulu, Hawaii | 123-456-7890 | pengu@email.com
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a passion for problem-solving and a strong background in computer science. Committed to delivering efficient and high-quality software solutions. Highly skilled in Java, Python, and SQL, with a track record of successful projects. An adaptable team player with excellent communication and analytical skills. Eager to contribute technical expertise to drive innovation and achieve organizational goals.
+
+Education:
+Bachelor of Science in Computer Science
+University of Hawaii at Manoa, Honolulu, HI
+GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer - StellarTech Solutions
+Honolulu, Hawaii | June 2018 - Present
+- Developed robust e-commerce software using Java, incorporating error tracking mechanisms to ensure seamless user experience.
+- Utilized NoSQL databases for efficient data management and retrieval, enhancing website performance.
+- Collaborated with cross-functional teams to analyze user requirements and deliver scalable solutions within tight deadlines.
+
+Software Developer Intern - Cyberspace Innovations
+Honolulu, Hawaii | May 2017 - August 2017
+- Debugged and maintained SQL databases, ensuring data integrity and efficient retrieval for secure payment transactions.
+- Implemented automated testing methodologies using Python, resulting in a significant reduction in bug identification time.
+- Collaborated with the development team to identify and fix software vulnerabilities, ensuring a secure payment system.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Chinese Community Outreach Volunteer
+Honolulu, Hawaii | 2016 - Present
+- Assisted in organizing community events and cultural festivals to celebrate and promote Chinese heritage, strengthening community ties and fostering inclusivity.
+- Served as a mentor to underprivileged Chinese students, providing guidance and support in their education and personal growth.
+
+Basketball Team Captain - Honolulu Titans
+Honolulu, Hawaii | 2015 - Present
+- Demonstrated exceptional leadership skills by motivating team members, coordinating practices, and leading strategic game plans in basketball.
+- Fostered teamwork and sportsmanship, creating a positive and supportive environment for all members.
+
+Hobbies:
+- Learning and playing traditional Chinese musical instruments, such as the guzheng and erhu, to connect with my cultural roots.
+- Exploring various coding projects and experimenting with different programming languages to broaden my technical skills and creativity.
+
+Languages:
+- English (Fluent)
+- Mandarin (Native)
+
+References available upon request.

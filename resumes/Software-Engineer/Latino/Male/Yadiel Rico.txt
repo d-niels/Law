@@ -1,0 +1,42 @@
+YADIEL RICO
+
+Personal Statement:
+Motivated and results-driven software engineer with a strong background in computer science. As a talented Latino male hailing from San Jose, California, I bring a unique perspective to the tech industry. With a Bachelor's degree in Computer Science and exceptional skills in programming, testing, and problem-solving, I am passionate about creating innovative software solutions that drive meaningful impact.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Techverse University, San Francisco, California
+
+Work Experience:
+Software Engineer Intern, Quantumwave Inc., San Jose, CA (June 2019 - August 2019)
+- Developed and maintained Java-based ecommerce applications, ensuring their optimal performance and efficiency.
+- Utilized SQL to manage databases and conduct data analysis to improve overall system stability.
+- Collaborated with teams to enhance error tracking processes, resulting in faster bug detection and resolution.
+
+Junior Software Engineer, NovaTech Solutions, San Francisco, CA (September 2019 - Present)
+- Automated testing procedures using Python, significantly reducing testing time and improving overall software quality.
+- Employed NoSQL databases to optimize data storage and retrieval processes for large-scale applications.
+- Utilized debugging techniques to identify and resolve critical software issues promptly.
+- Implemented secure payment gateways, ensuring the safety of customers' financial transactions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively contribute to fostering inclusivity and diversity within the tech industry as a talented Latino male software engineer.
+- Organized and led a local youth basketball program, mentoring and coaching young athletes.
+- Acted as the team captain for the San Jose City Basketball Club, showcasing effective teamwork and leadership skills.
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures through music and art
+- Participating in community events promoting diversity in technology
+
+Languages:
+- Bilingual: English and Spanish
+
+References available upon request.

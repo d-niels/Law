@@ -1,0 +1,38 @@
+NIGEL COOPER
+
+PERSONAL STATEMENT
+A driven and innovative software engineer, Nigel Cooper combines a passion for problem-solving with a strong academic background in computer science. With expertise in various programming languages and a meticulous approach to debugging, Nigel is dedicated to creating efficient and secure software solutions. As a black male from Washington, D.C., Nigel brings a diverse perspective to his work, fostering a collaborative and inclusive environment where innovation thrives.
+
+EDUCATION
+Bachelor of Science in Computer Science, Washington Metropolitan University, Washington, D.C.
+- Graduated with a 3.9 GPA
+
+WORK EXPERIENCE
+Software Engineer, TechMax Systems, Washington, D.C.
+- Developed robust and scalable GUI applications using Python and NoSQL databases
+- Collaborated with cross-functional teams to debug complex issues and implement secure payment solutions
+
+Software Engineering Intern, CyberTech Solutions, Washington, D.C.
+- Assisted in tracking errors and optimizing system performance using Java and SQL
+- Conducted automated testing to ensure the seamless functionality of e-commerce applications
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Basketball Leadership Role, Washington D.C. Recreational League
+- Mentored and coached young basketball players, fostering leadership, teamwork, and sportsmanship skills
+
+HOBBIES
+- Playing the saxophone to create soulful melodies and express creativity
+- Exploring diverse cultures through travel and learning about different traditions and perspectives
+
+LANGUAGES
+- English (fluent)
+- Spanish (conversational)
+
+References available upon request

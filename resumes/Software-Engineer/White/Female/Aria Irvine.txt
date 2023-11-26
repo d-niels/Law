@@ -1,0 +1,42 @@
+Aria Irvine
+
+Personal Statement:
+As a dedicated and passionate software engineer, I am driven to create innovative solutions and optimize complex systems. With a strong educational background in computer science, I possess the technical skills and problem-solving abilities required to excel in this role. I am committed to continuously learning and adapting to new technologies, and I believe in using my skills to make a positive impact in the world.
+
+Education:
+Bachelor of Science in Computer Science, Houston Tech University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, CyberSolutions Inc., Houston, Texas
+- Developed and maintained an ecommerce platform using Java, ensuring seamless and secure online transactions
+- Utilized NoSQL databases to efficiently handle large amounts of customer data
+- Performed extensive debugging and troubleshooting to identify and resolve software issues
+
+Software Engineer Intern, TechGenius Corporation, Houston, Texas
+- Collaborated with a team of developers to enhance secure payment processing using Python
+- Implemented automated testing techniques to optimize software quality and identify vulnerabilities
+- Employed error tracking systems to monitor and resolve software defects
+- Utilized SQL databases for data storage and retrieval purposes
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Cultural Ambassador, Houston Tech University: As a white female from Houston, Texas, I actively engage with diverse student groups to foster inclusivity and celebrate ethnic and gender-related differences. I organize events and initiatives to promote cultural understanding and respect.
+- Sports Leadership Role: Captain, Houston Tech University Women's Basketball Team: I demonstrate leadership skills by coordinating team strategies, promoting team cohesion, and mentoring my fellow teammates.
+
+Hobbies:
+- Playing the Piano: I am passionate about music and have been playing the piano for over 10 years. It brings me joy and allows me to express my creativity.
+- Reading Literature: I engage in diverse literary works to broaden my understanding of different cultures, perspectives, and experiences.
+- Traveling: Exploring new places and experiencing diverse cultures fascinates me. It allows me to appreciate the beauty of the world and understand different ways of life.
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate proficiency)
+
+Thank you for considering my application. I look forward to discussing my qualifications further and the opportunity to contribute to your organization's success as a software engineer.

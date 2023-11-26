@@ -1,0 +1,42 @@
+Personal Statement:
+I am a passionate and dedicated software engineer with a strong background in computer science. As a Chinese female from New York City, I bring a unique perspective to my work. With a focus on problem-solving and attention to detail, I strive to deliver robust solutions that meet the highest standards of quality. I am eager to contribute my skills and knowledge to a dynamic team and make a positive impact in the field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science, Liberty University, New York, NY
+GPA: 3.9/4.0
+- Relevant coursework: Algorithms, Data Structures, Object-Oriented Programming, Software Engineering
+
+Work Experience:
+Software Engineer, TechSolutions Inc., New York, NY
+- Developed and maintained high-performance database applications using SQL and NoSQL technologies.
+- Implemented automated testing processes to ensure software reliability and efficiency.
+- Utilized Python for scripting and automation tasks.
+- Collaborated with cross-functional teams to streamline software development processes and improve overall team efficiency.
+
+Software Developer, EcomTech Solutions, New York, NY
+- Designed and developed secure payment systems for cutting-edge e-commerce platforms.
+- Implemented error tracking and debugging techniques to identify and resolve software issues.
+- Utilized Java for software development and enhancement.
+- Collaborated with stakeholders to gather requirements and provide tailored technical solutions to meet their business needs.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteer Tutor, Liberty Community Center: Assisted Chinese-speaking students with their academic studies, helping them overcome language barriers and adapt to their new environment.
+- Sports Leadership Role: Led a youth basketball team, empowering young girls to develop their skills and fostering a supportive environment for their growth and success.
+
+Hobbies:
+- Playing the Guzheng (Chinese zither)
+- Martial arts: Practicing Tai Chi and Kung Fu
+- Painting: Exploring Chinese traditional painting techniques and themes
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+- Cantonese (Proficient)
+- Spanish (Conversational)

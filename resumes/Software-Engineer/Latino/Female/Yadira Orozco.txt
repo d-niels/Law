@@ -1,0 +1,49 @@
+Yadira Orozco
+Austin, Texas | (123) 456-7890 | yorozco@email.com
+
+Personal Statement:
+Driven software engineer with a deep passion for creating cutting-edge technological solutions. Committed to delivering superior software products through advanced programming knowledge, analytical skills, and a detail-oriented approach. Eager to leverage my diverse background and leadership experience to contribute to an innovative and forward-thinking organization. Fluent in English and Spanish.
+
+Education:
+Bachelor of Science in Computer Science, Techtron University, Austin, Texas
+GPA: 3.9/4.0
+Relevant Coursework: Data Structures, Algorithms, Object-Oriented Programming, Software Engineering
+
+Work Experience:
+Software Developer Intern, Innovix Solutions, Austin, Texas
+January 2020 - Present
+- Collaborated with a cross-functional team to develop and implement automated testing solutions, resulting in a significant reduction in software bugs
+- Implemented an error tracking system to promptly identify and resolve software issues
+- Developed secure payment functionalities for e-commerce platforms using Python programming language
+- Conducted comprehensive code reviews to ensure adherence to coding standards and best practices
+
+Junior Software Engineer, MetaSoft Technologies, Austin, Texas
+May 2019 - December 2019
+- Developed Java-based applications and utilized sophisticated debugging techniques to identify and resolve software flaws
+- Leveraged NoSQL and SQL databases to optimize data access and storage
+- Contributed to the development of an advanced e-commerce platform by implementing new features using Java programming language
+- Collaborated closely with cross-functional teams to gather requirements and deliver stable software solutions
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinos in Tech Mentor, Techtron University, Austin, Texas
+September 2017 - May 2019
+- Guided and mentored Latino students pursuing careers in technology to help bridge the diversity gap in the industry
+- Organized workshops and career development events to promote diversity, inclusivity, and equal opportunities in the tech field
+
+Soccer Team Captain, Austin Women's Soccer League
+January 2015 - December 2018
+- Led a women's soccer team, fostering skill development, teamwork, and sportsmanship among the players
+- Promoted a supportive and inclusive environment for female athletes, encouraging diversity and gender equality in sports
+
+Hobbies:
+Playing the guitar, Exploring different cultures through travel, Promoting diversity and inclusion in the tech industry
+
+Languages:
+Fluent in English and Spanish

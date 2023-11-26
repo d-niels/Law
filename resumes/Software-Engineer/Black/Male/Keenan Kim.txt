@@ -1,0 +1,45 @@
+Keenan Kim
+
+Personal Statement:
+A dedicated and driven software engineer with a passion for solving complex problems through innovative technological solutions. As a black male from Chicago, Illinois, I am committed to promoting diversity and inclusion in the tech industry. With a strong educational background in computer science, I am eager to contribute my skills and expertise to a forward-thinking organization as a software engineer.
+
+Education:
+Bachelor of Science in Computer Science
+Lakeview University, Chicago, Illinois
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - Cybertech Solutions, Chicago, Illinois
+- Utilized SQL to ensure efficient and secure payment processing for an online retail platform
+- Tracked and resolved errors in software applications using advanced error tracking tools
+- Conducted automated testing to ensure flawless software releases
+
+Software Engineer - DataSoft, Chicago, Illinois
+- Worked with NoSQL databases for data storage and retrieval in a high-traffic e-commerce environment
+- Proficient in debugging and resolving issues in Python and Java code
+- Collaborated with cross-functional teams to develop reliable and scalable solutions
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Basketball Team Captain, Chicago Youth Association, Chicago, Illinois
+- Mentored and coached a diverse group of young athletes in the sport of basketball, leading the team to regional championships
+- Fostered teamwork, discipline, and leadership skills while promoting a safe and inclusive environment
+
+Diversity and Inclusion Advocate, Technology Inclusion Initiative, Chicago, Illinois
+- Organized and facilitated workshops promoting diversity, equity, and inclusion in the tech industry
+- Actively participated in initiatives to increase representation of underrepresented groups in STEM fields
+
+Hobbies:
+Playing the saxophone, embracing and exploring different genres of music
+Participating in cultural festivals and events that celebrate diversity and multiculturalism
+Engaging in community art projects that reflect the experiences of marginalized communities
+
+Languages:
+English (Fluent)
+Spanish (Conversational)

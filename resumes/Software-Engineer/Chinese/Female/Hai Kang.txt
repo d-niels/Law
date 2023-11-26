@@ -1,0 +1,35 @@
+Personal Statement:
+As a driven and dedicated software engineer, I am committed to pushing the boundaries of technology to create innovative solutions. With a strong foundation in computer science and a passion for continuous learning, I am eager to leverage my skills and expertise in secure payments, NoSQL, error tracking, debugging, automated testing, Java, SQL, ecommerce, and Python to excel as a software engineer. I am determined to make a positive impact in the field by delivering exceptional results and exceeding expectations.
+
+Education:
+Bachelor of Science in Computer Science, Coastal University, San Diego, California
+- Graduated with a GPA of 3.9
+
+Work Experience:
+Software Engineer, Stellar Tech Solutions, San Diego, California
+- Developed highly secure payment systems utilizing NoSQL databases to ensure seamless financial transactions
+- Implemented advanced error tracking and debugging techniques to identify and resolve issues quickly and efficiently
+- Collaborated with cross-functional teams to integrate software systems effectively
+
+Software Engineering Intern, Apex Software Solutions, San Francisco, California
+- Conducted extensive automated testing using Java, SQL, and Python to ensure the reliability and functionality of software products
+- Contributed to the development of robust ecommerce platforms, enhancing user experience and driving sales
+- Collaborated with fellow developers to maintain clean and efficient code while promptly addressing bugs and issues
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively engaged in the Chinese American Student Association at Coastal University, promoting cultural diversity, awareness, and inclusivity
+- Led the university's basketball team as a captain, organizing practices and guiding team members to success on and off the court
+
+Hobbies:
+- Playing the violin, showcasing my love for music and nurturing my creative side
+- Engaging in calligraphy, reflecting my appreciation for artistic expression and cultural heritage
+
+Languages:
+- Fluent in English and Mandarin Chinese, enabling effective communication and collaboration with diverse individuals and teams.

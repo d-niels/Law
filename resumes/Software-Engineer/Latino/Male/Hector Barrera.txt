@@ -1,0 +1,39 @@
+Hector Barrera
+
+Personal Statement:
+Driven and innovative software engineer with a relentless passion for problem-solving and pushing the boundaries of technology. Skilled in various programming languages and database technologies, I am committed to delivering exceptional results and contributing to the advancement of the industry. Seeking a challenging software engineering role where I can utilize my skills and creative expertise.
+
+Education:
+Bachelor of Science in Computer Science, Suntech University, Albuquerque, New Mexico
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, Quantum Systems, Albuquerque, New Mexico
+- Demonstrated expertise in debugging and resolving complex software issues
+- Leveraged NoSQL databases for optimal data storage and retrieval
+- Developed Java and Python applications for software solutions
+
+Software Developer, Aurora Technologies, Albuquerque, New Mexico
+- Conducted meticulous automated testing to ensure product functionality and stability
+- Utilized error tracking systems to identify and resolve software bugs
+- Developed cutting-edge e-commerce platforms with secure payment integrations using SQL
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Hispanic Association in Technology (HAT)
+- Actively advocated for diversity and inclusion in the tech field, organizing initiatives to empower Latino communities
+- Spearheaded workshops and events to promote computer science education among underrepresented groups
+- Sports Leadership Role: Captain of the university's soccer team, fostering teamwork and sportsmanship on and off the field
+
+Hobbies:
+Playing the guitar, exploring the rich cultural heritage of Latinx communities, and participating in community events that celebrate diversity and inclusivity.
+
+Languages:
+- English (Fluent)
+- Spanish (Native Speaker)

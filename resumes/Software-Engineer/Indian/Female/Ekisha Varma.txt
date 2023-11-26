@@ -1,0 +1,47 @@
+Ekisha Varma
+
+Personal Statement:
+Dedicated and detail-oriented Indian female software engineer with a passion for creating efficient and innovative solutions. Equipped with a strong background in programming and problem-solving, I am committed to delivering high-quality software products. I thrive in collaborative environments, valuing diversity and actively contributing to inclusive spaces within the tech industry. As a driven leader, I continuously strive to promote gender equality and empower individuals from underrepresented communities.
+
+Education:
+Bachelor of Science in Computer Science, Georgia Institute of Technology, Atlanta, Georgia
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, NovaTech Solutions, Atlanta, GA
+- Developed and maintained robust SQL databases, ensuring data integrity and efficient retrieval
+- Conducted thorough debugging activities to identify and resolve software issues quickly and efficiently
+- Utilized NoSQL databases to optimize data storage and retrieval processes
+- Implemented Python scripts to automate various tasks, improving efficiency by 20%
+
+Software Developer, TechBazaar, Atlanta, GA
+- Contributed to the development of an innovative e-commerce platform, ensuring seamless online shopping experiences
+- Implemented error tracking systems, reducing system downtime by 30%
+- Performed automated testing to validate software functionality and improve overall system reliability
+- Enhanced the security of payment systems, ensuring customer data protection
+- Developed Java applications and integrated them with the platform to improve user experience
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnicity and Gender Empowerment Advocate:
+- Actively contribute to promoting diversity and inclusion within the tech industry
+- Support and mentor aspiring Indian female software engineers to overcome barriers
+- Organize workshops and panel discussions on diversity, empowering individuals from underrepresented communities
+
+Soccer Team Captain:
+- Provided guidance and leadership as captain of the Georgia Tech Women's Soccer Team
+- Developed teamwork and communication skills through organizing training sessions and coordinating team strategies
+
+Hobbies:
+- Playing the violin, reflecting my passion for music and self-expression
+- Participating in cultural events, celebrating Indian traditions and fostering cross-cultural understanding
+- Engaging in outdoor activities, embracing the diverse landscapes and natural beauty of Atlanta
+
+Languages:
+- Fluent in English and Hindi, enabling effective communication in multicultural environments.

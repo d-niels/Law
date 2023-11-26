@@ -1,0 +1,42 @@
+Wendell Ziegler
+
+Personal Statement:
+As a black male software engineer from Washington, District of Columbia, I am dedicated to leveraging my strong technical skills and passion for problem-solving to create innovative software solutions. With a solid educational foundation and relevant work experience, I am confident in my ability to contribute to the dynamic field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science, Capital City University, Washington, District of Columbia
+- GPA: 3.9
+
+Work Experience:
+1. Software Engineer, TechnoSoft Solutions, Washington, District of Columbia
+- Debugging complex software issues and ensuring smooth functionality.
+- Utilizing SQL and Java to develop and maintain cutting-edge ecommerce platforms.
+- Collaborating with cross-functional teams to implement efficient and scalable solutions.
+
+2. Software Engineer Intern, InnovateTech Corp, Washington, District of Columbia
+- Developing Python-based automated testing frameworks for error tracking.
+- Enhancing secure payment systems and integrating them with NoSQL databases.
+- Collaborating with the development team to identify and resolve software issues.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active engagement in promoting diversity in the tech industry as a black male software engineer.
+- Volunteered for the "Code for All" program, teaching coding skills to underprivileged youth.
+- Served as a leadership role model in coaching and mentoring young black athletes in basketball.
+
+Hobbies:
+- Playing the saxophone, showcasing my passion for music and dedication to mastering an instrument.
+- Exploring diverse cultures through travel and language learning, enabling me to embrace diversity and foster inclusivity.
+- Active member of various black empowerment organizations, contributing to the advancement of my community.
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)
+
+References available upon request.

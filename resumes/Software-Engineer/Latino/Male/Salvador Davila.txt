@@ -1,0 +1,44 @@
+Salvador Davila
+123 Main Street, San Antonio, Texas 12345
+Phone: (555) 555-5555 | Email: salvadordavila@email.com
+
+Personal Statement:
+Highly motivated and detail-oriented Software Engineer with a passion for developing innovative solutions. Dedicated to delivering exceptional software products by leveraging strong problem-solving skills and a deep understanding of programming languages and database technologies. Committed to contributing to a dynamic team and utilizing my technical expertise to drive organizational success.
+
+Education:
+Bachelor of Science in Computer Science
+EagleTech University, San Antonio, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer | TechGenius, San Antonio, Texas | January 2019 - Present
+- Developed and maintained advanced error tracking systems, utilizing SQL and NoSQL databases for efficient data management and analysis.
+- Designed and implemented Python scripts to automate complex data processes, significantly reducing manual tasks and improving productivity.
+- Collaborated with cross-functional teams to identify and implement innovative solutions to optimize code performance.
+
+Software Engineer Intern | InnovateTech Solutions, San Antonio, Texas | May 2018 - August 2018
+- Assisted in debugging and resolving issues in secure payment systems, ensuring smooth and secure transactions for customers.
+- Developed automated testing frameworks using Java to streamline testing procedures and enhance product quality.
+- Collaborated with the e-commerce team to design and implement new features, focusing on user experience and scalability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteered at the Latino Youth Mentoring Association, providing guidance and support to young Latino students interested in pursuing careers in technology, emphasizing the importance of diversity and representation.
+- Served as a Soccer Team Captain and Mentor for a local youth soccer league, promoting inclusivity, teamwork, and leadership among a diverse group of players.
+
+Hobbies:
+- Playing the guitar to explore diverse musical genres and express creativity.
+- Engaging in soccer matches to stay physically active, showcase leadership skills, and foster teamwork.
+- Exploring cultural heritage and participating in local events celebrating diversity.
+
+Languages:
+- Bilingual: English and Spanish
+
+References available upon request.

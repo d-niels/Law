@@ -1,0 +1,42 @@
+Personal Statement:
+I am an ambitious and dedicated software engineer, passionate about developing innovative solutions. With a strong background in computer science and experience in both secure payments and e-commerce, I am driven to create impactful software that meets users' needs. As an Indian female in the tech industry, I am committed to promoting diversity and creating inclusive environments. I am eager to contribute my expertise and skills to a dynamic software engineering role.
+
+Education:
+Bachelor of Science in Computer Science
+ABC University, Chicago, Illinois
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | XYZ Tech Solutions, Chicago, IL | July 20XX - Present
+- Developed secure payment systems for a cutting-edge e-commerce platform
+- Utilized SQL for efficient database management and optimization
+- Demonstrated strong analytical skills for debugging complex software issues
+- Collaborated with cross-functional teams to ensure seamless integration and enhanced functionality
+
+Software Engineer Intern | PQR Innovations, Chicago, IL | May 20XX - August 20XX
+- Implemented NoSQL databases and utilized Python and Java for application development
+- Employed robust error tracking techniques to identify, troubleshoot, and resolve software bugs
+- Conducted automated testing to ensure software reliability and stability
+- Contributed to the enhancement of code quality and performance
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively advocate for diversity and inclusion in the tech industry, particularly for underrepresented groups
+- Served as a team captain and leader in the sport of badminton, promoting teamwork and sportsmanship within the Indian community
+- Passionate about playing the violin, showcasing my cultural heritage through music
+
+Hobbies:
+- Participating in cultural events and festivals, celebrating Indian traditions
+- Engaging in sports activities, specifically badminton, as a way to stay active and competitive
+- Exploring literature and actively participating in book clubs
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+- Tamil (Conversational)

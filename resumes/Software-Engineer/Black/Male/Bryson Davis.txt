@@ -1,0 +1,37 @@
+Personal Statement:
+Result-driven software engineer with a strong passion for creating innovative solutions and enhancing user experiences. Adept at problem-solving and collaborating with cross-functional teams to deliver high-quality products. Committed to continuously learning and staying up-to-date with the latest technologies in the rapidly evolving field of software development.
+
+Education:
+Bachelor of Science in Computer Science, Indiana State University, Indianapolis, Indiana
+- GPA: 3.9
+
+Work Experience:
+Software Engineer | TechnoByte Solutions, Indianapolis, Indiana
+- Developed and maintained an advanced ecommerce platform using Python and Django framework
+- Conducted thorough debugging using advanced error tracking tools to identify and resolve issues promptly
+- Collaborated with the development team to add new features and enhance the platform's performance
+
+Junior Software Engineer | CyberTech Innovations, Indianapolis, Indiana
+- Designed and implemented secure payment systems utilizing Java and NoSQL databases
+- Collaborated with team members to enhance and maintain existing software applications
+- Performed automated testing to ensure functionality and identify potential vulnerabilities
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL 
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools 
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity in the tech industry by participating in various outreach programs aimed at encouraging underrepresented communities to pursue careers in software engineering
+- Served as a basketball leadership mentor for young black males, coaching and guiding them in their basketball journey
+
+Hobbies:
+- Playing the piano and composing music
+- Engaging in community service initiatives that empower and uplift underprivileged communities
+- Exploring different cultures through music, literature, and art
+
+Languages:
+- English (fluent)
+- Spanish (conversational)

@@ -1,0 +1,32 @@
+Personal Statement:
+I am a talented and dedicated software engineer with a strong passion for creating innovative solutions and designing efficient systems. With a bachelor's degree in computer science from San Francisco University, I possess a solid foundation in programming principles and a proven ability to deliver high-quality software. As a white female, I am committed to promoting diversity and inclusion in the tech industry, and I strive to contribute to a forward-thinking and collaborative work environment.
+
+Education:
+Bachelor's Degree in Computer Science, San Francisco University, San Francisco, California, GPA: 3.9
+
+Work Experience:
+Software Engineer - TechNova Inc.
+- Developed and maintained a Java-based ecommerce platform, contributing to a seamless online shopping experience for customers.
+- Implemented automated testing processes and utilized error tracking to identify and resolve issues efficiently.
+- Collaborated with cross-functional teams to ensure the scalability and performance of the system.
+
+Software Engineer - CyberTech Solutions
+- Designed and integrated secure payment systems using SQL and NoSQL databases, ensuring data integrity and reliability.
+- Developed robust Python scripts for data extraction and analysis, enhancing system functionality.
+- Applied advanced debugging techniques to identify and resolve complex issues, resulting in improved system performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting gender and ethnic diversity within the tech community, organizing events and participating in panel discussions.
+- Served as a leader in a soccer team, fostering teamwork and dedication on and off the field.
+- Displayed artistic expression by playing the violin in a community orchestra, showcasing my love for music and creativity.
+
+Languages:
+- English (Native Proficiency)
+- Spanish (Conversational Proficiency)

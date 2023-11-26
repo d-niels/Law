@@ -1,0 +1,52 @@
+Zenia Gavaskar
+Atlanta, Georgia
+Phone: (123) 456-7890
+Email: zenia.gavaskar@example.com
+
+Personal Statement:
+Highly motivated and results-oriented software engineer with a strong background in programming and problem-solving. Passionate about creating efficient and innovative solutions, I am seeking a challenging role to utilize my skills and contribute to cutting-edge software development. With a solid educational foundation and hands-on experience, I am confident in my ability to excel in the field.
+
+Education:
+Bachelor of Science in Computer Science (Major: Software Engineering)
+Atlanta Technical University, Atlanta, Georgia
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern
+InnovativeTech Solutions, Atlanta, Georgia
+May 2019 - August 2019
+- Developed and maintained the company's e-commerce platform, driving online sales growth.
+- Utilized NoSQL databases to efficiently handle large-scale data management.
+- Implemented automated testing procedures to ensure system stability and accuracy.
+- Collaborated with cross-functional teams to track, investigate, and resolve software errors.
+
+Junior Software Engineer
+LeadingEdge Technologies, Atlanta, Georgia
+September 2019 - Present
+- Created robust and scalable applications using Python and Java.
+- Integrated secure payment gateways into existing systems, ensuring data privacy and encryption.
+- Leveraged SQL databases for efficient data management and querying.
+- Utilized debugging techniques to resolve complex software issues and enhance system performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Member, Society of Women Engineers (SWE), actively promoting diversity and inclusion in the tech industry.
+- Mentor, Girls Who Code, empowering young girls to pursue careers in computer science.
+- Sports Leadership Role: Captain of the University's Women's Soccer Team, fostering teamwork and resilience.
+
+Hobbies:
+- Playing the guitar, showcasing creativity and musical talent.
+- Exploring diverse cultures through travel and experiencing various traditions.
+- Reading, staying updated with the latest technology trends.
+
+Languages:
+- English (Fluent)
+- Hindi (Native Speaker)
+
+References available upon request.

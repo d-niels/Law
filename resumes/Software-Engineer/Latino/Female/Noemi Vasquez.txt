@@ -1,0 +1,36 @@
+Personal Statement:
+As a driven and passionate Latina female software engineer hailing from San Antonio, Texas, I am dedicated to pushing the boundaries of technology and creating meaningful software solutions. With a strong educational foundation and diverse work experience, I am fully prepared to contribute to a dynamic software engineering team, constantly striving to make a positive impact through innovative problem-solving.
+
+Education:
+Bachelor of Science in Computer Science
+Techlandia University, San Antonio, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Cybertech Solutions
+San Antonio, Texas
+- Successfully tracked and resolved intricate software issues by utilizing advanced debugging tools and techniques.
+- Developed and optimized an ecommerce platform in Java, ensuring seamless transactions and exceptional user experiences.
+
+Software Engineer, Securex Systems
+San Antonio, Texas
+- Collaborated on the development and maintenance of a robust and secure payments system, employing SQL database management for efficient transaction processing.
+- Implemented automated testing procedures using Python, ensuring the integrity and reliability of critical features.
+- Utilized NoSQL databases to enhance data storage and retrieval processes, improving system performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a proud Latina female, I actively engage in initiatives that foster diversity and inclusivity. I have volunteered with organizations that provide STEM education to empower young girls, encouraging them to explore rewarding careers in technology. Moreover, I am a dedicated leader in the sport of soccer, coaching and mentoring a diverse youth team, promoting teamwork, and instilling a strong sense of unity.
+
+Hobbies:
+In my spare time, I find solace in playing the violin, an instrument I have mastered over the years. I am also an ardent advocate for cultural heritage and equality, participating in discussions and events that celebrate diversity. Fluent in both English and Spanish, I embrace opportunities to collaborate effectively with teams from different backgrounds.
+
+Languages:
+- English (Fluent)
+- Spanish (Fluent)

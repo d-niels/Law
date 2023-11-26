@@ -1,0 +1,40 @@
+Personal Statement:
+As a highly motivated and dedicated software engineer, I am committed to harnessing my skills and knowledge to create innovative solutions in the field. With a passion for programming and problem-solving, I strive to develop efficient and user-friendly software that meets the needs of clients and end-users. My strong analytical skills and attention to detail allow me to effectively identify and resolve complex technical issues. As a white male from Dallas, Texas, I am excited to contribute to the diversity and inclusivity of the software engineering community.
+
+Education:
+Bachelor of Science in Computer Science
+Texas Technical University, Dallas, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, StellarSoft, Dallas, Texas (2018-2021)
+- Developed and maintained scalable software applications, specializing in debugging, SQL, ecommerce, and NoSQL.
+- Collaborated with cross-functional teams to analyze client requirements and implement efficient solutions, leading to customer satisfaction.
+- Implemented SQL and NoSQL databases for data storage and retrieval, optimizing system performance.
+- Conducted thorough debugging to identify and resolve complex issues, ensuring smooth operation of software.
+
+Software Developer, Innovision Systems, Dallas, Texas (2016-2018)
+- Utilized error tracking, Java, Python, secure payments, and automated testing to develop robust software solutions.
+- Collaborated with a team of developers to design and implement secure payment systems, ensuring seamless and error-free transactions.
+- Implemented error tracking mechanisms to identify and rectify issues swiftly, resulting in enhanced software reliability.
+- Conducted automated testing to guarantee the quality and efficiency of software applications.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in fostering diversity and inclusivity in the software engineering community as a white male.
+- Mentored and guided aspiring software engineers from diverse backgrounds to enhance their skills and opportunities.
+- Served as a basketball team leader, organizing and leading various activities to promote teamwork, discipline, and determination.
+
+Hobbies:
+- Playing the guitar: I enjoy playing various genres of music on the guitar, exploring different styles and techniques.
+- Supporting gender equality initiatives: Actively involved in advocating for gender equality and empowering women in the tech industry.
+- Participating in coding competitions and hackathons: I find great joy and satisfaction in challenging myself and developing innovative solutions within a limited timeframe.
+
+Languages:
+- English (Fluent)

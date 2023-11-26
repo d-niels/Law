@@ -1,0 +1,49 @@
+Corey Yoder
+1234 Elm Street, Baltimore, Maryland, 54321
+Phone: (555) 123-4567 | Email: coreyyoder@email.com
+
+Personal Statement:
+Motivated and detail-oriented software engineer with a strong passion for developing innovative solutions. Dedicated to leveraging my technical skills and problem-solving abilities to create efficient and reliable software applications. Committed to fostering diversity and inclusivity within the tech industry, as evidenced through my volunteer work and leadership roles. As a black male from Baltimore, Maryland, I strive to bring a unique perspective and contribute to a more diverse and inclusive tech community.
+
+Education:
+Bachelor of Science in Computer Science, May 20XX
+Harborview University, Baltimore, Maryland
+- Relevant coursework: Data Structures, Algorithms, Software Engineering
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechnoPulse Systems, Baltimore, Maryland
+January 20XX - Present
+- Developed error tracking software to monitor and analyze system failures, reducing downtime by 30%
+- Utilized Python programming language to design and implement automated testing procedures
+- Collaborated with cross-functional teams to debug complex software issues and provide timely resolutions
+
+Software Developer Intern, QuantumSoft Technologies, Baltimore, Maryland
+May 20XX - August 20XX
+- Assisted in the development of secure payment systems for e-commerce platforms using SQL and NoSQL databases
+- Implemented Java-based solutions to enhance performance and optimize database queries
+- Conducted extensive testing and debugging to ensure error-free software functionality
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Tech Diversity Initiative, Baltimore, Maryland
+- Led workshops on coding fundamentals, inspiring and supporting underrepresented individuals in tech
+- Mentored minority students pursuing computer science degrees at Harborview University
+- Served as a basketball coach and sports leadership role model for a local youth basketball team
+
+Hobbies:
+- Playing the piano
+- Participating in community events that promote diversity and equality
+- Engaging in social justice activism
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate)
+
+References available upon request.

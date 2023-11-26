@@ -1,0 +1,37 @@
+Personal Statement:
+As a Chinese female software engineer hailing from Honolulu, Hawaii, I am driven to excel in the dynamic field of software development. My unwavering passion for problem-solving and my strong technical skills empower me to create cutting-edge solutions that positively impact users. With a Bachelor's degree in Computer Science and a relentless pursuit of knowledge, I am committed to driving innovation and pushing the boundaries of what's possible in software engineering.
+
+Education:
+Bachelor of Science in Computer Science, Pacifica University, Honolulu, Hawaii
+- GPA: 3.9
+
+Work Experience:
+
+Software Engineer, ZenithTech, Honolulu, Hawaii
+- Developed a robust error tracking system using Java, ensuring prompt identification and resolution of issues to optimize software performance.
+- Implemented secure payment solutions, enhancing the safety and reliability of online transactions.
+- Utilized SQL to manage and optimize databases, ensuring efficient storage and retrieval of data.
+
+Software Engineering Intern, NexTech Solutions, Honolulu, Hawaii
+- Collaborated with senior developers, utilizing Python for effective debugging and problem-solving, resulting in improved software quality.
+- Conducted comprehensive automated testing to detect and fix software bugs, ensuring the delivery of high-quality solutions.
+- Contributed to the development of an innovative e-commerce platform utilizing NoSQL, supporting seamless data management.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+- As an active member of the Chinese Student Association at Pacifica University, I played a pivotal role in promoting cross-cultural understanding through organizing cultural events and fostering inclusivity.
+- I served as a dedicated leader of the university's Dragon Boat Racing team, inspiring teamwork, discipline, and physical fitness.
+
+Hobbies:
+- Showcasing my appreciation for music and culture, I play the traditional Chinese instrument, Guzheng, with finesse and passion.
+- Nurturing my connection to my heritage, I explore various forms of traditional and contemporary Chinese art, such as calligraphy and painting.
+
+Languages:
+- Fluent in English and Mandarin Chinese, facilitating effective communication and collaboration in diverse and global environments.

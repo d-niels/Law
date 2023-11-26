@@ -1,0 +1,38 @@
+Eden Nash
+
+Personal Statement:
+Passionate and detail-oriented software engineer with a strong background in computer science. Dedicated to developing efficient and innovative solutions to complex problems. Committed to contributing to the technology industry through diversity, leadership, and teamwork. Excited to utilize my skills and experience to drive positive change in software engineering.
+
+Education:
+Bachelor of Science, Computer Science
+Jacksonville University, Jacksonville, FL
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | Stellar Innovations, Jacksonville, FL
+- Designed and implemented a scalable NoSQL database system using Python, facilitating efficient data management processes and improving overall system performance.
+- Utilized error tracking and debugging techniques to identify and resolve software issues, contributing to improved stability and user experience.
+
+Software Developer | Quantum Solutions, Jacksonville, FL
+- Developed secure and efficient e-commerce platforms by utilizing SQL-based applications and Java programming language.
+- Conducted automated testing to ensure high-quality software products, optimizing user experience and meeting industry standards.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and gender equality in the technology industry through volunteer work and community outreach programs.
+- Served as a sports leader, organizing and managing recreational activities for underprivileged youths, particularly excelling in basketball where I led my team to regional championships.
+
+Hobbies:
+- Fluent in English and Spanish
+- Active member of the African-American Society, promoting cultural awareness and empowerment.
+- Enjoys playing the piano as a creative outlet and means of self-expression.
+
+Languages:
+- English (Fluent)
+- Spanish (Fluent)

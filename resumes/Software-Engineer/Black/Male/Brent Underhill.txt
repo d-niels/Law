@@ -1,0 +1,39 @@
+Brent Underhill
+
+Personal Statement:
+A highly dedicated and motivated software engineer with a passion for coding and problem-solving. With a solid educational background and hands-on work experience, I am confident in my ability to design and develop innovative software solutions. As a black male from Detroit, Michigan, I am committed to promoting diversity and inclusion in the tech industry through my leadership and volunteer work.
+
+Education:
+Bachelor of Science in Computer Science, Cityscape University, Detroit, Michigan
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechCentrix Solutions, Detroit, MI
+- Developed secure payment systems using Java, NoSQL, and automated testing
+- Implemented effective debugging techniques to identify and resolve software issues
+- Collaborated with cross-functional teams to ensure the successful deployment of software solutions
+
+Lead Software Developer, HyperTech Innovations, Detroit, MI
+- Designed and maintained an e-commerce platform using SQL and Error tracking
+- Developed automated testing scripts to improve software quality and reliability
+- Worked closely with clients to understand their business requirements and deliver tailored solutions
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Member of the National Society of Black Engineers, organizing events and mentoring minority students pursuing a career in STEM
+- Sports Leadership Role: Captain of the Detroit Titans basketball team, promoting teamwork, discipline, and sportsmanship while mentoring younger players
+
+Hobbies:
+- Playing the saxophone, showcasing my passion for music and creativity
+- Engaging in community outreach activities aimed at bridging the digital divide and inspiring youth to pursue careers in technology
+
+Languages:
+- Fluent in English and Spanish, facilitating effective communication within diverse teams
+
+References available upon request.

@@ -1,0 +1,40 @@
+Zorawar Bhat
+
+Personal Statement:
+Passionate and driven software engineer, committed to solving complex technical challenges and delivering innovative software solutions. Dedicated to continuous learning and staying up-to-date with the latest technologies in the field. Seeking a software engineer position to leverage my skills and experiences in developing cutting-edge software applications.
+
+Education:
+Bachelor of Science in Computer Science
+Houston Institute of Technology, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | AcuTech Innovators, Houston, Texas | August 2018 - Present
+- Developed robust backend applications using Python, NoSQL, SQL, and Java, contributing to the creation of efficient data management systems.
+- Collaborated with multidisciplinary teams to ensure seamless integration of software components and optimized overall performance.
+- Employed Agile methodologies to achieve timely project deliverables and enhance team productivity.
+
+Software Developer | CyberSecure Payments, Houston, Texas | May 2017 - July 2018
+- Designed and implemented secure payment mechanisms for an e-commerce platform, enhancing transactional security and improving user experience.
+- Conducted automated testing and error tracking, significantly reducing debugging time and increasing software reliability.
+- Collaborated closely with clients to gather requirements and implemented new features, ensuring seamless integration into existing systems.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate, Tech for All Foundation, Houston, Texas
+- Proactively involved in initiatives aimed at promoting diversity and inclusivity within the technology industry, with a particular focus on empowering individuals of Indian ethnicity and challenging gender stereotypes.
+- Demonstrated leadership as the captain of a local cricket team, fostering teamwork and promoting cultural exchange.
+
+Hobbies:
+- Playing the Tabla (Traditional Indian Percussion Instrument)
+- Exploring various ethnic art forms and attending live performances
+- Engaging in outdoor activities such as hiking and basketball
+
+Languages:
+- Fluent in English and Hindi

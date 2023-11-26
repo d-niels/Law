@@ -1,0 +1,43 @@
+[Full Name]
+[Address, City, State, ZIP Code]
+[Phone Number]
+[Email Address]
+
+Personal Statement:
+A dedicated and enthusiastic software engineer, I, Mario Juarez, am committed to leveraging my expertise in programming and problem-solving to develop innovative solutions. With a bachelor's degree in computer science from [University Name] and a strong skill set, I possess a solid foundation in software engineering. Additionally, as a Latino male from Los Angeles, California, I bring unique perspectives and experiences that contribute to a diverse and inclusive work environment.
+
+Education:
+Bachelor of Science in Computer Science, [University Name], [Location]
+GPA: 3.9/4.0
+Relevant coursework: Algorithms and Data Structures, Object-Oriented Programming, Software Engineering, Operating Systems, Database Management Systems
+
+Work Experience:
+Software Engineer, TechSolutions Inc., Los Angeles, CA
+- Developed a secure payment system using Java, automated testing, and secure payment protocols
+- Collaborated with cross-functional teams to ensure seamless integration with existing systems
+- Successfully implemented Python scripts to streamline internal processes and improve efficiency
+
+Software Developer, CodeGenius Corp., Los Angeles, CA
+- Debugged and resolved software issues using debugging techniques, SQL, and Error tracking software
+- Designed and developed an e-commerce application utilizing NoSQL for large-scale data storage
+- Collaborated with the team to optimize the application's performance and enhance the user experience
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in the Latino Software Engineers Association, promoting diversity and inclusion in the technology industry
+- Recognized for leadership skills as the soccer team captain for the local Latino Soccer League, organizing practices and fostering team morale
+
+Hobbies:
+- Playing the guitar to express creativity and foster a sense of relaxation
+- Exploring different cultures and experiencing the diversity of Los Angeles
+
+Languages:
+- Fluent in English and Spanish
+
+References available upon request.

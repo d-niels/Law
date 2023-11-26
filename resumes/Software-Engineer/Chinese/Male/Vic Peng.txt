@@ -1,0 +1,38 @@
+Vic Peng 
+
+Personal Statement:
+Driven software engineer with a strong commitment to innovation and problem-solving. Eager to leverage my technical skills to develop cutting-edge software solutions. I thrive in collaborative environments, embracing challenges and finding creative solutions. Passionate about contributing to a dynamic organization with my expertise and dedication.
+
+Education:
+Bachelor of Science in Computer Science, Pacifica University, Honolulu, Hawaii 
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Lunar Technologies, Honolulu, Hawaii
+- Developed a scalable e-commerce platform using Python, optimizing the online shopping experience for thousands of users
+- Implemented automated testing methodologies to ensure high-quality software and reduced time required for manual testing
+- Managed SQL databases, designing efficient data retrieval models for optimal performance
+
+Software Engineer, Solstice Solutions, Honolulu, Hawaii
+- Designed and implemented secure payment systems using Java, ensuring reliable and protected transactions
+- Utilized NoSQL databases for efficient storage and retrieval of unstructured data
+- Employed advanced debugging and error tracking techniques to identify and resolve software issues promptly
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a Chinese male from Honolulu, Hawaii, I actively participate in initiatives that promote cultural diversity and inclusivity. I volunteer at local cultural events, organizing workshops that celebrate the rich traditions of the Chinese community. Additionally, I serve as a sports leader, captaining a community basketball team, fostering teamwork and passion for the sport among diverse groups.
+
+Hobbies:
+To embrace my cultural heritage, I enjoy playing the guzheng, a traditional Chinese musical instrument. It allows me to express my artistic side and appreciate the harmonious melodies of Chinese music. Furthermore, I find solace in nature and often explore hiking trails, capturing the breathtaking beauty of Hawaii's landscapes through photography.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Fluent)
+
+References available upon request.

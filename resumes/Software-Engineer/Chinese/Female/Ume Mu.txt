@@ -1,0 +1,39 @@
+Personal Statement:
+As a passionate software engineer, I am committed to leveraging my skills and expertise to develop innovative solutions. With a strong foundation in computer science and a drive for problem-solving, I strive to contribute to cutting-edge projects in the field. Being a Chinese female from New York, I bring a diverse perspective and a dedication to promoting diversity and inclusivity in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science
+Sunrise University, New York, NY
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, StellarTech Solutions, New York, NY
+- Developed secure payment solutions and integrated them with the company's software platform.
+- Utilized debugging and error tracking techniques to identify and resolve software issues.
+- Implemented NoSQL databases for efficient data management.
+
+Software Developer, Nova Systems, New York, NY
+- Assisted in the development of an e-commerce platform using Python and Java.
+- Automated testing procedures to ensure software quality and reliability.
+- Utilized SQL databases for efficient data storage and retrieval.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry, advocating for equal opportunities for women, minorities, and underrepresented groups in STEM fields.
+- Served as a team leader for a basketball team, fostering teamwork and promoting physical well-being among diverse groups, particularly Chinese and female individuals.
+
+Hobbies:
+- Playing the erhu (traditional Chinese instrument), promoting the appreciation of Chinese culture through music.
+- Engaging in various outdoor activities, such as hiking and cycling, to maintain an active lifestyle and explore diverse environments.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References available upon request.

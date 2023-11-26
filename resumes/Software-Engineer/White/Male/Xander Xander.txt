@@ -1,0 +1,43 @@
+XANDER XANDER
+123 Main Street, San Antonio, TX 12345 | (555) 555-5555 | xanderxander@email.com
+
+PERSONAL STATEMENT
+Highly motivated and dedicated software engineer with a passion for creating innovative solutions. Leveraging a strong foundation in computer science and diverse technical skills, I thrive in fast-paced environments and enjoy tackling complex challenges. Committed to delivering high-quality code and collaborating effectively within cross-functional teams to drive successful project outcomes.
+
+EDUCATION
+Bachelor of Science in Computer Science, Magna Cum Laude
+San Antonio University, San Antonio, TX
+GPA: 3.9/4.0
+
+WORK EXPERIENCE
+Software Engineer, TechRevolve Inc., San Antonio, TX
+August 2018 - Present
+- Developed scalable ecommerce applications using Python, SQL, and automated testing, resulting in a streamlined online shopping experience for customers.
+- Collaborated with cross-functional teams to design and implement secure payment systems using NoSQL databases, ensuring data integrity and confidentiality.
+- Employed advanced debugging techniques and error tracking tools to identify and resolve software anomalies, improving overall system stability.
+- Effectively utilized Java to track and resolve payment-related errors, guaranteeing smooth financial transactions for clients.
+
+Assistant Software Engineer, EnigmaSoft Solutions, San Antonio, TX
+May 2017 - July 2018
+- Worked closely with senior engineers to develop secure payment systems, integrating NoSQL databases for efficient data handling and retrieval.
+- Conducted thorough testing and debugging activities, significantly reducing system downtime and enhancing software reliability.
+- Collaborated with cross-functional teams to seamlessly integrate software components, ensuring the smooth operation of complex systems.
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+- Sports Leadership Role: Served as team captain for a men's basketball team, fostering teamwork, dedication, and excellent sportsmanship among players.
+- Ethnic and Gender Inclusion: Actively involved in organizations promoting diversity and inclusivity in the tech industry, supporting underrepresented communities.
+
+HOBBIES
+- Playing the guitar to express creativity and unwind.
+- Engaging in outdoor activities, such as hiking and cycling, to maintain an active lifestyle.
+
+LANGUAGES
+- English (Native)
+- Spanish (Proficient)

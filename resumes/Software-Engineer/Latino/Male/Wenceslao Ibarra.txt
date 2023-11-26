@@ -1,0 +1,39 @@
+Personal Statement: 
+A motivated and dedicated software engineer with a strong passion for creating innovative solutions. Coming from a diverse background as a Latino male from Austin, Texas, I bring a unique perspective and a commitment to inclusivity in the tech industry. With a bachelor's degree in Computer Science from Lone Star University, Austin, Texas, I am equipped with the necessary knowledge and skills to excel in software engineering. I am seeking opportunities to apply my expertise, contribute to a dynamic team, and make a positive impact through technology.
+
+Education:
+Bachelor of Science in Computer Science - Lone Star University, Austin, Texas
+- Graduated with a GPA of 3.9
+- Relevant coursework: Data Structures, Algorithms, Software Engineering, Web Development
+
+Work Experience:
+Software Engineer - Tech Innovators, Austin, Texas
+- Debugged and resolved software defects, enhancing user experience and troubleshooting issues.
+- Utilized Python to develop efficient and scalable code, ensuring smooth functioning of e-commerce systems.
+- Leveraged NoSQL databases for efficient data storage and retrieval, improving overall system performance.
+- Collaborated with cross-functional teams to develop, test, and deploy features for e-commerce platforms.
+
+Software Engineer - CyberGuard Systems, Austin, Texas
+- Tracked and resolved errors in software systems, ensuring reliability and minimal disruption for secure payments.
+- Developed applications and modules using Java, enhancing functionality and user experience.
+- Worked on secure payment systems, safeguarding sensitive information and implementing industry standards.
+- Utilized SQL for efficient database management and optimization, ensuring data integrity and consistency.
+- Employed automated testing techniques to improve reliability and reduce manual effort during the testing phase.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion initiatives within the tech community, emphasizing the importance of representation in the workplace.
+- Served as a team captain in soccer, fostering teamwork, discipline, and resilience in a multicultural setting.
+
+Hobbies:
+- Playing the guitar and writing music, connecting creativity and discipline through music
+- Exploring cultural events and exhibitions, embracing the diverse heritage of Austin and its vibrant Latino community
+
+Languages:
+- Bilingual: Fluent in English and Spanish

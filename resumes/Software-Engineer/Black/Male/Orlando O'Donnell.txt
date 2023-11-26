@@ -1,0 +1,41 @@
+Orlando O'Donnell
+
+Personal Statement:
+Dedicated and results-oriented software engineer with a passion for developing innovative solutions. Possessing a bachelor's degree in Computer Science with a focus on problem-solving and an outstanding GPA, I am committed to leveraging my skills and knowledge to drive software development projects. As a black male from Jacksonville, Florida, I am strongly motivated by diversity and inclusion, seeking to contribute to the tech industry by promoting equality and inclusion through my work. I embrace challenges and continuously strive for excellence, never compromising on the quality of my work.
+
+Education:
+Bachelor of Science in Computer Science
+Magnolia State University, Jacksonville, FL
+GPA: 3.9
+
+Work Experience:
+Software Engineer | TechnoForge Solutions, Jacksonville, FL
+- Debugged and resolved complex software issues to improve system stability and performance.
+- Utilized Python and NoSQL to develop scalable and efficient software solutions.
+- Implemented error tracking to ensure effective and timely resolution of software bugs.
+
+Software Engineer | Cybertech Innovations, Jacksonville, FL
+- Developed secure payments systems using Java for e-commerce platforms.
+- Conducted automated testing to ensure the robustness and reliability of software applications.
+- Utilized SQL for efficient data management and retrieval.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role - Basketball Team Captain, Jacksonville Community League
+- Led and mentored a diverse group of athletes, fostering teamwork, discipline, and skill development.
+- Organized team practices, analyzed game strategies, and motivated players to give their best performance.
+- Promoted a culture of inclusivity and team spirit, ensuring that every member felt valued and supported.
+
+Hobbies:
+Playing the saxophone, personal fitness, reading African-American literature
+
+Languages:
+English (Fluent), Spanish (Conversational)
+
+As a black male hailing from Jacksonville, Florida, I am dedicated to using my expertise in software engineering to make a positive impact within the tech industry. Through my skills, volunteer work, and leadership roles, I aim to create an inclusive and diverse environment that celebrates and supports individuals from all backgrounds. My passion for basketball, both as a player and team captain, exemplifies my commitment to personal growth, leadership, and fostering connections within communities.

@@ -1,0 +1,44 @@
+Ciara Williams
+
+Personal Statement:
+A highly motivated and dedicated software engineer with a passion for solving complex problems through innovative solutions. As a black female from Jacksonville, Florida, I am committed to promoting diversity and inclusion within the tech industry. With a strong educational background in computer science and practical experience in the field, I am confident in my ability to contribute to the success of any software engineering team.
+
+Education:
+Bachelor of Science in Computer Science, Sunshine State University, Jacksonville, Florida
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, StellarTech Solutions, Jacksonville, Florida (2018 - Present)
+- Developed and implemented automated testing procedures, reducing product bugs by 30%
+- Utilized Java and SQL to optimize application performance and ensure efficient database management
+- Collaborated with cross-functional teams to debug and resolve issues in the development cycle
+
+Software Developer, NovaSoft Inc., Jacksonville, Florida (2016 - 2018)
+- Tracked and resolved errors in software applications, resulting in a 20% decrease in user-reported issues
+- Implemented secure payment systems and integrated with e-commerce platforms using Python and NoSQL
+- Worked closely with product management to understand user requirements and ensure optimal user experience
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnic Diversity Advocate, Sunshine State University
+- Actively worked to foster diversity and inclusion on campus by organizing events and initiatives
+- Served as a mentor for underrepresented students pursuing computer science degrees
+- Promoted cultural awareness and celebrated diversity through workshops and cultural exchange programs
+
+Basketball Team Captain, Jacksonville Inner City Youth Sports League
+- Led and coached a youth basketball team, promoting teamwork, discipline, and leadership skills
+- Organized training sessions and game schedules, fostering personal growth and sportsmanship in young athletes
+
+Hobbies:
+Playing the guitar, actively participating in community music events highlighting African American traditions and cultural heritage
+Engaging in African American literature, promoting understanding and appreciation of diverse voices in literature
+
+Languages:
+English (Fluent)
+Spanish (Conversational)

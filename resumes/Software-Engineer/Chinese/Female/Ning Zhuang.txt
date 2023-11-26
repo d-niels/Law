@@ -1,0 +1,35 @@
+Personal Statement:
+As a dedicated and innovative software engineer, I am passionate about leveraging my strong technical skills and problem-solving abilities to create cutting-edge solutions. With a multicultural background and a commitment to continuous learning, I thrive in collaborative environments and am eager to contribute to dynamic teams in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Jose, California (3.9 GPA)
+
+Work Experience:
+Software Engineer, TechnoLogic Solutions, San Francisco, CA
+- Developed secure payment systems using Java, SQL, and Python to ensure reliable and secure transactions.
+- Collaborated closely with cross-functional teams to implement tailored solutions while adhering to industry best practices.
+- Conducted comprehensive testing and debugging to identify and resolve any issues, ensuring the highest quality standards.
+- Utilized NoSQL databases to efficiently process and manage large volumes of data.
+
+Software Engineering Intern, NovaTech, Palo Alto, CA
+- Worked on an innovative e-commerce platform, specializing in automated testing and debugging.
+- Played a key role in error tracking and resolution, enhancing the overall performance and user experience.
+- Collaborated closely with team members to implement effective debugging techniques for efficient problem-solving.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Chinese Student Association, Silicon Valley University: Served as the Vice President, diligently organizing cultural events to promote diversity, foster inclusivity, and bridge cultural gaps on campus.
+- Basketball Team Captain: Demonstrated strong leadership skills by leading and coaching a local basketball team, fostering teamwork, and inspiring fellow players to achieve their best.
+
+Hobbies:
+- Playing the piano: I find immense joy and revitalize my creativity by playing the piano, expressing myself through music from different genres.
+- Exploring diverse cultures: Passionate about learning and appreciating diverse cultures, I actively participate in cultural festivals, visit art exhibitions, and explore international cinema.
+
+Languages:
+Fluent in Mandarin Chinese and English.

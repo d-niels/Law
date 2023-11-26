@@ -1,0 +1,34 @@
+Derek Xander
+
+Personal Statement:
+As a dedicated and innovative software engineer, I strive to create efficient and game-changing solutions. With a strong educational background in computer science, combined with extensive work experience and a commitment to continuous learning, I am well-equipped to excel in the role of a software engineer.
+
+Education:
+Bachelor's in Computer Science, Phoenix University, Phoenix, Arizona
+- GPA: 3.9
+
+Work Experience:
+Senior Software Engineer, Stellar Technologies, Phoenix, Arizona
+- Developed and implemented automated testing strategies to ensure the reliability and robustness of software products
+- Utilized advanced debugging techniques to identify and resolve complex software issues
+- Specialized in NoSQL databases for efficient data management in large-scale applications
+- Contributed to the development of a cutting-edge ecommerce platform, ensuring seamless user experiences
+
+Lead Software Developer, Quantum Software Solutions, Phoenix, Arizona
+- Expertise in Python, SQL, and Java for full-stack software development
+- Ensured secure payment transactions by implementing state-of-the-art secure payment gateways
+- Implemented error tracking systems with real-time monitoring to efficiently identify and resolve software bugs
+- Collaborated with cross-functional teams to deliver high-quality, scalable software solutions
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a strong advocate for diversity and inclusion, I actively mentor aspiring software engineers from underrepresented backgrounds, empowering them to achieve their full potential. Additionally, I serve as a team captain in a local soccer league, leading and motivating teammates to foster teamwork and sportsmanship.
+
+Hobbies:
+In my spare time, I enjoy playing the piano, immersing myself in the melodies that resonate with my soul. I find great joy in exploring different cultures and languages, currently focusing on learning Mandarin to expand my horizons.

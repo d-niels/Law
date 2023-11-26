@@ -1,0 +1,41 @@
+Zoya Sethi
+Indian Female | Philadelphia, Pennsylvania | Software Engineer
+
+Personal Statement:
+Motivated and detail-oriented Software Engineer with a strong background in error tracking, automated testing, and debugging. Committed to delivering high-quality, efficient solutions to complex problems. Skilled in various programming languages and database technologies with a passion for problem-solving. Eager to contribute to a dynamic team and drive technological innovation.
+
+Education:
+Bachelor of Science in Computer Science, Liberty University, Philadelphia, Pennsylvania
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Quantum Solutions, Philadelphia, Pennsylvania (June 2018 - Present)
+- Developed an advanced error tracking system, resulting in a 30% reduction in software bugs.
+- Designed and implemented automated testing procedures, enhancing software quality by 20%.
+- Conducted extensive debugging using advanced tools to resolve complex software issues.
+- Collaborated with cross-functional teams to integrate ecommerce capabilities into the platform.
+
+Software Development Intern, StellarTech, Philadelphia, Pennsylvania (May 2017 - August 2017)
+- Utilized Python to develop secure payment systems for an e-commerce platform.
+- Implemented NoSQL and SQL databases for efficient data storage and retrieval.
+- Collaborated with the development team to enhance Java-based software applications.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- As an Indian female, actively championed diversity and inclusion in the tech industry, empowering and inspiring others.
+- Served as a team leader in basketball, fostering teamwork, communication, and sportsmanship within the team.
+
+Hobbies:
+- Playing the flute, a melodious instrument that brings tranquility and joy to my life.
+- Engaging in photography, capturing moments that celebrate the beauty of diverse cultures and ethnicities.
+
+Languages:
+Fluent in English and Hindi.
+
+References available upon request.

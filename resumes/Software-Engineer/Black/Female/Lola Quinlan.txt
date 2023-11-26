@@ -1,0 +1,37 @@
+LOLA QUINLAN
+
+Personal Statement:
+Passionate and driven software engineer with a strong desire to make a positive impact through technology. With a commitment to continuous learning and a love for problem-solving, I am eager to contribute my skills and expertise to driving innovation in the software engineering industry.
+
+Education:
+Bachelor of Science in Computer Science, Sunshine State University, Jacksonville, Florida | 3.9 GPA
+
+Work Experience:
+Software Engineer Intern, DigiTech Innovations, Jacksonville, Florida
+- Diagnosed and fixed bugs in the e-commerce platform, ensuring a seamless user experience and increased customer satisfaction.
+- Utilized Python to create scripts for automated error tracking, reducing debugging time and improving overall system performance.
+
+Software Engineer, Nexus Software Solutions, Jacksonville, Florida
+- Built secure payment systems using SQL and NoSQL databases, ensuring the protection of sensitive customer information.
+- Collaborated on a Java-based software solution for automated testing, increasing efficiency and accuracy of software development processes.
+- Implemented NoSQL databases to optimize data retrieval and enhance system performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Advocate for Ethnic and Gender Diversity in Tech: Passionately involved in promoting diversity and inclusion in the industry, particularly for black women. Organized and led workshops and events to support, mentor, and empower underrepresented minorities.
+- Sports Leadership Role: Captain of a women's volleyball team, encouraging teamwork, resilience, and leadership.
+
+Hobbies:
+- Playing the guitar and composing music that incorporates various cultural influences and celebrates diversity.
+- Exploring different artistic expressions through painting and sketching, drawing inspiration from African art and highlighting the strength and beauty of black women.
+
+Languages:
+Fluent in English and Spanish
+
+References available upon request.

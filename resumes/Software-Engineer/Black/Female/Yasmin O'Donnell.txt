@@ -1,0 +1,42 @@
+Yasmin O'Donnell
+Chicago, Illinois | (123) 456-7890 | yasminodonnell@email.com
+
+Personal Statement:
+Motivated and detail-oriented software engineer with a strong background in programming languages and database technologies. Equipped with a bachelor's degree in Computer Science and a track record of excellence in problem-solving and analytical skills. Committed to leveraging my skills and experience to develop innovative software solutions.
+
+Education:
+Bachelor of Science in Computer Science, Chicago Technical University, Chicago, IL (GPA: 3.9/4.0)
+
+Work Experience:
+Software Engineer, Stellar Solutions Inc., Chicago, IL | May 2019 - Present
+- Developed and maintained scalable software applications using Java, Python, and NoSQL databases.
+- Implemented error tracking and analysis tools to identify and resolve software bugs efficiently.
+- Collaborated with cross-functional teams to improve software performance and reliability.
+
+Software Developer Intern, ByteCodex Systems, Chicago, IL | May 2018 - August 2018
+- Assisted in designing and developing an e-commerce platform with SQL database integration.
+- Conducted automated testing and implemented secure payments to enhance user experience.
+- Debugged and resolved software issues using industry-standard debugging tools.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Founder, Black Women in Tech Organization, Chicago Technical University
+- Established and led an organization dedicated to empowering black women pursuing careers in technology.
+- Organized workshops and networking events to foster growth and diversity in the tech industry.
+
+Sports Leadership Role, Captain of the Chicago Technical University Women's Basketball Team
+- Demonstrated strong leadership and teamwork skills as the team captain.
+- Organized team practices and facilitated effective communication among team members.
+
+Hobbies:
+- Playing the piano and composing music
+- Participating in community outreach programs promoting diversity and representation in the tech industry.
+- Fluent in English and Spanish.
+
+References available upon request.

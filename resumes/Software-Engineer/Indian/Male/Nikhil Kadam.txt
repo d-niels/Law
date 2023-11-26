@@ -1,0 +1,42 @@
+Nikhil Kadam
+Address: Atlanta, Georgia | Phone: (XXX) XXX-XXXX | Email: nikhil.kadam@example.com
+
+Personal Statement:
+Dedicated and motivated Software Engineer with a passion for problem-solving and creating efficient solutions. Skilled in debugging, error tracking, automated testing, and proficient in programming languages such as Python and Java. Committed to delivering high-quality results and effectively collaborating with cross-functional teams. Seeking a challenging software engineering position to contribute to innovative projects and leverage technical expertise.
+
+Education:
+Bachelor of Science in Computer Science, Atlanta University, Atlanta, Georgia
+- Graduated with Distinction, GPA: 3.9
+
+Work Experience:
+Software Engineer, Innovate Solutions, Atlanta, Georgia    (Month Year - Present)
+- Collaborated with a team of developers to design and implement software solutions
+- Utilized advanced debugging techniques, error tracking, and automated testing to ensure software quality and efficiency
+- Developed and maintained Python scripts for data processing and analysis
+
+Software Developer, TechHub, Atlanta, Georgia    (Month Year - Month Year)
+- Worked collaboratively to design and build an innovative e-commerce platform with secure payment functionality
+- Implemented Java libraries for seamless payment processing and integrated with NoSQL and SQL databases
+- Conducted extensive testing to ensure software quality, security, and optimal performance
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Indian Student Association at Atlanta University, organizing cultural events and promoting diversity on campus
+- Sports Leadership Role: Captain of the university's soccer team, fostering teamwork, discipline, and leadership skills
+
+Hobbies:
+- Playing the harmonium, a traditional Indian keyboard instrument
+- Exploring photography and capturing diverse perspectives
+- Engaging in outdoor activities such as hiking and cycling
+
+Languages:
+- Fluent in English and Hindi
+
+References:
+Available upon request

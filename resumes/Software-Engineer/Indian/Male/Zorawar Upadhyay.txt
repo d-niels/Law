@@ -1,0 +1,45 @@
+Zorawar Upadhyay
+Dallas, Texas | (555) 123-4567 | zupadhyay@email.com
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a strong background in computer science and a passion for creating efficient and innovative solutions. Committed to continuous learning, I thrive in challenging environments that allow me to utilize my technical skills to solve complex problems. With a collaborative mindset, I am eager to contribute my expertise towards developing cutting-edge software applications.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+TechStar University, Dallas, Texas
+
+Work Experience:
+Software Engineer, Stellar Innovations (Dallas, Texas)
+June 2019 - Present
+- Developed and maintained enterprise software solutions using Java programming language, ensuring high-quality code and optimized performance.
+- Utilized advanced error tracking and debugging techniques to identify and resolve software malfunctions.
+- Implemented NoSQL databases for efficient data storage and retrieval processes.
+
+Software Developer Intern, Phoenix Solutions (Dallas, Texas)
+Summer 2018
+- Worked on a leading ecommerce platform, implementing SQL queries to enhance database performance and optimize search functionality.
+- Collaborated with the development team in Python programming for automated testing and secure payment solutions, ensuring data integrity and secure transactions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnicity and Gender Advocacy Volunteer
+- Actively involved in advocating for diversity and inclusion for the Indian community within the Dallas-Fort Worth area.
+- Organized cultural events and workshops to foster cultural understanding and representation, promoting harmony and appreciation within the community.
+
+Sports Leadership Role: Team Captain, Dallas Cricket Club (2017 - Present)
+- Led a diverse team of cricket players with varying skill levels, fostering a positive and inclusive environment.
+- Organized team practices, coordinated tournaments, and promoted team spirit and sportsmanship.
+
+Hobbies:
+Playing the Tabla (traditional Indian percussion instrument)
+Engaging in community theater, exploring different roles and storytelling techniques
+Traveling and experiencing diverse cultures while embracing their traditions and customs
+
+Languages:
+English (Fluent), Hindi (Fluent), Punjabi (Proficient)

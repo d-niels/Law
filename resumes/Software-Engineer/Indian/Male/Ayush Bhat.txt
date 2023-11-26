@@ -1,0 +1,46 @@
+Ayush Bhat
+Los Angeles, California | Indian Male
+Software Engineer
+
+Personal Statement:
+Driven and dedicated software engineer with a passion for creating innovative solutions. Proficient in various programming languages and equipped with a strong foundation in computer science. Committed to exceeding expectations through analytical thinking, problem-solving, and continuous learning.
+
+Education:
+Bachelor of Science in Computer Science
+Stanford University | Stanford, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | Stellar Software Solutions | Los Angeles, CA
+- Developed and enhanced an e-commerce platform using Java, SQL, and automated testing.
+- Collaborated with cross-functional teams to implement secure payment systems and error tracking.
+- Utilized NoSQL and Python for enhancing database performance.
+- Debugged and resolved issues to improve system stability.
+
+Software Developer | CipherTech Solutions | Los Angeles, CA
+- Designed, developed, and maintained secure payment systems for various clients.
+- Implemented NoSQL databases to handle large volumes of data efficiently.
+- Utilized Python to automate debugging and error tracking processes.
+- Collaborated with clients to understand requirements and provide effective solutions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Ethnicity and Gender Advocate, Indian Male
+- Led initiatives to promote diversity and inclusion within the tech community.
+- Organized workshops and seminars to raise awareness about gender and ethnic biases.
+- Served as a basketball team leader, providing guidance and mentorship to a youth basketball team.
+
+Hobbies:
+Playing the Tabla (Indian Percussion Instrument)
+Exploring diverse cultural art forms
+Promoting gender and ethnic diversity in the technology sector
+
+Languages:
+English (Fluent)
+Hindi (Native)

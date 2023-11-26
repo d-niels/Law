@@ -1,0 +1,46 @@
+XAVIER GREENE
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a passion for tackling complex coding challenges. Committed to delivering innovative solutions and enhancing user experiences. Demonstrated proficiency in secure payments, Java, automated testing, and Python. Eager to contribute technical expertise toward the success of a dynamic organization.
+
+Education:
+Bachelor of Science in Computer Science, Magna Cum Laude
+University of Texas at Austin, Austin, TX
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, NovaSoft Innovations, Austin, TX
+- Developed secure payment processing systems, utilizing Java and automated testing.
+- Collaborated with a cross-functional team to enhance application functionality and user experience.
+- Implemented Python modules to automate data processing and analysis.
+- Contributed to the organization's best practices in code review, debugging, and quality assurance.
+
+Software Developer, Quantum Solutions, Austin, TX
+- Conducted troubleshooting and debugging to identify and resolve software issues.
+- Utilized error tracking tools to enhance application performance and stability.
+- Designed and implemented NoSQL and SQL databases to support ecommerce applications.
+- Collaborated with a team of software engineers to deliver high-quality software products.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity in Tech Initiative, University of Texas at Dallas
+- Spearheaded a leadership role within the Diversity in Tech Recreation Program, promoting inclusivity and fostering team spirit among participants.
+- Organized and led coding workshops to empower underrepresented students in pursuing careers in technology.
+- Coordinated networking events and facilitated mentorship opportunities for minority students.
+
+Hobbies:
+- Playing the guitar
+- Learning and exploring different cultures and traditions
+- Supporting and participating in local community initiatives fostering diversity and equality.
+
+Languages:
+- English (Native proficiency)
+- Spanish (Intermediate proficiency)
+
+References available upon request.

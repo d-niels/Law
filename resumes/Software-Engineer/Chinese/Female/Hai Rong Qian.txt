@@ -1,0 +1,34 @@
+Personal Statement:
+As a highly motivated and dedicated software engineer, I am driven to contribute my passion for innovation and expertise in coding to develop cutting-edge software solutions. With a strong foundation in computer science and a diverse skill set, I am confident in my ability to contribute positively to any software engineering team. My experience as a Chinese female in the tech industry has inspired me to embrace diversity and inclusion, and I am committed to making a positive impact through my work.
+
+Education:
+Bachelor of Science in Computer Science, Central Tech University, Chicago, Illinois
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Cybertech Solutions, Chicago, Illinois
+- Developed and maintained a cutting-edge NoSQL database system for error tracking, enabling efficient performance analysis and optimization.
+- Collaborated with cross-functional teams to implement SQL-based solutions for data analysis and reporting.
+- Utilized Java programming language to design and develop high-performance software applications.
+
+Software Engineering Intern, Stellar Systems, Chicago, Illinois
+- Conducted thorough automated testing and debugging on integrated systems to ensure seamless and secure payment processing.
+- Leveraged Python to develop robust e-commerce solutions, integrating secure payment gateways and ensuring adherence to strict security standards.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusivity as the Vice President of the Chinese Student Association at Central Tech University.
+- Served as a leader and captain of the university's women's basketball team, guiding the team to victory in multiple intercollegiate tournaments.
+
+Hobbies:
+- Playing the guzheng (a traditional Chinese instrument) to celebrate and preserve Chinese heritage.
+- Engaging in outdoor activities like hiking and biking to maintain an active lifestyle.
+
+Languages:
+- Fluent in English and Mandarin Chinese.

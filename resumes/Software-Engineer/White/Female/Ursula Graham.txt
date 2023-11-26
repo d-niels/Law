@@ -1,0 +1,40 @@
+Ursula Graham
+
+Personal Statement: 
+As a driven and innovative software engineer, I am dedicated to creating cutting-edge solutions that optimize performance and user experience. With a background in programming and an analytical mindset, I bring a meticulous approach to developing software solutions. I am excited to contribute my skills in coding, testing, and debugging to a dynamic team, while continuously expanding my knowledge and making a meaningful impact in the technology industry.
+
+Education:
+Bachelor of Science in Computer Science, Texas Tech University, Dallas, Texas
+- Graduated with a GPA of 3.9
+
+Work Experience:
+Software Engineer, StellarSoft Solutions, Dallas, Texas 
+- Developed automated testing frameworks and strategies for an advanced e-commerce platform, utilizing Java, to ensure robust and error-free software products.
+- Collaborated with cross-functional teams to implement secure payment systems and seamlessly integrate third-party APIs.
+- Streamlined the development process by introducing continuous integration and delivery pipelines, resulting in improved efficiency and faster time-to-market.
+
+Software Engineer, Quantum Dynamics, Dallas, Texas
+- Skillfully debugged complex software issues using a systematic approach, ensuring smooth operation and customer satisfaction.
+- Leveraged SQL and NoSQL databases to design and optimize data storage and retrieval solutions.
+- Developed Python scripts to track and analyze errors, greatly enhancing issue identification and resolution capabilities.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Served as a mentor and team leader for a community basketball program, empowering underprivileged girls to develop their skills and nurture a sense of teamwork and resilience.
+- Actively engaged in organizations that promote diversity and inclusion within the tech industry, advocating for and inspiring young women from underrepresented backgrounds to pursue rewarding careers in STEM fields.
+
+Hobbies:
+- Playing the violin, exploring various musical genres and styles
+- Immersing myself in different cultures through literature and travel
+
+Languages:
+- English (Fluent)
+- French (Conversational)
+
+References available upon request.

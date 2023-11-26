@@ -1,0 +1,44 @@
+UZIEL SALAZAR
+
+Personal Statement:
+Dedicated and results-driven software engineer with a passion for solving complex problems through innovative and efficient solutions. With a strong foundation in computer science and expertise in various programming languages, database technologies, and debugging techniques, I am committed to driving meaningful impact and delivering high-quality software solutions. As a Latino male from Dallas, Texas, I am proud to bring cultural diversity and unique perspectives to my work, allowing me to contribute to diverse and inclusive teams.
+
+Education:
+Bachelor of Science in Computer Science, Phoenix University, Dallas, Texas
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Stellar Technologies Inc., Dallas, Texas
+- Debugged and resolved complex issues in software applications to improve reliability and efficiency.
+- Developed secure payment processing functionality for an e-commerce platform, ensuring smooth and reliable transactions.
+- Utilized NoSQL databases to optimize data storage and access in order to meet performance requirements.
+- Collaborated with cross-functional teams to analyze user requirements and deliver high-quality software solutions.
+
+Software Developer, Nova Softworks, Dallas, Texas
+- Leveraged Python and Java programming languages to design and develop software solutions for error tracking and reporting.
+- Implemented automated testing frameworks to ensure software reliability and minimize errors.
+- Utilized SQL databases for data storage and retrieval, maintaining optimal system performance.
+- Collaborated with team members to define project specifications and execute tasks within project timelines.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Leadership - Football Team Captain, XYZ High School, Dallas, Texas
+- Led a diverse team of athletes, fostering teamwork, discipline, and promoting a culture of inclusivity.
+- Collaborated with coaches and mentored teammates, providing guidance and support both on and off the field.
+
+Hobbies:
+- Playing the guitar
+- Exploring different styles of art and contributing to local art events
+- Participating in cultural festivals to celebrate diversity
+
+Languages:
+- English (fluent)
+- Spanish (native proficiency)
+
+Thank you for considering my application. I look forward to the opportunity to contribute my skills and experience as a software engineer to drive innovation and success within your organization.

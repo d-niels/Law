@@ -1,0 +1,37 @@
+Guo Shen
+Philadelphia, Pennsylvania | (555) 123-4567 | guoshen@email.com
+
+Personal Statement:
+Dedicated and innovative software engineer with a strong passion for problem-solving and a diligent work ethic. Skilled in various programming languages and experienced in areas such as ecommerce, error tracking, secure payments, and automated testing. Committed to delivering efficient and dependable software solutions. Bilingual in English and Mandarin Chinese, providing a unique cultural perspective to projects.
+
+Education:
+Bachelor of Science in Computer Science, Liberty University, Philadelphia, PA
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Quantum Solutions, Philadelphia, PA
+- Developed and maintained a cutting-edge ecommerce platform, implementing an advanced error tracking system to ensure seamless operation and enhance user experience.
+- Utilized Python to streamline automated testing processes, significantly reducing development time and increasing software reliability.
+
+Software Developer, StellarTech, Philadelphia, PA
+- Led the development of secure payment systems, extensively using SQL and NoSQL databases to handle transactional data efficiently and securely.
+- Implemented highly effective debugging techniques and utilized Java to identify and resolve complex issues, enhancing overall software performance and stability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Philadelphia Chinese American Association, organizing cultural events and fostering cross-cultural understanding and appreciation.
+- Sports Leadership: Served as the team captain for a competitive basketball team, providing leadership, guidance, and strategic insights to drive team success.
+
+Hobbies:
+- Playing the erhu (Traditional Chinese instrument) and engaging in various artistic pursuits, promoting creativity and self-expression.
+- Exploring diverse cultures and history, enhancing understanding and promoting inclusivity.
+- Engaging in physical fitness activities such as swimming and martial arts to maintain a healthy lifestyle and discipline.
+
+Languages:
+- Fluent in English and Mandarin Chinese

@@ -1,0 +1,44 @@
+Leandro Juarez
+1234 Elm Street, El Paso, TX 12345
+Phone: (555) 123-4567
+Email: leandrojuarez@email.com
+
+Personal Statement:
+Highly motivated Software Engineer with a passion for developing innovative solutions. Dedicated to delivering high-quality code and collaborating effectively with cross-functional teams. Skilled in problem-solving, debugging, and creating secure payment systems. Committed to leveraging my knowledge in programming languages and database technologies to drive excellence in software engineering.
+
+Education:
+Bachelor of Science in Computer Science (May 20XX)
+Southwest Tech University, El Paso, TX
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, InnovateTech Solutions, El Paso, TX (Jan 20XX - Present)
+- Developed and maintained secure payment systems using Java, NoSQL, and debugging techniques
+- Collaborated with cross-functional teams to identify and resolve software issues
+- Implemented automated testing for seamless error tracking and reporting
+
+Software Engineering Intern, TechGen Corporation, El Paso, TX (May 20XX - Aug 20XX)
+- Contributed to the development of an e-commerce platform leveraging Python, SQL, and error tracking
+- Collaborated with the testing team to perform comprehensive automated testing
+- Assisted in troubleshooting and resolving software defects
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Mentored high school students in computer science projects within the Latino Youth Mentorship Program
+- Served as a team leader in the El Paso Soccer League, organizing and coaching a youth soccer team to regional success
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures through music and art, particularly Latin American and Spanish influences
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+References available upon request.

@@ -1,0 +1,36 @@
+Personal Statement:
+I am a dedicated and innovative software engineer with a passion for creating cutting-edge solutions. With a strong background in computer science and extensive experience in various programming languages and database technologies, I am committed to pushing the boundaries of software engineering. As a result-oriented individual with exceptional problem-solving and debugging skills, I strive to deliver high-quality and efficient software applications.
+
+Education:
+Bachelor of Science in Computer Science, Jacksonville State University, Jacksonville, Florida
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechnoSoft Innovations, Jacksonville, Florida
+- Developed and implemented scalable software solutions using NoSQL, Java, Python, and SQL.
+- Collaborated closely with cross-functional teams to analyze business requirements and design optimal solutions.
+- Conducted thorough testing and debugging to ensure software functionality and improve performance.
+- Contributed to the development of secure payment systems for the company's cutting-edge ecommerce platforms.
+
+Software Development Intern, XyberTech Solutions, Jacksonville, Florida
+- Assisted in debugging and troubleshooting software applications, utilizing error tracking and debugging tools.
+- Conducted automated testing to identify and resolve software defects, ensuring optimal functionality.
+- Contributed to the development of ecommerce platforms, with a particular focus on secure payment systems.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a firm believer in promoting diversity and inclusivity in the tech industry, I actively engage in activities that amplify underrepresented voices. I have volunteered as a mentor with a non-profit organization, providing guidance and support to aspiring software engineers from diverse backgrounds, empowering them to succeed.
+
+Additionally, I have a passion for sports, particularly soccer. I have held a leadership role as the captain of a local soccer team, where I led by example, fostering teamwork, resilience, and sportsmanship. Through this experience, I have built connections with individuals from various ethnic backgrounds, promoting inclusivity and mutual respect.
+
+Hobbies:
+In my leisure time, I enjoy playing the guitar and immersing myself in music, allowing me to express my creativity. I also dedicate time to learning and exploring new songs to expand my repertoire. Additionally, I actively participate in community soccer leagues, fueling my love for the sport and engaging with individuals who share similar interests.
+
+Languages:
+- English (Fluent)

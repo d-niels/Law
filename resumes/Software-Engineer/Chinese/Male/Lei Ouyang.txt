@@ -1,0 +1,37 @@
+Personal Statement:
+As an avid learner and dedicated software engineer, I am thrilled to contribute my skills and expertise to the dynamic world of software development. With a strong academic background in computer science and a diverse range of technical skills, combined with my passion for leadership and commitment to diversity, I am well-prepared to excel in the role of a software engineer.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+Oceancrest University, Honolulu, Hawaii
+
+Work Experience:
+Software Engineer | TechNova Solutions
+- Leveraged NoSQL databases, secure payments, and automated testing tools to develop innovative and scalable software solutions.
+- Implemented SQL databases for efficient data manipulation and retrieval, ensuring optimal system performance.
+- Collaborated seamlessly with cross-functional teams to integrate software components and deliver high-quality end products.
+
+Software Developer | ByteWise Technologies
+- Demonstrated exceptional skills in debugging and error tracking to identify and resolve issues in Java and Python-based applications.
+- Developed and maintained cutting-edge e-commerce platforms, resulting in increased sales and improved customer satisfaction.
+- Collaborated closely with teammates to implement robust software solutions using agile methodologies.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively promoted cultural diversity and inclusivity as a Chinese male involved in various leadership positions.
+- Served as a sports leader in the competitive realm of basketball, fostering teamwork, sportsmanship, and enthusiasm among diverse team members.
+
+Hobbies:
+- Playing the traditional Chinese instrument, Guzheng.
+- Engaging in competitive basketball tournaments, embodying perseverance, discipline, and camaraderie.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+- Japanese (Proficient)

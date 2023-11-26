@@ -1,0 +1,41 @@
+Personal Statement:
+I am a dedicated and passionate software engineer, seeking to contribute my skills and knowledge to a dynamic organization. With a strong academic background in computer science and extensive hands-on experience, I am well-prepared to take on new challenges and drive innovative solutions. As a black female hailing from Detroit, Michigan, I bring a unique perspective and a deep commitment to fostering diversity and inclusion in the tech industry. I am driven by a vision where technology can uplift and empower underrepresented communities, and I strive to be a catalyst for positive change.
+
+Education:
+Bachelor of Science in Computer Science, TechnoLogic University, Detroit, Michigan
+- Graduated with a 3.9 GPA
+- Relevant coursework: Data Structures, Algorithms, Software Engineering
+
+Work Experience:
+Software Engineer, ByteCraft Innovations, Detroit, Michigan
+- Debugged and resolved issues in a real-time distributed system using NoSQL databases
+- Implemented comprehensive error tracking tools to monitor system performance and ensure reliability
+- Utilized SQL for efficient data retrieval and optimization, contributing to improved system scalability
+
+Software Engineer Intern, CodeWave Solutions, Detroit, Michigan
+- Developed and maintained an innovative eCommerce platform, ensuring seamless user experience
+- Conducted thorough and automated testing for software quality assurance, ensuring robust functionality
+- Utilized Java and Python for secure payment integration and backend system development, bolstering user security
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion initiatives in the tech community as a black female software engineer, participating in organizations like Black Women in Tech
+- Spearheaded a sports leadership role as a mentor for young girls interested in computer science, organizing coding camps and workshops
+- Showcased my creative side by playing the trombone in a local jazz band, fostering a sense of community and cultural exchange through music
+
+Languages:
+- Fluent in English
+- Conversational proficiency in Spanish
+
+Hobbies:
+- Playing the trombone in a local jazz band, creating harmonious melodies to uplift spirits
+- Exploring ethnic fashion and embracing traditional African textiles, celebrating cultural heritage and diversity through artistic expression
+- Engaging in yoga and meditation to maintain a healthy mind-body connection and find inner peace amidst a fast-paced world
+
+References available upon request.

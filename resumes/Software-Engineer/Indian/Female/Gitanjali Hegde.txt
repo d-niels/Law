@@ -1,0 +1,34 @@
+Personal Statement:
+Driven software engineer with a passion for developing innovative solutions. Experienced in debugging and problem-solving within a fast-paced environment. Equipped with strong technical skills in Java, Python, and SQL, complemented by excellent analytical and communication abilities. Dedicated to contributing to impactful software development projects and leveraging technology to improve user experiences.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Francisco, California (GPA: 3.9)
+
+Work Experience:
+Software Engineer, Stellar Innovations, San Francisco, California
+- Debugged and resolved complex software issues to ensure seamless operation and enhanced user experience.
+- Developed secure payment processing functionalities using Java, SQL, and other supporting technologies.
+- Collaborated with cross-functional teams to integrate and optimize software components for an efficient workflow.
+
+Software Engineer, Quantum Technologies, San Francisco, California
+- Tracked and resolved errors in software applications, improving system reliability and minimizing downtime.
+- Employed Python and NoSQL databases to design and implement automated testing frameworks.
+- Contributed to the development of an ecommerce platform, enhancing customer experience and driving revenue growth.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As an Indian female software engineer, I am passionate about promoting diversity and inclusivity within the tech industry. I have actively participated in various initiatives to empower female engineers and underrepresented communities. Additionally, I have taken on a sports leadership role as the captain of the Silicon Valley University soccer team, fostering teamwork and mentorship among teammates.
+
+Hobbies:
+In my spare time, I enjoy playing the tabla, a traditional Indian percussion instrument. I am also an avid reader, particularly enjoying science fiction and fantasy novels. Furthermore, engaging in cultural events and exploring different art forms help me embrace and celebrate my Indian heritage.
+
+Languages:
+- English (fluent)
+- Hindi (conversational)
+- Kannada (conversational)

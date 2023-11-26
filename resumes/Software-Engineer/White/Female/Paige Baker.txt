@@ -1,0 +1,38 @@
+PERSONAL STATEMENT:
+As a passionate and dedicated software engineer, I am committed to utilizing my diverse skill set and knowledge to drive innovation and create effective solutions in the technology industry. With a strong educational background in computer science and a hands-on experience in software development, I possess the ability to solve complex problems and deliver cutting-edge solutions. With a natural curiosity and a continual drive for self-improvement, I am eager to contribute my expertise to a dynamic and forward-thinking team as a software engineer.
+
+EDUCATION:
+Bachelor of Science in Computer Science
+San Diego State University, San Diego, California
+GPA: 3.9/4.0
+
+WORK EXPERIENCE:
+Software Engineer | NovaTech Solutions, San Diego, California
+- Developed and implemented secure payment systems, utilizing Java, Python, and NoSQL databases.
+- Conducted extensive testing and debugging to ensure quality assurance and optimal system performance.
+- Collaborated with cross-functional teams to enhance and maintain effective and scalable software solutions.
+
+Software Developer | Quantum Software Technologies, San Diego, California
+- Played a key role in error tracking and resolution within large-scale Java-based projects.
+- Leveraged Python, SQL, and Java to design and develop efficient and robust ecommerce systems.
+- Actively participated in code reviews and implemented improvements to enhance overall product quality.
+
+SKILLS:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP:
+- Served as the captain of a competitive soccer team, demonstrating leadership skills and fostering teamwork.
+- Actively engaged in initiatives promoting diversity and gender equity in the tech industry.
+- Mentored and supported aspiring software engineers from underrepresented communities, providing guidance and resources.
+
+HOBBIES:
+- Playing the piano, expressing creativity and emotion through music.
+- Exploring different cultures through travel and food, broadening perspectives and appreciation for diversity.
+- Engaging in outdoor activities such as hiking and rock climbing, fostering a healthy and balanced lifestyle.
+
+LANGUAGES:
+- Fluent in English and Spanish.

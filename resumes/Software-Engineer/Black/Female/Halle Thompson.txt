@@ -1,0 +1,43 @@
+Halle Thompson
+
+Personal Statement:
+Proactive and highly motivated software engineer with a passion for using technology to drive innovation. I am dedicated to creating efficient and scalable solutions while continuously expanding my skill set. As a black female in this field, I am committed to promoting diversity and inclusivity within the tech industry.
+
+Education:
+Bachelor of Science in Computer Science, Liberty University, Philadelphia, Pennsylvania
+- Graduated with a GPA of 3.9
+- Relevant coursework: Algorithms, Data Structures, Software Engineering, Database Management
+
+Work Experience:
+Software Engineer, Zenith Solutions, Philadelphia, PA
+- Developed and maintained a robust NoSQL database system for efficient data retrieval and storage.
+- Leveraged Java to design and implement critical components of a high-traffic eCommerce platform, enhancing user experience and increasing sales.
+- Implemented state-of-the-art error tracking systems, improving system performance and minimizing downtime.
+
+Software Developer, Catalyst Technologies, Philadelphia, PA
+- Successfully integrated Python scripts to automate testing processes, significantly reducing testing time and improving overall product quality.
+- Designed and optimized SQL queries for secure payments processing, ensuring data integrity and regulatory compliance.
+- Utilized advanced debugging tools to identify and resolve critical issues, ensuring smooth functionality of the software.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity Advocate, Liberty University:
+- Organized and hosted various events to promote inclusivity and diversity within the computer science department, fostering an open and inclusive culture.
+- Mentored and provided support to underrepresented minority students, offering guidance and resources to pursue careers in technology.
+
+Sports Leadership Role, Philadelphia Women in Tech (PWIT):
+- Served as a team captain for women's basketball, organizing practices, coordinating games, and fostering camaraderie within the team.
+
+Hobbies:
+- Playing the guitar
+- Engaging in community service initiatives that empower underprivileged youth
+- Exploring different cultures through travel and participating in language exchange programs
+
+Languages:
+Fluent in English and French

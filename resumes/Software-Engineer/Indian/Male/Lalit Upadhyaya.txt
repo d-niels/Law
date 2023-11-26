@@ -1,0 +1,46 @@
+Lalit Upadhyaya
+Indian Male | Dallas, Texas | +1-XXX-XXX-XXXX | lalitupadhyaya@email.com
+
+---------------------------------------------------------------------------------------------------------------------
+
+Personal Statement
+Passionate and driven software engineer with a keen eye for detail and a strong background in ecommerce, automated testing, and secure payments. Committed to delivering high-quality solutions and continuously improving processes. Excels in collaborative environments and thrives on challenges. Eager to contribute to a dynamic team as a Software Engineer.
+
+Education
+Bachelor of Science in Computer Science, Dallas State University, Dallas, Texas (2015-2019)
+- GPA: 3.9/4.0
+
+Work Experience
+Software Engineer, Stellar Tech Solutions, Dallas, Texas (2019-present)
+- Developed and maintained scalable ecommerce applications using Python and Java
+- Conducted automated testing to detect and fix software defects, ensuring high-quality releases
+- Collaborated with cross-functional teams to identify and resolve issues promptly
+
+Software Developer, Transcendence Labs, Dallas, Texas (2018-2019)
+- Designed and implemented SQL databases for various projects, optimizing performance and data integrity
+- Debugged and resolved software defects to enhance user experience
+- Implemented secure payment systems and error tracking mechanisms
+
+Skills
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership
+- Actively involved in promoting diversity and inclusion in technology through volunteer work
+- Served as a team captain in local cricket tournaments, fostering teamwork and collaboration amongst a diverse group of individuals
+
+Hobbies
+- Playing the guitar and exploring various genres of music
+- Engaging in cultural exchange programs, celebrating and advocating for diversity
+- Participating in local community events that highlight cultural heritage
+
+Languages
+- English (Fluent)
+- Hindi (Native)
+
+---------------------------------------------------------------------------------------------------------------------
+
+Note: The information provided in this resume is fictional and for illustrative purposes only.

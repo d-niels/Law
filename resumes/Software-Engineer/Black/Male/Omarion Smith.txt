@@ -1,0 +1,44 @@
+Omarion Smith
+
+Personal Statement:
+Dynamic and forward-thinking software engineer driven by a passion for leveraging technology to revolutionize industries. Committed to crafting innovative solutions and optimizing software performance for exceptional user experiences. Eager to join a collaborative team where I can contribute my expertise to develop cutting-edge software applications.
+
+Education:
+Bachelor of Science in Computer Science, XYZ University, Charlotte, North Carolina
+- Graduated with a stellar GPA of 3.9
+- Relevant coursework: Data Structures, Algorithms, Software Engineering, Web Development
+
+Work Experience:
+Software Engineer, StellarSoft Solutions, Charlotte, North Carolina
+- Spearheaded the development and maintenance of advanced software applications leveraging NoSQL databases, Python, and automated testing to ensure high-quality deliverables
+- Conducted meticulous debugging and troubleshooting, significantly reducing system downtime and improving application performance
+- Collaborated seamlessly with cross-functional teams to seamlessly integrate software components and streamline workflows
+- Implemented robust continuous integration and deployment practices to optimize software delivery processes
+
+Software Engineer Intern, Infinitus Technologies, Charlotte, North Carolina
+- Contributed to the development of a cutting-edge e-commerce platform, specializing in secure payment processing and comprehensive error tracking mechanisms
+- Leveraged SQL, Java, and various technologies to enhance database management and optimize system performance
+- Collaborated closely with the QA team to design and execute comprehensive test suites, guaranteeing the delivery of top-notch, bug-free software
+- Identified and resolved software issues promptly, ensuring a seamless and exceptional user experience
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Sports Leadership Role, City Youth Basketball League, Charlotte, North Carolina
+- Served as a mentor and coach, shaping the character of young athletes and instilling the values of teamwork, discipline, and resilience
+- Organized and executed basketball events, fostering a strong sense of community and inclusivity among players and supporters
+- Championed diversity and provided dedicated support to underrepresented athletes, emphasizing equal opportunities and inspiring confidence
+
+Hobbies:
+Passionate about playing the saxophone, actively participating in community STEM outreach programs, and exploring diverse cultures and traditions. Advocates for diversity and inclusion through volunteering, promoting acceptance and understanding.
+
+Languages:
+Fluent in English and French.
+
+References:
+Available upon request.

@@ -1,0 +1,38 @@
+Personal Statement:
+I am a highly motivated and dedicated software engineer with a passion for developing innovative solutions to complex problems. With a strong background in computer science and a diverse range of technical skills, I am constantly seeking opportunities to enhance my knowledge and contribute to the growth of technological advancements. As an Indian female in the field, I strive to break barriers, inspire others, and promote diversity in the world of technology.
+
+Education:
+Bachelor of Science in Computer Science, California State University, San Angeles
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, StellarTech Solutions, Los Angeles, CA
+- Developed and maintained Java-based applications for secure payment processing
+- Implemented automated testing techniques to ensure software quality and reliability
+- Designed and optimized complex SQL queries for efficient data retrieval and storage
+
+Software Engineer Intern, Prismatech Innovations, Los Angeles, CA
+- Collaborated on an e-commerce platform project using Python for backend development
+- Employed error tracking and debugging techniques to ensure system stability and performance
+- Utilized NoSQL databases for efficient management of large volumes of data
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Founding member of the Indian Cultural Association at California State University, promoting Indian culture and fostering inclusivity
+- Sports Leadership Role: Captain of the university's soccer team, leading the team to multiple championships and fostering teamwork and discipline
+
+Hobbies:
+- Playing the tabla, a traditional Indian percussion instrument
+- Exploring different cultures through travel, experiencing diverse cuisines, and participating in cultural festivals
+- Engaging in photography to capture the beauty and essence of different landscapes
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Spanish (Basic proficiency)

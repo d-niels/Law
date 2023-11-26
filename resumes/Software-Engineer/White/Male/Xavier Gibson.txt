@@ -1,0 +1,36 @@
+Xavier Gibson
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a strong passion for creating innovative solutions. Possessing extensive experience in software development and a deep understanding of various programming languages and database technologies. Committed to continuously enhancing skills and knowledge to deliver high-quality software products. Eager to contribute expertise in debugging, testing, and problem-solving to drive impactful outcomes in a software engineer role.
+
+Education:
+Bachelor of Science in Computer Science, Houston Technical University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, TechnoSoft Solutions, Houston, Texas
+- Developed and implemented automated testing scripts for software products, resulting in a 15% reduction in overall bug count
+- Conducted thorough debugging sessions to identify and resolve issues, enhancing software performance and stability
+- Utilized SQL to implement efficient database management systems, ensuring seamless data integration
+- Collaborated with cross-functional teams to deliver high-quality software solutions within strict timelines
+
+Senior Software Developer, OmniTech Innovations, Houston, Texas
+- Tracked and resolved errors in software applications, improving performance and user experience
+- Worked on e-commerce projects, implementing secure payment gateways and enhancing transaction security protocols
+- Utilized NoSQL databases to optimize data storage and retrieval operations, improving overall system scalability
+- Leveraged Java programming language to develop robust and efficient software applications
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white male in Houston, Texas, I actively contribute to the promotion of diversity and inclusion in the technology industry. I have served as a basketball team leader, fostering a respectful and diverse environment where individuals from various backgrounds can thrive. Through this role, I strive to break gender and ethnic stereotypes while nurturing teamwork and camaraderie among teammates.
+
+Hobbies:
+In my spare time, I enjoy playing the guitar, showcasing my appreciation for music and creativity. Additionally, I actively participate in cultural exchange programs, embracing diverse traditions, and engaging with people from different ethnic backgrounds.
+
+Languages: English (Fluent), Spanish (Intermediate)

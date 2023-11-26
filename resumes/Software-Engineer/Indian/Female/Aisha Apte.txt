@@ -1,0 +1,36 @@
+Personal Statement:
+I am a highly motivated software engineer with a passion for creating innovative solutions. Combining my strong technical and problem-solving skills with a keen eye for detail, I am dedicated to delivering high-quality software. As an Indian female in the field, I am committed to breaking barriers and inspiring others to pursue careers in technology.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+City University, Los Angeles
+
+Work Experience:
+Software Engineer - Inventix Corp:
+- Developed Python scripts to automate ecommerce processes, improving efficiency by 40%.
+- Utilized NoSQL databases to securely store and retrieve data for the online retail platform.
+- Conducted rigorous automated testing to ensure the functionality and performance of the software.
+
+Software Engineer - TechHub Solutions:
+- Utilized SQL to design and maintain a secure payments system, ensuring data accuracy and integrity.
+- Implemented error tracking and debugging techniques to swiftly identify and resolve issues.
+- Demonstrated expertise in Java to develop and enhance various software features and functionality.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Promoted diversity and inclusion within the technology community by organizing events and workshops to encourage underrepresented groups, including women and the Indian community, to pursue careers in software engineering.
+- Actively served as a team captain in basketball, fostering teamwork, discipline, and strategic thinking among team members.
+
+Hobbies:
+- Playing the piano, embracing creativity and refining discipline.
+- Exploring various art forms, including painting and calligraphy, to celebrate cultural diversity and express individuality.
+- Participating in cultural festivals and events, promoting cultural exchange and understanding.
+
+Languages:
+- Fluent in English and Hindi, facilitating effective communication and collaboration.

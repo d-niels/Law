@@ -1,0 +1,39 @@
+Personal Statement:
+As a black female software engineer, I am dedicated to harnessing the power of technology to drive innovation and create meaningful solutions. With a knack for problem-solving and a passion for programming, I constantly strive to bridge the gap between technological advancements and societal needs. My goal is to leverage my skills and experience to make a lasting impact in the tech industry while uplifting underrepresented communities.
+
+Education:
+Bachelor of Science in Computer Science, Techburg University, Indianapolis, Indiana
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, StellarSoft Solutions, Indianapolis, Indiana
+- Employed automated testing techniques to ensure top-notch functionality and performance of software applications.
+- Demonstrated proficiency in Python and Java, producing high-quality code for e-commerce projects.
+- Collaborated with multidisciplinary teams to develop and maintain robust and scalable software solutions.
+
+Software Developer, InnovateX Technologies, Indianapolis, Indiana
+- Excelled in debugging and troubleshooting software applications, utilizing error tracking tools to ensure seamless performance.
+- Extensive experience with secure payment systems, implementing safeguards to protect customer information.
+- Proficient in NoSQL and SQL databases, optimizing data storage and retrieval.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion within the tech industry as a member of the Black Women in Tech organization, advocating for equal opportunities for underrepresented communities.
+- Served as a sports leadership role in organizing and coordinating events for the Indianapolis Women's Soccer Association.
+- Dedicated to empowering youth from underrepresented backgrounds to pursue careers in technology through mentorship programs and workshops.
+
+Hobbies:
+- Avid soccer player, leading a local team and competing in regional tournaments.
+- Immersing myself in literature that celebrates black culture and explores intersectionality.
+- Expressing my creativity through playing the trumpet, a soulful instrument that resonates with my spirit.
+
+Languages:
+- Fluent in English and Spanish, facilitating effective communication in culturally diverse environments.
+
+References available upon request.

@@ -1,0 +1,47 @@
+Saurabh Haldar
+123 Any Street, Atlanta, Georgia 12345
+Phone: (123) 456-7890
+Email: saurabh.haldar@email.com
+
+Personal Statement:
+Motivated and detail-oriented software engineer with a passion for creating efficient and innovative solutions. Dedicated to advancing technology and enhancing user experiences. Strong problem-solving skills and ability to work effectively in team environments. Committed to continuous learning and staying up-to-date with the latest industry trends.
+
+Education:
+Bachelor of Science in Computer Science, Atlanta Institute of Technology, Atlanta, Georgia
+- Graduated with a 3.9 GPA
+- Relevant coursework: Data Structures, Algorithms, Software Engineering, Database Management Systems, Web Development
+
+Work Experience:
+Software Engineer, DeltaTech Solutions, Atlanta, Georgia
+- Developed and maintained scalable NoSQL databases for an e-commerce platform, resulting in improved system performance
+- Conducted in-depth debugging and troubleshooting activities to identify and resolve software issues
+- Utilized SQL for data retrieval and analysis, contributing to the optimization of database queries
+- Collaborated with cross-functional teams to design and implement secure payment solutions for online transactions
+
+Software Engineer Intern, TechGenius Software, Atlanta, Georgia
+- Implemented automated testing processes, resulting in a more efficient and reliable software testing environment
+- Utilized error tracking tools to identify and rectify software defects, ensuring high-quality software delivery
+- Assisted in the development of secure payment modules for e-commerce platforms
+- Utilized Python and Java to optimize software functionalities and enhance user experiences
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member and advocate for the Indian Student Association at Atlanta Institute of Technology, promoting cultural diversity and awareness
+- Sports Leadership Role: Captain of the Atlanta Institute of Technology Soccer Team, demonstrating teamwork, dedication, and effective communication skills
+
+Hobbies:
+- Playing the tabla, a traditional Indian percussion instrument
+- Participating in cultural festivals and events to promote diversity and inclusivity
+- Exploring different art forms and attending art exhibitions to embrace creativity and self-expression
+
+Languages:
+- English (Fluent)
+- Hindi (Native Speaker)
+
+References available upon request.

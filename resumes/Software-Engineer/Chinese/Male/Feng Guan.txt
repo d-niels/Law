@@ -1,0 +1,41 @@
+FENG GUAN
+
+Houston, Texas | (123) 456-7890 | fengguan@email.com
+
+PERSONAL STATEMENT
+Highly skilled and motivated Software Engineer with a passion for problem-solving and a strong background in secure payments, ecommerce, and automated testing. Dedicated to delivering innovative solutions and providing optimal user experiences. Seeking a challenging role as a Software Engineer to utilize my skills and contribute to cutting-edge projects.
+
+EDUCATION
+Bachelor of Science in Computer Science, Houston Tech University, Houston, Texas
+- Graduated with a 3.9 GPA
+
+WORK EXPERIENCE
+Software Engineer, StellarTech Solutions, Houston, Texas
+- Developed secure payment systems for an advanced e-commerce platform, ensuring efficient and safe transactions
+- Implemented Java programming language to build reliable and scalable payment solutions
+- Utilized NoSQL databases to optimize data storage and retrieval
+- Collaborated with cross-functional teams to integrate secure payment features into existing software
+
+Software Engineer, Nexus Systems, Houston, Texas
+- Conducted automated testing for software applications, ensuring optimal functionality and user experience
+- Utilized SQL for data analysis and manipulation
+- Implemented error tracking and debugging techniques to identify and resolve software issues
+- Developed automated tests using Python, improving testing efficiency and accuracy
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Sports Leadership Role, Houston Community Center
+- Organized and led basketball tournaments, promoting teamwork and inclusivity within the local Chinese community and Houston residents
+- Fostered a positive environment and encouraged active participation among diverse groups
+
+HOBBIES
+Playing the erhu (Chinese traditional instrument), exploring multicultural literature, promoting diversity and inclusion in technology initiatives
+
+LANGUAGES
+Fluent in English and Mandarin Chinese, with proficiency in Cantonese

@@ -1,0 +1,45 @@
+Nitin Upadhyay
+
+Personal Statement:
+Highly motivated and diligent software engineer with a passion for problem-solving and creating innovative solutions. Possessing a strong educational background in computer science and hands-on experience in software development, I am devoted to delivering high-quality software products that meet clients' needs. With a deep understanding of diverse cultures and a commitment to inclusivity in the tech industry, I strive to bring a unique perspective to every project I undertake.
+
+Education:
+Bachelor of Science in Computer Science, GlobalTech University, New York, NY
+- Graduated with a GPA of 3.9
+- Relevant coursework: Data Structures, Algorithms, Object-Oriented Programming, Software Engineering
+
+Work Experience:
+Software Engineer, NovumSoft Solutions, New York, NY
+- Developed and maintained Java-based applications, implementing automated testing procedures to enhance product quality and reduce testing time
+- Collaborated with a cross-functional team to ensure seamless integration of software components
+- Utilized Python and NoSQL databases to optimize data retrieval and storage processes for enhanced performance
+- Assisted in troubleshooting and resolving issues, ensuring seamless operation of software products
+
+Software Engineer Intern, TechWave Inc., New York, NY
+- Collaborated with senior engineers to develop secure payment systems for e-commerce platforms, focusing on debugging and enhancing overall functionality
+- Utilized SQL and NoSQL databases for efficient data management and integration
+- Implemented error tracking and resolution mechanisms, improving system reliability
+- Assisted in identifying and resolving performance bottlenecks, contributing to enhanced user experience
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Basketball Team Captain, Citywide Youth Sports League, New York, NY
+- Displayed exceptional leadership skills while leading and organizing basketball events for diverse communities
+- Promoted inclusivity and cultural diversity within the league, fostering an environment that values equal participation and teamwork
+- Actively collaborated with team members to ensure effective coordination and execution of league activities
+
+Hobbies:
+- Playing the tabla, a traditional Indian percussion instrument
+- Exploring diverse cultures through travel, music, and literature
+- Promoting gender equality and cultural inclusivity through awareness campaigns and volunteer work
+
+Languages:
+Fluent in English and Hindi
+
+References available upon request.

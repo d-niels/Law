@@ -1,0 +1,44 @@
+Leticia Rico
+San Antonio, Texas | (123) 456-7890 | leticiarico@email.com
+
+Personal Statement:
+Results-oriented software engineer with a strong educational background in computer science from the renowned University of California, Los Angeles (UCLA). Passionate about utilizing my skills and knowledge to develop innovative software solutions. Committed to delivering high-quality code, consistently meeting project deadlines, and exceeding client expectations. Demonstrated expertise in secure payments, NoSQL, Python, error tracking, automated testing, debugging, SQL, Java, and ecommerce.
+
+Education:
+Bachelor of Science in Computer Science, University of California, Los Angeles (UCLA), Los Angeles, California
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, InnovateTech Solutions, San Antonio, Texas
+- Developed and implemented secure payment systems using NoSQL databases and Python scripting.
+- Utilized error tracking tools and techniques to identify and resolve system issues efficiently.
+- Collaborated with cross-functional teams to ensure seamless integration of software components.
+- Ensured adherence to coding standards, documentation, and software quality assurance processes.
+
+Software Developer, TechGenius Solutions, San Antonio, Texas
+- Conducted automated testing and debugging of software applications, ensuring optimal performance and functionality.
+- Utilized SQL and Java programming to create, maintain, and optimize database systems.
+- Developed custom e-commerce solutions, enhancing user experience and improving online sales.
+- Assisted in the design and implementation of software architectures, using industry best practices.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+National Society of Hispanic Engineers (NSHE), San Antonio Chapter
+- Served as the Programming Committee Chair, organizing coding workshops and hackathons for Hispanic students to promote diversity in technology.
+- Held a leadership role as the captain of the NSHE intramural basketball team, fostering teamwork and sportsmanship within the Hispanic community.
+
+Hobbies:
+- Playing the guitar and piano
+- Participating in community salsa dance events to celebrate Latino culture
+
+Languages:
+- English (Fluent)
+- Spanish (Native proficiency)
+
+References available upon request.

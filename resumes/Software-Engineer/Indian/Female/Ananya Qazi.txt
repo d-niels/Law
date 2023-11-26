@@ -1,0 +1,34 @@
+Personal Statement:
+I am a highly motivated and detail-oriented software engineer with a passion for problem-solving and creating innovative solutions. With a strong educational background in computer science and relevant work experience, I am confident in my ability to contribute to the field and be a valuable asset to any team. As an Indian female from Atlanta, Georgia, I bring a unique perspective and diverse skill set to every project.
+
+Education:
+Bachelor of Science in Computer Science - TechnoNimbus University, Atlanta, Georgia
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - Zephyr Systems, Inc., Atlanta, Georgia
+- Developed and maintained Java-based e-commerce applications, focusing on enhancing the user experience and streamlining automated testing processes.
+- Utilized Python to optimize software performance and improve the overall efficiency of the system.
+
+Software Engineer - NovaGate Technologies, Atlanta, Georgia
+- Debugged and resolved issues in secure payment systems, leveraging NoSQL databases and error tracking tools.
+- Utilized SQL to enhance data management and retrieval processes, ensuring accurate and efficient handling of critical information.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Co-founded and led the Women in Tech initiative at TechnoNimbus University, promoting the advancement and inclusion of female students pursuing careers in technology.
+- Served as the team captain for the Atlanta Storm, a competitive soccer team, fostering teamwork, discipline, and leadership on and off the field.
+
+Hobbies:
+- Playing the Tabla (Indian percussion instrument), embracing the rich cultural heritage of India through music.
+- Participating in cultural events and festivals that celebrate Indian traditions and promote diversity and inclusivity.
+- Engaging in outdoor activities such as hiking and camping in national parks, emphasizing the importance of maintaining a healthy and balanced lifestyle.
+
+Languages:
+- Fluent in English and Hindi, enabling effective communication in diverse environments.

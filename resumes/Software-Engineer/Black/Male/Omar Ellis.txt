@@ -1,0 +1,36 @@
+Personal Statement:
+As a highly motivated and skilled software engineer, I am dedicated to creating innovative solutions and delivering high-quality software. With a deep passion for technology and a commitment to fostering diversity and inclusion in the tech industry, I bring a unique perspective as a black male from Baltimore, Maryland. With a solid educational background in computer science and valuable work experience, I am eager to contribute my expertise to a dynamic software engineering team.
+
+Education:
+Bachelor of Science in Computer Science, Maryland Technical University (MTU)
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Innovage Software Solutions, Baltimore, MD
+- Developed and maintained ecommerce platforms using Python and Java.
+- Conducted thorough debugging and troubleshooting to optimize system performance.
+- Collaborated with cross-functional teams to ensure seamless integration of software components.
+
+Software Engineer Intern, Visionary Technologies, Baltimore, MD
+- Worked on a secure payments system, employing NoSQL databases and SQL for efficient data management.
+- Implemented automated testing procedures to ensure software reliability and accuracy.
+- Utilized advanced error tracking techniques to identify and resolve software defects.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+I actively participate in various organizations dedicated to fostering diversity and inclusion in the tech industry. As a black male, I have taken a leadership role as the captain of the basketball team at my local community center. Through this experience, I developed strong communication, teamwork, and leadership skills.
+
+Hobbies:
+In my free time, I enjoy playing the saxophone, expressing my creativity through music. Additionally, I have a passion for photography, capturing and celebrating the rich cultural heritage and architecture of Baltimore. I also love indulging in literature, exploring various genres to expand my knowledge and imagination.
+
+Languages:
+Fluent in English and intermediate proficiency in Spanish.
+
+References:
+Available upon request.

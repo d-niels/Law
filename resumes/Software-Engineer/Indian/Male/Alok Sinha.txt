@@ -1,0 +1,46 @@
+Alok Sinha
+
+Software Engineer
+
+Personal Statement:
+Motivated and detail-oriented software engineer with a passion for creating efficient and secure applications. I am dedicated to driving innovation and have a strong commitment to providing optimal user experiences. With a diverse skill set and experience in various programming languages, I am excited to contribute to a dynamic software development team. My Indian heritage and experiences have taught me the value of cultural diversity and inclusive teamwork, which I bring to all aspects of my work.
+
+Education:
+Bachelor of Science in Computer Science
+Stellar University, Atlanta, Georgia
+GPA: 3.9/4.0
+
+Work Experience:
+1. Software Engineer - CybRise Technologies, Atlanta, Georgia
+   - Developed secure payment functionalities for e-commerce platforms, ensuring secure transactions and preventing fraud
+   - Debugged and resolved errors to enhance application performance and maintain a seamless user experience
+   - Utilized error tracking tools to identify software vulnerabilities, implementing necessary updates and fixes
+
+2. Software Engineer - ByteCraft Solutions, Atlanta, Georgia
+   - Proficient in Java, Python, and NoSQL databases, developing robust and scalable software solutions
+   - Implemented automated testing to ensure the reliability and quality of applications, reducing manual effort and improving efficiency
+   - Utilized SQL to optimize data retrieval and manipulation processes, enhancing application performance
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Indian Student Association at Stellar University, organizing cultural events, promoting diversity, and fostering connections within the Indian community
+- Served as the Team Captain for the university's cricket team, leading by example, and coordinating practice sessions, match schedules, and driving team achievements
+- Demonstrated commitment to gender equality by participating in events and workshops organized by organizations promoting women in tech, advocating for equal opportunities in the field
+
+Hobbies:
+- Playing the tabla, a traditional Indian percussion instrument, infusing music with rhythm and melody
+- Exploring diverse cultures through literature, immersing myself in stories that capture the essence of different traditions
+- Supporting and attending local cultural festivals celebrating the rich heritage of Indian arts, dance, and music
+
+Languages:
+- English (Fluent)
+- Hindi (Native)
+- Bengali (Conversational)
+
+References available upon request.

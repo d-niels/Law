@@ -1,0 +1,36 @@
+Personal Statement:
+Driven and innovative software engineer with a passion for creating efficient solutions to complex problems. Committed to continuous learning and staying informed about the latest trends in the software development industry. Leveraging strong analytical skills and technical expertise to enhance user experiences and drive successful project outcomes. Seeking a software engineer role to contribute to cutting-edge software development and make a positive impact in the industry.
+
+Education:
+Bachelor of Science in Computer Science, Rio Grande University, Albuquerque, New Mexico
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, InnovTech Solutions, Albuquerque, New Mexico
+- Developed and maintained an error tracking system, utilizing advanced debugging techniques to ensure efficient code performance
+- Integrated robust ecommerce solutions, ensuring secure and seamless transactions for end-users
+- Utilized NoSQL databases for efficient data storage and retrieval, optimizing application performance
+
+Software Development Intern, QuantumSoft, Albuquerque, New Mexico
+- Collaborated with a team of engineers to develop Java-based software applications, employing secure payment gateways
+- Implemented SQL databases for data management and retrieval, maintaining data integrity and scalability
+- Conducted comprehensive automated testing to ensure software functionality and reliability
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Proud leader and advocate for the Latino community, actively involved in the LatinX Student Association, promoting cultural diversity and inclusivity
+- Sports Leadership Role: Captain of a local soccer team, fostering teamwork, discipline, and camaraderie among teammates
+
+Hobbies:
+- Playing the acoustic guitar, sharing traditional Latino music, and composing original pieces
+- Exploring visual arts through painting and sketching, expressing creativity and capturing diverse perspectives
+- Engaging in outdoor activities like hiking and backpacking, connecting with nature and promoting a healthy lifestyle
+
+Languages:
+- Fluent in both English and Spanish

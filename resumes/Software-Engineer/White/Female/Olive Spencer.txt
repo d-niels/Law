@@ -1,0 +1,36 @@
+Personal Statement:
+Driven software engineer with a passion for problem-solving and creating innovative solutions. Possessing a strong foundation in computer science and a keen eye for detail, I am dedicated to developing high-quality software applications. As a natural leader, I thrive in collaborative environments and excel in managing complex projects. With my diverse skillset and commitment to staying up-to-date with emerging technologies, I am ready to contribute to cutting-edge software development.
+
+Education:
+Bachelor of Science in Computer Science
+Legacy University, Dallas, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - TechNexus, Dallas, Texas
+- Utilized Python to develop and maintain software applications
+- Implemented error tracking systems for efficient bug identification and resolution
+- Collaborated with cross-functional teams to integrate e-commerce functionalities into existing systems
+- Conducted thorough debugging to ensure seamless software performance
+
+Software Engineer Intern - CodeWave, Dallas, Texas
+- Developed Java-based software solutions for secure payments
+- Implemented automated testing mechanisms to enhance software stability
+- Utilized NoSQL and SQL databases for efficient data storage and retrieval
+- Collaborated with the team to troubleshoot and debug complex software issues
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white female hailing from Dallas, Texas, I am dedicated to promoting diversity and inclusivity within the tech industry. Throughout my college years, I actively participated in organizations that aimed to increase the representation of underrepresented groups in STEM. During my junior year, I served as a Sports Leadership Ambassador for the Legacy University women's soccer team, utilizing my leadership skills to empower and guide athletes on and off the field.
+
+Hobbies:
+In my free time, I enjoy playing the guitar and participating in local music events. I am also an avid hiker, regularly exploring the scenic trails of Texas. Additionally, I am actively involved in promoting gender and racial equality through advocacy and volunteer work in my community.
+
+Languages:
+Fluent in English and Spanish

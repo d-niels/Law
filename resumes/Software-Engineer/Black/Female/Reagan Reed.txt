@@ -1,0 +1,34 @@
+Personal Statement:
+As a black female software engineer hailing from the vibrant city of Detroit, Michigan, I am determined to make a significant impact in the technology world. With a strong academic background in computer science, a passion for problem-solving, and a commitment to diversity and inclusion, I am well-equipped to excel as a software engineer.
+
+Education:
+Bachelor of Science in Computer Science - Detroit Technical University, Detroit, Michigan
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - Innovatech Technologies, Detroit, Michigan (Dates)
+- Developed secure payment systems using Python, SQL, and Java.
+- Collaborated with cross-functional teams to ensure smooth integration of software components.
+
+Software Engineer Intern - NextGen Solutions, Detroit, Michigan (Dates)
+- Conducted automated testing and debugging for the company's e-commerce platform.
+- Utilized NoSQL databases and error tracking techniques to ensure system stability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate - Detroit Technical University, Detroit, Michigan (Dates)
+- Organized events and workshops aimed at promoting diversity in the technology field.
+- Led a sports leadership role as captain of the university's track and field team, fostering teamwork and resilience.
+
+Hobbies:
+- Playing the saxophone to unwind and explore creativity.
+- Engaging in various cultural activities that celebrate African-American heritage, such as attending art exhibits and music performances.
+
+Languages:
+English (fluent), French (proficient)

@@ -1,0 +1,42 @@
+Imani Mitchell
+
+Personal Statement:
+Motivated software engineer with a passion for problem-solving and creating innovative solutions. As a black male from Columbus, Ohio, I am dedicated to promoting diversity and inclusion in the tech industry. With a bachelor's degree in computer science and a strong academic record, I am prepared to contribute to the field as a software engineer. My expertise lies in debugging, automated testing, SQL, and secure payments. I thrive in collaborative environments and possess excellent communication skills.
+
+Education:
+Bachelor of Science in Computer Science, Major in Software Engineering
+Techville College, Columbus, Ohio
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern, Innovetech Solutions, Columbus, Ohio
+- Developed and maintained NoSQL databases to optimize data storage and retrieval.
+- Collaborated with cross-functional teams to perform debugging and resolve software issues.
+- Employed automated testing techniques to enhance the efficiency and reliability of software.
+- Utilized Java programming language to design and implement new features.
+
+Software Development Engineer, Techprime Solutions, Columbus, Ohio
+- Utilized SQL and Python to develop and maintain databases for an e-commerce platform.
+- Ensured secure payments by implementing encryption and compliance protocols.
+- Implemented error tracking systems to monitor and resolve issues effectively.
+- Collaborated with teams to develop and improve features related to e-commerce.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively engaged in promoting diversity and inclusion in the tech industry, particularly for black individuals and minorities.
+- Served as a basketball team mentor and coach, providing leadership and guidance to young athletes in the Columbus community.
+
+Hobbies:
+- Playing the saxophone
+- Participating in cultural festivals and events celebrating black history and heritage
+- Engaging in community service initiatives to uplift underrepresented communities
+
+Languages:
+- English (Native)
+- Spanish (Intermediate)

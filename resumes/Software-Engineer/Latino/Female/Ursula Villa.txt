@@ -1,0 +1,47 @@
+Ursula Villa
+123 Main Street, Phoenix, Arizona 56789
+Phone: (555) 123-4567 | Email: ursulavilla@email.com
+
+Personal Statement:
+An accomplished software engineer with a passion for problem-solving and a strong commitment to promoting diversity and inclusivity within the tech industry. With a meticulous attention to detail and a collaborative mindset, I strive to develop innovative solutions that deliver exceptional user experiences. As a Latina woman, I am dedicated to breaking barriers and inspiring others to pursue careers in technology.
+
+Education:
+Bachelor of Science in Computer Science, Phoenix Metropolitan University, Phoenix, Arizona
+- Graduated with a GPA of 3.9
+- Relevant Coursework: Data Structures, Algorithms, Computer Networks, Software Engineering
+
+Work Experience:
+Software Engineer, Nexus Solutions, Phoenix, Arizona
+July 2018 - Present
+- Developed robust and scalable software solutions using Java, ensuring high performance and reliability
+- Collaborated with cross-functional teams to debug and resolve code issues, leveraging automated testing and debugging tools
+- Implemented a comprehensive error tracking system, resulting in improved software stability and user satisfaction
+
+Software Developer Intern, Horizon Technologies, Phoenix, Arizona
+May 2017 - August 2017
+- Collaborated with a dynamic team to design and develop an end-to-end e-commerce platform utilizing SQL and NoSQL databases
+- Implemented secure payment systems, ensuring the integrity and confidentiality of user transactions
+- Leveraged Python for data processing and analysis, optimizing platform speed and efficiency
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinos in Tech Organization, Phoenix, Arizona
+- Actively involved in promoting diversity and inclusion within the tech industry, organizing workshops and mentorship programs for underrepresented individuals
+- Sports Leadership Role: Served as the captain of a competitive soccer team, fostering teamwork and empowering fellow athletes
+
+Hobbies:
+- Playing the guitar, infusing Latin rhythms and melodies into my music
+- Engaging with diverse cultures through literature and arts
+- Participating in salsa dancing and sharing its vibrant heritage
+
+Languages:
+Fluent in English and Spanish
+
+References:
+Available upon request

@@ -1,0 +1,44 @@
+Makayla Jenkins
+
+Personal Statement:
+Dedicated and driven software engineer with a passion for building innovative solutions. With a strong background in computer science and expertise in various programming languages, I possess the technical skills and problem-solving abilities necessary to contribute to any software development team. As a black female from Jacksonville, Florida, I am committed to breaking barriers and promoting diversity in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science
+University: Jackson State University
+GPA: 3.9
+
+Work Experience:
+Software Engineer - TechnoLogic Solutions, Jacksonville, Florida
+- Implemented an error tracking system, reducing software bugs by 20%
+- Developed and maintained an ecommerce platform using Java and Python
+- Collaborated with cross-functional teams to enhance software performance and user experience
+
+Software Developer - Quantum Technologies, Jacksonville, Florida
+- Designed and optimized SQL and NoSQL databases for efficient data storage
+- Conducted automated testing to ensure software functionality and reliability
+- Implemented secure payment gateways and performed debugging for payment-related issues
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Basketball Team Captain - Jacksonville Youth Sports Association
+- Mentored and coached young female basketball players, emphasizing teamwork and leadership skills
+
+Diversity Advocate - National Society of Black Engineers (NSBE)
+- Organized events promoting diversity in the tech and engineering fields
+- Facilitated workshops to enhance coding skills among underrepresented minority students
+
+Hobbies:
+- Playing the saxophone
+- Engaging in various styles of dance
+- Exploring different genres of literature
+
+Languages:
+- English: Native proficiency
+- Spanish: Conversational proficiency

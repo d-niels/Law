@@ -1,0 +1,47 @@
+Personal Statement:
+
+Motivated and detail-oriented software engineer with a passion for developing innovative solutions. Excited to contribute to a dynamic team in creating software applications that enhance user experiences. Strong problem-solving skills coupled with a solid technical background in various programming languages and database technologies.
+
+Education:
+
+Bachelor of Science in Computer Science
+East Coast University, New York, New York
+GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer | TechSolutions Inc., New York, NY | May 20XX - Present
+- Developed and implemented ecommerce solutions, including error tracking and secure payment systems, for global clients
+- Utilized SQL for efficient database management and data manipulation
+
+Software Engineer Intern | CodeNexus, New York, NY | May 20XX - August 20XX
+- Collaborated with the team in developing cutting-edge software applications using Java and Python
+- Utilized NoSQL databases for efficient data storage and retrieval
+- Conducted debugging and automated testing to ensure high-quality product delivery
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Asian Association of Computer Scientists, Member | January 20XX - Present
+- Actively participated in promoting diversity and inclusion in the tech industry
+- Organized events, workshops, and mentorship programs to support aspiring Asian computer scientists
+
+Basketball Team Captain | New York City Women's Basketball League | July 20XX - Present
+- Demonstrated strong leadership skills as the team captain, coordinating practices, strategizing game plans, and fostering team cohesion
+
+Hobbies:
+
+Playing the Guzheng (Chinese zither)
+Reading classical Chinese literature
+Exploring Chinese calligraphy
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)

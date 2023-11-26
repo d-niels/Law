@@ -1,0 +1,39 @@
+Personal Statement:
+Dedicated and highly skilled software engineer with a passion for solving complex technical challenges. Recognized for exceptional problem-solving abilities and meticulous attention to detail. Committed to delivering high-quality software solutions that improve efficiency and meet organizational objectives. Excited to leverage my knowledge and experience to contribute to a dynamic software engineering team.
+
+Education:
+Bachelor of Science in Computer Science, Baltimore University, Baltimore, Maryland
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, InnovX Tech Solutions, Baltimore, Maryland
+- Utilized expertise in debugging and automated testing to ensure the delivery of robust software solutions.
+- Developed and maintained NoSQL databases for efficient data storage and retrieval.
+- Implemented Python scripts for data processing and manipulation, enhancing system performance.
+
+Software Developer, Visionary Solutions, Baltimore, Maryland
+- Collaborated with cross-functional teams to develop scalable e-commerce solutions.
+- Utilized SQL to design, implement, and optimize databases for various applications.
+- Implemented error tracking mechanisms and secure payment gateways to ensure system reliability.
+- Developed Java-based web applications to enhance user experience and functionality.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the National Society of Black Engineers (NSBE), organizing various cultural and professional development events.
+- Served as the captain of a semi-professional basketball team, promoting diversity and inclusion in the sports community.
+- Actively engaged in mentoring and providing guidance to underrepresented youth pursuing careers in computer science.
+
+Hobbies:
+- Playing the saxophone, showcasing my passion for music and self-expression.
+- Exploring different cultures, traditions, and histories, fostering a global perspective.
+- Engaging in community service initiatives that uplift underprivileged communities.
+
+Languages:
+- English (Fluent)
+- French (Conversational)

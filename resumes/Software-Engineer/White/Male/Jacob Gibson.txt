@@ -1,0 +1,46 @@
+Jacob Gibson
+
+Personal Statement:
+A dedicated and motivated software engineer with a passion for creating efficient and innovative solutions. I thrive in challenging environments, utilizing my strong analytical and problem-solving skills to deliver high-quality software applications. With a strong educational background in computer science and hands-on experience in different programming languages and database technologies, I am confident in my ability to contribute to any software development team.
+
+Education:
+Bachelor of Science in Computer Science, San Jose University, San Jose, CA
+- GPA: 3.9
+- Relevant coursework: Data Structures and Algorithms, Software Engineering, Systems Programming, Object-Oriented Programming
+
+Work Experience:
+
+Software Engineer, Quantum Software Solutions, San Francisco, CA
+- Developed and maintained SQL queries to ensure efficient data processing and optimized database performance for large-scale applications.
+- Utilized error tracking tools to identify and resolve software defects, ensuring optimal performance and user satisfaction.
+- Created and executed automated testing scripts, reducing manual efforts by 60% and improving software reliability.
+- Developed scalable and secure software solutions using Java programming language.
+
+Software Engineer, Panthera Technologies, San Francisco, CA
+- Developed Python scripts for debugging and troubleshooting software applications, effectively reducing bug-fixing time by 40%.
+- Designed and implemented secure payment systems and ecommerce features, ensuring the protection of user data and enhancing user experience.
+- Utilized NoSQL databases to optimize data storage and retrieval, improving application performance and efficiency.
+- Collaborated closely with cross-functional teams to deliver high-quality software features that met client requirements.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the tech industry, organizing and participating in events aimed at increasing representation for underrepresented groups.
+- Served as a captain of a local soccer team, leading by example and fostering teamwork among members.
+- Played the guitar in a local band, showcasing creativity and dedication in pursuing diverse interests.
+
+Hobbies:
+- Playing the guitar in a local band, exploring diverse genres and improving musical skills.
+- Engaging in outdoor activities such as hiking and cycling, promoting an active and healthy lifestyle.
+- Participating in community events and festivals that celebrate cultural diversity.
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate)
+
+References available upon request.

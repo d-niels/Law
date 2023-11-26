@@ -1,0 +1,44 @@
+Ume Huang
+San Francisco, California | (123) 456-7890 | umehuang@email.com
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a passion for developing secure and efficient solutions. Fluent in multiple programming languages and experienced in various database technologies. Demonstrated problem-solving abilities and a strong drive for continuous learning. Committed to leveraging technology to improve lives and make a positive impact in the field. 
+
+Education:
+Bachelor of Science in Computer Science, Bay Area Technical University
+- GPA: 3.9
+
+Work Experience:
+Software Engineer Intern, CyberTech Innovations, San Francisco, CA
+- Collaborated with a team of engineers to develop secure payment solutions using Java and SQL.
+- Conducted extensive testing and debugging to ensure smooth functionality and eliminate errors.
+- Worked closely with clients to understand their specific requirements and deliver tailored solutions.
+- Utilized Python to streamline data processing and automate routine tasks.
+
+Software Engineer, ByteWizard Technologies, San Francisco, CA
+- Implemented sophisticated error tracking and debugging techniques to enhance software reliability.
+- Developed automated testing procedures to improve product quality and reduce time-to-market.
+- Utilized NoSQL databases to optimize e-commerce platforms and enhance scalability.
+- Collaborated closely with cross-functional teams to deliver high-quality software solutions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Asian Student Association, Bay Area Technical University
+- Served as a board member, organizing cultural events to celebrate and promote Asian heritage.
+- Mentored incoming Asian students, providing guidance and support throughout their college journey.
+
+Sports Leadership, Women's Rugby Team, Bay Area Technical University
+- Led the women's rugby team as team captain, fostering teamwork and sportsmanship.
+- Organized practice sessions and coordinated game strategies, contributing to team victories.
+
+Hobbies:
+Playing the Guzheng (traditional Chinese instrument), exploring art galleries, traveling to new places, hiking, and promoting diversity and inclusion through community engagement initiatives.
+
+Languages:
+Fluent in English and Mandarin Chinese.

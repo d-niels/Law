@@ -1,0 +1,41 @@
+HARSH IBRAHIM
+
+Personal Statement:
+Dedicated and passionate software engineer with a strong background in computer science. Driven by a desire to create innovative solutions and enhance user experiences. Skilled in programming languages such as Java, Python, and C#, as well as database technologies like SQL and NoSQL. Strong problem-solving and analytical skills combined with a detail-oriented approach to deliver high-quality results. Committed to continuous learning and professional growth in the field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science, ABC University, Houston, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - Prism Software Solutions, Houston, Texas
+- Developed and executed automated testing procedures, resulting in a significant reduction in software bugs.
+- Utilized NoSQL database technology to optimize data retrieval and storage processes.
+- Implemented secure payment systems, ensuring the protection of sensitive customer information.
+- Wrote efficient and maintainable Python code for various software projects.
+
+Software Developer - Stellar Tech Services, Houston, Texas
+- Utilized SQL to design and maintain databases, ensuring accurate and efficient data management.
+- Conducted thorough debugging and utilized Java programming language to resolve software issues.
+- Implemented error tracking systems, reducing software downtime and improving overall system stability.
+- Contributed to the development of an ecommerce platform, enhancing user experience and increasing sales.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member of the Indian Cultural Society at ABC University, organizing events and promoting cultural understanding.
+- Sports Leadership Role: Captain of the university's cricket team, providing guidance and coordination during matches and practices.
+
+Hobbies:
+- Playing the tabla, showcasing my appreciation for Indian classical music.
+- Engaging in outdoor activities, such as hiking and playing soccer, to stay active and maintain a healthy lifestyle.
+
+Languages:
+- Fluent in English and Hindi, facilitating effective communication and cultural understanding.
+
+References available upon request.

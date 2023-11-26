@@ -1,0 +1,53 @@
+WEN QIN
+
+San Diego, California | (123) 456-7890 | wenqin@email.com
+
+PERSONAL STATEMENT
+
+Highly motivated and detail-oriented software engineer with a strong academic background in computer science. Committed to developing innovative software solutions to solve complex problems. Skilled in various programming languages and experienced in debugging, error tracking, and secure payments. Seeking a software engineer position to contribute towards creating cutting-edge technology.
+
+EDUCATION
+
+Bachelor of Science in Computer Science | Pacific Coast University (PCU)
+San Diego, California | May 2020
+GPA: 3.9/4.0
+
+WORK EXPERIENCE
+
+Software Engineer | Aurora Tech Solutions
+San Francisco, California | June 2020 - Present
+- Developed and implemented secure payment systems for e-commerce platforms using SQL.
+- Successfully debugged and tracked errors in software systems, reducing downtime by 25%.
+- Collaborated with cross-functional teams to optimize software performance and enhance user experience.
+
+Software Developer | Stellar Software Solutions
+San Diego, California | August 2018 - May 2020
+- Utilized automated testing techniques to ensure seamless functionality of e-commerce applications.
+- Developed and maintained applications using Python, Java, and NoSQL technologies.
+- Implemented efficient database structures to improve system performance and data retrieval.
+
+SKILLS
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+
+Chinese American Student Association | Pacific Coast University
+San Diego, California | August 2017 - May 2020
+- Promoted cultural diversity and awareness through organizing cultural events and workshops.
+- Served as a soccer team captain, fostering teamwork, and promoting sportsmanship.
+
+HOBBIES
+
+- Playing the traditional Chinese instrument, Guzheng
+- Exploring photography and capturing cultural landscapes
+- Participating in hiking and outdoor activities
+
+LANGUAGES
+
+- Mandarin Chinese (Fluent)
+- English (Fluent)

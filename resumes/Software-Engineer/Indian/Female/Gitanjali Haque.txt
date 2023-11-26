@@ -1,0 +1,37 @@
+Personal Statement:
+As a driven and passionate software engineer, I am dedicated to leveraging my technical expertise and problem-solving skills to create innovative software solutions. With a deep-rooted love for coding and a strong academic background in computer science, I am committed to expanding my skill set and exceeding expectations in the field of software engineering.
+
+Education:
+Bachelor's Degree in Computer Science, Georgia Tech University, Atlanta, Georgia
+- Graduated with a GPA of 3.9
+- Relevant coursework: Algorithms, Data Structures, Object-Oriented Programming, Web Development
+
+Work Experience:
+Software Engineer, Inova Solutions, Atlanta, Georgia
+- Developed Python-based secure payment systems, ensuring the confidentiality and integrity of transactions
+- Executed automated testing processes to verify system functionality and identify potential vulnerabilities
+- Utilized SQL for data management and database querying
+
+Software Engineer Intern, Quantum Technologies, Atlanta, Georgia
+- Debugged and resolved issues in an e-commerce platform powered by NoSQL databases
+- Implemented error tracking mechanisms to analyze system failures and improve performance
+- Worked extensively with Java to develop and enhance system features
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively advocate for diversity and inclusion within the tech community, using my perspective as an Indian female software engineer
+- Serve as a team leader for a community basketball team, fostering collaboration and leadership among diverse athletes
+
+Hobbies:
+- Playing the violin to express my cultural heritage and emotions through music
+- Exploring various art forms that celebrate Indian traditions and customs, such as traditional dance and rangoli
+- Supporting and participating in initiatives focused on promoting women in tech and gender equality in society
+
+Languages:
+- Fluent in English, Hindi, and Bengali

@@ -1,0 +1,46 @@
+Ulises Ibanez
+Houston, Texas | (123) 456-7890 | uibanez@email.com
+
+Personal Statement:
+Driven and innovative software engineer with a relentless pursuit of excellence. As a Latino male hailing from the vibrant city of Houston, I am committed to breaking down barriers and leveraging my skills to drive positive change. I possess a deep passion for problem-solving and collaboration, making me an ideal candidate for any software engineer role. With a strong foundation in programming and database technologies, I aim to deliver cutting-edge solutions that make a lasting impact.
+
+Education:
+Bachelor of Science in Computer Science
+University of Houston, TX
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, CyberTech Solutions, Houston, TX
+- Developed and implemented secure payment systems utilizing SQL and ecommerce technologies, ensuring seamless and secure transactions.
+- Utilized advanced error tracking tools to identify and resolve issues promptly, significantly improving system reliability and user experience.
+
+Software Engineer Intern, StellarTech Innovations, Houston, TX
+- Contributed to the development of software applications in Java and Python, enhancing the functionality and user experience.
+- Conducted extensive automated testing and debugging, ensuring optimal performance and minimizing errors.
+- Collaborated effectively with cross-functional teams, actively contributing to successful product launches.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Mentor, Latinx in Tech Association, Houston, TX
+- Guided and mentored aspiring Latinx students pursuing careers in technology, providing valuable insights and resources to support their journeys in the industry.
+- Assisted students with resume building, interview preparation, and networking opportunities, ultimately empowering them to succeed.
+
+Sports Leadership Role, Houston Soccer United, Houston, TX
+- Served as a team leader in Houston Soccer United, overseeing team coordination, fostering camaraderie, and promoting skill development.
+- Organized training sessions and motivated team members, driving a competitive and inclusive environment.
+
+Hobbies:
+- Playing the guitar and composing music
+- Participating in local music festivals and events, showcasing diverse cultural influences through music and art
+- Exploring different cultures through travel and experiencing various cuisines
+
+Languages:
+Fluent in English and Spanish
+
+References available upon request.

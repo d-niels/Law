@@ -1,0 +1,51 @@
+Wenceslao Fuentes
+1234 Software Engineer Way
+Dallas, Texas 56789
+Phone: (555) 123-4567
+Email: w.fuentes@email.com
+
+Personal Statement:
+Dedicated and detail-oriented Software Engineer with a passion for creating innovative and efficient software solutions. Skilled in programming languages such as Java, Python, C#, and JavaScript, as well as database technologies such as SQL and NoSQL. Committed to continuous learning and staying up-to-date with the latest industry trends. Seeking a challenging role as a Software Engineer in a dynamic organization to contribute my technical expertise and drive impactful change.
+
+Education:
+Bachelor of Science in Computer Science, GPA: 3.9
+Texas State University, San Marcos, Texas
+Graduation Date: May 20XX
+
+Work Experience:
+Software Engineer Intern, TechnoLogic Solutions
+Dallas, Texas
+June 20XX - August 20XX
+- Collaborated with a team to develop an e-commerce platform, utilizing Python for server-side scripting and SQL for database management.
+- Implemented secure payment gateways and integrated error tracking systems to ensure smooth and error-free transactions.
+- Developed and maintained SQL queries to optimize performance and ensure data integrity.
+- Assisted in debugging and resolving issues related to the platform's functionality and user experience.
+
+Software Engineering Intern, Digital Innovations
+Dallas, Texas
+May 20XX - August 20XX
+- Participated in software development projects, utilizing Java and NoSQL database for a high-performance, scalable web application.
+- Conducted automated testing to identify and resolve software defects and improve overall system functionality.
+- Collaborated with cross-functional teams to understand project requirements, design system architecture, and develop clean, efficient code.
+- Utilized debugging tools and techniques to identify and fix software errors, ensuring smooth application operation.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active member and sports leader in a local Latino community organization, organizing soccer tournaments and promoting inclusivity and diversity among different ethnicities.
+- Led a team of individuals in organizing and managing a community soccer tournament, fostering teamwork and promoting cultural exchange.
+
+Hobbies:
+- Playing the guitar and incorporating Latin music influences into my compositions, showcasing my cultural heritage and passion for music.
+- Exploring diversity and inclusivity in various recreational activities, such as hiking and photography, while appreciating the mosaic of cultures that Texas offers.
+
+Languages:
+- English (Fluent)
+- Spanish (Fluent)
+
+References available upon request.

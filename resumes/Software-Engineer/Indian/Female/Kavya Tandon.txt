@@ -1,0 +1,41 @@
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a strong passion for developing innovative solutions. Dedicated to leveraging my technical expertise and problem-solving skills to drive efficiency and enhance user experiences. Thrive in fast-paced environments, collaborating effectively in cross-functional teams to meet project goals and objectives. Committed to promoting diversity and inclusion in the tech industry.
+
+Education:
+Bachelor of Science in Computer Science
+Atlanta Technical University, Atlanta, Georgia
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | TechNova Solutions
+Atlanta, Georgia | July 2018 - Present
+- Developed and maintained secure payment systems using Java, Python, and automated testing tools.
+- Collaborated with cross-functional teams to ensure accurate and efficient financial transactions.
+- Conducted troubleshooting and debugging to resolve issues related to payment processing.
+
+Software Developer | CyberTech Solutions
+Atlanta, Georgia | August 2016 - June 2018
+- Designed and implemented scalable database solutions using SQL and NoSQL technologies.
+- Utilized error tracking and debugging techniques to identify and resolve issues in the e-commerce platform.
+- Collaborated with the development team to improve overall system functionality and performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active volunteer in community organizations, promoting diversity in technology and supporting underrepresented groups.
+- Held a leadership role as the captain of a championship-winning softball team, promoting teamwork and fostering inclusion.
+
+Hobbies:
+- Playing the tabla, a traditional Indian percussion instrument.
+- Engaging in outdoor activities such as hiking and cycling.
+- Participating in cultural events and exploring diverse art forms.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Spanish (Basic conversational)

@@ -1,0 +1,39 @@
+Vernon Greene
+
+Personal Statement:
+Highly motivated and results-driven software engineer with a passion for creating innovative solutions. A black male from Memphis, Tennessee, I am dedicated to championing diversity and inclusivity in the tech industry. With a bachelor's degree in computer science and a strong academic record from Monroe University, I am equipped with the skills and knowledge necessary to excel in the role of a software engineer. Seeking to utilize my expertise in debugging, secure payments, SQL, NoSQL, error tracking, ecommerce, and automated testing to contribute to a dynamic software development team.
+
+Education:
+Bachelor of Science in Computer Science | Monroe University, Memphis, Tennessee
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer | TechCore Solutions, Memphis, Tennessee
+- Developed and implemented secure payment systems, utilizing SQL and NoSQL databases.
+- Utilized debugging techniques and tools to identify and resolve software issues.
+- Collaborated with cross-functional teams to deliver high-quality software solutions.
+
+Software Developer | IntelliSoft, Memphis, Tennessee
+- Integrated error tracking systems into existing applications, improving overall efficiency.
+- Contributed to the development of an ecommerce platform, implementing Java and Python programming languages.
+- Conducted automated testing to ensure software functionality and reliability.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion within the tech industry, advocating for greater representation of black engineers.
+- Served as a basketball coach and mentor, leading the team to multiple championships, instilling discipline and teamwork.
+
+Hobbies:
+- Playing the guitar to unwind and express creativity.
+- Engaging in various forms of art, such as painting and sculpting, to explore cultural identity and foster self-expression.
+- Participating in community outreach programs focused on empowering underrepresented individuals.
+
+Languages:
+- English (Fluent)
+- French (Proficient)

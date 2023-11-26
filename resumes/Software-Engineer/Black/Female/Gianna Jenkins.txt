@@ -1,0 +1,41 @@
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a passion for creating efficient and innovative software solutions. Dedicated to continuously learning and implementing the latest technologies to develop robust and user-friendly applications. Committed to contributing to diversity in the tech industry and using my skills to make a positive impact on society.
+
+Education:
+Bachelor of Science in Computer Science
+Ohio City University, Columbus, Ohio
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer - Stellar Innovations, Columbus, Ohio
+- Debugged and resolved software issues, improving overall system performance.
+- Tracked and identified errors through thorough analysis and testing.
+- Utilized SQL and NoSQL databases to optimize data storage and retrieval.
+- Collaborated with cross-functional teams to develop and implement new features and enhancements.
+
+Software Engineer Intern - QuantumTech Solutions, Columbus, Ohio
+- Developed secure payment systems for e-commerce applications.
+- Utilized Python to build efficient and scalable solutions.
+- Implemented automated testing procedures, reducing time and effort required for quality assurance.
+- Utilized Java to enhance existing applications and develop new features.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Girls Who Code Mentor: Guided and inspired young girls from diverse backgrounds to explore the field of computer science, promoting diversity and inclusivity in technology.
+- President, Women in Tech Student Association: Organized events and workshops to empower and support female students pursuing careers in technology.
+- Basketball Team Captain: Served as captain of the university's basketball team, fostering teamwork and leadership skills among a diverse group of athletes.
+
+Hobbies:
+- Playing the saxophone, showcasing my artistic and creative side.
+- Engaging in community outreach programs to empower underrepresented communities.
+- Exploring different cultures through travel and learning about diverse traditions and customs.
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)

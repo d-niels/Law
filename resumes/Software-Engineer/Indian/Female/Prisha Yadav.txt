@@ -1,0 +1,39 @@
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a strong passion for problem-solving and creating efficient solutions. Seeking a challenging role that allows me to utilize my technical skills and experience to contribute to the development of innovative software solutions.
+
+Education:
+Bachelor of Computer Science, XYZ University, San Francisco, California
+- Graduated with a 3.9 GPA
+
+Work Experience:
+1. Software Engineer Intern, InnovateTech Solutions, San Francisco, California
+- Developed and maintained an e-commerce platform, ensuring seamless user experience and efficient order processing
+- Utilized SQL to analyze database performance and optimize queries
+- Implemented error tracking mechanisms to identify and resolve software bugs
+- Leveraged Python for scripting and automation tasks
+
+2. Junior Software Engineer, NexGen Systems, San Francisco, California
+- Collaborated with a team to debug and fix software issues in a large-scale Java-based application
+- Utilized NoSQL databases to design and develop secure payment systems
+- Implemented automated testing strategies to ensure software reliability
+- Assisted in the development of new features and enhancements using Java
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity in technology as an Indian female software engineer, advocating for inclusion and equal opportunities
+- Led a basketball team as a captain, fostering teamwork, communication skills, and strategic thinking within a diverse group of players
+
+Hobbies:
+- Playing the guitar, reflecting my passion for music and creativity
+- Engaging in cultural events and activities, embracing my Indian heritage and celebrating diversity
+
+Languages:
+- English (fluent)
+- Hindi (fluent)
+- Additional languages: Gujarati (intermediate level)

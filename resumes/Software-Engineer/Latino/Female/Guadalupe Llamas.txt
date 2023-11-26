@@ -1,0 +1,53 @@
+Guadalupe Llamas
+123 Main Street, Albuquerque, NM 87101 | (555) 123-4567 | guadalupellamas@email.com
+
+Personal Statement:
+Motivated and talented software engineer with a passion for innovation and problem-solving. As a proud Latina from Albuquerque, New Mexico, I bring a unique perspective and a strong drive to contribute to the tech industry. With a Bachelor's degree in Computer Science and a track record of success, I am eager to leverage my skills and expertise to deliver high-quality software solutions.
+
+Education:
+Bachelor of Science in Computer Science
+University of New Horizon, Albuquerque, NM
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, VisionTech Solutions, Albuquerque, NM
+June 2018 - Present
+- Developed and maintained software applications using Python and Java.
+- Implemented error tracking and automated testing to ensure code quality.
+- Collaborated with cross-functional teams to deliver efficient and scalable solutions.
+
+Junior Software Engineer, Dynamic Systems, Albuquerque, NM
+May 2017 - May 2018
+- Designed and implemented secure payment systems using NoSQL and SQL databases.
+- Debugged and resolved complex technical issues to enhance user experience.
+- Contributed to the development of an e-commerce platform for seamless online transactions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Board Member, Hispanic Women in Technology Association
+- Actively contribute to the growth and empowerment of Hispanic women in the tech industry.
+- Organize and lead workshops and events to promote diversity and inclusivity.
+- Mentor and support aspiring female software engineers.
+
+Sports Leadership:
+Team Captain, University of New Horizon Women's Tennis Team
+- Led a diverse team of players to victory in the Intercollegiate Tennis Championships.
+- Focused on fostering a supportive and collaborative environment for the team's success.
+- Developed strategic game plans, organized team practices, and provided guidance to teammates.
+
+Hobbies:
+- Playing the guitar
+- Participating in cultural dance performances
+- Exploring and appreciating diverse art forms
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+Reference available upon request.

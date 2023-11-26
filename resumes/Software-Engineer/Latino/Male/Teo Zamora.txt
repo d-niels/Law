@@ -1,0 +1,46 @@
+Teo Zamora
+San Jose, California | (555) 123-4567 | teozamora@email.com
+
+Personal Statement:
+Highly motivated and results-driven software engineer with a passion for developing efficient and secure applications. Experienced in automated testing, secure payments, debugging, and error tracking. Committed to delivering quality software solutions with a focus on user experience. Excited to leverage my skills and knowledge to contribute to innovative projects as a Software Engineer.
+
+Education:
+Bachelor of Science in Computer Science, Bayshore University, San Francisco, CA
+- Graduated with a 3.9 GPA
+- Relevant coursework: Data Structures, Algorithms, Software Engineering, Database Systems
+
+Work Experience:
+Software Engineer, Quantum Labs, San Jose, CA
+June 2018 - Present
+- Developed and implemented automated testing protocols, significantly reducing testing time by 45% and ensuring software reliability
+- Collaborated with cross-functional teams to create secure payment systems, leading to seamless transactions for customers
+- Conducted thorough debugging and error tracking, identifying and resolving critical issues promptly to enhance software performance
+
+Junior Software Engineer, Nova Inc., San Francisco, CA 
+January 2017 - May 2018
+- Utilized Java and SQL to design and develop e-commerce applications, enabling efficient online shopping experiences for customers
+- Worked with NoSQL databases to optimize data storage and retrieval, improving system performance by 20%
+- Contributed to the development of Python scripts for data analysis, automating data processing and enhancing efficiency
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latinx in Tech, San Jose Chapter
+- Active member promoting diversity and inclusion in the tech industry
+- Organized workshops and networking events to foster connections and provide resources for underrepresented individuals
+- Served as a soccer team captain and coach for Hispanic youth, emphasizing teamwork and leadership skills
+
+Hobbies:
+- Playing the guitar and composing music
+- Exploring Latin American cultures and histories
+- Participating in community theater groups
+
+Languages:
+Fluent in English and Spanish
+
+References available upon request.

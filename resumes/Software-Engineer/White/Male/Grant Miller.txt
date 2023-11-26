@@ -1,0 +1,44 @@
+Grant Miller
+
+Personal Statement:
+Motivated and versatile software engineer with a passion for problem-solving and creating innovative solutions. Committed to delivering high-quality software products while continuously learning and adapting to industry trends. Excited to contribute my skills and experience to a dynamic software development team.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+Austin Tech University, Austin, Texas
+
+Work Experience:
+Software Engineer | ZenTech Solutions, Austin, Texas | July 2018 - Present
+- Developed and maintained Python-based applications, ensuring efficient error tracking and monitoring.
+- Utilized NoSQL databases for data storage and retrieval, optimizing system performance.
+- Implemented automated testing processes, resulting in improved software quality and reduced debugging time.
+
+Junior Software Engineer | SparkCommerce, Austin, Texas | May 2017 - July 2018
+- Collaborated with an agile development team to design and develop an ecommerce platform using Java.
+- Utilized SQL for database management, ensuring data consistency and efficient querying.
+- Conducted thorough debugging to identify and resolve software issues, ensuring smooth system functionality.
+- Implemented secure payment systems and integrated third-party payment gateways for seamless transactions.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Member, Society of Hispanic Software Engineers | Austin, Texas
+- Actively contribute to increasing diversity and inclusion in the tech industry.
+- Organize and participate in community outreach programs, promoting STEM education opportunities for underrepresented groups.
+
+Sports Leadership Role | Basketball Team Captain
+- Led a diverse team of athletes, fostering teamwork, discipline, and sportsmanship.
+- Managed team strategies, coordinated practices, and facilitated effective communication.
+
+Hobbies:
+- Playing the guitar
+- Exploring different cultures and traditions
+- Learning about world history and ancient civilizations
+
+Languages:
+Fluent in English and Spanish

@@ -1,0 +1,41 @@
+SARA ORTIZ
+
+Personal Statement:
+Results-driven software engineer with a passion for utilizing innovative technologies to develop efficient and user-friendly software solutions. Committed to delivering high-quality code and constantly expanding knowledge in the field. Experienced in Python, Java, SQL, and NoSQL databases. Dedicated team player with exceptional problem-solving abilities and strong analytical skills.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Jose, California (GPA: 3.9)
+
+Work Experience:
+
+Software Engineer, TechnoGenix, San Jose, CA (2018-2020)
+- Developed and maintained Python-based ecommerce applications, ensuring smooth functionalities and efficient error tracking.
+- Utilized SQL for database management and optimization to enhance the performance of the applications.
+- Collaborated with cross-functional teams to gather requirements and design software solutions to meet client needs effectively.
+
+Software Engineer Intern, InnovateTech, San Francisco, CA (Summer 2017)
+- Participated in the design and development of secure payment systems using Java, providing a seamless experience for customers.
+- Implemented automated testing procedures to enhance software quality and product reliability.
+- Utilized NoSQL databases for efficient data storage and retrieval.
+- Assisted in debugging and resolving software issues to ensure the delivery of bug-free applications.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Served as a role model for young Latina girls in the San Jose community, promoting diversity and inclusion in the sport of basketball.
+- Actively involved in organizing tech events and workshops to inspire and encourage underrepresented minorities and women to pursue careers in software engineering.
+
+Hobbies:
+- Playing the guitar and trumpet
+- Exploring various art forms that celebrate the rich Latino culture and heritage
+
+Languages:
+- English (Fluent)
+- Spanish (Native)
+
+Note: This resume is a fictional representation of a software engineer resume for Sara Ortiz based on the provided information. The names of the university and companies have been changed for storytelling purposes.

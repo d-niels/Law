@@ -1,0 +1,41 @@
+HENRY BAKER
+Madison, Wisconsin | (555) 123-4567 | henrybaker@email.com
+
+PERSONAL STATEMENT
+Innovative and results-driven software engineer with a passion for leveraging technology to develop cutting-edge solutions. Equipped with a strong understanding of programming languages, database technologies, and problem-solving techniques. Committed to delivering high-quality software products and exceeding customer expectations. Excited to contribute expertise in software development to drive success in a challenging software engineer role.
+
+EDUCATION
+Bachelor of Science in Computer Science
+Madison University, Madison, WI
+GPA: 3.9/4.0
+
+WORK EXPERIENCE
+Software Engineer | InnovateTech Solutions, Madison, WI | July 2018 - Present
+- Utilized NoSQL and automated testing methodologies to develop a scalable ecommerce system, resulting in a 30% increase in online sales.
+- Implemented error tracking and monitoring solutions to identify and resolve software defects, resulting in a 20% reduction in system errors.
+- Collaborated with cross-functional teams to ensure seamless integration of software components and streamline development processes.
+
+Software Developer | TechGenius, Madison, WI | May 2017 - June 2018
+- Developed secure payment processing modules using Java and Python, ensuring adherence to industry standards and minimizing risk.
+- Leveraged SQL and debugging tools to optimize query performance, leading to a 25% improvement in application response time.
+- Worked closely with QA teams to analyze and resolve reported software defects in a timely manner.
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+Volunteer, Madison Software Development Community | January 2019 - Present
+- Actively contribute to the Madison Software Development Community by sharing knowledge, participating in discussions, and mentoring aspiring engineers.
+
+Soccer Team Captain, Madison United Soccer Club | January 2018 - Present
+- Led the Madison United Soccer Club team to multiple victories, overseeing team strategies, fostering camaraderie, and mentoring younger players.
+
+HOBBIES
+Playing the guitar, photography, and exploring different cultures through travel. Passionate about promoting diversity and equality in the tech industry.
+
+LANGUAGES
+Fluent in English and Spanish.

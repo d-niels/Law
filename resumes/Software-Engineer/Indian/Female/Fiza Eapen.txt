@@ -1,0 +1,32 @@
+Personal Statement:
+Motivated and highly skilled software engineer with a passion for problem-solving and a strong background in computer science. Committed to creating innovative software solutions and enhancing user experiences. Thrives in collaborative environments and possesses excellent communication skills. Dedicated to continuous learning and staying up-to-date with the latest industry trends.
+
+Education:
+Bachelor of Science in Computer Science, University of Southern California, Los Angeles, CA
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Stellar Technologies, Los Angeles, CA
+- Developed secure payment systems and ecommerce solutions using NoSQL and SQL databases
+- Collaborated with cross-functional teams to optimize software performance
+- Ensured adherence to industry best practices in software development processes
+- Conducted regular code reviews and assisted in debugging and problem-solving
+
+Software Engineer Intern, NovaTech Solutions, Los Angeles, CA
+- Utilized Python for automated testing and error tracking
+- Assisted in debugging and resolving software issues
+- Implemented Java code for efficient software execution
+- Collaborated with team members to improve software functionalities
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As an Indian female in the tech industry, I am passionate about promoting diversity and inclusivity. I actively participate in initiatives aimed at encouraging underrepresented groups to pursue careers in technology. Additionally, I am a sports leader in the field of basketball, serving as the captain of my local team. Through this role, I promote teamwork, sportsmanship, and empowerment within our community.
+
+Hobbies:
+In my free time, I enjoy playing the violin, using its harmonious melodies to express my creativity. I also actively engage with various social groups and forums that celebrate diversity and advocate for gender equality.

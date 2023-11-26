@@ -1,0 +1,49 @@
+Personal Statement
+
+As a dedicated software engineer, I am passionate about utilizing my skills and expertise to contribute to the ever-evolving world of technology. With a bachelor's degree in computer science and a strong academic background, I am confident in my ability to develop innovative solutions and contribute to the success of any organization. As a black male hailing from Detroit, Michigan, I am committed to embracing diversity and creating inclusive environments within the tech industry.
+
+Education
+
+Bachelor of Science in Computer Science, Detroit Institute of Technology, Detroit, Michigan
+GPA: 3.9/4.0
+- Relevant coursework: Data Structures, Algorithm Design, Software Engineering
+
+Work Experience
+
+Software Engineer, TechnoVision Inc., Detroit, Michigan
+[Dates]
+
+- Developed and maintained database structures utilizing NoSQL and SQL, ensuring efficient data management and retrieval.
+- Utilized Java to design and implement software applications, resulting in streamlined processes.
+- Conducted automated testing to identify and solve software bugs and issues, increasing system stability and user satisfaction.
+
+Software Engineer Intern, CyberLogic Solutions, Detroit, Michigan
+[Dates]
+
+- Collaborated with cross-functional teams to debug and troubleshoot software issues, enhancing overall system performance.
+- Utilized Python to develop secure payment systems, ensuring smooth transaction processes and customer satisfaction.
+- Implemented error tracking mechanisms to identify and rectify software bugs, resulting in a more efficient and user-friendly ecommerce platform.
+
+Skills
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership
+
+- Actively promote diversity and inclusivity within the tech industry, using my platform to encourage people of color and underrepresented communities to pursue careers in technology.
+- Served as a basketball team captain, fostering unity and teamwork within the basketball community while inspiring young athletes to develop their skills and pursue their passions.
+
+Hobbies
+
+- Playing the piano to relax and unwind, embracing the beauty and expression of music.
+- Participating in cultural events and engaging in conversations that celebrate diversity and explore different perspectives.
+
+Languages
+
+- Fluent in English and proficient in Spanish.
+
+References available upon request.

@@ -1,0 +1,42 @@
+Personal Statement:
+As a dedicated and passionate software engineer, I am driven by my curiosity to explore cutting-edge technologies and find innovative solutions to complex problems. I am particularly interested in combining my programming skills with my cultural background as a Chinese male from Honolulu, Hawaii, to create inclusive and diverse software products. With a strong educational background in computer science and industry experience, I am confident in my ability to excel in a software engineering role.
+
+Education:
+Bachelor of Science in Computer Science, Pacific Tech University, Honolulu, Hawaii
+GPA: 3.9/4.0
+- Relevant coursework: Data Structures, Algorithms, Software Engineering, Operating Systems, Object-Oriented Programming, Web Development
+
+Work Experience:
+Software Engineer - TechIntel Solutions, Honolulu, Hawaii
+- Developed Python-based ecommerce platforms, implementing robust error tracking and secure payment systems.
+- Collaborated with cross-functional teams to analyze and enhance system performance, resulting in a 10% increase in customer satisfaction.
+- Contributed to the development and maintenance of scalable and efficient codebases.
+
+Software Engineer Intern - NovaSoft Technologies, Honolulu, Hawaii
+- Demonstrated strong debugging and problem-solving skills while working with SQL, Java, and NoSQL databases.
+- Assisted in designing and implementing automated testing strategies, reducing software defects by 20%.
+- Collaborated with the team to implement code review processes and improve software development practices.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer Chinese Language Tutor - Honolulu Community Center, Honolulu, Hawaii
+- Provided free language tutoring services to members of the local community, facilitating cultural exchange and inclusion.
+
+Sports Leadership - Honolulu Chinese Association Basketball League, Honolulu, Hawaii
+- Led a basketball team composed of players from diverse backgrounds, promoting teamwork, respect, and a sense of community.
+- Organized practices and competitions, fostering a supportive and inclusive environment for all team members.
+
+Hobbies:
+- Playing the guzheng (a Chinese musical instrument) to connect with my cultural heritage
+- Exploring different cultures through traveling and experiencing diverse traditions
+- Supporting gender and ethnic diversity in technology through participation in networking events and conferences
+
+Languages:
+- English: Fluent
+- Chinese (Mandarin): Native proficiency

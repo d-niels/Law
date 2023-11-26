@@ -1,0 +1,41 @@
+Personal Statement:
+I am a determined and driven software engineer with a genuine passion for computer science. As a Chinese female hailing from San Jose, California, I bring a unique perspective to the field. With a strong academic background and practical experience, I am adept at finding innovative solutions to complex problems. I strive for excellence in everything I do and am excited to contribute my skills and expertise to the world of software engineering.
+
+Education:
+Bachelor of Science in Computer Science, Silicon Valley University, San Francisco, CA (GPA: 3.9)
+
+Work Experience:
+
+Software Engineer, InnovateSoft Solutions, San Jose, CA
+- Developed and maintained Python-based applications for automated testing of secure payment systems.
+- Utilized debugging techniques to identify and resolve software defects, ensuring the reliability of payment solutions.
+- Collaborated with cross-functional teams to deliver seamless and secure payment experiences to clients.
+
+Software Engineer Intern, TechMaster Corporation, Palo Alto, CA
+- Assisted in the development of an e-commerce platform using Java and NoSQL databases.
+- Leveraged SQL for efficient data manipulation and extraction, facilitating error tracking and analysis.
+- Worked closely with the team to enhance system scalability and performance for optimal user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Mentored and supported aspiring female computer science students at Silicon Valley University, fostering diversity and inclusion in the field.
+- Led the university's soccer team as the captain, organizing practices and matches, promoting teamwork and leadership on and off the field.
+- Actively participated in tech industry conferences, workshops, and volunteer initiatives to advocate for gender diversity and cultural appreciation.
+
+Hobbies:
+- Playing the Erhu, a traditional Chinese musical instrument, expressing my cultural heritage through music.
+- Engaging in various sports activities, including soccer, basketball, and hiking, to maintain a healthy and active lifestyle.
+- Exploring different cultures through international cuisine, art, and festivals, broadening my perspective and appreciation for diversity.
+
+Languages:
+- English (fluent)
+- Mandarin Chinese (native)
+
+References:
+Available upon request.

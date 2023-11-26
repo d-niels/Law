@@ -1,0 +1,54 @@
+SHAN HONG
+
+Personal Statement:
+Focused and determined software engineer with a strong passion for problem-solving and a proven track record of developing innovative solutions. Skilled in multiple programming languages and well-versed in database technologies. Eager to contribute my technical expertise and experience to drive success as a software engineer.
+
+Education:
+Bachelor of Science in Computer Science
+Sunlight University, Houston, Texas
+
+- GPA: 3.9
+
+Work Experience:
+Software Engineer - Stellar Innovations, Houston, Texas
+January 2018 - Present
+
+- Spearheaded the development and maintenance of Python-based ecommerce platforms, ensuring seamless functionality and exceptional user experience.
+- Troubleshot and resolved critical software issues, utilizing advanced debugging techniques to deliver error-free system operation.
+- Tracked errors and monitored system performance using industry-leading analytics tools, resulting in proactive issue resolution.
+- Collaborated with cross-functional teams to deliver high-quality software products within aggressive project timelines.
+
+Software Engineer - Quantum Technologies, Houston, Texas
+June 2016 - December 2017
+
+- Leveraged NoSQL databases to design and deploy scalable and efficient data structures, optimizing performance for large-scale applications.
+- Conducted automated testing procedures to ensure system reliability and functionality, implementing robust testing frameworks.
+- Utilized SQL to optimize database queries, enhancing data retrieval efficiency for improved user experience.
+- Developed secure payment gateways for online transactions, prioritizing user privacy and data security.
+- Crafted Java-based applications, adhering to industry best practices for code quality and system performance.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Chinese American Association, Houston, Texas
+- Actively promoted cultural diversity and integration within the community, fostering unity among different cultures.
+- Organized various events to celebrate Chinese festivals and traditions, showcasing the richness of Chinese heritage.
+- Served as the team captain of a basketball team, leading and coordinating sports activities.
+- Mentored a team of athletes, instilling discipline and teamwork to achieve success in basketball tournaments.
+
+Hobbies:
+- Playing the guzheng, a traditional Chinese musical instrument, and specializing in melodic compositions.
+- Exploring different cultures through literature and immersive travel experiences.
+- Engaging in outdoor activities such as hiking and cycling to promote an active and healthy lifestyle.
+- Actively participating in community service initiatives to give back to society.
+
+Languages:
+- English (Fluent)
+- Mandarin Chinese (Native)
+
+References available upon request.

@@ -1,0 +1,37 @@
+Personal Statement:
+Dedicated and innovative software engineer with a passion for problem-solving and creating efficient solutions. Committed to delivering high-quality, scalable software that exceeds user expectations. With a strong background in computer science, coupled with extensive work experience, I am confident in my ability to contribute to the success of any software engineering team.
+
+Education:
+Bachelor of Science in Computer Science, Washington Tech University, Washington, DC
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Stellar Innovations, Washington, DC
+- Collaborated with a team of developers to track errors and debug issues in software applications.
+- Utilized NoSQL databases and implemented efficient data management strategies.
+- Proficient in Java programming language to develop robust and reliable software solutions.
+
+Software Developer, Quantum Software Solutions, Washington, DC
+- Developed SQL queries to extract data and generate reports for e-commerce platforms.
+- Utilized Python programming language for automating testing processes, ensuring software quality.
+- Enhanced secure payment systems by implementing rigorous security measures.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As an Indian female software engineer from Washington, DC, I am passionate about supporting diversity in the tech industry. I have actively participated in various volunteer activities and taken leadership roles where I promote inclusivity and gender equality. Additionally, as a leader in the local soccer league, I foster teamwork and promote diversity both on and off the field.
+
+Hobbies:
+In my spare time, I enjoy playing the flute, a traditional Indian musical instrument, which allows me to connect with my cultural heritage. I also actively engage in various outdoor activities, such as hiking and swimming.
+
+Languages:
+- English (Fluent)
+- Hindi (Fluent)
+- Punjabi (Conversational)
+
+Note: The names of the university and companies, as well as the specific roles, are fictional and used for illustrative purposes.

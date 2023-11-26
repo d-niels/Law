@@ -1,0 +1,38 @@
+Personal Statement:
+I am a dedicated and driven software engineer with a passion for creating efficient, high-quality software solutions. With a strong background in computer science, I possess the technical expertise and analytical skills necessary to succeed in this role. I am committed to continuously expanding my knowledge and staying up-to-date with the latest industry trends. As a detail-oriented problem solver, I thrive in fast-paced environments and work well both independently and collaboratively. My diverse background and leadership abilities allow me to bring a unique perspective to the table.
+
+Education:
+Bachelor of Science in Computer Science
+ABC University, Philadelphia, Pennsylvania
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer | TechnoMinds Solutions, Philadelphia, PA
+- Collaborated with the development team to automate testing procedures for an innovative e-commerce platform
+- Utilized SQL to manage and manipulate databases for secure payment processing
+- Conducted extensive testing and troubleshooting to ensure reliable and efficient software performance
+
+Software Developer | ByteBusters Corporation, Philadelphia, PA
+- Developed and maintained a large-scale NoSQL-based system using Python and Java for a cutting-edge application
+- Utilized debugging tools and advanced error tracking mechanisms to identify and resolve issues efficiently
+- Implemented new features and optimized existing code for superior performance
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Led the Women in Technology organization's efforts to promote diversity and inclusion in the tech industry
+- Served as a team captain for a local basketball team, promoting gender equality and fostering teamwork within the community
+
+Hobbies:
+- Playing the violin, showcasing my love for music and the arts
+- Participating in cultural dance performances, celebrating my Indian heritage
+- Engaging in outdoor activities such as hiking and cycling, promoting a healthy and active lifestyle
+
+Languages: Fluent in English and Hindi
+
+References available upon request.

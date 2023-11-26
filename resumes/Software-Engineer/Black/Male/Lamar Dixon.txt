@@ -1,0 +1,42 @@
+Lamar Dixon
+
+Personal Statement:
+As a dedicated and driven software engineer, I am passionate about creating cutting-edge technology solutions. With a strong foundation in computer science and an unwavering commitment to diversity and inclusion, I strive to make a positive impact in the tech industry. By leveraging my skills and unique perspectives, I aspire to contribute to the development of innovative software that solves real-world problems.
+
+Education:
+Bachelor of Science in Computer Science, Chicago Metropolitan University, Chicago, Illinois
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, NexusTech Innovations, Chicago, Illinois
+- Led the development of a robust ecommerce platform with secure payment functionalities, utilizing NoSQL and Java.
+- Collaborated closely with interdisciplinary teams to ensure seamless integration of backend systems and an exceptional user experience.
+- Designed and maintained databases to efficiently manage large volumes of user data.
+
+Software Engineer, PyroSolutions, Chicago, Illinois
+- Leveraged Python, SQL, and automated testing to create highly efficient software solutions.
+- Implemented advanced debugging techniques and comprehensive error tracking systems, enhancing software reliability.
+- Collaborated with clients to identify and address software issues promptly, ensuring seamless functionality and customer satisfaction.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Passionate about promoting diversity and inclusion in the tech industry, I actively organize industry-wide initiatives and events to empower underrepresented communities.
+- As a sports team leader in basketball, I inspire and mentor athletes, fostering an inclusive and supportive environment for everyone.
+- Dedicated volunteer in local community service projects, contributing to the betterment of various social causes.
+
+Hobbies:
+- Showcasing my creativity and love for music through playing the saxophone.
+- Exploring and embracing different cultures, expanding my understanding and appreciation for diversity.
+- Engaging in outdoor activities, such as hiking and tennis, to maintain an active and healthy lifestyle.
+
+Languages:
+- English (Fluent)
+- Spanish (Intermediate)
+
+References available upon request.

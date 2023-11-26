@@ -1,0 +1,39 @@
+Aaliyah Vaughn
+
+Personal Statement:
+As an ambitious and dedicated software engineer, I strive to make a difference in the tech industry through innovative problem-solving and creative thinking. Born and raised in Memphis, Tennessee, I bring a unique perspective as a black female, ready to challenge stereotypes and break barriers. With a passion for building user-centric software solutions, I am committed to learning and adapting to new technologies while collaborating with diverse teams to drive impactful results.
+
+Education:
+Bachelor of Science in Computer Science, Memphis University, Memphis, Tennessee
+GPA: 3.9 / 4.0
+
+Work Experience:
+Software Engineer, StellarTech Solutions, Memphis, Tennessee
+- Developed and maintained cutting-edge ecommerce applications using Java, ensuring smooth and secure transactions for customers.
+- Integrated error tracking tools to efficiently identify and resolve issues, enhancing software reliability and user satisfaction.
+- Implemented automated testing strategies to improve software quality and minimize bugs.
+
+Software Engineering Intern, TechGenius, Memphis, Tennessee
+- Collaborated with a cross-functional team to create secure payment systems using SQL and NoSQL databases, ensuring data integrity.
+- Debugged and resolved software issues promptly to maintain optimal system performance, utilizing Python and effective debugging techniques.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in championing diversity and inclusivity in the tech industry, advocating for underrepresented communities, such as black female engineers, through mentorship and educational programs.
+- Served as a leadership figure in basketball, leading and coaching a youth basketball team, fostering teamwork, discipline, and personal growth.
+
+Hobbies:
+- Playing the piano to express creativity and find solace.
+- Participating in community initiatives that celebrate cultural diversity and empower women in technology.
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)
+
+References available upon request.

@@ -1,0 +1,41 @@
+Mateo Trevino
+
+Personal Statement:
+A dedicated and highly motivated software engineer with a strong passion for developing innovative solutions. With a solid educational background in computer science and practical experience in various programming languages, I am committed to delivering high-quality software products. As a Latino male, I bring a diverse perspective to the tech industry and thrive in multicultural environments. I am driven by a desire to promote inclusion and diversity within the field.
+
+Education:
+Bachelor of Science in Computer Science
+Nevada State University, Las Vegas, NV
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, GammaTech Solutions, Las Vegas, NV
+- Developed and maintained robust SQL databases for error tracking and secured payment systems in an advanced ecommerce platform.
+- Collaborated with cross-functional teams to ensure seamless functionality and an optimal user experience.
+- Utilized expertise in SQL to optimize database performance and reduce query execution time.
+
+Junior Software Developer, Momentum Software Solutions, Las Vegas, NV
+- Worked on Java-based software projects, performing debugging and enhancing user interfaces.
+- Gained proficiency in NoSQL databases and implemented efficient data storage solutions.
+- Developed and conducted automated testing procedures to ensure software accuracy and reliability.
+- Utilized Python for scripting tasks and workflow improvement.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Basketball Team Captain: Led and mentored a local community basketball team, organizing practices and fostering teamwork and sportsmanship.
+- Promoted diversity and inclusion in the tech industry, actively participating in community discussions and initiatives.
+
+Hobbies:
+- Playing the piano and incorporating Latino music influences into my compositions.
+- Actively exploring and supporting Latino and gender-inclusive artists, writers, and content creators.
+- Engaging in outdoor activities such as hiking and soccer, embracing Nevada's natural beauty.
+
+Languages:
+- English (Fluent)
+- Spanish (Native)

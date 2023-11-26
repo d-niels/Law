@@ -1,0 +1,46 @@
+Personal Statement:
+
+I am a highly motivated software engineer with a strong passion for developing innovative solutions. As a Chinese female hailing from Honolulu, Hawaii, I bring a unique perspective to the tech industry. With a bachelor's degree in Computer Science and a GPA of 3.9, obtained from the prestigious Pacific Technology University, I have a solid foundation in programming and problem-solving. I am thrilled to contribute my skills and unwavering dedication to a challenging software engineering role.
+
+Education:
+
+Bachelor of Science in Computer Science, Pacific Technology University, Honolulu, Hawaii (GPA: 3.9)
+
+Work Experience:
+
+Software Engineer, QuantumTech Solutions, Honolulu, Hawaii
+- Employed automated testing techniques to ensure the quality and stability of software products
+- Proficient in Python programming for developing robust test scripts and integration tools
+- Demonstrated strong debugging skills to identify and resolve complex software issues
+- Contributed to the development of Java applications and improvement of software systems
+
+Software Developer, Elysium Systems, Honolulu, Hawaii
+- Collaborated on developing and maintaining scalable NoSQL databases for secure payment and e-commerce applications
+- Utilized SQL for efficient data management and retrieval
+- Implemented cutting-edge error tracking systems to identify and address bugs promptly
+- Fostered cross-functional collaboration to deliver high-quality solutions
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+- Embracing my Chinese heritage, I actively participate in cultural events and serve as a mentor for Chinese students at Pacific Technology University, promoting diversity and inclusivity.
+- As a sports enthusiast, I have held a leadership role as the team captain of the university's women's volleyball team, fostering teamwork, discipline, and sportsmanship.
+
+Hobbies:
+
+Aside from my passion for coding, I find solace and joy in playing the traditional Chinese instrument, guzheng, which allows me to embrace my cultural roots. I also appreciate various forms of art, including Chinese calligraphy, where I can express my creativity. Additionally, I find inspiration in exploring different cultures, visiting historical landmarks, and engaging in outdoor activities like hiking and photography.
+
+Languages:
+
+- English (Fluent)
+- Mandarin Chinese (Native)
+- Cantonese (Conversational)
+
+References available upon request.

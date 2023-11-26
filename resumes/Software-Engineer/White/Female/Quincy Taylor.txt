@@ -1,0 +1,32 @@
+Personal Statement:
+As a driven and innovative software engineer, I am committed to leveraging my exceptional problem-solving and analytical skills to create cutting-edge solutions. With a solid educational foundation in computer science, combined with hands-on experience in various programming languages and database technologies, I am confident in my ability to contribute to any software development team. I am excited to bring my unique perspective, leadership capabilities, and unwavering dedication to excellence to a dynamic role in software engineering.
+
+Education:
+Bachelor of Science in Computer Science, Riverdale University, San Antonio, Texas
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, LunaTech Solutions, San Antonio, Texas
+- Utilized SQL and error tracking tools to identify and resolve issues within an advanced e-commerce platform
+- Developed and implemented NoSQL databases to optimize data storage and retrieval processes, significantly improving performance
+
+Software Engineer, Stellar Systems, San Antonio, Texas
+- Employed Java and Python to design and implement secure payment solutions for a global financial services client
+- Conducted rigorous automated testing and debugging, ensuring the robustness and reliability of software products
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white female software engineer, I actively advocate for diversity and inclusion within the tech industry. Going beyond my professional responsibilities, I strive to break down barriers and create opportunities for underrepresented communities. Additionally, I serve as a leader in a local soccer league, coaching and mentoring young players, empowering them with skills both on and off the field.
+
+Hobbies:
+In my leisure time, I indulge in playing the acoustic guitar, embracing the beauty of music as an avenue for emotional expression. Moreover, I have a profound love for exploring different cultures through travel, broadening my worldview and fostering an appreciation for diversity.
+
+Languages:
+English (Fluent)
+Spanish (Intermediate)

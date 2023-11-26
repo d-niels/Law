@@ -1,0 +1,42 @@
+ZAINAB OOMMEN
+123 Main Street | Dallas, Texas, 12345 | (555) 123-4567 | zainaboommen@email.com
+
+PERSONAL STATEMENT
+Motivated and detail-oriented software engineer with a strong passion for solving complex problems through innovative technological solutions. Highly skilled in various programming languages and adept at working in both individual and team-based environments. Committed to leveraging my technical expertise to develop high-quality software applications.
+
+EDUCATION
+Bachelor of Science in Computer Science, XYZ University, City, State | Year
+GPA: 3.9/4.0
+
+WORK EXPERIENCE
+
+Software Engineer, StellarTech Solutions, Dallas, Texas | Date - Present
+- Developed and maintained a seamless e-commerce platform utilizing NoSQL databases, ensuring secure payments and implementing automated testing for flawless customer experience.
+- Collaborated with cross-functional teams to successfully deliver scalable and performant software applications.
+
+Software Developer, QuantumTech, Dallas, Texas | Date - Date
+- Utilized Python for debugging and error tracking, ensuring the delivery of high-quality code.
+- Developed and maintained Java-based software applications, utilizing SQL for efficient data management.
+
+SKILLS
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+VOLUNTEER & LEADERSHIP
+- Actively involved in promoting diversity and gender equality in the tech industry, organizing events and workshops to empower women in tech.
+- Served as a team captain for the women's basketball team, mentoring and guiding the team towards success, emphasizing the importance of teamwork and dedication.
+
+HOBBIES
+- Playing the violin, showcasing my love for music and the arts.
+- Participating in cultural events and festivals to celebrate and embrace my Indian heritage.
+- Engaging in community outreach programs focused on bridging cultural gaps and promoting inclusivity.
+
+LANGUAGES
+- English (Fluent)
+- Hindi (Native)
+
+REFERENCES
+Available upon request

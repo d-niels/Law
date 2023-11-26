@@ -1,0 +1,46 @@
+Ivy Harris
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a passion for creating innovative solutions. Proficient in various programming languages and experienced in error tracking and secure payments. Committed to leveraging my skills and knowledge to drive technological advancements. As a black female, I am proud to contribute to the diversity and inclusivity within the software engineering field.
+
+Education:
+Bachelor of Science in Computer Science, Ohio State University, Columbus, Ohio
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Stellar Solutions, Columbus, Ohio (2018-2020)
+- Implemented error tracking feature, improving the identification and resolution of software issues
+- Developed secure payment modules for an award-winning e-commerce platform using Java and Python
+- Collaborated with cross-functional teams to ensure seamless integration of features
+
+Software Developer, Quantum Innovations, Columbus, Ohio (2017-2018)
+- Utilized NoSQL and SQL databases to optimize data management processes
+- Conducted debugging and automated testing procedures to enhance software performance
+- Contributed to the development of a cutting-edge e-commerce platform, enabling smooth and secure online transactions
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Member, Women in Technology Society (WITS), Ohio State University
+- Empowered and mentored other aspiring female software engineers
+- Organized workshops and events to promote diversity and gender equality in technology
+
+Basketball Team Captain, Ohio State University (2016-2017)
+- Led the Ohio State Women's Basketball Team, fostering teamwork, discipline, and personal growth
+- Served as a role model for female athletes, promoting diversity and inclusivity in sports
+
+Hobbies:
+Playing the piano, a skill that brings joy and creativity into my life
+Promoting multiculturalism through literature and exploring different cultures through travel
+Advocating for representation in media and supporting initiatives for gender and racial equality
+
+Languages:
+English (Fluent)
+Spanish (Conversational)
+
+Note: This resume is fictional and does not represent a real person.

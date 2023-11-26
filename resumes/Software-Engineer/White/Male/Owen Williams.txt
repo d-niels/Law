@@ -1,0 +1,47 @@
+Owen Williams
+Dallas, Texas | owen.williams@email.com | (555) 123-4567
+
+Personal Statement:
+Driven and detail-oriented software engineer with a passion for creating efficient and scalable solutions. Strong problem-solving abilities combined with excellent analytical skills enable me to deliver high-quality results in a timely manner. Committed to continuously learning and adapting to new technologies, I thrive in a collaborative environment where I can contribute my skills and dedication.
+
+Education:
+Bachelor of Science in Computer Science
+Texas State University, Dallas, Texas
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, NovaSoft Solutions, Dallas, Texas
+June 2018 - Present
+- Developed and maintained eCommerce platforms, resulting in a 15% increase in online sales revenue.
+- Utilized SQL to optimize database queries, significantly reducing response time and improving overall performance.
+- Developed back-end systems for a large-scale web application using Java, ensuring a seamless user experience.
+- Conducted automated testing to identify and fix software defects, improving reliability and stability.
+
+Software Developer, ProtoTech Inc., Dallas, Texas
+August 2016 - May 2018
+- Debugged and resolved issues by utilizing error tracking tools, resulting in a 20% decrease in software errors.
+- Implemented secure payment gateways, enhancing the security and reliability of online transactions.
+- Developed and maintained internal tools using Python and NoSQL, increasing efficiency and productivity.
+- Collaborated with cross-functional teams to deliver high-quality software solutions on time and within budget.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in the Texas State University Asian Pacific Islander Student Association, organizing cultural events and promoting diversity and inclusivity on campus.
+- Served as a team captain for the Dallas Men's Basketball League, leading a group of passionate players in achieving success through teamwork, discipline, and sportsmanship.
+
+Hobbies:
+- Playing the guitar and piano
+- Exploring photography, capturing moments that reflect cultural diversity and heritage
+- Participating in community events that support gender equality and diversity
+
+Languages:
+- English (Fluent)
+- Spanish (Conversational)
+
+References available upon request.

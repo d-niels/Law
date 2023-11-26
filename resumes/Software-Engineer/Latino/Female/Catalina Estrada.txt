@@ -1,0 +1,38 @@
+Resume
+
+Personal Statement:
+I am a highly motivated and passionate software engineer with a dedication to developing innovative solutions. As a Latino female from Los Angeles, I bring a unique perspective and thrive in diverse environments. Through my strong educational background, work experience, and volunteer roles, I have gained valuable skills in programming, testing, and problem-solving. I am excited to contribute my expertise to a dynamic team and make a positive impact in the tech industry.
+
+Education:
+Bachelor's in Computer Science, California State University, Los Angeles, Los Angeles, California
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, NovaTech Solutions, Los Angeles, California
+- Developed and maintained a robust e-commerce platform, ensuring secure payment transactions and data integrity
+- Implemented automated testing frameworks, greatly improving code quality and efficiency
+- Utilized NoSQL databases to optimize data storage and retrieval for higher performance
+
+Software Engineer, StellarTech Corporation, Los Angeles, California
+- Successfully debugged complex software issues using a variety of tools and techniques
+- Developed and managed SQL databases, optimizing data retrieval and storage solutions
+- Utilized Python, error tracking systems, and Java to build and maintain applications
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Volunteered at Unidos Para Todos, a local Latino organization, organizing cultural events to celebrate Latino heritage, promote inclusivity, and provide support to underrepresented communities.
+- Led a soccer team as captain, fostering teamwork and mentoring younger players to enhance their skills and personal growth.
+
+Hobbies:
+- Playing the guitar and piano, immersing myself in the joy of music and self-expression.
+- Exploring various art forms, including painting and photography, to showcase creativity and cultural heritage.
+- Participating in traditional Latin dance groups, celebrating my ethnicity and embracing the power of movement.
+
+Languages:
+- Fluent in English and Spanish, facilitating effective communication and collaboration with diverse teams.

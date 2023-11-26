@@ -1,0 +1,42 @@
+Personal Statement:
+As a black female from Detroit, Michigan, I am fiercely determined to challenge norms and promote diversity in the tech industry. With a Bachelor's degree in Computer Science from the esteemed Harmony University, I have acquired a solid foundation in software engineering. My aim is to contribute to groundbreaking projects that empower underrepresented communities and inspire a new generation of diverse tech professionals.
+
+Education:
+Bachelor of Science in Computer Science, Harmony University, Detroit, Michigan
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer Intern, TechnoCore Innovations, Detroit, Michigan
+- Collaborated closely with a dynamic team of software engineers to develop and refine Java-based applications
+- Conducted automated testing, identified bugs, and implemented robust error tracking systems
+- Leveraged Java programming and debugging tools to troubleshoot and rectify software malfunctions
+
+Associate Software Engineer, TechPoints Solutions, Detroit, Michigan
+- Spearheaded the development of Python-based applications for secure payments and E-commerce platforms
+- Implemented efficient SQL and NoSQL database structures to streamline data management
+- Collaborated cross-functionally to ensure seamless integration and optimize overall system performance
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Basketball Team Captain, XYZ Community Center, Detroit, Michigan
+- Exhibited exemplary leadership skills by guiding a diverse team of talented athletes in competitions and training sessions, emphasizing teamwork, discipline, and sportsmanship
+
+Tech Diversity Advocate, Xchange Initiative, Detroit, Michigan
+- Championed diversity and inclusion in the tech industry through mentorship programs and workshops
+- Empowered young girls and underrepresented students to pursue careers in technology, fostering their self-confidence and aspirations
+
+Hobbies:
+- Avid sculptor, using clay as a medium to express emotions and delve into different cultures' artistic traditions
+- Engaging in community events that celebrate diversity, such as cultural festivals and art exhibitions
+
+Languages:
+- Fluent in English
+- Proficient in Spanish
+
+I am eager to apply my diverse background, technical acumen, and leadership skills to a challenging software engineering role. With an unwavering commitment to innovation and inclusivity, I am confident that I can drive meaningful change and make a lasting impact in the field.

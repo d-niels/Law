@@ -1,0 +1,42 @@
+Personal Statement:
+I am a dedicated and forward-thinking software engineer with a passion for building innovative solutions. With a strong foundation in computer science and extensive experience in various programming languages, I thrive in fast-paced environments where I can utilize my analytical skills to tackle complex problems. As a white male from Austin, Texas, I am committed to contributing to a diverse and inclusive industry that embraces different perspectives and backgrounds.
+
+Education:
+Bachelor of Science in Computer Science, University of Texas at Austin
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Stellar Technologies, Austin, Texas
+- Developed and maintained robust NoSQL and SQL databases for a cutting-edge e-commerce platform
+- Utilized Python to design and implement efficient data processing algorithms
+- Collaborated with cross-functional teams to ensure seamless integration of features and enhancements
+
+Software Engineer, Quantum Solutions, Austin, Texas
+- Utilized Java for error tracking and debugging, ensuring smooth and reliable software functionality
+- Implemented automated testing procedures to improve software reliability
+- Developed secure payment processing systems to enhance data privacy and prevent fraud
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Diversity and Inclusion Advocate, University of Texas at Austin
+- Actively participated in initiatives to promote diversity and inclusion within the computer science department
+- Organized workshops and discussions to raise awareness about the importance of embracing diverse perspectives
+- Served as a mentor for underrepresented students, providing guidance and support in their academic and professional journeys
+
+Sports Leadership:
+Captain, University of Texas at Austin Men's Soccer Team
+- Led the team through effective communication, collaboration, and motivation
+- Coordinated practices, managed game strategies, and facilitated teamwork
+
+Hobbies:
+Playing the guitar, promoting diverse music genres, exploring different cultures and languages
+
+Languages:
+English (fluent)
+Spanish (intermediate)

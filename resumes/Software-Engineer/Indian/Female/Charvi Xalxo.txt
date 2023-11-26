@@ -1,0 +1,37 @@
+Personal Statement:
+A diligent and highly motivated software engineer, I am passionate about utilizing my technical skills to develop innovative solutions. I thrive in dynamic environments, collaborating with diverse teams to deliver exceptional results. With a strong foundation in programming and problem-solving, I am ready to contribute to cutting-edge projects as a software engineer.
+
+Education:
+Bachelor of Science in Computer Science, Washington Technology University, Washington, DC
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, StellarTech Solutions, Washington, DC
+- Developed and maintained an advanced ecommerce platform, ensuring seamless user experience and implementing secure payment systems
+- Utilized error tracking and automated testing techniques to resolve issues, resulting in improved system performance and reliability
+
+Software Engineering Intern, PixelData Labs, Washington, DC
+- Collaborated with a team to design and maintain databases utilizing SQL and NoSQL technologies
+- Utilized Python, Java, and advanced debugging techniques to identify and resolve software issues
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active volunteer at local community centers, empowering underrepresented communities in technology through workshops and mentorship programs
+- Served as a mentor for women in STEM, providing guidance and support to aspiring female software engineers
+- Sports Leadership: Held a leadership role as the captain of the women's basketball team, organizing training sessions and fostering teamwork among players, promoting diversity in sports
+
+Hobbies:
+- Playing the violin, connecting with my Indian heritage through music
+- Exploring different cultures through travel and engaging in cross-cultural experiences
+- Engaging in community service initiatives, emphasizing the importance of education and empowerment
+
+Languages:
+- English (fluent)
+- Hindi (fluent)
+- Regional languages of India (proficient)

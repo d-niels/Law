@@ -1,0 +1,43 @@
+Clemente Zamora
+
+Personal Statement:
+Highly motivated and committed software engineer with a passion for creating innovative and secure solutions. With a solid foundation in computer science and expertise in programming languages and database technologies, I am dedicated to designing and implementing cutting-edge software systems. As a proud Latino male from El Paso, Texas, I am driven to contribute to the diversity and inclusive culture in the tech industry while nurturing my passion for leadership and sports.
+
+Education:
+Bachelor of Science in Computer Science
+University of El Paso (El Paso, Texas)
+GPA: 3.9
+
+Work Experience:
+Software Engineer | CyberTech Solutions (Austin, Texas)
+- Collaborated with a team of developers to build and maintain a highly secure payment processing system for an e-commerce platform, utilizing automated testing and NoSQL database technologies.
+- Developed and implemented comprehensive automated testing procedures, ensuring high-quality software releases and efficient workflow.
+- Conducted thorough security audits, addressing vulnerabilities and proposing robust solutions to enhance payment system security.
+- Contributed to the development and deployment of secure and scalable e-commerce features, resulting in improved customer satisfaction and significant revenue growth.
+
+Junior Software Engineer | QuantumSoft Solutions (Houston, Texas)
+- Played a key role in the development and maintenance of a complex backend system, utilizing Java, SQL, and Python programming languages.
+- Conducted in-depth debugging and error tracking to identify and resolve software defects, ensuring system stability and optimal performance.
+- Collaborated with cross-functional teams to improve existing codebase, implement new features, and enhance system reliability.
+- Leveraged analytical skills and problem-solving techniques to address complex programming challenges and optimize application workflows.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+• Actively involved in the Latino Software Engineers Association (LSEA), promoting diversity and inclusion within the tech industry while providing mentorship to aspiring engineers.
+• Sports Leadership Role: Served as team captain for a local soccer team, fostering teamwork, discipline, and cultural exchange within a diverse group of players.
+
+Hobbies:
+• Playing the guitar to express creativity and embrace various musical genres.
+• Exploring diverse cultures through extensive international travel, engaging with local communities, and documenting cultural experiences through photography.
+
+Languages:
+• English (Fluent)
+• Spanish (Native)
+
+References available upon request.

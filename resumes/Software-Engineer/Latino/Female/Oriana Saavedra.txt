@@ -1,0 +1,45 @@
+Oriana Saavedra
+123 Main Street, Albuquerque, New Mexico | (555) 123-4567 | oriana.saavedra@email.com
+
+Personal Statement:
+Highly motivated and detail-oriented software engineer with a passion for creating innovative solutions. Dedicated to delivering high-quality code and enhancing user experiences. Seeking a challenging role as a software engineer to leverage my technical expertise and problem-solving skills.
+
+Education:
+Bachelor of Science in Computer Science, University of New Mexico, Albuquerque, New Mexico
+- GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, InnovateTech Solutions, Albuquerque, New Mexico
+(September 2018 - Present)
+- Developed and maintained a cutting-edge e-commerce platform, ensuring seamless user experience and secure transactions.
+- Implemented an advanced error tracking system to identify and resolve software defects promptly.
+- Utilized NoSQL databases to optimize data storage and retrieval processes.
+- Developed and implemented robust automated testing procedures, resulting in a significant reduction in software bugs.
+
+Junior Software Engineer, CodeCrafters, Albuquerque, New Mexico
+(June 2017 - August 2018)
+- Developed secure payment gateways for web applications using Python.
+- Debugged and resolved issues to ensure smooth integration and functionality.
+- Collaborated with the team to design and develop Java-based software solutions.
+- Utilized SQL for efficient data management and retrieval.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Latino Leadership Program, University of New Mexico, Albuquerque, New Mexico
+- Actively participated in the Latino Leadership Program, focusing on empowering and supporting individuals from the Latino community pursuing STEM careers.
+- Served as a soccer team leader for the university's intramural soccer league, promoting teamwork, and providing guidance to fellow players.
+
+Hobbies:
+- Playing the guitar, incorporating Latin American music styles into my repertoire.
+- Exploring diverse cultures and immersing myself in multicultural experiences.
+- Promoting gender diversity in the tech industry through various community initiatives.
+
+Languages:
+- English: Fluent
+- Spanish: Native Speaker

@@ -1,0 +1,36 @@
+Personal Statement:
+I am a driven and dedicated software engineer, fueled by a love for problem-solving and creating innovative solutions. With a strong background in computer science, I thrive in designing and implementing software systems that meet user needs while adhering to industry best practices. Seeking a challenging role as a software engineer, I am determined to continuously expand my skill set and contribute to the development of cutting-edge applications.
+
+Education:
+Bachelor of Science in Computer Science, Sunshine State University, Jacksonville, Florida
+GPA: 3.9/4.0
+
+Work Experience:
+Software Engineer, Stellar Software Solutions, Jacksonville, Florida
+- Developed and maintained robust ecommerce systems utilizing SQL and NoSQL databases.
+- Conducted comprehensive automated testing to ensure exceptional software functionality and performance.
+- Collaborated seamlessly with multidisciplinary teams to design and implement highly secure payment systems.
+- Utilized advanced troubleshooting and debugging techniques to identify and resolve software issues promptly.
+
+Software Engineer Intern, NovaTech Solutions, Jacksonville, Florida
+- Assisted in debugging and error tracking processes to optimize software performance.
+- Collaborated closely with the development team to implement scalable Java and Python solutions.
+- Contributed significantly to the development of secure payment features.
+- Conducted extensive troubleshooting and efficiently resolved software defects.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white male, I am deeply committed to fostering diversity and inclusion within the tech industry. I have taken on leadership roles in various organizations, including serving as the captain of my city's competitive soccer team, leading them to victory in multiple leagues. Through this sports leadership role, I have cultivated a strong sense of teamwork and camaraderie, creating an inclusive environment for players from diverse backgrounds. Furthermore, I actively champion initiatives that inspire underrepresented groups in technology to pursue careers in software engineering and empower them to excel in this field.
+
+Hobbies:
+In my leisure time, I find solace in playing the piano, creating melodies that reflect my emotions and experiences. I am also an avid explorer of different cultures, finding inspiration in their traditions and values. These explorations have sparked my interest in learning multiple languages, including conversational French alongside my native proficiency in English.
+
+Languages:
+- English (Native Proficiency)
+- French (Conversational Proficiency)

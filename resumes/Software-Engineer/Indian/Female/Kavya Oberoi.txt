@@ -1,0 +1,27 @@
+Personal Statement:
+I am a highly motivated software engineer with a passion for creating innovative and reliable solutions. With a background in computer science and a strong foundation in programming languages such as Java, Python, and C#, I am equipped with the skills necessary to excel in the field. My commitment to continuous learning and problem-solving allows me to adapt quickly to new technologies and challenges. My goal is to leverage my technical expertise to contribute effectively to a dynamic and collaborative team.
+
+Education:
+Bachelor of Science in Computer Science, Galaxy University, Houston, Texas (GPA: 3.9)
+
+Work Experience:
+Software Engineer, Stellar Tech Solutions, Houston, Texas
+- Developed and maintained a cutting-edge e-commerce platform, incorporating advanced features such as secure payment systems and robust error tracking mechanisms using Python.
+- Collaborated with cross-functional teams to ensure seamless integration of various functionalities and enhance the overall user experience.
+
+Software Developer, Nova Innovations, Houston, Texas
+- Designed and implemented scalable database solutions using both SQL and NoSQL technologies, ensuring efficient data management and retrieval.
+- Developed comprehensive automated testing frameworks and conducted rigorous debugging and troubleshooting to identify and resolve software issues.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As an Indian female software engineer in Houston, Texas, I actively participate in promoting diversity and inclusion in the tech industry. I have been involved in various initiatives, such as mentoring aspiring women in STEM and organizing events to encourage girls to pursue careers in technology. Additionally, I have taken up a leadership role in organizing and coaching a women's basketball team, fostering teamwork, discipline, and sportsmanship.
+
+Hobbies:
+In my free time, I play the tabla, a traditional Indian percussion instrument, and draw inspiration from its rhythmic patterns to fuel my creative expression. I also enjoy abstract painting, allowing me to explore different forms of art and ignite my imagination. Furthermore, I am a polyglot, fluent in both English, Hindi, and Tamil, which enables me to connect with individuals from diverse backgrounds and appreciate various cultures.

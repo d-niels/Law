@@ -1,0 +1,36 @@
+YASMINE DUNCAN
+
+Personal Statement:
+Dedicated and passionate software engineer committed to developing innovative solutions and creating seamless user experiences. With a strong background in computer science and expertise in various programming languages, I strive to leverage my skills to contribute to the success of cutting-edge technological projects. As an inclusive and driven individual, I am determined to promote diversity and be a leader in the field of software engineering.
+
+Education:
+Bachelor of Science in Computer Science | Austin Technology University, Austin, Texas
+- GPA: 3.9/4.0
+- Relevant Coursework: Data Structures, Algorithms, Software Engineering, Database Systems, Operating Systems
+
+Work Experience:
+Software Engineer | StellarTech Solutions, Austin, Texas | June 2019 - Present
+- Developed and executed automated testing procedures for the company's state-of-the-art e-commerce platform, ensuring a seamless user experience.
+- Utilized Java to develop and maintain robust testing frameworks for efficient software delivery.
+- Monitored and tracked errors, implementing effective error tracking solutions to enhance system reliability.
+
+Software Developer | Quantum Software Labs, Austin, Texas | August 2017 - May 2019
+- Collaborated in a dynamic team environment to design, develop, and deploy scalable applications using NoSQL and SQL databases.
+- Conducted thorough debugging activities to identify and resolve issues in software code, ensuring optimal performance.
+- Utilized Python for developing secure payment systems, ensuring data safety and integrity.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Actively involved in promoting diversity and inclusion in the software industry, advocating for gender and ethnic equality.
+- Served as a team captain and leader of a women's soccer team, guiding and motivating the team to victory.
+
+Hobbies:
+- Playing the guitar: Acoustic guitar player, performing regularly at local venues.
+- Exploring different cultures through literature and art, fostering a deep appreciation for diverse perspectives.
+- Languages: Fluent in English and conversational in Spanish.

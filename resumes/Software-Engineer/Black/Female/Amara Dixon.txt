@@ -1,0 +1,41 @@
+Amara Dixon
+
+Personal Statement:
+Dedicated and driven software engineer with a passion for creating innovative solutions. As a black female in the tech industry, I am committed to promoting diversity and inclusion. Through my diverse skill set and strong technical background, I strive to make a meaningful impact in the world of software development.
+
+Education:
+Bachelor of Science in Computer Science
+University of North Carolina at Charlotte, Charlotte, NC
+GPA: 3.9
+Relevant coursework: Data Structures, Algorithms, Software Engineering, Database Systems
+
+Work Experience:
+Software Engineer, Advanced Data Solutions, Charlotte, NC
+- Developed an error tracking system to identify and resolve software bugs using NoSQL and SQL databases.
+- Proficiently utilized Java programming language to design and implement scalable software solutions.
+- Collaborated with cross-functional teams to ensure seamless integration of the error tracking system into existing software infrastructure.
+
+Software Developer, TechGen Innovations, Charlotte, NC
+- Contributed to the development and maintenance of an e-commerce platform by implementing secure payment methods and automated testing.
+- Successfully utilized Python programming language to create efficient code for various software features.
+- Actively participated in debugging and troubleshooting activities to ensure optimal performance and user experience.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Mentor, Black Girls Code, Charlotte Chapter: Guided and inspired young black girls to pursue careers in technology and provided guidance on programming concepts and skills.
+- Sports Leadership Role, Girls in STEM Basketball League: Mentored and coached girls in a leadership capacity, fostering teamwork, perseverance, and self-confidence through participation in basketball.
+
+Hobbies:
+- Playing the piano: Expressing creativity through music and mastering various genres.
+- Writing and performing spoken word poetry: Utilizing art as a powerful platform to address social issues and inspire change.
+- Exploring multicultural literature: Expanding understanding and appreciation of diverse worldviews through reading.
+
+Languages:
+- English (fluent)
+- Spanish (working proficiency)

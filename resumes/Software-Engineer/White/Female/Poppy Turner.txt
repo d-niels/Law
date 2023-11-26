@@ -1,0 +1,44 @@
+Personal Statement:
+As a software engineer, I thrive on solving complex problems and creating innovative solutions. With a Bachelor's degree in Computer Science and a passion for collaboration, I am committed to making a positive impact in the tech industry. Through my diverse experiences and dedication to continuous learning, I am equipped with the skills and mindset to excel as a software engineer.
+
+Education:
+Bachelor of Science in Computer Science, San Diego State University, San Diego, California
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Quantum Tech Solutions, San Diego, CA
+- Developed and maintained a high-performance e-commerce platform using Java, NoSQL, and debugging tools.
+- Collaborated with cross-functional teams to optimize the platform's functionality and scalability.
+- Implemented secure payment methods and error tracking mechanisms to ensure smooth transactions.
+- Utilized automated testing to identify and fix software bugs.
+
+Software Engineer Intern, Cyber Dynamics, San Diego, CA
+- Contributed to the development and maintenance of a Python-based web application, integrating SQL database and automated testing.
+- Collaborated with the team to implement secure payment systems and ensured the application's performance and reliability.
+- Utilized debugging techniques and error tracking to identify and resolve software issues.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer, Tech for All Foundation
+- Organized and delivered workshops to promote diversity and inclusion in the tech industry, focusing on opportunities for underrepresented communities.
+- Mentored and provided guidance to aspiring software engineers, particularly women and individuals from diverse backgrounds.
+- Spearheaded initiatives to increase representation and foster equality in the workplace.
+
+Sports Leadership Role, Women in Sports Empowerment Group
+- As the team captain, led a group of athletes in organizing various basketball tournaments and events, empowering women in sports.
+- Fostered an inclusive environment by encouraging participation from diverse ethnic backgrounds and all skill levels.
+
+Hobbies:
+- Playing the piano: I find solace and joy in playing the piano, allowing me to express my creativity and unwind.
+- Hiking and exploring nature trails: I enjoy immersing myself in the beauty of nature, staying active and mindful.
+- Care and advocacy for animal welfare: I am passionate about volunteering at local animal shelters and advocating for animal rights.
+
+Languages: English (fluent), Spanish (intermediate)
+
+I hope this revised resume better fits Poppy Turner's character and helps in developing their role in your novel.

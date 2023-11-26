@@ -1,0 +1,43 @@
+JASMINE PARKER
+
+Software Engineer
+
+Personal Statement:
+Dedicated and driven software engineer with a passion for creating innovative solutions. Possess strong problem-solving skills and a keen eye for detail in developing high-performance applications. Committed to inclusivity in technology, leveraging my unique perspective as a black female to contribute diverse and creative insights to the field. With a background in both technical skills and leadership, I aim to make a lasting impact in the software engineering industry.
+
+Education:
+Bachelor of Science in Computer Science, University of Chicago, Chicago, Illinois
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, Innovix Technologies, Chicago, IL
+- Utilized advanced error tracking systems and conducted thorough debugging to identify and resolve complex software issues
+- Developed and maintained secure payment processing systems using SQL databases
+- Collaborated with cross-functional teams to design and implement Java-based software solutions
+
+Software Developer Intern, XyberSphere, Chicago, IL
+- Played a pivotal role in the development of a cutting-edge e-commerce platform using Python, ensuring seamless functionality and exceptional user experience
+- Conducted extensive debugging and troubleshooting to identify and fix software issues, utilizing advanced debugging techniques
+- Implemented robust NoSQL databases and automated testing processes to improve system efficiency and reliability
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Active participation in organizations promoting diversity and inclusivity in technology, advocating for underrepresented groups, including Black Girls Code and Girls Who Code
+- Served as a mentor and leader in a youth basketball team, fostering positive values, teamwork, and personal growth among young athletes
+
+Hobbies:
+- Playing the guitar and composing music
+- Writing poetry and short stories
+- Exploring different cultures through literature and travel
+
+Languages:
+- English (Fluent)
+- Spanish (Proficient)
+
+Note: This revised version incorporates the requested changes while maintaining the outline of the original resume. The university has been changed, and the company names have been made more unique. Additionally, a particular sport (basketball) has been mentioned in the leadership section.

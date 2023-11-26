@@ -1,0 +1,38 @@
+Nyla Underhill
+
+Personal Statement:
+As a black female software engineer from Columbus, Ohio, I am determined to make a lasting impact in the field of technology. With a Bachelor's degree in Computer Science and a passion for creative problem-solving, I am fervent about leveraging my skills and expertise to develop cutting-edge software solutions. I am committed to continuous growth, collaboration, and overcoming challenges to drive advancements in technology.
+
+Education:
+Bachelor of Science in Computer Science, Columbus Technical University, Columbus, Ohio
+- GPA: 3.9
+
+Work Experience:
+Software Engineer, TechnoMind Systems, Columbus, Ohio
+- Designed and maintained the company's NoSQL database, implementing Python scripts to streamline data processing and analysis.
+- Utilized robust error tracking tools to identify and promptly resolve system issues, ensuring optimal performance.
+- Developed intricate SQL queries to improve the efficiency and reliability of the database.
+
+Software Engineer Intern, HyperTech Solutions, Columbus, Ohio
+- Collaborated with a cross-functional team in developing an innovative e-commerce platform using Java, ensuring scalability and user-friendliness.
+- Conducted automated testing and utilized debugging techniques to guarantee the stability and security of the application.
+- Integrated secure payment systems, employing industry best practices to safeguard sensitive customer information.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+- Founding member of Techno Allies, a local organization dedicated to fostering diversity and equal representation in the technology industry, particularly for underrepresented groups.
+- Served as a sports leadership figure in an esteemed youth soccer league, promoting teamwork, perseverance, and inspiring passion for the sport.
+
+Hobbies:
+- Playing the saxophone: I find solace in playing jazz and blues on the saxophone, allowing me to express my creativity and immerse myself in the power of music.
+- Exploring cultural diversity: Fascinated by the richness of global cultures, I actively seek opportunities to learn about different ethnic traditions, languages, and customs to promote inclusivity and understanding.
+
+Languages:
+- English: Fluent
+- Spanish: Conversational proficiency

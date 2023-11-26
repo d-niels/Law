@@ -1,0 +1,49 @@
+Personal Statement:
+
+A highly motivated and creative software engineer with a passion for developing cutting-edge solutions. As a black male from Chicago, Illinois, I bring a unique perspective and a deep commitment to promoting diversity and inclusivity in the tech industry. From a young age, I was drawn to the power of coding and its ability to solve real-world problems. I am dedicated to staying up-to-date with the latest technologies and strive to contribute my skills and experiences to a dynamic software engineering role.
+
+Education:
+
+Bachelor of Science in Computer Science
+Great Lakes University, Chicago, Illinois
+GPA: 3.9/4.0
+
+Work Experience:
+
+Software Engineer Intern, Innov8 Technologies, Chicago, Illinois
+- Developed and implemented NoSQL database solutions for secure payments in an innovative ecommerce platform.
+- Conducted automated testing to ensure system reliability and security.
+- Collaborated with cross-functional teams to enhance the user interface and optimize software functionalities.
+- Gained experience in working with secure payment systems and ecommerce platforms.
+
+Software Engineer, NexTech Solutions, Chicago, Illinois
+- Utilized SQL for database management and optimization, ensuring data integrity and high performance.
+- Implemented error tracking and debugging techniques to identify and resolve software issues efficiently.
+- Proficient in Java and Python programming languages for developing robust software solutions.
+- Collaborated with the team to ensure seamless integration of new features and functionalities.
+
+Skills:
+
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+
+Volunteer Mentor, TechAdvocate Program, Chicago, Illinois
+- Mentored and provided guidance to underrepresented youth in pursuing careers in technology.
+- Organized coding workshops and computer literacy events in underserved communities.
+- Co-led the TechAdvocate Diversity and Inclusion Initiative, promoting diversity within the tech sector.
+- Held a leadership role in organizing and coaching basketball programs for inner-city youth.
+
+Hobbies:
+
+- Music: Playing the saxophone and exploring various genres.
+- Sports: Participating as a player and leader in basketball leagues, organizing tournaments, and mentoring young athletes.
+- Community Engagement: Active involvement in local organizations promoting diversity and inclusivity.
+
+Languages: Fluent in English and Spanish.
+
+As a black male from Chicago, Illinois, diversity and representation are fundamental values that I champion in the tech industry. Through my volunteering and leadership roles, I actively work to empower underrepresented communities and foster a more inclusive environment. Furthermore, my passion for basketball and playing the saxophone reflects my dedication to both athletic and artistic pursuits.

@@ -1,0 +1,35 @@
+Personal Statement:
+Driven and passionate software engineer with a deep commitment to delivering innovative solutions and enhancing user experiences. With expertise in multiple programming languages and a strong foundation in problem-solving and debugging techniques, I am dedicated to staying at the forefront of technological advancements. My goal is to make a positive impact in the software development industry, leveraging my skills and knowledge to create cutting-edge applications.
+
+Education:
+Bachelor's Degree in Computer Science, Sunshine State University, Jacksonville, Florida
+- Graduated with a 3.9 GPA
+
+Work Experience:
+Software Engineer, StellarSoft Solutions, Jacksonville, FL
+- Developed robust software applications using Python, NoSQL, SQL, and Java
+- Collaborated closely with cross-functional teams to define requirements and implement high-quality solutions
+- Conducted thorough testing and debugging to ensure optimal performance and reliability
+- Employed efficient algorithms to improve software functionality
+
+Software Developer, InnovateTech, Jacksonville, FL
+- Specialized in secure payments and e-commerce software development
+- Conducted extensive debugging and error tracking to identify and resolve software issues
+- Utilized automated testing tools to ensure comprehensive software testing
+- Worked collaboratively with the team to enhance software performance and user experience
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+As a white female software engineer, I am committed to promoting diversity and inclusion within the tech community. I actively mentor aspiring women and individuals from ethnic minorities, encouraging them to pursue careers in STEM fields. Additionally, I have held a leadership role in a local basketball team, fostering teamwork, discipline, and personal growth.
+
+Hobbies:
+In my leisure time, I enjoy playing the piano, an instrument that I have been passionate about for many years. I also have a keen interest in exploring different cultures, languages, and artistic expressions.
+
+Languages:
+Fluent in English and Spanish.

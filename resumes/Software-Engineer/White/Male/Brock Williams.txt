@@ -1,0 +1,44 @@
+Brock Williams
+123 Main Street, San Antonio, Texas | (555) 123-4567 | brock.williams@email.com
+
+Personal Statement:
+Dedicated and detail-oriented software engineer with a passion for developing innovative solutions. Strong background in programming languages, database technologies, and problem-solving. Committed to optimizing software performance and functionality to exceed user expectations. Excited about leveraging skills and experience to contribute to a dynamic software engineering team.
+
+Education:
+Bachelor of Science in Computer Science (GPA: 3.9)
+San Antonio State University, San Antonio, Texas
+
+Work Experience:
+Software Engineer, TechniSoft Systems, San Antonio, Texas
+- Developed and maintained backend systems using SQL and NoSQL databases.
+- Implemented e-commerce functionalities to facilitate seamless online transactions.
+- Conducted thorough debugging to identify and resolve software issues efficiently.
+
+Software Developer, NexGen Technologies, San Antonio, Texas
+- Utilized Python and Java programming languages to design and build robust software applications.
+- Conducted automated testing processes to ensure high-quality code implementation.
+- Ensured secure payment processing by implementing encryption protocols.
+- Utilized error tracking tools to identify and resolve software defects promptly.
+
+Skills:
+- Programming Languages: Java, Python, C#, JavaScript
+- Database Technologies: SQL, NoSQL
+- Source Control: Git
+- Testing and Debugging: Automated Testing, Debugging Tools
+- Problem-Solving: Analytical Skills, Debugging Techniques
+
+Volunteer & Leadership:
+Volunteer and Mentor, San Antonio Boys & Girls Club
+- Provided guidance and leadership to underprivileged youth, fostering personal growth and development.
+- Organized and led a basketball leadership program, coaching youth aged 10-13.
+
+Hobbies:
+- Playing the guitar
+- Exploring various art forms, including painting and sketching
+- Participating in regional chess tournaments
+- Engaging in outdoor activities such as hiking and camping
+
+Languages:
+English (Native), Spanish (Conversational)
+
+References available upon request.
