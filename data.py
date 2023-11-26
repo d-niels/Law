@@ -10,7 +10,7 @@ JOB_TITLES = ['Software-Engineer', 'Data-Scientist', 'Machine-Learning-Engineer'
 gender_idx = {'Male': 0, 'Female': 1}
 
 def job_skills(job_title):
-    path = f'job_descriptions/{job_title}.txt'
+    path = f'job_skills/{job_title}.txt'
     skills = []
     with open(path, 'r') as f:
         skills = f.read().split(',')

@@ -1,1 +1,37 @@
-Java,SQL,automated testing,ecommerce,secure payments,Python,NoSQL,Error tracking,debugging
+Software Engineer
+Mastercard
+On-site - St. Louis, Missouri, United States
+
+About the role
+
+Role Description
+Overview
+Mastercard works to connect and power a sustainable and inclusive global economy. We are a vehicle for commerce, a connection to financial systems for the previously excluded, a technology innovation lab, and the home of Priceless®. We ensure every employee has an opportunity to be a part of something bigger and to change lives. We believe in connecting everyone to endless, priceless possibilities.
+
+About the Team
+Mastercard software engineering teams are obsessed with security, reliability, performance, and are driven to deliver solutions that delight our customers. We are looking for talented software engineers to develop advanced technologies and applications that are revolutionizing payments. Software engineers at Mastercard build the systems that process transactions, analyze data, and detect fraud to gain insight into the direction of the economy on behalf of our customers. We are focused on building simple, safe, and smart solutions that instill trust in every interaction. Our industry expertise is enhanced by our commitment to being a force for good in the world and to doing well by doing good.
+
+Launch Program
+The Launch program is a development program that is supplemental to the role and is designed to help you transition from being a student to being a Mastercard employee. In this program, you will participate in:
+Four-day orientation focused on getting to know Mastercard, building your skills, and be a force for good (Mastercard’s culture)
+Technical orientation focused on an introduction to tools, policies, and processes that are key to your role
+Professional skills workshops
+Launch Innovation Week
+Social impact – pro bono team challenge
+Global Volunteer Challenge
+
+Role Description
+As a Software Engineer I, you will have the opportunity to:
+write high-quality code with a focus on security, design, and maintainability.
+contribute to all phases of software development from design through rollout.
+find real-life solutions for our clients and the world.
+Note: specific responsibilities and development tools/languages used will vary based on team placement.
+
+Qualifications
+Currently enrolled in a bachelor’s or accelerated master’s program graduating between Dec 2023 – June 2024.
+Less than 1 year of professional work experience (not including internships).
+Project-based experience (personal, academic, internship) in one or more general-purpose programming languages such as: Java, JavaScript, C#, Python, etc.
+Familiarity using persistent data stores such as relational databases, NoSQL, etc. Uses defensive coding, logging, and alerts to help prevent issues.
+Experience writing automated tests to verify code correctness and expected behavior.
+Exposure to source control management (e.g., git), deployment, and task management tools.
+Strong analytical and problem-solving skills and familiarity with common debugging tools and information to diagnose issues such as stack traces, memory profiling, code tracing, etc., using all debugging techniques/ tools and logs
