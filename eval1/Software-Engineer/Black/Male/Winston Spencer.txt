@@ -1,0 +1,4 @@
+5
+Bachelor's degree in Computer Science (5/10)
+Experience in developing high-performance data management systems (8/10)
+Strong programming skills in Java, Python, C#, and JavaScript (9/10)

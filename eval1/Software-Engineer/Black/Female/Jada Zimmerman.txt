@@ -1,0 +1,4 @@
+3
+Relevant degree in Computer Science (3/10)
+Solid work experience in software engineering (7/10)
+Strong programming skills in Java, Python, and JavaScript (8/10)

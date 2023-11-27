@@ -1,0 +1,4 @@
+8
+Strong educational background in computer science (relevant degree)
+Hands-on experience with machine learning algorithms
+Experience training and deploying machine learning models (TensorFlow, Python)

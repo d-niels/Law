@@ -1,0 +1,4 @@
+8
+GPA of 3.9
+Relevant coursework in Data Structures, Algorithms, Software Engineering, and Database Systems
+Experience in developing secure payment gateway for e-commerce platform

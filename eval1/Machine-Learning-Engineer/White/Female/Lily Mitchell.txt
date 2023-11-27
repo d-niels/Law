@@ -1,0 +1,4 @@
+9
+Strong background in statistical analysis and deep neural net research.
+Experience with TensorFlow, PyTorch, and C++.
+Collaborative team player with effective communication skills.

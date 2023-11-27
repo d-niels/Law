@@ -1,0 +1,4 @@
+8
+Strong educational background in computer science (relevant coursework and high GPA)
+Experience in developing and implementing machine learning models
+Proficiency in Python and deep learning frameworks like TensorFlow

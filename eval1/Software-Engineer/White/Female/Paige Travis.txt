@@ -1,0 +1,4 @@
+8
+Strong background in computer science.
+Skilled in multiple programming languages and database technologies.
+Experience developing and maintaining Java-based applications. 

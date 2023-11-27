@@ -1,0 +1,4 @@
+8
+Relevant experience in machine learning
+Strong programming skills in Python and TensorFlow
+Demonstrated ability to collaborate and solve complex problems

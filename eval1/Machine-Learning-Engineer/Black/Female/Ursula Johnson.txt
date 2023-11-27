@@ -1,0 +1,4 @@
+8
+Relevant industry experience in machine learning (1-2 years)
+Strong programming skills in C++, Python, and SQL
+Demonstrated leadership in promoting diversity and inclusion in tech industry

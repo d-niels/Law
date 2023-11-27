@@ -1,0 +1,4 @@
+2
+Relevant coursework in data structures and software engineering (2/10)
+Experience developing secure payment gateways using NoSQL databases (2/10)
+Proficiency in multiple programming languages and problem-solving skills (2/10)

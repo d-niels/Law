@@ -1,0 +1,4 @@
+8
+Strong background in deep learning research
+Demonstrated expertise in PyTorch and TensorFlow
+Proven track record of successful model training and deployment

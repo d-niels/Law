@@ -1,0 +1,4 @@
+8
+Machine learning engineer experience in Python, PyTorch, TensorFlow relevant (8/10)
+Strong academic background in computer science with high GPA relevant (7/10)
+Prior experience in developing deep learning models for image recognition relevant (9/10)

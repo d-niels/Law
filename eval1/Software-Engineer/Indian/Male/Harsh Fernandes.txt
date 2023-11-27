@@ -1,0 +1,4 @@
+8
+Bachelor's degree in Computer Science (relevant education)
+Experience in Java, Python, C#, and JavaScript (relevant programming languages)
+Strong analytical skills and attention to detail (required skills)

@@ -1,0 +1,4 @@
+5
+Strong academic background in computer science (GPA: 3.9/4.0)
+Relevant work experience as a software engineer (2+ years)
+Proficient in Java, Python, C#, and automated testing

@@ -1,0 +1,4 @@
+6
+Relevant coursework in Machine Learning and Artificial Intelligence.
+Experience developing and optimizing deep neural networks.
+Strong programming skills in C++, Python, and TensorFlow.

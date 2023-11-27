@@ -1,0 +1,4 @@
+8
+Strong background in computer science
+Experience in data handling and statistical analysis
+Proficient in Python and deep learning frameworks

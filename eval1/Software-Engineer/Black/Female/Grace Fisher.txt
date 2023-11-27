@@ -1,0 +1,4 @@
+8
+GPA: 3.9/4.0
+Software Engineer work experience
+Programming Languages: Java, Python, C#, JavaScript

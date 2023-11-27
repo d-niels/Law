@@ -1,0 +1,4 @@
+8
+Bachelor's degree in computer science (relevant educational background)
+Experience in developing software applications using Java, Python, and SQL (relevant technical skills)
+Strong problem-solving and analytical skills (essential for software engineering) 

@@ -1,0 +1,4 @@
+8
+Bachelor of Science in Computer Science, GPA: 3.9
+Machine Learning Engineer experience with deep learning techniques
+Experience in Python programming and TensorFlow framework

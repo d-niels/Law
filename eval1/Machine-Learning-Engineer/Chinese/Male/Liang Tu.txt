@@ -1,0 +1,4 @@
+8
+Extensive experience in machine learning research
+Proficient in TensorFlow for developing and deploying ML models
+Strong academic background in computer science

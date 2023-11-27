@@ -1,0 +1,4 @@
+9
+Strong background in computer science and understanding of deep neural net research.
+Experience in developing and deploying machine learning models and algorithms.
+Demonstrated proficiency in Python, C++, and TensorFlow.

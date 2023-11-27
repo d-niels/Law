@@ -1,0 +1,4 @@
+8
+Relevant coursework in computer science
+Experience developing e-commerce platforms and payment systems
+Strong programming skills in Java, Python, and JavaScript

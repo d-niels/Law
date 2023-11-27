@@ -1,0 +1,4 @@
+7
+Strong background in Java development.
+Experience with automated testing.
+Relevant coursework in Software Engineering and Database Systems.

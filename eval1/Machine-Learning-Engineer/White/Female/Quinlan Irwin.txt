@@ -1,0 +1,4 @@
+8
+Relevant coursework in machine learning
+Experience in training and deploying machine learning models
+Strong programming skills in Python and deep learning techniques

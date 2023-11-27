@@ -1,0 +1,4 @@
+8
+Experience in developing secure payment systems and e-commerce platforms.
+Strong skills in error tracking and resolving software issues.
+Solid knowledge of database technologies, including NoSQL. 

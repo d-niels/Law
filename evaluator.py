@@ -69,9 +69,10 @@ evaluator = Evaluator('prompts/evaluator.txt')
 for ethnicity in ethnicities:
     for sex in sexes:
         resume_folder_path = os.path.join('resumes', job_title, ethnicity, sex)
-        evaluator_folder_path = os.path.join('evaluations', job_title, ethnicity, sex)
+        evaluator_folder_path = os.path.join('eval1', job_title, ethnicity, sex)
+        os.makedirs(evaluator_folder_path, exist_ok=True)
         for file in os.listdir(resume_folder_path):
-            if file not in os.listdir(os.path.join('evaluations', job_title, ethnicity, sex)):
+            if file not in os.listdir(os.path.join('eval1', job_title, ethnicity, sex)):
                 start = time.time()
                 with open(os.path.join(resume_folder_path, file), 'r') as f:
                     resume = f.read()

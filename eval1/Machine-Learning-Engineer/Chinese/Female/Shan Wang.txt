@@ -1,0 +1,4 @@
+8
+Strong academic foundation in computer science (Bachelor's degree)
+Practical experience in statistical analysis and Python programming
+Previous experience training and deploying machine learning models (Stellar Technologies) 

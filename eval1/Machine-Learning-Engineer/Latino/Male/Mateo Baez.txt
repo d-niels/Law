@@ -1,0 +1,4 @@
+8
+Relevant experience with TensorFlow and PyTorch.
+Strong background in data handling and processing.
+Demonstrated collaboration skills with cross-functional teams.

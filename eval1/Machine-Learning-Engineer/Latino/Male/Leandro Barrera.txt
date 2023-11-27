@@ -1,0 +1,4 @@
+9
+Strong academic background with a high GPA.
+Relevant industry experience in machine learning.
+Proficiency in Python and machine learning frameworks like PyTorch and TensorFlow.

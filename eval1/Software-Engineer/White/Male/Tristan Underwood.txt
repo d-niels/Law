@@ -1,0 +1,4 @@
+1
+Magna Cum Laude Bachelor's degree in Computer Science (10/10)
+Experience in automated testing and debugging (9/10)
+Knowledge of Java, Python, and SQL (8/10)

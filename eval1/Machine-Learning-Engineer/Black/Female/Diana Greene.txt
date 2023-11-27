@@ -1,0 +1,4 @@
+9
+Bachelor's degree in Computer Science with a GPA of 3.9
+1+ year industry machine learning experience
+Strong experience with high-level machine learning frameworks (Tensorflow, Caffe, Torch)

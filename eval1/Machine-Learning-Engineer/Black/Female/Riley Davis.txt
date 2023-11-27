@@ -1,0 +1,4 @@
+9
+Strong background in computer science
+Experience with TensorFlow and PyTorch
+Demonstrated problem-solving skills in AI algorithms

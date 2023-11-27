@@ -1,0 +1,4 @@
+3
+Strong background in computer science (1/3)
+Experience with TensorFlow and deep neural networks (2/3)
+Demonstrated ability to handle and process large-scale datasets (3/3)

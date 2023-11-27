@@ -1,0 +1,4 @@
+8
+Relevant work experience in software engineering (Software Engineer at StellarSoft Technologies)
+Strong programming skills in Java, Python, C#, and JavaScript
+Demonstrated ability to debug and resolve software defects efficiently

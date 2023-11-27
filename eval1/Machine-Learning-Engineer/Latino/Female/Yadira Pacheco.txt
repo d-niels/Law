@@ -1,0 +1,4 @@
+8
+Relevant experience in both research and industry settings
+Proficient in Python and deep learning frameworks (TensorFlow, PyTorch)
+Strong educational background in computer science

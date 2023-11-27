@@ -1,0 +1,4 @@
+3
+Relevant bachelor's degree in computer science (3/10)
+Significant coursework in mathematics and statistics (5/10)
+1-2 years industry machine learning experience (7/10)

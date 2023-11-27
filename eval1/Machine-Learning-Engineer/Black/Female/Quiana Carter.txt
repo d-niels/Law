@@ -1,0 +1,4 @@
+9
+Extensive experience in deep learning algorithms
+Proficiency in TensorFlow, C++, and Python
+Strong academic background in computer science

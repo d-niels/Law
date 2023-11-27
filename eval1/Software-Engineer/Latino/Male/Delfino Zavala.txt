@@ -1,0 +1,4 @@
+9
+Bachelor's degree in computer science (relevant qualification)
+Experience developing scalable backend solutions using Python (relevant experience)
+Active involvement in promoting diversity and inclusivity in the tech community (relevant extracurricular involvement)

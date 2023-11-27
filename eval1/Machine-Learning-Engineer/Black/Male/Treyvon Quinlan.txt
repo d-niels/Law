@@ -1,0 +1,4 @@
+8
+Relevant coursework in Machine Learning and Artificial Intelligence.
+Experience in statistical analysis and deep neural net research.
+Strong programming skills in C++, Python, and problem-solving abilities.

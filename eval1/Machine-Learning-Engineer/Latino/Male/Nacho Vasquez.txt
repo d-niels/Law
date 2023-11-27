@@ -1,0 +1,4 @@
+5
+Lack of experience in deploying deep learning models (1-2 years)
+Limited technical skills in Scala/Spark, R, Matlab, and Docker
+No mention of experience with terabyte-scale datasets

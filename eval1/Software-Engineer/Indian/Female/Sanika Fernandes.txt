@@ -1,0 +1,4 @@
+7
+Bachelor's degree in Computer Science (GPA: 3.9/4.0)
+Experience developing error tracking system for an e-commerce platform
+Strong programming skills in Java, Python, C#, and JavaScript

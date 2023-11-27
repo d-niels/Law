@@ -1,0 +1,4 @@
+8
+Bachelor's degree in computer science from prestigious Silicon Valley University.
+Experience with automated testing and debugging tools.
+Strong technical skills in Java, Python, C#, and JavaScript.

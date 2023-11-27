@@ -1,0 +1,4 @@
+7
+Experience in developing and implementing PyTorch models for deep learning. 
+Proficient in programming languages such as Python and C++. 
+Strong academic background in computer science with a high GPA. 

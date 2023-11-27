@@ -1,0 +1,4 @@
+8
+Relevant coursework in algorithms, data structures, and software engineering.
+Strong programming skills in Java, Python, and JavaScript.
+Experience with automated testing and debugging techniques.

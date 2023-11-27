@@ -1,0 +1,4 @@
+3
+Lacks industry experience in machine learning. 
+No evidence of deep learning model deployment in production. 
+Limited programming language skills and no mention of high-level ML frameworks. 

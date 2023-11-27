@@ -1,0 +1,4 @@
+7
+Machine learning experience in industry (2 years)
+Proficient in Python, TensorFlow, and PyTorch
+Strong academic background in computer science (3.9 GPA)

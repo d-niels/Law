@@ -1,0 +1,4 @@
+9
+Experience developing deep neural network models using TensorFlow 
+Strong background in computer science with a high GPA 
+Relevant work experience in machine learning and data analysis 

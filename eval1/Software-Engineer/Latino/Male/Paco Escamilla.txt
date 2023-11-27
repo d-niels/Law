@@ -1,0 +1,4 @@
+9
+Excellent academic background with high GPA: 3.9/4.0
+Relevant work experience as a Software Engineer: March 2018 Present
+Strong programming skills in Java, Python, C#, and JavaScript

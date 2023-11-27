@@ -1,0 +1,4 @@
+8
+Bachelor of Science in Computer Science
+Proficiency in Python, PyTorch, C++, and TensorFlow
+Experience developing and deploying machine learning models

@@ -1,0 +1,4 @@
+8
+Strong programming skills in Java, Python, and JavaScript.
+Experience with database technologies, including SQL and NoSQL.
+Internship and work experience in software engineering roles. 

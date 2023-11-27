@@ -1,0 +1,4 @@
+9
+Relevant industry experience as a Machine Learning Engineer: ✔
+Strong proficiency in deep learning frameworks such as PyTorch: ✔
+Demonstrated ability to handle large datasets and optimize performance: ✔

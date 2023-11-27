@@ -1,0 +1,4 @@
+8
+Strong background in computer science
+Relevant industry experience: machine learning engineer
+Familiarity with high-level machine learning frameworks: Tensorflow, Caffe, Torch

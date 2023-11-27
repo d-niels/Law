@@ -1,0 +1,4 @@
+8
+Relevant industry experience (Machine Learning Engineer)
+Strong academic background (Bachelor of Science in Computer Science)
+Proficiency in key programming languages (Python, C++, SQL)

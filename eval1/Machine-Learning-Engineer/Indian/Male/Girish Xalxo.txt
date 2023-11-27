@@ -1,0 +1,4 @@
+4
+Lack of industry experience for required years.
+Limited experience in deep learning and neural net research.
+Limited experience with high-level machine learning frameworks.

@@ -1,0 +1,4 @@
+3
+Lack of experience in deploying deep learning models into production
+Limited experience with high-level machine learning frameworks
+Limited knowledge of technologies relevant to the job

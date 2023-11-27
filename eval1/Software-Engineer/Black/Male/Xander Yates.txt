@@ -1,0 +1,4 @@
+9
+GPA: 3.9
+Work experience: Software Engineer at InnovateX Software Solutions
+Programming skills: Java, Python, C#

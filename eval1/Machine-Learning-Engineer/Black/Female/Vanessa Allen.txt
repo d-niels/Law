@@ -1,0 +1,4 @@
+8
+Relevant coursework in AI, data mining, and deep learning (languages and skills)
+Experience developing machine learning models using TensorFlow, Python, and C++ (work experience)
+Demonstrated collaboration and communication with cross-functional teams (work experience)

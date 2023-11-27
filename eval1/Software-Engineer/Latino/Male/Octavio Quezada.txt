@@ -1,0 +1,4 @@
+9
+Bachelor's in Computer Science, GPA: 3.9
+Relevant work experience as a Software Engineer
+Strong programming skills in Java, Python, and JavaScript

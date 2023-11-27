@@ -1,0 +1,4 @@
+8
+Relevant industry experience: Machine Learning Engineer with 1-2 years experience.
+Strong technical skills: Proficiency in Python, C++, and deep learning.
+Educational background: Bachelor of Science in Computer Science with high GPA.

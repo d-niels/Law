@@ -1,0 +1,4 @@
+9
+Relevant industry experience in machine learning: ✔
+Strong educational background in computer science: ✔
+Experience with high-level ML frameworks like TensorFlow: ✔

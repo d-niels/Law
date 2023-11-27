@@ -1,0 +1,4 @@
+8
+Deep learning experience with PyTorch and TensorFlow
+Strong background in computer science
+Previous roles as a Machine Learning Engineer

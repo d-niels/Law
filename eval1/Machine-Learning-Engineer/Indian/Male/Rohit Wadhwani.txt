@@ -1,0 +1,4 @@
+8
+Strong academic foundation in computer science (relevant degree)
+Experience developing and deploying deep learning models (relevant work experience)
+Skills in Python, C++, and data handling techniques (relevant technical skills)

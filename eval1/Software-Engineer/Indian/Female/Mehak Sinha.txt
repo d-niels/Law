@@ -1,0 +1,4 @@
+9
+Relevant work experience as a Software Engineer Intern
+Proficiency in multiple programming languages including Java and Python
+Knowledge of database technologies such as SQL and NoSQL

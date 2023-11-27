@@ -1,0 +1,4 @@
+2
+No experience training and deploying deep learning machine models in production.
+Limited experience with high-level machine learning frameworks.
+No mention of familiarity with technologies like Scala/Spark or Docker.

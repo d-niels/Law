@@ -1,0 +1,4 @@
+8
+Relevant degree in Computer Science with high GPA.
+Current role as Machine Learning Engineer.
+Experience in training and deploying deep learning models. 

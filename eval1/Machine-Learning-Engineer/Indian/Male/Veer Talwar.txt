@@ -1,0 +1,4 @@
+8
+Strong academic background in computer science (relevant degree)
+Proficiency in Python, C++, TensorFlow, and PyTorch (required technical skills)
+Experience in model training and deployment, deep learning (relevant work experience)

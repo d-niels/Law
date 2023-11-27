@@ -1,0 +1,4 @@
+8
+Relevant coursework in data structures and algorithms
+Professional work experience as a software engineer
+Strong programming skills in Java, Python, and C#

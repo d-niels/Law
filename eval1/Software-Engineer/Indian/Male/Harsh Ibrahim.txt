@@ -1,0 +1,4 @@
+8
+Strong background in computer science.
+Experience with programming languages Java, Python, and C#.
+Worked on secure payment systems and ecommerce platform.

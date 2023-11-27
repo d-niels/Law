@@ -1,0 +1,4 @@
+8
+Relevant education in computer science with high GPA.
+Strong experience with machine learning frameworks (TensorFlow, PyTorch).
+Proven track record of implementing deep learning models into production.

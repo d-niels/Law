@@ -1,0 +1,4 @@
+8
+Strong educational background in computer science (relevant degree)
+Professional work experience in software engineering (2 previous positions)
+Experience in programming languages and database technologies (Java, Python, SQL, NoSQL)

@@ -1,0 +1,4 @@
+9
+Bachelor of Science in Computer Science, GPA: 3.9/4.0
+Relevant work experience as a Machine Learning Engineer
+Proficient in Python, C++, and deep learning techniques

@@ -1,0 +1,4 @@
+8
+Machine learning model development using PyTorch for quantum computing applications.
+Collaboration with multidisciplinary teams for optimizing model performance and accuracy.
+Deep learning algorithms for object recognition and path planning in robotics.

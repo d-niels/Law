@@ -1,0 +1,4 @@
+2
+Lacks relevant work experience.
+Limited experience with key programming languages (Java, Python, C#).
+No mention of experience with Mastercard's specific technologies or platforms.

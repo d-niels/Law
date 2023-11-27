@@ -1,0 +1,4 @@
+7
+Bachelor's degree in Computer Science with a high GPA (3.9/4.0)
+Experience in software development using Java, Python, and C#
+Proven problem-solving skills and experience in debugging and testing

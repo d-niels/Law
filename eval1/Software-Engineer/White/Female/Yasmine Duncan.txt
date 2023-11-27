@@ -1,0 +1,4 @@
+7
+Relevant coursework in Data Structures, Algorithms, and Database Systems.
+Experience in automated testing and debugging software code.
+Strong programming skills in Java, Python, and JavaScript.

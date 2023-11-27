@@ -1,0 +1,4 @@
+8
+Relevant work experience as a Machine Learning Engineer Intern.
+Strong technical skills in C++, Python, and deep learning frameworks.
+Demonstrated ability to handle and process large datasets. 

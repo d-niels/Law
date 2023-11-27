@@ -1,0 +1,4 @@
+8
+Relevant degree in computer science with strong coursework in mathematics.
+Experience developing deep learning models using PyTorch and TensorFlow.
+Demonstrated ability to adapt quickly and provide innovative solutions.

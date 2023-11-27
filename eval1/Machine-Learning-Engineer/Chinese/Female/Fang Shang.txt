@@ -1,0 +1,4 @@
+5
+Lack of experience in deploying deep learning models into production.
+Limited exposure to high-level machine learning frameworks such as Tensorflow, Caffe, or Torch.
+Limited knowledge in technologies like Scala/Spark, R, and Docker.

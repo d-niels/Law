@@ -1,0 +1,4 @@
+8
+Relevant work experience as a Machine Learning Engineer.
+Strong programming skills in Python, C++, and TensorFlow.
+Bachelor's degree in Computer Science, Magna Cum Laude.

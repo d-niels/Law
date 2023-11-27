@@ -1,0 +1,4 @@
+9
+Strong background in deep neural net research and model training.
+Proficiency in programming languages such as C, Python, and C++.
+Data handling and processing skills in TensorFlow and PyTorch.

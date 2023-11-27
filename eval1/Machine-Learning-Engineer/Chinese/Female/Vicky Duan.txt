@@ -1,0 +1,4 @@
+6
+Bachelor's degree in Computer Science (relevant education)
+Solid experience with TensorFlow and PyTorch (required ML frameworks)
+Strong analytical skills and problem-solving abilities (key skills) 

@@ -1,0 +1,4 @@
+8
+Relevant coursework in machine learning and artificial intelligence.
+Strong experience with Python and TensorFlow.
+Demonstrated ability to work with large-scale datasets. 

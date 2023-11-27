@@ -1,0 +1,4 @@
+9
+Relevant programming languages and experience (Java, Python, C#)
+Experience with database technologies (SQL, NoSQL)
+Strong academic background and GPA (3.9)

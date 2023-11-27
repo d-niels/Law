@@ -1,0 +1,4 @@
+8
+3.9 GPA in Computer Science degree from ABC University.
+Relevant work experience as a Software Engineer Intern.
+Strong programming skills in Java, Python, C#, and JavaScript.

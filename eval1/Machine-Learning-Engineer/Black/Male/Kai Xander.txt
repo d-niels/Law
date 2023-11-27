@@ -1,0 +1,4 @@
+9
+Relevant industry experience with deep learning machine models
+Strong knowledge of high-level machine learning frameworks
+Demonstrated ability to handle and process large datasets

@@ -1,0 +1,4 @@
+8
+GPA: 3.9
+Relevant coursework: Data Structures and Algorithms, Software Engineering, Systems Programming
+Software Engineer Intern with relevant experience in testing and debugging

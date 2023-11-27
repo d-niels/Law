@@ -1,0 +1,4 @@
+6
+Bachelor's degree in computer science with a high GPA
+Relevant work experience in software engineering
+Strong skills and experience in automated testing and debugging

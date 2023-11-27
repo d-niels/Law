@@ -1,0 +1,4 @@
+9
+Relevant coursework in Machine Learning and Artificial Intelligence
+Strong experience with TensorFlow and PyTorch frameworks
+Demonstrated collaboration with cross-functional teams to optimize model performance

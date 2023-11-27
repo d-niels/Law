@@ -1,0 +1,4 @@
+8
+Strong analytical skills and deep knowledge of computer science.
+Experience in developing advanced machine learning models using TensorFlow.
+Collaborative mindset and effective communication skills.

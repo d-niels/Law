@@ -1,0 +1,4 @@
+8
+Relevant work experience in machine learning algorithms development.
+Strong programming skills in Python, C++, and TensorFlow.
+Demonstrated ability to collaborate effectively in multidisciplinary teams.

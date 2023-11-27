@@ -1,0 +1,4 @@
+4
+Relevant industry experience in machine learning: 1-2 years (4/10)
+Strong programming skills in Python, C++, and database technologies (8/10)
+Demonstrated experience in developing and deploying deep learning models (7/10)

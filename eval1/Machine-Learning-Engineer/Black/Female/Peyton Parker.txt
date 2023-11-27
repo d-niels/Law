@@ -1,0 +1,4 @@
+8
+Relevant industry experience: Successfully trained and deployed deep learning models.
+Strong technical skills: Proficient in Python, C++, and machine learning frameworks.
+Academic excellence: Bachelor's degree in Computer Science with a high GPA.

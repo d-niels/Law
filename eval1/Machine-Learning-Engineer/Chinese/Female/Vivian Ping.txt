@@ -1,0 +1,4 @@
+1
+Research Assistant with deep neural network implementation (10/10)
+Machine Learning Engineer Intern with TensorFlow and PyTorch experience (9/10)
+Strong educational background in computer science (8/10)

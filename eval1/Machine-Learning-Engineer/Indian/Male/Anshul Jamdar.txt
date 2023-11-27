@@ -1,0 +1,4 @@
+8
+Bachelor's degree in computer science with high GPA
+Hands-on experience with machine learning frameworks and technologies
+Demonstrated ability to optimize model performance and enhance accuracy

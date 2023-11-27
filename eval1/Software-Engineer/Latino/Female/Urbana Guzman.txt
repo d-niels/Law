@@ -1,0 +1,4 @@
+8
+GPA: 3.9/4.0
+Relevant coursework: Software Engineering, Data Structures, Algorithms
+Experience with SQL and NoSQL databases

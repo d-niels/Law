@@ -1,0 +1,4 @@
+4
+Lack of specific experience training and deploying deep learning models.
+Limited experience with high-level machine learning frameworks (Tensorflow, Caffe, Torch).
+No mention of experience with big data technologies (Scala/Spark, Cassandra).

@@ -1,0 +1,4 @@
+4
+No mention of experience with Java, a key programming language for the job
+Limited experience with persistent data stores could be a drawback
+No specific mention of familiarity with deployment and task management tools

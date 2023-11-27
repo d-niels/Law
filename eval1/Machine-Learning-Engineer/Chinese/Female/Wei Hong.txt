@@ -1,0 +1,4 @@
+9
+Strong background in computer science.
+Demonstrated proficiency in deep neural network research.
+Experience in implementing machine learning models using C++, Python. 

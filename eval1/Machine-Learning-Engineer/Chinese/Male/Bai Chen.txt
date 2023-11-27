@@ -1,0 +1,4 @@
+9
+Strong academic background in computer science GPA: 3.9
+Industry experience in developing and deploying machine learning models
+Proficient in Python, TensorFlow, and PyTorch

@@ -1,0 +1,4 @@
+9
+Strong programming languages (Java, Python, C#) proficiency
+Experience with NoSQL databases and automated testing
+Relevant work and internship experience

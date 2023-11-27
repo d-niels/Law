@@ -1,0 +1,4 @@
+8
+Strong background in computer science (relevant degree)
+Experience in developing and optimizing advanced neural network models
+Demonstrated proficiency in TensorFlow for model training and deployment

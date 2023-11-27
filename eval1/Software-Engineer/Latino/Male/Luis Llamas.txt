@@ -1,0 +1,4 @@
+8
+GPA: 3.9/4.0
+Experience in Java, Python, and secure payment systems
+Project-based experience in software development languages and automated testing

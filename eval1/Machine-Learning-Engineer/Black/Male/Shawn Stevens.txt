@@ -1,0 +1,4 @@
+5
+Strong background in computer science
+Relevant experience in machine learning engineering
+Proficient in programming languages C, Python, and C++

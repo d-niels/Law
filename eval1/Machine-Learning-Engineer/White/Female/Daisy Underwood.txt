@@ -1,0 +1,4 @@
+3
+Bachelor's degree in computer science with high GPA (3/10)
+1-2 years of industry machine learning experience (5/10)
+Proficient in Python, C++, and leading machine learning frameworks (7/10)

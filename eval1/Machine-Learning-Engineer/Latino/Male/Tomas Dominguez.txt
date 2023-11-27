@@ -1,0 +1,4 @@
+8
+Solid educational background in computer science (relevant coursework, high GPA)
+Experience implementing cutting-edge machine learning models using Python and PyTorch
+Strong problem-solving skills and experience with statistical analysis 

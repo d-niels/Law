@@ -1,0 +1,4 @@
+8
+Relevant work experience in machine learning engineering role
+Strong proficiency in Python and deep learning frameworks
+Demonstrated ability to develop and deploy machine learning models

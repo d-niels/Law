@@ -1,0 +1,4 @@
+8
+Relevant work experience in machine learning with Python and PyTorch.
+Strong academic background in computer science and machine learning coursework.
+Demonstrated ability to successfully train and deploy deep learning models.

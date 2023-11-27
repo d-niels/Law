@@ -1,0 +1,4 @@
+7
+Bachelor of Science in Computer Science
+Machine Learning Engineer experience with Python, C++, and TensorFlow
+Strong problem-solving skills and collaboration experience

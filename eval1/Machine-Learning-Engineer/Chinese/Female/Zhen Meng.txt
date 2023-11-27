@@ -1,0 +1,4 @@
+7
+Relevant coursework in machine learning and algorithms.
+Experience in developing deep learning models using TensorFlow and PyTorch.
+Strong problem-solving and collaboration skills.

@@ -1,0 +1,4 @@
+8
+Relevant work experience in machine learning.
+Strong educational background with a degree in computer science.
+Proficiency in Python for machine learning model development.

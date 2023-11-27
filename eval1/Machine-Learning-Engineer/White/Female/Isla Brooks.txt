@@ -1,0 +1,4 @@
+8
+Bachelor of Science in Computer Science
+Machine Learning Engineer experience at QuantumScape Technologies
+Skills in Python, data handling, model training, and deployment.

@@ -1,0 +1,4 @@
+8
+Strong background in computer science (Bachelor of Science, Computer Science)
+Experience developing state-of-the-art machine learning models (Machine Learning Engineer)
+Proficiency in Python and deep learning algorithms (Python, deep learning)

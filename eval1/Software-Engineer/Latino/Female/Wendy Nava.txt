@@ -1,0 +1,4 @@
+8
+Bachelor's degree in Computer Science (relevant educational background)
+Professional experience as a Software Engineer (relevant work experience)
+Strong programming skills in Java, Python, C#, and JavaScript (relevant technical skills)

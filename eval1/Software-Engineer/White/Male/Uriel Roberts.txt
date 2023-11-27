@@ -1,0 +1,4 @@
+8
+Bachelor's degree in Computer Science from prestigious university
+Work experience in software engineering with Python and Java
+Strong technical skills demonstrated, including testing and debugging

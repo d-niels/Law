@@ -1,0 +1,4 @@
+8
+Relevant industry experience: Successfully trained and deployed deep learning models.
+Strong technical skills: Proficient in Python and high-level machine learning frameworks.
+Exceptional academic background: Bachelor's in Computer Science from Northwestern University.

@@ -1,0 +1,4 @@
+8
+Strong background in computer science
+Proficiency in Python, PyTorch, and TensorFlow
+Relevant work experience in machine learning engineering

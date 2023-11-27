@@ -1,0 +1,4 @@
+8
+Strong programming languages: Java, Python, C#.
+Experience with database technologies: SQL, NoSQL.
+Solid work experience as a software engineer. 

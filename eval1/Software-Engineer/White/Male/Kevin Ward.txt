@@ -1,0 +1,4 @@
+8
+Relevant work experience in software engineering roles (8/10).
+Strong programming skills in Java, Python, and JavaScript (9/10).
+Experience with secure payments and debugging complex issues (7/10).

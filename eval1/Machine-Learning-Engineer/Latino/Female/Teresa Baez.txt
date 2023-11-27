@@ -1,0 +1,4 @@
+8
+Bachelor's degree in Computer Science from a reputable university.
+Experience with TensorFlow and PyTorch frameworks for ML model development.
+Strong academic record with a GPA of 3.9/4.0. 

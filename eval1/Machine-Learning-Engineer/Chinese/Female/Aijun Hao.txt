@@ -1,0 +1,4 @@
+8
+Strong background in computer science
+Experience with TensorFlow and C++
+Relevant coursework in Machine Learning and Artificial Intelligence

@@ -1,0 +1,4 @@
+8
+Proficient in TensorFlow and PyTorch
+Strong team player with excellent communication and collaboration skills
+Relevant work experience as a Machine Learning Engineer

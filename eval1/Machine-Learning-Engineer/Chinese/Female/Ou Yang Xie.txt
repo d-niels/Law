@@ -1,0 +1,4 @@
+8
+Bachelor of Science in Computer Science
+Machine Learning Engineer experience at SparkTech Innovations
+Solid programming skills in Python and experience with TensorFlow

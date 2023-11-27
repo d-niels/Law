@@ -1,0 +1,4 @@
+7
+Solid GPA in Computer Science degree program.
+Experience developing scalable NoSQL database systems.
+Proficiency in multiple programming languages, including Java and Python.

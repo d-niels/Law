@@ -1,0 +1,4 @@
+9
+Machine learning experience in industry (1-2 years)
+Strong knowledge of high-level ML frameworks (PyTorch, TensorFlow)
+Bachelor of Science in Computer Science with high GPA

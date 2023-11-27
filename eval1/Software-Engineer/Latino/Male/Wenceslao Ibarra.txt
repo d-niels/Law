@@ -1,0 +1,4 @@
+8
+Graduated with a GPA of 3.9
+Relevant coursework: Data Structures, Algorithms, Software Engineering, Web Development
+Experience in Java, Python, C#, NoSQL, SQL, and automated testing

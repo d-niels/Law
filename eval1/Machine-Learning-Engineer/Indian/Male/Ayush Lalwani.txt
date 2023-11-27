@@ -1,0 +1,4 @@
+9
+Strong academic background in computer science
+Experience in deep neural net research and analysis
+Proficient in programming languages like C++, Python, and statistical analysis

@@ -1,0 +1,4 @@
+7
+Experience developing machine learning algorithms using Python and PyTorch.
+Understanding of deep neural net research and implementation using TensorFlow.
+Solid background in computer science with a high GPA.

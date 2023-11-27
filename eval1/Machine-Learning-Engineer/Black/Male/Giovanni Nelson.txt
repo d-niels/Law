@@ -1,0 +1,4 @@
+9
+Relevant coursework in machine learning and deep neural networks
+Experience in developing and enhancing machine learning models
+Strong programming skills in Python and C++

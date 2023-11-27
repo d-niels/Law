@@ -1,0 +1,4 @@
+9
+Relevant industry experience: Innovatech AI Solutions, SynthAI
+Strong technical skills: TensorFlow, PyTorch, Python, C++
+Solid educational background: Bachelor of Science in Computer Science (GPA: 3.9)

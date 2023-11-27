@@ -1,0 +1,4 @@
+8
+Strong knowledge of deep learning algorithms and statistical analysis techniques.
+Experience in developing and maintaining machine learning models.
+Proficient in Python and C++ for efficient coding and software development.

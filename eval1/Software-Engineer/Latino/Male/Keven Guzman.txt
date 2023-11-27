@@ -1,0 +1,4 @@
+8
+Academic excellence with a GPA of 3.9
+Experience in implementing highly scalable NoSQL database systems
+Strong programming skills in Java, Python, C#, and JavaScript

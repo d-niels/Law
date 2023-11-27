@@ -1,0 +1,4 @@
+8
+GPA: 3.9/4.0
+Software Engineer intern experience
+Proficiency in Java, Python, C#, JavaScript

@@ -1,0 +1,4 @@
+8
+Relevant industry experience in machine learning (1-2 years)
+Strong proficiency in high-level machine learning frameworks (Tensorflow, Caffe, Torch)
+Excellent academic background in computer science (GPA: 3.9/4.0)

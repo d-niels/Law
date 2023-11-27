@@ -1,0 +1,4 @@
+4
+No mention of experience with high-level machine learning frameworks
+No indication of experience with terabyte-scale datasets
+Lacks specific examples of successful ML projects deployed in production

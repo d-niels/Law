@@ -1,0 +1,4 @@
+8
+Strong educational background in computer science from Stanford University
+Relevant work experience as a Machine Learning Engineer
+Proficiency in programming languages such as Python and C++

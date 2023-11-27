@@ -1,0 +1,4 @@
+5
+Relevant work experience as a Software Engineer (5/10)
+Strong programming skills in Java, Python, and JavaScript (7/10)
+Experience with database technologies and source control management (8/10)

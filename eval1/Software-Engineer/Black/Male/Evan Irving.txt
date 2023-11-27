@@ -1,0 +1,4 @@
+8
+Relevant coursework in computer science.
+Experience in developing and maintaining databases for ecommerce platforms.
+Strong programming skills in Java, Python, C#, and JavaScript.

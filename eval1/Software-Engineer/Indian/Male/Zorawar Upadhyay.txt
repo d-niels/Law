@@ -1,0 +1,4 @@
+6
+Strong background in computer science.
+Experience in developing and maintaining enterprise software solutions.
+Relevant internship experience in Python programming and SQL queries.

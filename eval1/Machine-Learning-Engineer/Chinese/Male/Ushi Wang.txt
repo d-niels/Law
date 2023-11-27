@@ -1,0 +1,4 @@
+8
+Relevant degree in Computer Science
+Experience in machine learning model development and deployment
+Proficiency in programming languages such as Python and C++ 

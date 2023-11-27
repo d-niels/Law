@@ -1,0 +1,4 @@
+9
+Relevant industry experience in machine learning: ✔️
+Strong background in deep neural net research and TensorFlow: ✔️
+Demonstrated ability to collaborate effectively in a team environment: ✔️

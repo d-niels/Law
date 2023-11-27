@@ -1,0 +1,4 @@
+3
+Relevant industry experience in machine learning
+Strong programming skills in Python, C++, and TensorFlow
+Demonstrated teamwork and leadership abilities in previous roles

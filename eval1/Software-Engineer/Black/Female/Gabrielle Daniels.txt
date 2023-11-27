@@ -1,0 +1,4 @@
+8
+Bachelor's degree in computer science (relevant education)
+Software engineering experience with Java, Python, and SQL (relevant skills)
+Worked on developing secure payment systems (relevant experience)

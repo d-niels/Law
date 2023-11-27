@@ -1,0 +1,4 @@
+3
+Relevant bachelor's degree in computer science (3/10)
+Industry experience in machine learning (5/10)
+Familiarity with Python and deep learning frameworks (7/10)

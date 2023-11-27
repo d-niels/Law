@@ -1,0 +1,4 @@
+8
+Relevant work experience in software engineering 
+Strong programming skills in Java, Python, C#, and JavaScript 
+Experience with secure payment systems and adherence to industry standards 

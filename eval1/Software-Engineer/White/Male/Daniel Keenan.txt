@@ -1,0 +1,4 @@
+9
+Relevant coursework: Data Structures, Algorithms, Object-Oriented Programming
+Experience in Java, Python, C#, JavaScript
+Work experience as a software engineer with Java and NoSQL databases

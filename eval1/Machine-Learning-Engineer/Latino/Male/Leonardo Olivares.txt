@@ -1,0 +1,4 @@
+8
+Bachelor's degree in computer science with a GPA of 3.9
+Experience in model training and deployment using C++ and Python
+Strong problem-solving skills and analytical abilities

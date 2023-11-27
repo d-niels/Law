@@ -1,0 +1,4 @@
+5
+Bachelor's degree in computer science with strong GPA.
+1+ year industry machine learning experience, including deploying models into production.
+Experience with high-level machine learning frameworks and data pipelines creation.

@@ -1,0 +1,4 @@
+8
+Strong academic background in computer science (GPA: 3.9)
+Previous experience developing machine learning algorithms and models
+Familiarity with programming languages (Python, C++, C) and database technologies

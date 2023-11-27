@@ -1,0 +1,4 @@
+8
+Solid academic standing with a GPA of 3.9.
+Relevant software engineering experience with ecommerce platforms.
+Strong programming skills in Python, Java, and SQL.

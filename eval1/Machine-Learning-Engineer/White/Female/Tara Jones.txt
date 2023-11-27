@@ -1,0 +1,4 @@
+8
+Strong background in statistical analysis and Python programming
+Skilled in PyTorch, C++, and model training & deployment with TensorFlow
+Demonstrated adaptability and collaboration in fast-paced environments

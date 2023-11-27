@@ -1,0 +1,4 @@
+8
+Relevant coursework in algorithms, data structures, and software engineering. 
+Experience in developing software applications using Java and SQL. 
+Strong analytical skills and ability to debug critical issues. 

@@ -1,0 +1,4 @@
+8
+Bachelor of Science in Computer Science with a GPA of 3.9
+1-2 years of industry machine learning experience
+Proficiency in TensorFlow, Python, C++, and PyTorch

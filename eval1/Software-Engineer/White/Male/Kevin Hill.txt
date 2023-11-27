@@ -1,0 +1,4 @@
+8
+Relevant work experience as a software engineer ✔
+Strong programming skills in Java, Python, and C# ✔
+Solid understanding of database technologies, including SQL and NoSQL ✔

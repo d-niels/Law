@@ -1,0 +1,4 @@
+8
+Strong background in computer science and machine learning engineering.
+Experience in developing and implementing machine learning models.
+Demonstrated knowledge of TensorFlow, C++, and Python for deep learning. 

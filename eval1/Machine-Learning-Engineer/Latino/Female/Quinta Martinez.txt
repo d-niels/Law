@@ -1,0 +1,4 @@
+8
+Solid foundation in computer science and machine learning frameworks.
+Demonstrated ability to adapt quickly and solve complex challenges.
+Proficient in Python, C++, and deep learning frameworks like PyTorch.

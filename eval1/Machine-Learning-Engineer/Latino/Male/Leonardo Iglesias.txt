@@ -1,0 +1,4 @@
+2
+No prior experience with deep learning model deployment (On-site requirement)
+No mention of experience with high-level machine learning frameworks (Tensorflow, Caffe, or Torch)
+Lacks experience with technologies such as Scala/Spark, R, and Docker

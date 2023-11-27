@@ -1,0 +1,4 @@
+9
+Bachelor of Science in Computer Science (GPA: 3.9)
+Experience in developing and deploying machine learning models
+Strong programming skills in Python and C++

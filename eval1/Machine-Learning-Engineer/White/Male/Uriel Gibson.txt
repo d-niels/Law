@@ -1,0 +1,4 @@
+8
+Relevant education in computer science (major)
+Experience in developing and optimizing machine learning models
+Strong programming skills in Python and C++

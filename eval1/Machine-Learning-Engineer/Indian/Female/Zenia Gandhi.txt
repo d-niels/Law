@@ -1,0 +1,4 @@
+9
+Relevant coursework in machine learning and artificial intelligence. 
+Experience with Python, TensorFlow, PyTorch, and C++. 
+Collaborative problem-solving skills and strong communication abilities.

@@ -1,0 +1,4 @@
+8
+Relevant work experience as a software engineer.
+Proficiency in multiple programming languages, including Java, Python, and JavaScript.
+Strong educational background with a high GPA in Computer Science.

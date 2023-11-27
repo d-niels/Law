@@ -1,0 +1,4 @@
+8
+Relevant work experience in machine learning engineering.
+Proficient in programming languages such as Python and C++.
+Strong educational background in computer science with a high GPA.

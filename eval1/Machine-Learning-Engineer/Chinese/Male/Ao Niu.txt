@@ -1,0 +1,4 @@
+8
+Machine learning experience in industry (1-2 years)
+Successful deployment of deep learning machine model into production
+Strong knowledge of Python and high-level ML frameworks (Tensorflow, Caffe, Torch)

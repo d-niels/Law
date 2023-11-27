@@ -1,0 +1,4 @@
+3
+No industry experience in machine learning
+Limited experience in deploying deep learning models into production
+Insufficient technical skills in high-level ML frameworks and data pipelines

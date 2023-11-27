@@ -1,0 +1,4 @@
+8
+GPA: 3.9/4.0
+Java, Python, C#, JavaScript proficiency
+Project-based experience with payment processing software

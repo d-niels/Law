@@ -1,0 +1,4 @@
+8
+Strong track record in implementing algorithms for deep neural nets.
+Demonstrated experience in deploying Python-based models for production use.
+Solid educational background in computer science with a high GPA.

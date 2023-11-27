@@ -1,0 +1,4 @@
+8
+Relevant work experience in machine learning algorithms and statistical analysis.
+Strong programming skills in C, Python, and C++.
+Knowledge and experience with machine learning frameworks such as PyTorch and TensorFlow.

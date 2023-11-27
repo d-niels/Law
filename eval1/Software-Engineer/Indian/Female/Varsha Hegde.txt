@@ -1,0 +1,4 @@
+7
+High GPA in Computer Science degree. 
+Relevant internship experience with Python and NoSQL databases. 
+Strong programming skills in Java, Python, C#, and JavaScript.

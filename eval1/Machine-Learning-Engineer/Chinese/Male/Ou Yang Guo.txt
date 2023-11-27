@@ -1,0 +1,4 @@
+9
+Relevant coursework: Machine Learning, Data Mining, Algorithms, Artificial Intelligence
+Developed and implemented machine learning models using C++, PyTorch, and TensorFlow
+Collaborated effectively with software engineers and data scientists

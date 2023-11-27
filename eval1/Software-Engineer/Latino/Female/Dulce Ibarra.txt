@@ -1,0 +1,4 @@
+9
+Strong academic background: Bachelor's in Computer Science, GPA 3.9/4.0
+Relevant work experience: Software Engineer, developing secure payment systems
+Programming proficiency: Java, Python, C#, JavaScript; SQL and NoSQL databases

@@ -1,0 +1,4 @@
+8
+Relevant machine learning experience with TensorFlow and PyTorch.
+Strong educational background in computer science.
+Demonstrated teamwork and problem-solving skills in previous roles.

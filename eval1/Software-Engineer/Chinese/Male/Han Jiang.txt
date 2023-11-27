@@ -1,0 +1,4 @@
+8
+3.9 GPA in Computer Science
+Experience with Python, Java, and SQL
+Worked on developing secure payment systems at NeoGaming Corp

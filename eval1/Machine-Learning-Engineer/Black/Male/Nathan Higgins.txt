@@ -1,0 +1,4 @@
+8
+Strong academic background in computer science: Relevant coursework, high GPA.
+Experience with machine learning frameworks like TensorFlow and PyTorch.
+Demonstrated problem-solving skills, statistical analysis, and collaborative experience. 

@@ -1,0 +1,4 @@
+8
+Relevant bachelor's degree in computer science. 
+Experience in machine learning model training and deployment. 
+Strong programming skills in Python and C++. 

@@ -1,0 +1,4 @@
+9
+Relevant Degree in Computer Science.
+Experience in developing and deploying deep learning models.
+Strong programming skills in C++, Python, and statistical analysis. 

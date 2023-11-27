@@ -1,0 +1,4 @@
+8
+Strong educational background in computer science with high GPA.
+Experience developing and implementing machine learning algorithms.
+Proficiency in PyTorch, TensorFlow, C++, and Python.

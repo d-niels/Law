@@ -1,0 +1,4 @@
+7
+Bachelor's degree in Computer Science
+1-2 years industry machine learning experience
+Strong experience with machine learning frameworks (TensorFlow, Caffe, Torch)

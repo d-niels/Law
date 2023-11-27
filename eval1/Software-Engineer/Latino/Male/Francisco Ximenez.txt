@@ -1,0 +1,4 @@
+9
+Relevant work experience in software engineering companies.
+Strong technical background in computer science.
+Proficiency in Java, Python, and database technologies.
