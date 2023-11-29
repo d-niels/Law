@@ -77,3 +77,4 @@ def impact(evaluator, job_title):
     print('\n\n\nINTERSECTIONAL IMPACT\n')
     print(df_intersectional_impact.to_string())
     print('\n\n')
+    print(f'Saved reports to {dir}\n\n')
