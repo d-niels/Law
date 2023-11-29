@@ -9,19 +9,9 @@ import argparse
 
 openai.api_key = key
 
-parser = argparse.ArgumentParser(description="Script to create resumes.")
-
-# Add the 'job_title' argument
-parser.add_argument('--job_title', type=str, help='Specify the job title')
-# Parse the command line arguments
-args = parser.parse_args()
-# Access the value of the 'job_title' argument
-job_title = args.job_title
-
-def save_random_resume():
+def save_random_resume(job_title):
     gender = random.sample(data.GENDERS, 1)[0]
     ethnicity = random.sample(data.ETHNICITIES, 1)[0]
-    job_title = 'Machine-Learning-Engineer'
     name = data.random_name(ethnicity, gender)
     t = time.time()
     r = generate_resume(name, gender, ethnicity, job_title)
