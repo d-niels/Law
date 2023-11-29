@@ -1,4 +1,0 @@
-7
-Relevant coursework: Machine Learning, Deep Learning, Artificial Intelligence. 
-Experience with PyTorch for model training and deployment. 
-Active involvement in promoting diversity and inclusion. 

@@ -1,4 +1,0 @@
-8
-Relevant experience with deep neural networks using TensorFlow. 
-Strong collaboration and communication skills.
-Demonstrated problem-solving abilities in a fast-paced research environment.

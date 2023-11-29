@@ -1,4 +1,0 @@
-9
-Bachelor's degree in computer science (3.9 GPA)
-Experience developing advanced ecommerce platforms
-Strong programming skills in Java, Python, C#, and JavaScript

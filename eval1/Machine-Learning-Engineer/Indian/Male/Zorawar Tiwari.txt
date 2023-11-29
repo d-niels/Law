@@ -1,4 +1,0 @@
-8
-Relevant coursework in machine learning, AI, and data structures
-Experience in developing deep learning models using Python and PyTorch framework
-Worked as a Data Science Analyst, trained and deployed machine learning models

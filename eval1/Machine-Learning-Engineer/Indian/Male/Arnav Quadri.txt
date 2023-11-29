@@ -1,4 +1,0 @@
-8
-Relevant coursework: Artificial Intelligence, Machine Learning
-Demonstrated deep neural net research and implementation skills
-Previous experience in machine learning model development and deployment

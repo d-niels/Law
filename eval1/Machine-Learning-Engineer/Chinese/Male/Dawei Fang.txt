@@ -1,4 +1,0 @@
-9
-Strong foundation in programming languages and database technologies
-Proficient in C++ and TensorFlow
-Experience in developing and deploying advanced machine learning models

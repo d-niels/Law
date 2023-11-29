@@ -1,4 +1,0 @@
-2
-No mention of experience deploying ML models in production
-No indication of knowledge or experience with high-level ML frameworks
-Lacks specific technical skills required for the job

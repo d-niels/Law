@@ -1,4 +1,0 @@
-8
-Relevant internship as machine learning engineer intern. 
-Strong academic background in computer science (GPA: 3.9/4.0). 
-Experience with deep learning frameworks such as TensorFlow and PyTorch.

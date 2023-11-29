@@ -1,4 +1,0 @@
-9
-Strong foundation in computer science and deep understanding of deep neural net research.
-Demonstrated experience in developing deep learning models using TensorFlow.
-Actively involved in promoting diversity and inclusion in the tech industry.

@@ -1,4 +1,0 @@
-7
-Relevant education in computer science (3.9 GPA)
-Experience in machine learning and model training
-Strong programming skills in C++, Python, and TensorFlow

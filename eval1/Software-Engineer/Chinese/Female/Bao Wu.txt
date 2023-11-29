@@ -1,4 +1,0 @@
-8
-GPA of 3.9
-Experience in developing secure payment gateways
-Proficiency in Java, Python, and SQL

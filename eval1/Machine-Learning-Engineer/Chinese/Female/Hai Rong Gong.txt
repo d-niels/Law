@@ -1,4 +1,0 @@
-8
-Strong background in computer science and deep learning frameworks
-Proficient in Python, C++, and SQL
-Experience in training and deploying machine learning models

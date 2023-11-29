@@ -1,4 +1,0 @@
-8
-Machine learning experience
-Strong programming skills in C++, Python, and TensorFlow
-Relevant academic background in computer science

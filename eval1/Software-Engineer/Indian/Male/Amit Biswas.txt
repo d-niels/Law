@@ -1,4 +1,0 @@
-8
-Relevant work experience in software development roles. 
-Strong programming skills in Java, Python, C#, and JavaScript. 
-Demonstrated ability to optimize database performance and implement secure payment systems.

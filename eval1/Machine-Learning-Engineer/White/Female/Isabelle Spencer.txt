@@ -1,4 +1,0 @@
-8
-Relevant degree in computer science with coursework in mathematics and statistics.
-Strong experience with C++, Python, PyTorch, and deep learning models.
-Previous experience developing and deploying machine learning models in production.

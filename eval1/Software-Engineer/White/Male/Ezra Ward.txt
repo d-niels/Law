@@ -1,4 +1,0 @@
-8
-Bachelor of Science in Computer Science from University of Texas at Austin.
-Project-based experience in multiple programming languages (Java, Python, C#).
-Solid work experience with database technologies (NoSQL, SQL).

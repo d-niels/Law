@@ -1,4 +1,0 @@
-8
-Strong background in computer science (3.9 GPA)
-Experience in utilizing TensorFlow and PyTorch frameworks
-Previous role as Machine Learning Engineer (2 years)

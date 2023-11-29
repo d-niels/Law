@@ -1,4 +1,0 @@
-9
-Bachelor of Science in Computer Science from UC Berkeley
-2 years industry machine learning experience
-Experience developing machine learning models using TensorFlow, C++, and Python

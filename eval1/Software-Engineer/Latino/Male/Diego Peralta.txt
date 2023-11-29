@@ -1,4 +1,0 @@
-2
-No mention of familiarity with persistent data stores
-Limited professional work experience
-No mention of exposure to source control management or deployment tools

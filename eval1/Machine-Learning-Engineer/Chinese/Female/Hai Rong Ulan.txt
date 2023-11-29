@@ -1,4 +1,0 @@
-9
-Strong academic background in computer science (Bachelor's degree)
-Relevant work experience as a machine learning engineer
-Proficiency in Python and experience with deep learning frameworks

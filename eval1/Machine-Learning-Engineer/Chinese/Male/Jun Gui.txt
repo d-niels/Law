@@ -1,4 +1,0 @@
-9
-Relevant coursework in Machine Learning
-Experience with TensorFlow, PyTorch, and Deep Learning algorithms
-Strong problem-solving and analytical skills

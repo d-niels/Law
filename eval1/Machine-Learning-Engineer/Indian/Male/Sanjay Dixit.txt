@@ -1,4 +1,0 @@
-8
-B.S. in Computer Science (GPA: 3.9/4.0)
-Machine Learning Engineer with industry experience
-Proficient in Python, TensorFlow, and PyTorch

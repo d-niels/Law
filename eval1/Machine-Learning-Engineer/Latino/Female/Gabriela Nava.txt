@@ -1,4 +1,0 @@
-8
-Relevant experience in developing deep learning models using TensorFlow and PyTorch.
-Strong academic background in computer science with a high GPA.
-Demonstrated ability to work effectively in teams and deliver impactful results.

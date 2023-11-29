@@ -1,4 +1,0 @@
-7
-Relevant coursework in Machine Learning
-Experience in developing deep learning models and frameworks
-Strong problem-solving and analytical skills

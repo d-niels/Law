@@ -1,4 +1,0 @@
-8
-Relevant industry experience with machine learning models. 
-Strong programming skills in Python, C++, and PyTorch.
-Exceptional problem-solving skills and analytical mindset.

@@ -1,4 +1,0 @@
-8
-Bachelor's Degree in Computer Science (relevant educational background)
-Machine Learning Engineer experience (industry experience in desired role)
-Expertise in PyTorch and TensorFlow (proficiency in required ML frameworks)

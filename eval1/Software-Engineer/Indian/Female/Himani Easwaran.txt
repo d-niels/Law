@@ -1,4 +1,0 @@
-8
-Strong academic background in computer science (B.S. from Caltech).
-Solid work experience in software development (2 years).
-Proficiency in Java, Python, C#, and JavaScript. 

@@ -1,4 +1,0 @@
-4
-Relevant industry experience: Developed and deployed deep learning models (4/10).
-Strong academic background: Bachelor's degree in Computer Science with high GPA (7/10).
-Proficiency in key technologies: Experience with Python, C++, and TensorFlow (8/10).

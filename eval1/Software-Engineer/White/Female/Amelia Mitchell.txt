@@ -1,4 +1,0 @@
-3
-Relevant work experience in software engineering (3/10)
-Strong programming skills in Java, Python, and JavaScript (4/10)
-Experience with database technologies and automated testing (2/10)

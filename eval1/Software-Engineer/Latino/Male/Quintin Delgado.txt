@@ -1,4 +1,0 @@
-7
-Relevant work experience as a software engineer.
-Strong educational background in computer science.
-Experience with programming languages like Java, Python, and C#.

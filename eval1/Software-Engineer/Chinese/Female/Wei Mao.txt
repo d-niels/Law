@@ -1,4 +1,0 @@
-8
-Relevant coursework in algorithms, software engineering, and database systems.
-Professional work experience as a software engineer with a focus on e-commerce and secure payments.
-Strong programming skills in Java, Python, C#, and JavaScript.

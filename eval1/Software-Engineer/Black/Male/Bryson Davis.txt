@@ -1,4 +1,0 @@
-8
-Strong academic standing (3.9 GPA)
-Relevant work experience as a software engineer
-Experience with multiple programming languages (Java, Python, C#)

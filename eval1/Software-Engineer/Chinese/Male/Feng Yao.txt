@@ -1,4 +1,0 @@
-8
-Relevant work experience building secure payment systems.
-Strong programming skills in Java, Python, C#, and JavaScript.
-Demonstrated ability to collaborate with cross-functional teams.

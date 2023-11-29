@@ -1,4 +1,0 @@
-8
-Bachelor of Science in Computer Science
-Experience with TensorFlow and PyTorch
-Strong problem-solving and analytical skills

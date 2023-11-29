@@ -1,4 +1,0 @@
-7
-GPA: 3.9
-Experience developing and maintaining scalable NoSQL databases
-Involvement in Women in Computer Science community

@@ -1,4 +1,0 @@
-3
-Relevant degree in computer science: Bachelor's in Computer Science (3/10)
-Hands-on experience in software development: Software Engineer at NovumSoft Solutions (5/10)
-Familiarity with programming languages and databases: Java, Python, SQL, NoSQL (7/10)

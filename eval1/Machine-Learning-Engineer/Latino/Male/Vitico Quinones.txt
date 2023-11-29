@@ -1,4 +1,0 @@
-9
-Bachelor of Science in Computer Science, Minor in Mathematics
-Experience with TensorFlow and Python for deep learning algorithms
-Proven track record of delivering exceptional results as a Machine Learning Engineer

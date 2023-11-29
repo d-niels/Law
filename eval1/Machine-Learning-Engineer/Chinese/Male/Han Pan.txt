@@ -1,4 +1,0 @@
-8
-Relevant industry experience: 2 years ML experience.
-Strong technical skills: Python, TensorFlow, C++, SQL.
-Academic background: Computer Science degree (3.9/4.0 GPA).

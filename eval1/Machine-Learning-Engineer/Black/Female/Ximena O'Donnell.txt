@@ -1,4 +1,0 @@
-8
-Relevant industry machine learning experience (1-2 years)
-Strong experience with high-level machine learning frameworks (Tensorflow, Caffe, Torch)
-Background in computer science with coursework in mathematics/statistics

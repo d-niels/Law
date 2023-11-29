@@ -1,4 +1,0 @@
-8
-Relevant industry experience in machine learning (2 years)
-Strong knowledge of high-level machine learning frameworks (Tensorflow, PyTorch)
-Demonstrated ability to collaborate with cross-functional teams and problem-solve

@@ -1,4 +1,0 @@
-8
-Strong background in computer science (relevant degree) 
-Experience in data handling and processing with TensorFlow and PyTorch
-Demonstrated collaboration skills and ability to work in teams

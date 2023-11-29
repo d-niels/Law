@@ -1,4 +1,0 @@
-8
-Relevant experience in machine learning engineering
-Proficiency in Python and deep learning frameworks
-Strong educational background in computer science

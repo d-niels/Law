@@ -1,4 +1,0 @@
-7
-Relevant degree in computer science
-Professional work experience as a software engineer
-Strong programming skills in Java, Python, and JavaScript

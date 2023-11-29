@@ -1,4 +1,0 @@
-8
-Bachelor's degree in computer science from prestigious Harmony University.
-Professional experience in developing e-commerce solutions using Python and Java.
-Knowledge and utilization of NoSQL database technologies (MongoDB).

@@ -1,4 +1,0 @@
-8
-Strong expertise in Python, PyTorch, and TensorFlow.
-Experience in model training and deployment with optimal performance.
-Excellent communication and collaboration skills in team-oriented environments.

@@ -1,4 +1,0 @@
-8
-Relevant degree in Computer Science
-Strong programming skills in Java, Python, and C#
-Work experience in software development and debugging

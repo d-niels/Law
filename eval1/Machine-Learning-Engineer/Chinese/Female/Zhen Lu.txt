@@ -1,4 +1,0 @@
-9
-Relevant coursework in Machine Learning and Artificial Intelligence.
-Experience in implementing deep learning models using PyTorch.
-Strong collaboration skills, demonstrated through multidisciplinary team projects.

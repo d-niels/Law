@@ -1,4 +1,0 @@
-8
-Relevant experience in developing secure payment integration for e-commerce platforms.
-Strong programming skills in Java, Python, C#, and JavaScript.
-Solid understanding of database technologies, including SQL and NoSQL.

@@ -1,4 +1,0 @@
-4
-Lack of relevant work experience for software engineering
-No mention of Mastercard technologies or payment systems
-Limited exposure to advanced software engineering concepts

@@ -1,4 +1,0 @@
-8
-Proficiency in PyTorch and C++ for training and deploying ML models
-Collaborated seamlessly with cross-functional teams
-Demonstrated problem-solving skills and analytical thinking

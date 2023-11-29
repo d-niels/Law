@@ -1,4 +1,0 @@
-8
-Strong academic background in computer science (GPA: 3.9)
-Relevant industry experience in machine learning
-Demonstrated ability to improve model accuracy and performance

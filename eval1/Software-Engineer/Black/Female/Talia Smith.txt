@@ -1,4 +1,0 @@
-8
-Extensive experience in Java, Python, C#, and JavaScript.
-Strong background in database technologies such as SQL and NoSQL.
-Proven track record of delivering high-quality software on time.

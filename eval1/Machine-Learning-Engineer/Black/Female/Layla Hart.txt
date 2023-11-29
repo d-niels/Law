@@ -1,4 +1,0 @@
-9
-Strong academic background in computer science (GPA: 3.9/4.0)
-Relevant work experience in machine learning engineering roles
-Proficiency in TensorFlow, PyTorch, and Python programming language.

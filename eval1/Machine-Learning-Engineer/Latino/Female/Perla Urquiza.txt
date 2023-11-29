@@ -1,4 +1,0 @@
-8
-Relevant industry experience in machine learning: Developed and deployed ML models.
-Strong programming skills in C++ and Python.
-Demonstrated ability to stay updated with latest deep neural net research.

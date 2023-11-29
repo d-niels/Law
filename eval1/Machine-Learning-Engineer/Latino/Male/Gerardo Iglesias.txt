@@ -1,4 +1,0 @@
-8
-Machine learning experience with TensorFlow and deep learning techniques.
-Strong problem-solving mindset and expertise in Python programming.
-Bachelor of Science in Computer Science from reputable university.

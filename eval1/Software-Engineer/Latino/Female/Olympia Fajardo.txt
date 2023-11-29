@@ -1,4 +1,0 @@
-5
-Limited professional work experience
-No mention of specific development tools/languages used
-Lacking experience in source control management, deployment, and task management tools

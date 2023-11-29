@@ -1,4 +1,0 @@
-9
-Strong programming skills in Java, Python, C# (Match)
-Experience with database technologies: SQL, NoSQL (Match)
-Previous work experience as a Software Engineer (Match)

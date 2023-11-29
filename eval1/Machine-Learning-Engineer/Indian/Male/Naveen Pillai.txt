@@ -1,4 +1,0 @@
-8
-Relevant degree in computer science
-Solid experience with PyTorch and TensorFlow frameworks
-Strong analytical and problem-solving skills

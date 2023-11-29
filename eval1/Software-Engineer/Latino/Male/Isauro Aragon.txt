@@ -1,4 +1,0 @@
-7
-Relevant coursework: Data Structures, Algorithms, Software Engineering
-Experience developing Java-based software applications
-Strong problem-solving skills and analytical abilities

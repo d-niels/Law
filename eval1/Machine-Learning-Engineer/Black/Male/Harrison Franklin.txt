@@ -1,4 +1,0 @@
-9
-Relevant experience as a Machine Learning Engineer (1-2 years).
-Proficiency in PyTorch, TensorFlow, and other cutting-edge technologies.
-Strong academic background in Computer Science (3.9 GPA).

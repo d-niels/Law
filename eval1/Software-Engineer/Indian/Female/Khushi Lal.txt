@@ -1,4 +1,0 @@
-8
-Bachelor of Science in Computer Science with a high GPA.
-Work experience in software engineering and database technologies.
-Strong programming skills in Java, Python, C#, and JavaScript.

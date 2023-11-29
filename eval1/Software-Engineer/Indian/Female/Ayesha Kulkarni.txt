@@ -1,4 +1,0 @@
-7
-GPA of 3.9
-Relevant coursework in computer science
-Professional experience in software engineering

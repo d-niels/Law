@@ -1,4 +1,0 @@
-9
-Relevant industry experience with deep learning models (1-2 years)
-Strong skills in Python and high-level ML frameworks (Tensorflow, PyTorch)
-Strong educational background in computer science (3.9/4.0 GPA)

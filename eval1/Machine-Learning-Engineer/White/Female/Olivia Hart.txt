@@ -1,4 +1,0 @@
-8
-Strong background in computer science
-Expertise in machine learning techniques
-Experience developing and implementing machine learning models

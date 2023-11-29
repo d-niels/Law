@@ -1,4 +1,0 @@
-9
-Experience in developing and implementing machine learning algorithms using TensorFlow and PyTorch.
-Strong programming skills in C, Python, and C++.
-Relevant education in computer science and a high GPA. 

@@ -1,4 +1,0 @@
-8
-GPA: 3.9
-Professional work experience as a Software Engineer
-Strong skills in Java, Python, and database technologies

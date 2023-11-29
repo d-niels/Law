@@ -1,4 +1,0 @@
-9
-Relevant experience in machine learning, model training, and deployment.
-Strong technical skills in Python, C++, and machine learning frameworks.
-Demonstrated ability to collaborate with cross-functional teams and deliver results.

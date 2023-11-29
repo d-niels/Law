@@ -1,4 +1,0 @@
-8
-Bachelor's degree in Computer Science from a reputable institution
-Professional work experience as a Software Engineer
-Strong programming skills in Java, Python, C#, and JavaScript

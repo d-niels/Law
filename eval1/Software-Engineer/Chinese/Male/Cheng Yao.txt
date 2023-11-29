@@ -1,4 +1,0 @@
-8
-Bachelor's in Computer Science
-Project-based experience in Java, Python, and SQL
-Experience with automated testing and debugging techniques

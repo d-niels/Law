@@ -1,4 +1,0 @@
-5
-Bachelor of Science in Computer Science from Texas Tech University
-Work experience as a Software Engineer at ZenTech Solutions
-Skills in Java, Python, SQL, NoSQL, and Git

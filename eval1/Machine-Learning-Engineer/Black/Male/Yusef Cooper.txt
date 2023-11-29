@@ -1,4 +1,0 @@
-9
-Experience with high-level machine learning frameworks such as TensorFlow
-Strong background in computer science with a focus on machine learning
-Demonstrated ability to train and deploy machine learning models accurately

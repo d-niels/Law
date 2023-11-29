@@ -1,4 +1,0 @@
-8
-B.S. in Computer Science from Alpha University, Los Angeles, CA
-1+ year industry experience in machine learning engineering
-Strong proficiency in Python, PyTorch, and TensorFlow

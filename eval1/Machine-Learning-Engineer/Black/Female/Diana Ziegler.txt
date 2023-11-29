@@ -1,4 +1,0 @@
-8
-Relevant experience in machine learning model deployment (1 year industry experience).
-Strong programming skills in C++, Python, and TensorFlow.
-Passionate about promoting diversity and inclusion in the tech community.

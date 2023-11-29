@@ -1,4 +1,0 @@
-8
-Bachelor's degree in Computer Science from a renowned university.
-1-2 years industry machine learning experience.
-Experience with high-level machine learning frameworks such as Tensorflow. 

@@ -1,4 +1,0 @@
-8
-Strong background in computer science
-Experience developing and deploying machine learning models
-Familiarity with deep learning techniques and frameworks

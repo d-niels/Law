@@ -1,4 +1,0 @@
-8
-Bachelor's degree in Computer Science, Magna Cum Laude.
-Work experience as a Software Developer.
-Knowledge of programming languages: Java, Python, C#, JavaScript.

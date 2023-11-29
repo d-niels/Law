@@ -1,4 +1,0 @@
-7
-Bachelor of Science in Computer Science
-Machine Learning Engineer experience at QuantumAI
-Strong programming skills in Python and C++.

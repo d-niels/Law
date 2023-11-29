@@ -1,4 +1,0 @@
-8
-Strong academic background in computer science (degree with high GPA)
-Machine learning experience using PyTorch and TensorFlow
-Relevant work experience in data engineering and model development

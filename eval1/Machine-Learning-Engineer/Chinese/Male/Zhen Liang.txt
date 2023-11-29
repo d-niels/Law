@@ -1,4 +1,0 @@
-8
-Relevant degree in computer science (GPA: 3.9)
-Strong experience with Python and machine learning frameworks
-Work experience in machine learning engineering role

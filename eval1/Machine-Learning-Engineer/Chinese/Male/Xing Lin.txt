@@ -1,4 +1,0 @@
-7
-Strong technical background in computer science.
-Experience with TensorFlow and PyTorch for model development.
-Strong analytical and problem-solving skills.

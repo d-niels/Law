@@ -1,4 +1,0 @@
-8
-Bachelor's in Computer Science with high GPA: 3.9/4.0
-Experience in developing secure payment systems using Java
-Strong analytical and problem-solving skills.

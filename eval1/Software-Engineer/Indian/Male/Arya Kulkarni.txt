@@ -1,4 +1,0 @@
-7
-Relevant coursework in data structures and algorithms.
-Strong experience with SQL databases and NoSQL integration.
-Proven ability to troubleshoot and resolve software issues effectively. 

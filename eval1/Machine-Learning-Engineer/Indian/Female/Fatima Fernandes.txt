@@ -1,4 +1,0 @@
-8
-Strong background in computer science (relevant education)
-Experience with TensorFlow and PyTorch (relevant skills)
-Research experience in deep neural networks (relevant experience)

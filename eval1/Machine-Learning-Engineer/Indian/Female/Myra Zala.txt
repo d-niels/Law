@@ -1,4 +1,0 @@
-8
-Machine learning engineer experience // Data analyst experience // Proficiency in PyTorch and TensorFlow
-Relevant educational background in computer science
-Strong programming skills and ability to work with large datasets

@@ -1,4 +1,0 @@
-8
-Bachelor's degree in Computer Science with a GPA of 3.9
-Previous work experience as a Software Engineer
-Project-based experience in Java, Python, and NoSQL databases

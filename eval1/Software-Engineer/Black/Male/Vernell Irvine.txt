@@ -1,4 +1,0 @@
-9
-Strong academic background in computer science (GPA: 3.9)
-Experience in both frontend and backend development
-Proven skills in programming languages like Java, Python, and JavaScript.

@@ -1,4 +1,0 @@
-9
-Strong experience with high-level machine learning frameworks (PyTorch, Python)
-Successfully deployed deep learning models into production
-Collaborated with diverse teams and demonstrated exceptional adaptability 

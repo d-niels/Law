@@ -1,4 +1,0 @@
-8
-Strong background in computer science with high GPA. 
-Experience developing machine learning models using TensorFlow and PyTorch. 
-Demonstrated communication and collaboration skills. 

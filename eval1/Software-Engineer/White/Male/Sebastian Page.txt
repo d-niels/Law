@@ -1,4 +1,0 @@
-8
-Magna Cum Laude in Computer Science
-Professional experience in software development and debugging
-Strong programming skills in Java, Python, C#, and JavaScript

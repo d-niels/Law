@@ -1,4 +1,0 @@
-7
-Bachelor's in Computer Science with high GPA (3.9/4.0)
-Work experience in developing e-commerce platforms and automated testing
-Strong programming skills in Java, Python, C#, JavaScript, and database technologies

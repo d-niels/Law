@@ -1,4 +1,0 @@
-8
-Relevant industry machine learning experience
-Proficiency in high-level ML frameworks such as TensorFlow and PyTorch
-Strong communication and collaboration skills

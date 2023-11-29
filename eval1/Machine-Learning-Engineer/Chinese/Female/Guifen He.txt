@@ -1,4 +1,0 @@
-8
-Bachelor of Science in Computer Science from a reputable university
-1+ year industry machine learning experience with successful project deployment
-Proficiency in Python, PyTorch, TensorFlow, and C++ programming languages

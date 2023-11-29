@@ -1,4 +1,0 @@
-8
-Strong foundation in computer science 
-Experience with Python, TensorFlow, and deep learning techniques
-Collaborative nature and effective communication skills

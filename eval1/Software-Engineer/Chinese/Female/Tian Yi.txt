@@ -1,4 +1,0 @@
-3
-Bachelor's in Computer Science with high GPA (3/10)
-Relevant work experience as a Software Engineer (5/10)
-Proficiency in Java, Python, and SQL (4/10)

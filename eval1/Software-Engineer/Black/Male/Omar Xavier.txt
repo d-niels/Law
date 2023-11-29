@@ -1,4 +1,0 @@
-7
-Bachelor's in Computer Science with a high GPA (3.9/4.0)
-Relevant work experience in software engineering roles
-Strong programming skills in Java, Python, C#, and JavaScript

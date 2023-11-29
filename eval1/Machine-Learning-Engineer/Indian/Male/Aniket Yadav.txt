@@ -1,4 +1,0 @@
-8
-Strong background in computer science
-Experience in model training and deployment
-Demonstrated understanding of deep neural net research

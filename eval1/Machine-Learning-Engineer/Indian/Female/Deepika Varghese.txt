@@ -1,4 +1,0 @@
-8
-Relevant work experience in machine learning 8/10
-Strong educational background in computer science 9/10
-Demonstrated knowledge of deep learning frameworks (TensorFlow, PyTorch) 7/10

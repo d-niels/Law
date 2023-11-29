@@ -1,4 +1,0 @@
-8
-Strong background in computer science and PyTorch expertise
-Experience developing and deploying state-of-the-art machine learning models
-Demonstrated excellent communication and collaboration skills in team-based projects

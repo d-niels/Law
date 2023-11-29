@@ -1,4 +1,0 @@
-8
-Bachelor of Science in Computer Science
-Experience developing advanced error tracking system
-Experience with SQL, Java, Python, and NoSQL databases

@@ -1,4 +1,0 @@
-8
-Strong background in computer science
-Experience with model training and deployment using TensorFlow and PyTorch
-Research experience in deep neural net research

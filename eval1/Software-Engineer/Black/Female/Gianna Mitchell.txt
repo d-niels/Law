@@ -1,4 +1,0 @@
-8
-Relevant work experience as a software engineer intern.
-Strong programming skills in Java, Python, C#, and JavaScript.
-Familiarity with database technologies, including SQL and NoSQL.

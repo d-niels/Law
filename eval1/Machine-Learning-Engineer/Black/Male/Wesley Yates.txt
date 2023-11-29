@@ -1,4 +1,0 @@
-4
-Lack of specific industry machine learning experience.
-Limited mention of experience deploying models into production.
-No mention of experience with high-level machine learning frameworks.

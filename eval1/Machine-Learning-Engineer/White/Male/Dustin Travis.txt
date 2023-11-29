@@ -1,4 +1,0 @@
-9
-Solid foundation in computer science
-Extensive experience with Python and TensorFlow
-Proven track record in implementing cutting-edge machine learning algorithms

@@ -1,4 +1,0 @@
-8
-Relevant coursework in Data Structures, Algorithms, Software Engineering 8/10
-Experience in developing automated testing scripts using Python 9/10
-Strong academic background with a GPA of 3.9/4.0 7/10

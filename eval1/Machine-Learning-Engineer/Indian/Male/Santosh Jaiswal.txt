@@ -1,4 +1,0 @@
-8
-Strong technical skills in deep learning frameworks (TensorFlow, PyTorch)
-Proven track record of working effectively in cross-functional teams
-Relevant experience in developing and deploying machine learning models

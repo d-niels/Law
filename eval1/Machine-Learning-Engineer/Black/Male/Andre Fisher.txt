@@ -1,4 +1,0 @@
-8
-Strong understanding of deep neural net research
-Experience with PyTorch and TensorFlow
-Relevant industry experience in machine learning

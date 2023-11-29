@@ -1,4 +1,0 @@
-7
-Relevant industry experience (Machine Learning Engineer)
-Strong technical skills (Python, C/C++, SQL, Git)
-Academic achievements (Bachelor's degree in Computer Science)

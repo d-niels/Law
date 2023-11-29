@@ -1,4 +1,0 @@
-8
-Strong background in computer science.
-Experience in developing and training machine learning models.
-Proficient in Python, PyTorch, and TensorFlow.

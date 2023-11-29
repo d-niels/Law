@@ -1,4 +1,0 @@
-2
-No industry machine learning experience (1-2 years required)
-No experience deploying a deep learning model into production
-No working knowledge of C++, Scala/Spark, R, Matlab, SQL, Cassandra, Docker

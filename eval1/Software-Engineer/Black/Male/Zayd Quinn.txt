@@ -1,4 +1,0 @@
-8
-GPA: 3.9/4.0
-Professional work experience in software engineering
-Strong programming skills in Java, Python, C#, and JavaScript

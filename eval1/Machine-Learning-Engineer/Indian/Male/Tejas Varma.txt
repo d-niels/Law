@@ -1,4 +1,0 @@
-8
-Relevant coursework in machine learning and data mining.
-Experience in developing and implementing deep neural network models.
-Strong collaboration skills demonstrated through teamwork and leadership roles.

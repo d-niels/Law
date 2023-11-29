@@ -1,4 +1,0 @@
-8
-Bachelor of Science in Computer Science (relevant degree)
-Successfully trained and deployed models for various projects (industry experience)
-Programming Languages: Python, C++, Source Control: Git (required skills)

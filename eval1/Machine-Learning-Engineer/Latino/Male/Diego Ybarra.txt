@@ -1,4 +1,0 @@
-3
-No mention of experience training and deploying deep learning models.
-Limited experience with high-level machine learning frameworks.
-Insufficient knowledge of statistical tests and common data science techniques.

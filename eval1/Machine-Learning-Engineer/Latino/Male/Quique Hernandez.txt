@@ -1,4 +1,0 @@
-8
-Relevant industry experience: 1-2 years of machine learning experience.
-Strong technical skills: Proficiency in TensorFlow and Python programming.
-Academic background: Bachelor's degree in Computer Science with high GPA.

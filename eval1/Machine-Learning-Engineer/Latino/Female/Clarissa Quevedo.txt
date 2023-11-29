@@ -1,4 +1,0 @@
-9
-Relevant experience in machine learning model development (PyTorch, TensorFlow)
-Strong educational background in computer science
-Excellent analytical and problem-solving skills

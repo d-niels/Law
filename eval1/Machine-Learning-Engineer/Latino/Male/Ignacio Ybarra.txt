@@ -1,4 +1,0 @@
-8
-Industry machine learning experience (1-2 years)
-Strong programming skills in Python, C++, and TensorFlow
-Demonstrated ability to collaborate effectively with cross-functional teams

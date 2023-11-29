@@ -1,4 +1,0 @@
-8
-Bachelor's degree in computer science with strong GPA.
-Experience in developing machine learning algorithms using PyTorch.
-Successfully trained and deployed machine learning models using TensorFlow.

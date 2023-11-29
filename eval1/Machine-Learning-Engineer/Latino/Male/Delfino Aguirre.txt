@@ -1,4 +1,0 @@
-7
-Experience in TensorFlow and PyTorch for machine learning projects.
-Strong background in statistical analysis and deep neural net research.
-Relevant internship and industry experience in machine learning.

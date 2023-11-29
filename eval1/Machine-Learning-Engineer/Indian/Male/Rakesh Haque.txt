@@ -1,4 +1,0 @@
-8
-Relevant industry experience: 1-2 years in machine learning (bullet point 3)
-Strong knowledge of high-level ML frameworks: Tensorflow, Caffe, Torch (bullet point 5)
-Excellent communication and collaboration skills (bullet point 7)

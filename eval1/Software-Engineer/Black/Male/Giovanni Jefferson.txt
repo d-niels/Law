@@ -1,4 +1,0 @@
-8
-Relevant coursework in computer science (3.9 GPA)
-Experience developing secure payment processing systems
-Strong programming skills in Java, Python, and JavaScript

@@ -1,4 +1,0 @@
-8
-Relevant degree: Bachelor of Science in Computer Science
-Professional experience as a Software Engineer
-Strong programming skills in Java, Python, and other languages

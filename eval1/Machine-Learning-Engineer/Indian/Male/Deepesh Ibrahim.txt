@@ -1,4 +1,0 @@
-8
-Relevant educational background in computer science with high GPA.
-Strong experience in developing machine learning models using Python.
-Demonstrated knowledge of deep neural networks and staying up to date with latest research.

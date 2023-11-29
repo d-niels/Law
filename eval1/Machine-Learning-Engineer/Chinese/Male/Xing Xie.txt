@@ -1,4 +1,0 @@
-8
-Strong educational background in computer science (Bachelor of Science).
-Relevant work experience as a Machine Learning Engineer.
-Proficiency in deep learning frameworks like TensorFlow and PyTorch.

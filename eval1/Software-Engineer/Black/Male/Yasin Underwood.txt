@@ -1,5 +1,0 @@
-7
-Resume Match: 7/10
-Relevant software engineering experience with focus on development and maintenance.
-Strong programming skills in Java, Python, C#, and JavaScript.
-Experience with databases, testing, debugging, and problem-solving techniques.

@@ -1,4 +1,0 @@
-4
-No mention of experience with secure payment systems.
-Limited mention of specific programming languages and technologies.
-No mention of experience with source control management tools.

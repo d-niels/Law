@@ -1,4 +1,0 @@
-9
-Strong machine learning experience and background in computer science.
-Proven ability to develop and deploy machine learning models.
-Experience with TensorFlow and statistical analysis of large datasets.

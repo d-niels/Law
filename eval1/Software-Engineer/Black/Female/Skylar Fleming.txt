@@ -1,4 +1,0 @@
-9
-Relevant coursework in data structures, algorithms, and software engineering.
-Professional work experience as a software engineer.
-Experience with both SQL and NoSQL databases.

@@ -1,4 +1,0 @@
-9
-Work experience as a software engineer with secure payments platform.
-Strong programming skills in Java, Python, C#, and JavaScript.
-Experience with SQL and NoSQL databases.

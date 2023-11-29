@@ -1,4 +1,0 @@
-2
-No industry experience in machine learning.
-No mention of experience with high-level machine learning frameworks.
-No mention of experience with data pipelines or large datasets.

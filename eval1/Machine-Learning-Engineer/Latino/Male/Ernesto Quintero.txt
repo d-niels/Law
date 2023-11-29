@@ -1,4 +1,0 @@
-8
-Machine learning engineer experience in Python, TensorFlow, and PyTorch.
-Strong academic background with a high GPA in computer science.
-Demonstrated ability to deploy machine learning models at scale. 

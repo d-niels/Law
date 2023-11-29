@@ -1,4 +1,0 @@
-9
-Strong programming language skills: Java, Python, C# (9/10)
-Experience in developing secure payment systems (8/10)
-Hands-on experience with SQL and NoSQL database technologies (7/10)

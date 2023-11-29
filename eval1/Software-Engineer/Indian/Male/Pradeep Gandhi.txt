@@ -1,4 +1,0 @@
-7
-GPA: 3.9
-Experience in secure payment systems development
-Familiarity with Java, Python, SQL, and NoSQL databases

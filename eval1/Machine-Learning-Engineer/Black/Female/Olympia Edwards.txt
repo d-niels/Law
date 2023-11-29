@@ -1,4 +1,0 @@
-8
-Strong academic background in computer science
-Demonstrated experience in developing machine learning models
-Proficiency in Python, C++, and deep learning frameworks

@@ -1,4 +1,0 @@
-8
-Strong experience with high-level machine learning frameworks (Tensorflow, Caffe, Torch)
-Successfully deployed machine learning models into production environments
-Bachelor's degree in Computer Science with significant coursework in mathematics or statistics

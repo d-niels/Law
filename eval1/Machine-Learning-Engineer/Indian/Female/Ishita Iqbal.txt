@@ -1,4 +1,0 @@
-8
-Strong background in computer science
-Experience in developing machine learning algorithms using PyTorch and TensorFlow
-Demonstrated ability to collaborate with cross-functional teams

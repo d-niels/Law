@@ -1,4 +1,0 @@
-7
-Strong background in computer science.
-Experience developing and implementing machine learning models.
-Proficient in Python and deep learning frameworks.

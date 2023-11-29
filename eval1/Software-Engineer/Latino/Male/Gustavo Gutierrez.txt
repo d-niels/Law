@@ -1,4 +1,0 @@
-8
-Bachelor's degree in Computer Science 8/10
-Experience in developing secure payment systems 9/10
-Proficiency in Java, Python, and NoSQL databases 9/10

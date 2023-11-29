@@ -1,4 +1,0 @@
-9
-Relevant industry experience
-Strong background in computer science
-Demonstrated ability to train and deploy deep learning models

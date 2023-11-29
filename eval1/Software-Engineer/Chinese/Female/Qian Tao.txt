@@ -1,4 +1,0 @@
-4
-Lacks experience in the required programming languages
-Limited exposure to relevant database technologies
-No mention of security or fraud prevention experience

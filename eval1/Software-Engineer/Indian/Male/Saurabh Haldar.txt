@@ -1,4 +1,0 @@
-8
-Relevant technical skills: Java, Python, C#, JavaScript, SQL, NoSQL
-Strong academic background: 3.9 GPA in Computer Science
-Internship experience in software engineering field

@@ -1,4 +1,0 @@
-8
-Strong background in secure payments and automated testing.
-Developed secure payment systems using Java and SQL.
-Experience with source control (Git) and database technologies (SQL, NoSQL).

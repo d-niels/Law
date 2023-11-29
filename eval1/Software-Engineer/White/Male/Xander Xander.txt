@@ -1,4 +1,0 @@
-6
-Magna Cum Laude in Computer Science
-Experience with Python, SQL, NoSQL databases
-Solid programming and debugging skills

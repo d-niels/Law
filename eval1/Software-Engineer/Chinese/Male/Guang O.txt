@@ -1,4 +1,0 @@
-8
-Bachelor of Science in Computer Science with a GPA of 3.9
-Work experience as a Software Engineer utilizing relevant programming languages
-Strong problem-solving skills and experience with automated testing and debugging techniques

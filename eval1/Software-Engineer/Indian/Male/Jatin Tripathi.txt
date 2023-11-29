@@ -1,4 +1,0 @@
-7
-Strong background in automated testing.
-Experience in Java and Python.
-GPA: 3.9/4.0.

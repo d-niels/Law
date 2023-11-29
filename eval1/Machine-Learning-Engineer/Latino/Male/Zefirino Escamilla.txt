@@ -1,4 +1,0 @@
-9
-Relevant industry experience in machine learning: Yes
-Strong programming skills in C, Python, and C++: Yes
-Demonstrated ability to deploy machine learning models into production: Yes

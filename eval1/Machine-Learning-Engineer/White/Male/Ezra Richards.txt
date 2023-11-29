@@ -1,4 +1,0 @@
-7
-Machine learning experience with deep neural networks (bullet 2)
-Strong programming skills in Python and C++ (bullet 3)
-Relevant education in computer science (education section)

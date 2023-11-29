@@ -1,4 +1,0 @@
-8
-Relevant industry experience
-Strong programming skills in C, Python, and C++
-In-depth knowledge of machine learning frameworks

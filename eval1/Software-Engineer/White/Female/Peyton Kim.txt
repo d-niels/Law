@@ -1,4 +1,0 @@
-8
-Bachelor's degree in Computer Science from Austin Tech University (8/10)
-Experience in developing and implementing automated testing procedures (9/10)
-Strong programming skills in Java, Python, C#, and JavaScript (9/10)

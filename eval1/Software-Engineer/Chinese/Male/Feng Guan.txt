@@ -1,4 +1,0 @@
-7
-Relevant work experience in software engineering and secure payments (7/10)
-Strong programming skills in Java, Python, C#, and JavaScript (9/10)
-Demonstrated ability to conduct automated testing and debug software (8/10)

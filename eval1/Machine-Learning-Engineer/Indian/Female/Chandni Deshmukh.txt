@@ -1,4 +1,0 @@
-9
-Solid background in computer science and understanding of deep neural net research.
-Demonstrated proficiency in PyTorch and deep learning techniques.
-Strong problem-solving and analytical skills.

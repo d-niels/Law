@@ -1,4 +1,0 @@
-9
-Experience training and deploying deep learning models into production.
-Strong knowledge of high-level machine learning frameworks such as Tensorflow.
-Bachelor's degree in Computer Science with a focus on mathematics and statistics.

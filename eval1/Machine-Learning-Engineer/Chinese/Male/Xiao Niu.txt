@@ -1,4 +1,0 @@
-9
-Bachelor of Science in Computer Science, GPA: 3.9/4.0
-1-2 years industry machine learning experience
-Strong experience with high-level machine learning frameworks (Tensorflow, Caffe, Torch)

@@ -1,4 +1,0 @@
-8
-Strong analytical and problem-solving skills
-Experience developing secure payment systems
-Proficient in Java, Python, and SQL

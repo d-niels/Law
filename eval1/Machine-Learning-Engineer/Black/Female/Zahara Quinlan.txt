@@ -1,4 +1,0 @@
-8
-Academic background in relevant coursework: Machine Learning, Artificial Intelligence.
-Experience utilizing deep learning frameworks: TensorFlow, PyTorch.
-Strong programming skills in C, Python, and C++. 

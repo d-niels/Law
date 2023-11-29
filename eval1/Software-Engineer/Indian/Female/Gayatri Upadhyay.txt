@@ -1,4 +1,0 @@
-8
-Relevant work experience in secure payments and e-commerce.
-Strong programming skills in Java, Python, C#, and JavaScript.
-Demonstrated ability to debug complex software issues and employ testing techniques.

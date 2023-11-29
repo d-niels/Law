@@ -1,4 +1,0 @@
-8
-Significant coursework in mathematics or statistics
-Successful training and deployment of deep learning machine models
-Experience in data preprocessing and model integration

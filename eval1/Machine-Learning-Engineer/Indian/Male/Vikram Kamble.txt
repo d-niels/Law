@@ -1,4 +1,0 @@
-9
-Strong background in Computer Science
-Experience with TensorFlow and PyTorch
-Excellent communication and collaboration abilities

@@ -1,4 +1,0 @@
-9
-Strong academic background in computer science (3.9 GPA)
-Industry experience in developing and deploying deep learning models
-Proficiency in high-level machine learning frameworks like TensorFlow and Python

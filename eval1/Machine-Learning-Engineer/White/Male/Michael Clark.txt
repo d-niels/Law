@@ -1,4 +1,0 @@
-9
-Strong background in understanding deep neural net research (✔)
-Extensive experience in Python for model training and deployment (✔)
-Collaborative team player with effective communication skills (✔)

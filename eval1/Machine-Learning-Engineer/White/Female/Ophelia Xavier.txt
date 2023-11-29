@@ -1,4 +1,0 @@
-8
-Bachelor's degree in Computer Science, 3.9 GPA
-1-2 years industry machine learning experience
-Strong background in Python and deep learning frameworks

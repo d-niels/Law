@@ -1,4 +1,0 @@
-8
-GPA: 3.9
-Relevant work experience: Software Engineer at Zenith Technologies
-Programming skills: Java, Python, C#, JavaScript

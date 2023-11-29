@@ -1,4 +1,0 @@
-8
-Bachelor of Science in Computer Science (Major in Machine Learning)
-1-2 years industry machine learning experience
-Strong experience with high-level machine learning frameworks

@@ -1,4 +1,0 @@
-8
-Strong educational background in computer science (Bachelor of Science)
-Relevant work experience in machine learning and deep learning
-Demonstrated programming skills in Python and C++ 

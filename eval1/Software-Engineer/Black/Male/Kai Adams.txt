@@ -1,4 +1,0 @@
-8
-Relevant coursework in data structures, algorithms, and software engineering.
-Experience developing scalable databases using NoSQL and automated testing techniques.
-Strong programming skills in Java, Python, and JavaScript.

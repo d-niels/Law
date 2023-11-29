@@ -1,4 +1,0 @@
-7
-Relevant experience in developing and training machine learning models.
-Strong knowledge of deep learning frameworks such as PyTorch and TensorFlow.
-Demonstrated ability to collaborate with cross-functional teams and stakeholders.

@@ -1,4 +1,0 @@
-8
-Bachelor of Science in Computer Science (GPA: 3.9)
-Developed and deployed machine learning models with improved accuracy
-Proficient in C++ for performance optimization

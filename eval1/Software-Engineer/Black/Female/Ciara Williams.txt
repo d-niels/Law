@@ -1,4 +1,0 @@
-8
-Bachelor's in Computer Science (3.9 GPA)
-Experience in Java, Python, C#, and JavaScript
-Proven track record of reducing bugs and optimizing applications

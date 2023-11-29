@@ -1,4 +1,0 @@
-8
-Machine learning experience in industry
-Proficiency in TensorFlow and PyTorch
-Strong academic background in computer science

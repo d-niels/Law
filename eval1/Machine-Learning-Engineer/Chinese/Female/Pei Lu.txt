@@ -1,4 +1,0 @@
-8
-Strong machine learning experience with TensorFlow, Python, and statistical analysis.
-Relevant work experience as a Machine Learning Engineer.
-Demonstrated collaboration and communication skills in cross-functional teams.

@@ -1,4 +1,0 @@
-3
-Lack of relevant work experience.
-Limited exposure to source control management (git).
-No mention of experience with deployment and task management tools.

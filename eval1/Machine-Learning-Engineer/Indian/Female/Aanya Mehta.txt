@@ -1,4 +1,0 @@
-9
-Strong background in Deep Learning
-Developed and implemented Deep Learning models using Python and PyTorch
-Worked as a team player in collaborative projects

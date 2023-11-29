@@ -1,4 +1,0 @@
-3
-No previous experience deploying deep learning models into production
-Limited experience with high-level machine learning frameworks
-Lack of familiarity with C++ and other relevant technologies

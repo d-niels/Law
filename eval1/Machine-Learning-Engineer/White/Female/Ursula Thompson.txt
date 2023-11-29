@@ -1,4 +1,0 @@
-8
-Proficient in Python, C++, and various machine learning frameworks.
-Relevant experience in developing deep neural net algorithms.
-Strong academic background in computer science. 

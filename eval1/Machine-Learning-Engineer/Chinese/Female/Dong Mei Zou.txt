@@ -1,4 +1,0 @@
-7
-Solid background in computer science with a high GPA
-Experience in developing machine learning models using PyTorch and C++
-Internship in machine learning engineering using TensorFlow

@@ -1,4 +1,0 @@
-8
-Relevant coursework in computer science.
-Internship experience in software engineering.
-Strong programming skills in Java, Python, and JavaScript.

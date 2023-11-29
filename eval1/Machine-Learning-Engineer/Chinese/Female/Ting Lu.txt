@@ -1,4 +1,0 @@
-8
-Extensive background in computer science and deep learning (8/10)
-Experience developing machine learning models using C++, Python, TensorFlow (9/10)
-Strong problem-solving skills and ability to work in a fast-paced environment (7/10)

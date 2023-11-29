@@ -1,4 +1,0 @@
-8
-Bachelor of Science in Computer Science with 3.9 GPA.
-Experience in Model Training and Deployment using PyTorch and TensorFlow.
-Demonstrated problem-solving skills and effective collaboration in previous roles.

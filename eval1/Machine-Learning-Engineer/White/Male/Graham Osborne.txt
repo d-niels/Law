@@ -1,4 +1,0 @@
-8
-StellarTech Solutions experience: 3 years as ML Engineer. 
-Strong academic background: Bachelor's in Computer Science (GPA: 3.9).
-Demonstrated Python and TensorFlow expertise.

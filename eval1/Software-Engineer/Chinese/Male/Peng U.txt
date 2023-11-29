@@ -1,4 +1,0 @@
-8
-Strong background in computer science (relevant degree)
-Project-based experience in Java, Python, and SQL
-Experience with NoSQL databases and automated testing methodologies

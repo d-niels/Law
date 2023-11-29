@@ -1,4 +1,0 @@
-1
-Strong academic background in Computer Science 10/10
-Experience with deep neural net models and machine learning algorithms 10/10
-Demonstrated expertise in Python and TensorFlow 10/10

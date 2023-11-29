@@ -1,4 +1,0 @@
-3
-Degree in Computer Science with high GPA (3/10)
-Experience implementing machine learning models using TensorFlow and PyTorch (4/10)
-Collaborative skills and ability to communicate complex concepts (3/10)

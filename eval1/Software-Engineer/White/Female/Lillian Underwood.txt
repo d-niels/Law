@@ -1,4 +1,0 @@
-9
-GPA: 3.9/4.0
-Experience with Python and SQL in secure payment systems
-Developed automated testing framework resulting in 30% testing time reduction

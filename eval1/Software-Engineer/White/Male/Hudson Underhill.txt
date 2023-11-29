@@ -1,4 +1,0 @@
-8
-Relevant work experience as a software engineer (Score: 8/10)
-Strong programming skills in Java, Python, and JavaScript (Score: 9/10)
-Experience with database technologies and automated testing (Score: 7/10)

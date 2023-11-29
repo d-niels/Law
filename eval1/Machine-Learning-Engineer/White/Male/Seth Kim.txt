@@ -1,4 +1,0 @@
-7
-Strong background in computer science.
-Experienced in handling and processing data for statistical analysis.
-Proficient in Python and C++ programming languages.

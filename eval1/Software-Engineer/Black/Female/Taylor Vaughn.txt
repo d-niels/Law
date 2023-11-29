@@ -1,4 +1,0 @@
-8
-Strong programming skills in Java, Python, C#, and JavaScript.
-Experience in database technologies (SQL, NoSQL) and source control (Git).
-Active involvement in diversity and inclusion initiatives as a black female software engineer.

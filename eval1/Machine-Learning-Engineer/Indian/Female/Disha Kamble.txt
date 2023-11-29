@@ -1,4 +1,0 @@
-7
-Relevant industry experience (Machine Learning Engineer at IntelliTech AI)
-Strong technical skills (TensorFlow, C++, PyTorch)
-Leadership experience (President of Women in Technology at San Francisco State University)

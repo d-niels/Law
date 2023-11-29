@@ -1,4 +1,0 @@
-9
-Relevant degree in computer science with high academic achievement
-Experience developing and implementing machine learning algorithms
-Strong programming skills in Python and proficiency in deep neural net research

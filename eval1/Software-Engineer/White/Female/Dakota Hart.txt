@@ -1,4 +1,0 @@
-8
-3.9 GPA in Computer Science X/10
-Experience with Java, Python, C#, and JavaScript X/10
-Internship and work experience in software engineering X/10

@@ -1,4 +1,0 @@
-8
-GPA: 3.9
-1+ years of relevant work experience
-Skills: Java, Python, SQL, NoSQL databases

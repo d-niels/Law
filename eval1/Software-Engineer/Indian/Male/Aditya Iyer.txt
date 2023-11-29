@@ -1,4 +1,0 @@
-4
-Relevant internship experience in software engineering (4/10)
-Strong programming skills in Java, Python, and JavaScript (3/10)
-Experience with database technologies and automated testing (3/10)

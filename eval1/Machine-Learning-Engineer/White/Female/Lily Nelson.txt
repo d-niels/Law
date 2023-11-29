@@ -1,4 +1,0 @@
-8
-Bachelor of Science in Computer Science (relevant degree)
-Machine Learning Engineer at Starlight Technologies (relevant work experience)
-Utilized TensorFlow for model training and deployment (relevant technical skills)

@@ -1,4 +1,0 @@
-8
-Extensive understanding of deep neural net research
-Strong communicator and collaborator
-Proficient in Python and statistical analysis

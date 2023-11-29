@@ -1,4 +1,0 @@
-8
-Bachelor's degree in Computer Science with a GPA of 3.9/4.0.
-Experience in developing an ecommerce platform and a secure payment system.
-Strong programming skills in Java, Python, C#, and JavaScript.

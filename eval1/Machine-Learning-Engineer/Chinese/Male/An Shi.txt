@@ -1,4 +1,0 @@
-9
-Relevant industry experience as a Machine Learning Engineer: ✔️
-Strong background in computer science: ✔️
-Experience with high-level machine learning frameworks (TensorFlow, Caffe, Torch): ✔️

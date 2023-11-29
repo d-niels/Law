@@ -1,4 +1,0 @@
-9
-Solid educational background in computer science (Bachelor's degree)
-Experience as a machine learning engineer
-Proficiency in Python and working knowledge of TensorFlow

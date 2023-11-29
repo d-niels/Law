@@ -1,4 +1,0 @@
-8
-Relevant degree in computer science with strong GPA. 
-Prior industry experience in machine learning.
-Proficiency in Python, PyTorch, C++, and TensorFlow.

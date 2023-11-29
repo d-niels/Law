@@ -1,4 +1,0 @@
-8
-Strong technical background in computer science (GPA: 3.9)
-Experience in developing machine learning models using C++, TensorFlow, and PyTorch
-Demonstrated problem-solving skills in research and data analysis

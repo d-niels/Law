@@ -1,4 +1,0 @@
-8
-Relevant coursework: Algorithms, Data Structures, Software Engineering.
-Software Engineering Internship at TechSolutions Inc.
-Strong programming skills in Java, Python, and JavaScript.

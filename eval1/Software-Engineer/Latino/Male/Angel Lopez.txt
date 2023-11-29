@@ -1,4 +1,0 @@
-8
-Stellar academic performance: 3.9 GPA in Computer Science.
-Relevant work experience: Software Engineer at StellarSoft Innovations.
-Proficiency in key programming languages: Java, Python, and C#.

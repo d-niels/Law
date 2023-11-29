@@ -1,4 +1,0 @@
-8
-High Honors graduation from Texas Tech University. 
-Strong programming skills in Java, Python, and C#. 
-Experience in developing and maintaining SQL and NoSQL databases.

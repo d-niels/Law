@@ -1,4 +1,0 @@
-9
-Bachelor of Science in Computer Science (3.9 GPA)
-Software Engineering Internship with automated testing and database optimization
-Strong programming skills in Java, Python, and JavaScript

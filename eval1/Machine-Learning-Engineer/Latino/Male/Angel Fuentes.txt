@@ -1,4 +1,0 @@
-8
-Relevant academic background in computer science: GPA 3.9/4.0
-Experience in developing and implementing machine learning models
-Strong programming skills in Python and deep learning frameworks

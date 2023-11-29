@@ -1,4 +1,0 @@
-8
-Relevant industry experience: 1-2 years industry machine learning experience.
-Strong technical skills: Implemented cutting-edge machine learning models using TensorFlow and PyTorch.
-Education qualifications: Bachelor of Science in Computer Science with a GPA of 3.9/4.0.

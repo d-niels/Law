@@ -1,4 +1,0 @@
-8
-Strong academic background in computer science with high GPA.
-1-2 years of industry machine learning experience.
-Proficiency in Deep Learning techniques and frameworks (TensorFlow, PyTorch).

@@ -1,4 +1,0 @@
-8
-Relevant coursework in algorithms and data structures
-Experience with programming in Java, Python, and JavaScript
-Strong analytical skills and debugging techniques

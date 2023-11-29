@@ -1,4 +1,0 @@
-8
-strong experience with high-level machine learning frameworks
-experience training and deploying deep learning models into production
-involvement in research projects utilizing PyTorch and TensorFlow

@@ -1,4 +1,0 @@
-8
-GPA: 3.9/4.0
-Led implementation of automated testing procedures.
-Developed secure payment systems for e-commerce platforms.
